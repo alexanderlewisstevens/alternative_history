@@ -10,11 +10,11 @@ This index is generated from curated source metadata and local extraction audit 
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Curated Text Nodes</div>
-  <div class="ah-metric-value">156</div>
+  <div class="ah-metric-value">158</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Assembled Chunks</div>
-  <div class="ah-metric-value">156</div>
+  <div class="ah-metric-value">158</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Constellations</div>
@@ -181,7 +181,9 @@ This index is generated from curated source metadata and local extraction audit 
 | [Between Men and Epistemology of the Closet](sedgwick-between-men-epistemology-closet.md) | Eve Kosofsky Sedgwick | 2478-2488 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 11 | `edition-review-needed` |
 | [Subculture: The Meaning of Style](hebdige-subculture-meaning-style.md) | Dick Hebdige | 2492-2501 | [signs-and-reading](../signs-and-reading.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 10 | `edition-review-needed` |
 | [Against Theory](knapp-michaels-against-theory.md) | Steven Knapp and Walter Benn Michaels | 2504-2518 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 15 | `edition-review-needed` |
-| [Postmodern Blackness](hooks-postmodern-blackness.md) | bell hooks | 2522-2527 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 6 | `edition-review-needed` |
+| [Postmodern Blackness](hooks-postmodern-blackness.md) | bell hooks | 2522-2528 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 7 | `edition-review-needed` |
+| [Gender Trouble](butler-gender-trouble.md) | Judith Butler | 2532-2545 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 14 | `edition-review-needed` |
+| [You Say You Want a Revolution? Hypertext and the Laws of Media](moulthrop-hypertext-laws-media.md) | Stuart Moulthrop | 2548-2568 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[media-and-form](../media-and-form.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 21 | `edition-review-needed` |
 
 ## How To Use This Index
 
@@ -208,7 +210,7 @@ This index is generated from curated source metadata and local extraction audit 
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T07:13:48Z` |
-| Git commit | `525b073` |
+| Generated at | `2026-06-13T07:19:08Z` |
+| Git commit | `e8608c4` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/index.md` |

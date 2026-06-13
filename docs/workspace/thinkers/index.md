@@ -85,6 +85,7 @@ This private index is generated from curated source metadata and local extractio
 | [John Crowe Ransom](john-crowe-ransom.md) | 1 | Criticism, Inc. |
 | [John Dryden](john-dryden.md) | 1 | Selected Critical Prose |
 | [Joseph Addison](joseph-addison.md) | 1 | The Spectator, Nos. 62 and 412 |
+| [Judith Butler](judith-butler.md) | 1 | Gender Trouble |
 | [Julia Kristeva](julia-kristeva.md) | 1 | Revolution in Poetic Language |
 | [Jurgen Habermas](jurgen-habermas.md) | 2 | The Structural Transformation of the Public Sphere, Modernity - An Incomplete Project |
 | [Karl Marx and Friedrich Engels](karl-marx-and-friedrich-engels.md) | 1 | Selected Cultural and Historical Writings |
@@ -132,6 +133,7 @@ This private index is generated from curated source metadata and local extractio
 | [Stephen Greenblatt](stephen-greenblatt.md) | 1 | Introduction to The Power of Forms in the English Renaissance |
 | [Steven Knapp and Walter Benn Michaels](steven-knapp-and-walter-benn-michaels.md) | 1 | Against Theory |
 | [Stuart Hall](stuart-hall.md) | 1 | Cultural Studies and Its Theoretical Legacies |
+| [Stuart Moulthrop](stuart-moulthrop.md) | 1 | You Say You Want a Revolution? Hypertext and the Laws of Media |
 | [Susan Bordo](susan-bordo.md) | 1 | Unbearable Weight: Feminism, Western Culture, and the Body |
 | [T. S. Eliot](t-s-eliot.md) | 2 | Tradition and the Individual Talent, The Metaphysical Poets |
 | [Terry Eagleton](terry-eagleton.md) | 1 | Literary Theory: An Introduction |
@@ -169,7 +171,7 @@ This private index is generated from curated source metadata and local extractio
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
-| Generated at | `2026-06-13T07:13:38Z` |
-| Git commit | `525b073` |
+| Generated at | `2026-06-13T07:18:57Z` |
+| Git commit | `e8608c4` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/index.md` |

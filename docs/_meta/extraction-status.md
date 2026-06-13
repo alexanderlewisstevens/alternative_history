@@ -5,19 +5,19 @@ This page is generated from audit artifacts. It intentionally contains metadata 
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Classified Pages</div>
-  <div class="ah-metric-value">71-2527</div>
+  <div class="ah-metric-value">71-2607</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Page Records</div>
-  <div class="ah-metric-value">2457</div>
+  <div class="ah-metric-value">2537</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Thinker Drafts</div>
-  <div class="ah-metric-value">138</div>
+  <div class="ah-metric-value">141</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Review Rows</div>
-  <div class="ah-metric-value">2225</div>
+  <div class="ah-metric-value">2305</div>
 </div>
 </div>
 
@@ -45,21 +45,21 @@ This page is generated from audit artifacts. It intentionally contains metadata 
 | Artifact | Count | Location |
 | --- | ---: | --- |
 | Sliced PDFs | 2668 | `Norton_Anthology_Sliced_Author` |
-| Layout records | 2457 | `work/layout/norton-theory-criticism/layout.jsonl` |
-| Classification records | 2457 | `work/classification/norton-theory-criticism/page-classifications.jsonl` |
-| Review queue rows | 2225 | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
-| Page records | 2457 | `work/page-records/norton-theory-criticism` |
-| Page-generation audit rows | 2457 | `work/audit/norton-theory-criticism/page-record-generation.csv` |
-| Thinker drafts | 138 | `generated/authors/norton-theory-criticism` |
-| Thinker-assembly audit rows | 138 | `work/audit/norton-theory-criticism/author-assembly.csv` |
+| Layout records | 2537 | `work/layout/norton-theory-criticism/layout.jsonl` |
+| Classification records | 2537 | `work/classification/norton-theory-criticism/page-classifications.jsonl` |
+| Review queue rows | 2305 | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
+| Page records | 2537 | `work/page-records/norton-theory-criticism` |
+| Page-generation audit rows | 2537 | `work/audit/norton-theory-criticism/page-record-generation.csv` |
+| Thinker drafts | 141 | `generated/authors/norton-theory-criticism` |
+| Thinker-assembly audit rows | 141 | `work/audit/norton-theory-criticism/author-assembly.csv` |
 
 ## Classified Range
 
 | Field | Value |
 | --- | --- |
-| Classified source pages | `71-2527` |
-| Status page generated at | `2026-06-13T07:13:37Z` |
-| Git commit | `525b073` |
+| Classified source pages | `71-2607` |
+| Status page generated at | `2026-06-13T07:18:56Z` |
+| Git commit | `e8608c4` |
 | Script version | `1` |
 | Output path | `docs/_meta/extraction-status.md` |
 
@@ -78,7 +78,7 @@ This page is generated from audit artifacts. It intentionally contains metadata 
 | barbara-herrnstein-smith | 22 | 1954-1975 | ok | generated/authors/norton-theory-criticism/barbara-herrnstein-smith.md |
 | barbara-johnson | 22 | 2360-2381 | ok | generated/authors/norton-theory-criticism/barbara-johnson.md |
 | barbara-smith | 17 | 2343-2359 | ok | generated/authors/norton-theory-criticism/barbara-smith.md |
-| bell-hooks | 9 | 2519-2527 | ok | generated/authors/norton-theory-criticism/bell-hooks.md |
+| bell-hooks | 10 | 2519-2528 | ok | generated/authors/norton-theory-criticism/bell-hooks.md |
 | bonnie-zimmerman | 22 | 2382-2403 | ok | generated/authors/norton-theory-criticism/bonnie-zimmerman.md |
 | boris-eichenbaum | 30 | 1102-1131 | ok | generated/authors/norton-theory-criticism/boris-eichenbaum.md |
 | carl-gustav-jung | 15 | 1031-1045 | ok | generated/authors/norton-theory-criticism/carl-gustav-jung.md |
@@ -143,6 +143,7 @@ This page is generated from audit artifacts. It intentionally contains metadata 
 | john-crowe-ransom | 13 | 1149-1161 | ok | generated/authors/norton-theory-criticism/john-crowe-ransom.md |
 | john-dryden | 9 | 421-429 | ok | generated/authors/norton-theory-criticism/john-dryden.md |
 | joseph-addison | 10 | 458-467 | ok | generated/authors/norton-theory-criticism/joseph-addison.md |
+| judith-butler | 17 | 2529-2545 | ok | generated/authors/norton-theory-criticism/judith-butler.md |
 | julia-kristeva | 14 | 2209-2222 | ok | generated/authors/norton-theory-criticism/julia-kristeva.md |
 | jurgen-habermas | 18 | 1785-1802 | ok | generated/authors/norton-theory-criticism/jurgen-habermas.md |
 | karl-marx-and-friedrich-engels | 30 | 801-830 | ok | generated/authors/norton-theory-criticism/karl-marx-and-friedrich-engels.md |
@@ -185,11 +186,13 @@ This page is generated from audit artifacts. It intentionally contains metadata 
 | sigmund-freud | 43 | 957-999 | ok | generated/authors/norton-theory-criticism/sigmund-freud.md |
 | simone-de-beauvoir | 12 | 1447-1458 | ok | generated/authors/norton-theory-criticism/simone-de-beauvoir.md |
 | sir-philip-sidney | 40 | 365-404 | ok | generated/authors/norton-theory-criticism/sir-philip-sidney.md |
+| source-back-matter | 6 | 2570-2607 | ok | generated/authors/norton-theory-criticism/source-back-matter.md |
 | stanley-e-fish | 22 | 2111-2132 | ok | generated/authors/norton-theory-criticism/stanley-e-fish.md |
 | stephane-mallarme | 10 | 883-892 | ok | generated/authors/norton-theory-criticism/stephane-mallarme.md |
 | stephen-greenblatt | 5 | 2294-2298 | ok | generated/authors/norton-theory-criticism/stephen-greenblatt.md |
 | steven-knapp-and-walter-benn-michaels | 17 | 2502-2518 | ok | generated/authors/norton-theory-criticism/steven-knapp-and-walter-benn-michaels.md |
 | stuart-hall | 15 | 1939-1953 | ok | generated/authors/norton-theory-criticism/stuart-hall.md |
+| stuart-moulthrop | 56 | 2546-2603 | ok | generated/authors/norton-theory-criticism/stuart-moulthrop.md |
 | susan-bordo | 17 | 2404-2420 | ok | generated/authors/norton-theory-criticism/susan-bordo.md |
 | t-s-eliot | 17 | 1132-1148 | ok | generated/authors/norton-theory-criticism/t-s-eliot.md |
 | terry-eagleton | 10 | 2284-2293 | ok | generated/authors/norton-theory-criticism/terry-eagleton.md |
@@ -210,18 +213,21 @@ This page is generated from audit artifacts. It intentionally contains metadata 
 
 | Review reason | Pages |
 | --- | ---: |
-| mixed_bibliography_and_work_title | 949 |
+| mixed_bibliography_and_work_title | 990 |
 | mixed_work_transition_page | 658 |
 | mixed_author_transition_page | 446 |
-| transition_from_previous_author | 427 |
+| transition_from_previous_author | 432 |
 | multi_column_layout | 357 |
 | source_notes_detected | 314 |
 | mixed_transition_page | 68 |
+| back_matter | 39 |
+| selected_bibliography | 39 |
 | selection_boundary_review | 34 |
+| running_head_differs_from_author_context | 33 |
 | layout_review_required | 23 |
 | author_boundary_without_life_dates | 20 |
-| continues_beyond_current_batch | 20 |
 | bibliography_on_previous_page | 15 |
+| continues_beyond_current_batch | 14 |
 | mixed_excerpt_and_bibliography | 9 |
 | ocr_title_cleanup | 2 |
 | transition_from_previous_work | 2 |

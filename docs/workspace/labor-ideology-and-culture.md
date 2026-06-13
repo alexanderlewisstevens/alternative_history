@@ -84,7 +84,9 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/sedgwick-between-men-epistemology-closet/"><strong>Eve Kosofsky Sedgwick, Between Men and Epistemology of the Closet</strong><span>queer-theory, sexuality, gender; pages 2478-2488; 11 review rows</span></a>
   <a href="../norton-texts/hebdige-subculture-meaning-style/"><strong>Dick Hebdige, Subculture: The Meaning of Style</strong><span>cultural-studies, subculture, style; pages 2492-2501; 10 review rows</span></a>
   <a href="../norton-texts/knapp-michaels-against-theory/"><strong>Steven Knapp and Walter Benn Michaels, Against Theory</strong><span>interpretation, pragmatism, intention; pages 2504-2518; 15 review rows</span></a>
-  <a href="../norton-texts/hooks-postmodern-blackness/"><strong>bell hooks, Postmodern Blackness</strong><span>black-feminism, postmodernism, identity; pages 2522-2527; 6 review rows</span></a>
+  <a href="../norton-texts/hooks-postmodern-blackness/"><strong>bell hooks, Postmodern Blackness</strong><span>black-feminism, postmodernism, identity; pages 2522-2528; 7 review rows</span></a>
+  <a href="../norton-texts/butler-gender-trouble/"><strong>Judith Butler, Gender Trouble</strong><span>queer-theory, gender, performativity; pages 2532-2545; 14 review rows</span></a>
+  <a href="../norton-texts/moulthrop-hypertext-laws-media/"><strong>Stuart Moulthrop, You Say You Want a Revolution? Hypertext and the Laws of Media</strong><span>hypertext, media-theory, digital-culture; pages 2548-2568; 21 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -159,6 +161,8 @@ This is a scaffold for reading the configured texts together. It should become a
 60. [Dick Hebdige, Subculture: The Meaning of Style](norton-texts/hebdige-subculture-meaning-style.md)
 61. [Steven Knapp and Walter Benn Michaels, Against Theory](norton-texts/knapp-michaels-against-theory.md)
 62. [bell hooks, Postmodern Blackness](norton-texts/hooks-postmodern-blackness.md)
+63. [Judith Butler, Gender Trouble](norton-texts/butler-gender-trouble.md)
+64. [Stuart Moulthrop, You Say You Want a Revolution? Hypertext and the Laws of Media](norton-texts/moulthrop-hypertext-laws-media.md)
 
 ## Review Pressure
 
@@ -225,7 +229,9 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Between Men and Epistemology of the Closet](norton-texts/sedgwick-between-men-epistemology-closet.md) | 2478-2488 | 11 | excerpt: 11 |
 | [Subculture: The Meaning of Style](norton-texts/hebdige-subculture-meaning-style.md) | 2492-2501 | 10 | excerpt: 10 |
 | [Against Theory](norton-texts/knapp-michaels-against-theory.md) | 2504-2518 | 15 | excerpt: 15 |
-| [Postmodern Blackness](norton-texts/hooks-postmodern-blackness.md) | 2522-2527 | 6 | excerpt: 6 |
+| [Postmodern Blackness](norton-texts/hooks-postmodern-blackness.md) | 2522-2528 | 7 | excerpt: 7 |
+| [Gender Trouble](norton-texts/butler-gender-trouble.md) | 2532-2545 | 14 | excerpt: 14 |
+| [You Say You Want a Revolution? Hypertext and the Laws of Media](norton-texts/moulthrop-hypertext-laws-media.md) | 2548-2568 | 21 | excerpt: 21 |
 
 ## Passage Queue
 
@@ -279,8 +285,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T07:13:35Z` |
-| Git commit | `525b073` |
+| Generated at | `2026-06-13T07:18:54Z` |
+| Git commit | `e8608c4` |
 | Script version | `2` |
 | Output path | `docs/workspace/labor-ideology-and-culture.md` |
 

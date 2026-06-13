@@ -92,8 +92,8 @@ This note turns the current Norton chunk for Cleanth Brooks into a navigable wor
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/cleanth-brooks.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T07:13:46Z` |
-| Git commit | `525b073` |
+| Generated at | `2026-06-13T07:19:05Z` |
+| Git commit | `e8608c4` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/brooks-well-wrought-urn.md` |
 

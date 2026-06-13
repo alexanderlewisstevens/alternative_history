@@ -20,11 +20,11 @@ This note turns the current Norton chunk for bell hooks into a navigable workspa
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Chunk Status</span>
-  <h3>Norton Pages 2522-2527</h3>
-  <p><strong>Page count:</strong> 6</p>
+  <h3>Norton Pages 2522-2528</h3>
+  <p><strong>Page count:</strong> 7</p>
   <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/bell-hooks.md</code></p>
-  <p><strong>Page kinds:</strong> excerpt: 6</p>
-  <p><strong>Review pressure:</strong> 6 rows. continues_beyond_current_batch: 6<br>mixed_bibliography_and_work_title: 6</p>
+  <p><strong>Page kinds:</strong> excerpt: 7</p>
+  <p><strong>Review pressure:</strong> 7 rows. mixed_bibliography_and_work_title: 7</p>
 </section>
 
 ## Works And Excerpt Blocks
@@ -47,7 +47,7 @@ This note turns the current Norton chunk for bell hooks into a navigable workspa
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Anchor Candidates</span>
   <h3>Choose Passages After Review</h3>
-  <p><strong>Source location:</strong> Norton page range 2522-2527.</p>
+  <p><strong>Source location:</strong> Norton page range 2522-2528.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
   <p><strong>Use:</strong> Find the passages that make this text active inside signs-and-reading, commentary-and-afterlife, education-and-civic-life, taste-and-standards, aesthetic-education-and-citizenship, labor-ideology-and-culture.</p>
 </section>
@@ -55,7 +55,7 @@ This note turns the current Norton chunk for bell hooks into a navigable workspa
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Review Before Quoting</span>
   <h3>Layout, Notes, And Bibliography</h3>
-  <p><strong>Review signal:</strong> continues_beyond_current_batch: 6<br>mixed_bibliography_and_work_title: 6</p>
+  <p><strong>Review signal:</strong> mixed_bibliography_and_work_title: 7</p>
   <p><strong>Editorial rule:</strong> source notes belong in source-note fields, bibliography belongs in bibliography fields, and excerpt text stays separate.</p>
 </section>
 
@@ -93,8 +93,8 @@ This note turns the current Norton chunk for bell hooks into a navigable workspa
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/bell-hooks.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T07:13:48Z` |
-| Git commit | `525b073` |
+| Generated at | `2026-06-13T07:19:07Z` |
+| Git commit | `e8608c4` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/hooks-postmodern-blackness.md` |
 

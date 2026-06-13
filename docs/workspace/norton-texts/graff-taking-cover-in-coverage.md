@@ -90,8 +90,8 @@ This note turns the current Norton chunk for Gerald Graff into a navigable works
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/gerald-graff.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T07:13:47Z` |
-| Git commit | `525b073` |
+| Generated at | `2026-06-13T07:19:06Z` |
+| Git commit | `e8608c4` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/graff-taking-cover-in-coverage.md` |
 

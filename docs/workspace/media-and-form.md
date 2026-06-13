@@ -74,6 +74,7 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/mulvey-visual-pleasure-narrative-cinema/"><strong>Laura Mulvey, Visual Pleasure and Narrative Cinema</strong><span>film-theory, feminism, psychoanalysis; pages 2225-2236; 12 review rows</span></a>
   <a href="../norton-texts/baker-blues-ideology-afro-american-literature/"><strong>Houston A. Baker Jr., Blues, Ideology, and Afro-American Literature</strong><span>african-american-literature, vernacular, blues; pages 2271-2283; 13 review rows</span></a>
   <a href="../norton-texts/eagleton-literary-theory-introduction/"><strong>Terry Eagleton, Literary Theory: An Introduction</strong><span>marxism, ideology, literary-studies; pages 2287-2293; 7 review rows</span></a>
+  <a href="../norton-texts/moulthrop-hypertext-laws-media/"><strong>Stuart Moulthrop, You Say You Want a Revolution? Hypertext and the Laws of Media</strong><span>hypertext, media-theory, digital-culture; pages 2548-2568; 21 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -137,6 +138,7 @@ This is a scaffold for reading the configured texts together. It should become a
 49. [Laura Mulvey, Visual Pleasure and Narrative Cinema](norton-texts/mulvey-visual-pleasure-narrative-cinema.md)
 50. [Houston A. Baker Jr., Blues, Ideology, and Afro-American Literature](norton-texts/baker-blues-ideology-afro-american-literature.md)
 51. [Terry Eagleton, Literary Theory: An Introduction](norton-texts/eagleton-literary-theory-introduction.md)
+52. [Stuart Moulthrop, You Say You Want a Revolution? Hypertext and the Laws of Media](norton-texts/moulthrop-hypertext-laws-media.md)
 
 ## Review Pressure
 
@@ -193,6 +195,7 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Visual Pleasure and Narrative Cinema](norton-texts/mulvey-visual-pleasure-narrative-cinema.md) | 2225-2236 | 12 | excerpt: 12 |
 | [Blues, Ideology, and Afro-American Literature](norton-texts/baker-blues-ideology-afro-american-literature.md) | 2271-2283 | 13 | excerpt: 13 |
 | [Literary Theory: An Introduction](norton-texts/eagleton-literary-theory-introduction.md) | 2287-2293 | 7 | excerpt: 7 |
+| [You Say You Want a Revolution? Hypertext and the Laws of Media](norton-texts/moulthrop-hypertext-laws-media.md) | 2548-2568 | 21 | excerpt: 21 |
 
 ## Passage Queue
 
@@ -246,8 +249,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T07:13:34Z` |
-| Git commit | `525b073` |
+| Generated at | `2026-06-13T07:18:53Z` |
+| Git commit | `e8608c4` |
 | Script version | `2` |
 | Output path | `docs/workspace/media-and-form.md` |
 

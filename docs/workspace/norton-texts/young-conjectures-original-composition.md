@@ -89,8 +89,8 @@ This note turns the current Norton chunk for Edward Young into a navigable works
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/edward-young.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T07:13:45Z` |
-| Git commit | `525b073` |
+| Generated at | `2026-06-13T07:19:04Z` |
+| Git commit | `e8608c4` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/young-conjectures-original-composition.md` |
 

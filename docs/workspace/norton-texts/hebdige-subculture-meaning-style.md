@@ -90,8 +90,8 @@ This note turns the current Norton chunk for Dick Hebdige into a navigable works
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/dick-hebdige.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T07:13:48Z` |
-| Git commit | `525b073` |
+| Generated at | `2026-06-13T07:19:07Z` |
+| Git commit | `e8608c4` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/hebdige-subculture-meaning-style.md` |
 

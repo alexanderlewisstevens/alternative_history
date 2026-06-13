@@ -89,8 +89,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T07:13:39Z` |
-| Git commit | `525b073` |
+| Generated at | `2026-06-13T07:18:58Z` |
+| Git commit | `e8608c4` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/dante-alighieri.md` |
 

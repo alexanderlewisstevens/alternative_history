@@ -1830,6 +1830,30 @@ curated_texts:
       - identity
       - public-intellectuals
     status: edition-review-needed
+  - id: butler-gender-trouble
+    title: Gender Trouble
+    creator: Judith Butler
+    extraction_work_titles:
+      - Gender Trouble
+    role: core-text-candidate
+    themes:
+      - queer-theory
+      - gender
+      - performativity
+      - identity
+    status: edition-review-needed
+  - id: moulthrop-hypertext-laws-media
+    title: "You Say You Want a Revolution? Hypertext and the Laws of Media"
+    creator: Stuart Moulthrop
+    extraction_work_titles:
+      - "You Say You Want a Revolution? Hypertext and the Laws of Media"
+    role: core-text-candidate
+    themes:
+      - hypertext
+      - media-theory
+      - digital-culture
+      - literacy
+    status: edition-review-needed
 
 constellations:
   - id: rhetoric-and-force
@@ -1974,6 +1998,8 @@ constellations:
       - hebdige-subculture-meaning-style
       - knapp-michaels-against-theory
       - hooks-postmodern-blackness
+      - butler-gender-trouble
+      - moulthrop-hypertext-laws-media
     relations:
       - writing
       - interpretation
@@ -2077,6 +2103,8 @@ constellations:
       - sedgwick-between-men-epistemology-closet
       - knapp-michaels-against-theory
       - hooks-postmodern-blackness
+      - butler-gender-trouble
+      - moulthrop-hypertext-laws-media
       - johnson-melvilles-fist-execution-billy-budd
       - bhabha-commitment-to-theory
       - davis-enforcing-normalcy
@@ -2169,6 +2197,8 @@ constellations:
       - sedgwick-between-men-epistemology-closet
       - knapp-michaels-against-theory
       - hooks-postmodern-blackness
+      - butler-gender-trouble
+      - moulthrop-hypertext-laws-media
     relations:
       - pedagogy
       - civic-formation
@@ -2360,6 +2390,7 @@ constellations:
       - sedgwick-between-men-epistemology-closet
       - hebdige-subculture-meaning-style
       - hooks-postmodern-blackness
+      - butler-gender-trouble
     relations:
       - taste
       - criticism
@@ -2440,6 +2471,7 @@ constellations:
       - mulvey-visual-pleasure-narrative-cinema
       - baker-blues-ideology-afro-american-literature
       - eagleton-literary-theory-introduction
+      - moulthrop-hypertext-laws-media
     relations:
       - medium
       - form
@@ -2503,6 +2535,8 @@ constellations:
       - gates-talking-black
       - knapp-michaels-against-theory
       - hooks-postmodern-blackness
+      - butler-gender-trouble
+      - moulthrop-hypertext-laws-media
     relations:
       - education
       - freedom
@@ -2623,6 +2657,8 @@ constellations:
       - hebdige-subculture-meaning-style
       - knapp-michaels-against-theory
       - hooks-postmodern-blackness
+      - butler-gender-trouble
+      - moulthrop-hypertext-laws-media
     relations:
       - labor
       - ideology
@@ -2692,6 +2728,8 @@ constellations:
       - fish-interpreting-the-variorum
       - todorov-structural-analysis-narrative
       - allen-kochinnenako-in-academe
+      - butler-gender-trouble
+      - moulthrop-hypertext-laws-media
     relations:
       - language
       - fiction

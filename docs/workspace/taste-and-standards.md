@@ -80,7 +80,8 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/gates-talking-black/"><strong>Henry Louis Gates Jr., Talking Black: Critical Signs of the Times</strong><span>african-american-literature, vernacular, canon; pages 2468-2475; 8 review rows</span></a>
   <a href="../norton-texts/sedgwick-between-men-epistemology-closet/"><strong>Eve Kosofsky Sedgwick, Between Men and Epistemology of the Closet</strong><span>queer-theory, sexuality, gender; pages 2478-2488; 11 review rows</span></a>
   <a href="../norton-texts/hebdige-subculture-meaning-style/"><strong>Dick Hebdige, Subculture: The Meaning of Style</strong><span>cultural-studies, subculture, style; pages 2492-2501; 10 review rows</span></a>
-  <a href="../norton-texts/hooks-postmodern-blackness/"><strong>bell hooks, Postmodern Blackness</strong><span>black-feminism, postmodernism, identity; pages 2522-2527; 6 review rows</span></a>
+  <a href="../norton-texts/hooks-postmodern-blackness/"><strong>bell hooks, Postmodern Blackness</strong><span>black-feminism, postmodernism, identity; pages 2522-2528; 7 review rows</span></a>
+  <a href="../norton-texts/butler-gender-trouble/"><strong>Judith Butler, Gender Trouble</strong><span>queer-theory, gender, performativity; pages 2532-2545; 14 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -151,6 +152,7 @@ This is a scaffold for reading the configured texts together. It should become a
 56. [Eve Kosofsky Sedgwick, Between Men and Epistemology of the Closet](norton-texts/sedgwick-between-men-epistemology-closet.md)
 57. [Dick Hebdige, Subculture: The Meaning of Style](norton-texts/hebdige-subculture-meaning-style.md)
 58. [bell hooks, Postmodern Blackness](norton-texts/hooks-postmodern-blackness.md)
+59. [Judith Butler, Gender Trouble](norton-texts/butler-gender-trouble.md)
 
 ## Review Pressure
 
@@ -213,7 +215,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Talking Black: Critical Signs of the Times](norton-texts/gates-talking-black.md) | 2468-2475 | 8 | excerpt: 8 |
 | [Between Men and Epistemology of the Closet](norton-texts/sedgwick-between-men-epistemology-closet.md) | 2478-2488 | 11 | excerpt: 11 |
 | [Subculture: The Meaning of Style](norton-texts/hebdige-subculture-meaning-style.md) | 2492-2501 | 10 | excerpt: 10 |
-| [Postmodern Blackness](norton-texts/hooks-postmodern-blackness.md) | 2522-2527 | 6 | excerpt: 6 |
+| [Postmodern Blackness](norton-texts/hooks-postmodern-blackness.md) | 2522-2528 | 7 | excerpt: 7 |
+| [Gender Trouble](norton-texts/butler-gender-trouble.md) | 2532-2545 | 14 | excerpt: 14 |
 
 ## Passage Queue
 
@@ -267,8 +270,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T07:13:33Z` |
-| Git commit | `525b073` |
+| Generated at | `2026-06-13T07:18:52Z` |
+| Git commit | `e8608c4` |
 | Script version | `2` |
 | Output path | `docs/workspace/taste-and-standards.md` |
 

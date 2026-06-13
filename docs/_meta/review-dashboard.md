@@ -5,7 +5,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Boundary Review</div>
-  <div class="ah-metric-value">449</div>
+  <div class="ah-metric-value">454</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Content Separation</div>
@@ -21,7 +21,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">General Review</div>
-  <div class="ah-metric-value">1351</div>
+  <div class="ah-metric-value">1426</div>
 </div>
 </div>
 
@@ -29,10 +29,10 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 <div class="ah-review-grid">
 <section class="ah-review-card warn">
-  <div class="ah-review-card-kicker">449 pages</div>
+  <div class="ah-review-card-kicker">454 pages</div>
   <h3>Boundary Review</h3>
   <p>Confirm thinker and work boundaries before assembling public-facing drafts.</p>
-  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +437 more</p>
+  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +442 more</p>
 </section>
 <section class="ah-review-card warn">
   <div class="ah-review-card-kicker">9 pages</div>
@@ -53,10 +53,10 @@ This is the editorial queue for restricted extraction work. It is generated from
   <p><strong>Start:</strong> <code>74</code>, <code>98</code>, <code>99</code>, <code>126</code>, <code>185</code>, <code>190</code>, <code>191</code>, <code>192</code>, <code>194</code>, <code>204</code>, <code>213</code>, <code>218</code> +60 more</p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">1351 pages</div>
+  <div class="ah-review-card-kicker">1426 pages</div>
   <h3>General Review</h3>
   <p>Resolve remaining template or classification questions.</p>
-  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +1339 more</p>
+  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +1414 more</p>
 </section>
 </div>
 
@@ -72,11 +72,11 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Field | Value |
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
-| Classified source pages | `71-2527` |
-| Review queue rows | `2225` |
+| Classified source pages | `71-2607` |
+| Review queue rows | `2305` |
 | Review queue file | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
-| Generated at | `2026-06-13T07:13:37Z` |
-| Git commit | `525b073` |
+| Generated at | `2026-06-13T07:18:56Z` |
+| Git commit | `e8608c4` |
 | Script version | `1` |
 | Output path | `docs/_meta/review-dashboard.md` |
 
@@ -84,18 +84,21 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 | Reason | Pages |
 | --- | ---: |
-| mixed_bibliography_and_work_title | 949 |
+| mixed_bibliography_and_work_title | 990 |
 | mixed_work_transition_page | 658 |
 | mixed_author_transition_page | 446 |
-| transition_from_previous_author | 427 |
+| transition_from_previous_author | 432 |
 | multi_column_layout | 357 |
 | source_notes_detected | 314 |
 | mixed_transition_page | 68 |
+| back_matter | 39 |
+| selected_bibliography | 39 |
 | selection_boundary_review | 34 |
+| running_head_differs_from_author_context | 33 |
 | layout_review_required | 23 |
 | author_boundary_without_life_dates | 20 |
-| continues_beyond_current_batch | 20 |
 | bibliography_on_previous_page | 15 |
+| continues_beyond_current_batch | 14 |
 | mixed_excerpt_and_bibliography | 9 |
 | transition_from_previous_work | 2 |
 | ocr_title_cleanup | 2 |
@@ -105,6 +108,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Thinker | Pages |
 | --- | ---: |
 | Jacques Derrida | 62 |
+| Stuart Moulthrop | 56 |
 | Sigmund Freud | 43 |
 | Michel Foucault | 43 |
 | Fredric Jameson | 43 |
@@ -157,6 +161,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Barbara Smith | 17 |
 | Susan Bordo | 17 |
 | Steven Knapp and Walter Benn Michaels | 17 |
+| Judith Butler | 17 |
 | Oscar Wilde | 16 |
 | Georges Poulet | 16 |
 | Gilles Deleuze and Felix Guattari | 16 |
@@ -212,6 +217,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Martin Heidegger | 10 |
 | Raymond Williams | 10 |
 | Terry Eagleton | 10 |
+| bell hooks | 10 |
 | Augustine of Hippo | 9 |
 | Giovanni Boccaccio | 9 |
 | John Dryden | 9 |
@@ -222,7 +228,6 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Antonio Gramsci | 9 |
 | Kenneth Burke | 9 |
 | Pierre Bourdieu | 9 |
-| bell hooks | 9 |
 | Walter Pater | 8 |
 | Henry James | 8 |
 | Monique Wittig | 8 |
@@ -236,6 +241,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Georg Wilhelm Friedrich Hegel | 6 |
 | Langston Hughes | 6 |
 | Jean-Francois Lyotard | 6 |
+| Unassigned | 6 |
 | Dante Alighieri | 5 |
 | Pierre de Ronsard | 5 |
 | Stephen Greenblatt | 5 |
@@ -696,6 +702,11 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 2519 | bell hooks | Against Theory | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2519.md |
 | 2520 | bell hooks |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2520.md |
 | 2521 | bell hooks | Bell Hooks | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2521.md |
+| 2529 | Judith Butler |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2529.md |
+| 2530 | Judith Butler |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2530.md |
+| 2531 | Judith Butler |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2531.md |
+| 2546 | Stuart Moulthrop |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2546.md |
+| 2547 | Stuart Moulthrop |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2547.md |
 
 ## Content Separation
 
@@ -2486,9 +2497,84 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 2516 | Steven Knapp and Walter Benn Michaels | Against Theory | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2516.md |
 | 2517 | Steven Knapp and Walter Benn Michaels | Against Theory | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2517.md |
 | 2518 | Steven Knapp and Walter Benn Michaels | Against Theory | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2518.md |
-| 2522 | bell hooks | Postmodern Blackness | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2522.md |
-| 2523 | bell hooks | Postmodern Blackness | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2523.md |
-| 2524 | bell hooks | Postmodern Blackness | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2524.md |
-| 2525 | bell hooks | Postmodern Blackness | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2525.md |
-| 2526 | bell hooks | Postmodern Blackness | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2526.md |
-| 2527 | bell hooks | Postmodern Blackness | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2527.md |
+| 2522 | bell hooks | Postmodern Blackness | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2522.md |
+| 2523 | bell hooks | Postmodern Blackness | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2523.md |
+| 2524 | bell hooks | Postmodern Blackness | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2524.md |
+| 2525 | bell hooks | Postmodern Blackness | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2525.md |
+| 2526 | bell hooks | Postmodern Blackness | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2526.md |
+| 2527 | bell hooks | Postmodern Blackness | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2527.md |
+| 2528 | bell hooks | Postmodern Blackness | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2528.md |
+| 2532 | Judith Butler | Gender Trouble | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2532.md |
+| 2533 | Judith Butler | Gender Trouble | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2533.md |
+| 2534 | Judith Butler | Gender Trouble | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2534.md |
+| 2535 | Judith Butler | Gender Trouble | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2535.md |
+| 2536 | Judith Butler | Gender Trouble | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2536.md |
+| 2537 | Judith Butler | Gender Trouble | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2537.md |
+| 2538 | Judith Butler | Gender Trouble | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2538.md |
+| 2539 | Judith Butler | Gender Trouble | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2539.md |
+| 2540 | Judith Butler | Gender Trouble | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2540.md |
+| 2541 | Judith Butler | Gender Trouble | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2541.md |
+| 2542 | Judith Butler | Gender Trouble | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2542.md |
+| 2543 | Judith Butler | Gender Trouble | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2543.md |
+| 2544 | Judith Butler | Gender Trouble | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2544.md |
+| 2545 | Judith Butler | Gender Trouble | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2545.md |
+| 2548 | Stuart Moulthrop | You Say You Want a Revolution? Hypertext and the Laws of Media | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2548.md |
+| 2549 | Stuart Moulthrop | You Say You Want a Revolution? Hypertext and the Laws of Media | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2549.md |
+| 2550 | Stuart Moulthrop | You Say You Want a Revolution? Hypertext and the Laws of Media | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2550.md |
+| 2551 | Stuart Moulthrop | You Say You Want a Revolution? Hypertext and the Laws of Media | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2551.md |
+| 2552 | Stuart Moulthrop | You Say You Want a Revolution? Hypertext and the Laws of Media | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2552.md |
+| 2553 | Stuart Moulthrop | You Say You Want a Revolution? Hypertext and the Laws of Media | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2553.md |
+| 2554 | Stuart Moulthrop | You Say You Want a Revolution? Hypertext and the Laws of Media | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2554.md |
+| 2555 | Stuart Moulthrop | You Say You Want a Revolution? Hypertext and the Laws of Media | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2555.md |
+| 2556 | Stuart Moulthrop | You Say You Want a Revolution? Hypertext and the Laws of Media | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2556.md |
+| 2557 | Stuart Moulthrop | You Say You Want a Revolution? Hypertext and the Laws of Media | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2557.md |
+| 2558 | Stuart Moulthrop | You Say You Want a Revolution? Hypertext and the Laws of Media | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2558.md |
+| 2559 | Stuart Moulthrop | You Say You Want a Revolution? Hypertext and the Laws of Media | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2559.md |
+| 2560 | Stuart Moulthrop | You Say You Want a Revolution? Hypertext and the Laws of Media | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2560.md |
+| 2561 | Stuart Moulthrop | You Say You Want a Revolution? Hypertext and the Laws of Media | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2561.md |
+| 2562 | Stuart Moulthrop | You Say You Want a Revolution? Hypertext and the Laws of Media | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2562.md |
+| 2563 | Stuart Moulthrop | You Say You Want a Revolution? Hypertext and the Laws of Media | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2563.md |
+| 2564 | Stuart Moulthrop | You Say You Want a Revolution? Hypertext and the Laws of Media | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2564.md |
+| 2565 | Stuart Moulthrop | You Say You Want a Revolution? Hypertext and the Laws of Media | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2565.md |
+| 2566 | Stuart Moulthrop | You Say You Want a Revolution? Hypertext and the Laws of Media | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2566.md |
+| 2567 | Stuart Moulthrop | You Say You Want a Revolution? Hypertext and the Laws of Media | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2567.md |
+| 2568 | Stuart Moulthrop | You Say You Want a Revolution? Hypertext and the Laws of Media | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2568.md |
+| 2569 | Stuart Moulthrop | I. Theory and Criticism Bibliographies | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2569.md |
+| 2570 |  |  | back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2570.md |
+| 2571 | Stuart Moulthrop | Rom .... Uclsm through the Victori | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2571.md |
+| 2572 | Stuart Moulthrop | Ill. Histories of Criticism and Theory | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2572.md |
+| 2573 | Stuart Moulthrop | Histories | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2573.md |
+| 2574 |  |  | back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2574.md |
+| 2575 | Stuart Moulthrop | Histories | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2575.md |
+| 2576 | Stuart Moulthrop | Selected Bibliography of Theory and Criticism | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2576.md |
+| 2577 | Stuart Moulthrop | Schools and Movements | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2577.md |
+| 2578 | Stuart Moulthrop | Selected Bibliography of Theory and Criticism | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2578.md |
+| 2579 | Stuart Moulthrop | Schools and Movements | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2579.md |
+| 2580 | Stuart Moulthrop | Selected Bibliography of Theory and Criticism | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2580.md |
+| 2581 | Stuart Moulthrop | Schools and Movements | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2581.md |
+| 2582 | Stuart Moulthrop | Selected Bibliography of Theory and Criticism | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2582.md |
+| 2583 | Stuart Moulthrop | Schools and Movements | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2583.md |
+| 2584 | Stuart Moulthrop | Selected Bibliography of Theory and Criticism | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2584.md |
+| 2585 | Stuart Moulthrop | Schools and Movements | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2585.md |
+| 2586 | Stuart Moulthrop | Selected Bibliography' of Theory and Criticism | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2586.md |
+| 2587 | Stuart Moulthrop | Schools and Movements | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2587.md |
+| 2588 | Stuart Moulthrop | Selected Bibliography of Theory and Criticism | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2588.md |
+| 2589 | Stuart Moulthrop | Schools and Movements | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2589.md |
+| 2590 | Stuart Moulthrop | Selected Bibliography of Theory and Criticism | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2590.md |
+| 2591 | Stuart Moulthrop | Schools and Movements | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2591.md |
+| 2592 | Stuart Moulthrop | Selected Bibliography of Theory and Criticism | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2592.md |
+| 2593 | Stuart Moulthrop | Schools and Movements | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2593.md |
+| 2594 | Stuart Moulthrop | Selected Bibliography of Theory and Criticism | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2594.md |
+| 2595 | Stuart Moulthrop | Schools and Movements | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2595.md |
+| 2596 | Stuart Moulthrop | Selected Bibliography of Theory and Criticism | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2596.md |
+| 2597 | Stuart Moulthrop | Per!'1issjons Acknowledgments | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2597.md |
+| 2598 | Stuart Moulthrop | Permissions Acknowledgments | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2598.md |
+| 2599 | Stuart Moulthrop | Permissions Acknowledgments | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2599.md |
+| 2600 | Stuart Moulthrop | Permissions Acknowledgments | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2600.md |
+| 2601 | Stuart Moulthrop | Permissions Acknowledgments | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2601.md |
+| 2602 | Stuart Moulthrop | Permissions Acknowledgments | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2602.md |
+| 2603 | Stuart Moulthrop | Permissions Acknowledgments | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2603.md |
+| 2604 |  |  | back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2604.md |
+| 2605 |  |  | back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2605.md |
+| 2606 |  |  | back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2606.md |
+| 2607 |  | Author | back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2607.md |

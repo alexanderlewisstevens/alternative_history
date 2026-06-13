@@ -85,6 +85,8 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/fish-interpreting-the-variorum/"><strong>Stanley E. Fish, Interpreting the Variorum</strong><span>reader-response, interpretation, institutions; pages 2115-2132; 18 review rows</span></a>
   <a href="../norton-texts/todorov-structural-analysis-narrative/"><strong>Tzvetan Todorov, Structural Analysis of Narrative</strong><span>structuralism, narratology, poetics; pages 2143-2162; 20 review rows</span></a>
   <a href="../norton-texts/allen-kochinnenako-in-academe/"><strong>Paula Gunn Allen, Kochinnenako in Academe</strong><span>native-studies, feminism, oral-tradition; pages 2165-2169; 5 review rows</span></a>
+  <a href="../norton-texts/butler-gender-trouble/"><strong>Judith Butler, Gender Trouble</strong><span>queer-theory, gender, performativity; pages 2532-2545; 14 review rows</span></a>
+  <a href="../norton-texts/moulthrop-hypertext-laws-media/"><strong>Stuart Moulthrop, You Say You Want a Revolution? Hypertext and the Laws of Media</strong><span>hypertext, media-theory, digital-culture; pages 2548-2568; 21 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -159,6 +161,8 @@ This is a scaffold for reading the configured texts together. It should become a
 60. [Stanley E. Fish, Interpreting the Variorum](norton-texts/fish-interpreting-the-variorum.md)
 61. [Tzvetan Todorov, Structural Analysis of Narrative](norton-texts/todorov-structural-analysis-narrative.md)
 62. [Paula Gunn Allen, Kochinnenako in Academe](norton-texts/allen-kochinnenako-in-academe.md)
+63. [Judith Butler, Gender Trouble](norton-texts/butler-gender-trouble.md)
+64. [Stuart Moulthrop, You Say You Want a Revolution? Hypertext and the Laws of Media](norton-texts/moulthrop-hypertext-laws-media.md)
 
 ## Review Pressure
 
@@ -226,6 +230,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Interpreting the Variorum](norton-texts/fish-interpreting-the-variorum.md) | 2115-2132 | 18 | excerpt: 18 |
 | [Structural Analysis of Narrative](norton-texts/todorov-structural-analysis-narrative.md) | 2143-2162 | 20 | excerpt: 20 |
 | [Kochinnenako in Academe](norton-texts/allen-kochinnenako-in-academe.md) | 2165-2169 | 5 | excerpt: 5 |
+| [Gender Trouble](norton-texts/butler-gender-trouble.md) | 2532-2545 | 14 | excerpt: 14 |
+| [You Say You Want a Revolution? Hypertext and the Laws of Media](norton-texts/moulthrop-hypertext-laws-media.md) | 2548-2568 | 21 | excerpt: 21 |
 
 ## Passage Queue
 
@@ -279,8 +285,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T07:13:36Z` |
-| Git commit | `525b073` |
+| Generated at | `2026-06-13T07:18:55Z` |
+| Git commit | `e8608c4` |
 | Script version | `2` |
 | Output path | `docs/workspace/language-truth-and-fiction.md` |
 

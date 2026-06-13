@@ -20,7 +20,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [Postmodern Blackness](../norton-texts/hooks-postmodern-blackness.md) | 2522-2527 | 6 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | `edition-review-needed` |
+| [Postmodern Blackness](../norton-texts/hooks-postmodern-blackness.md) | 2522-2528 | 7 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -39,9 +39,9 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Signal | Value |
 | --- | --- |
-| Page kinds | excerpt: 6<br>author_intro: 3 |
-| Review rows | 9 |
-| Review reasons | mixed_bibliography_and_work_title: 9<br>continues_beyond_current_batch: 6<br>transition_from_previous_author: 3 |
+| Page kinds | excerpt: 7<br>author_intro: 3 |
+| Review rows | 10 |
+| Review reasons | mixed_bibliography_and_work_title: 10<br>transition_from_previous_author: 3 |
 
 ## Passage Queue
 
@@ -92,8 +92,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T07:13:39Z` |
-| Git commit | `525b073` |
+| Generated at | `2026-06-13T07:18:58Z` |
+| Git commit | `e8608c4` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/bell-hooks.md` |
 

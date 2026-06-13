@@ -4339,7 +4339,7 @@ overrides:
       - mixed_bibliography_and_work_title
 
   - id: bell-hooks-postmodern-blackness
-    pages: 2522-2527
+    pages: 2522-2528
     author_name: bell hooks
     author_slug: bell-hooks
     work_title: Postmodern Blackness
@@ -4351,4 +4351,68 @@ overrides:
     review_required: true
     review_reasons:
       - mixed_bibliography_and_work_title
-      - continues_beyond_current_batch
+
+  - id: judith-butler-headnote
+    pages: 2529-2532
+    author_name: Judith Butler
+    author_slug: judith-butler
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: judith-butler-gender-trouble
+    pages: 2532-2545
+    author_name: Judith Butler
+    author_slug: judith-butler
+    work_title: Gender Trouble
+    work_slug: gender-trouble
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: stuart-moulthrop-headnote
+    pages: 2546-2548
+    author_name: Stuart Moulthrop
+    author_slug: stuart-moulthrop
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: stuart-moulthrop-hypertext-laws-media
+    pages: 2548-2568
+    author_name: Stuart Moulthrop
+    author_slug: stuart-moulthrop
+    work_title: "You Say You Want a Revolution? Hypertext and the Laws of Media"
+    work_slug: hypertext-laws-media
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: selected-bibliography-and-index
+    pages: 2569-2607
+    page_kind: index_appendix
+    starts_new_author: false
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - selected_bibliography
+      - back_matter

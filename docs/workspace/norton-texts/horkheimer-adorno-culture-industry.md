@@ -90,8 +90,8 @@ This note turns the current Norton chunk for Max Horkheimer and Theodor W. Adorn
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/max-horkheimer-and-theodor-w-adorno.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T07:13:46Z` |
-| Git commit | `525b073` |
+| Generated at | `2026-06-13T07:19:05Z` |
+| Git commit | `e8608c4` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/horkheimer-adorno-culture-industry.md` |
 
