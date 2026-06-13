@@ -89,8 +89,8 @@ This note turns the current Norton chunk for Giambattista Giraldi into a navigab
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/giambattista-giraldi.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T06:27:09Z` |
-| Git commit | `e688291` |
+| Generated at | `2026-06-13T06:32:03Z` |
+| Git commit | `90b00be` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/giambattista-giraldi-composition-romances.md` |
 

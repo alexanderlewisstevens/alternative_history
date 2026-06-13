@@ -5,7 +5,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Boundary Review</div>
-  <div class="ah-metric-value">358</div>
+  <div class="ah-metric-value">367</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Content Separation</div>
@@ -21,7 +21,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">General Review</div>
-  <div class="ah-metric-value">802</div>
+  <div class="ah-metric-value">873</div>
 </div>
 </div>
 
@@ -29,10 +29,10 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 <div class="ah-review-grid">
 <section class="ah-review-card warn">
-  <div class="ah-review-card-kicker">358 pages</div>
+  <div class="ah-review-card-kicker">367 pages</div>
   <h3>Boundary Review</h3>
   <p>Confirm thinker and work boundaries before assembling public-facing drafts.</p>
-  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +346 more</p>
+  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +355 more</p>
 </section>
 <section class="ah-review-card warn">
   <div class="ah-review-card-kicker">9 pages</div>
@@ -53,10 +53,10 @@ This is the editorial queue for restricted extraction work. It is generated from
   <p><strong>Start:</strong> <code>74</code>, <code>98</code>, <code>99</code>, <code>126</code>, <code>185</code>, <code>190</code>, <code>191</code>, <code>192</code>, <code>194</code>, <code>204</code>, <code>213</code>, <code>218</code> +60 more</p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">802 pages</div>
+  <div class="ah-review-card-kicker">873 pages</div>
   <h3>General Review</h3>
   <p>Resolve remaining template or classification questions.</p>
-  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +790 more</p>
+  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +861 more</p>
 </section>
 </div>
 
@@ -72,11 +72,11 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Field | Value |
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
-| Classified source pages | `71-1887` |
-| Review queue rows | `1585` |
+| Classified source pages | `71-1967` |
+| Review queue rows | `1665` |
 | Review queue file | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
-| Generated at | `2026-06-13T06:27:02Z` |
-| Git commit | `e688291` |
+| Generated at | `2026-06-13T06:31:57Z` |
+| Git commit | `90b00be` |
 | Script version | `1` |
 | Output path | `docs/_meta/review-dashboard.md` |
 
@@ -84,17 +84,18 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 | Reason | Pages |
 | --- | ---: |
-| mixed_work_transition_page | 587 |
-| mixed_bibliography_and_work_title | 383 |
+| mixed_work_transition_page | 620 |
+| mixed_bibliography_and_work_title | 415 |
 | multi_column_layout | 357 |
-| transition_from_previous_author | 336 |
+| transition_from_previous_author | 345 |
 | source_notes_detected | 314 |
-| mixed_author_transition_page | 130 |
+| mixed_author_transition_page | 142 |
 | mixed_transition_page | 68 |
 | selection_boundary_review | 34 |
-| continues_beyond_current_batch | 28 |
+| continues_beyond_current_batch | 25 |
 | layout_review_required | 23 |
 | author_boundary_without_life_dates | 20 |
+| bibliography_on_previous_page | 15 |
 | mixed_excerpt_and_bibliography | 9 |
 | transition_from_previous_work | 2 |
 | ocr_title_cleanup | 2 |
@@ -103,6 +104,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 | Thinker | Pages |
 | --- | ---: |
+| Jacques Derrida | 62 |
 | Sigmund Freud | 43 |
 | Michel Foucault | 43 |
 | Sir Philip Sidney | 39 |
@@ -113,7 +115,6 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Matthew Arnold | 31 |
 | Plato | 29 |
 | Karl Marx and Friedrich Engels | 29 |
-| Jacques Derrida | 29 |
 | Gyorgy Lukacs | 28 |
 | Friedrich Nietzsche | 27 |
 | E. D. Hirsch Jr. | 27 |
@@ -135,6 +136,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Hans Robert Jauss | 18 |
 | Frantz Fanon | 18 |
 | Jurgen Habermas | 18 |
+| Richard Ohmann | 18 |
 | T. S. Eliot | 17 |
 | Zora Neale Hurston | 17 |
 | Jean-Paul Sartre | 17 |
@@ -150,11 +152,13 @@ This is the editorial queue for restricted extraction work. It is generated from
 | J. L. Austin | 15 |
 | Northrop Frye | 15 |
 | Irving Howe | 15 |
+| Stuart Hall | 15 |
 | Horace | 14 |
 | Immanuel Kant | 14 |
 | Friedrich Schleiermacher | 14 |
 | Thomas Love Peacock | 14 |
 | Edmund Wilson | 14 |
+| Barbara Herrnstein Smith | 14 |
 | Samuel Taylor Coleridge | 13 |
 | Virginia Woolf | 13 |
 | John Crowe Ransom | 13 |
@@ -568,6 +572,15 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 1863 | Jacques Derrida |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_1863.md |
 | 1864 | Jacques Derrida |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_1864.md |
 | 1865 | Jacques Derrida |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_1865.md |
+| 1921 | Richard Ohmann |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1921.md |
+| 1922 | Richard Ohmann |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1922.md |
+| 1923 | Richard Ohmann |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1923.md |
+| 1939 | Stuart Hall |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1939.md |
+| 1940 | Stuart Hall |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1940.md |
+| 1941 | Stuart Hall | Stuart Hall | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1941.md |
+| 1954 | Barbara Herrnstein Smith | Cultural Studies and Its Theoretical Legacies | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1954.md |
+| 1955 | Barbara Herrnstein Smith |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1955.md |
+| 1956 | Barbara Herrnstein Smith |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1956.md |
 
 ## Content Separation
 
@@ -1801,17 +1814,88 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 1871 | Jacques Derrida | From Of Grammatology | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1871.md |
 | 1872 | Jacques Derrida | From Of Grammatology | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1872.md |
 | 1873 | Jacques Derrida | From Of Grammatology | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1873.md |
-| 1874 | Jacques Derrida | From Dissemination / Plato's Pharmacy | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1874.md |
-| 1875 | Jacques Derrida | From Dissemination / Plato's Pharmacy | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1875.md |
-| 1876 | Jacques Derrida | From Dissemination / Plato's Pharmacy | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1876.md |
-| 1877 | Jacques Derrida | From Dissemination / Plato's Pharmacy | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1877.md |
-| 1878 | Jacques Derrida | From Dissemination / Plato's Pharmacy | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1878.md |
-| 1879 | Jacques Derrida | From Dissemination / Plato's Pharmacy | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1879.md |
-| 1880 | Jacques Derrida | From Dissemination / Plato's Pharmacy | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1880.md |
-| 1881 | Jacques Derrida | From Dissemination / Plato's Pharmacy | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1881.md |
-| 1882 | Jacques Derrida | From Dissemination / Plato's Pharmacy | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1882.md |
-| 1883 | Jacques Derrida | From Dissemination / Plato's Pharmacy | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1883.md |
-| 1884 | Jacques Derrida | From Dissemination / Plato's Pharmacy | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1884.md |
-| 1885 | Jacques Derrida | From Dissemination / Plato's Pharmacy | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1885.md |
-| 1886 | Jacques Derrida | From Dissemination / Plato's Pharmacy | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1886.md |
-| 1887 | Jacques Derrida | From Dissemination / Plato's Pharmacy | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1887.md |
+| 1874 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1874.md |
+| 1875 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1875.md |
+| 1876 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1876.md |
+| 1877 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1877.md |
+| 1878 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1878.md |
+| 1879 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1879.md |
+| 1880 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1880.md |
+| 1881 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1881.md |
+| 1882 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1882.md |
+| 1883 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1883.md |
+| 1884 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1884.md |
+| 1885 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1885.md |
+| 1886 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1886.md |
+| 1887 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1887.md |
+| 1888 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1888.md |
+| 1889 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1889.md |
+| 1890 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1890.md |
+| 1891 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1891.md |
+| 1892 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1892.md |
+| 1893 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1893.md |
+| 1894 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1894.md |
+| 1895 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1895.md |
+| 1896 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1896.md |
+| 1897 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1897.md |
+| 1898 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1898.md |
+| 1899 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1899.md |
+| 1900 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1900.md |
+| 1901 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1901.md |
+| 1902 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1902.md |
+| 1903 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1903.md |
+| 1904 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1904.md |
+| 1905 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1905.md |
+| 1906 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1906.md |
+| 1907 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1907.md |
+| 1908 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1908.md |
+| 1909 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1909.md |
+| 1910 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1910.md |
+| 1911 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1911.md |
+| 1912 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1912.md |
+| 1913 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1913.md |
+| 1914 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1914.md |
+| 1915 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1915.md |
+| 1916 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1916.md |
+| 1917 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1917.md |
+| 1918 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1918.md |
+| 1919 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1919.md |
+| 1920 | Jacques Derrida | From Dissemination / Plato's Pharmacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1920.md |
+| 1924 | Richard Ohmann | From The Shaping of a Canon: U.S. Fiction, 1960-1975 | bibliography_on_previous_page | work/page-records/norton-theory-criticism/page_1924.md |
+| 1925 | Richard Ohmann | From The Shaping of a Canon: U.S. Fiction, 1960-1975 | bibliography_on_previous_page | work/page-records/norton-theory-criticism/page_1925.md |
+| 1926 | Richard Ohmann | From The Shaping of a Canon: U.S. Fiction, 1960-1975 | bibliography_on_previous_page | work/page-records/norton-theory-criticism/page_1926.md |
+| 1927 | Richard Ohmann | From The Shaping of a Canon: U.S. Fiction, 1960-1975 | bibliography_on_previous_page | work/page-records/norton-theory-criticism/page_1927.md |
+| 1928 | Richard Ohmann | From The Shaping of a Canon: U.S. Fiction, 1960-1975 | bibliography_on_previous_page | work/page-records/norton-theory-criticism/page_1928.md |
+| 1929 | Richard Ohmann | From The Shaping of a Canon: U.S. Fiction, 1960-1975 | bibliography_on_previous_page | work/page-records/norton-theory-criticism/page_1929.md |
+| 1930 | Richard Ohmann | From The Shaping of a Canon: U.S. Fiction, 1960-1975 | bibliography_on_previous_page | work/page-records/norton-theory-criticism/page_1930.md |
+| 1931 | Richard Ohmann | From The Shaping of a Canon: U.S. Fiction, 1960-1975 | bibliography_on_previous_page | work/page-records/norton-theory-criticism/page_1931.md |
+| 1932 | Richard Ohmann | From The Shaping of a Canon: U.S. Fiction, 1960-1975 | bibliography_on_previous_page | work/page-records/norton-theory-criticism/page_1932.md |
+| 1933 | Richard Ohmann | From The Shaping of a Canon: U.S. Fiction, 1960-1975 | bibliography_on_previous_page | work/page-records/norton-theory-criticism/page_1933.md |
+| 1934 | Richard Ohmann | From The Shaping of a Canon: U.S. Fiction, 1960-1975 | bibliography_on_previous_page | work/page-records/norton-theory-criticism/page_1934.md |
+| 1935 | Richard Ohmann | From The Shaping of a Canon: U.S. Fiction, 1960-1975 | bibliography_on_previous_page | work/page-records/norton-theory-criticism/page_1935.md |
+| 1936 | Richard Ohmann | From The Shaping of a Canon: U.S. Fiction, 1960-1975 | bibliography_on_previous_page | work/page-records/norton-theory-criticism/page_1936.md |
+| 1937 | Richard Ohmann | From The Shaping of a Canon: U.S. Fiction, 1960-1975 | bibliography_on_previous_page | work/page-records/norton-theory-criticism/page_1937.md |
+| 1938 | Richard Ohmann | From The Shaping of a Canon: U.S. Fiction, 1960-1975 | bibliography_on_previous_page | work/page-records/norton-theory-criticism/page_1938.md |
+| 1942 | Stuart Hall | Cultural Studies and Its Theoretical Legacies | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1942.md |
+| 1943 | Stuart Hall | Cultural Studies and Its Theoretical Legacies | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1943.md |
+| 1944 | Stuart Hall | Cultural Studies and Its Theoretical Legacies | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1944.md |
+| 1945 | Stuart Hall | Cultural Studies and Its Theoretical Legacies | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1945.md |
+| 1946 | Stuart Hall | Cultural Studies and Its Theoretical Legacies | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1946.md |
+| 1947 | Stuart Hall | Cultural Studies and Its Theoretical Legacies | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1947.md |
+| 1948 | Stuart Hall | Cultural Studies and Its Theoretical Legacies | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1948.md |
+| 1949 | Stuart Hall | Cultural Studies and Its Theoretical Legacies | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1949.md |
+| 1950 | Stuart Hall | Cultural Studies and Its Theoretical Legacies | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1950.md |
+| 1951 | Stuart Hall | Cultural Studies and Its Theoretical Legacies | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1951.md |
+| 1952 | Stuart Hall | Cultural Studies and Its Theoretical Legacies | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1952.md |
+| 1953 | Stuart Hall | Cultural Studies and Its Theoretical Legacies | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1953.md |
+| 1957 | Barbara Herrnstein Smith | From Contingencies of Value | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1957.md |
+| 1958 | Barbara Herrnstein Smith | From Contingencies of Value | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1958.md |
+| 1959 | Barbara Herrnstein Smith | From Contingencies of Value | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1959.md |
+| 1960 | Barbara Herrnstein Smith | From Contingencies of Value | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1960.md |
+| 1961 | Barbara Herrnstein Smith | From Contingencies of Value | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1961.md |
+| 1962 | Barbara Herrnstein Smith | From Contingencies of Value | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1962.md |
+| 1963 | Barbara Herrnstein Smith | From Contingencies of Value | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1963.md |
+| 1964 | Barbara Herrnstein Smith | From Contingencies of Value | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1964.md |
+| 1965 | Barbara Herrnstein Smith | From Contingencies of Value | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1965.md |
+| 1966 | Barbara Herrnstein Smith | From Contingencies of Value | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1966.md |
+| 1967 | Barbara Herrnstein Smith | From Contingencies of Value | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1967.md |

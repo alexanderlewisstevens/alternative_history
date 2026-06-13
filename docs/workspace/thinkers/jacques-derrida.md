@@ -21,7 +21,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
 | [Of Grammatology](../norton-texts/derrida-of-grammatology.md) | 1866-1873 | 8 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
-| [Dissemination / Plato&#x27;s Pharmacy](../norton-texts/derrida-platos-pharmacy.md) | 1874-1887 | 14 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
+| [Dissemination / Plato&#x27;s Pharmacy](../norton-texts/derrida-platos-pharmacy.md) | 1874-1920 | 47 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -43,9 +43,9 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Signal | Value |
 | --- | --- |
-| Page kinds | excerpt: 22<br>author_intro: 7 |
-| Review rows | 29 |
-| Review reasons | mixed_work_transition_page: 22<br>continues_beyond_current_batch: 14<br>mixed_bibliography_and_work_title: 8<br>transition_from_previous_author: 7 |
+| Page kinds | excerpt: 55<br>author_intro: 7 |
+| Review rows | 62 |
+| Review reasons | mixed_work_transition_page: 55<br>mixed_bibliography_and_work_title: 8<br>transition_from_previous_author: 7 |
 
 ## Passage Queue
 
@@ -96,8 +96,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T06:27:05Z` |
-| Git commit | `e688291` |
+| Generated at | `2026-06-13T06:31:59Z` |
+| Git commit | `90b00be` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/jacques-derrida.md` |
 

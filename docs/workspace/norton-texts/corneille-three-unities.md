@@ -89,8 +89,8 @@ This note turns the current Norton chunk for Pierre Corneille into a navigable w
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/pierre-corneille.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T06:27:09Z` |
-| Git commit | `e688291` |
+| Generated at | `2026-06-13T06:32:03Z` |
+| Git commit | `90b00be` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/corneille-three-unities.md` |
 

@@ -63,6 +63,9 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/williams-marxism-literature/"><strong>Raymond Williams, Marxism and Literature</strong><span>culture, marxism, literature; pages 1611-1618; 8 review rows</span></a>
   <a href="../norton-texts/lyotard-defining-postmodern/"><strong>Jean-Francois Lyotard, Defining the Postmodern</strong><span>postmodernism, modernity, sublime; pages 1656-1658; 3 review rows</span></a>
   <a href="../norton-texts/iser-interaction-text-reader/"><strong>Wolfgang Iser, Interaction Between Text and Reader</strong><span>reader-response, interpretation, gaps; pages 1717-1725; 9 review rows</span></a>
+  <a href="../norton-texts/bourdieu-distinction/"><strong>Pierre Bourdieu, Distinction</strong><span>taste, class, cultural-capital; pages 1853-1858; 6 review rows</span></a>
+  <a href="../norton-texts/ohmann-shaping-of-a-canon/"><strong>Richard Ohmann, The Shaping of a Canon: U.S. Fiction, 1960-1975</strong><span>canon, publishing, institutions; pages 1924-1938; 15 review rows</span></a>
+  <a href="../norton-texts/smith-contingencies-of-value/"><strong>Barbara Herrnstein Smith, Contingencies of Value</strong><span>value, taste, contingency; pages 1957-1967; 11 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -115,6 +118,9 @@ This is a scaffold for reading the configured texts together. It should become a
 38. [Raymond Williams, Marxism and Literature](norton-texts/williams-marxism-literature.md)
 39. [Jean-Francois Lyotard, Defining the Postmodern](norton-texts/lyotard-defining-postmodern.md)
 40. [Wolfgang Iser, Interaction Between Text and Reader](norton-texts/iser-interaction-text-reader.md)
+41. [Pierre Bourdieu, Distinction](norton-texts/bourdieu-distinction.md)
+42. [Richard Ohmann, The Shaping of a Canon: U.S. Fiction, 1960-1975](norton-texts/ohmann-shaping-of-a-canon.md)
+43. [Barbara Herrnstein Smith, Contingencies of Value](norton-texts/smith-contingencies-of-value.md)
 
 ## Review Pressure
 
@@ -160,6 +166,9 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Marxism and Literature](norton-texts/williams-marxism-literature.md) | 1611-1618 | 8 | excerpt: 8 |
 | [Defining the Postmodern](norton-texts/lyotard-defining-postmodern.md) | 1656-1658 | 3 | excerpt: 3 |
 | [Interaction Between Text and Reader](norton-texts/iser-interaction-text-reader.md) | 1717-1725 | 9 | excerpt: 9 |
+| [Distinction](norton-texts/bourdieu-distinction.md) | 1853-1858 | 6 | excerpt: 6 |
+| [The Shaping of a Canon: U.S. Fiction, 1960-1975](norton-texts/ohmann-shaping-of-a-canon.md) | 1924-1938 | 15 | excerpt: 15 |
+| [Contingencies of Value](norton-texts/smith-contingencies-of-value.md) | 1957-1967 | 11 | excerpt: 11 |
 
 ## Passage Queue
 
@@ -213,8 +222,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T06:27:00Z` |
-| Git commit | `e688291` |
+| Generated at | `2026-06-13T06:31:54Z` |
+| Git commit | `90b00be` |
 | Script version | `2` |
 | Output path | `docs/workspace/taste-and-standards.md` |
 

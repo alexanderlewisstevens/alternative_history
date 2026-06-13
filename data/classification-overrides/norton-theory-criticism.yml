@@ -3336,7 +3336,7 @@ overrides:
       - mixed_work_transition_page
 
   - id: jacques-derrida-platos-pharmacy
-    pages: 1874-1887
+    pages: 1874-1920
     author_name: Jacques Derrida
     author_slug: jacques-derrida
     work_title: From Dissemination / Plato's Pharmacy
@@ -3348,4 +3348,86 @@ overrides:
     review_required: true
     review_reasons:
       - mixed_work_transition_page
+
+  - id: richard-ohmann-headnote
+    pages: 1921-1923
+    author_name: Richard Ohmann
+    author_slug: richard-ohmann
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: richard-ohmann-shaping-of-a-canon
+    pages: 1924-1938
+    author_name: Richard Ohmann
+    author_slug: richard-ohmann
+    work_title: "From The Shaping of a Canon: U.S. Fiction, 1960-1975"
+    work_slug: shaping-of-a-canon
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - bibliography_on_previous_page
+
+  - id: stuart-hall-headnote
+    pages: 1939-1942
+    author_name: Stuart Hall
+    author_slug: stuart-hall
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: stuart-hall-cultural-studies-theoretical-legacies
+    pages: 1942-1954
+    author_name: Stuart Hall
+    author_slug: stuart-hall
+    work_title: Cultural Studies and Its Theoretical Legacies
+    work_slug: cultural-studies-theoretical-legacies
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: barbara-herrnstein-smith-headnote
+    pages: 1954-1957
+    author_name: Barbara Herrnstein Smith
+    author_slug: barbara-herrnstein-smith
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: barbara-herrnstein-smith-contingencies-of-value
+    pages: 1957-1967
+    author_name: Barbara Herrnstein Smith
+    author_slug: barbara-herrnstein-smith
+    work_title: From Contingencies of Value
+    work_slug: contingencies-of-value
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
       - continues_beyond_current_batch

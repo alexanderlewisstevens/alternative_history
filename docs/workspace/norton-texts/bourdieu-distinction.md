@@ -38,6 +38,7 @@ This note turns the current Norton chunk for Pierre Bourdieu into a navigable wo
 | --- | --- | --- |
 | [education-and-civic-life](../education-and-civic-life.md) | What should education make possible for citizens? | pedagogy, civic-formation, authority |
 | [vernacular-and-institution](../vernacular-and-institution.md) | How do languages become institutions of thought? | vernacular, imitation, nation |
+| [taste-and-standards](../taste-and-standards.md) | How do communities make judgments of taste? | taste, criticism, consensus |
 | [media-and-form](../media-and-form.md) | How do media shape what thought can represent? | medium, form, representation |
 | [labor-ideology-and-culture](../labor-ideology-and-culture.md) | How do work, institutions, and ideology shape culture? | labor, ideology, institutions |
 
@@ -48,7 +49,7 @@ This note turns the current Norton chunk for Pierre Bourdieu into a navigable wo
   <h3>Choose Passages After Review</h3>
   <p><strong>Source location:</strong> Norton page range 1853-1858.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
-  <p><strong>Use:</strong> Find the passages that make this text active inside education-and-civic-life, vernacular-and-institution, media-and-form, labor-ideology-and-culture.</p>
+  <p><strong>Use:</strong> Find the passages that make this text active inside education-and-civic-life, vernacular-and-institution, taste-and-standards, media-and-form, labor-ideology-and-culture.</p>
 </section>
 
 <section class="ah-passage-card">
@@ -92,8 +93,8 @@ This note turns the current Norton chunk for Pierre Bourdieu into a navigable wo
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/pierre-bourdieu.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T06:27:10Z` |
-| Git commit | `e688291` |
+| Generated at | `2026-06-13T06:32:05Z` |
+| Git commit | `90b00be` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/bourdieu-distinction.md` |
 
@@ -108,6 +109,7 @@ This note turns the current Norton chunk for Pierre Bourdieu into a navigable wo
 <li><a href="../../passages/">Passage Notes</a></li>
 <li><a href="../../education-and-civic-life/">education-and-civic-life</a></li>
 <li><a href="../../vernacular-and-institution/">vernacular-and-institution</a></li>
+<li><a href="../../taste-and-standards/">taste-and-standards</a></li>
 <li><a href="../../media-and-form/">media-and-form</a></li>
 <li><a href="../../labor-ideology-and-culture/">labor-ideology-and-culture</a></li>
 </ul>

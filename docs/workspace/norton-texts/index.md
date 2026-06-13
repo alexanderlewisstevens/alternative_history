@@ -10,11 +10,11 @@ This index is generated from curated source metadata and local extraction audit 
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Curated Text Nodes</div>
-  <div class="ah-metric-value">119</div>
+  <div class="ah-metric-value">122</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Assembled Chunks</div>
-  <div class="ah-metric-value">119</div>
+  <div class="ah-metric-value">122</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Constellations</div>
@@ -142,9 +142,12 @@ This index is generated from curated source metadata and local extraction audit 
 | [Compulsory Heterosexuality and Lesbian Existence](rich-compulsory-heterosexuality.md) | Adrienne Rich | 1806-1824 | [commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 19 | `edition-review-needed` |
 | [An Image of Africa: Racism in Conrad&#x27;s Heart of Darkness](achebe-image-of-africa.md) | Chinua Achebe | 1827-1837 | [commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 11 | `edition-review-needed` |
 | [The Anxiety of Influence](bloom-anxiety-of-influence.md) | Harold Bloom | 1841-1849 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[media-and-form](../media-and-form.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 9 | `edition-review-needed` |
-| [Distinction](bourdieu-distinction.md) | Pierre Bourdieu | 1853-1858 | [education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[media-and-form](../media-and-form.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 6 | `edition-review-needed` |
+| [Distinction](bourdieu-distinction.md) | Pierre Bourdieu | 1853-1858 | [education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[media-and-form](../media-and-form.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 6 | `edition-review-needed` |
 | [Of Grammatology](derrida-of-grammatology.md) | Jacques Derrida | 1866-1873 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 8 | `edition-review-needed` |
-| [Dissemination / Plato&#x27;s Pharmacy](derrida-platos-pharmacy.md) | Jacques Derrida | 1874-1887 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 14 | `edition-review-needed` |
+| [Dissemination / Plato&#x27;s Pharmacy](derrida-platos-pharmacy.md) | Jacques Derrida | 1874-1920 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 47 | `edition-review-needed` |
+| [The Shaping of a Canon: U.S. Fiction, 1960-1975](ohmann-shaping-of-a-canon.md) | Richard Ohmann | 1924-1938 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[art-utility-and-modern-life](../art-utility-and-modern-life.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 15 | `edition-review-needed` |
+| [Cultural Studies and Its Theoretical Legacies](hall-cultural-studies-theoretical-legacies.md) | Stuart Hall | 1942-1953 | [commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[art-utility-and-modern-life](../art-utility-and-modern-life.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 12 | `edition-review-needed` |
+| [Contingencies of Value](smith-contingencies-of-value.md) | Barbara Herrnstein Smith | 1957-1967 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 11 | `edition-review-needed` |
 
 ## How To Use This Index
 
@@ -171,7 +174,7 @@ This index is generated from curated source metadata and local extraction audit 
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T06:27:11Z` |
-| Git commit | `e688291` |
+| Generated at | `2026-06-13T06:32:06Z` |
+| Git commit | `90b00be` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/index.md` |

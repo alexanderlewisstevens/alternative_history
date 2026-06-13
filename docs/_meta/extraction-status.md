@@ -5,19 +5,19 @@ This page is generated from audit artifacts. It intentionally contains metadata 
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Classified Pages</div>
-  <div class="ah-metric-value">71-1887</div>
+  <div class="ah-metric-value">71-1967</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Page Records</div>
-  <div class="ah-metric-value">1817</div>
+  <div class="ah-metric-value">1897</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Thinker Drafts</div>
-  <div class="ah-metric-value">102</div>
+  <div class="ah-metric-value">105</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Review Rows</div>
-  <div class="ah-metric-value">1585</div>
+  <div class="ah-metric-value">1665</div>
 </div>
 </div>
 
@@ -45,21 +45,21 @@ This page is generated from audit artifacts. It intentionally contains metadata 
 | Artifact | Count | Location |
 | --- | ---: | --- |
 | Sliced PDFs | 2668 | `Norton_Anthology_Sliced_Author` |
-| Layout records | 1817 | `work/layout/norton-theory-criticism/layout.jsonl` |
-| Classification records | 1817 | `work/classification/norton-theory-criticism/page-classifications.jsonl` |
-| Review queue rows | 1585 | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
-| Page records | 1817 | `work/page-records/norton-theory-criticism` |
-| Page-generation audit rows | 1817 | `work/audit/norton-theory-criticism/page-record-generation.csv` |
-| Thinker drafts | 102 | `generated/authors/norton-theory-criticism` |
-| Thinker-assembly audit rows | 102 | `work/audit/norton-theory-criticism/author-assembly.csv` |
+| Layout records | 1897 | `work/layout/norton-theory-criticism/layout.jsonl` |
+| Classification records | 1897 | `work/classification/norton-theory-criticism/page-classifications.jsonl` |
+| Review queue rows | 1665 | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
+| Page records | 1897 | `work/page-records/norton-theory-criticism` |
+| Page-generation audit rows | 1897 | `work/audit/norton-theory-criticism/page-record-generation.csv` |
+| Thinker drafts | 105 | `generated/authors/norton-theory-criticism` |
+| Thinker-assembly audit rows | 105 | `work/audit/norton-theory-criticism/author-assembly.csv` |
 
 ## Classified Range
 
 | Field | Value |
 | --- | --- |
-| Classified source pages | `71-1887` |
-| Status page generated at | `2026-06-13T06:27:02Z` |
-| Git commit | `e688291` |
+| Classified source pages | `71-1967` |
+| Status page generated at | `2026-06-13T06:31:57Z` |
+| Git commit | `90b00be` |
 | Script version | `1` |
 | Output path | `docs/_meta/extraction-status.md` |
 
@@ -73,6 +73,7 @@ This page is generated from audit artifacts. It intentionally contains metadata 
 | aphra-behn | 11 | 430-440 | ok | generated/authors/norton-theory-criticism/aphra-behn.md |
 | aristotle | 35 | 128-162 | ok | generated/authors/norton-theory-criticism/aristotle.md |
 | augustine-of-hippo | 11 | 227-237 | ok | generated/authors/norton-theory-criticism/augustine-of-hippo.md |
+| barbara-herrnstein-smith | 14 | 1954-1967 | ok | generated/authors/norton-theory-criticism/barbara-herrnstein-smith.md |
 | boris-eichenbaum | 30 | 1102-1131 | ok | generated/authors/norton-theory-criticism/boris-eichenbaum.md |
 | carl-gustav-jung | 15 | 1031-1045 | ok | generated/authors/norton-theory-criticism/carl-gustav-jung.md |
 | charles-baudelaire | 13 | 831-843 | ok | generated/authors/norton-theory-criticism/charles-baudelaire.md |
@@ -113,7 +114,7 @@ This page is generated from audit artifacts. It intentionally contains metadata 
 | immanuel-kant | 37 | 541-577 | ok | generated/authors/norton-theory-criticism/immanuel-kant.md |
 | irving-howe | 15 | 1576-1590 | ok | generated/authors/norton-theory-criticism/irving-howe.md |
 | j-l-austin | 15 | 1471-1485 | ok | generated/authors/norton-theory-criticism/j-l-austin.md |
-| jacques-derrida | 29 | 1859-1887 | ok | generated/authors/norton-theory-criticism/jacques-derrida.md |
+| jacques-derrida | 62 | 1859-1920 | ok | generated/authors/norton-theory-criticism/jacques-derrida.md |
 | jacques-lacan | 33 | 1322-1354 | ok | generated/authors/norton-theory-criticism/jacques-lacan.md |
 | jean-baudrillard | 12 | 1773-1784 | ok | generated/authors/norton-theory-criticism/jean-baudrillard.md |
 | jean-francois-lyotard | 6 | 1653-1658 | ok | generated/authors/norton-theory-criticism/jean-francois-lyotard.md |
@@ -149,6 +150,7 @@ This page is generated from audit artifacts. It intentionally contains metadata 
 | quintilian | 16 | 197-212 | ok | generated/authors/norton-theory-criticism/quintilian.md |
 | ralph-waldo-emerson | 22 | 759-780 | ok | generated/authors/norton-theory-criticism/ralph-waldo-emerson.md |
 | raymond-williams | 10 | 1609-1618 | ok | generated/authors/norton-theory-criticism/raymond-williams.md |
+| richard-ohmann | 18 | 1921-1938 | ok | generated/authors/norton-theory-criticism/richard-ohmann.md |
 | roland-barthes | 18 | 1501-1518 | ok | generated/authors/norton-theory-criticism/roland-barthes.md |
 | roman-jakobson | 15 | 1298-1312 | ok | generated/authors/norton-theory-criticism/roman-jakobson.md |
 | samuel-johnson | 25 | 500-524 | ok | generated/authors/norton-theory-criticism/samuel-johnson.md |
@@ -157,6 +159,7 @@ This page is generated from audit artifacts. It intentionally contains metadata 
 | simone-de-beauvoir | 12 | 1447-1458 | ok | generated/authors/norton-theory-criticism/simone-de-beauvoir.md |
 | sir-philip-sidney | 40 | 365-404 | ok | generated/authors/norton-theory-criticism/sir-philip-sidney.md |
 | stephane-mallarme | 10 | 883-892 | ok | generated/authors/norton-theory-criticism/stephane-mallarme.md |
+| stuart-hall | 15 | 1939-1953 | ok | generated/authors/norton-theory-criticism/stuart-hall.md |
 | t-s-eliot | 17 | 1132-1148 | ok | generated/authors/norton-theory-criticism/t-s-eliot.md |
 | theophile-gautier | 9 | 792-800 | ok | generated/authors/norton-theory-criticism/theophile-gautier.md |
 | thomas-aquinas | 6 | 282-287 | ok | generated/authors/norton-theory-criticism/thomas-aquinas.md |
@@ -174,17 +177,18 @@ This page is generated from audit artifacts. It intentionally contains metadata 
 
 | Review reason | Pages |
 | --- | ---: |
-| mixed_work_transition_page | 587 |
-| mixed_bibliography_and_work_title | 383 |
+| mixed_work_transition_page | 620 |
+| mixed_bibliography_and_work_title | 415 |
 | multi_column_layout | 357 |
-| transition_from_previous_author | 336 |
+| transition_from_previous_author | 345 |
 | source_notes_detected | 314 |
-| mixed_author_transition_page | 130 |
+| mixed_author_transition_page | 142 |
 | mixed_transition_page | 68 |
 | selection_boundary_review | 34 |
-| continues_beyond_current_batch | 28 |
+| continues_beyond_current_batch | 25 |
 | layout_review_required | 23 |
 | author_boundary_without_life_dates | 20 |
+| bibliography_on_previous_page | 15 |
 | mixed_excerpt_and_bibliography | 9 |
 | ocr_title_cleanup | 2 |
 | transition_from_previous_work | 2 |

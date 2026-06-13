@@ -55,6 +55,9 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/habermas-public-sphere/"><strong>Jurgen Habermas, The Structural Transformation of the Public Sphere</strong><span>public-sphere, citizenship, reason; pages 1788-1792; 5 review rows</span></a>
   <a href="../norton-texts/habermas-modernity-incomplete-project/"><strong>Jurgen Habermas, Modernity - An Incomplete Project</strong><span>modernity, enlightenment, culture; pages 1793-1802; 10 review rows</span></a>
   <a href="../norton-texts/rich-compulsory-heterosexuality/"><strong>Adrienne Rich, Compulsory Heterosexuality and Lesbian Existence</strong><span>feminism, sexuality, institution; pages 1806-1824; 19 review rows</span></a>
+  <a href="../norton-texts/ohmann-shaping-of-a-canon/"><strong>Richard Ohmann, The Shaping of a Canon: U.S. Fiction, 1960-1975</strong><span>canon, publishing, institutions; pages 1924-1938; 15 review rows</span></a>
+  <a href="../norton-texts/hall-cultural-studies-theoretical-legacies/"><strong>Stuart Hall, Cultural Studies and Its Theoretical Legacies</strong><span>cultural-studies, hegemony, politics; pages 1942-1953; 12 review rows</span></a>
+  <a href="../norton-texts/smith-contingencies-of-value/"><strong>Barbara Herrnstein Smith, Contingencies of Value</strong><span>value, taste, contingency; pages 1957-1967; 11 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -99,6 +102,9 @@ This is a scaffold for reading the configured texts together. It should become a
 30. [Jurgen Habermas, The Structural Transformation of the Public Sphere](norton-texts/habermas-public-sphere.md)
 31. [Jurgen Habermas, Modernity - An Incomplete Project](norton-texts/habermas-modernity-incomplete-project.md)
 32. [Adrienne Rich, Compulsory Heterosexuality and Lesbian Existence](norton-texts/rich-compulsory-heterosexuality.md)
+33. [Richard Ohmann, The Shaping of a Canon: U.S. Fiction, 1960-1975](norton-texts/ohmann-shaping-of-a-canon.md)
+34. [Stuart Hall, Cultural Studies and Its Theoretical Legacies](norton-texts/hall-cultural-studies-theoretical-legacies.md)
+35. [Barbara Herrnstein Smith, Contingencies of Value](norton-texts/smith-contingencies-of-value.md)
 
 ## Review Pressure
 
@@ -136,6 +142,9 @@ This is a scaffold for reading the configured texts together. It should become a
 | [The Structural Transformation of the Public Sphere](norton-texts/habermas-public-sphere.md) | 1788-1792 | 5 | excerpt: 5 |
 | [Modernity - An Incomplete Project](norton-texts/habermas-modernity-incomplete-project.md) | 1793-1802 | 10 | excerpt: 10 |
 | [Compulsory Heterosexuality and Lesbian Existence](norton-texts/rich-compulsory-heterosexuality.md) | 1806-1824 | 19 | excerpt: 19 |
+| [The Shaping of a Canon: U.S. Fiction, 1960-1975](norton-texts/ohmann-shaping-of-a-canon.md) | 1924-1938 | 15 | excerpt: 15 |
+| [Cultural Studies and Its Theoretical Legacies](norton-texts/hall-cultural-studies-theoretical-legacies.md) | 1942-1953 | 12 | excerpt: 12 |
+| [Contingencies of Value](norton-texts/smith-contingencies-of-value.md) | 1957-1967 | 11 | excerpt: 11 |
 
 ## Passage Queue
 
@@ -189,8 +198,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T06:27:01Z` |
-| Git commit | `e688291` |
+| Generated at | `2026-06-13T06:31:55Z` |
+| Git commit | `90b00be` |
 | Script version | `2` |
 | Output path | `docs/workspace/aesthetic-education-and-citizenship.md` |
 

@@ -92,8 +92,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T06:27:05Z` |
-| Git commit | `e688291` |
+| Generated at | `2026-06-13T06:32:00Z` |
+| Git commit | `90b00be` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/sir-philip-sidney.md` |
 

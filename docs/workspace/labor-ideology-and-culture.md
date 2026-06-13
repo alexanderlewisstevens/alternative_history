@@ -60,6 +60,9 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/rich-compulsory-heterosexuality/"><strong>Adrienne Rich, Compulsory Heterosexuality and Lesbian Existence</strong><span>feminism, sexuality, institution; pages 1806-1824; 19 review rows</span></a>
   <a href="../norton-texts/achebe-image-of-africa/"><strong>Chinua Achebe, An Image of Africa: Racism in Conrad&#x27;s Heart of Darkness</strong><span>postcolonialism, canon, race; pages 1827-1837; 11 review rows</span></a>
   <a href="../norton-texts/bourdieu-distinction/"><strong>Pierre Bourdieu, Distinction</strong><span>taste, class, cultural-capital; pages 1853-1858; 6 review rows</span></a>
+  <a href="../norton-texts/ohmann-shaping-of-a-canon/"><strong>Richard Ohmann, The Shaping of a Canon: U.S. Fiction, 1960-1975</strong><span>canon, publishing, institutions; pages 1924-1938; 15 review rows</span></a>
+  <a href="../norton-texts/hall-cultural-studies-theoretical-legacies/"><strong>Stuart Hall, Cultural Studies and Its Theoretical Legacies</strong><span>cultural-studies, hegemony, politics; pages 1942-1953; 12 review rows</span></a>
+  <a href="../norton-texts/smith-contingencies-of-value/"><strong>Barbara Herrnstein Smith, Contingencies of Value</strong><span>value, taste, contingency; pages 1957-1967; 11 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -109,6 +112,9 @@ This is a scaffold for reading the configured texts together. It should become a
 35. [Adrienne Rich, Compulsory Heterosexuality and Lesbian Existence](norton-texts/rich-compulsory-heterosexuality.md)
 36. [Chinua Achebe, An Image of Africa: Racism in Conrad&#x27;s Heart of Darkness](norton-texts/achebe-image-of-africa.md)
 37. [Pierre Bourdieu, Distinction](norton-texts/bourdieu-distinction.md)
+38. [Richard Ohmann, The Shaping of a Canon: U.S. Fiction, 1960-1975](norton-texts/ohmann-shaping-of-a-canon.md)
+39. [Stuart Hall, Cultural Studies and Its Theoretical Legacies](norton-texts/hall-cultural-studies-theoretical-legacies.md)
+40. [Barbara Herrnstein Smith, Contingencies of Value](norton-texts/smith-contingencies-of-value.md)
 
 ## Review Pressure
 
@@ -151,6 +157,9 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Compulsory Heterosexuality and Lesbian Existence](norton-texts/rich-compulsory-heterosexuality.md) | 1806-1824 | 19 | excerpt: 19 |
 | [An Image of Africa: Racism in Conrad&#x27;s Heart of Darkness](norton-texts/achebe-image-of-africa.md) | 1827-1837 | 11 | excerpt: 11 |
 | [Distinction](norton-texts/bourdieu-distinction.md) | 1853-1858 | 6 | excerpt: 6 |
+| [The Shaping of a Canon: U.S. Fiction, 1960-1975](norton-texts/ohmann-shaping-of-a-canon.md) | 1924-1938 | 15 | excerpt: 15 |
+| [Cultural Studies and Its Theoretical Legacies](norton-texts/hall-cultural-studies-theoretical-legacies.md) | 1942-1953 | 12 | excerpt: 12 |
+| [Contingencies of Value](norton-texts/smith-contingencies-of-value.md) | 1957-1967 | 11 | excerpt: 11 |
 
 ## Passage Queue
 
@@ -204,8 +213,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T06:27:01Z` |
-| Git commit | `e688291` |
+| Generated at | `2026-06-13T06:31:56Z` |
+| Git commit | `90b00be` |
 | Script version | `2` |
 | Output path | `docs/workspace/labor-ideology-and-culture.md` |
 

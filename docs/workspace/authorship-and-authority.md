@@ -65,7 +65,9 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/achebe-image-of-africa/"><strong>Chinua Achebe, An Image of Africa: Racism in Conrad&#x27;s Heart of Darkness</strong><span>postcolonialism, canon, race; pages 1827-1837; 11 review rows</span></a>
   <a href="../norton-texts/bloom-anxiety-of-influence/"><strong>Harold Bloom, The Anxiety of Influence</strong><span>influence, canon, poetry; pages 1841-1849; 9 review rows</span></a>
   <a href="../norton-texts/derrida-of-grammatology/"><strong>Jacques Derrida, Of Grammatology</strong><span>writing, logocentrism, deconstruction; pages 1866-1873; 8 review rows</span></a>
-  <a href="../norton-texts/derrida-platos-pharmacy/"><strong>Jacques Derrida, Dissemination / Plato&#x27;s Pharmacy</strong><span>writing, pharmakon, deconstruction; pages 1874-1887; 14 review rows</span></a>
+  <a href="../norton-texts/derrida-platos-pharmacy/"><strong>Jacques Derrida, Dissemination / Plato&#x27;s Pharmacy</strong><span>writing, pharmakon, deconstruction; pages 1874-1920; 47 review rows</span></a>
+  <a href="../norton-texts/ohmann-shaping-of-a-canon/"><strong>Richard Ohmann, The Shaping of a Canon: U.S. Fiction, 1960-1975</strong><span>canon, publishing, institutions; pages 1924-1938; 15 review rows</span></a>
+  <a href="../norton-texts/smith-contingencies-of-value/"><strong>Barbara Herrnstein Smith, Contingencies of Value</strong><span>value, taste, contingency; pages 1957-1967; 11 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -121,6 +123,8 @@ This is a scaffold for reading the configured texts together. It should become a
 41. [Harold Bloom, The Anxiety of Influence](norton-texts/bloom-anxiety-of-influence.md)
 42. [Jacques Derrida, Of Grammatology](norton-texts/derrida-of-grammatology.md)
 43. [Jacques Derrida, Dissemination / Plato&#x27;s Pharmacy](norton-texts/derrida-platos-pharmacy.md)
+44. [Richard Ohmann, The Shaping of a Canon: U.S. Fiction, 1960-1975](norton-texts/ohmann-shaping-of-a-canon.md)
+45. [Barbara Herrnstein Smith, Contingencies of Value](norton-texts/smith-contingencies-of-value.md)
 
 ## Review Pressure
 
@@ -168,7 +172,9 @@ This is a scaffold for reading the configured texts together. It should become a
 | [An Image of Africa: Racism in Conrad&#x27;s Heart of Darkness](norton-texts/achebe-image-of-africa.md) | 1827-1837 | 11 | excerpt: 11 |
 | [The Anxiety of Influence](norton-texts/bloom-anxiety-of-influence.md) | 1841-1849 | 9 | excerpt: 9 |
 | [Of Grammatology](norton-texts/derrida-of-grammatology.md) | 1866-1873 | 8 | excerpt: 8 |
-| [Dissemination / Plato&#x27;s Pharmacy](norton-texts/derrida-platos-pharmacy.md) | 1874-1887 | 14 | excerpt: 14 |
+| [Dissemination / Plato&#x27;s Pharmacy](norton-texts/derrida-platos-pharmacy.md) | 1874-1920 | 47 | excerpt: 47 |
+| [The Shaping of a Canon: U.S. Fiction, 1960-1975](norton-texts/ohmann-shaping-of-a-canon.md) | 1924-1938 | 15 | excerpt: 15 |
+| [Contingencies of Value](norton-texts/smith-contingencies-of-value.md) | 1957-1967 | 11 | excerpt: 11 |
 
 ## Passage Queue
 
@@ -222,8 +228,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T06:27:00Z` |
-| Git commit | `e688291` |
+| Generated at | `2026-06-13T06:31:54Z` |
+| Git commit | `90b00be` |
 | Script version | `2` |
 | Output path | `docs/workspace/authorship-and-authority.md` |
 

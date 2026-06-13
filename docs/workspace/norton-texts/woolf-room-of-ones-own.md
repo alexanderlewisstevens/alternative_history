@@ -98,8 +98,8 @@ This note turns the current Norton chunk for Virginia Woolf into a navigable wor
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/virginia-woolf.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T06:27:09Z` |
-| Git commit | `e688291` |
+| Generated at | `2026-06-13T06:32:04Z` |
+| Git commit | `90b00be` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/woolf-room-of-ones-own.md` |
 

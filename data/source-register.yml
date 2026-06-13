@@ -1377,6 +1377,44 @@ curated_texts:
       - deconstruction
       - plato
     status: edition-review-needed
+  - id: ohmann-shaping-of-a-canon
+    title: "The Shaping of a Canon: U.S. Fiction, 1960-1975"
+    creator: Richard Ohmann
+    extraction_work_titles:
+      - "From The Shaping of a Canon: U.S. Fiction, 1960-1975"
+      - "The Shaping of a Canon: U.S. Fiction, 1960-1975"
+    role: core-text-candidate
+    themes:
+      - canon
+      - publishing
+      - institutions
+      - class
+    status: edition-review-needed
+  - id: hall-cultural-studies-theoretical-legacies
+    title: Cultural Studies and Its Theoretical Legacies
+    creator: Stuart Hall
+    extraction_work_titles:
+      - Cultural Studies and Its Theoretical Legacies
+    role: core-text-candidate
+    themes:
+      - cultural-studies
+      - hegemony
+      - politics
+      - intellectual-work
+    status: edition-review-needed
+  - id: smith-contingencies-of-value
+    title: Contingencies of Value
+    creator: Barbara Herrnstein Smith
+    extraction_work_titles:
+      - From Contingencies of Value
+      - Contingencies of Value
+    role: core-text-candidate
+    themes:
+      - value
+      - taste
+      - contingency
+      - institutions
+    status: edition-review-needed
 
 constellations:
   - id: rhetoric-and-force
@@ -1490,6 +1528,8 @@ constellations:
       - bloom-anxiety-of-influence
       - derrida-of-grammatology
       - derrida-platos-pharmacy
+      - ohmann-shaping-of-a-canon
+      - smith-contingencies-of-value
     relations:
       - writing
       - interpretation
@@ -1578,6 +1618,9 @@ constellations:
       - bloom-anxiety-of-influence
       - derrida-of-grammatology
       - derrida-platos-pharmacy
+      - ohmann-shaping-of-a-canon
+      - hall-cultural-studies-theoretical-legacies
+      - smith-contingencies-of-value
     relations:
       - commentary
       - transmission
@@ -1635,6 +1678,9 @@ constellations:
       - rich-compulsory-heterosexuality
       - achebe-image-of-africa
       - bourdieu-distinction
+      - ohmann-shaping-of-a-canon
+      - hall-cultural-studies-theoretical-legacies
+      - smith-contingencies-of-value
     relations:
       - pedagogy
       - civic-formation
@@ -1743,6 +1789,8 @@ constellations:
       - bloom-anxiety-of-influence
       - derrida-of-grammatology
       - derrida-platos-pharmacy
+      - ohmann-shaping-of-a-canon
+      - smith-contingencies-of-value
     relations:
       - authorship
       - gender
@@ -1790,6 +1838,9 @@ constellations:
       - williams-marxism-literature
       - lyotard-defining-postmodern
       - iser-interaction-text-reader
+      - bourdieu-distinction
+      - ohmann-shaping-of-a-canon
+      - smith-contingencies-of-value
     relations:
       - taste
       - criticism
@@ -1904,6 +1955,9 @@ constellations:
       - habermas-public-sphere
       - habermas-modernity-incomplete-project
       - rich-compulsory-heterosexuality
+      - ohmann-shaping-of-a-canon
+      - hall-cultural-studies-theoretical-legacies
+      - smith-contingencies-of-value
     relations:
       - education
       - freedom
@@ -1952,6 +2006,8 @@ constellations:
       - eliot-metaphysical-poets
       - williams-marxism-literature
       - fanon-wretched-earth
+      - ohmann-shaping-of-a-canon
+      - hall-cultural-studies-theoretical-legacies
     relations:
       - utility
       - aestheticism
@@ -1996,6 +2052,9 @@ constellations:
       - rich-compulsory-heterosexuality
       - achebe-image-of-africa
       - bourdieu-distinction
+      - ohmann-shaping-of-a-canon
+      - hall-cultural-studies-theoretical-legacies
+      - smith-contingencies-of-value
     relations:
       - labor
       - ideology
@@ -2056,6 +2115,8 @@ constellations:
       - bloom-anxiety-of-influence
       - derrida-of-grammatology
       - derrida-platos-pharmacy
+      - hall-cultural-studies-theoretical-legacies
+      - smith-contingencies-of-value
     relations:
       - language
       - fiction

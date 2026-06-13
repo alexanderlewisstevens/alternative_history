@@ -20,7 +20,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [Distinction](../norton-texts/bourdieu-distinction.md) | 1853-1858 | 6 | 0 | [education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[media-and-form](../media-and-form.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | `edition-review-needed` |
+| [Distinction](../norton-texts/bourdieu-distinction.md) | 1853-1858 | 6 | 0 | [education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[media-and-form](../media-and-form.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -32,6 +32,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 - [education-and-civic-life](../education-and-civic-life.md)
 - [labor-ideology-and-culture](../labor-ideology-and-culture.md)
 - [media-and-form](../media-and-form.md)
+- [taste-and-standards](../taste-and-standards.md)
 - [vernacular-and-institution](../vernacular-and-institution.md)
 
 ## Review Pressure
@@ -91,8 +92,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T06:27:05Z` |
-| Git commit | `e688291` |
+| Generated at | `2026-06-13T06:32:00Z` |
+| Git commit | `90b00be` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/pierre-bourdieu.md` |
 

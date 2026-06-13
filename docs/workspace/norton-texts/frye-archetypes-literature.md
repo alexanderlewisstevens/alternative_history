@@ -91,8 +91,8 @@ This note turns the current Norton chunk for Northrop Frye into a navigable work
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/northrop-frye.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T06:27:10Z` |
-| Git commit | `e688291` |
+| Generated at | `2026-06-13T06:32:05Z` |
+| Git commit | `90b00be` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/frye-archetypes-literature.md` |
 

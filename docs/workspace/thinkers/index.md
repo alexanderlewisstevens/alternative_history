@@ -15,6 +15,7 @@ This private index is generated from curated source metadata and local extractio
 | [Aphra Behn](aphra-behn.md) | 1 | The Dutch Lover and Preface to The Lucky Chance |
 | [Aristotle](aristotle.md) | 1 | Poetics and Rhetoric |
 | [Augustine of Hippo](augustine-of-hippo.md) | 1 | On Christian Doctrine and The Trinity |
+| [Barbara Herrnstein Smith](barbara-herrnstein-smith.md) | 1 | Contingencies of Value |
 | [Boris Eichenbaum](boris-eichenbaum.md) | 1 | The Theory of the Formal Method |
 | [Carl Gustav Jung](carl-gustav-jung.md) | 1 | On the Relation of Analytical Psychology to Poetry |
 | [Charles Baudelaire](charles-baudelaire.md) | 1 | The Painter of Modern Life |
@@ -91,6 +92,7 @@ This private index is generated from curated source metadata and local extractio
 | [Quintilian](quintilian.md) | 1 | Institutio Oratoria |
 | [Ralph Waldo Emerson](ralph-waldo-emerson.md) | 1 | The American Scholar and The Poet |
 | [Raymond Williams](raymond-williams.md) | 1 | Marxism and Literature |
+| [Richard Ohmann](richard-ohmann.md) | 1 | The Shaping of a Canon: U.S. Fiction, 1960-1975 |
 | [Roland Barthes](roland-barthes.md) | 3 | Mythologies, The Death of the Author, Work to Text |
 | [Roman Jakobson](roman-jakobson.md) | 2 | Linguistics and Poetics, Two Aspects of Language and Two Types of Aphasic Disturbances |
 | [Samuel Johnson](samuel-johnson.md) | 1 | Selected Critical Prose |
@@ -99,6 +101,7 @@ This private index is generated from curated source metadata and local extractio
 | [Simone de Beauvoir](simone-de-beauvoir.md) | 1 | The Second Sex |
 | [Sir Philip Sidney](sir-philip-sidney.md) | 1 | The Defense of Poesy |
 | [Stephane Mallarme](stephane-mallarme.md) | 1 | Crisis in Poetry |
+| [Stuart Hall](stuart-hall.md) | 1 | Cultural Studies and Its Theoretical Legacies |
 | [T. S. Eliot](t-s-eliot.md) | 2 | Tradition and the Individual Talent, The Metaphysical Poets |
 | [Theophile Gautier](theophile-gautier.md) | 1 | Preface to Mademoiselle de Maupin |
 | [Thomas Aquinas](thomas-aquinas.md) | 1 | Summa Theologica |
@@ -133,7 +136,7 @@ This private index is generated from curated source metadata and local extractio
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
-| Generated at | `2026-06-13T06:27:04Z` |
-| Git commit | `e688291` |
+| Generated at | `2026-06-13T06:31:58Z` |
+| Git commit | `90b00be` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/index.md` |

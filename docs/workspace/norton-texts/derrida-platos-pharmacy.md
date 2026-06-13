@@ -20,11 +20,11 @@ This note turns the current Norton chunk for Jacques Derrida into a navigable wo
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Chunk Status</span>
-  <h3>Norton Pages 1874-1887</h3>
-  <p><strong>Page count:</strong> 14</p>
+  <h3>Norton Pages 1874-1920</h3>
+  <p><strong>Page count:</strong> 47</p>
   <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/jacques-derrida.md</code></p>
-  <p><strong>Page kinds:</strong> excerpt: 14</p>
-  <p><strong>Review pressure:</strong> 14 rows. continues_beyond_current_batch: 14<br>mixed_work_transition_page: 14</p>
+  <p><strong>Page kinds:</strong> excerpt: 47</p>
+  <p><strong>Review pressure:</strong> 47 rows. mixed_work_transition_page: 47</p>
 </section>
 
 ## Works And Excerpt Blocks
@@ -47,7 +47,7 @@ This note turns the current Norton chunk for Jacques Derrida into a navigable wo
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Anchor Candidates</span>
   <h3>Choose Passages After Review</h3>
-  <p><strong>Source location:</strong> Norton page range 1874-1887.</p>
+  <p><strong>Source location:</strong> Norton page range 1874-1920.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
   <p><strong>Use:</strong> Find the passages that make this text active inside signs-and-reading, commentary-and-afterlife, authorship-and-authority, language-truth-and-fiction.</p>
 </section>
@@ -55,7 +55,7 @@ This note turns the current Norton chunk for Jacques Derrida into a navigable wo
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Review Before Quoting</span>
   <h3>Layout, Notes, And Bibliography</h3>
-  <p><strong>Review signal:</strong> continues_beyond_current_batch: 14<br>mixed_work_transition_page: 14</p>
+  <p><strong>Review signal:</strong> mixed_work_transition_page: 47</p>
   <p><strong>Editorial rule:</strong> source notes belong in source-note fields, bibliography belongs in bibliography fields, and excerpt text stays separate.</p>
 </section>
 
@@ -93,8 +93,8 @@ This note turns the current Norton chunk for Jacques Derrida into a navigable wo
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/jacques-derrida.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T06:27:10Z` |
-| Git commit | `e688291` |
+| Generated at | `2026-06-13T06:32:05Z` |
+| Git commit | `90b00be` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/derrida-platos-pharmacy.md` |
 
