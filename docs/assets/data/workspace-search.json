@@ -132,15 +132,17 @@
       "id": "constellation:commentary-and-afterlife",
       "kind": "constellation",
       "review_pressure": 0,
-      "search_text": "commentary and afterlife how do texts survive by being reread?   private constellation draft commentary disciplined-reading hugh-didascalicon macrobius-dream-scipio maimonides-guide-perplexed transmission commentary-and-afterlife",
+      "search_text": "commentary and afterlife how do texts survive by being reread?   private constellation draft commentary disciplined-reading geoffrey-poetria-nova hugh-didascalicon macrobius-dream-scipio maimonides-guide-perplexed thomas-aquinas-summa-theologica transmission commentary-and-afterlife",
       "status": "private constellation draft",
       "summary": "How do texts survive by being reread?",
       "tags": [
         "commentary",
         "disciplined-reading",
+        "geoffrey-poetria-nova",
         "hugh-didascalicon",
         "macrobius-dream-scipio",
         "maimonides-guide-perplexed",
+        "thomas-aquinas-summa-theologica",
         "transmission"
       ],
       "text_id": "",
@@ -155,13 +157,14 @@
       "id": "constellation:poetry-and-judgment",
       "kind": "constellation",
       "review_pressure": 0,
-      "search_text": "poetry and judgment who gets to judge art?   private constellation draft aristotle-poetics-rhetoric craft excess horace-ars-poetica longinus-on-sublimity plato-selected-dialogues tension poetry-and-judgment",
+      "search_text": "poetry and judgment who gets to judge art?   private constellation draft aristotle-poetics-rhetoric craft excess geoffrey-poetria-nova horace-ars-poetica longinus-on-sublimity plato-selected-dialogues tension poetry-and-judgment",
       "status": "private constellation draft",
       "summary": "Who gets to judge art?",
       "tags": [
         "aristotle-poetics-rhetoric",
         "craft",
         "excess",
+        "geoffrey-poetria-nova",
         "horace-ars-poetica",
         "longinus-on-sublimity",
         "plato-selected-dialogues",
@@ -203,7 +206,7 @@
       "id": "constellation:signs-and-reading",
       "kind": "constellation",
       "review_pressure": 0,
-      "search_text": "signs and reading how should difficult texts be read?   private constellation draft allegory augustine-on-christian-doctrine-trinity hugh-didascalicon interpretation maimonides-guide-perplexed plato-selected-dialogues writing signs-and-reading",
+      "search_text": "signs and reading how should difficult texts be read?   private constellation draft allegory augustine-on-christian-doctrine-trinity hugh-didascalicon interpretation maimonides-guide-perplexed plato-selected-dialogues thomas-aquinas-summa-theologica writing signs-and-reading",
       "status": "private constellation draft",
       "summary": "How should difficult texts be read?",
       "tags": [
@@ -213,6 +216,7 @@
         "interpretation",
         "maimonides-guide-perplexed",
         "plato-selected-dialogues",
+        "thomas-aquinas-summa-theologica",
         "writing"
       ],
       "text_id": "",
@@ -440,6 +444,30 @@
     },
     {
       "constellations": [
+        "commentary-and-afterlife",
+        "poetry-and-judgment"
+      ],
+      "id": "text:geoffrey-poetria-nova",
+      "kind": "text",
+      "review_pressure": 12,
+      "search_text": "poetria nova geoffrey of vinsauf; core-text-candidate; pages 268-281; 12 review rows. geoffrey of vinsauf geoffrey-poetria-nova edition-review-needed commentary-and-afterlife craft pedagogy poetics poetry-and-judgment rhetoric commentary-and-afterlife poetry-and-judgment",
+      "status": "edition-review-needed",
+      "summary": "Geoffrey of Vinsauf; core-text-candidate; pages 268-281; 12 review rows.",
+      "tags": [
+        "commentary-and-afterlife",
+        "craft",
+        "pedagogy",
+        "poetics",
+        "poetry-and-judgment",
+        "rhetoric"
+      ],
+      "text_id": "geoffrey-poetria-nova",
+      "thinker": "Geoffrey of Vinsauf",
+      "title": "Poetria Nova",
+      "url": "/workspace/norton-texts/geoffrey-poetria-nova/"
+    },
+    {
+      "constellations": [
         "poetry-and-judgment",
         "rhetoric-and-force",
         "signs-and-reading"
@@ -484,6 +512,30 @@
       "thinker": "Plotinus",
       "title": "Selected Enneads",
       "url": "/workspace/norton-texts/plotinus-enneads/"
+    },
+    {
+      "constellations": [
+        "commentary-and-afterlife",
+        "signs-and-reading"
+      ],
+      "id": "text:thomas-aquinas-summa-theologica",
+      "kind": "text",
+      "review_pressure": 6,
+      "search_text": "summa theologica thomas aquinas; core-text-candidate; pages 282-287; 6 review rows. thomas aquinas thomas-aquinas-summa-theologica edition-review-needed allegory commentary-and-afterlife education interpretation signs-and-reading theology commentary-and-afterlife signs-and-reading",
+      "status": "edition-review-needed",
+      "summary": "Thomas Aquinas; core-text-candidate; pages 282-287; 6 review rows.",
+      "tags": [
+        "allegory",
+        "commentary-and-afterlife",
+        "education",
+        "interpretation",
+        "signs-and-reading",
+        "theology"
+      ],
+      "text_id": "thomas-aquinas-summa-theologica",
+      "thinker": "Thomas Aquinas",
+      "title": "Summa Theologica",
+      "url": "/workspace/norton-texts/thomas-aquinas-summa-theologica/"
     },
     {
       "constellations": [
@@ -579,6 +631,30 @@
       "thinker": "Augustine of Hippo",
       "title": "Augustine of Hippo",
       "url": "/workspace/thinkers/augustine-of-hippo/"
+    },
+    {
+      "constellations": [
+        "commentary-and-afterlife",
+        "poetry-and-judgment"
+      ],
+      "id": "thinker:geoffrey-of-vinsauf",
+      "kind": "thinker",
+      "review_pressure": 12,
+      "search_text": "geoffrey of vinsauf 1 text node(s); geoffrey-poetria-nova. geoffrey of vinsauf  generated private workspace note commentary-and-afterlife craft pedagogy poetics poetry-and-judgment rhetoric commentary-and-afterlife poetry-and-judgment",
+      "status": "generated private workspace note",
+      "summary": "1 text node(s); geoffrey-poetria-nova.",
+      "tags": [
+        "commentary-and-afterlife",
+        "craft",
+        "pedagogy",
+        "poetics",
+        "poetry-and-judgment",
+        "rhetoric"
+      ],
+      "text_id": "",
+      "thinker": "Geoffrey of Vinsauf",
+      "title": "Geoffrey of Vinsauf",
+      "url": "/workspace/thinkers/geoffrey-of-vinsauf/"
     },
     {
       "constellations": [
@@ -780,35 +856,59 @@
       "thinker": "Quintilian",
       "title": "Quintilian",
       "url": "/workspace/thinkers/quintilian/"
+    },
+    {
+      "constellations": [
+        "commentary-and-afterlife",
+        "signs-and-reading"
+      ],
+      "id": "thinker:thomas-aquinas",
+      "kind": "thinker",
+      "review_pressure": 6,
+      "search_text": "thomas aquinas 1 text node(s); thomas-aquinas-summa-theologica. thomas aquinas  generated private workspace note allegory commentary-and-afterlife education interpretation signs-and-reading theology commentary-and-afterlife signs-and-reading",
+      "status": "generated private workspace note",
+      "summary": "1 text node(s); thomas-aquinas-summa-theologica.",
+      "tags": [
+        "allegory",
+        "commentary-and-afterlife",
+        "education",
+        "interpretation",
+        "signs-and-reading",
+        "theology"
+      ],
+      "text_id": "",
+      "thinker": "Thomas Aquinas",
+      "title": "Thomas Aquinas",
+      "url": "/workspace/thinkers/thomas-aquinas/"
     }
   ],
-  "entry_count": 36,
+  "entry_count": 40,
   "filters": {
     "constellations": {
       "beauty-and-ascent": 7,
-      "commentary-and-afterlife": 7,
-      "poetry-and-judgment": 9,
+      "commentary-and-afterlife": 11,
+      "poetry-and-judgment": 11,
       "rhetoric-and-force": 12,
-      "signs-and-reading": 9
+      "signs-and-reading": 11
     },
     "kinds": {
       "chapter": 6,
       "constellation": 5,
       "passage": 3,
-      "text": 11,
-      "thinker": 11
+      "text": 13,
+      "thinker": 13
     },
     "statuses": {
       "chapter draft": 6,
-      "edition-review-needed": 11,
-      "generated private workspace note": 11,
+      "edition-review-needed": 13,
+      "generated private workspace note": 13,
       "private constellation draft": 5,
       "private restricted note; public quotation pending edition review": 3
     },
     "tags": {
       "aesthetics": 2,
       "agency": 1,
-      "allegory": 5,
+      "allegory": 7,
       "archive": 1,
       "aristotle-poetics-rhetoric": 2,
       "ascent": 1,
@@ -823,22 +923,23 @@
       "civic-formation": 2,
       "classification": 2,
       "commentary": 3,
-      "commentary-and-afterlife": 6,
+      "commentary-and-afterlife": 10,
       "counterfactual": 1,
-      "craft": 3,
+      "craft": 5,
       "decorum": 2,
       "disciplined-reading": 1,
-      "education": 2,
+      "education": 4,
       "excess": 1,
       "force": 1,
       "form": 2,
       "genre": 2,
+      "geoffrey-poetria-nova": 2,
       "gorgias-encomium-helen": 1,
       "history": 1,
       "horace-ars-poetica": 1,
       "hugh-didascalicon": 2,
       "inheritance": 1,
-      "interpretation": 5,
+      "interpretation": 7,
       "inward-reading": 1,
       "judgment": 1,
       "literary-judgment": 2,
@@ -851,32 +952,34 @@
       "mimesis": 2,
       "myth": 1,
       "orientation": 1,
-      "pedagogy": 4,
+      "pedagogy": 6,
       "persuasion": 3,
       "plato-selected-dialogues": 3,
       "plotinus-enneads": 1,
-      "poetics": 2,
-      "poetry-and-judgment": 8,
+      "poetics": 4,
+      "poetry-and-judgment": 10,
       "quintilian-institutio-oratoria": 1,
       "reading": 2,
       "reason": 2,
       "revelation": 2,
-      "rhetoric": 9,
+      "rhetoric": 11,
       "rhetoric-and-force": 11,
       "rupture": 1,
       "signs": 2,
-      "signs-and-reading": 8,
+      "signs-and-reading": 10,
       "speech": 2,
       "sublimity": 3,
       "tension": 2,
-      "theology": 2,
+      "theology": 4,
       "theory": 1,
+      "thomas-aquinas-summa-theologica": 2,
       "transmission": 3,
       "writing": 3
     },
     "thinkers": {
       "Aristotle": 2,
       "Augustine of Hippo": 2,
+      "Geoffrey of Vinsauf": 2,
       "Gorgias": 2,
       "Gorgias of Leontini": 3,
       "Horace": 2,
@@ -886,11 +989,12 @@
       "Moses Maimonides": 2,
       "Plato": 2,
       "Plotinus": 2,
-      "Quintilian": 2
+      "Quintilian": 2,
+      "Thomas Aquinas": 2
     }
   },
-  "generated_at": "2026-06-13T04:09:54Z",
-  "git_commit": "2efc484",
+  "generated_at": "2026-06-13T04:20:31Z",
+  "git_commit": "923172d",
   "script_version": "1",
   "source_id": "norton-theory-criticism"
 }

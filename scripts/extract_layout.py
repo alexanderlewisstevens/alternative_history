@@ -15,7 +15,10 @@ from typing import Any
 from lib.extraction_common import (
     git_commit,
     load_config,
+    merge_by_page_number,
     now_utc,
+    read_csv,
+    read_jsonl,
     read_sliced_manifest,
     relative_to_root,
     resolve_source_paths,
@@ -181,35 +184,36 @@ def main() -> int:
         return 0
 
     output_jsonl.parent.mkdir(parents=True, exist_ok=True)
+    layout_records: list[dict[str, Any]] = []
     audit_rows: list[dict[str, Any]] = []
     commit = git_commit()
 
-    with output_jsonl.open("w", encoding="utf-8") as jsonl_file:
-        for row in selected_rows:
-            page_path = row["page_path"]
-            timestamp = now_utc()
-            status = "ok"
-            error = ""
-            try:
-                layout = parse_bbox_layout(page_path)
-                page_sha256 = sha256_file(page_path)
-            except Exception as exc:
-                layout = {
-                    "page_width": None,
-                    "page_height": None,
-                    "block_count": 0,
-                    "line_count": 0,
-                    "word_count": 0,
-                    "column_count": 0,
-                    "reading_order": "error",
-                    "needs_layout_review": True,
-                    "line_boxes": [],
-                }
-                page_sha256 = ""
-                status = "error"
-                error = str(exc)
+    for row in selected_rows:
+        page_path = row["page_path"]
+        timestamp = now_utc()
+        status = "ok"
+        error = ""
+        try:
+            layout = parse_bbox_layout(page_path)
+            page_sha256 = sha256_file(page_path)
+        except Exception as exc:
+            layout = {
+                "page_width": None,
+                "page_height": None,
+                "block_count": 0,
+                "line_count": 0,
+                "word_count": 0,
+                "column_count": 0,
+                "reading_order": "error",
+                "needs_layout_review": True,
+                "line_boxes": [],
+            }
+            page_sha256 = ""
+            status = "error"
+            error = str(exc)
 
-            record = {
+        layout_records.append(
+            {
                 "source_id": source["source_id"],
                 "source_title": source["source_title"],
                 "source_pdf": source["source_pdf"],
@@ -225,26 +229,33 @@ def main() -> int:
                 "error": error,
                 "layout": layout,
             }
+        )
+
+        audit_rows.append(
+            {
+                "page_number": row["page_number"],
+                "page_file": row["page_file"],
+                "source_pdf": source["source_pdf"],
+                "input_sha256": page_sha256,
+                "column_count": layout["column_count"],
+                "reading_order": layout["reading_order"],
+                "needs_layout_review": layout["needs_layout_review"],
+                "block_count": layout["block_count"],
+                "line_count": layout["line_count"],
+                "word_count": layout["word_count"],
+                "status": status,
+                "error": error,
+                "generated_at": timestamp,
+                "git_commit": commit,
+            }
+        )
+
+    merged_layout_records = merge_by_page_number(read_jsonl(output_jsonl), layout_records)
+    with output_jsonl.open("w", encoding="utf-8") as jsonl_file:
+        for record in merged_layout_records:
             jsonl_file.write(json.dumps(record, sort_keys=True) + "\n")
 
-            audit_rows.append(
-                {
-                    "page_number": row["page_number"],
-                    "page_file": row["page_file"],
-                    "source_pdf": source["source_pdf"],
-                    "input_sha256": page_sha256,
-                    "column_count": layout["column_count"],
-                    "reading_order": layout["reading_order"],
-                    "needs_layout_review": layout["needs_layout_review"],
-                    "block_count": layout["block_count"],
-                    "line_count": layout["line_count"],
-                    "word_count": layout["word_count"],
-                    "status": status,
-                    "error": error,
-                    "generated_at": timestamp,
-                    "git_commit": commit,
-                }
-            )
+    merged_audit_rows = merge_by_page_number(read_csv(output_manifest), audit_rows)
 
     write_csv(
         output_manifest,
@@ -264,13 +275,12 @@ def main() -> int:
             "generated_at",
             "git_commit",
         ],
-        audit_rows,
+        merged_audit_rows,
     )
-    print(f"Wrote {len(audit_rows)} layout record(s) to {relative_to_root(output_jsonl)}")
+    print(f"Wrote {len(audit_rows)} layout record(s); {len(merged_layout_records)} total in {relative_to_root(output_jsonl)}")
     print(f"Wrote layout manifest to {relative_to_root(output_manifest)}")
     return 0
 
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

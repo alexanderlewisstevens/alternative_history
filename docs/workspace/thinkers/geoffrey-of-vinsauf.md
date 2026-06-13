@@ -1,10 +1,10 @@
-# Plato
+# Geoffrey of Vinsauf
 
 <div class="ah-note-meta">
   <span><strong>Type:</strong> thinker node</span>
   <span><strong>Status:</strong> generated private workspace note</span>
   <span><strong>Source mode:</strong> restricted metadata only</span>
-  <span><strong>Tags:</strong> memory, mimesis, pedagogy, writing</span>
+  <span><strong>Tags:</strong> craft, pedagogy, poetics, rhetoric</span>
 </div>
 
 <div class="ah-private-banner">
@@ -20,31 +20,24 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [Selected dialogues](../norton-texts/plato-selected-dialogues.md) | 75-127 | 29 | 0 | [rhetoric-and-force](../rhetoric-and-force.md)<br>[poetry-and-judgment](../poetry-and-judgment.md)<br>[signs-and-reading](../signs-and-reading.md) | `edition-review-needed` |
+| [Poetria Nova](../norton-texts/geoffrey-poetria-nova.md) | 268-281 | 12 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
-- Selected dialogues
-- Ion
-- Phaedrus
-- Republic, Book II
-- Republic, Book III
-- Republic, Book VII
-- Republic, Book X
+- Poetria Nova
 
 ## Constellation Backlinks
 
+- [commentary-and-afterlife](../commentary-and-afterlife.md)
 - [poetry-and-judgment](../poetry-and-judgment.md)
-- [rhetoric-and-force](../rhetoric-and-force.md)
-- [signs-and-reading](../signs-and-reading.md)
 
 ## Review Pressure
 
 | Signal | Value |
 | --- | --- |
-| Page kinds | excerpt: 49<br>author_intro: 4 |
-| Review rows | 29 |
-| Review reasons | multi_column_layout: 26<br>source_notes_detected: 17<br>layout_review_required: 6 |
+| Page kinds | excerpt: 11<br>author_intro: 3 |
+| Review rows | 12 |
+| Review reasons | multi_column_layout: 9<br>transition_from_previous_author: 3<br>source_notes_detected: 3 |
 
 ## Passage Queue
 
@@ -91,14 +84,14 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Field | Value |
 | --- | --- |
-| Thinker slug | `plato` |
+| Thinker slug | `geoffrey-of-vinsauf` |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Generated at | `2026-06-13T04:20:30Z` |
 | Git commit | `923172d` |
 | Script version | `1` |
-| Output path | `docs/workspace/thinkers/plato.md` |
+| Output path | `docs/workspace/thinkers/geoffrey-of-vinsauf.md` |
 
 ## Open Questions
 

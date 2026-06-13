@@ -1,10 +1,10 @@
-# Plato
+# Thomas Aquinas
 
 <div class="ah-note-meta">
   <span><strong>Type:</strong> thinker node</span>
   <span><strong>Status:</strong> generated private workspace note</span>
   <span><strong>Source mode:</strong> restricted metadata only</span>
-  <span><strong>Tags:</strong> memory, mimesis, pedagogy, writing</span>
+  <span><strong>Tags:</strong> allegory, education, interpretation, theology</span>
 </div>
 
 <div class="ah-private-banner">
@@ -20,31 +20,24 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [Selected dialogues](../norton-texts/plato-selected-dialogues.md) | 75-127 | 29 | 0 | [rhetoric-and-force](../rhetoric-and-force.md)<br>[poetry-and-judgment](../poetry-and-judgment.md)<br>[signs-and-reading](../signs-and-reading.md) | `edition-review-needed` |
+| [Summa Theologica](../norton-texts/thomas-aquinas-summa-theologica.md) | 282-287 | 6 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
-- Selected dialogues
-- Ion
-- Phaedrus
-- Republic, Book II
-- Republic, Book III
-- Republic, Book VII
-- Republic, Book X
+- Summa Theologica
 
 ## Constellation Backlinks
 
-- [poetry-and-judgment](../poetry-and-judgment.md)
-- [rhetoric-and-force](../rhetoric-and-force.md)
+- [commentary-and-afterlife](../commentary-and-afterlife.md)
 - [signs-and-reading](../signs-and-reading.md)
 
 ## Review Pressure
 
 | Signal | Value |
 | --- | --- |
-| Page kinds | excerpt: 49<br>author_intro: 4 |
-| Review rows | 29 |
-| Review reasons | multi_column_layout: 26<br>source_notes_detected: 17<br>layout_review_required: 6 |
+| Page kinds | author_intro: 3<br>excerpt: 2<br>mixed_excerpt_bibliography: 1 |
+| Review rows | 6 |
+| Review reasons | transition_from_previous_author: 3<br>source_notes_detected: 2<br>mixed_excerpt_and_bibliography: 1<br>multi_column_layout: 1<br>author_boundary_without_life_dates: 1 |
 
 ## Passage Queue
 
@@ -91,14 +84,14 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Field | Value |
 | --- | --- |
-| Thinker slug | `plato` |
+| Thinker slug | `thomas-aquinas` |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Generated at | `2026-06-13T04:20:30Z` |
 | Git commit | `923172d` |
 | Script version | `1` |
-| Output path | `docs/workspace/thinkers/plato.md` |
+| Output path | `docs/workspace/thinkers/thomas-aquinas.md` |
 
 ## Open Questions
 

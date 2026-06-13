@@ -17,6 +17,7 @@ import yaml
 from lib.extraction_common import (
     git_commit,
     load_config,
+    merge_by_page_number,
     parse_page_spec,
     project_path,
     now_utc,
@@ -595,7 +596,8 @@ def main() -> int:
         print(f"Would write review queue to {relative_to_root(review_csv)}")
         return 0
 
-    records = [classify_page(row, layout_by_page) for row in selected]
+    selected_records = [classify_page(row, layout_by_page) for row in selected]
+    records = merge_by_page_number(read_jsonl(output_jsonl), selected_records)
     apply_classification_overrides(records, override_path, overrides)
     apply_author_continuity(records)
     write_jsonl(output_jsonl, records)
@@ -646,8 +648,8 @@ def main() -> int:
         review,
     )
 
-    failed = [record for record in records if record["status"] != "ok"]
-    print(f"Wrote {len(records)} page classification(s) to {relative_to_root(output_jsonl)}")
+    failed = [record for record in selected_records if record["status"] != "ok"]
+    print(f"Wrote {len(selected_records)} page classification(s); {len(records)} total in {relative_to_root(output_jsonl)}")
     print(f"Wrote {len(review)} review queue row(s) to {relative_to_root(review_csv)}")
     if failed:
         print(f"error: {len(failed)} page classification(s) failed", file=sys.stderr)

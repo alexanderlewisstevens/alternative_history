@@ -41,6 +41,8 @@ nav:
           - Macrobius, Commentary on the Dream of Scipio: workspace/norton-texts/macrobius-dream-scipio.md
           - Hugh of St. Victor, The Didascalicon: workspace/norton-texts/hugh-didascalicon.md
           - Maimonides, The Guide of the Perplexed: workspace/norton-texts/maimonides-guide-perplexed.md
+          - Geoffrey of Vinsauf, Poetria Nova: workspace/norton-texts/geoffrey-poetria-nova.md
+          - Thomas Aquinas, Summa Theologica: workspace/norton-texts/thomas-aquinas-summa-theologica.md
       - Thinker Notes:
           - Index: workspace/thinkers/index.md
           - Gorgias of Leontini: workspace/thinkers/gorgias-of-leontini.md
@@ -54,6 +56,8 @@ nav:
           - Macrobius: workspace/thinkers/macrobius.md
           - Hugh of St. Victor: workspace/thinkers/hugh-of-st-victor.md
           - Moses Maimonides: workspace/thinkers/moses-maimonides.md
+          - Geoffrey of Vinsauf: workspace/thinkers/geoffrey-of-vinsauf.md
+          - Thomas Aquinas: workspace/thinkers/thomas-aquinas.md
       - Passage Notes:
           - Index: workspace/passages/index.md
           - Speech As Force: workspace/passages/gorgias-speech-as-force.md

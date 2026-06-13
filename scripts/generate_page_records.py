@@ -14,7 +14,9 @@ from typing import Any
 from lib.extraction_common import (
     git_commit,
     load_config,
+    merge_by_page_number,
     now_utc,
+    read_csv,
     read_jsonl,
     relative_to_root,
     resolve_source_paths,
@@ -565,6 +567,7 @@ def main() -> int:
             }
         )
 
+    merged_audit_rows = merge_by_page_number(read_csv(audit_log), audit_rows)
     write_csv(
         audit_log,
         [
@@ -589,11 +592,11 @@ def main() -> int:
             "git_commit",
             "script_version",
         ],
-        audit_rows,
+        merged_audit_rows,
     )
 
     failed = [row for row in audit_rows if row["status"] != "ok"]
-    print(f"Wrote {len(audit_rows)} page record(s) to {relative_to_root(paths['page_records_dir'])}")
+    print(f"Wrote {len(audit_rows)} page record(s); {len(merged_audit_rows)} total audit row(s) in {relative_to_root(paths['page_records_dir'])}")
     print(f"Wrote page-generation audit log to {relative_to_root(audit_log)}")
     if failed:
         print(f"error: {len(failed)} page record(s) failed", file=sys.stderr)

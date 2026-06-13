@@ -161,6 +161,39 @@ def write_csv(path: Path, fieldnames: list[str], rows: list[dict[str, Any]]) -> 
             writer.writerow({field: row.get(field, "") for field in fieldnames})
 
 
+def read_csv(path: Path) -> list[dict[str, str]]:
+    if not path.exists():
+        return []
+    with path.open("r", encoding="utf-8", newline="") as file_obj:
+        return list(csv.DictReader(file_obj))
+
+
+def merge_by_page_number(
+    existing_rows: Iterable[dict[str, Any]],
+    new_rows: Iterable[dict[str, Any]],
+) -> list[dict[str, Any]]:
+    merged: dict[int, dict[str, Any]] = {}
+    unnumbered: list[dict[str, Any]] = []
+
+    for row in existing_rows:
+        try:
+            page_number = int(row["page_number"])
+        except (KeyError, TypeError, ValueError):
+            unnumbered.append(row)
+            continue
+        merged[page_number] = row
+
+    for row in new_rows:
+        try:
+            page_number = int(row["page_number"])
+        except (KeyError, TypeError, ValueError):
+            unnumbered.append(row)
+            continue
+        merged[page_number] = row
+
+    return unnumbered + [merged[page_number] for page_number in sorted(merged)]
+
+
 def yaml_frontmatter(data: dict[str, Any]) -> str:
     return yaml.safe_dump(data, sort_keys=False, allow_unicode=False).strip()
 

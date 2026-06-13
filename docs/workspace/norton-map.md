@@ -10,15 +10,15 @@ This page is generated from local extraction metadata. It is a private map for s
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Source Pages</div>
-  <div class="ah-metric-value">71-267</div>
+  <div class="ah-metric-value">71-287</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Thinker Drafts</div>
-  <div class="ah-metric-value">11</div>
+  <div class="ah-metric-value">13</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Review Rows</div>
-  <div class="ah-metric-value">143</div>
+  <div class="ah-metric-value">161</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Constellations Touched</div>
@@ -38,10 +38,10 @@ This page is generated from local extraction metadata. It is a private map for s
 | Constellation | Core Question | Current Norton Chunks | Review Rows | Relations |
 | --- | --- | --- | ---: | --- |
 | rhetoric-and-force | What can speech do? | [Gorgias of Leontini](norton-texts/gorgias-encomium-helen.md) <span class="meta-muted">(71-74)</span><br>[Plato](norton-texts/plato-selected-dialogues.md) <span class="meta-muted">(75-127)</span><br>[Aristotle](norton-texts/aristotle-poetics-rhetoric.md) <span class="meta-muted">(128-162)</span><br>[Quintilian](norton-texts/quintilian-institutio-oratoria.md) <span class="meta-muted">(197-212)</span> | 65 | tension, civic-discipline, inheritance |
-| poetry-and-judgment | Who gets to judge art? | [Plato](norton-texts/plato-selected-dialogues.md) <span class="meta-muted">(75-127)</span><br>[Aristotle](norton-texts/aristotle-poetics-rhetoric.md) <span class="meta-muted">(128-162)</span><br>[Horace](norton-texts/horace-ars-poetica.md) <span class="meta-muted">(163-176)</span><br>[Longinus](norton-texts/longinus-on-sublimity.md) <span class="meta-muted">(177-196)</span> | 85 | tension, craft, excess |
-| signs-and-reading | How should difficult texts be read? | [Plato](norton-texts/plato-selected-dialogues.md) <span class="meta-muted">(75-127)</span><br>[Augustine of Hippo](norton-texts/augustine-on-christian-doctrine-trinity.md) <span class="meta-muted">(227-237)</span><br>[Hugh of St. Victor](norton-texts/hugh-didascalicon.md) <span class="meta-muted">(243-252)</span><br>[Moses Maimonides](norton-texts/maimonides-guide-perplexed.md) <span class="meta-muted">(253-267)</span> | 63 | writing, interpretation, allegory |
+| poetry-and-judgment | Who gets to judge art? | [Plato](norton-texts/plato-selected-dialogues.md) <span class="meta-muted">(75-127)</span><br>[Aristotle](norton-texts/aristotle-poetics-rhetoric.md) <span class="meta-muted">(128-162)</span><br>[Horace](norton-texts/horace-ars-poetica.md) <span class="meta-muted">(163-176)</span><br>[Longinus](norton-texts/longinus-on-sublimity.md) <span class="meta-muted">(177-196)</span><br>[Geoffrey of Vinsauf](norton-texts/geoffrey-poetria-nova.md) <span class="meta-muted">(268-281)</span> | 97 | tension, craft, excess |
+| signs-and-reading | How should difficult texts be read? | [Plato](norton-texts/plato-selected-dialogues.md) <span class="meta-muted">(75-127)</span><br>[Augustine of Hippo](norton-texts/augustine-on-christian-doctrine-trinity.md) <span class="meta-muted">(227-237)</span><br>[Hugh of St. Victor](norton-texts/hugh-didascalicon.md) <span class="meta-muted">(243-252)</span><br>[Moses Maimonides](norton-texts/maimonides-guide-perplexed.md) <span class="meta-muted">(253-267)</span><br>[Thomas Aquinas](norton-texts/thomas-aquinas-summa-theologica.md) <span class="meta-muted">(282-287)</span> | 69 | writing, interpretation, allegory |
 | beauty-and-ascent | When does beauty become a way of knowing? | [Longinus](norton-texts/longinus-on-sublimity.md) <span class="meta-muted">(177-196)</span><br>[Plotinus](norton-texts/plotinus-enneads.md) <span class="meta-muted">(213-226)</span><br>[Augustine of Hippo](norton-texts/augustine-on-christian-doctrine-trinity.md) <span class="meta-muted">(227-237)</span> | 35 | sublimity, ascent, inward-reading |
-| commentary-and-afterlife | How do texts survive by being reread? | [Macrobius](norton-texts/macrobius-dream-scipio.md) <span class="meta-muted">(238-242)</span><br>[Hugh of St. Victor](norton-texts/hugh-didascalicon.md) <span class="meta-muted">(243-252)</span><br>[Moses Maimonides](norton-texts/maimonides-guide-perplexed.md) <span class="meta-muted">(253-267)</span> | 29 | commentary, transmission, disciplined-reading |
+| commentary-and-afterlife | How do texts survive by being reread? | [Macrobius](norton-texts/macrobius-dream-scipio.md) <span class="meta-muted">(238-242)</span><br>[Hugh of St. Victor](norton-texts/hugh-didascalicon.md) <span class="meta-muted">(243-252)</span><br>[Moses Maimonides](norton-texts/maimonides-guide-perplexed.md) <span class="meta-muted">(253-267)</span><br>[Geoffrey of Vinsauf](norton-texts/geoffrey-poetria-nova.md) <span class="meta-muted">(268-281)</span><br>[Thomas Aquinas](norton-texts/thomas-aquinas-summa-theologica.md) <span class="meta-muted">(282-287)</span> | 47 | commentary, transmission, disciplined-reading |
 
 ## Thinker Chunk Inventory
 
@@ -58,6 +58,8 @@ This page is generated from local extraction metadata. It is a private map for s
 | [Macrobius](norton-texts/macrobius-dream-scipio.md) | 238-242 | 5 | Commentary on the Dream of Scipio | [commentary-and-afterlife](commentary-and-afterlife.md) | 4 | author_intro: 3<br>excerpt: 2 | `generated/authors/norton-theory-criticism/macrobius.md` |
 | [Hugh of St. Victor](norton-texts/hugh-didascalicon.md) | 243-252 | 10 | The Didascalicon | [commentary-and-afterlife](commentary-and-afterlife.md)<br>[signs-and-reading](signs-and-reading.md) | 10 | excerpt: 6<br>author_intro: 4 | `generated/authors/norton-theory-criticism/hugh-of-st-victor.md` |
 | [Moses Maimonides](norton-texts/maimonides-guide-perplexed.md) | 253-267 | 15 | The Guide of the Perplexed | [commentary-and-afterlife](commentary-and-afterlife.md)<br>[signs-and-reading](signs-and-reading.md) | 15 | excerpt: 11<br>author_intro: 4 | `generated/authors/norton-theory-criticism/moses-maimonides.md` |
+| [Geoffrey of Vinsauf](norton-texts/geoffrey-poetria-nova.md) | 268-281 | 14 | Poetria Nova | [commentary-and-afterlife](commentary-and-afterlife.md)<br>[poetry-and-judgment](poetry-and-judgment.md) | 12 | excerpt: 11<br>author_intro: 3 | `generated/authors/norton-theory-criticism/geoffrey-of-vinsauf.md` |
+| [Thomas Aquinas](norton-texts/thomas-aquinas-summa-theologica.md) | 282-287 | 6 | Summa Theologica | [commentary-and-afterlife](commentary-and-afterlife.md)<br>[signs-and-reading](signs-and-reading.md) | 6 | author_intro: 3<br>excerpt: 2<br>mixed_excerpt_bibliography: 1 | `generated/authors/norton-theory-criticism/thomas-aquinas.md` |
 
 ## Audit Trail
 
@@ -70,8 +72,8 @@ This page is generated from local extraction metadata. It is a private map for s
 | Review queue | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
 | Author assembly audit | `work/audit/norton-theory-criticism/author-assembly.csv` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T04:09:53Z` |
-| Git commit | `2efc484` |
+| Generated at | `2026-06-13T04:20:30Z` |
+| Git commit | `923172d` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-map.md` |
 

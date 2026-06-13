@@ -125,6 +125,26 @@ curated_texts:
       - revelation
       - interpretation
     status: edition-review-needed
+  - id: geoffrey-poetria-nova
+    title: Poetria Nova
+    creator: Geoffrey of Vinsauf
+    role: core-text-candidate
+    themes:
+      - poetics
+      - rhetoric
+      - craft
+      - pedagogy
+    status: edition-review-needed
+  - id: thomas-aquinas-summa-theologica
+    title: Summa Theologica
+    creator: Thomas Aquinas
+    role: core-text-candidate
+    themes:
+      - interpretation
+      - theology
+      - allegory
+      - education
+    status: edition-review-needed
 
 constellations:
   - id: rhetoric-and-force
@@ -145,6 +165,7 @@ constellations:
       - aristotle-poetics-rhetoric
       - horace-ars-poetica
       - longinus-on-sublimity
+      - geoffrey-poetria-nova
     relations:
       - tension
       - craft
@@ -156,6 +177,7 @@ constellations:
       - augustine-on-christian-doctrine-trinity
       - hugh-didascalicon
       - maimonides-guide-perplexed
+      - thomas-aquinas-summa-theologica
     relations:
       - writing
       - interpretation
@@ -176,6 +198,8 @@ constellations:
       - macrobius-dream-scipio
       - hugh-didascalicon
       - maimonides-guide-perplexed
+      - geoffrey-poetria-nova
+      - thomas-aquinas-summa-theologica
     relations:
       - commentary
       - transmission

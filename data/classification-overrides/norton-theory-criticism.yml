@@ -338,3 +338,65 @@ overrides:
     starts_new_author: false
     continues_previous_author: true
     confidence: high
+
+  - id: geoffrey-of-vinsauf-headnote
+    pages: 268-270
+    author_name: Geoffrey of Vinsauf
+    author_slug: geoffrey-of-vinsauf
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: geoffrey-of-vinsauf-poetria-nova
+    pages: 271-281
+    author_name: Geoffrey of Vinsauf
+    author_slug: geoffrey-of-vinsauf
+    work_title: Poetria Nova
+    work_slug: poetria-nova
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: thomas-aquinas-headnote
+    pages: 282-284
+    author_name: Thomas Aquinas
+    author_slug: thomas-aquinas
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: thomas-aquinas-summa-theologica-opening
+    pages: 285
+    author_name: Thomas Aquinas
+    author_slug: thomas-aquinas
+    work_title: Summa Theologica
+    work_slug: summa-theologica
+    page_kind: mixed_excerpt_bibliography
+    starts_new_author: false
+    continues_previous_author: true
+    contains_excerpt: true
+    contains_bibliography: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_excerpt_and_bibliography
+
+  - id: thomas-aquinas-summa-theologica
+    pages: 286-287
+    author_name: Thomas Aquinas
+    author_slug: thomas-aquinas
+    work_title: Summa Theologica
+    work_slug: summa-theologica
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high

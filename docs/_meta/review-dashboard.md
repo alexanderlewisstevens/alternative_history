@@ -5,15 +5,15 @@ This is the editorial queue for restricted extraction work. It is generated from
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Boundary Review</div>
-  <div class="ah-metric-value">27</div>
+  <div class="ah-metric-value">34</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Content Separation</div>
-  <div class="ah-metric-value">2</div>
+  <div class="ah-metric-value">3</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Layout Review</div>
-  <div class="ah-metric-value">92</div>
+  <div class="ah-metric-value">102</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Source Notes</div>
@@ -29,22 +29,22 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 <div class="ah-review-grid">
 <section class="ah-review-card warn">
-  <div class="ah-review-card-kicker">27 pages</div>
+  <div class="ah-review-card-kicker">34 pages</div>
   <h3>Boundary Review</h3>
   <p>Confirm thinker and work boundaries before assembling public-facing drafts.</p>
-  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +15 more</p>
+  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +22 more</p>
 </section>
 <section class="ah-review-card warn">
-  <div class="ah-review-card-kicker">2 pages</div>
+  <div class="ah-review-card-kicker">3 pages</div>
   <h3>Content Separation</h3>
   <p>Keep excerpt text, source notes, and bibliography material in separate template sections.</p>
-  <p><strong>Start:</strong> <code>72</code>, <code>199</code></p>
+  <p><strong>Start:</strong> <code>72</code>, <code>199</code>, <code>285</code></p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">92 pages</div>
+  <div class="ah-review-card-kicker">102 pages</div>
   <h3>Layout Review</h3>
   <p>Confirm multi-column reading order before any summary or excerpt curation.</p>
-  <p><strong>Start:</strong> <code>73</code>, <code>79</code>, <code>80</code>, <code>82</code>, <code>83</code>, <code>84</code>, <code>86</code>, <code>90</code>, <code>91</code>, <code>92</code>, <code>93</code>, <code>94</code> +80 more</p>
+  <p><strong>Start:</strong> <code>73</code>, <code>79</code>, <code>80</code>, <code>82</code>, <code>83</code>, <code>84</code>, <code>86</code>, <code>90</code>, <code>91</code>, <code>92</code>, <code>93</code>, <code>94</code> +90 more</p>
 </section>
 <section class="ah-review-card neutral">
   <div class="ah-review-card-kicker">22 pages</div>
@@ -66,11 +66,11 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Field | Value |
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
-| Classified source pages | `71-267` |
-| Review queue rows | `143` |
+| Classified source pages | `71-287` |
+| Review queue rows | `161` |
 | Review queue file | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
-| Generated at | `2026-06-13T04:09:52Z` |
-| Git commit | `2efc484` |
+| Generated at | `2026-06-13T04:20:29Z` |
+| Git commit | `923172d` |
 | Script version | `1` |
 | Output path | `docs/_meta/review-dashboard.md` |
 
@@ -78,12 +78,12 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 | Reason | Pages |
 | --- | ---: |
-| multi_column_layout | 95 |
-| source_notes_detected | 88 |
-| transition_from_previous_author | 23 |
+| multi_column_layout | 105 |
+| source_notes_detected | 93 |
+| transition_from_previous_author | 29 |
 | layout_review_required | 6 |
-| mixed_excerpt_and_bibliography | 2 |
-| author_boundary_without_life_dates | 2 |
+| mixed_excerpt_and_bibliography | 3 |
+| author_boundary_without_life_dates | 3 |
 | transition_from_previous_work | 2 |
 
 ## Thinkers Needing Review
@@ -95,10 +95,12 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Longinus | 19 |
 | Moses Maimonides | 15 |
 | Horace | 14 |
+| Geoffrey of Vinsauf | 12 |
 | Quintilian | 10 |
 | Hugh of St. Victor | 10 |
 | Augustine of Hippo | 9 |
 | Plotinus | 7 |
+| Thomas Aquinas | 6 |
 | Macrobius | 4 |
 | Gorgias of Leontini | 3 |
 
@@ -133,6 +135,13 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 254 | Moses Maimonides |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0254.md |
 | 255 | Moses Maimonides |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0255.md |
 | 256 | Moses Maimonides | The Guide of the Perplexed! | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0256.md |
+| 268 | Geoffrey of Vinsauf |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0268.md |
+| 269 | Geoffrey of Vinsauf |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0269.md |
+| 270 | Geoffrey of Vinsauf |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0270.md |
+| 282 | Thomas Aquinas |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0282.md |
+| 283 | Thomas Aquinas | Thomas Aquinas | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0283.md |
+| 284 | Thomas Aquinas |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0284.md |
+| 287 | Thomas Aquinas | Summa Theologica | author_boundary_without_life_dates;source_notes_detected | work/page-records/norton-theory-criticism/page_0287.md |
 
 ## Content Separation
 
@@ -140,6 +149,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | ---: | --- | --- | --- | --- |
 | 72 | Gorgias of Leontini | Encomium of Helen | mixed_excerpt_and_bibliography;multi_column_layout | work/page-records/norton-theory-criticism/page_0072.md |
 | 199 | Quintilian | Institutio Oratoria | mixed_excerpt_and_bibliography | work/page-records/norton-theory-criticism/page_0199.md |
+| 285 | Thomas Aquinas | Summa Theologica | mixed_excerpt_and_bibliography | work/page-records/norton-theory-criticism/page_0285.md |
 
 ## Layout Review
 
@@ -237,6 +247,16 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 265 | Moses Maimonides | The Guide of the Perplexed | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0265.md |
 | 266 | Moses Maimonides | The Guide of the Perplexed | multi_column_layout | work/page-records/norton-theory-criticism/page_0266.md |
 | 267 | Moses Maimonides | The Guide of the Perplexed | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0267.md |
+| 271 | Geoffrey of Vinsauf | Poetria Nova | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0271.md |
+| 272 | Geoffrey of Vinsauf | Poetria Nova | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0272.md |
+| 273 | Geoffrey of Vinsauf | Poetria Nova | multi_column_layout | work/page-records/norton-theory-criticism/page_0273.md |
+| 274 | Geoffrey of Vinsauf | Poetria Nova | multi_column_layout | work/page-records/norton-theory-criticism/page_0274.md |
+| 276 | Geoffrey of Vinsauf | Poetria Nova | multi_column_layout | work/page-records/norton-theory-criticism/page_0276.md |
+| 277 | Geoffrey of Vinsauf | Poetria Nova | multi_column_layout | work/page-records/norton-theory-criticism/page_0277.md |
+| 278 | Geoffrey of Vinsauf | Poetria Nova | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0278.md |
+| 279 | Geoffrey of Vinsauf | Poetria Nova | multi_column_layout | work/page-records/norton-theory-criticism/page_0279.md |
+| 280 | Geoffrey of Vinsauf | Poetria Nova | multi_column_layout | work/page-records/norton-theory-criticism/page_0280.md |
+| 286 | Thomas Aquinas | Summa Theologica | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0286.md |
 
 ## Source Notes
 

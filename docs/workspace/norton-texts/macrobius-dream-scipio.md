@@ -88,8 +88,8 @@ This note turns the current Norton chunk for Macrobius into a navigable workspac
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/macrobius.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T04:09:53Z` |
-| Git commit | `2efc484` |
+| Generated at | `2026-06-13T04:20:31Z` |
+| Git commit | `923172d` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/macrobius-dream-scipio.md` |
 

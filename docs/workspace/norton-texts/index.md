@@ -10,11 +10,11 @@ This index is generated from curated source metadata and local extraction audit 
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Curated Text Nodes</div>
-  <div class="ah-metric-value">11</div>
+  <div class="ah-metric-value">13</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Assembled Chunks</div>
-  <div class="ah-metric-value">11</div>
+  <div class="ah-metric-value">13</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Constellations</div>
@@ -37,6 +37,8 @@ This index is generated from curated source metadata and local extraction audit 
 | [Commentary on the Dream of Scipio](macrobius-dream-scipio.md) | Macrobius | 238-242 | [commentary-and-afterlife](../commentary-and-afterlife.md) | 0 | 4 | `edition-review-needed` |
 | [The Didascalicon](hugh-didascalicon.md) | Hugh of St. Victor | 243-252 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md) | 0 | 10 | `edition-review-needed` |
 | [The Guide of the Perplexed](maimonides-guide-perplexed.md) | Moses Maimonides | 253-267 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md) | 0 | 15 | `edition-review-needed` |
+| [Poetria Nova](geoffrey-poetria-nova.md) | Geoffrey of Vinsauf | 268-281 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md) | 0 | 12 | `edition-review-needed` |
+| [Summa Theologica](thomas-aquinas-summa-theologica.md) | Thomas Aquinas | 282-287 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md) | 0 | 6 | `edition-review-needed` |
 
 ## How To Use This Index
 
@@ -63,7 +65,7 @@ This index is generated from curated source metadata and local extraction audit 
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T04:09:53Z` |
-| Git commit | `2efc484` |
+| Generated at | `2026-06-13T04:20:31Z` |
+| Git commit | `923172d` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/index.md` |

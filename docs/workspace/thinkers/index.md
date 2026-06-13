@@ -11,6 +11,7 @@ This private index is generated from curated source metadata and local extractio
 | --- | ---: | --- |
 | [Aristotle](aristotle.md) | 1 | Poetics and Rhetoric |
 | [Augustine of Hippo](augustine-of-hippo.md) | 1 | On Christian Doctrine and The Trinity |
+| [Geoffrey of Vinsauf](geoffrey-of-vinsauf.md) | 1 | Poetria Nova |
 | [Gorgias](gorgias-of-leontini.md) | 1 | Encomium of Helen |
 | [Horace](horace.md) | 1 | Ars Poetica |
 | [Hugh of St. Victor](hugh-of-st-victor.md) | 1 | The Didascalicon |
@@ -20,6 +21,7 @@ This private index is generated from curated source metadata and local extractio
 | [Plato](plato.md) | 1 | Selected dialogues |
 | [Plotinus](plotinus.md) | 1 | Selected Enneads |
 | [Quintilian](quintilian.md) | 1 | Institutio Oratoria |
+| [Thomas Aquinas](thomas-aquinas.md) | 1 | Summa Theologica |
 
 ## Provenance
 
@@ -42,7 +44,7 @@ This private index is generated from curated source metadata and local extractio
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
-| Generated at | `2026-06-13T04:09:52Z` |
-| Git commit | `2efc484` |
+| Generated at | `2026-06-13T04:20:30Z` |
+| Git commit | `923172d` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/index.md` |
