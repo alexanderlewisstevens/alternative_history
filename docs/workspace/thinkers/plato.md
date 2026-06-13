@@ -20,7 +20,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [Selected dialogues](../norton-texts/plato-selected-dialogues.md) | 75-127 | 29 | 0 | [rhetoric-and-force](../rhetoric-and-force.md)<br>[poetry-and-judgment](../poetry-and-judgment.md)<br>[signs-and-reading](../signs-and-reading.md) | `edition-review-needed` |
+| [Selected dialogues](../norton-texts/plato-selected-dialogues.md) | 75-127 | 29 | 0 | [rhetoric-and-force](../rhetoric-and-force.md)<br>[poetry-and-judgment](../poetry-and-judgment.md)<br>[signs-and-reading](../signs-and-reading.md)<br>[education-and-civic-life](../education-and-civic-life.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -34,6 +34,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 ## Constellation Backlinks
 
+- [education-and-civic-life](../education-and-civic-life.md)
 - [poetry-and-judgment](../poetry-and-judgment.md)
 - [rhetoric-and-force](../rhetoric-and-force.md)
 - [signs-and-reading](../signs-and-reading.md)
@@ -95,8 +96,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T04:20:30Z` |
-| Git commit | `923172d` |
+| Generated at | `2026-06-13T04:26:19Z` |
+| Git commit | `383dabc` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/plato.md` |
 

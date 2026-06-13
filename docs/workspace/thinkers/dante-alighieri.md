@@ -1,10 +1,10 @@
-# Hugh of St. Victor
+# Dante Alighieri
 
 <div class="ah-note-meta">
   <span><strong>Type:</strong> thinker node</span>
   <span><strong>Status:</strong> generated private workspace note</span>
   <span><strong>Source mode:</strong> restricted metadata only</span>
-  <span><strong>Tags:</strong> classification, pedagogy, reading</span>
+  <span><strong>Tags:</strong> allegory, commentary, interpretation, vernacular</span>
 </div>
 
 <div class="ah-private-banner">
@@ -20,25 +20,27 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [The Didascalicon](../norton-texts/hugh-didascalicon.md) | 243-252 | 10 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md) | `edition-review-needed` |
+| [Il Convivio and The Letter to Can Grande](../norton-texts/dante-il-convivio-letter-can-grande.md) | 288-294 | 5 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[vernacular-and-institution](../vernacular-and-institution.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
-- The Didascalicon
+- Il Convivio and The Letter to Can Grande
+- Il Convivio
+- The Letter to Can Grande
 
 ## Constellation Backlinks
 
 - [commentary-and-afterlife](../commentary-and-afterlife.md)
-- [education-and-civic-life](../education-and-civic-life.md)
 - [signs-and-reading](../signs-and-reading.md)
+- [vernacular-and-institution](../vernacular-and-institution.md)
 
 ## Review Pressure
 
 | Signal | Value |
 | --- | --- |
-| Page kinds | excerpt: 6<br>author_intro: 4 |
-| Review rows | 10 |
-| Review reasons | multi_column_layout: 6<br>transition_from_previous_author: 4<br>source_notes_detected: 4 |
+| Page kinds | excerpt: 4<br>author_intro: 3 |
+| Review rows | 5 |
+| Review reasons | transition_from_previous_author: 3<br>multi_column_layout: 2<br>source_notes_detected: 2 |
 
 ## Passage Queue
 
@@ -85,14 +87,14 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Field | Value |
 | --- | --- |
-| Thinker slug | `hugh-of-st-victor` |
+| Thinker slug | `dante-alighieri` |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Generated at | `2026-06-13T04:26:19Z` |
 | Git commit | `383dabc` |
 | Script version | `1` |
-| Output path | `docs/workspace/thinkers/hugh-of-st-victor.md` |
+| Output path | `docs/workspace/thinkers/dante-alighieri.md` |
 
 ## Open Questions
 

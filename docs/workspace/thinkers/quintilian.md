@@ -20,7 +20,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [Institutio Oratoria](../norton-texts/quintilian-institutio-oratoria.md) | 197-212 | 10 | 0 | [rhetoric-and-force](../rhetoric-and-force.md) | `edition-review-needed` |
+| [Institutio Oratoria](../norton-texts/quintilian-institutio-oratoria.md) | 197-212 | 10 | 0 | [rhetoric-and-force](../rhetoric-and-force.md)<br>[education-and-civic-life](../education-and-civic-life.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -28,6 +28,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 ## Constellation Backlinks
 
+- [education-and-civic-life](../education-and-civic-life.md)
 - [rhetoric-and-force](../rhetoric-and-force.md)
 
 ## Review Pressure
@@ -87,8 +88,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T04:20:30Z` |
-| Git commit | `923172d` |
+| Generated at | `2026-06-13T04:26:19Z` |
+| Git commit | `383dabc` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/quintilian.md` |
 

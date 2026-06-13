@@ -1,10 +1,10 @@
-# Hugh of St. Victor
+# Sir Philip Sidney
 
 <div class="ah-note-meta">
   <span><strong>Type:</strong> thinker node</span>
   <span><strong>Status:</strong> generated private workspace note</span>
   <span><strong>Source mode:</strong> restricted metadata only</span>
-  <span><strong>Tags:</strong> classification, pedagogy, reading</span>
+  <span><strong>Tags:</strong> civic-formation, education, poetry, rhetoric</span>
 </div>
 
 <div class="ah-private-banner">
@@ -20,25 +20,25 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [The Didascalicon](../norton-texts/hugh-didascalicon.md) | 243-252 | 10 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md) | `edition-review-needed` |
+| [The Defense of Poesy](../norton-texts/sidney-defense-of-poesy.md) | 365-367 | 3 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
-- The Didascalicon
+- The Defense of Poesy
 
 ## Constellation Backlinks
 
-- [commentary-and-afterlife](../commentary-and-afterlife.md)
 - [education-and-civic-life](../education-and-civic-life.md)
-- [signs-and-reading](../signs-and-reading.md)
+- [poetry-and-judgment](../poetry-and-judgment.md)
+- [vernacular-and-institution](../vernacular-and-institution.md)
 
 ## Review Pressure
 
 | Signal | Value |
 | --- | --- |
-| Page kinds | excerpt: 6<br>author_intro: 4 |
-| Review rows | 10 |
-| Review reasons | multi_column_layout: 6<br>transition_from_previous_author: 4<br>source_notes_detected: 4 |
+| Page kinds | author_intro: 3 |
+| Review rows | 3 |
+| Review reasons | transition_from_previous_author: 3 |
 
 ## Passage Queue
 
@@ -85,14 +85,14 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Field | Value |
 | --- | --- |
-| Thinker slug | `hugh-of-st-victor` |
+| Thinker slug | `sir-philip-sidney` |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Generated at | `2026-06-13T04:26:19Z` |
 | Git commit | `383dabc` |
 | Script version | `1` |
-| Output path | `docs/workspace/thinkers/hugh-of-st-victor.md` |
+| Output path | `docs/workspace/thinkers/sir-philip-sidney.md` |
 
 ## Open Questions
 

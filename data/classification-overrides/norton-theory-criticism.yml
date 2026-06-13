@@ -400,3 +400,219 @@ overrides:
     starts_new_author: false
     continues_previous_author: true
     confidence: high
+
+  - id: dante-alighieri-headnote
+    pages: 288-290
+    author_name: Dante Alighieri
+    author_slug: dante-alighieri
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: dante-alighieri-il-convivio
+    pages: 291-292
+    author_name: Dante Alighieri
+    author_slug: dante-alighieri
+    work_title: Il Convivio
+    work_slug: il-convivio
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: dante-alighieri-letter-can-grande
+    pages: 293-294
+    author_name: Dante Alighieri
+    author_slug: dante-alighieri
+    work_title: The Letter to Can Grande
+    work_slug: the-letter-to-can-grande
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: giovanni-boccaccio-headnote
+    pages: 295-296
+    author_name: Giovanni Boccaccio
+    author_slug: giovanni-boccaccio
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: giovanni-boccaccio-genealogy-opening
+    pages: 297
+    author_name: Giovanni Boccaccio
+    author_slug: giovanni-boccaccio
+    work_title: Genealogy of the Gentile Gods
+    work_slug: genealogy-of-the-gentile-gods
+    page_kind: mixed_excerpt_bibliography
+    starts_new_author: false
+    continues_previous_author: true
+    contains_excerpt: true
+    contains_bibliography: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_excerpt_and_bibliography
+
+  - id: giovanni-boccaccio-genealogy
+    pages: 298-304
+    author_name: Giovanni Boccaccio
+    author_slug: giovanni-boccaccio
+    work_title: Genealogy of the Gentile Gods
+    work_slug: genealogy-of-the-gentile-gods
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: christine-de-pizan-headnote
+    pages: 305-306
+    author_name: Christine de Pizan
+    author_slug: christine-de-pizan
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: christine-de-pizan-city-of-ladies
+    pages: 307-312
+    author_name: Christine de Pizan
+    author_slug: christine-de-pizan
+    work_title: The Book of the City of Ladies
+    work_slug: the-book-of-the-city-of-ladies
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: giambattista-giraldi-headnote
+    pages: 313-314
+    author_name: Giambattista Giraldi
+    author_slug: giambattista-giraldi
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: giambattista-giraldi-composition-romances
+    pages: 315-320
+    author_name: Giambattista Giraldi
+    author_slug: giambattista-giraldi
+    work_title: Discourse on the Composition of Romances
+    work_slug: discourse-on-the-composition-of-romances
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: joachim-du-bellay-headnote
+    pages: 321-323
+    author_name: Joachim du Bellay
+    author_slug: joachim-du-bellay
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: joachim-du-bellay-defense-french-language
+    pages: 324-332
+    author_name: Joachim du Bellay
+    author_slug: joachim-du-bellay
+    work_title: The Defence and Illustration of the French Language
+    work_slug: the-defence-and-illustration-of-the-french-language
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: pierre-de-ronsard-headnote
+    pages: 333-335
+    author_name: Pierre de Ronsard
+    author_slug: pierre-de-ronsard
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: pierre-de-ronsard-brief-art-french-poetry
+    pages: 336-341
+    author_name: Pierre de Ronsard
+    author_slug: pierre-de-ronsard
+    work_title: A Brief on the Art of French Poetry
+    work_slug: a-brief-on-the-art-of-french-poetry
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: giacopo-mazzoni-headnote
+    pages: 342-343
+    author_name: Giacopo Mazzoni
+    author_slug: giacopo-mazzoni
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: giacopo-mazzoni-defense-comedy-opening
+    pages: 344
+    author_name: Giacopo Mazzoni
+    author_slug: giacopo-mazzoni
+    work_title: On the Defense of the Comedy of Dante
+    work_slug: on-the-defense-of-the-comedy-of-dante
+    page_kind: mixed_excerpt_bibliography
+    starts_new_author: false
+    continues_previous_author: true
+    contains_excerpt: true
+    contains_bibliography: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_excerpt_and_bibliography
+
+  - id: giacopo-mazzoni-defense-comedy
+    pages: 345-364
+    author_name: Giacopo Mazzoni
+    author_slug: giacopo-mazzoni
+    work_title: On the Defense of the Comedy of Dante
+    work_slug: on-the-defense-of-the-comedy-of-dante
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: sir-philip-sidney-headnote
+    pages: 365-367
+    author_name: Sir Philip Sidney
+    author_slug: sir-philip-sidney
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author

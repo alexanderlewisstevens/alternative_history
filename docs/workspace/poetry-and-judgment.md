@@ -27,6 +27,10 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/aristotle-poetics-rhetoric/"><strong>Aristotle, Poetics and Rhetoric</strong><span>poetics, rhetoric, genre; pages 128-162; 23 review rows</span></a>
   <a href="../norton-texts/horace-ars-poetica/"><strong>Horace, Ars Poetica</strong><span>literary-judgment, craft, decorum; pages 163-176; 14 review rows</span></a>
   <a href="../norton-texts/longinus-on-sublimity/"><strong>Longinus, On Sublimity</strong><span>sublimity, aesthetics, authority; pages 177-196; 19 review rows</span></a>
+  <a href="../norton-texts/geoffrey-poetria-nova/"><strong>Geoffrey of Vinsauf, Poetria Nova</strong><span>poetics, rhetoric, craft; pages 268-281; 12 review rows</span></a>
+  <a href="../norton-texts/boccaccio-genealogy-gentile-gods/"><strong>Giovanni Boccaccio, Genealogy of the Gentile Gods</strong><span>poetics, mythology, defense-of-poetry; pages 295-304; 9 review rows</span></a>
+  <a href="../norton-texts/pierre-de-ronsard-art-french-poetry/"><strong>Pierre de Ronsard, A Brief on the Art of French Poetry</strong><span>poetics, craft, vernacular; pages 333-341; 5 review rows</span></a>
+  <a href="../norton-texts/sidney-defense-of-poesy/"><strong>Sir Philip Sidney, The Defense of Poesy</strong><span>poetry, rhetoric, education; pages 365-367; 3 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -43,6 +47,10 @@ This is a scaffold for reading the configured texts together. It should become a
 2. [Aristotle, Poetics and Rhetoric](norton-texts/aristotle-poetics-rhetoric.md)
 3. [Horace, Ars Poetica](norton-texts/horace-ars-poetica.md)
 4. [Longinus, On Sublimity](norton-texts/longinus-on-sublimity.md)
+5. [Geoffrey of Vinsauf, Poetria Nova](norton-texts/geoffrey-poetria-nova.md)
+6. [Giovanni Boccaccio, Genealogy of the Gentile Gods](norton-texts/boccaccio-genealogy-gentile-gods.md)
+7. [Pierre de Ronsard, A Brief on the Art of French Poetry](norton-texts/pierre-de-ronsard-art-french-poetry.md)
+8. [Sir Philip Sidney, The Defense of Poesy](norton-texts/sidney-defense-of-poesy.md)
 
 ## Review Pressure
 
@@ -52,6 +60,10 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Poetics and Rhetoric](norton-texts/aristotle-poetics-rhetoric.md) | 128-162 | 23 | excerpt: 30<br>author_intro: 5 |
 | [Ars Poetica](norton-texts/horace-ars-poetica.md) | 163-176 | 14 | excerpt: 10<br>author_intro: 4 |
 | [On Sublimity](norton-texts/longinus-on-sublimity.md) | 177-196 | 19 | excerpt: 16<br>author_intro: 4 |
+| [Poetria Nova](norton-texts/geoffrey-poetria-nova.md) | 268-281 | 12 | excerpt: 11<br>author_intro: 3 |
+| [Genealogy of the Gentile Gods](norton-texts/boccaccio-genealogy-gentile-gods.md) | 295-304 | 9 | excerpt: 7<br>author_intro: 2<br>mixed_excerpt_bibliography: 1 |
+| [A Brief on the Art of French Poetry](norton-texts/pierre-de-ronsard-art-french-poetry.md) | 333-341 | 5 | excerpt: 6<br>author_intro: 3 |
+| [The Defense of Poesy](norton-texts/sidney-defense-of-poesy.md) | 365-367 | 3 | author_intro: 3 |
 
 ## Passage Queue
 
@@ -70,12 +82,31 @@ This is a scaffold for reading the configured texts together. It should become a
   <p><strong>Promotion rule:</strong> do not turn this into public-facing interpretation until the selected passages and editions are reviewed.</p>
 </section>
 
+## Provenance
+
+<div class="ah-provenance-table">
+  <table>
+    <thead>
+      <tr><th>Layer</th><th>Status</th></tr>
+    </thead>
+    <tbody>
+    <tr><td>Source-derived metadata</td><td>Constellation ID, question, text IDs, relations, source title, and rights status come from tracked source metadata.</td></tr>
+    <tr><td>Extraction-derived metadata</td><td>Page ranges, review rows, and page-kind summaries come from local extraction audit artifacts.</td></tr>
+    <tr><td>Generated scaffold</td><td>Working Claim, Relationship Map, Passage Queue, Review Pressure, and Open Questions are generated scaffolding.</td></tr>
+    <tr><td>Human commentary</td><td>Not yet reviewed as interpretive commentary.</td></tr>
+    <tr><td>Copied source prose</td><td>None. This generated page contains no copied Norton prose.</td></tr>
+    </tbody>
+  </table>
+</div>
+
 ## Backlinks
 
-- [Private Knowledge Base](index.md)
-- [Norton Workspace Map](norton-map.md)
-- [Norton Text Notes](norton-texts/index.md)
-- [Constellation Catalog](../catalog/constellations.md)
+<ul class="ah-backlink-list">
+<li><a href="../">Private Knowledge Base</a></li>
+<li><a href="../norton-map/">Norton Workspace Map</a></li>
+<li><a href="../norton-texts/">Norton Text Notes</a></li>
+<li><a href="../../catalog/constellations/">Constellation Catalog</a></li>
+</ul>
 
 ## Audit Trail
 
@@ -86,9 +117,9 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T01:47:25Z` |
-| Git commit | `8bc76e4` |
-| Script version | `1` |
+| Generated at | `2026-06-13T04:25:50Z` |
+| Git commit | `383dabc` |
+| Script version | `2` |
 | Output path | `docs/workspace/poetry-and-judgment.md` |
 
 ## Open Questions

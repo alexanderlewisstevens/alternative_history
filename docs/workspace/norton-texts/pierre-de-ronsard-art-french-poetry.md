@@ -1,10 +1,10 @@
-# Thomas Aquinas, Summa Theologica
+# Pierre de Ronsard, A Brief on the Art of French Poetry
 
 <div class="ah-note-meta">
   <span><strong>Type:</strong> Norton text node</span>
   <span><strong>Status:</strong> generated private workspace note</span>
   <span><strong>Source mode:</strong> restricted metadata only</span>
-  <span><strong>Tags:</strong> interpretation, theology, allegory, education</span>
+  <span><strong>Tags:</strong> poetics, craft, vernacular, education</span>
 </div>
 
 <div class="ah-private-banner">
@@ -14,44 +14,44 @@
 
 ## Working Use
 
-This note turns the current Norton chunk for Thomas Aquinas into a navigable workspace node. Use it to move between the restricted draft, the curated text spine, the first constellations, and the review queue before writing public-facing commentary.
+This note turns the current Norton chunk for Pierre de Ronsard into a navigable workspace node. Use it to move between the restricted draft, the curated text spine, the first constellations, and the review queue before writing public-facing commentary.
 
 ## Current Chunk
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Chunk Status</span>
-  <h3>Norton Pages 282-287</h3>
-  <p><strong>Page count:</strong> 6</p>
-  <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/thomas-aquinas.md</code></p>
-  <p><strong>Page kinds:</strong> author_intro: 3<br>excerpt: 2<br>mixed_excerpt_bibliography: 1</p>
-  <p><strong>Review pressure:</strong> 6 rows. transition_from_previous_author: 3<br>source_notes_detected: 2<br>mixed_excerpt_and_bibliography: 1<br>multi_column_layout: 1<br>author_boundary_without_life_dates: 1</p>
+  <h3>Norton Pages 333-341</h3>
+  <p><strong>Page count:</strong> 9</p>
+  <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/pierre-de-ronsard.md</code></p>
+  <p><strong>Page kinds:</strong> excerpt: 6<br>author_intro: 3</p>
+  <p><strong>Review pressure:</strong> 5 rows. transition_from_previous_author: 3<br>multi_column_layout: 2<br>source_notes_detected: 2</p>
 </section>
 
 ## Works And Excerpt Blocks
 
-- Summa Theologica
+- A Brief on the Art of French Poetry
 
 ## Constellations
 
 | Constellation | Core Question | Relations |
 | --- | --- | --- |
-| [signs-and-reading](../signs-and-reading.md) | How should difficult texts be read? | writing, interpretation, allegory |
-| [commentary-and-afterlife](../commentary-and-afterlife.md) | How do texts survive by being reread? | commentary, transmission, disciplined-reading |
+| [poetry-and-judgment](../poetry-and-judgment.md) | Who gets to judge art? | tension, craft, excess |
+| [vernacular-and-institution](../vernacular-and-institution.md) | How do languages become institutions of thought? | vernacular, imitation, nation |
 
 ## Passage Queue
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Anchor Candidates</span>
   <h3>Choose Passages After Review</h3>
-  <p><strong>Source location:</strong> Norton page range 282-287.</p>
+  <p><strong>Source location:</strong> Norton page range 333-341.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
-  <p><strong>Use:</strong> Find the passages that make this text active inside signs-and-reading, commentary-and-afterlife.</p>
+  <p><strong>Use:</strong> Find the passages that make this text active inside poetry-and-judgment, vernacular-and-institution.</p>
 </section>
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Review Before Quoting</span>
   <h3>Layout, Notes, And Bibliography</h3>
-  <p><strong>Review signal:</strong> transition_from_previous_author: 3<br>source_notes_detected: 2<br>mixed_excerpt_and_bibliography: 1<br>multi_column_layout: 1<br>author_boundary_without_life_dates: 1</p>
+  <p><strong>Review signal:</strong> transition_from_previous_author: 3<br>multi_column_layout: 2<br>source_notes_detected: 2</p>
   <p><strong>Editorial rule:</strong> source notes belong in source-note fields, bibliography belongs in bibliography fields, and excerpt text stays separate.</p>
 </section>
 
@@ -80,19 +80,19 @@ This note turns the current Norton chunk for Thomas Aquinas into a navigable wor
 
 | Field | Value |
 | --- | --- |
-| Text ID | `thomas-aquinas-summa-theologica` |
-| Curated title | Summa Theologica |
-| Creator | Thomas Aquinas |
-| Thinker note | [Thomas Aquinas](../thinkers/thomas-aquinas.md) |
+| Text ID | `pierre-de-ronsard-art-french-poetry` |
+| Curated title | A Brief on the Art of French Poetry |
+| Creator | Pierre de Ronsard |
+| Thinker note | [Pierre de Ronsard](../thinkers/pierre-de-ronsard.md) |
 | Register status | `edition-review-needed` |
 | Source anthology | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Restricted draft | `generated/authors/norton-theory-criticism/thomas-aquinas.md` |
+| Restricted draft | `generated/authors/norton-theory-criticism/pierre-de-ronsard.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
 | Generated at | `2026-06-13T04:26:20Z` |
 | Git commit | `383dabc` |
 | Script version | `2` |
-| Output path | `docs/workspace/norton-texts/thomas-aquinas-summa-theologica.md` |
+| Output path | `docs/workspace/norton-texts/pierre-de-ronsard-art-french-poetry.md` |
 
 ## Backlinks
 
@@ -101,10 +101,10 @@ This note turns the current Norton chunk for Thomas Aquinas into a navigable wor
 <li><a href="../../norton-map/">Norton Workspace Map</a></li>
 <li><a href="../../">Private Knowledge Base</a></li>
 <li><a href="../../../catalog/sources/">Text Catalog</a></li>
-<li>Thinker: <a href="../../thinkers/thomas-aquinas/">Thomas Aquinas</a></li>
+<li>Thinker: <a href="../../thinkers/pierre-de-ronsard/">Pierre de Ronsard</a></li>
 <li><a href="../../passages/">Passage Notes</a></li>
-<li><a href="../../signs-and-reading/">signs-and-reading</a></li>
-<li><a href="../../commentary-and-afterlife/">commentary-and-afterlife</a></li>
+<li><a href="../../poetry-and-judgment/">poetry-and-judgment</a></li>
+<li><a href="../../vernacular-and-institution/">vernacular-and-institution</a></li>
 </ul>
 
 ## Open Questions

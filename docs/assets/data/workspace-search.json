@@ -132,14 +132,16 @@
       "id": "constellation:commentary-and-afterlife",
       "kind": "constellation",
       "review_pressure": 0,
-      "search_text": "commentary and afterlife how do texts survive by being reread?   private constellation draft commentary disciplined-reading geoffrey-poetria-nova hugh-didascalicon macrobius-dream-scipio maimonides-guide-perplexed thomas-aquinas-summa-theologica transmission commentary-and-afterlife",
+      "search_text": "commentary and afterlife how do texts survive by being reread?   private constellation draft commentary dante-il-convivio-letter-can-grande disciplined-reading geoffrey-poetria-nova hugh-didascalicon joachim-du-bellay-defense-french-language macrobius-dream-scipio maimonides-guide-perplexed thomas-aquinas-summa-theologica transmission commentary-and-afterlife",
       "status": "private constellation draft",
       "summary": "How do texts survive by being reread?",
       "tags": [
         "commentary",
+        "dante-il-convivio-letter-can-grande",
         "disciplined-reading",
         "geoffrey-poetria-nova",
         "hugh-didascalicon",
+        "joachim-du-bellay-defense-french-language",
         "macrobius-dream-scipio",
         "maimonides-guide-perplexed",
         "thomas-aquinas-summa-theologica",
@@ -152,22 +154,51 @@
     },
     {
       "constellations": [
+        "education-and-civic-life"
+      ],
+      "id": "constellation:education-and-civic-life",
+      "kind": "constellation",
+      "review_pressure": 0,
+      "search_text": "education and civic life what should education make possible for citizens?   private constellation draft aristotle-poetics-rhetoric authority christine-de-pizan-city-of-ladies civic-formation hugh-didascalicon pedagogy plato-selected-dialogues quintilian-institutio-oratoria sidney-defense-of-poesy education-and-civic-life",
+      "status": "private constellation draft",
+      "summary": "What should education make possible for citizens?",
+      "tags": [
+        "aristotle-poetics-rhetoric",
+        "authority",
+        "christine-de-pizan-city-of-ladies",
+        "civic-formation",
+        "hugh-didascalicon",
+        "pedagogy",
+        "plato-selected-dialogues",
+        "quintilian-institutio-oratoria",
+        "sidney-defense-of-poesy"
+      ],
+      "text_id": "",
+      "thinker": "",
+      "title": "Education And Civic Life",
+      "url": "/workspace/education-and-civic-life/"
+    },
+    {
+      "constellations": [
         "poetry-and-judgment"
       ],
       "id": "constellation:poetry-and-judgment",
       "kind": "constellation",
       "review_pressure": 0,
-      "search_text": "poetry and judgment who gets to judge art?   private constellation draft aristotle-poetics-rhetoric craft excess geoffrey-poetria-nova horace-ars-poetica longinus-on-sublimity plato-selected-dialogues tension poetry-and-judgment",
+      "search_text": "poetry and judgment who gets to judge art?   private constellation draft aristotle-poetics-rhetoric boccaccio-genealogy-gentile-gods craft excess geoffrey-poetria-nova horace-ars-poetica longinus-on-sublimity pierre-de-ronsard-art-french-poetry plato-selected-dialogues sidney-defense-of-poesy tension poetry-and-judgment",
       "status": "private constellation draft",
       "summary": "Who gets to judge art?",
       "tags": [
         "aristotle-poetics-rhetoric",
+        "boccaccio-genealogy-gentile-gods",
         "craft",
         "excess",
         "geoffrey-poetria-nova",
         "horace-ars-poetica",
         "longinus-on-sublimity",
+        "pierre-de-ronsard-art-french-poetry",
         "plato-selected-dialogues",
+        "sidney-defense-of-poesy",
         "tension"
       ],
       "text_id": "",
@@ -206,12 +237,14 @@
       "id": "constellation:signs-and-reading",
       "kind": "constellation",
       "review_pressure": 0,
-      "search_text": "signs and reading how should difficult texts be read?   private constellation draft allegory augustine-on-christian-doctrine-trinity hugh-didascalicon interpretation maimonides-guide-perplexed plato-selected-dialogues thomas-aquinas-summa-theologica writing signs-and-reading",
+      "search_text": "signs and reading how should difficult texts be read?   private constellation draft allegory augustine-on-christian-doctrine-trinity dante-il-convivio-letter-can-grande giacopo-mazzoni-defense-comedy-dante hugh-didascalicon interpretation maimonides-guide-perplexed plato-selected-dialogues thomas-aquinas-summa-theologica writing signs-and-reading",
       "status": "private constellation draft",
       "summary": "How should difficult texts be read?",
       "tags": [
         "allegory",
         "augustine-on-christian-doctrine-trinity",
+        "dante-il-convivio-letter-can-grande",
+        "giacopo-mazzoni-defense-comedy-dante",
         "hugh-didascalicon",
         "interpretation",
         "maimonides-guide-perplexed",
@@ -223,6 +256,31 @@
       "thinker": "",
       "title": "Signs And Reading",
       "url": "/workspace/signs-and-reading/"
+    },
+    {
+      "constellations": [
+        "vernacular-and-institution"
+      ],
+      "id": "constellation:vernacular-and-institution",
+      "kind": "constellation",
+      "review_pressure": 0,
+      "search_text": "vernacular and institution how do languages become institutions of thought?   private constellation draft dante-il-convivio-letter-can-grande giambattista-giraldi-composition-romances imitation joachim-du-bellay-defense-french-language nation pierre-de-ronsard-art-french-poetry sidney-defense-of-poesy vernacular vernacular-and-institution",
+      "status": "private constellation draft",
+      "summary": "How do languages become institutions of thought?",
+      "tags": [
+        "dante-il-convivio-letter-can-grande",
+        "giambattista-giraldi-composition-romances",
+        "imitation",
+        "joachim-du-bellay-defense-french-language",
+        "nation",
+        "pierre-de-ronsard-art-french-poetry",
+        "sidney-defense-of-poesy",
+        "vernacular"
+      ],
+      "text_id": "",
+      "thinker": "",
+      "title": "Vernacular And Institution",
+      "url": "/workspace/vernacular-and-institution/"
     },
     {
       "constellations": [
@@ -289,6 +347,30 @@
     },
     {
       "constellations": [
+        "poetry-and-judgment",
+        "vernacular-and-institution"
+      ],
+      "id": "text:pierre-de-ronsard-art-french-poetry",
+      "kind": "text",
+      "review_pressure": 5,
+      "search_text": "a brief on the art of french poetry pierre de ronsard; core-text-candidate; pages 333-341; 5 review rows. pierre de ronsard pierre-de-ronsard-art-french-poetry edition-review-needed craft education poetics poetry-and-judgment vernacular vernacular-and-institution poetry-and-judgment vernacular-and-institution",
+      "status": "edition-review-needed",
+      "summary": "Pierre de Ronsard; core-text-candidate; pages 333-341; 5 review rows.",
+      "tags": [
+        "craft",
+        "education",
+        "poetics",
+        "poetry-and-judgment",
+        "vernacular",
+        "vernacular-and-institution"
+      ],
+      "text_id": "pierre-de-ronsard-art-french-poetry",
+      "thinker": "Pierre de Ronsard",
+      "title": "A Brief on the Art of French Poetry",
+      "url": "/workspace/norton-texts/pierre-de-ronsard-art-french-poetry/"
+    },
+    {
+      "constellations": [
         "poetry-and-judgment"
       ],
       "id": "text:horace-ars-poetica",
@@ -331,6 +413,28 @@
     },
     {
       "constellations": [
+        "vernacular-and-institution"
+      ],
+      "id": "text:giambattista-giraldi-composition-romances",
+      "kind": "text",
+      "review_pressure": 7,
+      "search_text": "discourse on the composition of romances giambattista giraldi; core-text-candidate; pages 313-320; 7 review rows. giambattista giraldi giambattista-giraldi-composition-romances edition-review-needed genre poetics romance vernacular vernacular-and-institution vernacular-and-institution",
+      "status": "edition-review-needed",
+      "summary": "Giambattista Giraldi; core-text-candidate; pages 313-320; 7 review rows.",
+      "tags": [
+        "genre",
+        "poetics",
+        "romance",
+        "vernacular",
+        "vernacular-and-institution"
+      ],
+      "text_id": "giambattista-giraldi-composition-romances",
+      "thinker": "Giambattista Giraldi",
+      "title": "Discourse on the Composition of Romances",
+      "url": "/workspace/norton-texts/giambattista-giraldi-composition-romances/"
+    },
+    {
+      "constellations": [
         "rhetoric-and-force"
       ],
       "id": "text:gorgias-encomium-helen",
@@ -352,17 +456,67 @@
     },
     {
       "constellations": [
+        "poetry-and-judgment"
+      ],
+      "id": "text:boccaccio-genealogy-gentile-gods",
+      "kind": "text",
+      "review_pressure": 9,
+      "search_text": "genealogy of the gentile gods giovanni boccaccio; core-text-candidate; pages 295-304; 9 review rows. giovanni boccaccio boccaccio-genealogy-gentile-gods edition-review-needed defense-of-poetry humanism mythology poetics poetry-and-judgment poetry-and-judgment",
+      "status": "edition-review-needed",
+      "summary": "Giovanni Boccaccio; core-text-candidate; pages 295-304; 9 review rows.",
+      "tags": [
+        "defense-of-poetry",
+        "humanism",
+        "mythology",
+        "poetics",
+        "poetry-and-judgment"
+      ],
+      "text_id": "boccaccio-genealogy-gentile-gods",
+      "thinker": "Giovanni Boccaccio",
+      "title": "Genealogy of the Gentile Gods",
+      "url": "/workspace/norton-texts/boccaccio-genealogy-gentile-gods/"
+    },
+    {
+      "constellations": [
+        "commentary-and-afterlife",
+        "signs-and-reading",
+        "vernacular-and-institution"
+      ],
+      "id": "text:dante-il-convivio-letter-can-grande",
+      "kind": "text",
+      "review_pressure": 5,
+      "search_text": "il convivio and the letter to can grande dante alighieri; core-text-candidate; pages 288-294; 5 review rows. dante alighieri dante-il-convivio-letter-can-grande edition-review-needed allegory commentary commentary-and-afterlife interpretation signs-and-reading vernacular vernacular-and-institution commentary-and-afterlife signs-and-reading vernacular-and-institution",
+      "status": "edition-review-needed",
+      "summary": "Dante Alighieri; core-text-candidate; pages 288-294; 5 review rows.",
+      "tags": [
+        "allegory",
+        "commentary",
+        "commentary-and-afterlife",
+        "interpretation",
+        "signs-and-reading",
+        "vernacular",
+        "vernacular-and-institution"
+      ],
+      "text_id": "dante-il-convivio-letter-can-grande",
+      "thinker": "Dante Alighieri",
+      "title": "Il Convivio and The Letter to Can Grande",
+      "url": "/workspace/norton-texts/dante-il-convivio-letter-can-grande/"
+    },
+    {
+      "constellations": [
+        "education-and-civic-life",
         "rhetoric-and-force"
       ],
       "id": "text:quintilian-institutio-oratoria",
       "kind": "text",
       "review_pressure": 10,
-      "search_text": "institutio oratoria quintilian; core-text-candidate; pages 197-212; 10 review rows. quintilian quintilian-institutio-oratoria edition-review-needed civic-formation education rhetoric rhetoric-and-force rhetoric-and-force",
+      "search_text": "institutio oratoria quintilian; core-text-candidate; pages 197-212; 10 review rows. quintilian quintilian-institutio-oratoria edition-review-needed civic-formation education education-and-civic-life rhetoric rhetoric-and-force education-and-civic-life rhetoric-and-force",
       "status": "edition-review-needed",
       "summary": "Quintilian; core-text-candidate; pages 197-212; 10 review rows.",
       "tags": [
         "civic-formation",
         "education",
+        "education-and-civic-life",
         "rhetoric",
         "rhetoric-and-force"
       ],
@@ -420,17 +574,41 @@
     },
     {
       "constellations": [
+        "signs-and-reading"
+      ],
+      "id": "text:giacopo-mazzoni-defense-comedy-dante",
+      "kind": "text",
+      "review_pressure": 15,
+      "search_text": "on the defense of the comedy of dante giacopo mazzoni; core-text-candidate; pages 342-364; 15 review rows. giacopo mazzoni giacopo-mazzoni-defense-comedy-dante edition-review-needed civic-formation genre mimesis poetics signs-and-reading signs-and-reading",
+      "status": "edition-review-needed",
+      "summary": "Giacopo Mazzoni; core-text-candidate; pages 342-364; 15 review rows.",
+      "tags": [
+        "civic-formation",
+        "genre",
+        "mimesis",
+        "poetics",
+        "signs-and-reading"
+      ],
+      "text_id": "giacopo-mazzoni-defense-comedy-dante",
+      "thinker": "Giacopo Mazzoni",
+      "title": "On the Defense of the Comedy of Dante",
+      "url": "/workspace/norton-texts/giacopo-mazzoni-defense-comedy-dante/"
+    },
+    {
+      "constellations": [
+        "education-and-civic-life",
         "poetry-and-judgment",
         "rhetoric-and-force"
       ],
       "id": "text:aristotle-poetics-rhetoric",
       "kind": "text",
       "review_pressure": 23,
-      "search_text": "poetics and rhetoric aristotle; core-text-candidate; pages 128-162; 23 review rows. aristotle aristotle-poetics-rhetoric edition-review-needed audience genre poetics poetry-and-judgment rhetoric rhetoric-and-force poetry-and-judgment rhetoric-and-force",
+      "search_text": "poetics and rhetoric aristotle; core-text-candidate; pages 128-162; 23 review rows. aristotle aristotle-poetics-rhetoric edition-review-needed audience education-and-civic-life genre poetics poetry-and-judgment rhetoric rhetoric-and-force education-and-civic-life poetry-and-judgment rhetoric-and-force",
       "status": "edition-review-needed",
       "summary": "Aristotle; core-text-candidate; pages 128-162; 23 review rows.",
       "tags": [
         "audience",
+        "education-and-civic-life",
         "genre",
         "poetics",
         "poetry-and-judgment",
@@ -468,6 +646,7 @@
     },
     {
       "constellations": [
+        "education-and-civic-life",
         "poetry-and-judgment",
         "rhetoric-and-force",
         "signs-and-reading"
@@ -475,10 +654,11 @@
       "id": "text:plato-selected-dialogues",
       "kind": "text",
       "review_pressure": 29,
-      "search_text": "selected dialogues plato; core-text-candidate; pages 75-127; 29 review rows. plato plato-selected-dialogues edition-review-needed memory mimesis pedagogy poetry-and-judgment rhetoric-and-force signs-and-reading writing poetry-and-judgment rhetoric-and-force signs-and-reading",
+      "search_text": "selected dialogues plato; core-text-candidate; pages 75-127; 29 review rows. plato plato-selected-dialogues edition-review-needed education-and-civic-life memory mimesis pedagogy poetry-and-judgment rhetoric-and-force signs-and-reading writing education-and-civic-life poetry-and-judgment rhetoric-and-force signs-and-reading",
       "status": "edition-review-needed",
       "summary": "Plato; core-text-candidate; pages 75-127; 29 review rows.",
       "tags": [
+        "education-and-civic-life",
         "memory",
         "mimesis",
         "pedagogy",
@@ -539,18 +719,92 @@
     },
     {
       "constellations": [
+        "education-and-civic-life"
+      ],
+      "id": "text:christine-de-pizan-city-of-ladies",
+      "kind": "text",
+      "review_pressure": 3,
+      "search_text": "the book of the city of ladies christine de pizan; core-text-candidate; pages 305-312; 3 review rows. christine de pizan christine-de-pizan-city-of-ladies edition-review-needed authority civic-imagination education education-and-civic-life gender education-and-civic-life",
+      "status": "edition-review-needed",
+      "summary": "Christine de Pizan; core-text-candidate; pages 305-312; 3 review rows.",
+      "tags": [
+        "authority",
+        "civic-imagination",
+        "education",
+        "education-and-civic-life",
+        "gender"
+      ],
+      "text_id": "christine-de-pizan-city-of-ladies",
+      "thinker": "Christine de Pizan",
+      "title": "The Book of the City of Ladies",
+      "url": "/workspace/norton-texts/christine-de-pizan-city-of-ladies/"
+    },
+    {
+      "constellations": [
         "commentary-and-afterlife",
+        "vernacular-and-institution"
+      ],
+      "id": "text:joachim-du-bellay-defense-french-language",
+      "kind": "text",
+      "review_pressure": 11,
+      "search_text": "the defence and illustration of the french language joachim du bellay; core-text-candidate; pages 321-332; 11 review rows. joachim du bellay joachim-du-bellay-defense-french-language edition-review-needed commentary-and-afterlife imitation language nation vernacular vernacular-and-institution commentary-and-afterlife vernacular-and-institution",
+      "status": "edition-review-needed",
+      "summary": "Joachim du Bellay; core-text-candidate; pages 321-332; 11 review rows.",
+      "tags": [
+        "commentary-and-afterlife",
+        "imitation",
+        "language",
+        "nation",
+        "vernacular",
+        "vernacular-and-institution"
+      ],
+      "text_id": "joachim-du-bellay-defense-french-language",
+      "thinker": "Joachim du Bellay",
+      "title": "The Defence and Illustration of the French Language",
+      "url": "/workspace/norton-texts/joachim-du-bellay-defense-french-language/"
+    },
+    {
+      "constellations": [
+        "education-and-civic-life",
+        "poetry-and-judgment",
+        "vernacular-and-institution"
+      ],
+      "id": "text:sidney-defense-of-poesy",
+      "kind": "text",
+      "review_pressure": 3,
+      "search_text": "the defense of poesy sir philip sidney; core-text-candidate; pages 365-367; 3 review rows. sir philip sidney sidney-defense-of-poesy edition-review-needed civic-formation education education-and-civic-life poetry poetry-and-judgment rhetoric vernacular-and-institution education-and-civic-life poetry-and-judgment vernacular-and-institution",
+      "status": "edition-review-needed",
+      "summary": "Sir Philip Sidney; core-text-candidate; pages 365-367; 3 review rows.",
+      "tags": [
+        "civic-formation",
+        "education",
+        "education-and-civic-life",
+        "poetry",
+        "poetry-and-judgment",
+        "rhetoric",
+        "vernacular-and-institution"
+      ],
+      "text_id": "sidney-defense-of-poesy",
+      "thinker": "Sir Philip Sidney",
+      "title": "The Defense of Poesy",
+      "url": "/workspace/norton-texts/sidney-defense-of-poesy/"
+    },
+    {
+      "constellations": [
+        "commentary-and-afterlife",
+        "education-and-civic-life",
         "signs-and-reading"
       ],
       "id": "text:hugh-didascalicon",
       "kind": "text",
       "review_pressure": 10,
-      "search_text": "the didascalicon hugh of st. victor; core-text-candidate; pages 243-252; 10 review rows. hugh of st. victor hugh-didascalicon edition-review-needed classification commentary-and-afterlife pedagogy reading signs-and-reading commentary-and-afterlife signs-and-reading",
+      "search_text": "the didascalicon hugh of st. victor; core-text-candidate; pages 243-252; 10 review rows. hugh of st. victor hugh-didascalicon edition-review-needed classification commentary-and-afterlife education-and-civic-life pedagogy reading signs-and-reading commentary-and-afterlife education-and-civic-life signs-and-reading",
       "status": "edition-review-needed",
       "summary": "Hugh of St. Victor; core-text-candidate; pages 243-252; 10 review rows.",
       "tags": [
         "classification",
         "commentary-and-afterlife",
+        "education-and-civic-life",
         "pedagogy",
         "reading",
         "signs-and-reading"
@@ -586,17 +840,19 @@
     },
     {
       "constellations": [
+        "education-and-civic-life",
         "poetry-and-judgment",
         "rhetoric-and-force"
       ],
       "id": "thinker:aristotle",
       "kind": "thinker",
       "review_pressure": 23,
-      "search_text": "aristotle 1 text node(s); aristotle-poetics-rhetoric. aristotle  generated private workspace note audience genre poetics poetry-and-judgment rhetoric rhetoric-and-force poetry-and-judgment rhetoric-and-force",
+      "search_text": "aristotle 1 text node(s); aristotle-poetics-rhetoric. aristotle  generated private workspace note audience education-and-civic-life genre poetics poetry-and-judgment rhetoric rhetoric-and-force education-and-civic-life poetry-and-judgment rhetoric-and-force",
       "status": "generated private workspace note",
       "summary": "1 text node(s); aristotle-poetics-rhetoric.",
       "tags": [
         "audience",
+        "education-and-civic-life",
         "genre",
         "poetics",
         "poetry-and-judgment",
@@ -634,6 +890,54 @@
     },
     {
       "constellations": [
+        "education-and-civic-life"
+      ],
+      "id": "thinker:christine-de-pizan",
+      "kind": "thinker",
+      "review_pressure": 3,
+      "search_text": "christine de pizan 1 text node(s); christine-de-pizan-city-of-ladies. christine de pizan  generated private workspace note authority civic-imagination education education-and-civic-life gender education-and-civic-life",
+      "status": "generated private workspace note",
+      "summary": "1 text node(s); christine-de-pizan-city-of-ladies.",
+      "tags": [
+        "authority",
+        "civic-imagination",
+        "education",
+        "education-and-civic-life",
+        "gender"
+      ],
+      "text_id": "",
+      "thinker": "Christine de Pizan",
+      "title": "Christine de Pizan",
+      "url": "/workspace/thinkers/christine-de-pizan/"
+    },
+    {
+      "constellations": [
+        "commentary-and-afterlife",
+        "signs-and-reading",
+        "vernacular-and-institution"
+      ],
+      "id": "thinker:dante-alighieri",
+      "kind": "thinker",
+      "review_pressure": 5,
+      "search_text": "dante alighieri 1 text node(s); dante-il-convivio-letter-can-grande. dante alighieri  generated private workspace note allegory commentary commentary-and-afterlife interpretation signs-and-reading vernacular vernacular-and-institution commentary-and-afterlife signs-and-reading vernacular-and-institution",
+      "status": "generated private workspace note",
+      "summary": "1 text node(s); dante-il-convivio-letter-can-grande.",
+      "tags": [
+        "allegory",
+        "commentary",
+        "commentary-and-afterlife",
+        "interpretation",
+        "signs-and-reading",
+        "vernacular",
+        "vernacular-and-institution"
+      ],
+      "text_id": "",
+      "thinker": "Dante Alighieri",
+      "title": "Dante Alighieri",
+      "url": "/workspace/thinkers/dante-alighieri/"
+    },
+    {
+      "constellations": [
         "commentary-and-afterlife",
         "poetry-and-judgment"
       ],
@@ -655,6 +959,72 @@
       "thinker": "Geoffrey of Vinsauf",
       "title": "Geoffrey of Vinsauf",
       "url": "/workspace/thinkers/geoffrey-of-vinsauf/"
+    },
+    {
+      "constellations": [
+        "signs-and-reading"
+      ],
+      "id": "thinker:giacopo-mazzoni",
+      "kind": "thinker",
+      "review_pressure": 15,
+      "search_text": "giacopo mazzoni 1 text node(s); giacopo-mazzoni-defense-comedy-dante. giacopo mazzoni  generated private workspace note civic-formation genre mimesis poetics signs-and-reading signs-and-reading",
+      "status": "generated private workspace note",
+      "summary": "1 text node(s); giacopo-mazzoni-defense-comedy-dante.",
+      "tags": [
+        "civic-formation",
+        "genre",
+        "mimesis",
+        "poetics",
+        "signs-and-reading"
+      ],
+      "text_id": "",
+      "thinker": "Giacopo Mazzoni",
+      "title": "Giacopo Mazzoni",
+      "url": "/workspace/thinkers/giacopo-mazzoni/"
+    },
+    {
+      "constellations": [
+        "vernacular-and-institution"
+      ],
+      "id": "thinker:giambattista-giraldi",
+      "kind": "thinker",
+      "review_pressure": 7,
+      "search_text": "giambattista giraldi 1 text node(s); giambattista-giraldi-composition-romances. giambattista giraldi  generated private workspace note genre poetics romance vernacular vernacular-and-institution vernacular-and-institution",
+      "status": "generated private workspace note",
+      "summary": "1 text node(s); giambattista-giraldi-composition-romances.",
+      "tags": [
+        "genre",
+        "poetics",
+        "romance",
+        "vernacular",
+        "vernacular-and-institution"
+      ],
+      "text_id": "",
+      "thinker": "Giambattista Giraldi",
+      "title": "Giambattista Giraldi",
+      "url": "/workspace/thinkers/giambattista-giraldi/"
+    },
+    {
+      "constellations": [
+        "poetry-and-judgment"
+      ],
+      "id": "thinker:giovanni-boccaccio",
+      "kind": "thinker",
+      "review_pressure": 9,
+      "search_text": "giovanni boccaccio 1 text node(s); boccaccio-genealogy-gentile-gods. giovanni boccaccio  generated private workspace note defense-of-poetry humanism mythology poetics poetry-and-judgment poetry-and-judgment",
+      "status": "generated private workspace note",
+      "summary": "1 text node(s); boccaccio-genealogy-gentile-gods.",
+      "tags": [
+        "defense-of-poetry",
+        "humanism",
+        "mythology",
+        "poetics",
+        "poetry-and-judgment"
+      ],
+      "text_id": "",
+      "thinker": "Giovanni Boccaccio",
+      "title": "Giovanni Boccaccio",
+      "url": "/workspace/thinkers/giovanni-boccaccio/"
     },
     {
       "constellations": [
@@ -701,17 +1071,19 @@
     {
       "constellations": [
         "commentary-and-afterlife",
+        "education-and-civic-life",
         "signs-and-reading"
       ],
       "id": "thinker:hugh-of-st-victor",
       "kind": "thinker",
       "review_pressure": 10,
-      "search_text": "hugh of st. victor 1 text node(s); hugh-didascalicon. hugh of st. victor  generated private workspace note classification commentary-and-afterlife pedagogy reading signs-and-reading commentary-and-afterlife signs-and-reading",
+      "search_text": "hugh of st. victor 1 text node(s); hugh-didascalicon. hugh of st. victor  generated private workspace note classification commentary-and-afterlife education-and-civic-life pedagogy reading signs-and-reading commentary-and-afterlife education-and-civic-life signs-and-reading",
       "status": "generated private workspace note",
       "summary": "1 text node(s); hugh-didascalicon.",
       "tags": [
         "classification",
         "commentary-and-afterlife",
+        "education-and-civic-life",
         "pedagogy",
         "reading",
         "signs-and-reading"
@@ -720,6 +1092,30 @@
       "thinker": "Hugh of St. Victor",
       "title": "Hugh of St. Victor",
       "url": "/workspace/thinkers/hugh-of-st-victor/"
+    },
+    {
+      "constellations": [
+        "commentary-and-afterlife",
+        "vernacular-and-institution"
+      ],
+      "id": "thinker:joachim-du-bellay",
+      "kind": "thinker",
+      "review_pressure": 11,
+      "search_text": "joachim du bellay 1 text node(s); joachim-du-bellay-defense-french-language. joachim du bellay  generated private workspace note commentary-and-afterlife imitation language nation vernacular vernacular-and-institution commentary-and-afterlife vernacular-and-institution",
+      "status": "generated private workspace note",
+      "summary": "1 text node(s); joachim-du-bellay-defense-french-language.",
+      "tags": [
+        "commentary-and-afterlife",
+        "imitation",
+        "language",
+        "nation",
+        "vernacular",
+        "vernacular-and-institution"
+      ],
+      "text_id": "",
+      "thinker": "Joachim du Bellay",
+      "title": "Joachim du Bellay",
+      "url": "/workspace/thinkers/joachim-du-bellay/"
     },
     {
       "constellations": [
@@ -792,16 +1188,42 @@
     {
       "constellations": [
         "poetry-and-judgment",
+        "vernacular-and-institution"
+      ],
+      "id": "thinker:pierre-de-ronsard",
+      "kind": "thinker",
+      "review_pressure": 5,
+      "search_text": "pierre de ronsard 1 text node(s); pierre-de-ronsard-art-french-poetry. pierre de ronsard  generated private workspace note craft education poetics poetry-and-judgment vernacular vernacular-and-institution poetry-and-judgment vernacular-and-institution",
+      "status": "generated private workspace note",
+      "summary": "1 text node(s); pierre-de-ronsard-art-french-poetry.",
+      "tags": [
+        "craft",
+        "education",
+        "poetics",
+        "poetry-and-judgment",
+        "vernacular",
+        "vernacular-and-institution"
+      ],
+      "text_id": "",
+      "thinker": "Pierre de Ronsard",
+      "title": "Pierre de Ronsard",
+      "url": "/workspace/thinkers/pierre-de-ronsard/"
+    },
+    {
+      "constellations": [
+        "education-and-civic-life",
+        "poetry-and-judgment",
         "rhetoric-and-force",
         "signs-and-reading"
       ],
       "id": "thinker:plato",
       "kind": "thinker",
       "review_pressure": 29,
-      "search_text": "plato 1 text node(s); plato-selected-dialogues. plato  generated private workspace note memory mimesis pedagogy poetry-and-judgment rhetoric-and-force signs-and-reading writing poetry-and-judgment rhetoric-and-force signs-and-reading",
+      "search_text": "plato 1 text node(s); plato-selected-dialogues. plato  generated private workspace note education-and-civic-life memory mimesis pedagogy poetry-and-judgment rhetoric-and-force signs-and-reading writing education-and-civic-life poetry-and-judgment rhetoric-and-force signs-and-reading",
       "status": "generated private workspace note",
       "summary": "1 text node(s); plato-selected-dialogues.",
       "tags": [
+        "education-and-civic-life",
         "memory",
         "mimesis",
         "pedagogy",
@@ -838,17 +1260,19 @@
     },
     {
       "constellations": [
+        "education-and-civic-life",
         "rhetoric-and-force"
       ],
       "id": "thinker:quintilian",
       "kind": "thinker",
       "review_pressure": 10,
-      "search_text": "quintilian 1 text node(s); quintilian-institutio-oratoria. quintilian  generated private workspace note civic-formation education rhetoric rhetoric-and-force rhetoric-and-force",
+      "search_text": "quintilian 1 text node(s); quintilian-institutio-oratoria. quintilian  generated private workspace note civic-formation education education-and-civic-life rhetoric rhetoric-and-force education-and-civic-life rhetoric-and-force",
       "status": "generated private workspace note",
       "summary": "1 text node(s); quintilian-institutio-oratoria.",
       "tags": [
         "civic-formation",
         "education",
+        "education-and-civic-life",
         "rhetoric",
         "rhetoric-and-force"
       ],
@@ -856,6 +1280,32 @@
       "thinker": "Quintilian",
       "title": "Quintilian",
       "url": "/workspace/thinkers/quintilian/"
+    },
+    {
+      "constellations": [
+        "education-and-civic-life",
+        "poetry-and-judgment",
+        "vernacular-and-institution"
+      ],
+      "id": "thinker:sir-philip-sidney",
+      "kind": "thinker",
+      "review_pressure": 3,
+      "search_text": "sir philip sidney 1 text node(s); sidney-defense-of-poesy. sir philip sidney  generated private workspace note civic-formation education education-and-civic-life poetry poetry-and-judgment rhetoric vernacular-and-institution education-and-civic-life poetry-and-judgment vernacular-and-institution",
+      "status": "generated private workspace note",
+      "summary": "1 text node(s); sidney-defense-of-poesy.",
+      "tags": [
+        "civic-formation",
+        "education",
+        "education-and-civic-life",
+        "poetry",
+        "poetry-and-judgment",
+        "rhetoric",
+        "vernacular-and-institution"
+      ],
+      "text_id": "",
+      "thinker": "Sir Philip Sidney",
+      "title": "Sir Philip Sidney",
+      "url": "/workspace/thinkers/sir-philip-sidney/"
     },
     {
       "constellations": [
@@ -882,66 +1332,81 @@
       "url": "/workspace/thinkers/thomas-aquinas/"
     }
   ],
-  "entry_count": 40,
+  "entry_count": 58,
   "filters": {
     "constellations": {
       "beauty-and-ascent": 7,
-      "commentary-and-afterlife": 11,
-      "poetry-and-judgment": 11,
+      "commentary-and-afterlife": 15,
+      "education-and-civic-life": 13,
+      "poetry-and-judgment": 17,
       "rhetoric-and-force": 12,
-      "signs-and-reading": 11
+      "signs-and-reading": 15,
+      "vernacular-and-institution": 11
     },
     "kinds": {
       "chapter": 6,
-      "constellation": 5,
+      "constellation": 7,
       "passage": 3,
-      "text": 13,
-      "thinker": 13
+      "text": 21,
+      "thinker": 21
     },
     "statuses": {
       "chapter draft": 6,
-      "edition-review-needed": 13,
-      "generated private workspace note": 13,
-      "private constellation draft": 5,
+      "edition-review-needed": 21,
+      "generated private workspace note": 21,
+      "private constellation draft": 7,
       "private restricted note; public quotation pending edition review": 3
     },
     "tags": {
       "aesthetics": 2,
       "agency": 1,
-      "allegory": 7,
+      "allegory": 9,
       "archive": 1,
-      "aristotle-poetics-rhetoric": 2,
+      "aristotle-poetics-rhetoric": 3,
       "ascent": 1,
       "audience": 2,
       "augustine-on-christian-doctrine-trinity": 2,
-      "authority": 4,
+      "authority": 7,
       "beauty": 2,
       "beauty-and-ascent": 6,
       "belief": 1,
       "blame": 1,
+      "boccaccio-genealogy-gentile-gods": 1,
+      "christine-de-pizan-city-of-ladies": 1,
       "civic-discipline": 1,
-      "civic-formation": 2,
+      "civic-formation": 7,
+      "civic-imagination": 2,
       "classification": 2,
-      "commentary": 3,
-      "commentary-and-afterlife": 10,
+      "commentary": 5,
+      "commentary-and-afterlife": 14,
       "counterfactual": 1,
-      "craft": 5,
+      "craft": 7,
+      "dante-il-convivio-letter-can-grande": 3,
       "decorum": 2,
+      "defense-of-poetry": 2,
       "disciplined-reading": 1,
-      "education": 4,
+      "education": 10,
+      "education-and-civic-life": 12,
       "excess": 1,
       "force": 1,
       "form": 2,
-      "genre": 2,
+      "gender": 2,
+      "genre": 6,
       "geoffrey-poetria-nova": 2,
+      "giacopo-mazzoni-defense-comedy-dante": 1,
+      "giambattista-giraldi-composition-romances": 1,
       "gorgias-encomium-helen": 1,
       "history": 1,
       "horace-ars-poetica": 1,
-      "hugh-didascalicon": 2,
+      "hugh-didascalicon": 3,
+      "humanism": 2,
+      "imitation": 3,
       "inheritance": 1,
-      "interpretation": 7,
+      "interpretation": 9,
       "inward-reading": 1,
+      "joachim-du-bellay-defense-french-language": 2,
       "judgment": 1,
+      "language": 2,
       "literary-judgment": 2,
       "longinus-on-sublimity": 2,
       "macrobius-dream-scipio": 1,
@@ -949,24 +1414,30 @@
       "memory": 4,
       "metaphysics": 2,
       "method": 3,
-      "mimesis": 2,
+      "mimesis": 4,
       "myth": 1,
+      "mythology": 2,
+      "nation": 3,
       "orientation": 1,
-      "pedagogy": 6,
+      "pedagogy": 7,
       "persuasion": 3,
-      "plato-selected-dialogues": 3,
+      "pierre-de-ronsard-art-french-poetry": 2,
+      "plato-selected-dialogues": 4,
       "plotinus-enneads": 1,
-      "poetics": 4,
-      "poetry-and-judgment": 10,
-      "quintilian-institutio-oratoria": 1,
+      "poetics": 12,
+      "poetry": 2,
+      "poetry-and-judgment": 16,
+      "quintilian-institutio-oratoria": 2,
       "reading": 2,
       "reason": 2,
       "revelation": 2,
-      "rhetoric": 11,
+      "rhetoric": 13,
       "rhetoric-and-force": 11,
+      "romance": 2,
       "rupture": 1,
+      "sidney-defense-of-poesy": 3,
       "signs": 2,
-      "signs-and-reading": 10,
+      "signs-and-reading": 14,
       "speech": 2,
       "sublimity": 3,
       "tension": 2,
@@ -974,27 +1445,37 @@
       "theory": 1,
       "thomas-aquinas-summa-theologica": 2,
       "transmission": 3,
+      "vernacular": 9,
+      "vernacular-and-institution": 10,
       "writing": 3
     },
     "thinkers": {
       "Aristotle": 2,
       "Augustine of Hippo": 2,
+      "Christine de Pizan": 2,
+      "Dante Alighieri": 2,
       "Geoffrey of Vinsauf": 2,
+      "Giacopo Mazzoni": 2,
+      "Giambattista Giraldi": 2,
+      "Giovanni Boccaccio": 2,
       "Gorgias": 2,
       "Gorgias of Leontini": 3,
       "Horace": 2,
       "Hugh of St. Victor": 2,
+      "Joachim du Bellay": 2,
       "Longinus": 2,
       "Macrobius": 2,
       "Moses Maimonides": 2,
+      "Pierre de Ronsard": 2,
       "Plato": 2,
       "Plotinus": 2,
       "Quintilian": 2,
+      "Sir Philip Sidney": 2,
       "Thomas Aquinas": 2
     }
   },
-  "generated_at": "2026-06-13T04:20:31Z",
-  "git_commit": "923172d",
+  "generated_at": "2026-06-13T04:26:21Z",
+  "git_commit": "383dabc",
   "script_version": "1",
   "source_id": "norton-theory-criticism"
 }

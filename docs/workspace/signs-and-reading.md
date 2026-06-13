@@ -27,6 +27,9 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/augustine-on-christian-doctrine-trinity/"><strong>Augustine of Hippo, On Christian Doctrine and The Trinity</strong><span>interpretation, signs, theology; pages 227-237; 9 review rows</span></a>
   <a href="../norton-texts/hugh-didascalicon/"><strong>Hugh of St. Victor, The Didascalicon</strong><span>reading, pedagogy, classification; pages 243-252; 10 review rows</span></a>
   <a href="../norton-texts/maimonides-guide-perplexed/"><strong>Moses Maimonides, The Guide of the Perplexed</strong><span>allegory, reason, revelation; pages 253-267; 15 review rows</span></a>
+  <a href="../norton-texts/thomas-aquinas-summa-theologica/"><strong>Thomas Aquinas, Summa Theologica</strong><span>interpretation, theology, allegory; pages 282-287; 6 review rows</span></a>
+  <a href="../norton-texts/dante-il-convivio-letter-can-grande/"><strong>Dante Alighieri, Il Convivio and The Letter to Can Grande</strong><span>interpretation, allegory, vernacular; pages 288-294; 5 review rows</span></a>
+  <a href="../norton-texts/giacopo-mazzoni-defense-comedy-dante/"><strong>Giacopo Mazzoni, On the Defense of the Comedy of Dante</strong><span>mimesis, poetics, genre; pages 342-364; 15 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -43,6 +46,9 @@ This is a scaffold for reading the configured texts together. It should become a
 2. [Augustine of Hippo, On Christian Doctrine and The Trinity](norton-texts/augustine-on-christian-doctrine-trinity.md)
 3. [Hugh of St. Victor, The Didascalicon](norton-texts/hugh-didascalicon.md)
 4. [Moses Maimonides, The Guide of the Perplexed](norton-texts/maimonides-guide-perplexed.md)
+5. [Thomas Aquinas, Summa Theologica](norton-texts/thomas-aquinas-summa-theologica.md)
+6. [Dante Alighieri, Il Convivio and The Letter to Can Grande](norton-texts/dante-il-convivio-letter-can-grande.md)
+7. [Giacopo Mazzoni, On the Defense of the Comedy of Dante](norton-texts/giacopo-mazzoni-defense-comedy-dante.md)
 
 ## Review Pressure
 
@@ -52,6 +58,9 @@ This is a scaffold for reading the configured texts together. It should become a
 | [On Christian Doctrine and The Trinity](norton-texts/augustine-on-christian-doctrine-trinity.md) | 227-237 | 9 | excerpt: 7<br>author_intro: 4 |
 | [The Didascalicon](norton-texts/hugh-didascalicon.md) | 243-252 | 10 | excerpt: 6<br>author_intro: 4 |
 | [The Guide of the Perplexed](norton-texts/maimonides-guide-perplexed.md) | 253-267 | 15 | excerpt: 11<br>author_intro: 4 |
+| [Summa Theologica](norton-texts/thomas-aquinas-summa-theologica.md) | 282-287 | 6 | author_intro: 3<br>excerpt: 2<br>mixed_excerpt_bibliography: 1 |
+| [Il Convivio and The Letter to Can Grande](norton-texts/dante-il-convivio-letter-can-grande.md) | 288-294 | 5 | excerpt: 4<br>author_intro: 3 |
+| [On the Defense of the Comedy of Dante](norton-texts/giacopo-mazzoni-defense-comedy-dante.md) | 342-364 | 15 | excerpt: 20<br>author_intro: 2<br>mixed_excerpt_bibliography: 1 |
 
 ## Passage Queue
 
@@ -70,12 +79,31 @@ This is a scaffold for reading the configured texts together. It should become a
   <p><strong>Promotion rule:</strong> do not turn this into public-facing interpretation until the selected passages and editions are reviewed.</p>
 </section>
 
+## Provenance
+
+<div class="ah-provenance-table">
+  <table>
+    <thead>
+      <tr><th>Layer</th><th>Status</th></tr>
+    </thead>
+    <tbody>
+    <tr><td>Source-derived metadata</td><td>Constellation ID, question, text IDs, relations, source title, and rights status come from tracked source metadata.</td></tr>
+    <tr><td>Extraction-derived metadata</td><td>Page ranges, review rows, and page-kind summaries come from local extraction audit artifacts.</td></tr>
+    <tr><td>Generated scaffold</td><td>Working Claim, Relationship Map, Passage Queue, Review Pressure, and Open Questions are generated scaffolding.</td></tr>
+    <tr><td>Human commentary</td><td>Not yet reviewed as interpretive commentary.</td></tr>
+    <tr><td>Copied source prose</td><td>None. This generated page contains no copied Norton prose.</td></tr>
+    </tbody>
+  </table>
+</div>
+
 ## Backlinks
 
-- [Private Knowledge Base](index.md)
-- [Norton Workspace Map](norton-map.md)
-- [Norton Text Notes](norton-texts/index.md)
-- [Constellation Catalog](../catalog/constellations.md)
+<ul class="ah-backlink-list">
+<li><a href="../">Private Knowledge Base</a></li>
+<li><a href="../norton-map/">Norton Workspace Map</a></li>
+<li><a href="../norton-texts/">Norton Text Notes</a></li>
+<li><a href="../../catalog/constellations/">Constellation Catalog</a></li>
+</ul>
 
 ## Audit Trail
 
@@ -86,9 +114,9 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T01:47:25Z` |
-| Git commit | `8bc76e4` |
-| Script version | `1` |
+| Generated at | `2026-06-13T04:25:50Z` |
+| Git commit | `383dabc` |
+| Script version | `2` |
 | Output path | `docs/workspace/signs-and-reading.md` |
 
 ## Open Questions

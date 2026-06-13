@@ -5,19 +5,19 @@ This is the editorial queue for restricted extraction work. It is generated from
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Boundary Review</div>
-  <div class="ah-metric-value">34</div>
+  <div class="ah-metric-value">57</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Content Separation</div>
-  <div class="ah-metric-value">3</div>
+  <div class="ah-metric-value">5</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Layout Review</div>
-  <div class="ah-metric-value">102</div>
+  <div class="ah-metric-value">131</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Source Notes</div>
-  <div class="ah-metric-value">22</div>
+  <div class="ah-metric-value">26</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">General Review</div>
@@ -29,28 +29,28 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 <div class="ah-review-grid">
 <section class="ah-review-card warn">
-  <div class="ah-review-card-kicker">34 pages</div>
+  <div class="ah-review-card-kicker">57 pages</div>
   <h3>Boundary Review</h3>
   <p>Confirm thinker and work boundaries before assembling public-facing drafts.</p>
-  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +22 more</p>
+  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +45 more</p>
 </section>
 <section class="ah-review-card warn">
-  <div class="ah-review-card-kicker">3 pages</div>
+  <div class="ah-review-card-kicker">5 pages</div>
   <h3>Content Separation</h3>
   <p>Keep excerpt text, source notes, and bibliography material in separate template sections.</p>
-  <p><strong>Start:</strong> <code>72</code>, <code>199</code>, <code>285</code></p>
+  <p><strong>Start:</strong> <code>72</code>, <code>199</code>, <code>285</code>, <code>297</code>, <code>344</code></p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">102 pages</div>
+  <div class="ah-review-card-kicker">131 pages</div>
   <h3>Layout Review</h3>
   <p>Confirm multi-column reading order before any summary or excerpt curation.</p>
-  <p><strong>Start:</strong> <code>73</code>, <code>79</code>, <code>80</code>, <code>82</code>, <code>83</code>, <code>84</code>, <code>86</code>, <code>90</code>, <code>91</code>, <code>92</code>, <code>93</code>, <code>94</code> +90 more</p>
+  <p><strong>Start:</strong> <code>73</code>, <code>79</code>, <code>80</code>, <code>82</code>, <code>83</code>, <code>84</code>, <code>86</code>, <code>90</code>, <code>91</code>, <code>92</code>, <code>93</code>, <code>94</code> +119 more</p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">22 pages</div>
+  <div class="ah-review-card-kicker">26 pages</div>
   <h3>Source Notes</h3>
   <p>Move source footnotes into Source Notes without converting them into Markdown footnotes.</p>
-  <p><strong>Start:</strong> <code>74</code>, <code>98</code>, <code>99</code>, <code>126</code>, <code>185</code>, <code>190</code>, <code>191</code>, <code>192</code>, <code>194</code>, <code>204</code>, <code>213</code>, <code>218</code> +10 more</p>
+  <p><strong>Start:</strong> <code>74</code>, <code>98</code>, <code>99</code>, <code>126</code>, <code>185</code>, <code>190</code>, <code>191</code>, <code>192</code>, <code>194</code>, <code>204</code>, <code>213</code>, <code>218</code> +14 more</p>
 </section>
 </div>
 
@@ -66,11 +66,11 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Field | Value |
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
-| Classified source pages | `71-287` |
-| Review queue rows | `161` |
+| Classified source pages | `71-367` |
+| Review queue rows | `219` |
 | Review queue file | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
-| Generated at | `2026-06-13T04:20:29Z` |
-| Git commit | `923172d` |
+| Generated at | `2026-06-13T04:26:18Z` |
+| Git commit | `383dabc` |
 | Script version | `1` |
 | Output path | `docs/_meta/review-dashboard.md` |
 
@@ -78,12 +78,12 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 | Reason | Pages |
 | --- | ---: |
-| multi_column_layout | 105 |
-| source_notes_detected | 93 |
-| transition_from_previous_author | 29 |
+| multi_column_layout | 135 |
+| source_notes_detected | 119 |
+| transition_from_previous_author | 49 |
 | layout_review_required | 6 |
-| mixed_excerpt_and_bibliography | 3 |
-| author_boundary_without_life_dates | 3 |
+| author_boundary_without_life_dates | 6 |
+| mixed_excerpt_and_bibliography | 5 |
 | transition_from_previous_work | 2 |
 
 ## Thinkers Needing Review
@@ -94,15 +94,23 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Aristotle | 23 |
 | Longinus | 19 |
 | Moses Maimonides | 15 |
+| Giacopo Mazzoni | 15 |
 | Horace | 14 |
 | Geoffrey of Vinsauf | 12 |
+| Joachim du Bellay | 11 |
 | Quintilian | 10 |
 | Hugh of St. Victor | 10 |
 | Augustine of Hippo | 9 |
+| Giovanni Boccaccio | 9 |
 | Plotinus | 7 |
+| Giambattista Giraldi | 7 |
 | Thomas Aquinas | 6 |
+| Dante Alighieri | 5 |
+| Pierre de Ronsard | 5 |
 | Macrobius | 4 |
 | Gorgias of Leontini | 3 |
+| Christine de Pizan | 3 |
+| Sir Philip Sidney | 3 |
 
 ## Boundary Review
 
@@ -142,6 +150,29 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 283 | Thomas Aquinas | Thomas Aquinas | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0283.md |
 | 284 | Thomas Aquinas |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0284.md |
 | 287 | Thomas Aquinas | Summa Theologica | author_boundary_without_life_dates;source_notes_detected | work/page-records/norton-theory-criticism/page_0287.md |
+| 288 | Dante Alighieri |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0288.md |
+| 289 | Dante Alighieri |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0289.md |
+| 290 | Dante Alighieri |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0290.md |
+| 295 | Giovanni Boccaccio |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0295.md |
+| 296 | Giovanni Boccaccio |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0296.md |
+| 302 | Giovanni Boccaccio | Genealogy of the Gentile Gods | author_boundary_without_life_dates;multi_column_layout | work/page-records/norton-theory-criticism/page_0302.md |
+| 305 | Christine de Pizan | 1399 until her death in 1429 she wrote more than twenty volumes of prose | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0305.md |
+| 306 | Christine de Pizan |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0306.md |
+| 313 | Giambattista Giraldi |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0313.md |
+| 314 | Giambattista Giraldi | a contemporary perspective, one jarring aspect of Giraldi's theory of decorum | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0314.md |
+| 321 | Joachim du Bellay |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0321.md |
+| 322 | Joachim du Bellay |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0322.md |
+| 323 | Joachim du Bellay | The. Defence and Illustration of the French Language l | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0323.md |
+| 329 | Joachim du Bellay | The Defence and Illustration of the French Language | author_boundary_without_life_dates | work/page-records/norton-theory-criticism/page_0329.md |
+| 333 | Pierre de Ronsard |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0333.md |
+| 334 | Pierre de Ronsard |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0334.md |
+| 335 | Pierre de Ronsard |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0335.md |
+| 342 | Giacopo Mazzoni |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0342.md |
+| 343 | Giacopo Mazzoni | Giacopo Mazzoni | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0343.md |
+| 361 | Giacopo Mazzoni | On the Defense of the Comedy of Dante | author_boundary_without_life_dates | work/page-records/norton-theory-criticism/page_0361.md |
+| 365 | Sir Philip Sidney | Sir Philip Sidney | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0365.md |
+| 366 | Sir Philip Sidney |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0366.md |
+| 367 | Sir Philip Sidney | Sir Philip Sidney | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0367.md |
 
 ## Content Separation
 
@@ -150,6 +181,8 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 72 | Gorgias of Leontini | Encomium of Helen | mixed_excerpt_and_bibliography;multi_column_layout | work/page-records/norton-theory-criticism/page_0072.md |
 | 199 | Quintilian | Institutio Oratoria | mixed_excerpt_and_bibliography | work/page-records/norton-theory-criticism/page_0199.md |
 | 285 | Thomas Aquinas | Summa Theologica | mixed_excerpt_and_bibliography | work/page-records/norton-theory-criticism/page_0285.md |
+| 297 | Giovanni Boccaccio | Genealogy of the Gentile Gods | mixed_excerpt_and_bibliography | work/page-records/norton-theory-criticism/page_0297.md |
+| 344 | Giacopo Mazzoni | On the Defense of the Comedy of Dante | mixed_excerpt_and_bibliography | work/page-records/norton-theory-criticism/page_0344.md |
 
 ## Layout Review
 
@@ -257,6 +290,35 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 279 | Geoffrey of Vinsauf | Poetria Nova | multi_column_layout | work/page-records/norton-theory-criticism/page_0279.md |
 | 280 | Geoffrey of Vinsauf | Poetria Nova | multi_column_layout | work/page-records/norton-theory-criticism/page_0280.md |
 | 286 | Thomas Aquinas | Summa Theologica | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0286.md |
+| 291 | Dante Alighieri | Il Convivio | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0291.md |
+| 294 | Dante Alighieri | The Letter to Can Grande | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0294.md |
+| 299 | Giovanni Boccaccio | Genealogy of the Gentile Gods | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0299.md |
+| 300 | Giovanni Boccaccio | Genealogy of the Gentile Gods | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0300.md |
+| 301 | Giovanni Boccaccio | Genealogy of the Gentile Gods | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0301.md |
+| 303 | Giovanni Boccaccio | Genealogy of the Gentile Gods | multi_column_layout | work/page-records/norton-theory-criticism/page_0303.md |
+| 304 | Giovanni Boccaccio | Genealogy of the Gentile Gods | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0304.md |
+| 315 | Giambattista Giraldi | Discourse on the Composition of Romances | multi_column_layout | work/page-records/norton-theory-criticism/page_0315.md |
+| 317 | Giambattista Giraldi | Discourse on the Composition of Romances | multi_column_layout | work/page-records/norton-theory-criticism/page_0317.md |
+| 318 | Giambattista Giraldi | Discourse on the Composition of Romances | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0318.md |
+| 320 | Giambattista Giraldi | Discourse on the Composition of Romances | multi_column_layout | work/page-records/norton-theory-criticism/page_0320.md |
+| 324 | Joachim du Bellay | The Defence and Illustration of the French Language | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0324.md |
+| 325 | Joachim du Bellay | The Defence and Illustration of the French Language | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0325.md |
+| 326 | Joachim du Bellay | The Defence and Illustration of the French Language | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0326.md |
+| 328 | Joachim du Bellay | The Defence and Illustration of the French Language | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0328.md |
+| 330 | Joachim du Bellay | The Defence and Illustration of the French Language | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0330.md |
+| 331 | Joachim du Bellay | The Defence and Illustration of the French Language | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0331.md |
+| 332 | Joachim du Bellay | The Defence and Illustration of the French Language | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0332.md |
+| 336 | Pierre de Ronsard | A Brief on the Art of French Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0336.md |
+| 337 | Pierre de Ronsard | A Brief on the Art of French Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0337.md |
+| 346 | Giacopo Mazzoni | On the Defense of the Comedy of Dante | multi_column_layout | work/page-records/norton-theory-criticism/page_0346.md |
+| 347 | Giacopo Mazzoni | On the Defense of the Comedy of Dante | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0347.md |
+| 348 | Giacopo Mazzoni | On the Defense of the Comedy of Dante | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0348.md |
+| 352 | Giacopo Mazzoni | On the Defense of the Comedy of Dante | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0352.md |
+| 355 | Giacopo Mazzoni | On the Defense of the Comedy of Dante | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0355.md |
+| 356 | Giacopo Mazzoni | On the Defense of the Comedy of Dante | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0356.md |
+| 358 | Giacopo Mazzoni | On the Defense of the Comedy of Dante | multi_column_layout | work/page-records/norton-theory-criticism/page_0358.md |
+| 359 | Giacopo Mazzoni | On the Defense of the Comedy of Dante | multi_column_layout | work/page-records/norton-theory-criticism/page_0359.md |
+| 363 | Giacopo Mazzoni | On the Defense of the Comedy of Dante | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0363.md |
 
 ## Source Notes
 
@@ -284,3 +346,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 258 | Moses Maimonides | The Guide of the Perplexed | source_notes_detected | work/page-records/norton-theory-criticism/page_0258.md |
 | 262 | Moses Maimonides | The Guide of the Perplexed | source_notes_detected | work/page-records/norton-theory-criticism/page_0262.md |
 | 264 | Moses Maimonides | The Guide of the Perplexed | source_notes_detected | work/page-records/norton-theory-criticism/page_0264.md |
+| 309 | Christine de Pizan | The Book of the City of Ladies | source_notes_detected | work/page-records/norton-theory-criticism/page_0309.md |
+| 319 | Giambattista Giraldi | Discourse on the Composition of Romances | source_notes_detected | work/page-records/norton-theory-criticism/page_0319.md |
+| 354 | Giacopo Mazzoni | On the Defense of the Comedy of Dante | source_notes_detected | work/page-records/norton-theory-criticism/page_0354.md |
+| 357 | Giacopo Mazzoni | On the Defense of the Comedy of Dante | source_notes_detected | work/page-records/norton-theory-criticism/page_0357.md |

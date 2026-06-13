@@ -43,6 +43,14 @@ nav:
           - Maimonides, The Guide of the Perplexed: workspace/norton-texts/maimonides-guide-perplexed.md
           - Geoffrey of Vinsauf, Poetria Nova: workspace/norton-texts/geoffrey-poetria-nova.md
           - Thomas Aquinas, Summa Theologica: workspace/norton-texts/thomas-aquinas-summa-theologica.md
+          - Dante, Il Convivio and The Letter to Can Grande: workspace/norton-texts/dante-il-convivio-letter-can-grande.md
+          - Boccaccio, Genealogy of the Gentile Gods: workspace/norton-texts/boccaccio-genealogy-gentile-gods.md
+          - Christine de Pizan, The Book of the City of Ladies: workspace/norton-texts/christine-de-pizan-city-of-ladies.md
+          - Giraldi, Discourse on the Composition of Romances: workspace/norton-texts/giambattista-giraldi-composition-romances.md
+          - Du Bellay, The Defence and Illustration of the French Language: workspace/norton-texts/joachim-du-bellay-defense-french-language.md
+          - Ronsard, A Brief on the Art of French Poetry: workspace/norton-texts/pierre-de-ronsard-art-french-poetry.md
+          - Mazzoni, On the Defense of the Comedy of Dante: workspace/norton-texts/giacopo-mazzoni-defense-comedy-dante.md
+          - Sidney, The Defense of Poesy: workspace/norton-texts/sidney-defense-of-poesy.md
       - Thinker Notes:
           - Index: workspace/thinkers/index.md
           - Gorgias of Leontini: workspace/thinkers/gorgias-of-leontini.md
@@ -58,6 +66,14 @@ nav:
           - Moses Maimonides: workspace/thinkers/moses-maimonides.md
           - Geoffrey of Vinsauf: workspace/thinkers/geoffrey-of-vinsauf.md
           - Thomas Aquinas: workspace/thinkers/thomas-aquinas.md
+          - Dante Alighieri: workspace/thinkers/dante-alighieri.md
+          - Giovanni Boccaccio: workspace/thinkers/giovanni-boccaccio.md
+          - Christine de Pizan: workspace/thinkers/christine-de-pizan.md
+          - Giambattista Giraldi: workspace/thinkers/giambattista-giraldi.md
+          - Joachim du Bellay: workspace/thinkers/joachim-du-bellay.md
+          - Pierre de Ronsard: workspace/thinkers/pierre-de-ronsard.md
+          - Giacopo Mazzoni: workspace/thinkers/giacopo-mazzoni.md
+          - Sir Philip Sidney: workspace/thinkers/sir-philip-sidney.md
       - Passage Notes:
           - Index: workspace/passages/index.md
           - Speech As Force: workspace/passages/gorgias-speech-as-force.md
@@ -68,6 +84,8 @@ nav:
       - Signs And Reading: workspace/signs-and-reading.md
       - Beauty And Ascent: workspace/beauty-and-ascent.md
       - Commentary And Afterlife: workspace/commentary-and-afterlife.md
+      - Education And Civic Life: workspace/education-and-civic-life.md
+      - Vernacular And Institution: workspace/vernacular-and-institution.md
       - Page Anatomy: workspace/page-anatomy.md
       - Gorgias Text Note: workspace/gorgias-encomium-helen.md
   - Project Notes:

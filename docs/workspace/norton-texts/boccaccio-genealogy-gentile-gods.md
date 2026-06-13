@@ -1,10 +1,10 @@
-# Thomas Aquinas, Summa Theologica
+# Giovanni Boccaccio, Genealogy of the Gentile Gods
 
 <div class="ah-note-meta">
   <span><strong>Type:</strong> Norton text node</span>
   <span><strong>Status:</strong> generated private workspace note</span>
   <span><strong>Source mode:</strong> restricted metadata only</span>
-  <span><strong>Tags:</strong> interpretation, theology, allegory, education</span>
+  <span><strong>Tags:</strong> poetics, mythology, defense-of-poetry, humanism</span>
 </div>
 
 <div class="ah-private-banner">
@@ -14,44 +14,43 @@
 
 ## Working Use
 
-This note turns the current Norton chunk for Thomas Aquinas into a navigable workspace node. Use it to move between the restricted draft, the curated text spine, the first constellations, and the review queue before writing public-facing commentary.
+This note turns the current Norton chunk for Giovanni Boccaccio into a navigable workspace node. Use it to move between the restricted draft, the curated text spine, the first constellations, and the review queue before writing public-facing commentary.
 
 ## Current Chunk
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Chunk Status</span>
-  <h3>Norton Pages 282-287</h3>
-  <p><strong>Page count:</strong> 6</p>
-  <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/thomas-aquinas.md</code></p>
-  <p><strong>Page kinds:</strong> author_intro: 3<br>excerpt: 2<br>mixed_excerpt_bibliography: 1</p>
-  <p><strong>Review pressure:</strong> 6 rows. transition_from_previous_author: 3<br>source_notes_detected: 2<br>mixed_excerpt_and_bibliography: 1<br>multi_column_layout: 1<br>author_boundary_without_life_dates: 1</p>
+  <h3>Norton Pages 295-304</h3>
+  <p><strong>Page count:</strong> 10</p>
+  <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/giovanni-boccaccio.md</code></p>
+  <p><strong>Page kinds:</strong> excerpt: 7<br>author_intro: 2<br>mixed_excerpt_bibliography: 1</p>
+  <p><strong>Review pressure:</strong> 9 rows. multi_column_layout: 6<br>source_notes_detected: 4<br>transition_from_previous_author: 2<br>mixed_excerpt_and_bibliography: 1<br>author_boundary_without_life_dates: 1</p>
 </section>
 
 ## Works And Excerpt Blocks
 
-- Summa Theologica
+- Genealogy of the Gentile Gods
 
 ## Constellations
 
 | Constellation | Core Question | Relations |
 | --- | --- | --- |
-| [signs-and-reading](../signs-and-reading.md) | How should difficult texts be read? | writing, interpretation, allegory |
-| [commentary-and-afterlife](../commentary-and-afterlife.md) | How do texts survive by being reread? | commentary, transmission, disciplined-reading |
+| [poetry-and-judgment](../poetry-and-judgment.md) | Who gets to judge art? | tension, craft, excess |
 
 ## Passage Queue
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Anchor Candidates</span>
   <h3>Choose Passages After Review</h3>
-  <p><strong>Source location:</strong> Norton page range 282-287.</p>
+  <p><strong>Source location:</strong> Norton page range 295-304.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
-  <p><strong>Use:</strong> Find the passages that make this text active inside signs-and-reading, commentary-and-afterlife.</p>
+  <p><strong>Use:</strong> Find the passages that make this text active inside poetry-and-judgment.</p>
 </section>
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Review Before Quoting</span>
   <h3>Layout, Notes, And Bibliography</h3>
-  <p><strong>Review signal:</strong> transition_from_previous_author: 3<br>source_notes_detected: 2<br>mixed_excerpt_and_bibliography: 1<br>multi_column_layout: 1<br>author_boundary_without_life_dates: 1</p>
+  <p><strong>Review signal:</strong> multi_column_layout: 6<br>source_notes_detected: 4<br>transition_from_previous_author: 2<br>mixed_excerpt_and_bibliography: 1<br>author_boundary_without_life_dates: 1</p>
   <p><strong>Editorial rule:</strong> source notes belong in source-note fields, bibliography belongs in bibliography fields, and excerpt text stays separate.</p>
 </section>
 
@@ -80,19 +79,19 @@ This note turns the current Norton chunk for Thomas Aquinas into a navigable wor
 
 | Field | Value |
 | --- | --- |
-| Text ID | `thomas-aquinas-summa-theologica` |
-| Curated title | Summa Theologica |
-| Creator | Thomas Aquinas |
-| Thinker note | [Thomas Aquinas](../thinkers/thomas-aquinas.md) |
+| Text ID | `boccaccio-genealogy-gentile-gods` |
+| Curated title | Genealogy of the Gentile Gods |
+| Creator | Giovanni Boccaccio |
+| Thinker note | [Giovanni Boccaccio](../thinkers/giovanni-boccaccio.md) |
 | Register status | `edition-review-needed` |
 | Source anthology | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Restricted draft | `generated/authors/norton-theory-criticism/thomas-aquinas.md` |
+| Restricted draft | `generated/authors/norton-theory-criticism/giovanni-boccaccio.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
 | Generated at | `2026-06-13T04:26:20Z` |
 | Git commit | `383dabc` |
 | Script version | `2` |
-| Output path | `docs/workspace/norton-texts/thomas-aquinas-summa-theologica.md` |
+| Output path | `docs/workspace/norton-texts/boccaccio-genealogy-gentile-gods.md` |
 
 ## Backlinks
 
@@ -101,10 +100,9 @@ This note turns the current Norton chunk for Thomas Aquinas into a navigable wor
 <li><a href="../../norton-map/">Norton Workspace Map</a></li>
 <li><a href="../../">Private Knowledge Base</a></li>
 <li><a href="../../../catalog/sources/">Text Catalog</a></li>
-<li>Thinker: <a href="../../thinkers/thomas-aquinas/">Thomas Aquinas</a></li>
+<li>Thinker: <a href="../../thinkers/giovanni-boccaccio/">Giovanni Boccaccio</a></li>
 <li><a href="../../passages/">Passage Notes</a></li>
-<li><a href="../../signs-and-reading/">signs-and-reading</a></li>
-<li><a href="../../commentary-and-afterlife/">commentary-and-afterlife</a></li>
+<li><a href="../../poetry-and-judgment/">poetry-and-judgment</a></li>
 </ul>
 
 ## Open Questions

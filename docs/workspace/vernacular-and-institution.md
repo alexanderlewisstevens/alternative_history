@@ -1,10 +1,10 @@
-# Beauty And Ascent
+# Vernacular And Institution
 
 <div class="ah-note-meta">
   <span><strong>Type:</strong> constellation note</span>
   <span><strong>Status:</strong> generated private workspace draft</span>
   <span><strong>Source mode:</strong> restricted metadata only</span>
-  <span><strong>Tags:</strong> sublimity, ascent, inward-reading</span>
+  <span><strong>Tags:</strong> vernacular, imitation, nation</span>
 </div>
 
 <div class="ah-private-banner">
@@ -14,7 +14,7 @@
 
 ## Core Question
 
-When does beauty become a way of knowing?
+How do languages become institutions of thought?
 
 ## Working Claim
 
@@ -23,32 +23,38 @@ This is a scaffold for reading the configured texts together. It should become a
 ## Texts In Play
 
 <div class="ah-graph-list">
-  <a href="../norton-texts/longinus-on-sublimity/"><strong>Longinus, On Sublimity</strong><span>sublimity, aesthetics, authority; pages 177-196; 19 review rows</span></a>
-  <a href="../norton-texts/plotinus-enneads/"><strong>Plotinus, Selected Enneads</strong><span>beauty, form, metaphysics; pages 213-226; 7 review rows</span></a>
-  <a href="../norton-texts/augustine-on-christian-doctrine-trinity/"><strong>Augustine of Hippo, On Christian Doctrine and The Trinity</strong><span>interpretation, signs, theology; pages 227-237; 9 review rows</span></a>
+  <a href="../norton-texts/dante-il-convivio-letter-can-grande/"><strong>Dante Alighieri, Il Convivio and The Letter to Can Grande</strong><span>interpretation, allegory, vernacular; pages 288-294; 5 review rows</span></a>
+  <a href="../norton-texts/giambattista-giraldi-composition-romances/"><strong>Giambattista Giraldi, Discourse on the Composition of Romances</strong><span>genre, romance, poetics; pages 313-320; 7 review rows</span></a>
+  <a href="../norton-texts/joachim-du-bellay-defense-french-language/"><strong>Joachim du Bellay, The Defence and Illustration of the French Language</strong><span>vernacular, language, nation; pages 321-332; 11 review rows</span></a>
+  <a href="../norton-texts/pierre-de-ronsard-art-french-poetry/"><strong>Pierre de Ronsard, A Brief on the Art of French Poetry</strong><span>poetics, craft, vernacular; pages 333-341; 5 review rows</span></a>
+  <a href="../norton-texts/sidney-defense-of-poesy/"><strong>Sir Philip Sidney, The Defense of Poesy</strong><span>poetry, rhetoric, education; pages 365-367; 3 review rows</span></a>
 </div>
 
 ## Relationship Map
 
 | Relation | From | To | Current Status |
 | --- | --- | --- | --- |
-| Sublimity | Longinus | Plotinus | Configured relation; needs close-reading evidence before promotion. |
-| Ascent | Plotinus | Augustine of Hippo | Configured relation; needs close-reading evidence before promotion. |
-| Inward Reading | Augustine of Hippo | Longinus | Configured relation; needs close-reading evidence before promotion. |
+| Vernacular | Dante Alighieri | Giambattista Giraldi | Configured relation; needs close-reading evidence before promotion. |
+| Imitation | Giambattista Giraldi | Joachim du Bellay | Configured relation; needs close-reading evidence before promotion. |
+| Nation | Joachim du Bellay | Pierre de Ronsard | Configured relation; needs close-reading evidence before promotion. |
 
 ## Reading Path
 
-1. [Longinus, On Sublimity](norton-texts/longinus-on-sublimity.md)
-2. [Plotinus, Selected Enneads](norton-texts/plotinus-enneads.md)
-3. [Augustine of Hippo, On Christian Doctrine and The Trinity](norton-texts/augustine-on-christian-doctrine-trinity.md)
+1. [Dante Alighieri, Il Convivio and The Letter to Can Grande](norton-texts/dante-il-convivio-letter-can-grande.md)
+2. [Giambattista Giraldi, Discourse on the Composition of Romances](norton-texts/giambattista-giraldi-composition-romances.md)
+3. [Joachim du Bellay, The Defence and Illustration of the French Language](norton-texts/joachim-du-bellay-defense-french-language.md)
+4. [Pierre de Ronsard, A Brief on the Art of French Poetry](norton-texts/pierre-de-ronsard-art-french-poetry.md)
+5. [Sir Philip Sidney, The Defense of Poesy](norton-texts/sidney-defense-of-poesy.md)
 
 ## Review Pressure
 
 | Text | Norton Pages | Review Rows | Page Kinds |
 | --- | --- | ---: | --- |
-| [On Sublimity](norton-texts/longinus-on-sublimity.md) | 177-196 | 19 | excerpt: 16<br>author_intro: 4 |
-| [Selected Enneads](norton-texts/plotinus-enneads.md) | 213-226 | 7 | excerpt: 10<br>author_intro: 4 |
-| [On Christian Doctrine and The Trinity](norton-texts/augustine-on-christian-doctrine-trinity.md) | 227-237 | 9 | excerpt: 7<br>author_intro: 4 |
+| [Il Convivio and The Letter to Can Grande](norton-texts/dante-il-convivio-letter-can-grande.md) | 288-294 | 5 | excerpt: 4<br>author_intro: 3 |
+| [Discourse on the Composition of Romances](norton-texts/giambattista-giraldi-composition-romances.md) | 313-320 | 7 | excerpt: 6<br>author_intro: 2 |
+| [The Defence and Illustration of the French Language](norton-texts/joachim-du-bellay-defense-french-language.md) | 321-332 | 11 | excerpt: 9<br>author_intro: 3 |
+| [A Brief on the Art of French Poetry](norton-texts/pierre-de-ronsard-art-french-poetry.md) | 333-341 | 5 | excerpt: 6<br>author_intro: 3 |
+| [The Defense of Poesy](norton-texts/sidney-defense-of-poesy.md) | 365-367 | 3 | author_intro: 3 |
 
 ## Passage Queue
 
@@ -97,7 +103,7 @@ This is a scaffold for reading the configured texts together. It should become a
 
 | Field | Value |
 | --- | --- |
-| Constellation ID | `beauty-and-ascent` |
+| Constellation ID | `vernacular-and-institution` |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
@@ -105,7 +111,7 @@ This is a scaffold for reading the configured texts together. It should become a
 | Generated at | `2026-06-13T04:25:50Z` |
 | Git commit | `383dabc` |
 | Script version | `2` |
-| Output path | `docs/workspace/beauty-and-ascent.md` |
+| Output path | `docs/workspace/vernacular-and-institution.md` |
 
 ## Open Questions
 

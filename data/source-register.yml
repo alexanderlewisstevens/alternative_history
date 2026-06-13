@@ -145,6 +145,86 @@ curated_texts:
       - allegory
       - education
     status: edition-review-needed
+  - id: dante-il-convivio-letter-can-grande
+    title: Il Convivio and The Letter to Can Grande
+    creator: Dante Alighieri
+    role: core-text-candidate
+    themes:
+      - interpretation
+      - allegory
+      - vernacular
+      - commentary
+    status: edition-review-needed
+  - id: boccaccio-genealogy-gentile-gods
+    title: Genealogy of the Gentile Gods
+    creator: Giovanni Boccaccio
+    role: core-text-candidate
+    themes:
+      - poetics
+      - mythology
+      - defense-of-poetry
+      - humanism
+    status: edition-review-needed
+  - id: christine-de-pizan-city-of-ladies
+    title: The Book of the City of Ladies
+    creator: Christine de Pizan
+    role: core-text-candidate
+    themes:
+      - education
+      - gender
+      - authority
+      - civic-imagination
+    status: edition-review-needed
+  - id: giambattista-giraldi-composition-romances
+    title: Discourse on the Composition of Romances
+    creator: Giambattista Giraldi
+    role: core-text-candidate
+    themes:
+      - genre
+      - romance
+      - poetics
+      - vernacular
+    status: edition-review-needed
+  - id: joachim-du-bellay-defense-french-language
+    title: The Defence and Illustration of the French Language
+    creator: Joachim du Bellay
+    role: core-text-candidate
+    themes:
+      - vernacular
+      - language
+      - nation
+      - imitation
+    status: edition-review-needed
+  - id: pierre-de-ronsard-art-french-poetry
+    title: A Brief on the Art of French Poetry
+    creator: Pierre de Ronsard
+    role: core-text-candidate
+    themes:
+      - poetics
+      - craft
+      - vernacular
+      - education
+    status: edition-review-needed
+  - id: giacopo-mazzoni-defense-comedy-dante
+    title: On the Defense of the Comedy of Dante
+    creator: Giacopo Mazzoni
+    role: core-text-candidate
+    themes:
+      - mimesis
+      - poetics
+      - genre
+      - civic-formation
+    status: edition-review-needed
+  - id: sidney-defense-of-poesy
+    title: The Defense of Poesy
+    creator: Sir Philip Sidney
+    role: core-text-candidate
+    themes:
+      - poetry
+      - rhetoric
+      - education
+      - civic-formation
+    status: edition-review-needed
 
 constellations:
   - id: rhetoric-and-force
@@ -166,6 +246,9 @@ constellations:
       - horace-ars-poetica
       - longinus-on-sublimity
       - geoffrey-poetria-nova
+      - boccaccio-genealogy-gentile-gods
+      - pierre-de-ronsard-art-french-poetry
+      - sidney-defense-of-poesy
     relations:
       - tension
       - craft
@@ -178,6 +261,8 @@ constellations:
       - hugh-didascalicon
       - maimonides-guide-perplexed
       - thomas-aquinas-summa-theologica
+      - dante-il-convivio-letter-can-grande
+      - giacopo-mazzoni-defense-comedy-dante
     relations:
       - writing
       - interpretation
@@ -200,10 +285,37 @@ constellations:
       - maimonides-guide-perplexed
       - geoffrey-poetria-nova
       - thomas-aquinas-summa-theologica
+      - dante-il-convivio-letter-can-grande
+      - joachim-du-bellay-defense-french-language
     relations:
       - commentary
       - transmission
       - disciplined-reading
+  - id: education-and-civic-life
+    question: What should education make possible for citizens?
+    texts:
+      - plato-selected-dialogues
+      - aristotle-poetics-rhetoric
+      - quintilian-institutio-oratoria
+      - hugh-didascalicon
+      - christine-de-pizan-city-of-ladies
+      - sidney-defense-of-poesy
+    relations:
+      - pedagogy
+      - civic-formation
+      - authority
+  - id: vernacular-and-institution
+    question: How do languages become institutions of thought?
+    texts:
+      - dante-il-convivio-letter-can-grande
+      - giambattista-giraldi-composition-romances
+      - joachim-du-bellay-defense-french-language
+      - pierre-de-ronsard-art-french-poetry
+      - sidney-defense-of-poesy
+    relations:
+      - vernacular
+      - imitation
+      - nation
 
 research_tools:
   - id: worldcat

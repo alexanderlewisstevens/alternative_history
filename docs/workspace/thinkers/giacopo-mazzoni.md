@@ -1,10 +1,10 @@
-# Hugh of St. Victor
+# Giacopo Mazzoni
 
 <div class="ah-note-meta">
   <span><strong>Type:</strong> thinker node</span>
   <span><strong>Status:</strong> generated private workspace note</span>
   <span><strong>Source mode:</strong> restricted metadata only</span>
-  <span><strong>Tags:</strong> classification, pedagogy, reading</span>
+  <span><strong>Tags:</strong> civic-formation, genre, mimesis, poetics</span>
 </div>
 
 <div class="ah-private-banner">
@@ -20,25 +20,23 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [The Didascalicon](../norton-texts/hugh-didascalicon.md) | 243-252 | 10 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md) | `edition-review-needed` |
+| [On the Defense of the Comedy of Dante](../norton-texts/giacopo-mazzoni-defense-comedy-dante.md) | 342-364 | 15 | 0 | [signs-and-reading](../signs-and-reading.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
-- The Didascalicon
+- On the Defense of the Comedy of Dante
 
 ## Constellation Backlinks
 
-- [commentary-and-afterlife](../commentary-and-afterlife.md)
-- [education-and-civic-life](../education-and-civic-life.md)
 - [signs-and-reading](../signs-and-reading.md)
 
 ## Review Pressure
 
 | Signal | Value |
 | --- | --- |
-| Page kinds | excerpt: 6<br>author_intro: 4 |
-| Review rows | 10 |
-| Review reasons | multi_column_layout: 6<br>transition_from_previous_author: 4<br>source_notes_detected: 4 |
+| Page kinds | excerpt: 20<br>author_intro: 2<br>mixed_excerpt_bibliography: 1 |
+| Review rows | 15 |
+| Review reasons | multi_column_layout: 9<br>source_notes_detected: 8<br>transition_from_previous_author: 2<br>mixed_excerpt_and_bibliography: 1<br>author_boundary_without_life_dates: 1 |
 
 ## Passage Queue
 
@@ -85,14 +83,14 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Field | Value |
 | --- | --- |
-| Thinker slug | `hugh-of-st-victor` |
+| Thinker slug | `giacopo-mazzoni` |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Generated at | `2026-06-13T04:26:19Z` |
 | Git commit | `383dabc` |
 | Script version | `1` |
-| Output path | `docs/workspace/thinkers/hugh-of-st-victor.md` |
+| Output path | `docs/workspace/thinkers/giacopo-mazzoni.md` |
 
 ## Open Questions
 

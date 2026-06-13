@@ -37,6 +37,7 @@ This note turns the current Norton chunk for Hugh of St. Victor into a navigable
 | --- | --- | --- |
 | [signs-and-reading](../signs-and-reading.md) | How should difficult texts be read? | writing, interpretation, allegory |
 | [commentary-and-afterlife](../commentary-and-afterlife.md) | How do texts survive by being reread? | commentary, transmission, disciplined-reading |
+| [education-and-civic-life](../education-and-civic-life.md) | What should education make possible for citizens? | pedagogy, civic-formation, authority |
 
 ## Passage Queue
 
@@ -45,7 +46,7 @@ This note turns the current Norton chunk for Hugh of St. Victor into a navigable
   <h3>Choose Passages After Review</h3>
   <p><strong>Source location:</strong> Norton page range 243-252.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
-  <p><strong>Use:</strong> Find the passages that make this text active inside signs-and-reading, commentary-and-afterlife.</p>
+  <p><strong>Use:</strong> Find the passages that make this text active inside signs-and-reading, commentary-and-afterlife, education-and-civic-life.</p>
 </section>
 
 <section class="ah-passage-card">
@@ -89,8 +90,8 @@ This note turns the current Norton chunk for Hugh of St. Victor into a navigable
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/hugh-of-st-victor.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T04:20:31Z` |
-| Git commit | `923172d` |
+| Generated at | `2026-06-13T04:26:20Z` |
+| Git commit | `383dabc` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/hugh-didascalicon.md` |
 
@@ -105,6 +106,7 @@ This note turns the current Norton chunk for Hugh of St. Victor into a navigable
 <li><a href="../../passages/">Passage Notes</a></li>
 <li><a href="../../signs-and-reading/">signs-and-reading</a></li>
 <li><a href="../../commentary-and-afterlife/">commentary-and-afterlife</a></li>
+<li><a href="../../education-and-civic-life/">education-and-civic-life</a></li>
 </ul>
 
 ## Open Questions

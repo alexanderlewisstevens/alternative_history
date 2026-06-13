@@ -2,85 +2,116 @@
 
 <div class="ah-note-meta">
   <span><strong>Type:</strong> constellation note</span>
-  <span><strong>Status:</strong> prototype</span>
-  <span><strong>Source mode:</strong> mixed private/public review</span>
-  <span><strong>Tags:</strong> rhetoric, persuasion, civic speech, poetics, judgment</span>
+  <span><strong>Status:</strong> generated private workspace draft</span>
+  <span><strong>Source mode:</strong> restricted metadata only</span>
+  <span><strong>Tags:</strong> tension, civic-discipline, inheritance</span>
 </div>
+
+<div class="ah-private-banner">
+  <strong>Private constellation draft</strong>
+  <span>This page is generated from curated metadata and local extraction audits. It contains no copied Norton source prose.</span>
+</div>
+
+## Core Question
+
+What can speech do?
 
 ## Working Claim
 
-Speech is not just expression in this cluster. It acts on bodies, blame, memory, civic formation, and judgment.
-
-Gorgias gives speech force. Plato worries that force can detach the soul from truth. Aristotle disciplines persuasion into an art with causes, audiences, and forms. Quintilian turns rhetoric into an ethical and civic education.
+This is a scaffold for reading the configured texts together. It should become a stronger claim only after passage review, edition review, and close reading.
 
 ## Texts In Play
 
 <div class="ah-graph-list">
-  <a href="../norton-texts/gorgias-encomium-helen/"><strong>Gorgias, Encomium of Helen</strong><span>speech as force</span></a>
-  <a href="../norton-texts/plato-selected-dialogues/"><strong>Plato, Selected Dialogues</strong><span>suspicion of persuasion and writing</span></a>
-  <a href="../norton-texts/aristotle-poetics-rhetoric/"><strong>Aristotle, Poetics and Rhetoric</strong><span>persuasion as teachable art</span></a>
-  <a href="../norton-texts/quintilian-institutio-oratoria/"><strong>Quintilian, Institutio Oratoria</strong><span>rhetoric as civic formation</span></a>
+  <a href="../norton-texts/gorgias-encomium-helen/"><strong>Gorgias, Encomium of Helen</strong><span>rhetoric, persuasion, speech; pages 71-74; 3 review rows</span></a>
+  <a href="../norton-texts/plato-selected-dialogues/"><strong>Plato, Selected dialogues</strong><span>mimesis, writing, memory; pages 75-127; 29 review rows</span></a>
+  <a href="../norton-texts/aristotle-poetics-rhetoric/"><strong>Aristotle, Poetics and Rhetoric</strong><span>poetics, rhetoric, genre; pages 128-162; 23 review rows</span></a>
+  <a href="../norton-texts/quintilian-institutio-oratoria/"><strong>Quintilian, Institutio Oratoria</strong><span>rhetoric, education, civic-formation; pages 197-212; 10 review rows</span></a>
 </div>
 
 ## Relationship Map
 
-| Relation | From | To | What Changes |
+| Relation | From | To | Current Status |
 | --- | --- | --- | --- |
-| Tension | Gorgias | Plato | Speech moves people; Plato asks what happens when movement outruns truth. |
-| Discipline | Gorgias | Aristotle | Persuasive force becomes an art with causes, audiences, and methods. |
-| Civic Formation | Aristotle | Quintilian | Technique becomes education, public character, and civic judgment. |
-| Afterlife | All four | This project | Rhetoric becomes a way to read history as persuasion, not only record. |
+| Tension | Gorgias | Plato | Configured relation; needs close-reading evidence before promotion. |
+| Civic Discipline | Plato | Aristotle | Configured relation; needs close-reading evidence before promotion. |
+| Inheritance | Aristotle | Quintilian | Configured relation; needs close-reading evidence before promotion. |
+
+## Reading Path
+
+1. [Gorgias, Encomium of Helen](norton-texts/gorgias-encomium-helen.md)
+2. [Plato, Selected dialogues](norton-texts/plato-selected-dialogues.md)
+3. [Aristotle, Poetics and Rhetoric](norton-texts/aristotle-poetics-rhetoric.md)
+4. [Quintilian, Institutio Oratoria](norton-texts/quintilian-institutio-oratoria.md)
+
+## Review Pressure
+
+| Text | Norton Pages | Review Rows | Page Kinds |
+| --- | --- | ---: | --- |
+| [Encomium of Helen](norton-texts/gorgias-encomium-helen.md) | 71-74 | 3 | excerpt: 3<br>author_intro: 1 |
+| [Selected dialogues](norton-texts/plato-selected-dialogues.md) | 75-127 | 29 | excerpt: 49<br>author_intro: 4 |
+| [Poetics and Rhetoric](norton-texts/aristotle-poetics-rhetoric.md) | 128-162 | 23 | excerpt: 30<br>author_intro: 5 |
+| [Institutio Oratoria](norton-texts/quintilian-institutio-oratoria.md) | 197-212 | 10 | excerpt: 14<br>author_intro: 2 |
 
 ## Passage Queue
 
 <section class="ah-passage-card">
-  <span class="ah-action-kicker">Anchor Candidate</span>
-  <h3>Speech As Force</h3>
-  <p><strong>Source location:</strong> Gorgias, <em>Encomium of Helen</em>; exact edition and section pending.</p>
-  <p><strong>Rights mode:</strong> edition review needed; use private notes until a public translation is selected.</p>
-  <p><strong>Use:</strong> Establish the first claim that language can act rather than merely describe.</p>
+  <span class="ah-action-kicker">Anchor Candidates</span>
+  <h3>Choose Passages After Review</h3>
+  <p><strong>Source location:</strong> use the linked Norton text nodes and restricted drafts.</p>
+  <p><strong>Rights mode:</strong> restricted private notes until public-domain or otherwise usable reading copies are selected.</p>
+  <p><strong>Use:</strong> Identify two or three passages that make the constellation question concrete.</p>
 </section>
 
 <section class="ah-passage-card">
-  <span class="ah-action-kicker">Counterpoint Candidate</span>
-  <h3>Suspicion Of Persuasion</h3>
-  <p><strong>Source location:</strong> Plato; likely <em>Gorgias</em>, <em>Phaedrus</em>, or <em>Republic</em>; exact passage pending.</p>
-  <p><strong>Rights mode:</strong> public-domain translation candidate needed.</p>
-  <p><strong>Use:</strong> Turn persuasive force into a problem of truth, education, and political order.</p>
+  <span class="ah-action-kicker">Editorial Boundary</span>
+  <h3>Not Yet A Public Essay</h3>
+  <p><strong>Current state:</strong> metadata scaffold.</p>
+  <p><strong>Promotion rule:</strong> do not turn this into public-facing interpretation until the selected passages and editions are reviewed.</p>
 </section>
 
-<section class="ah-passage-card">
-  <span class="ah-action-kicker">Discipline Candidate</span>
-  <h3>Persuasion As Art</h3>
-  <p><strong>Source location:</strong> Aristotle, <em>Rhetoric</em>; exact book/chapter pending.</p>
-  <p><strong>Rights mode:</strong> public-domain translation candidate needed.</p>
-  <p><strong>Use:</strong> Show how rhetoric becomes teachable without becoming harmless.</p>
-</section>
+## Provenance
 
-## Prototype Passage Notes
-
-- [Speech As Force](passages/gorgias-speech-as-force.md)
-- [Helen And Blame](passages/gorgias-helen-and-blame.md)
-- [Persuasion And Belief](passages/gorgias-persuasion-and-belief.md)
-
-## Reading Path
-
-1. Start with Gorgias to feel the shock of speech treated as force.
-2. Move to Plato to see why that force becomes philosophically and politically dangerous.
-3. Read Aristotle as an attempt to classify and teach persuasive practice.
-4. End with Quintilian, where rhetoric becomes a long training in public judgment.
+<div class="ah-provenance-table">
+  <table>
+    <thead>
+      <tr><th>Layer</th><th>Status</th></tr>
+    </thead>
+    <tbody>
+    <tr><td>Source-derived metadata</td><td>Constellation ID, question, text IDs, relations, source title, and rights status come from tracked source metadata.</td></tr>
+    <tr><td>Extraction-derived metadata</td><td>Page ranges, review rows, and page-kind summaries come from local extraction audit artifacts.</td></tr>
+    <tr><td>Generated scaffold</td><td>Working Claim, Relationship Map, Passage Queue, Review Pressure, and Open Questions are generated scaffolding.</td></tr>
+    <tr><td>Human commentary</td><td>Not yet reviewed as interpretive commentary.</td></tr>
+    <tr><td>Copied source prose</td><td>None. This generated page contains no copied Norton prose.</td></tr>
+    </tbody>
+  </table>
+</div>
 
 ## Backlinks
 
-- [Constellations](../catalog/constellations.md)
-- [Texts](../catalog/sources.md)
-- [Norton Text Notes](norton-texts/index.md)
-- [Passage Notes](passages/index.md)
-- [Gorgias Narrative Note](gorgias-encomium-helen.md)
-- GitHub issue: [Build the first Rhetoric And Force constellation draft](https://github.com/alexanderlewisstevens/alternative_history/issues/1)
+<ul class="ah-backlink-list">
+<li><a href="../">Private Knowledge Base</a></li>
+<li><a href="../norton-map/">Norton Workspace Map</a></li>
+<li><a href="../norton-texts/">Norton Text Notes</a></li>
+<li><a href="../../catalog/constellations/">Constellation Catalog</a></li>
+</ul>
+
+## Audit Trail
+
+| Field | Value |
+| --- | --- |
+| Constellation ID | `rhetoric-and-force` |
+| Source ID | `norton-theory-criticism` |
+| Source title | The Norton Anthology of Theory and Criticism |
+| Source rights status | `copyrighted` |
+| Source register | `data/source-register.yml` |
+| Generated at | `2026-06-13T04:25:50Z` |
+| Git commit | `383dabc` |
+| Script version | `2` |
+| Output path | `docs/workspace/rhetoric-and-force.md` |
 
 ## Open Questions
 
-- Which public-domain translations should become the default reading copies?
-- Should Plato's <em>Gorgias</em> or <em>Phaedrus</em> be the main counterweight?
-- Should this constellation become the first public essay, or remain a private workspace path until passage notes are stronger?
+- Which passage should become the first anchor for this constellation?
+- Which public reading copy should be used for each text?
+- Which relation labels need to be revised after close reading?

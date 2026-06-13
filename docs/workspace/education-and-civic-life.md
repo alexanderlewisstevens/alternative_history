@@ -1,10 +1,10 @@
-# Beauty And Ascent
+# Education And Civic Life
 
 <div class="ah-note-meta">
   <span><strong>Type:</strong> constellation note</span>
   <span><strong>Status:</strong> generated private workspace draft</span>
   <span><strong>Source mode:</strong> restricted metadata only</span>
-  <span><strong>Tags:</strong> sublimity, ascent, inward-reading</span>
+  <span><strong>Tags:</strong> pedagogy, civic-formation, authority</span>
 </div>
 
 <div class="ah-private-banner">
@@ -14,7 +14,7 @@
 
 ## Core Question
 
-When does beauty become a way of knowing?
+What should education make possible for citizens?
 
 ## Working Claim
 
@@ -23,32 +23,41 @@ This is a scaffold for reading the configured texts together. It should become a
 ## Texts In Play
 
 <div class="ah-graph-list">
-  <a href="../norton-texts/longinus-on-sublimity/"><strong>Longinus, On Sublimity</strong><span>sublimity, aesthetics, authority; pages 177-196; 19 review rows</span></a>
-  <a href="../norton-texts/plotinus-enneads/"><strong>Plotinus, Selected Enneads</strong><span>beauty, form, metaphysics; pages 213-226; 7 review rows</span></a>
-  <a href="../norton-texts/augustine-on-christian-doctrine-trinity/"><strong>Augustine of Hippo, On Christian Doctrine and The Trinity</strong><span>interpretation, signs, theology; pages 227-237; 9 review rows</span></a>
+  <a href="../norton-texts/plato-selected-dialogues/"><strong>Plato, Selected dialogues</strong><span>mimesis, writing, memory; pages 75-127; 29 review rows</span></a>
+  <a href="../norton-texts/aristotle-poetics-rhetoric/"><strong>Aristotle, Poetics and Rhetoric</strong><span>poetics, rhetoric, genre; pages 128-162; 23 review rows</span></a>
+  <a href="../norton-texts/quintilian-institutio-oratoria/"><strong>Quintilian, Institutio Oratoria</strong><span>rhetoric, education, civic-formation; pages 197-212; 10 review rows</span></a>
+  <a href="../norton-texts/hugh-didascalicon/"><strong>Hugh of St. Victor, The Didascalicon</strong><span>reading, pedagogy, classification; pages 243-252; 10 review rows</span></a>
+  <a href="../norton-texts/christine-de-pizan-city-of-ladies/"><strong>Christine de Pizan, The Book of the City of Ladies</strong><span>education, gender, authority; pages 305-312; 3 review rows</span></a>
+  <a href="../norton-texts/sidney-defense-of-poesy/"><strong>Sir Philip Sidney, The Defense of Poesy</strong><span>poetry, rhetoric, education; pages 365-367; 3 review rows</span></a>
 </div>
 
 ## Relationship Map
 
 | Relation | From | To | Current Status |
 | --- | --- | --- | --- |
-| Sublimity | Longinus | Plotinus | Configured relation; needs close-reading evidence before promotion. |
-| Ascent | Plotinus | Augustine of Hippo | Configured relation; needs close-reading evidence before promotion. |
-| Inward Reading | Augustine of Hippo | Longinus | Configured relation; needs close-reading evidence before promotion. |
+| Pedagogy | Plato | Aristotle | Configured relation; needs close-reading evidence before promotion. |
+| Civic Formation | Aristotle | Quintilian | Configured relation; needs close-reading evidence before promotion. |
+| Authority | Quintilian | Hugh of St. Victor | Configured relation; needs close-reading evidence before promotion. |
 
 ## Reading Path
 
-1. [Longinus, On Sublimity](norton-texts/longinus-on-sublimity.md)
-2. [Plotinus, Selected Enneads](norton-texts/plotinus-enneads.md)
-3. [Augustine of Hippo, On Christian Doctrine and The Trinity](norton-texts/augustine-on-christian-doctrine-trinity.md)
+1. [Plato, Selected dialogues](norton-texts/plato-selected-dialogues.md)
+2. [Aristotle, Poetics and Rhetoric](norton-texts/aristotle-poetics-rhetoric.md)
+3. [Quintilian, Institutio Oratoria](norton-texts/quintilian-institutio-oratoria.md)
+4. [Hugh of St. Victor, The Didascalicon](norton-texts/hugh-didascalicon.md)
+5. [Christine de Pizan, The Book of the City of Ladies](norton-texts/christine-de-pizan-city-of-ladies.md)
+6. [Sir Philip Sidney, The Defense of Poesy](norton-texts/sidney-defense-of-poesy.md)
 
 ## Review Pressure
 
 | Text | Norton Pages | Review Rows | Page Kinds |
 | --- | --- | ---: | --- |
-| [On Sublimity](norton-texts/longinus-on-sublimity.md) | 177-196 | 19 | excerpt: 16<br>author_intro: 4 |
-| [Selected Enneads](norton-texts/plotinus-enneads.md) | 213-226 | 7 | excerpt: 10<br>author_intro: 4 |
-| [On Christian Doctrine and The Trinity](norton-texts/augustine-on-christian-doctrine-trinity.md) | 227-237 | 9 | excerpt: 7<br>author_intro: 4 |
+| [Selected dialogues](norton-texts/plato-selected-dialogues.md) | 75-127 | 29 | excerpt: 49<br>author_intro: 4 |
+| [Poetics and Rhetoric](norton-texts/aristotle-poetics-rhetoric.md) | 128-162 | 23 | excerpt: 30<br>author_intro: 5 |
+| [Institutio Oratoria](norton-texts/quintilian-institutio-oratoria.md) | 197-212 | 10 | excerpt: 14<br>author_intro: 2 |
+| [The Didascalicon](norton-texts/hugh-didascalicon.md) | 243-252 | 10 | excerpt: 6<br>author_intro: 4 |
+| [The Book of the City of Ladies](norton-texts/christine-de-pizan-city-of-ladies.md) | 305-312 | 3 | excerpt: 6<br>author_intro: 2 |
+| [The Defense of Poesy](norton-texts/sidney-defense-of-poesy.md) | 365-367 | 3 | author_intro: 3 |
 
 ## Passage Queue
 
@@ -97,7 +106,7 @@ This is a scaffold for reading the configured texts together. It should become a
 
 | Field | Value |
 | --- | --- |
-| Constellation ID | `beauty-and-ascent` |
+| Constellation ID | `education-and-civic-life` |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
@@ -105,7 +114,7 @@ This is a scaffold for reading the configured texts together. It should become a
 | Generated at | `2026-06-13T04:25:50Z` |
 | Git commit | `383dabc` |
 | Script version | `2` |
-| Output path | `docs/workspace/beauty-and-ascent.md` |
+| Output path | `docs/workspace/education-and-civic-life.md` |
 
 ## Open Questions
 
