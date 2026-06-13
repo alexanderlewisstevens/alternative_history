@@ -77,6 +77,9 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/christian-race-for-theory/"><strong>Barbara Christian, The Race for Theory</strong><span>black-feminism, theory, african-american-literature; pages 2301-2309; 9 review rows</span></a>
   <a href="../norton-texts/haraway-manifesto-for-cyborgs/"><strong>Donna Haraway, A Manifesto for Cyborgs</strong><span>cyberfeminism, technoscience, feminism; pages 2313-2342; 30 review rows</span></a>
   <a href="../norton-texts/smith-toward-black-feminist-criticism/"><strong>Barbara Smith, Toward a Black Feminist Criticism</strong><span>black-feminism, lesbian-criticism, canon; pages 2346-2359; 14 review rows</span></a>
+  <a href="../norton-texts/bordo-unbearable-weight/"><strong>Susan Bordo, Unbearable Weight: Feminism, Western Culture, and the Body</strong><span>body, feminism, culture; pages 2406-2420; 15 review rows</span></a>
+  <a href="../norton-texts/bhabha-commitment-to-theory/"><strong>Homi K. Bhabha, The Commitment to Theory</strong><span>postcolonial-theory, hybridity, cultural-difference; pages 2423-2441; 19 review rows</span></a>
+  <a href="../norton-texts/davis-enforcing-normalcy/"><strong>Lennard J. Davis, Enforcing Normalcy: Disability, Deafness, and the Body</strong><span>disability-studies, normalcy, body; pages 2444-2447; 4 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -143,6 +146,9 @@ This is a scaffold for reading the configured texts together. It should become a
 52. [Barbara Christian, The Race for Theory](norton-texts/christian-race-for-theory.md)
 53. [Donna Haraway, A Manifesto for Cyborgs](norton-texts/haraway-manifesto-for-cyborgs.md)
 54. [Barbara Smith, Toward a Black Feminist Criticism](norton-texts/smith-toward-black-feminist-criticism.md)
+55. [Susan Bordo, Unbearable Weight: Feminism, Western Culture, and the Body](norton-texts/bordo-unbearable-weight.md)
+56. [Homi K. Bhabha, The Commitment to Theory](norton-texts/bhabha-commitment-to-theory.md)
+57. [Lennard J. Davis, Enforcing Normalcy: Disability, Deafness, and the Body](norton-texts/davis-enforcing-normalcy.md)
 
 ## Review Pressure
 
@@ -202,6 +208,9 @@ This is a scaffold for reading the configured texts together. It should become a
 | [The Race for Theory](norton-texts/christian-race-for-theory.md) | 2301-2309 | 9 | excerpt: 9 |
 | [A Manifesto for Cyborgs](norton-texts/haraway-manifesto-for-cyborgs.md) | 2313-2342 | 30 | excerpt: 30 |
 | [Toward a Black Feminist Criticism](norton-texts/smith-toward-black-feminist-criticism.md) | 2346-2359 | 14 | excerpt: 14 |
+| [Unbearable Weight: Feminism, Western Culture, and the Body](norton-texts/bordo-unbearable-weight.md) | 2406-2420 | 15 | excerpt: 15 |
+| [The Commitment to Theory](norton-texts/bhabha-commitment-to-theory.md) | 2423-2441 | 19 | excerpt: 19 |
+| [Enforcing Normalcy: Disability, Deafness, and the Body](norton-texts/davis-enforcing-normalcy.md) | 2444-2447 | 4 | excerpt: 4 |
 
 ## Passage Queue
 
@@ -255,8 +264,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T07:03:46Z` |
-| Git commit | `d472811` |
+| Generated at | `2026-06-13T07:08:48Z` |
+| Git commit | `811fcce` |
 | Script version | `2` |
 | Output path | `docs/workspace/labor-ideology-and-culture.md` |
 

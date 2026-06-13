@@ -89,8 +89,8 @@ This note turns the current Norton chunk for Monique Wittig into a navigable wor
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/monique-wittig.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T07:03:57Z` |
-| Git commit | `d472811` |
+| Generated at | `2026-06-13T07:09:03Z` |
+| Git commit | `811fcce` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/wittig-one-is-not-born-a-woman.md` |
 

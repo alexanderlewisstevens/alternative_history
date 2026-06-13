@@ -5,7 +5,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Boundary Review</div>
-  <div class="ah-metric-value">436</div>
+  <div class="ah-metric-value">438</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Content Separation</div>
@@ -21,7 +21,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">General Review</div>
-  <div class="ah-metric-value">1204</div>
+  <div class="ah-metric-value">1282</div>
 </div>
 </div>
 
@@ -29,10 +29,10 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 <div class="ah-review-grid">
 <section class="ah-review-card warn">
-  <div class="ah-review-card-kicker">436 pages</div>
+  <div class="ah-review-card-kicker">438 pages</div>
   <h3>Boundary Review</h3>
   <p>Confirm thinker and work boundaries before assembling public-facing drafts.</p>
-  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +424 more</p>
+  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +426 more</p>
 </section>
 <section class="ah-review-card warn">
   <div class="ah-review-card-kicker">9 pages</div>
@@ -53,10 +53,10 @@ This is the editorial queue for restricted extraction work. It is generated from
   <p><strong>Start:</strong> <code>74</code>, <code>98</code>, <code>99</code>, <code>126</code>, <code>185</code>, <code>190</code>, <code>191</code>, <code>192</code>, <code>194</code>, <code>204</code>, <code>213</code>, <code>218</code> +60 more</p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">1204 pages</div>
+  <div class="ah-review-card-kicker">1282 pages</div>
   <h3>General Review</h3>
   <p>Resolve remaining template or classification questions.</p>
-  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +1192 more</p>
+  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +1270 more</p>
 </section>
 </div>
 
@@ -72,11 +72,11 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Field | Value |
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
-| Classified source pages | `71-2367` |
-| Review queue rows | `2065` |
+| Classified source pages | `71-2447` |
+| Review queue rows | `2145` |
 | Review queue file | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
-| Generated at | `2026-06-13T07:03:48Z` |
-| Git commit | `d472811` |
+| Generated at | `2026-06-13T07:08:53Z` |
+| Git commit | `811fcce` |
 | Script version | `1` |
 | Output path | `docs/_meta/review-dashboard.md` |
 
@@ -84,9 +84,9 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 | Reason | Pages |
 | --- | ---: |
-| mixed_bibliography_and_work_title | 789 |
+| mixed_bibliography_and_work_title | 869 |
 | mixed_work_transition_page | 658 |
-| transition_from_previous_author | 414 |
+| transition_from_previous_author | 416 |
 | mixed_author_transition_page | 412 |
 | multi_column_layout | 357 |
 | source_notes_detected | 314 |
@@ -94,7 +94,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | selection_boundary_review | 34 |
 | layout_review_required | 23 |
 | author_boundary_without_life_dates | 20 |
-| continues_beyond_current_batch | 19 |
+| continues_beyond_current_batch | 18 |
 | bibliography_on_previous_page | 15 |
 | mixed_excerpt_and_bibliography | 9 |
 | transition_from_previous_work | 2 |
@@ -130,11 +130,14 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Stanley E. Fish | 22 |
 | Tzvetan Todorov | 22 |
 | Annette Kolodny | 22 |
+| Barbara Johnson | 22 |
+| Bonnie Zimmerman | 22 |
 | Samuel Johnson | 21 |
 | Ralph Waldo Emerson | 21 |
 | Ferdinand de Saussure | 21 |
 | Cleanth Brooks | 21 |
 | Helene Cixous | 21 |
+| Homi K. Bhabha | 21 |
 | Alexander Pope | 20 |
 | Max Horkheimer and Theodor W. Adorno | 20 |
 | Hayden White | 20 |
@@ -151,6 +154,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Jane Tompkins | 17 |
 | Houston A. Baker Jr. | 17 |
 | Barbara Smith | 17 |
+| Susan Bordo | 17 |
 | Oscar Wilde | 16 |
 | Georges Poulet | 16 |
 | Gilles Deleuze and Felix Guattari | 16 |
@@ -217,7 +221,6 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Henry James | 8 |
 | Monique Wittig | 8 |
 | Ngugi wa Thiong'o, Taban Lo Liyong, and Henry Owuor-Anyumba | 8 |
-| Barbara Johnson | 8 |
 | Plotinus | 7 |
 | Giambattista Giraldi | 7 |
 | David Hume | 7 |
@@ -227,6 +230,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Georg Wilhelm Friedrich Hegel | 6 |
 | Langston Hughes | 6 |
 | Jean-Francois Lyotard | 6 |
+| Lennard J. Davis | 6 |
 | Dante Alighieri | 5 |
 | Pierre de Ronsard | 5 |
 | Stephen Greenblatt | 5 |
@@ -674,6 +678,8 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 2343 | Barbara Smith | A Manifesto for Cyborgs | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2343.md |
 | 2344 | Barbara Smith |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2344.md |
 | 2345 | Barbara Smith | Barbara Smith | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2345.md |
+| 2404 | Susan Bordo |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2404.md |
+| 2405 | Susan Bordo |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2405.md |
 
 ## Content Separation
 
@@ -2318,8 +2324,86 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 2360 | Barbara Johnson |  | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2360.md |
 | 2361 | Barbara Johnson | Barbarajohnson | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2361.md |
 | 2362 | Barbara Johnson |  | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2362.md |
-| 2363 | Barbara Johnson | Melville's Fist: The Execution of Billy Budd | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2363.md |
-| 2364 | Barbara Johnson | Melville's Fist: The Execution of Billy Budd | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2364.md |
-| 2365 | Barbara Johnson | Melville's Fist: The Execution of Billy Budd | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2365.md |
-| 2366 | Barbara Johnson | Melville's Fist: The Execution of Billy Budd | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2366.md |
-| 2367 | Barbara Johnson | Melville's Fist: The Execution of Billy Budd | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2367.md |
+| 2363 | Barbara Johnson | Melville's Fist: The Execution of Billy Budd | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2363.md |
+| 2364 | Barbara Johnson | Melville's Fist: The Execution of Billy Budd | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2364.md |
+| 2365 | Barbara Johnson | Melville's Fist: The Execution of Billy Budd | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2365.md |
+| 2366 | Barbara Johnson | Melville's Fist: The Execution of Billy Budd | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2366.md |
+| 2367 | Barbara Johnson | Melville's Fist: The Execution of Billy Budd | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2367.md |
+| 2368 | Barbara Johnson | Melville's Fist: The Execution of Billy Budd | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2368.md |
+| 2369 | Barbara Johnson | Melville's Fist: The Execution of Billy Budd | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2369.md |
+| 2370 | Barbara Johnson | Melville's Fist: The Execution of Billy Budd | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2370.md |
+| 2371 | Barbara Johnson | Melville's Fist: The Execution of Billy Budd | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2371.md |
+| 2372 | Barbara Johnson | Melville's Fist: The Execution of Billy Budd | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2372.md |
+| 2373 | Barbara Johnson | Melville's Fist: The Execution of Billy Budd | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2373.md |
+| 2374 | Barbara Johnson | Melville's Fist: The Execution of Billy Budd | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2374.md |
+| 2375 | Barbara Johnson | Melville's Fist: The Execution of Billy Budd | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2375.md |
+| 2376 | Barbara Johnson | Melville's Fist: The Execution of Billy Budd | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2376.md |
+| 2377 | Barbara Johnson | Melville's Fist: The Execution of Billy Budd | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2377.md |
+| 2378 | Barbara Johnson | Melville's Fist: The Execution of Billy Budd | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2378.md |
+| 2379 | Barbara Johnson | Melville's Fist: The Execution of Billy Budd | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2379.md |
+| 2380 | Barbara Johnson | Melville's Fist: The Execution of Billy Budd | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2380.md |
+| 2381 | Barbara Johnson | Melville's Fist: The Execution of Billy Budd | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2381.md |
+| 2382 | Bonnie Zimmerman |  | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2382.md |
+| 2383 | Bonnie Zimmerman | Bonnie Zimmerman | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2383.md |
+| 2384 | Bonnie Zimmerman | What Has Never Been: An Overview of Lesbian Feminist Literary Criticism | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2384.md |
+| 2385 | Bonnie Zimmerman | What Has Never Been: An Overview of Lesbian Feminist Literary Criticism | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2385.md |
+| 2386 | Bonnie Zimmerman | What Has Never Been: An Overview of Lesbian Feminist Literary Criticism | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2386.md |
+| 2387 | Bonnie Zimmerman | What Has Never Been: An Overview of Lesbian Feminist Literary Criticism | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2387.md |
+| 2388 | Bonnie Zimmerman | What Has Never Been: An Overview of Lesbian Feminist Literary Criticism | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2388.md |
+| 2389 | Bonnie Zimmerman | What Has Never Been: An Overview of Lesbian Feminist Literary Criticism | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2389.md |
+| 2390 | Bonnie Zimmerman | What Has Never Been: An Overview of Lesbian Feminist Literary Criticism | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2390.md |
+| 2391 | Bonnie Zimmerman | What Has Never Been: An Overview of Lesbian Feminist Literary Criticism | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2391.md |
+| 2392 | Bonnie Zimmerman | What Has Never Been: An Overview of Lesbian Feminist Literary Criticism | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2392.md |
+| 2393 | Bonnie Zimmerman | What Has Never Been: An Overview of Lesbian Feminist Literary Criticism | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2393.md |
+| 2394 | Bonnie Zimmerman | What Has Never Been: An Overview of Lesbian Feminist Literary Criticism | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2394.md |
+| 2395 | Bonnie Zimmerman | What Has Never Been: An Overview of Lesbian Feminist Literary Criticism | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2395.md |
+| 2396 | Bonnie Zimmerman | What Has Never Been: An Overview of Lesbian Feminist Literary Criticism | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2396.md |
+| 2397 | Bonnie Zimmerman | What Has Never Been: An Overview of Lesbian Feminist Literary Criticism | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2397.md |
+| 2398 | Bonnie Zimmerman | What Has Never Been: An Overview of Lesbian Feminist Literary Criticism | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2398.md |
+| 2399 | Bonnie Zimmerman | What Has Never Been: An Overview of Lesbian Feminist Literary Criticism | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2399.md |
+| 2400 | Bonnie Zimmerman | What Has Never Been: An Overview of Lesbian Feminist Literary Criticism | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2400.md |
+| 2401 | Bonnie Zimmerman | What Has Never Been: An Overview of Lesbian Feminist Literary Criticism | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2401.md |
+| 2402 | Bonnie Zimmerman | What Has Never Been: An Overview of Lesbian Feminist Literary Criticism | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2402.md |
+| 2403 | Bonnie Zimmerman | What Has Never Been: An Overview of Lesbian Feminist Literary Criticism | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2403.md |
+| 2406 | Susan Bordo | Unbearable Weight: Feminism, Western Culture, and the Body | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2406.md |
+| 2407 | Susan Bordo | Unbearable Weight: Feminism, Western Culture, and the Body | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2407.md |
+| 2408 | Susan Bordo | Unbearable Weight: Feminism, Western Culture, and the Body | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2408.md |
+| 2409 | Susan Bordo | Unbearable Weight: Feminism, Western Culture, and the Body | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2409.md |
+| 2410 | Susan Bordo | Unbearable Weight: Feminism, Western Culture, and the Body | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2410.md |
+| 2411 | Susan Bordo | Unbearable Weight: Feminism, Western Culture, and the Body | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2411.md |
+| 2412 | Susan Bordo | Unbearable Weight: Feminism, Western Culture, and the Body | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2412.md |
+| 2413 | Susan Bordo | Unbearable Weight: Feminism, Western Culture, and the Body | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2413.md |
+| 2414 | Susan Bordo | Unbearable Weight: Feminism, Western Culture, and the Body | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2414.md |
+| 2415 | Susan Bordo | Unbearable Weight: Feminism, Western Culture, and the Body | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2415.md |
+| 2416 | Susan Bordo | Unbearable Weight: Feminism, Western Culture, and the Body | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2416.md |
+| 2417 | Susan Bordo | Unbearable Weight: Feminism, Western Culture, and the Body | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2417.md |
+| 2418 | Susan Bordo | Unbearable Weight: Feminism, Western Culture, and the Body | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2418.md |
+| 2419 | Susan Bordo | Unbearable Weight: Feminism, Western Culture, and the Body | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2419.md |
+| 2420 | Susan Bordo | Unbearable Weight: Feminism, Western Culture, and the Body | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2420.md |
+| 2421 | Homi K. Bhabha |  | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2421.md |
+| 2422 | Homi K. Bhabha |  | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2422.md |
+| 2423 | Homi K. Bhabha | The Commitment to Theory | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2423.md |
+| 2424 | Homi K. Bhabha | The Commitment to Theory | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2424.md |
+| 2425 | Homi K. Bhabha | The Commitment to Theory | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2425.md |
+| 2426 | Homi K. Bhabha | The Commitment to Theory | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2426.md |
+| 2427 | Homi K. Bhabha | The Commitment to Theory | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2427.md |
+| 2428 | Homi K. Bhabha | The Commitment to Theory | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2428.md |
+| 2429 | Homi K. Bhabha | The Commitment to Theory | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2429.md |
+| 2430 | Homi K. Bhabha | The Commitment to Theory | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2430.md |
+| 2431 | Homi K. Bhabha | The Commitment to Theory | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2431.md |
+| 2432 | Homi K. Bhabha | The Commitment to Theory | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2432.md |
+| 2433 | Homi K. Bhabha | The Commitment to Theory | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2433.md |
+| 2434 | Homi K. Bhabha | The Commitment to Theory | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2434.md |
+| 2435 | Homi K. Bhabha | The Commitment to Theory | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2435.md |
+| 2436 | Homi K. Bhabha | The Commitment to Theory | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2436.md |
+| 2437 | Homi K. Bhabha | The Commitment to Theory | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2437.md |
+| 2438 | Homi K. Bhabha | The Commitment to Theory | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2438.md |
+| 2439 | Homi K. Bhabha | The Commitment to Theory | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2439.md |
+| 2440 | Homi K. Bhabha | The Commitment to Theory | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2440.md |
+| 2441 | Homi K. Bhabha | The Commitment to Theory | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2441.md |
+| 2442 | Lennard J. Davis |  | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2442.md |
+| 2443 | Lennard J. Davis | Lennard J. Davls | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2443.md |
+| 2444 | Lennard J. Davis | Enforcing Normalcy: Disability, Deafness, and the Body | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2444.md |
+| 2445 | Lennard J. Davis | Enforcing Normalcy: Disability, Deafness, and the Body | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2445.md |
+| 2446 | Lennard J. Davis | Enforcing Normalcy: Disability, Deafness, and the Body | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2446.md |
+| 2447 | Lennard J. Davis | Enforcing Normalcy: Disability, Deafness, and the Body | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2447.md |

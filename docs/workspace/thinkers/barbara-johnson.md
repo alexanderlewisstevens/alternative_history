@@ -20,7 +20,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [Melville&#x27;s Fist: The Execution of Billy Budd](../norton-texts/johnson-melvilles-fist-execution-billy-budd.md) | 2363-2367 | 5 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md) | `edition-review-needed` |
+| [Melville&#x27;s Fist: The Execution of Billy Budd](../norton-texts/johnson-melvilles-fist-execution-billy-budd.md) | 2363-2381 | 19 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -39,9 +39,9 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Signal | Value |
 | --- | --- |
-| Page kinds | excerpt: 5<br>author_intro: 3 |
-| Review rows | 8 |
-| Review reasons | mixed_bibliography_and_work_title: 8<br>continues_beyond_current_batch: 5 |
+| Page kinds | excerpt: 19<br>author_intro: 3 |
+| Review rows | 22 |
+| Review reasons | mixed_bibliography_and_work_title: 22 |
 
 ## Passage Queue
 
@@ -92,8 +92,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T07:03:49Z` |
-| Git commit | `d472811` |
+| Generated at | `2026-06-13T07:08:55Z` |
+| Git commit | `811fcce` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/barbara-johnson.md` |
 

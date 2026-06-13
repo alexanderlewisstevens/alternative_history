@@ -93,8 +93,8 @@ This note turns the current Norton chunk for Mikhail M. Bakhtin into a navigable
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/mikhail-bakhtin.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T07:03:56Z` |
-| Git commit | `d472811` |
+| Generated at | `2026-06-13T07:09:02Z` |
+| Git commit | `811fcce` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/bakhtin-discourse-in-the-novel.md` |
 

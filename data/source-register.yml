@@ -1722,6 +1722,54 @@ curated_texts:
       - language
       - pedagogy
     status: edition-review-needed
+  - id: zimmerman-what-has-never-been
+    title: "What Has Never Been: An Overview of Lesbian Feminist Literary Criticism"
+    creator: Bonnie Zimmerman
+    extraction_work_titles:
+      - "What Has Never Been: An Overview of Lesbian Feminist Literary Criticism"
+    role: core-text-candidate
+    themes:
+      - lesbian-feminism
+      - feminist-criticism
+      - canon
+      - identity
+    status: edition-review-needed
+  - id: bordo-unbearable-weight
+    title: "Unbearable Weight: Feminism, Western Culture, and the Body"
+    creator: Susan Bordo
+    extraction_work_titles:
+      - "Unbearable Weight: Feminism, Western Culture, and the Body"
+    role: core-text-candidate
+    themes:
+      - body
+      - feminism
+      - culture
+      - discipline
+    status: edition-review-needed
+  - id: bhabha-commitment-to-theory
+    title: The Commitment to Theory
+    creator: Homi K. Bhabha
+    extraction_work_titles:
+      - The Commitment to Theory
+    role: core-text-candidate
+    themes:
+      - postcolonial-theory
+      - hybridity
+      - cultural-difference
+      - politics
+    status: edition-review-needed
+  - id: davis-enforcing-normalcy
+    title: "Enforcing Normalcy: Disability, Deafness, and the Body"
+    creator: Lennard J. Davis
+    extraction_work_titles:
+      - "Enforcing Normalcy: Disability, Deafness, and the Body"
+    role: core-text-candidate
+    themes:
+      - disability-studies
+      - normalcy
+      - body
+      - labor
+    status: edition-review-needed
 
 constellations:
   - id: rhetoric-and-force
@@ -1857,6 +1905,10 @@ constellations:
       - haraway-manifesto-for-cyborgs
       - smith-toward-black-feminist-criticism
       - johnson-melvilles-fist-execution-billy-budd
+      - zimmerman-what-has-never-been
+      - bordo-unbearable-weight
+      - bhabha-commitment-to-theory
+      - davis-enforcing-normalcy
     relations:
       - writing
       - interpretation
@@ -1956,6 +2008,9 @@ constellations:
       - fish-interpreting-the-variorum
       - todorov-structural-analysis-narrative
       - allen-kochinnenako-in-academe
+      - johnson-melvilles-fist-execution-billy-budd
+      - bhabha-commitment-to-theory
+      - davis-enforcing-normalcy
       - tompkins-me-and-my-shadow
       - kolodny-dancing-through-the-minefield
       - kristeva-revolution-in-poetic-language
@@ -1964,6 +2019,7 @@ constellations:
       - eagleton-literary-theory-introduction
       - greenblatt-introduction-power-of-forms
       - johnson-melvilles-fist-execution-billy-budd
+      - bhabha-commitment-to-theory
     relations:
       - commentary
       - transmission
@@ -2033,6 +2089,9 @@ constellations:
       - christian-race-for-theory
       - smith-toward-black-feminist-criticism
       - johnson-melvilles-fist-execution-billy-budd
+      - zimmerman-what-has-never-been
+      - bhabha-commitment-to-theory
+      - davis-enforcing-normalcy
     relations:
       - pedagogy
       - civic-formation
@@ -2157,6 +2216,8 @@ constellations:
       - christian-race-for-theory
       - smith-toward-black-feminist-criticism
       - johnson-melvilles-fist-execution-billy-budd
+      - zimmerman-what-has-never-been
+      - bordo-unbearable-weight
     relations:
       - authorship
       - gender
@@ -2215,6 +2276,9 @@ constellations:
       - eagleton-literary-theory-introduction
       - haraway-manifesto-for-cyborgs
       - johnson-melvilles-fist-execution-billy-budd
+      - zimmerman-what-has-never-been
+      - bordo-unbearable-weight
+      - davis-enforcing-normalcy
     relations:
       - taste
       - criticism
@@ -2352,6 +2416,9 @@ constellations:
       - christian-race-for-theory
       - smith-toward-black-feminist-criticism
       - johnson-melvilles-fist-execution-billy-budd
+      - zimmerman-what-has-never-been
+      - bhabha-commitment-to-theory
+      - davis-enforcing-normalcy
     relations:
       - education
       - freedom
@@ -2464,6 +2531,9 @@ constellations:
       - christian-race-for-theory
       - haraway-manifesto-for-cyborgs
       - smith-toward-black-feminist-criticism
+      - bordo-unbearable-weight
+      - bhabha-commitment-to-theory
+      - davis-enforcing-normalcy
     relations:
       - labor
       - ideology

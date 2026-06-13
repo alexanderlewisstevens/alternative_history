@@ -77,7 +77,9 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/eagleton-literary-theory-introduction/"><strong>Terry Eagleton, Literary Theory: An Introduction</strong><span>marxism, ideology, literary-studies; pages 2287-2293; 7 review rows</span></a>
   <a href="../norton-texts/christian-race-for-theory/"><strong>Barbara Christian, The Race for Theory</strong><span>black-feminism, theory, african-american-literature; pages 2301-2309; 9 review rows</span></a>
   <a href="../norton-texts/smith-toward-black-feminist-criticism/"><strong>Barbara Smith, Toward a Black Feminist Criticism</strong><span>black-feminism, lesbian-criticism, canon; pages 2346-2359; 14 review rows</span></a>
-  <a href="../norton-texts/johnson-melvilles-fist-execution-billy-budd/"><strong>Barbara Johnson, Melville&#x27;s Fist: The Execution of Billy Budd</strong><span>deconstruction, law, language; pages 2363-2367; 5 review rows</span></a>
+  <a href="../norton-texts/johnson-melvilles-fist-execution-billy-budd/"><strong>Barbara Johnson, Melville&#x27;s Fist: The Execution of Billy Budd</strong><span>deconstruction, law, language; pages 2363-2381; 19 review rows</span></a>
+  <a href="../norton-texts/zimmerman-what-has-never-been/"><strong>Bonnie Zimmerman, What Has Never Been: An Overview of Lesbian Feminist Literary Criticism</strong><span>lesbian-feminism, feminist-criticism, canon; pages 2384-2403; 20 review rows</span></a>
+  <a href="../norton-texts/bordo-unbearable-weight/"><strong>Susan Bordo, Unbearable Weight: Feminism, Western Culture, and the Body</strong><span>body, feminism, culture; pages 2406-2420; 15 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -145,6 +147,8 @@ This is a scaffold for reading the configured texts together. It should become a
 53. [Barbara Christian, The Race for Theory](norton-texts/christian-race-for-theory.md)
 54. [Barbara Smith, Toward a Black Feminist Criticism](norton-texts/smith-toward-black-feminist-criticism.md)
 55. [Barbara Johnson, Melville&#x27;s Fist: The Execution of Billy Budd](norton-texts/johnson-melvilles-fist-execution-billy-budd.md)
+56. [Bonnie Zimmerman, What Has Never Been: An Overview of Lesbian Feminist Literary Criticism](norton-texts/zimmerman-what-has-never-been.md)
+57. [Susan Bordo, Unbearable Weight: Feminism, Western Culture, and the Body](norton-texts/bordo-unbearable-weight.md)
 
 ## Review Pressure
 
@@ -204,7 +208,9 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Literary Theory: An Introduction](norton-texts/eagleton-literary-theory-introduction.md) | 2287-2293 | 7 | excerpt: 7 |
 | [The Race for Theory](norton-texts/christian-race-for-theory.md) | 2301-2309 | 9 | excerpt: 9 |
 | [Toward a Black Feminist Criticism](norton-texts/smith-toward-black-feminist-criticism.md) | 2346-2359 | 14 | excerpt: 14 |
-| [Melville&#x27;s Fist: The Execution of Billy Budd](norton-texts/johnson-melvilles-fist-execution-billy-budd.md) | 2363-2367 | 5 | excerpt: 5 |
+| [Melville&#x27;s Fist: The Execution of Billy Budd](norton-texts/johnson-melvilles-fist-execution-billy-budd.md) | 2363-2381 | 19 | excerpt: 19 |
+| [What Has Never Been: An Overview of Lesbian Feminist Literary Criticism](norton-texts/zimmerman-what-has-never-been.md) | 2384-2403 | 20 | excerpt: 20 |
+| [Unbearable Weight: Feminism, Western Culture, and the Body](norton-texts/bordo-unbearable-weight.md) | 2406-2420 | 15 | excerpt: 15 |
 
 ## Passage Queue
 
@@ -258,8 +264,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T07:03:44Z` |
-| Git commit | `d472811` |
+| Generated at | `2026-06-13T07:08:46Z` |
+| Git commit | `811fcce` |
 | Script version | `2` |
 | Output path | `docs/workspace/authorship-and-authority.md` |
 

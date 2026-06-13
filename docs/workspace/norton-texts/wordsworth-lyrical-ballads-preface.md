@@ -94,8 +94,8 @@ This note turns the current Norton chunk for William Wordsworth into a navigable
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/william-wordsworth.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T07:03:55Z` |
-| Git commit | `d472811` |
+| Generated at | `2026-06-13T07:09:01Z` |
+| Git commit | `811fcce` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/wordsworth-lyrical-ballads-preface.md` |
 

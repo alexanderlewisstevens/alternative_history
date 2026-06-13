@@ -91,8 +91,8 @@ This note turns the current Norton chunk for Stanley E. Fish into a navigable wo
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/stanley-e-fish.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T07:03:57Z` |
-| Git commit | `d472811` |
+| Generated at | `2026-06-13T07:09:03Z` |
+| Git commit | `811fcce` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/fish-interpreting-the-variorum.md` |
 

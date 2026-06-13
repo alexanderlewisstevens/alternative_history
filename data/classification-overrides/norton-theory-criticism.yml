@@ -4097,11 +4097,116 @@ overrides:
       - mixed_bibliography_and_work_title
 
   - id: barbara-johnson-melvilles-fist-execution-billy-budd
-    pages: 2363-2367
+    pages: 2363-2381
     author_name: Barbara Johnson
     author_slug: barbara-johnson
     work_title: "Melville's Fist: The Execution of Billy Budd"
     work_slug: melvilles-fist-execution-billy-budd
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: bonnie-zimmerman-headnote
+    pages: 2382-2384
+    author_name: Bonnie Zimmerman
+    author_slug: bonnie-zimmerman
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: bonnie-zimmerman-what-has-never-been
+    pages: 2384-2403
+    author_name: Bonnie Zimmerman
+    author_slug: bonnie-zimmerman
+    work_title: "What Has Never Been: An Overview of Lesbian Feminist Literary Criticism"
+    work_slug: what-has-never-been
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: susan-bordo-headnote
+    pages: 2404-2406
+    author_name: Susan Bordo
+    author_slug: susan-bordo
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: susan-bordo-unbearable-weight
+    pages: 2406-2420
+    author_name: Susan Bordo
+    author_slug: susan-bordo
+    work_title: "Unbearable Weight: Feminism, Western Culture, and the Body"
+    work_slug: unbearable-weight
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: homi-k-bhabha-headnote
+    pages: 2421-2423
+    author_name: Homi K. Bhabha
+    author_slug: homi-k-bhabha
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: homi-k-bhabha-commitment-to-theory
+    pages: 2423-2441
+    author_name: Homi K. Bhabha
+    author_slug: homi-k-bhabha
+    work_title: The Commitment to Theory
+    work_slug: commitment-to-theory
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: lennard-j-davis-headnote
+    pages: 2442-2444
+    author_name: Lennard J. Davis
+    author_slug: lennard-j-davis
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: lennard-j-davis-enforcing-normalcy
+    pages: 2444-2447
+    author_name: Lennard J. Davis
+    author_slug: lennard-j-davis
+    work_title: "Enforcing Normalcy: Disability, Deafness, and the Body"
+    work_slug: enforcing-normalcy
     page_kind: excerpt
     starts_new_author: false
     continues_previous_author: true

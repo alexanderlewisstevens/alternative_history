@@ -147,8 +147,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T07:03:42Z` |
-| Git commit | `d472811` |
+| Generated at | `2026-06-13T07:08:44Z` |
+| Git commit | `811fcce` |
 | Script version | `2` |
 | Output path | `docs/workspace/beauty-and-ascent.md` |
 

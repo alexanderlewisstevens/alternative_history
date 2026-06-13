@@ -20,6 +20,7 @@ This private index is generated from curated source metadata and local extractio
 | [Barbara Herrnstein Smith](barbara-herrnstein-smith.md) | 1 | Contingencies of Value |
 | [Barbara Johnson](barbara-johnson.md) | 1 | Melville&#x27;s Fist: The Execution of Billy Budd |
 | [Barbara Smith](barbara-smith.md) | 1 | Toward a Black Feminist Criticism |
+| [Bonnie Zimmerman](bonnie-zimmerman.md) | 1 | What Has Never Been: An Overview of Lesbian Feminist Literary Criticism |
 | [Boris Eichenbaum](boris-eichenbaum.md) | 1 | The Theory of the Formal Method |
 | [Carl Gustav Jung](carl-gustav-jung.md) | 1 | On the Relation of Analytical Psychology to Poetry |
 | [Charles Baudelaire](charles-baudelaire.md) | 1 | The Painter of Modern Life |
@@ -63,6 +64,7 @@ This private index is generated from curated source metadata and local extractio
 | [Hayden White](hayden-white.md) | 1 | The Historical Text as Literary Artifact |
 | [Helene Cixous](helene-cixous.md) | 1 | The Laugh of the Medusa |
 | [Henry James](henry-james.md) | 1 | The Art of Fiction |
+| [Homi K. Bhabha](homi-k-bhabha.md) | 1 | The Commitment to Theory |
 | [Horace](horace.md) | 1 | Ars Poetica |
 | [Houston A. Baker Jr.](houston-a-baker-jr.md) | 1 | Blues, Ideology, and Afro-American Literature |
 | [Hugh of St. Victor](hugh-of-st-victor.md) | 1 | The Didascalicon |
@@ -85,6 +87,7 @@ This private index is generated from curated source metadata and local extractio
 | [Kenneth Burke](kenneth-burke.md) | 1 | Kinds of Criticism |
 | [Langston Hughes](langston-hughes.md) | 1 | The Negro Artist and the Racial Mountain |
 | [Laura Mulvey](laura-mulvey.md) | 1 | Visual Pleasure and Narrative Cinema |
+| [Lennard J. Davis](lennard-j-davis.md) | 1 | Enforcing Normalcy: Disability, Deafness, and the Body |
 | [Leon Trotsky](leon-trotsky.md) | 1 | Literature and Revolution |
 | [Longinus](longinus.md) | 1 | On Sublimity |
 | [Louis Althusser](louis-althusser.md) | 2 | A Letter on Art in Reply to Andre Daspre, Ideology and Ideological State Apparatuses |
@@ -124,6 +127,7 @@ This private index is generated from curated source metadata and local extractio
 | [Stephane Mallarme](stephane-mallarme.md) | 1 | Crisis in Poetry |
 | [Stephen Greenblatt](stephen-greenblatt.md) | 1 | Introduction to The Power of Forms in the English Renaissance |
 | [Stuart Hall](stuart-hall.md) | 1 | Cultural Studies and Its Theoretical Legacies |
+| [Susan Bordo](susan-bordo.md) | 1 | Unbearable Weight: Feminism, Western Culture, and the Body |
 | [T. S. Eliot](t-s-eliot.md) | 2 | Tradition and the Individual Talent, The Metaphysical Poets |
 | [Terry Eagleton](terry-eagleton.md) | 1 | Literary Theory: An Introduction |
 | [Theophile Gautier](theophile-gautier.md) | 1 | Preface to Mademoiselle de Maupin |
@@ -160,7 +164,7 @@ This private index is generated from curated source metadata and local extractio
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
-| Generated at | `2026-06-13T07:03:49Z` |
-| Git commit | `d472811` |
+| Generated at | `2026-06-13T07:08:55Z` |
+| Git commit | `811fcce` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/index.md` |

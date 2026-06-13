@@ -10,11 +10,11 @@ This index is generated from curated source metadata and local extraction audit 
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Curated Text Nodes</div>
-  <div class="ah-metric-value">147</div>
+  <div class="ah-metric-value">151</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Assembled Chunks</div>
-  <div class="ah-metric-value">147</div>
+  <div class="ah-metric-value">151</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Constellations</div>
@@ -172,7 +172,11 @@ This index is generated from curated source metadata and local extraction audit 
 | [The Race for Theory](christian-race-for-theory.md) | Barbara Christian | 2301-2309 | [signs-and-reading](../signs-and-reading.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 9 | `edition-review-needed` |
 | [A Manifesto for Cyborgs](haraway-manifesto-for-cyborgs.md) | Donna Haraway | 2313-2342 | [signs-and-reading](../signs-and-reading.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 30 | `edition-review-needed` |
 | [Toward a Black Feminist Criticism](smith-toward-black-feminist-criticism.md) | Barbara Smith | 2346-2359 | [signs-and-reading](../signs-and-reading.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 14 | `edition-review-needed` |
-| [Melville&#x27;s Fist: The Execution of Billy Budd](johnson-melvilles-fist-execution-billy-budd.md) | Barbara Johnson | 2363-2367 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md) | 0 | 5 | `edition-review-needed` |
+| [Melville&#x27;s Fist: The Execution of Billy Budd](johnson-melvilles-fist-execution-billy-budd.md) | Barbara Johnson | 2363-2381 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md) | 0 | 19 | `edition-review-needed` |
+| [What Has Never Been: An Overview of Lesbian Feminist Literary Criticism](zimmerman-what-has-never-been.md) | Bonnie Zimmerman | 2384-2403 | [signs-and-reading](../signs-and-reading.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md) | 0 | 20 | `edition-review-needed` |
+| [Unbearable Weight: Feminism, Western Culture, and the Body](bordo-unbearable-weight.md) | Susan Bordo | 2406-2420 | [signs-and-reading](../signs-and-reading.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 15 | `edition-review-needed` |
+| [The Commitment to Theory](bhabha-commitment-to-theory.md) | Homi K. Bhabha | 2423-2441 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 19 | `edition-review-needed` |
+| [Enforcing Normalcy: Disability, Deafness, and the Body](davis-enforcing-normalcy.md) | Lennard J. Davis | 2444-2447 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 4 | `edition-review-needed` |
 
 ## How To Use This Index
 
@@ -199,7 +203,7 @@ This index is generated from curated source metadata and local extraction audit 
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T07:03:58Z` |
-| Git commit | `d472811` |
+| Generated at | `2026-06-13T07:09:04Z` |
+| Git commit | `811fcce` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/index.md` |

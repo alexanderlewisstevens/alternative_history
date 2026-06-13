@@ -90,6 +90,9 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/fish-interpreting-the-variorum/"><strong>Stanley E. Fish, Interpreting the Variorum</strong><span>reader-response, interpretation, institutions; pages 2115-2132; 18 review rows</span></a>
   <a href="../norton-texts/todorov-structural-analysis-narrative/"><strong>Tzvetan Todorov, Structural Analysis of Narrative</strong><span>structuralism, narratology, poetics; pages 2143-2162; 20 review rows</span></a>
   <a href="../norton-texts/allen-kochinnenako-in-academe/"><strong>Paula Gunn Allen, Kochinnenako in Academe</strong><span>native-studies, feminism, oral-tradition; pages 2165-2169; 5 review rows</span></a>
+  <a href="../norton-texts/johnson-melvilles-fist-execution-billy-budd/"><strong>Barbara Johnson, Melville&#x27;s Fist: The Execution of Billy Budd</strong><span>deconstruction, law, language; pages 2363-2381; 19 review rows</span></a>
+  <a href="../norton-texts/bhabha-commitment-to-theory/"><strong>Homi K. Bhabha, The Commitment to Theory</strong><span>postcolonial-theory, hybridity, cultural-difference; pages 2423-2441; 19 review rows</span></a>
+  <a href="../norton-texts/davis-enforcing-normalcy/"><strong>Lennard J. Davis, Enforcing Normalcy: Disability, Deafness, and the Body</strong><span>disability-studies, normalcy, body; pages 2444-2447; 4 review rows</span></a>
   <a href="../norton-texts/tompkins-me-and-my-shadow/"><strong>Jane Tompkins, Me and My Shadow</strong><span>feminist-criticism, personal-criticism, institutions; pages 2173-2186; 14 review rows</span></a>
   <a href="../norton-texts/kolodny-dancing-through-the-minefield/"><strong>Annette Kolodny, Dancing through the Minefield</strong><span>feminist-criticism, canon, interpretation; pages 2190-2208; 19 review rows</span></a>
   <a href="../norton-texts/kristeva-revolution-in-poetic-language/"><strong>Julia Kristeva, Revolution in Poetic Language</strong><span>semiotics, psychoanalysis, subjectivity; pages 2213-2222; 10 review rows</span></a>
@@ -97,7 +100,8 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/baker-blues-ideology-afro-american-literature/"><strong>Houston A. Baker Jr., Blues, Ideology, and Afro-American Literature</strong><span>african-american-literature, vernacular, blues; pages 2271-2283; 13 review rows</span></a>
   <a href="../norton-texts/eagleton-literary-theory-introduction/"><strong>Terry Eagleton, Literary Theory: An Introduction</strong><span>marxism, ideology, literary-studies; pages 2287-2293; 7 review rows</span></a>
   <a href="../norton-texts/greenblatt-introduction-power-of-forms/"><strong>Stephen Greenblatt, Introduction to The Power of Forms in the English Renaissance</strong><span>new-historicism, renaissance, power; pages 2295-2298; 4 review rows</span></a>
-  <a href="../norton-texts/johnson-melvilles-fist-execution-billy-budd/"><strong>Barbara Johnson, Melville&#x27;s Fist: The Execution of Billy Budd</strong><span>deconstruction, law, language; pages 2363-2367; 5 review rows</span></a>
+  <a href="../norton-texts/johnson-melvilles-fist-execution-billy-budd/"><strong>Barbara Johnson, Melville&#x27;s Fist: The Execution of Billy Budd</strong><span>deconstruction, law, language; pages 2363-2381; 19 review rows</span></a>
+  <a href="../norton-texts/bhabha-commitment-to-theory/"><strong>Homi K. Bhabha, The Commitment to Theory</strong><span>postcolonial-theory, hybridity, cultural-difference; pages 2423-2441; 19 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -177,14 +181,18 @@ This is a scaffold for reading the configured texts together. It should become a
 65. [Stanley E. Fish, Interpreting the Variorum](norton-texts/fish-interpreting-the-variorum.md)
 66. [Tzvetan Todorov, Structural Analysis of Narrative](norton-texts/todorov-structural-analysis-narrative.md)
 67. [Paula Gunn Allen, Kochinnenako in Academe](norton-texts/allen-kochinnenako-in-academe.md)
-68. [Jane Tompkins, Me and My Shadow](norton-texts/tompkins-me-and-my-shadow.md)
-69. [Annette Kolodny, Dancing through the Minefield](norton-texts/kolodny-dancing-through-the-minefield.md)
-70. [Julia Kristeva, Revolution in Poetic Language](norton-texts/kristeva-revolution-in-poetic-language.md)
-71. [Gayatri Chakravorty Spivak, A Critique of Postcolonial Reason](norton-texts/spivak-critique-postcolonial-reason.md)
-72. [Houston A. Baker Jr., Blues, Ideology, and Afro-American Literature](norton-texts/baker-blues-ideology-afro-american-literature.md)
-73. [Terry Eagleton, Literary Theory: An Introduction](norton-texts/eagleton-literary-theory-introduction.md)
-74. [Stephen Greenblatt, Introduction to The Power of Forms in the English Renaissance](norton-texts/greenblatt-introduction-power-of-forms.md)
-75. [Barbara Johnson, Melville&#x27;s Fist: The Execution of Billy Budd](norton-texts/johnson-melvilles-fist-execution-billy-budd.md)
+68. [Barbara Johnson, Melville&#x27;s Fist: The Execution of Billy Budd](norton-texts/johnson-melvilles-fist-execution-billy-budd.md)
+69. [Homi K. Bhabha, The Commitment to Theory](norton-texts/bhabha-commitment-to-theory.md)
+70. [Lennard J. Davis, Enforcing Normalcy: Disability, Deafness, and the Body](norton-texts/davis-enforcing-normalcy.md)
+71. [Jane Tompkins, Me and My Shadow](norton-texts/tompkins-me-and-my-shadow.md)
+72. [Annette Kolodny, Dancing through the Minefield](norton-texts/kolodny-dancing-through-the-minefield.md)
+73. [Julia Kristeva, Revolution in Poetic Language](norton-texts/kristeva-revolution-in-poetic-language.md)
+74. [Gayatri Chakravorty Spivak, A Critique of Postcolonial Reason](norton-texts/spivak-critique-postcolonial-reason.md)
+75. [Houston A. Baker Jr., Blues, Ideology, and Afro-American Literature](norton-texts/baker-blues-ideology-afro-american-literature.md)
+76. [Terry Eagleton, Literary Theory: An Introduction](norton-texts/eagleton-literary-theory-introduction.md)
+77. [Stephen Greenblatt, Introduction to The Power of Forms in the English Renaissance](norton-texts/greenblatt-introduction-power-of-forms.md)
+78. [Barbara Johnson, Melville&#x27;s Fist: The Execution of Billy Budd](norton-texts/johnson-melvilles-fist-execution-billy-budd.md)
+79. [Homi K. Bhabha, The Commitment to Theory](norton-texts/bhabha-commitment-to-theory.md)
 
 ## Review Pressure
 
@@ -257,6 +265,9 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Interpreting the Variorum](norton-texts/fish-interpreting-the-variorum.md) | 2115-2132 | 18 | excerpt: 18 |
 | [Structural Analysis of Narrative](norton-texts/todorov-structural-analysis-narrative.md) | 2143-2162 | 20 | excerpt: 20 |
 | [Kochinnenako in Academe](norton-texts/allen-kochinnenako-in-academe.md) | 2165-2169 | 5 | excerpt: 5 |
+| [Melville&#x27;s Fist: The Execution of Billy Budd](norton-texts/johnson-melvilles-fist-execution-billy-budd.md) | 2363-2381 | 19 | excerpt: 19 |
+| [The Commitment to Theory](norton-texts/bhabha-commitment-to-theory.md) | 2423-2441 | 19 | excerpt: 19 |
+| [Enforcing Normalcy: Disability, Deafness, and the Body](norton-texts/davis-enforcing-normalcy.md) | 2444-2447 | 4 | excerpt: 4 |
 | [Me and My Shadow](norton-texts/tompkins-me-and-my-shadow.md) | 2173-2186 | 14 | excerpt: 14 |
 | [Dancing through the Minefield](norton-texts/kolodny-dancing-through-the-minefield.md) | 2190-2208 | 19 | excerpt: 19 |
 | [Revolution in Poetic Language](norton-texts/kristeva-revolution-in-poetic-language.md) | 2213-2222 | 10 | excerpt: 10 |
@@ -264,7 +275,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Blues, Ideology, and Afro-American Literature](norton-texts/baker-blues-ideology-afro-american-literature.md) | 2271-2283 | 13 | excerpt: 13 |
 | [Literary Theory: An Introduction](norton-texts/eagleton-literary-theory-introduction.md) | 2287-2293 | 7 | excerpt: 7 |
 | [Introduction to The Power of Forms in the English Renaissance](norton-texts/greenblatt-introduction-power-of-forms.md) | 2295-2298 | 4 | excerpt: 4 |
-| [Melville&#x27;s Fist: The Execution of Billy Budd](norton-texts/johnson-melvilles-fist-execution-billy-budd.md) | 2363-2367 | 5 | excerpt: 5 |
+| [Melville&#x27;s Fist: The Execution of Billy Budd](norton-texts/johnson-melvilles-fist-execution-billy-budd.md) | 2363-2381 | 19 | excerpt: 19 |
+| [The Commitment to Theory](norton-texts/bhabha-commitment-to-theory.md) | 2423-2441 | 19 | excerpt: 19 |
 
 ## Passage Queue
 
@@ -318,8 +330,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T07:03:42Z` |
-| Git commit | `d472811` |
+| Generated at | `2026-06-13T07:08:45Z` |
+| Git commit | `811fcce` |
 | Script version | `2` |
 | Output path | `docs/workspace/commentary-and-afterlife.md` |
 
