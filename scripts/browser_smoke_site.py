@@ -37,6 +37,16 @@ DEFAULT_CHECKS = [
         "text": "Source Trail",
     },
     {
+        "path": "/workspace/passages/",
+        "title": "",
+        "text": "Current Passage Notes",
+    },
+    {
+        "path": "/workspace/passages/gorgias-speech-as-force/",
+        "title": "Speech As Force",
+        "text": "Project Commentary",
+    },
+    {
         "path": "/workspace/poetry-and-judgment/",
         "title": "Poetry And Judgment",
         "text": "Poetry And Judgment",

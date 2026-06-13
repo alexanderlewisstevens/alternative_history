@@ -32,11 +32,13 @@ from update_workspace_map import (
     review_counts_by_author,
     works_by_author,
 )
+from update_workspace_passage_notes import load_passage_notes
 from update_workspace_text_notes import author_row_for_text, linked_constellation, text_constellations
 
 
 SCRIPT_VERSION = "1"
 DEFAULT_OUTPUT_DIR = "docs/workspace/thinkers"
+DEFAULT_PASSAGE_NOTES = "data/passage-notes.yml"
 
 
 def thinker_slug_for_text(text: dict[str, Any], author_row: dict[str, str] | None) -> str:
@@ -56,11 +58,27 @@ def thinker_constellation_links(text_ids: list[str], constellations: list[dict[s
     return "\n".join(f"- {linked_constellation(value, relative_prefix='../')}" for value in ids)
 
 
+def passage_notes_for_text_ids(text_ids: list[str], passage_notes: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    requested = set(text_ids)
+    return [note for note in passage_notes if str(note.get("text_id", "")) in requested]
+
+
+def thinker_passage_note_links(text_ids: list[str], passage_notes: list[dict[str, Any]]) -> str:
+    notes = passage_notes_for_text_ids(text_ids, passage_notes)
+    if not notes:
+        return "- No passage notes yet."
+    return "\n".join(
+        f"- [{html.escape(str(note.get('title', note.get('id', 'Untitled Passage'))))}](../passages/{html.escape(str(note.get('id', '')))}.md)"
+        for note in notes
+    )
+
+
 def text_rows_for_thinker(
     texts: list[dict[str, Any]],
     author_rows: dict[str, dict[str, str] | None],
     review_counts: dict[str, Counter[str]],
     constellations: list[dict[str, Any]],
+    passage_notes: list[dict[str, Any]],
 ) -> str:
     rows = []
     for text in texts:
@@ -69,6 +87,7 @@ def text_rows_for_thinker(
         author_slug = author_row.get("author_slug", "") if author_row else ""
         pages = page_range(author_row.get("first_page", ""), author_row.get("last_page", "")) if author_row else ""
         constellation_links = "<br>".join(linked_constellation(str(item.get("id", "")), relative_prefix="../") for item in text_constellations(text_id, constellations))
+        passage_count = len(passage_notes_for_text_ids([text_id], passage_notes))
         rows.append(
             "| "
             + " | ".join(
@@ -76,13 +95,14 @@ def text_rows_for_thinker(
                     text_note_link(text_id, str(text.get("title", text_id))),
                     html.escape(pages),
                     str(review_counts.get(author_slug, Counter()).get("total", 0)),
+                    str(passage_count),
                     constellation_links or "",
                     f"`{html.escape(str(text.get('status', 'unknown')))}`",
                 ]
             )
             + " |"
         )
-    return "\n".join(rows) or "| No texts linked yet |  |  |  |  |"
+    return "\n".join(rows) or "| No texts linked yet |  |  |  |  |  |"
 
 
 def build_thinker_page(
@@ -95,6 +115,7 @@ def build_thinker_page(
     page_kinds: dict[str, Counter[str]],
     review_counts: dict[str, Counter[str]],
     constellations: list[dict[str, Any]],
+    passage_notes: list[dict[str, Any]],
     output_path: Path,
 ) -> str:
     generated_at = now_utc()
@@ -120,9 +141,9 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 ## Texts In This Workspace
 
-| Text | Norton Pages | Review Rows | Constellations | Register Status |
-| --- | --- | ---: | --- | --- |
-{text_rows_for_thinker(texts, author_rows, review_counts, constellations)}
+| Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
+| --- | --- | ---: | ---: | --- | --- |
+{text_rows_for_thinker(texts, author_rows, review_counts, constellations, passage_notes)}
 
 ## Works And Excerpt Blocks
 
@@ -148,6 +169,10 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
     ("Use", "identify passages that explain why this thinker matters to one or more constellations."),
 ])}
 
+## Passage Notes
+
+{thinker_passage_note_links(text_ids, passage_notes)}
+
 ## Provenance
 
 {provenance_table([
@@ -164,6 +189,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
     link("Private Knowledge Base", "../../"),
     link("Norton Workspace Map", "../../norton-map/"),
     link("Norton Text Notes", "../../norton-texts/"),
+    link("Passage Notes", "../../passages/"),
+    *[link(str(note.get("title", note.get("id", "Untitled Passage"))), f"../../passages/{note.get('id', '')}/") for note in passage_notes_for_text_ids(text_ids, passage_notes)],
     link("Thinker Index", "../"),
 ])}
 
@@ -248,6 +275,7 @@ def main() -> int:
     parser.add_argument("--source-id", default="norton-theory-criticism")
     parser.add_argument("--source-register", default="data/source-register.yml")
     parser.add_argument("--output-dir", default=DEFAULT_OUTPUT_DIR)
+    parser.add_argument("--passage-notes", default=DEFAULT_PASSAGE_NOTES)
     parser.add_argument("--clean", action="store_true")
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()
@@ -257,6 +285,7 @@ def main() -> int:
     source_register = load_source_register(args.source_register)
     curated_texts = [text for text in source_register.get("curated_texts", []) if text.get("id") != source["source_id"]]
     constellations = source_register.get("constellations", [])
+    passage_notes = load_passage_notes(args.passage_notes)
     classification_records = read_jsonl(paths["classification_dir"] / "page-classifications.jsonl")
     author_assembly = read_csv_rows(paths["audit_dir"] / "author-assembly.csv")
     review_rows = read_csv_rows(paths["review_dir"] / "page-records-needing-review.csv")
@@ -293,6 +322,7 @@ def main() -> int:
                     page_kinds=page_kinds,
                     review_counts=review_counts,
                     constellations=constellations,
+                    passage_notes=passage_notes,
                     output_path=output_path,
                 ),
                 {"thinker_slug": thinker_slug, "status": "ok", "error": ""},

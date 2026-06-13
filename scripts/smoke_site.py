@@ -17,6 +17,8 @@ DEFAULT_PATHS = [
     "/workspace/norton-map/",
     "/workspace/norton-texts/",
     "/workspace/norton-texts/gorgias-encomium-helen/",
+    "/workspace/passages/",
+    "/workspace/passages/gorgias-speech-as-force/",
     "/workspace/poetry-and-judgment/",
 ]
 
@@ -26,6 +28,8 @@ EXPECTED_TEXT = {
     "/workspace/norton-map/": "Norton Workspace Map",
     "/workspace/norton-texts/": "Norton Text Notes",
     "/workspace/norton-texts/gorgias-encomium-helen/": "Encomium of Helen",
+    "/workspace/passages/": "Passage Notes",
+    "/workspace/passages/gorgias-speech-as-force/": "Speech As Force",
     "/workspace/poetry-and-judgment/": "Poetry And Judgment",
 }
 

@@ -58,7 +58,7 @@ The page should not feel like a static encyclopedia entry. It should feel like a
     <span class="ah-action-kicker">Passage Note</span>
     <h3>Small Unit, High Leverage</h3>
     <p>A passage page should hold source location, rights status, paraphrase, commentary, and every place it becomes useful.</p>
-    <p><a href="../catalog/excerpts/">See excerpt catalog</a></p>
+    <p><a href="passages/">Open passage notes</a></p>
   </section>
 </div>
 
@@ -97,5 +97,5 @@ Build one complete chain:
 1. Constellation note: [Rhetoric And Force](rhetoric-and-force.md)
 2. Text note: [Gorgias, Encomium of Helen](gorgias-encomium-helen.md)
 3. Thinker note: Gorgias
-4. Passage notes for two or three anchor passages
+4. Passage notes: [Speech As Force](passages/gorgias-speech-as-force.md), [Helen And Blame](passages/gorgias-helen-and-blame.md), [Persuasion And Belief](passages/gorgias-persuasion-and-belief.md)
 5. Backlinks from Plato, Aristotle, and Quintilian into the same constellation

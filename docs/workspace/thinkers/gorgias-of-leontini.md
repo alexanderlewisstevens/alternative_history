@@ -18,9 +18,9 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 ## Texts In This Workspace
 
-| Text | Norton Pages | Review Rows | Constellations | Register Status |
-| --- | --- | ---: | --- | --- |
-| [Encomium of Helen](../norton-texts/gorgias-encomium-helen.md) | 71-74 | 3 | [rhetoric-and-force](../rhetoric-and-force.md) | `edition-review-needed` |
+| Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
+| --- | --- | ---: | ---: | --- | --- |
+| [Encomium of Helen](../norton-texts/gorgias-encomium-helen.md) | 71-74 | 3 | 3 | [rhetoric-and-force](../rhetoric-and-force.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -48,6 +48,12 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
   <p><strong>Use:</strong> identify passages that explain why this thinker matters to one or more constellations.</p>
 </section>
 
+## Passage Notes
+
+- [Speech As Force](../passages/gorgias-speech-as-force.md)
+- [Helen And Blame](../passages/gorgias-helen-and-blame.md)
+- [Persuasion And Belief](../passages/gorgias-persuasion-and-belief.md)
+
 ## Provenance
 
 <div class="ah-provenance-table">
@@ -71,6 +77,10 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 <li><a href="../../">Private Knowledge Base</a></li>
 <li><a href="../../norton-map/">Norton Workspace Map</a></li>
 <li><a href="../../norton-texts/">Norton Text Notes</a></li>
+<li><a href="../../passages/">Passage Notes</a></li>
+<li><a href="../../passages/gorgias-speech-as-force/">Speech As Force</a></li>
+<li><a href="../../passages/gorgias-helen-and-blame/">Helen And Blame</a></li>
+<li><a href="../../passages/gorgias-persuasion-and-belief/">Persuasion And Belief</a></li>
 <li><a href="../">Thinker Index</a></li>
 </ul>
 
@@ -82,8 +92,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T02:27:07Z` |
-| Git commit | `345f50f` |
+| Generated at | `2026-06-13T02:33:20Z` |
+| Git commit | `de009a1` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/gorgias-of-leontini.md` |
 

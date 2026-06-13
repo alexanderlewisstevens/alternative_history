@@ -51,6 +51,11 @@ nav:
           - Macrobius: workspace/thinkers/macrobius.md
           - Hugh of St. Victor: workspace/thinkers/hugh-of-st-victor.md
           - Moses Maimonides: workspace/thinkers/moses-maimonides.md
+      - Passage Notes:
+          - Index: workspace/passages/index.md
+          - Speech As Force: workspace/passages/gorgias-speech-as-force.md
+          - Helen And Blame: workspace/passages/gorgias-helen-and-blame.md
+          - Persuasion And Belief: workspace/passages/gorgias-persuasion-and-belief.md
       - Rhetoric And Force: workspace/rhetoric-and-force.md
       - Poetry And Judgment: workspace/poetry-and-judgment.md
       - Signs And Reading: workspace/signs-and-reading.md

@@ -18,9 +18,9 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 ## Texts In This Workspace
 
-| Text | Norton Pages | Review Rows | Constellations | Register Status |
-| --- | --- | ---: | --- | --- |
-| [Commentary on the Dream of Scipio](../norton-texts/macrobius-dream-scipio.md) | 238-242 | 4 | [commentary-and-afterlife](../commentary-and-afterlife.md) | `edition-review-needed` |
+| Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
+| --- | --- | ---: | ---: | --- | --- |
+| [Commentary on the Dream of Scipio](../norton-texts/macrobius-dream-scipio.md) | 238-242 | 4 | 0 | [commentary-and-afterlife](../commentary-and-afterlife.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -48,6 +48,10 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
   <p><strong>Use:</strong> identify passages that explain why this thinker matters to one or more constellations.</p>
 </section>
 
+## Passage Notes
+
+- No passage notes yet.
+
 ## Provenance
 
 <div class="ah-provenance-table">
@@ -71,6 +75,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 <li><a href="../../">Private Knowledge Base</a></li>
 <li><a href="../../norton-map/">Norton Workspace Map</a></li>
 <li><a href="../../norton-texts/">Norton Text Notes</a></li>
+<li><a href="../../passages/">Passage Notes</a></li>
 <li><a href="../">Thinker Index</a></li>
 </ul>
 
@@ -82,8 +87,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T02:27:07Z` |
-| Git commit | `345f50f` |
+| Generated at | `2026-06-13T02:33:20Z` |
+| Git commit | `de009a1` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/macrobius.md` |
 

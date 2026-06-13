@@ -54,6 +54,12 @@ This note turns the current Norton chunk for Gorgias of Leontini into a navigabl
   <p><strong>Editorial rule:</strong> source notes belong in source-note fields, bibliography belongs in bibliography fields, and excerpt text stays separate.</p>
 </section>
 
+## Passage Notes
+
+- [Speech As Force](../passages/gorgias-speech-as-force.md)
+- [Helen And Blame](../passages/gorgias-helen-and-blame.md)
+- [Persuasion And Belief](../passages/gorgias-persuasion-and-belief.md)
+
 ## Provenance
 
 <div class="ah-provenance-table">
@@ -84,8 +90,8 @@ This note turns the current Norton chunk for Gorgias of Leontini into a navigabl
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/gorgias-of-leontini.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T02:27:07Z` |
-| Git commit | `345f50f` |
+| Generated at | `2026-06-13T02:33:21Z` |
+| Git commit | `de009a1` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/gorgias-encomium-helen.md` |
 
@@ -97,6 +103,10 @@ This note turns the current Norton chunk for Gorgias of Leontini into a navigabl
 <li><a href="../../">Private Knowledge Base</a></li>
 <li><a href="../../../catalog/sources/">Text Catalog</a></li>
 <li>Thinker: <a href="../../thinkers/gorgias-of-leontini/">Gorgias</a></li>
+<li><a href="../../passages/">Passage Notes</a></li>
+<li><a href="../../passages/gorgias-speech-as-force/">Speech As Force</a></li>
+<li><a href="../../passages/gorgias-helen-and-blame/">Helen And Blame</a></li>
+<li><a href="../../passages/gorgias-persuasion-and-belief/">Persuasion And Belief</a></li>
 <li><a href="../../rhetoric-and-force/">rhetoric-and-force</a></li>
 </ul>
 

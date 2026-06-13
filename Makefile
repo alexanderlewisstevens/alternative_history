@@ -27,7 +27,7 @@ LIMIT_ARGS := $(if $(LIMIT),--limit $(LIMIT),)
 SELECT_ARGS := $(PAGE_ARGS) $(LIMIT_ARGS)
 AGENT_ARGS := $(if $(AGENT_COMMAND),--agent-command "$(AGENT_COMMAND)",)
 
-.PHONY: setup slice validate-fixtures extract-layout classify-pages generate-page-records validate-page-records assemble-authors validate-authors update-site update-workspace update-workspace-constellations update-workspace-thinkers update-workspace-notes build smoke-site browser-smoke-site install-browser audit ci pilot pilot-api serve clean-extraction clean-generated
+.PHONY: setup slice validate-fixtures extract-layout classify-pages generate-page-records validate-page-records assemble-authors validate-authors update-site update-workspace update-workspace-constellations update-workspace-thinkers update-workspace-notes update-workspace-passages build smoke-site browser-smoke-site install-browser audit ci pilot pilot-api serve clean-extraction clean-generated
 
 $(VENV_STAMP): requirements.txt
 	$(PYTHON) -m venv $(VENV)
@@ -63,6 +63,7 @@ validate-authors: setup
 
 update-workspace: setup
 	$(VENV_PYTHON) scripts/update_workspace_constellations.py $(COMMON_ARGS)
+	$(VENV_PYTHON) scripts/update_workspace_passage_notes.py $(COMMON_ARGS) --clean
 	$(VENV_PYTHON) scripts/update_workspace_thinker_notes.py $(COMMON_ARGS) --clean
 	$(VENV_PYTHON) scripts/update_workspace_map.py $(COMMON_ARGS)
 	$(VENV_PYTHON) scripts/update_workspace_text_notes.py $(COMMON_ARGS) --clean
@@ -76,10 +77,14 @@ update-workspace-thinkers: setup
 update-workspace-notes: setup
 	$(VENV_PYTHON) scripts/update_workspace_text_notes.py $(COMMON_ARGS) --clean
 
+update-workspace-passages: setup
+	$(VENV_PYTHON) scripts/update_workspace_passage_notes.py $(COMMON_ARGS) --clean
+
 update-site: setup
 	$(VENV_PYTHON) scripts/update_extraction_status_page.py $(COMMON_ARGS)
 	$(VENV_PYTHON) scripts/update_review_dashboard_page.py $(COMMON_ARGS)
 	$(VENV_PYTHON) scripts/update_workspace_constellations.py $(COMMON_ARGS)
+	$(VENV_PYTHON) scripts/update_workspace_passage_notes.py $(COMMON_ARGS) --clean
 	$(VENV_PYTHON) scripts/update_workspace_thinker_notes.py $(COMMON_ARGS) --clean
 	$(VENV_PYTHON) scripts/update_workspace_map.py $(COMMON_ARGS)
 	$(VENV_PYTHON) scripts/update_workspace_text_notes.py $(COMMON_ARGS) --clean

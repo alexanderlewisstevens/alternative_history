@@ -58,6 +58,10 @@ This note turns the current Norton chunk for Aristotle into a navigable workspac
   <p><strong>Editorial rule:</strong> source notes belong in source-note fields, bibliography belongs in bibliography fields, and excerpt text stays separate.</p>
 </section>
 
+## Passage Notes
+
+- No passage notes yet.
+
 ## Provenance
 
 <div class="ah-provenance-table">
@@ -88,8 +92,8 @@ This note turns the current Norton chunk for Aristotle into a navigable workspac
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/aristotle.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T02:27:07Z` |
-| Git commit | `345f50f` |
+| Generated at | `2026-06-13T02:33:21Z` |
+| Git commit | `de009a1` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/aristotle-poetics-rhetoric.md` |
 
@@ -101,6 +105,7 @@ This note turns the current Norton chunk for Aristotle into a navigable workspac
 <li><a href="../../">Private Knowledge Base</a></li>
 <li><a href="../../../catalog/sources/">Text Catalog</a></li>
 <li>Thinker: <a href="../../thinkers/aristotle/">Aristotle</a></li>
+<li><a href="../../passages/">Passage Notes</a></li>
 <li><a href="../../rhetoric-and-force/">rhetoric-and-force</a></li>
 <li><a href="../../poetry-and-judgment/">poetry-and-judgment</a></li>
 </ul>

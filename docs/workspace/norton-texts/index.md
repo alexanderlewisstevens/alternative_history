@@ -24,19 +24,19 @@ This index is generated from curated source metadata and local extraction audit 
 
 ## Text Nodes
 
-| Text | Thinker | Norton Pages | Constellations | Review Rows | Register Status |
-| --- | --- | --- | --- | ---: | --- |
-| [Encomium of Helen](gorgias-encomium-helen.md) | Gorgias of Leontini | 71-74 | [rhetoric-and-force](../rhetoric-and-force.md) | 3 | `edition-review-needed` |
-| [Selected dialogues](plato-selected-dialogues.md) | Plato | 75-127 | [rhetoric-and-force](../rhetoric-and-force.md)<br>[poetry-and-judgment](../poetry-and-judgment.md)<br>[signs-and-reading](../signs-and-reading.md) | 29 | `edition-review-needed` |
-| [Poetics and Rhetoric](aristotle-poetics-rhetoric.md) | Aristotle | 128-162 | [rhetoric-and-force](../rhetoric-and-force.md)<br>[poetry-and-judgment](../poetry-and-judgment.md) | 23 | `edition-review-needed` |
-| [Ars Poetica](horace-ars-poetica.md) | Horace | 163-176 | [poetry-and-judgment](../poetry-and-judgment.md) | 14 | `edition-review-needed` |
-| [On Sublimity](longinus-on-sublimity.md) | Longinus | 177-196 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[beauty-and-ascent](../beauty-and-ascent.md) | 19 | `edition-review-needed` |
-| [Institutio Oratoria](quintilian-institutio-oratoria.md) | Quintilian | 197-212 | [rhetoric-and-force](../rhetoric-and-force.md) | 10 | `edition-review-needed` |
-| [Selected Enneads](plotinus-enneads.md) | Plotinus | 213-226 | [beauty-and-ascent](../beauty-and-ascent.md) | 7 | `edition-review-needed` |
-| [On Christian Doctrine and The Trinity](augustine-on-christian-doctrine-trinity.md) | Augustine of Hippo | 227-237 | [signs-and-reading](../signs-and-reading.md)<br>[beauty-and-ascent](../beauty-and-ascent.md) | 9 | `edition-review-needed` |
-| [Commentary on the Dream of Scipio](macrobius-dream-scipio.md) | Macrobius | 238-242 | [commentary-and-afterlife](../commentary-and-afterlife.md) | 4 | `edition-review-needed` |
-| [The Didascalicon](hugh-didascalicon.md) | Hugh of St. Victor | 243-252 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md) | 10 | `edition-review-needed` |
-| [The Guide of the Perplexed](maimonides-guide-perplexed.md) | Moses Maimonides | 253-267 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md) | 15 | `edition-review-needed` |
+| Text | Thinker | Norton Pages | Constellations | Passage Notes | Review Rows | Register Status |
+| --- | --- | --- | --- | ---: | ---: | --- |
+| [Encomium of Helen](gorgias-encomium-helen.md) | Gorgias of Leontini | 71-74 | [rhetoric-and-force](../rhetoric-and-force.md) | 3 | 3 | `edition-review-needed` |
+| [Selected dialogues](plato-selected-dialogues.md) | Plato | 75-127 | [rhetoric-and-force](../rhetoric-and-force.md)<br>[poetry-and-judgment](../poetry-and-judgment.md)<br>[signs-and-reading](../signs-and-reading.md) | 0 | 29 | `edition-review-needed` |
+| [Poetics and Rhetoric](aristotle-poetics-rhetoric.md) | Aristotle | 128-162 | [rhetoric-and-force](../rhetoric-and-force.md)<br>[poetry-and-judgment](../poetry-and-judgment.md) | 0 | 23 | `edition-review-needed` |
+| [Ars Poetica](horace-ars-poetica.md) | Horace | 163-176 | [poetry-and-judgment](../poetry-and-judgment.md) | 0 | 14 | `edition-review-needed` |
+| [On Sublimity](longinus-on-sublimity.md) | Longinus | 177-196 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[beauty-and-ascent](../beauty-and-ascent.md) | 0 | 19 | `edition-review-needed` |
+| [Institutio Oratoria](quintilian-institutio-oratoria.md) | Quintilian | 197-212 | [rhetoric-and-force](../rhetoric-and-force.md) | 0 | 10 | `edition-review-needed` |
+| [Selected Enneads](plotinus-enneads.md) | Plotinus | 213-226 | [beauty-and-ascent](../beauty-and-ascent.md) | 0 | 7 | `edition-review-needed` |
+| [On Christian Doctrine and The Trinity](augustine-on-christian-doctrine-trinity.md) | Augustine of Hippo | 227-237 | [signs-and-reading](../signs-and-reading.md)<br>[beauty-and-ascent](../beauty-and-ascent.md) | 0 | 9 | `edition-review-needed` |
+| [Commentary on the Dream of Scipio](macrobius-dream-scipio.md) | Macrobius | 238-242 | [commentary-and-afterlife](../commentary-and-afterlife.md) | 0 | 4 | `edition-review-needed` |
+| [The Didascalicon](hugh-didascalicon.md) | Hugh of St. Victor | 243-252 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md) | 0 | 10 | `edition-review-needed` |
+| [The Guide of the Perplexed](maimonides-guide-perplexed.md) | Moses Maimonides | 253-267 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md) | 0 | 15 | `edition-review-needed` |
 
 ## How To Use This Index
 
@@ -63,7 +63,7 @@ This index is generated from curated source metadata and local extraction audit 
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T02:27:08Z` |
-| Git commit | `345f50f` |
+| Generated at | `2026-06-13T02:33:21Z` |
+| Git commit | `de009a1` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/index.md` |

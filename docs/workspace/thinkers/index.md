@@ -42,7 +42,7 @@ This private index is generated from curated source metadata and local extractio
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
-| Generated at | `2026-06-13T02:27:07Z` |
-| Git commit | `345f50f` |
+| Generated at | `2026-06-13T02:33:20Z` |
+| Git commit | `de009a1` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/index.md` |

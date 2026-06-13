@@ -35,10 +35,12 @@ from update_workspace_map import (
     text_ids_for_author,
     works_by_author,
 )
+from update_workspace_passage_notes import load_passage_notes
 
 
 SCRIPT_VERSION = "2"
 DEFAULT_OUTPUT_DIR = "docs/workspace/norton-texts"
+DEFAULT_PASSAGE_NOTES = "data/passage-notes.yml"
 
 
 def markdown_list(values: list[str], empty: str = "None recorded yet.") -> str:
@@ -77,6 +79,20 @@ def thinker_backlink(text: dict[str, Any], author_row: dict[str, str] | None) ->
 
 def constellation_backlink(constellation_id: str) -> str:
     return link(constellation_id, f"../../{constellation_id}/")
+
+
+def passage_notes_for_text(text_id: str, passage_notes: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    return [note for note in passage_notes if str(note.get("text_id", "")) == text_id]
+
+
+def passage_note_links_for_text(text_id: str, passage_notes: list[dict[str, Any]]) -> str:
+    notes = passage_notes_for_text(text_id, passage_notes)
+    if not notes:
+        return "- No passage notes yet."
+    return "\n".join(
+        f"- [{html.escape(str(note.get('title', note.get('id', 'Untitled Passage'))))}](../passages/{html.escape(str(note.get('id', '')))}.md)"
+        for note in notes
+    )
 
 
 def text_constellations(text_id: str, constellations: list[dict[str, Any]]) -> list[dict[str, Any]]:
@@ -153,6 +169,7 @@ def build_text_note(
     page_kinds: dict[str, Counter[str]],
     review_counts: dict[str, Counter[str]],
     constellations: list[dict[str, Any]],
+    passage_notes: list[dict[str, Any]],
     output_path: Path,
 ) -> str:
     text_id = str(text["id"])
@@ -209,6 +226,10 @@ This note turns the current Norton chunk for {html.escape(author_name)} into a n
     ("Editorial rule", "source notes belong in source-note fields, bibliography belongs in bibliography fields, and excerpt text stays separate."),
 ])}
 
+## Passage Notes
+
+{passage_note_links_for_text(text_id, passage_notes)}
+
 ## Provenance
 
 {provenance_table([
@@ -245,6 +266,8 @@ This note turns the current Norton chunk for {html.escape(author_name)} into a n
     link("Private Knowledge Base", "../../"),
     link("Text Catalog", "../../../catalog/sources/"),
     f"Thinker: {thinker_backlink(text, author_row)}",
+    link("Passage Notes", "../../passages/"),
+    *[link(str(note.get("title", note.get("id", "Untitled Passage"))), f"../../passages/{note.get('id', '')}/") for note in passage_notes_for_text(text_id, passage_notes)],
     *([constellation_backlink(value) for value in constellation_ids] or ["No constellation backlinks yet."]),
 ])}
 
@@ -263,6 +286,7 @@ def build_index(
     names: dict[str, str],
     review_counts: dict[str, Counter[str]],
     constellations: list[dict[str, Any]],
+    passage_notes: list[dict[str, Any]],
     output_path: Path,
 ) -> str:
     rows = []
@@ -278,6 +302,7 @@ def build_index(
         if author_row:
             assembled_count += 1
         constellation_ids = [str(item.get("id", "")) for item in text_constellations(text_id, constellations)]
+        passage_count = len(passage_notes_for_text(text_id, passage_notes))
         rows.append(
             "| "
             + " | ".join(
@@ -286,6 +311,7 @@ def build_index(
                     html.escape(author_name),
                     pages,
                     "<br>".join(linked_constellation(value) for value in constellation_ids),
+                    str(passage_count),
                     str(review_counts.get(author_slug, Counter()).get("total", 0)),
                     f"`{html.escape(str(text.get('status', 'unknown')))}`",
                 ]
@@ -313,8 +339,8 @@ This index is generated from curated source metadata and local extraction audit 
 
 ## Text Nodes
 
-| Text | Thinker | Norton Pages | Constellations | Review Rows | Register Status |
-| --- | --- | --- | --- | ---: | --- |
+| Text | Thinker | Norton Pages | Constellations | Passage Notes | Review Rows | Register Status |
+| --- | --- | --- | --- | ---: | ---: | --- |
 {chr(10).join(rows)}
 
 ## How To Use This Index
@@ -372,6 +398,7 @@ def main() -> int:
     parser.add_argument("--source-id", default="norton-theory-criticism")
     parser.add_argument("--source-register", default="data/source-register.yml")
     parser.add_argument("--output-dir", default=DEFAULT_OUTPUT_DIR)
+    parser.add_argument("--passage-notes", default=DEFAULT_PASSAGE_NOTES)
     parser.add_argument("--text-id", action="append", help="Curated text ID to generate. Repeat for multiple texts.")
     parser.add_argument("--limit", type=int)
     parser.add_argument("--clean", action="store_true", help="Remove existing generated Markdown files in the output directory before writing.")
@@ -383,6 +410,7 @@ def main() -> int:
     source_register = load_source_register(args.source_register)
     curated_texts = source_register.get("curated_texts", [])
     constellations = source_register.get("constellations", [])
+    passage_notes = load_passage_notes(args.passage_notes)
     classification_records = read_jsonl(paths["classification_dir"] / "page-classifications.jsonl")
     author_assembly = read_csv_rows(paths["audit_dir"] / "author-assembly.csv")
     review_rows = read_csv_rows(paths["review_dir"] / "page-records-needing-review.csv")
@@ -407,6 +435,7 @@ def main() -> int:
             page_kinds=page_kinds,
             review_counts=review_counts,
             constellations=constellations,
+            passage_notes=passage_notes,
             output_path=output_path,
         )
         planned_outputs.append(
@@ -423,7 +452,7 @@ def main() -> int:
         )
 
     index_path = output_dir / "index.md"
-    index_markdown = build_index(source, selected_texts, author_assembly, names, review_counts, constellations, index_path)
+    index_markdown = build_index(source, selected_texts, author_assembly, names, review_counts, constellations, passage_notes, index_path)
     planned_outputs.insert(0, (index_path, index_markdown, {"text_id": "index", "author_slug": "", "page_range": "", "constellations": ""}))
 
     if args.dry_run:

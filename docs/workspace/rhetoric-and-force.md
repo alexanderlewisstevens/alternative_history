@@ -57,6 +57,12 @@ Gorgias gives speech force. Plato worries that force can detach the soul from tr
   <p><strong>Use:</strong> Show how rhetoric becomes teachable without becoming harmless.</p>
 </section>
 
+## Prototype Passage Notes
+
+- [Speech As Force](passages/gorgias-speech-as-force.md)
+- [Helen And Blame](passages/gorgias-helen-and-blame.md)
+- [Persuasion And Belief](passages/gorgias-persuasion-and-belief.md)
+
 ## Reading Path
 
 1. Start with Gorgias to feel the shock of speech treated as force.
@@ -69,6 +75,7 @@ Gorgias gives speech force. Plato worries that force can detach the soul from tr
 - [Constellations](../catalog/constellations.md)
 - [Texts](../catalog/sources.md)
 - [Norton Text Notes](norton-texts/index.md)
+- [Passage Notes](passages/index.md)
 - [Gorgias Narrative Note](gorgias-encomium-helen.md)
 - GitHub issue: [Build the first Rhetoric And Force constellation draft](https://github.com/alexanderlewisstevens/alternative_history/issues/1)
 

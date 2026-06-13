@@ -55,6 +55,10 @@ This note turns the current Norton chunk for Hugh of St. Victor into a navigable
   <p><strong>Editorial rule:</strong> source notes belong in source-note fields, bibliography belongs in bibliography fields, and excerpt text stays separate.</p>
 </section>
 
+## Passage Notes
+
+- No passage notes yet.
+
 ## Provenance
 
 <div class="ah-provenance-table">
@@ -85,8 +89,8 @@ This note turns the current Norton chunk for Hugh of St. Victor into a navigable
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/hugh-of-st-victor.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T02:27:08Z` |
-| Git commit | `345f50f` |
+| Generated at | `2026-06-13T02:33:21Z` |
+| Git commit | `de009a1` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/hugh-didascalicon.md` |
 
@@ -98,6 +102,7 @@ This note turns the current Norton chunk for Hugh of St. Victor into a navigable
 <li><a href="../../">Private Knowledge Base</a></li>
 <li><a href="../../../catalog/sources/">Text Catalog</a></li>
 <li>Thinker: <a href="../../thinkers/hugh-of-st-victor/">Hugh of St. Victor</a></li>
+<li><a href="../../passages/">Passage Notes</a></li>
 <li><a href="../../signs-and-reading/">signs-and-reading</a></li>
 <li><a href="../../commentary-and-afterlife/">commentary-and-afterlife</a></li>
 </ul>
