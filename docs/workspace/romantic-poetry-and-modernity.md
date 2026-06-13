@@ -150,8 +150,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:28:42Z` |
-| Git commit | `783f2a9` |
+| Generated at | `2026-06-13T05:38:45Z` |
+| Git commit | `0fd2aaf` |
 | Script version | `2` |
 | Output path | `docs/workspace/romantic-poetry-and-modernity.md` |
 

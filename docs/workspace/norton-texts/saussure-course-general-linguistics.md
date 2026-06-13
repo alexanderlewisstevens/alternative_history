@@ -94,8 +94,8 @@ This note turns the current Norton chunk for Ferdinand de Saussure into a naviga
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/ferdinand-de-saussure.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T05:30:50Z` |
-| Git commit | `783f2a9` |
+| Generated at | `2026-06-13T05:39:04Z` |
+| Git commit | `0fd2aaf` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/saussure-course-general-linguistics.md` |
 

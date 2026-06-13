@@ -20,7 +20,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [Discourse in the Novel](../norton-texts/bakhtin-discourse-in-the-novel.md) | 1230-1247 | 18 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[media-and-form](../media-and-form.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
+| [Discourse in the Novel](../norton-texts/bakhtin-discourse-in-the-novel.md) | 1230-1263 | 34 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[media-and-form](../media-and-form.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -39,9 +39,9 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Signal | Value |
 | --- | --- |
-| Page kinds | excerpt: 14<br>author_intro: 4 |
-| Review rows | 18 |
-| Review reasons | continues_beyond_current_batch: 14<br>mixed_bibliography_and_work_title: 4<br>transition_from_previous_author: 4 |
+| Page kinds | excerpt: 30<br>author_intro: 4 |
+| Review rows | 34 |
+| Review reasons | mixed_work_transition_page: 30<br>mixed_bibliography_and_work_title: 4<br>transition_from_previous_author: 4 |
 
 ## Passage Queue
 
@@ -92,8 +92,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T05:30:46Z` |
-| Git commit | `783f2a9` |
+| Generated at | `2026-06-13T05:39:01Z` |
+| Git commit | `0fd2aaf` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/mikhail-bakhtin.md` |
 

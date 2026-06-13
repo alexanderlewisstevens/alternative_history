@@ -48,7 +48,8 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/woolf-room-of-ones-own/"><strong>Virginia Woolf, A Room of One&#x27;s Own</strong><span>feminism, authorship, education; pages 1065-1073; 9 review rows</span></a>
   <a href="../norton-texts/eliot-tradition-individual-talent/"><strong>T. S. Eliot, Tradition and the Individual Talent</strong><span>tradition, canon, modernism; pages 1136-1140; 5 review rows</span></a>
   <a href="../norton-texts/hurston-what-white-publishers-wont-print/"><strong>Zora Neale Hurston, What White Publishers Won&#x27;t Print</strong><span>publishing, race, representation; pages 1203-1206; 2 review rows</span></a>
-  <a href="../norton-texts/bakhtin-discourse-in-the-novel/"><strong>Mikhail M. Bakhtin, Discourse in the Novel</strong><span>dialogism, heteroglossia, novel; pages not assembled; 0 review rows</span></a>
+  <a href="../norton-texts/bakhtin-discourse-in-the-novel/"><strong>Mikhail M. Bakhtin, Discourse in the Novel</strong><span>dialogism, heteroglossia, novel; pages 1234-1263; 30 review rows</span></a>
+  <a href="../norton-texts/burke-kinds-of-criticism/"><strong>Kenneth Burke, Kinds of Criticism</strong><span>rhetoric, criticism, method; pages 1316-1321; 6 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -87,6 +88,7 @@ This is a scaffold for reading the configured texts together. It should become a
 24. [T. S. Eliot, Tradition and the Individual Talent](norton-texts/eliot-tradition-individual-talent.md)
 25. [Zora Neale Hurston, What White Publishers Won&#x27;t Print](norton-texts/hurston-what-white-publishers-wont-print.md)
 26. [Mikhail M. Bakhtin, Discourse in the Novel](norton-texts/bakhtin-discourse-in-the-novel.md)
+27. [Kenneth Burke, Kinds of Criticism](norton-texts/burke-kinds-of-criticism.md)
 
 ## Review Pressure
 
@@ -117,7 +119,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | [A Room of One&#x27;s Own](norton-texts/woolf-room-of-ones-own.md) | 1065-1073 | 9 | excerpt: 9 |
 | [Tradition and the Individual Talent](norton-texts/eliot-tradition-individual-talent.md) | 1136-1140 | 5 | excerpt: 5 |
 | [What White Publishers Won&#x27;t Print](norton-texts/hurston-what-white-publishers-wont-print.md) | 1203-1206 | 2 | excerpt: 4 |
-| [Discourse in the Novel](norton-texts/bakhtin-discourse-in-the-novel.md) |  | 0 |  |
+| [Discourse in the Novel](norton-texts/bakhtin-discourse-in-the-novel.md) | 1234-1263 | 30 | excerpt: 30 |
+| [Kinds of Criticism](norton-texts/burke-kinds-of-criticism.md) | 1316-1321 | 6 | excerpt: 6 |
 
 ## Passage Queue
 
@@ -171,8 +174,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:28:41Z` |
-| Git commit | `783f2a9` |
+| Generated at | `2026-06-13T05:38:44Z` |
+| Git commit | `0fd2aaf` |
 | Script version | `2` |
 | Output path | `docs/workspace/authorship-and-authority.md` |
 

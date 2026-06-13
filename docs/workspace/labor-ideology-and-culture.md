@@ -38,6 +38,8 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/ransom-criticism-inc/"><strong>John Crowe Ransom, Criticism, Inc.</strong><span>new-criticism, criticism, close-reading; pages 1152-1161; 10 review rows</span></a>
   <a href="../norton-texts/gramsci-formation-intellectuals/"><strong>Antonio Gramsci, The Formation of the Intellectuals</strong><span>hegemony, intellectuals, education; pages 1182-1187; 6 review rows</span></a>
   <a href="../norton-texts/benjamin-work-of-art-mechanical-reproduction/"><strong>Walter Benjamin, The Work of Art in the Age of Mechanical Reproduction</strong><span>media, technology, aura; pages 1211-1229; 19 review rows</span></a>
+  <a href="../norton-texts/horkheimer-adorno-culture-industry/"><strong>Max Horkheimer and Theodor W. Adorno, The Culture Industry: Enlightenment as Mass Deception</strong><span>culture-industry, mass-culture, media; pages 1267-1283; 17 review rows</span></a>
+  <a href="../norton-texts/wilson-marxism-and-literature/"><strong>Edmund Wilson, Marxism and Literature</strong><span>marxism, literary-criticism, politics; pages 1287-1297; 11 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -65,6 +67,8 @@ This is a scaffold for reading the configured texts together. It should become a
 13. [John Crowe Ransom, Criticism, Inc.](norton-texts/ransom-criticism-inc.md)
 14. [Antonio Gramsci, The Formation of the Intellectuals](norton-texts/gramsci-formation-intellectuals.md)
 15. [Walter Benjamin, The Work of Art in the Age of Mechanical Reproduction](norton-texts/benjamin-work-of-art-mechanical-reproduction.md)
+16. [Max Horkheimer and Theodor W. Adorno, The Culture Industry: Enlightenment as Mass Deception](norton-texts/horkheimer-adorno-culture-industry.md)
+17. [Edmund Wilson, Marxism and Literature](norton-texts/wilson-marxism-and-literature.md)
 
 ## Review Pressure
 
@@ -85,6 +89,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Criticism, Inc.](norton-texts/ransom-criticism-inc.md) | 1152-1161 | 10 | excerpt: 10 |
 | [The Formation of the Intellectuals](norton-texts/gramsci-formation-intellectuals.md) | 1182-1187 | 6 | excerpt: 6 |
 | [The Work of Art in the Age of Mechanical Reproduction](norton-texts/benjamin-work-of-art-mechanical-reproduction.md) | 1211-1229 | 19 | excerpt: 19 |
+| [The Culture Industry: Enlightenment as Mass Deception](norton-texts/horkheimer-adorno-culture-industry.md) | 1267-1283 | 17 | excerpt: 17 |
+| [Marxism and Literature](norton-texts/wilson-marxism-and-literature.md) | 1287-1297 | 11 | excerpt: 11 |
 
 ## Passage Queue
 
@@ -138,8 +144,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:28:42Z` |
-| Git commit | `783f2a9` |
+| Generated at | `2026-06-13T05:38:45Z` |
+| Git commit | `0fd2aaf` |
 | Script version | `2` |
 | Output path | `docs/workspace/labor-ideology-and-culture.md` |
 

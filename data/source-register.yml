@@ -772,6 +772,69 @@ curated_texts:
       - novel
       - language
     status: edition-review-needed
+  - id: horkheimer-adorno-culture-industry
+    title: "The Culture Industry: Enlightenment as Mass Deception"
+    creator: Max Horkheimer and Theodor W. Adorno
+    extraction_work_titles:
+      - "From The Culture Industry: Enlightenment as Mass Deception"
+      - "The Culture Industry: Enlightenment as Mass Deception"
+    role: core-text-candidate
+    themes:
+      - culture-industry
+      - mass-culture
+      - media
+      - capitalism
+    status: edition-review-needed
+  - id: wilson-marxism-and-literature
+    title: Marxism and Literature
+    creator: Edmund Wilson
+    extraction_work_titles:
+      - Marxism and Literature
+    role: core-text-candidate
+    themes:
+      - marxism
+      - literary-criticism
+      - politics
+      - revolution
+    status: edition-review-needed
+  - id: jakobson-linguistics-and-poetics
+    title: Linguistics and Poetics
+    creator: Roman Jakobson
+    extraction_work_titles:
+      - From Linguistics and Poetics
+      - Linguistics and Poetics
+    role: core-text-candidate
+    themes:
+      - poetics
+      - linguistics
+      - semiotics
+      - form
+    status: edition-review-needed
+  - id: jakobson-two-aspects-language-aphasia
+    title: Two Aspects of Language and Two Types of Aphasic Disturbances
+    creator: Roman Jakobson
+    extraction_work_titles:
+      - From Two Aspects of Language and Two Types of Aphasic Disturbances
+      - Two Aspects of Language and Two Types of Aphasic Disturbances
+    role: core-text-candidate
+    themes:
+      - metaphor
+      - metonymy
+      - language
+      - semiotics
+    status: edition-review-needed
+  - id: burke-kinds-of-criticism
+    title: Kinds of Criticism
+    creator: Kenneth Burke
+    extraction_work_titles:
+      - Kinds of Criticism
+    role: core-text-candidate
+    themes:
+      - rhetoric
+      - criticism
+      - method
+      - symbolic-action
+    status: edition-review-needed
 
 constellations:
   - id: rhetoric-and-force
@@ -859,6 +922,8 @@ constellations:
       - heidegger-language
       - hurston-characteristics-negro-expression
       - bakhtin-discourse-in-the-novel
+      - jakobson-linguistics-and-poetics
+      - jakobson-two-aspects-language-aphasia
     relations:
       - writing
       - interpretation
@@ -921,6 +986,10 @@ constellations:
       - hurston-what-white-publishers-wont-print
       - benjamin-work-of-art-mechanical-reproduction
       - bakhtin-discourse-in-the-novel
+      - wilson-marxism-and-literature
+      - jakobson-linguistics-and-poetics
+      - jakobson-two-aspects-language-aphasia
+      - burke-kinds-of-criticism
     relations:
       - commentary
       - transmission
@@ -957,6 +1026,8 @@ constellations:
       - ransom-criticism-inc
       - gramsci-formation-intellectuals
       - hurston-what-white-publishers-wont-print
+      - wilson-marxism-and-literature
+      - burke-kinds-of-criticism
     relations:
       - pedagogy
       - civic-formation
@@ -983,6 +1054,8 @@ constellations:
       - heidegger-language
       - hurston-characteristics-negro-expression
       - bakhtin-discourse-in-the-novel
+      - jakobson-linguistics-and-poetics
+      - jakobson-two-aspects-language-aphasia
     relations:
       - vernacular
       - imitation
@@ -1029,6 +1102,7 @@ constellations:
       - eliot-tradition-individual-talent
       - hurston-what-white-publishers-wont-print
       - bakhtin-discourse-in-the-novel
+      - burke-kinds-of-criticism
     relations:
       - authorship
       - gender
@@ -1064,6 +1138,8 @@ constellations:
       - ransom-criticism-inc
       - hurston-characteristics-negro-expression
       - benjamin-work-of-art-mechanical-reproduction
+      - wilson-marxism-and-literature
+      - burke-kinds-of-criticism
     relations:
       - taste
       - criticism
@@ -1118,6 +1194,9 @@ constellations:
       - hurston-characteristics-negro-expression
       - benjamin-work-of-art-mechanical-reproduction
       - bakhtin-discourse-in-the-novel
+      - horkheimer-adorno-culture-industry
+      - jakobson-linguistics-and-poetics
+      - jakobson-two-aspects-language-aphasia
     relations:
       - medium
       - form
@@ -1210,6 +1289,8 @@ constellations:
       - ransom-criticism-inc
       - gramsci-formation-intellectuals
       - benjamin-work-of-art-mechanical-reproduction
+      - horkheimer-adorno-culture-industry
+      - wilson-marxism-and-literature
     relations:
       - labor
       - ideology
@@ -1238,6 +1319,9 @@ constellations:
       - heidegger-language
       - hurston-characteristics-negro-expression
       - bakhtin-discourse-in-the-novel
+      - jakobson-linguistics-and-poetics
+      - jakobson-two-aspects-language-aphasia
+      - burke-kinds-of-criticism
     relations:
       - language
       - fiction

@@ -2217,7 +2217,7 @@ overrides:
       - mixed_bibliography_and_work_title
 
   - id: mikhail-bakhtin-discourse-in-the-novel
-    pages: 1234-1247
+    pages: 1234-1264
     author_name: Mikhail M. Bakhtin
     author_slug: mikhail-bakhtin
     work_title: Discourse in the Novel
@@ -2228,4 +2228,139 @@ overrides:
     confidence: high
     review_required: true
     review_reasons:
+      - mixed_work_transition_page
+
+  - id: horkheimer-adorno-headnote
+    pages: 1264-1267
+    author_name: Max Horkheimer and Theodor W. Adorno
+    author_slug: max-horkheimer-and-theodor-w-adorno
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: horkheimer-adorno-culture-industry
+    pages: 1267-1284
+    author_name: Max Horkheimer and Theodor W. Adorno
+    author_slug: max-horkheimer-and-theodor-w-adorno
+    work_title: "The Culture Industry: Enlightenment as Mass Deception"
+    work_slug: the-culture-industry-enlightenment-as-mass-deception
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: edmund-wilson-headnote
+    pages: 1284-1287
+    author_name: Edmund Wilson
+    author_slug: edmund-wilson
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: edmund-wilson-marxism-and-literature
+    pages: 1287-1298
+    author_name: Edmund Wilson
+    author_slug: edmund-wilson
+    work_title: Marxism and Literature
+    work_slug: marxism-and-literature
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: roman-jakobson-headnote
+    pages: 1298-1302
+    author_name: Roman Jakobson
+    author_slug: roman-jakobson
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: roman-jakobson-linguistics-and-poetics
+    pages: 1302-1308
+    author_name: Roman Jakobson
+    author_slug: roman-jakobson
+    work_title: From Linguistics and Poetics
+    work_slug: from-linguistics-and-poetics
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: roman-jakobson-two-aspects-language-aphasia
+    pages: 1308-1313
+    author_name: Roman Jakobson
+    author_slug: roman-jakobson
+    work_title: "From Two Aspects of Language and Two Types of Aphasic Disturbances"
+    work_slug: from-two-aspects-of-language-and-two-types-of-aphasic-disturbances
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: kenneth-burke-headnote
+    pages: 1313-1316
+    author_name: Kenneth Burke
+    author_slug: kenneth-burke
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: kenneth-burke-kinds-of-criticism
+    pages: 1316-1322
+    author_name: Kenneth Burke
+    author_slug: kenneth-burke
+    work_title: Kinds of Criticism
+    work_slug: kinds-of-criticism
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: jacques-lacan-headnote
+    pages: 1322-1327
+    author_name: Jacques Lacan
+    author_slug: jacques-lacan
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
       - continues_beyond_current_batch

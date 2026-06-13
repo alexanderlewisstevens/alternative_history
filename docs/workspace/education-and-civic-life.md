@@ -52,6 +52,8 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/ransom-criticism-inc/"><strong>John Crowe Ransom, Criticism, Inc.</strong><span>new-criticism, criticism, close-reading; pages 1152-1161; 10 review rows</span></a>
   <a href="../norton-texts/gramsci-formation-intellectuals/"><strong>Antonio Gramsci, The Formation of the Intellectuals</strong><span>hegemony, intellectuals, education; pages 1182-1187; 6 review rows</span></a>
   <a href="../norton-texts/hurston-what-white-publishers-wont-print/"><strong>Zora Neale Hurston, What White Publishers Won&#x27;t Print</strong><span>publishing, race, representation; pages 1203-1206; 2 review rows</span></a>
+  <a href="../norton-texts/wilson-marxism-and-literature/"><strong>Edmund Wilson, Marxism and Literature</strong><span>marxism, literary-criticism, politics; pages 1287-1297; 11 review rows</span></a>
+  <a href="../norton-texts/burke-kinds-of-criticism/"><strong>Kenneth Burke, Kinds of Criticism</strong><span>rhetoric, criticism, method; pages 1316-1321; 6 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -93,6 +95,8 @@ This is a scaffold for reading the configured texts together. It should become a
 27. [John Crowe Ransom, Criticism, Inc.](norton-texts/ransom-criticism-inc.md)
 28. [Antonio Gramsci, The Formation of the Intellectuals](norton-texts/gramsci-formation-intellectuals.md)
 29. [Zora Neale Hurston, What White Publishers Won&#x27;t Print](norton-texts/hurston-what-white-publishers-wont-print.md)
+30. [Edmund Wilson, Marxism and Literature](norton-texts/wilson-marxism-and-literature.md)
+31. [Kenneth Burke, Kinds of Criticism](norton-texts/burke-kinds-of-criticism.md)
 
 ## Review Pressure
 
@@ -127,6 +131,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Criticism, Inc.](norton-texts/ransom-criticism-inc.md) | 1152-1161 | 10 | excerpt: 10 |
 | [The Formation of the Intellectuals](norton-texts/gramsci-formation-intellectuals.md) | 1182-1187 | 6 | excerpt: 6 |
 | [What White Publishers Won&#x27;t Print](norton-texts/hurston-what-white-publishers-wont-print.md) | 1203-1206 | 2 | excerpt: 4 |
+| [Marxism and Literature](norton-texts/wilson-marxism-and-literature.md) | 1287-1297 | 11 | excerpt: 11 |
+| [Kinds of Criticism](norton-texts/burke-kinds-of-criticism.md) | 1316-1321 | 6 | excerpt: 6 |
 
 ## Passage Queue
 
@@ -180,8 +186,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:28:41Z` |
-| Git commit | `783f2a9` |
+| Generated at | `2026-06-13T05:38:44Z` |
+| Git commit | `0fd2aaf` |
 | Script version | `2` |
 | Output path | `docs/workspace/education-and-civic-life.md` |
 

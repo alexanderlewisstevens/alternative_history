@@ -22,6 +22,7 @@ This private index is generated from curated source metadata and local extractio
 | [David Hume](david-hume.md) | 1 | Of the Standard of Taste |
 | [Edgar Allan Poe](edgar-allan-poe.md) | 1 | The Philosophy of Composition |
 | [Edmund Burke](edmund-burke.md) | 1 | A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful |
+| [Edmund Wilson](edmund-wilson.md) | 1 | Marxism and Literature |
 | [Edward Young](edward-young.md) | 1 | Conjectures on Original Composition |
 | [Ferdinand de Saussure](ferdinand-de-saussure.md) | 1 | Course in General Linguistics |
 | [Friedrich Nietzsche](friedrich-nietzsche.md) | 2 | On Truth and Lying in a Non-Moral Sense, The Birth of Tragedy |
@@ -46,12 +47,14 @@ This private index is generated from curated source metadata and local extractio
 | [John Dryden](john-dryden.md) | 1 | Selected Critical Prose |
 | [Joseph Addison](joseph-addison.md) | 1 | The Spectator, Nos. 62 and 412 |
 | [Karl Marx and Friedrich Engels](karl-marx-and-friedrich-engels.md) | 1 | Selected Cultural and Historical Writings |
+| [Kenneth Burke](kenneth-burke.md) | 1 | Kinds of Criticism |
 | [Leon Trotsky](leon-trotsky.md) | 1 | Literature and Revolution |
 | [Longinus](longinus.md) | 1 | On Sublimity |
 | [Macrobius](macrobius.md) | 1 | Commentary on the Dream of Scipio |
 | [Martin Heidegger](martin-heidegger.md) | 1 | Language |
 | [Mary Wollstonecraft](mary-wollstonecraft.md) | 1 | A Vindication of the Rights of Woman |
 | [Matthew Arnold](matthew-arnold.md) | 1 | Selected Critical Prose |
+| [Max Horkheimer and Theodor W. Adorno](max-horkheimer-and-theodor-w-adorno.md) | 1 | The Culture Industry: Enlightenment as Mass Deception |
 | [Mikhail M. Bakhtin](mikhail-bakhtin.md) | 1 | Discourse in the Novel |
 | [Moses Maimonides](moses-maimonides.md) | 1 | The Guide of the Perplexed |
 | [Oscar Wilde](oscar-wilde.md) | 1 | Preface to The Picture of Dorian Gray and The Critic as Artist |
@@ -62,6 +65,7 @@ This private index is generated from curated source metadata and local extractio
 | [Plotinus](plotinus.md) | 1 | Selected Enneads |
 | [Quintilian](quintilian.md) | 1 | Institutio Oratoria |
 | [Ralph Waldo Emerson](ralph-waldo-emerson.md) | 1 | The American Scholar and The Poet |
+| [Roman Jakobson](roman-jakobson.md) | 2 | Linguistics and Poetics, Two Aspects of Language and Two Types of Aphasic Disturbances |
 | [Samuel Johnson](samuel-johnson.md) | 1 | Selected Critical Prose |
 | [Samuel Taylor Coleridge](samuel-taylor-coleridge.md) | 1 | The Statesman&#x27;s Manual and Biographia Literaria |
 | [Sigmund Freud](sigmund-freud.md) | 1 | The Interpretation of Dreams, The Uncanny, and Fetishism |
@@ -99,7 +103,7 @@ This private index is generated from curated source metadata and local extractio
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
-| Generated at | `2026-06-13T05:30:46Z` |
-| Git commit | `783f2a9` |
+| Generated at | `2026-06-13T05:39:00Z` |
+| Git commit | `0fd2aaf` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/index.md` |

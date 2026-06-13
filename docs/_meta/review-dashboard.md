@@ -5,7 +5,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Boundary Review</div>
-  <div class="ah-metric-value">234</div>
+  <div class="ah-metric-value">253</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Content Separation</div>
@@ -21,7 +21,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">General Review</div>
-  <div class="ah-metric-value">312</div>
+  <div class="ah-metric-value">373</div>
 </div>
 </div>
 
@@ -29,10 +29,10 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 <div class="ah-review-grid">
 <section class="ah-review-card warn">
-  <div class="ah-review-card-kicker">234 pages</div>
+  <div class="ah-review-card-kicker">253 pages</div>
   <h3>Boundary Review</h3>
   <p>Confirm thinker and work boundaries before assembling public-facing drafts.</p>
-  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +222 more</p>
+  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +241 more</p>
 </section>
 <section class="ah-review-card warn">
   <div class="ah-review-card-kicker">9 pages</div>
@@ -53,10 +53,10 @@ This is the editorial queue for restricted extraction work. It is generated from
   <p><strong>Start:</strong> <code>74</code>, <code>98</code>, <code>99</code>, <code>126</code>, <code>185</code>, <code>190</code>, <code>191</code>, <code>192</code>, <code>194</code>, <code>204</code>, <code>213</code>, <code>218</code> +57 more</p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">312 pages</div>
+  <div class="ah-review-card-kicker">373 pages</div>
   <h3>General Review</h3>
   <p>Resolve remaining template or classification questions.</p>
-  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +300 more</p>
+  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +361 more</p>
 </section>
 </div>
 
@@ -72,11 +72,11 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Field | Value |
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
-| Classified source pages | `71-1247` |
-| Review queue rows | `958` |
+| Classified source pages | `71-1327` |
+| Review queue rows | `1038` |
 | Review queue file | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
-| Generated at | `2026-06-13T05:30:45Z` |
-| Git commit | `783f2a9` |
+| Generated at | `2026-06-13T05:39:00Z` |
+| Git commit | `0fd2aaf` |
 | Script version | `1` |
 | Output path | `docs/_meta/review-dashboard.md` |
 
@@ -85,15 +85,15 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Reason | Pages |
 | --- | ---: |
 | multi_column_layout | 347 |
+| mixed_work_transition_page | 343 |
 | source_notes_detected | 306 |
-| mixed_work_transition_page | 268 |
-| transition_from_previous_author | 213 |
-| mixed_bibliography_and_work_title | 106 |
+| transition_from_previous_author | 232 |
+| mixed_bibliography_and_work_title | 119 |
 | mixed_transition_page | 68 |
 | layout_review_required | 23 |
 | author_boundary_without_life_dates | 19 |
-| continues_beyond_current_batch | 16 |
 | mixed_excerpt_and_bibliography | 9 |
+| continues_beyond_current_batch | 8 |
 | transition_from_previous_work | 2 |
 | ocr_title_cleanup | 2 |
 
@@ -103,6 +103,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | --- | ---: |
 | Sigmund Freud | 43 |
 | Sir Philip Sidney | 39 |
+| Mikhail M. Bakhtin | 34 |
 | Matthew Arnold | 31 |
 | Plato | 29 |
 | Karl Marx and Friedrich Engels | 29 |
@@ -115,9 +116,9 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Ralph Waldo Emerson | 21 |
 | Ferdinand de Saussure | 21 |
 | Alexander Pope | 20 |
+| Max Horkheimer and Theodor W. Adorno | 20 |
 | Longinus | 19 |
 | Percy Bysshe Shelley | 19 |
-| Mikhail M. Bakhtin | 18 |
 | T. S. Eliot | 17 |
 | Zora Neale Hurston | 17 |
 | Oscar Wilde | 16 |
@@ -126,10 +127,12 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Gotthold Ephraim Lessing | 15 |
 | Carl Gustav Jung | 15 |
 | Leon Trotsky | 15 |
+| Roman Jakobson | 15 |
 | Horace | 14 |
 | Immanuel Kant | 14 |
 | Friedrich Schleiermacher | 14 |
 | Thomas Love Peacock | 14 |
+| Edmund Wilson | 14 |
 | Samuel Taylor Coleridge | 13 |
 | Virginia Woolf | 13 |
 | John Crowe Ransom | 13 |
@@ -156,6 +159,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Theophile Gautier | 9 |
 | Charles Baudelaire | 9 |
 | Antonio Gramsci | 9 |
+| Kenneth Burke | 9 |
 | Walter Pater | 8 |
 | Henry James | 8 |
 | Plotinus | 7 |
@@ -164,6 +168,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Thomas Aquinas | 6 |
 | Edmund Burke | 6 |
 | Georg Wilhelm Friedrich Hegel | 6 |
+| Jacques Lacan | 6 |
 | Dante Alighieri | 5 |
 | Pierre de Ronsard | 5 |
 | Macrobius | 4 |
@@ -408,6 +413,25 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 1231 | Mikhail M. Bakhtin | Mikhail M. Bakhtin | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1231.md |
 | 1232 | Mikhail M. Bakhtin |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1232.md |
 | 1233 | Mikhail M. Bakhtin | Mikhail M. Bakhtin | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1233.md |
+| 1264 | Max Horkheimer and Theodor W. Adorno | Discourse in the Novel | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1264.md |
+| 1265 | Max Horkheimer and Theodor W. Adorno | Max Horkheimer and Theodor W. Aoorno | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1265.md |
+| 1266 | Max Horkheimer and Theodor W. Adorno |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1266.md |
+| 1284 | Edmund Wilson | The Culture Industry: Enlightenment as Mass Deception | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1284.md |
+| 1285 | Edmund Wilson | Edmund Wilson | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1285.md |
+| 1286 | Edmund Wilson |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1286.md |
+| 1298 | Roman Jakobson | Marxism and Literature | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1298.md |
+| 1299 | Roman Jakobson | Roman Jakobson | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1299.md |
+| 1300 | Roman Jakobson |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1300.md |
+| 1301 | Roman Jakobson | Roman Jakobson | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1301.md |
+| 1313 | Kenneth Burke | From Two Aspects of Language and Two Types of Aphasic Disturbances | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1313.md |
+| 1314 | Kenneth Burke |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1314.md |
+| 1315 | Kenneth Burke | Kenneth Burke | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1315.md |
+| 1322 | Jacques Lacan | Kinds of Criticism | continues_beyond_current_batch;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1322.md |
+| 1323 | Jacques Lacan | Jacques Lacan | continues_beyond_current_batch;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1323.md |
+| 1324 | Jacques Lacan |  | continues_beyond_current_batch;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1324.md |
+| 1325 | Jacques Lacan |  | continues_beyond_current_batch;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1325.md |
+| 1326 | Jacques Lacan |  | continues_beyond_current_batch;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1326.md |
+| 1327 | Jacques Lacan | Jacques Lacan | continues_beyond_current_batch;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1327.md |
 
 ## Content Separation
 
@@ -1138,17 +1162,78 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 1227 | Walter Benjamin | The Work of Art in the Age of Mechanical Reproduction | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1227.md |
 | 1228 | Walter Benjamin | The Work of Art in the Age of Mechanical Reproduction | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1228.md |
 | 1229 | Walter Benjamin | The Work of Art in the Age of Mechanical Reproduction | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1229.md |
-| 1234 | Mikhail M. Bakhtin | Discourse in the Novel | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1234.md |
-| 1235 | Mikhail M. Bakhtin | Discourse in the Novel | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1235.md |
-| 1236 | Mikhail M. Bakhtin | Discourse in the Novel | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1236.md |
-| 1237 | Mikhail M. Bakhtin | Discourse in the Novel | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1237.md |
-| 1238 | Mikhail M. Bakhtin | Discourse in the Novel | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1238.md |
-| 1239 | Mikhail M. Bakhtin | Discourse in the Novel | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1239.md |
-| 1240 | Mikhail M. Bakhtin | Discourse in the Novel | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1240.md |
-| 1241 | Mikhail M. Bakhtin | Discourse in the Novel | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1241.md |
-| 1242 | Mikhail M. Bakhtin | Discourse in the Novel | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1242.md |
-| 1243 | Mikhail M. Bakhtin | Discourse in the Novel | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1243.md |
-| 1244 | Mikhail M. Bakhtin | Discourse in the Novel | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1244.md |
-| 1245 | Mikhail M. Bakhtin | Discourse in the Novel | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1245.md |
-| 1246 | Mikhail M. Bakhtin | Discourse in the Novel | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1246.md |
-| 1247 | Mikhail M. Bakhtin | Discourse in the Novel | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1247.md |
+| 1234 | Mikhail M. Bakhtin | Discourse in the Novel | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1234.md |
+| 1235 | Mikhail M. Bakhtin | Discourse in the Novel | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1235.md |
+| 1236 | Mikhail M. Bakhtin | Discourse in the Novel | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1236.md |
+| 1237 | Mikhail M. Bakhtin | Discourse in the Novel | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1237.md |
+| 1238 | Mikhail M. Bakhtin | Discourse in the Novel | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1238.md |
+| 1239 | Mikhail M. Bakhtin | Discourse in the Novel | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1239.md |
+| 1240 | Mikhail M. Bakhtin | Discourse in the Novel | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1240.md |
+| 1241 | Mikhail M. Bakhtin | Discourse in the Novel | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1241.md |
+| 1242 | Mikhail M. Bakhtin | Discourse in the Novel | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1242.md |
+| 1243 | Mikhail M. Bakhtin | Discourse in the Novel | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1243.md |
+| 1244 | Mikhail M. Bakhtin | Discourse in the Novel | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1244.md |
+| 1245 | Mikhail M. Bakhtin | Discourse in the Novel | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1245.md |
+| 1246 | Mikhail M. Bakhtin | Discourse in the Novel | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1246.md |
+| 1247 | Mikhail M. Bakhtin | Discourse in the Novel | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1247.md |
+| 1248 | Mikhail M. Bakhtin | Discourse in the Novel | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1248.md |
+| 1249 | Mikhail M. Bakhtin | Discourse in the Novel | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1249.md |
+| 1250 | Mikhail M. Bakhtin | Discourse in the Novel | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1250.md |
+| 1251 | Mikhail M. Bakhtin | Discourse in the Novel | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1251.md |
+| 1252 | Mikhail M. Bakhtin | Discourse in the Novel | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1252.md |
+| 1253 | Mikhail M. Bakhtin | Discourse in the Novel | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1253.md |
+| 1254 | Mikhail M. Bakhtin | Discourse in the Novel | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1254.md |
+| 1255 | Mikhail M. Bakhtin | Discourse in the Novel | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1255.md |
+| 1256 | Mikhail M. Bakhtin | Discourse in the Novel | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1256.md |
+| 1257 | Mikhail M. Bakhtin | Discourse in the Novel | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1257.md |
+| 1258 | Mikhail M. Bakhtin | Discourse in the Novel | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1258.md |
+| 1259 | Mikhail M. Bakhtin | Discourse in the Novel | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1259.md |
+| 1260 | Mikhail M. Bakhtin | Discourse in the Novel | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1260.md |
+| 1261 | Mikhail M. Bakhtin | Discourse in the Novel | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1261.md |
+| 1262 | Mikhail M. Bakhtin | Discourse in the Novel | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1262.md |
+| 1263 | Mikhail M. Bakhtin | Discourse in the Novel | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1263.md |
+| 1267 | Max Horkheimer and Theodor W. Adorno | The Culture Industry: Enlightenment as Mass Deception | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1267.md |
+| 1268 | Max Horkheimer and Theodor W. Adorno | The Culture Industry: Enlightenment as Mass Deception | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1268.md |
+| 1269 | Max Horkheimer and Theodor W. Adorno | The Culture Industry: Enlightenment as Mass Deception | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1269.md |
+| 1270 | Max Horkheimer and Theodor W. Adorno | The Culture Industry: Enlightenment as Mass Deception | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1270.md |
+| 1271 | Max Horkheimer and Theodor W. Adorno | The Culture Industry: Enlightenment as Mass Deception | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1271.md |
+| 1272 | Max Horkheimer and Theodor W. Adorno | The Culture Industry: Enlightenment as Mass Deception | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1272.md |
+| 1273 | Max Horkheimer and Theodor W. Adorno | The Culture Industry: Enlightenment as Mass Deception | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1273.md |
+| 1274 | Max Horkheimer and Theodor W. Adorno | The Culture Industry: Enlightenment as Mass Deception | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1274.md |
+| 1275 | Max Horkheimer and Theodor W. Adorno | The Culture Industry: Enlightenment as Mass Deception | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1275.md |
+| 1276 | Max Horkheimer and Theodor W. Adorno | The Culture Industry: Enlightenment as Mass Deception | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1276.md |
+| 1277 | Max Horkheimer and Theodor W. Adorno | The Culture Industry: Enlightenment as Mass Deception | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1277.md |
+| 1278 | Max Horkheimer and Theodor W. Adorno | The Culture Industry: Enlightenment as Mass Deception | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1278.md |
+| 1279 | Max Horkheimer and Theodor W. Adorno | The Culture Industry: Enlightenment as Mass Deception | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1279.md |
+| 1280 | Max Horkheimer and Theodor W. Adorno | The Culture Industry: Enlightenment as Mass Deception | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1280.md |
+| 1281 | Max Horkheimer and Theodor W. Adorno | The Culture Industry: Enlightenment as Mass Deception | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1281.md |
+| 1282 | Max Horkheimer and Theodor W. Adorno | The Culture Industry: Enlightenment as Mass Deception | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1282.md |
+| 1283 | Max Horkheimer and Theodor W. Adorno | The Culture Industry: Enlightenment as Mass Deception | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1283.md |
+| 1287 | Edmund Wilson | Marxism and Literature | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1287.md |
+| 1288 | Edmund Wilson | Marxism and Literature | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1288.md |
+| 1289 | Edmund Wilson | Marxism and Literature | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1289.md |
+| 1290 | Edmund Wilson | Marxism and Literature | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1290.md |
+| 1291 | Edmund Wilson | Marxism and Literature | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1291.md |
+| 1292 | Edmund Wilson | Marxism and Literature | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1292.md |
+| 1293 | Edmund Wilson | Marxism and Literature | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1293.md |
+| 1294 | Edmund Wilson | Marxism and Literature | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1294.md |
+| 1295 | Edmund Wilson | Marxism and Literature | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1295.md |
+| 1296 | Edmund Wilson | Marxism and Literature | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1296.md |
+| 1297 | Edmund Wilson | Marxism and Literature | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1297.md |
+| 1302 | Roman Jakobson | From Linguistics and Poetics | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1302.md |
+| 1303 | Roman Jakobson | From Linguistics and Poetics | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1303.md |
+| 1304 | Roman Jakobson | From Linguistics and Poetics | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1304.md |
+| 1305 | Roman Jakobson | From Linguistics and Poetics | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1305.md |
+| 1306 | Roman Jakobson | From Linguistics and Poetics | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1306.md |
+| 1307 | Roman Jakobson | From Linguistics and Poetics | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1307.md |
+| 1308 | Roman Jakobson | From Two Aspects of Language and Two Types of Aphasic Disturbances | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1308.md |
+| 1309 | Roman Jakobson | From Two Aspects of Language and Two Types of Aphasic Disturbances | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1309.md |
+| 1310 | Roman Jakobson | From Two Aspects of Language and Two Types of Aphasic Disturbances | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1310.md |
+| 1311 | Roman Jakobson | From Two Aspects of Language and Two Types of Aphasic Disturbances | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1311.md |
+| 1312 | Roman Jakobson | From Two Aspects of Language and Two Types of Aphasic Disturbances | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1312.md |
+| 1316 | Kenneth Burke | Kinds of Criticism | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1316.md |
+| 1317 | Kenneth Burke | Kinds of Criticism | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1317.md |
+| 1318 | Kenneth Burke | Kinds of Criticism | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1318.md |
+| 1319 | Kenneth Burke | Kinds of Criticism | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1319.md |
+| 1320 | Kenneth Burke | Kinds of Criticism | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1320.md |
+| 1321 | Kenneth Burke | Kinds of Criticism | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1321.md |

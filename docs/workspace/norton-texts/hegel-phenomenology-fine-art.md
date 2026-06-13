@@ -91,8 +91,8 @@ This note turns the current Norton chunk for Georg Wilhelm Friedrich Hegel into 
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/georg-wilhelm-friedrich-hegel.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T05:30:49Z` |
-| Git commit | `783f2a9` |
+| Generated at | `2026-06-13T05:39:04Z` |
+| Git commit | `0fd2aaf` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/hegel-phenomenology-fine-art.md` |
 

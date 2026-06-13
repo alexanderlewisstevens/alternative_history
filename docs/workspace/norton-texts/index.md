@@ -10,11 +10,11 @@ This index is generated from curated source metadata and local extraction audit 
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Curated Text Nodes</div>
-  <div class="ah-metric-value">71</div>
+  <div class="ah-metric-value">76</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Assembled Chunks</div>
-  <div class="ah-metric-value">71</div>
+  <div class="ah-metric-value">76</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Constellations</div>
@@ -96,7 +96,12 @@ This index is generated from curated source metadata and local extraction audit 
 | [Characteristics of Negro Expression](hurston-characteristics-negro-expression.md) | Zora Neale Hurston | 1188-1206 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[media-and-form](../media-and-form.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 17 | `edition-review-needed` |
 | [What White Publishers Won&#x27;t Print](hurston-what-white-publishers-wont-print.md) | Zora Neale Hurston | 1188-1206 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md) | 0 | 17 | `edition-review-needed` |
 | [The Work of Art in the Age of Mechanical Reproduction](benjamin-work-of-art-mechanical-reproduction.md) | Walter Benjamin | 1207-1229 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[media-and-form](../media-and-form.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 23 | `edition-review-needed` |
-| [Discourse in the Novel](bakhtin-discourse-in-the-novel.md) | Mikhail M. Bakhtin | 1230-1247 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[media-and-form](../media-and-form.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 18 | `edition-review-needed` |
+| [Discourse in the Novel](bakhtin-discourse-in-the-novel.md) | Mikhail M. Bakhtin | 1230-1263 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[media-and-form](../media-and-form.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 34 | `edition-review-needed` |
+| [The Culture Industry: Enlightenment as Mass Deception](horkheimer-adorno-culture-industry.md) | Max Horkheimer and Theodor W. Adorno | 1264-1283 | [media-and-form](../media-and-form.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 20 | `edition-review-needed` |
+| [Marxism and Literature](wilson-marxism-and-literature.md) | Edmund Wilson | 1284-1297 | [commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 14 | `edition-review-needed` |
+| [Linguistics and Poetics](jakobson-linguistics-and-poetics.md) | Roman Jakobson | 1298-1312 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[media-and-form](../media-and-form.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 15 | `edition-review-needed` |
+| [Two Aspects of Language and Two Types of Aphasic Disturbances](jakobson-two-aspects-language-aphasia.md) | Roman Jakobson | 1298-1312 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[media-and-form](../media-and-form.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 15 | `edition-review-needed` |
+| [Kinds of Criticism](burke-kinds-of-criticism.md) | Kenneth Burke | 1313-1321 | [commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 9 | `edition-review-needed` |
 
 ## How To Use This Index
 
@@ -123,7 +128,7 @@ This index is generated from curated source metadata and local extraction audit 
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T05:30:50Z` |
-| Git commit | `783f2a9` |
+| Generated at | `2026-06-13T05:39:04Z` |
+| Git commit | `0fd2aaf` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/index.md` |

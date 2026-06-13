@@ -20,11 +20,11 @@ This note turns the current Norton chunk for Mikhail M. Bakhtin into a navigable
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Chunk Status</span>
-  <h3>Norton Pages 1234-1247</h3>
-  <p><strong>Page count:</strong> 14</p>
+  <h3>Norton Pages 1234-1263</h3>
+  <p><strong>Page count:</strong> 30</p>
   <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/mikhail-bakhtin.md</code></p>
-  <p><strong>Page kinds:</strong> excerpt: 14</p>
-  <p><strong>Review pressure:</strong> 14 rows. continues_beyond_current_batch: 14</p>
+  <p><strong>Page kinds:</strong> excerpt: 30</p>
+  <p><strong>Review pressure:</strong> 30 rows. mixed_work_transition_page: 30</p>
 </section>
 
 ## Works And Excerpt Blocks
@@ -47,7 +47,7 @@ This note turns the current Norton chunk for Mikhail M. Bakhtin into a navigable
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Anchor Candidates</span>
   <h3>Choose Passages After Review</h3>
-  <p><strong>Source location:</strong> Norton page range 1234-1247.</p>
+  <p><strong>Source location:</strong> Norton page range 1234-1263.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
   <p><strong>Use:</strong> Find the passages that make this text active inside signs-and-reading, commentary-and-afterlife, vernacular-and-institution, authorship-and-authority, media-and-form, language-truth-and-fiction.</p>
 </section>
@@ -55,7 +55,7 @@ This note turns the current Norton chunk for Mikhail M. Bakhtin into a navigable
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Review Before Quoting</span>
   <h3>Layout, Notes, And Bibliography</h3>
-  <p><strong>Review signal:</strong> continues_beyond_current_batch: 14</p>
+  <p><strong>Review signal:</strong> mixed_work_transition_page: 30</p>
   <p><strong>Editorial rule:</strong> source notes belong in source-note fields, bibliography belongs in bibliography fields, and excerpt text stays separate.</p>
 </section>
 
@@ -93,8 +93,8 @@ This note turns the current Norton chunk for Mikhail M. Bakhtin into a navigable
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/mikhail-bakhtin.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T05:30:50Z` |
-| Git commit | `783f2a9` |
+| Generated at | `2026-06-13T05:39:04Z` |
+| Git commit | `0fd2aaf` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/bakhtin-discourse-in-the-novel.md` |
 

@@ -47,7 +47,10 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/heidegger-language/"><strong>Martin Heidegger, Language</strong><span>language, being, poetry; pages 1165-1178; 7 review rows</span></a>
   <a href="../norton-texts/hurston-characteristics-negro-expression/"><strong>Zora Neale Hurston, Characteristics of Negro Expression</strong><span>vernacular, performance, race; pages 1190-1202; 13 review rows</span></a>
   <a href="../norton-texts/benjamin-work-of-art-mechanical-reproduction/"><strong>Walter Benjamin, The Work of Art in the Age of Mechanical Reproduction</strong><span>media, technology, aura; pages 1211-1229; 19 review rows</span></a>
-  <a href="../norton-texts/bakhtin-discourse-in-the-novel/"><strong>Mikhail M. Bakhtin, Discourse in the Novel</strong><span>dialogism, heteroglossia, novel; pages not assembled; 0 review rows</span></a>
+  <a href="../norton-texts/bakhtin-discourse-in-the-novel/"><strong>Mikhail M. Bakhtin, Discourse in the Novel</strong><span>dialogism, heteroglossia, novel; pages 1234-1263; 30 review rows</span></a>
+  <a href="../norton-texts/horkheimer-adorno-culture-industry/"><strong>Max Horkheimer and Theodor W. Adorno, The Culture Industry: Enlightenment as Mass Deception</strong><span>culture-industry, mass-culture, media; pages 1267-1283; 17 review rows</span></a>
+  <a href="../norton-texts/jakobson-linguistics-and-poetics/"><strong>Roman Jakobson, Linguistics and Poetics</strong><span>poetics, linguistics, semiotics; pages 1302-1307; 6 review rows</span></a>
+  <a href="../norton-texts/jakobson-two-aspects-language-aphasia/"><strong>Roman Jakobson, Two Aspects of Language and Two Types of Aphasic Disturbances</strong><span>metaphor, metonymy, language; pages 1308-1312; 5 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -85,6 +88,9 @@ This is a scaffold for reading the configured texts together. It should become a
 23. [Zora Neale Hurston, Characteristics of Negro Expression](norton-texts/hurston-characteristics-negro-expression.md)
 24. [Walter Benjamin, The Work of Art in the Age of Mechanical Reproduction](norton-texts/benjamin-work-of-art-mechanical-reproduction.md)
 25. [Mikhail M. Bakhtin, Discourse in the Novel](norton-texts/bakhtin-discourse-in-the-novel.md)
+26. [Max Horkheimer and Theodor W. Adorno, The Culture Industry: Enlightenment as Mass Deception](norton-texts/horkheimer-adorno-culture-industry.md)
+27. [Roman Jakobson, Linguistics and Poetics](norton-texts/jakobson-linguistics-and-poetics.md)
+28. [Roman Jakobson, Two Aspects of Language and Two Types of Aphasic Disturbances](norton-texts/jakobson-two-aspects-language-aphasia.md)
 
 ## Review Pressure
 
@@ -114,7 +120,10 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Language](norton-texts/heidegger-language.md) | 1165-1178 | 7 | excerpt: 14 |
 | [Characteristics of Negro Expression](norton-texts/hurston-characteristics-negro-expression.md) | 1190-1202 | 13 | excerpt: 13 |
 | [The Work of Art in the Age of Mechanical Reproduction](norton-texts/benjamin-work-of-art-mechanical-reproduction.md) | 1211-1229 | 19 | excerpt: 19 |
-| [Discourse in the Novel](norton-texts/bakhtin-discourse-in-the-novel.md) |  | 0 |  |
+| [Discourse in the Novel](norton-texts/bakhtin-discourse-in-the-novel.md) | 1234-1263 | 30 | excerpt: 30 |
+| [The Culture Industry: Enlightenment as Mass Deception](norton-texts/horkheimer-adorno-culture-industry.md) | 1267-1283 | 17 | excerpt: 17 |
+| [Linguistics and Poetics](norton-texts/jakobson-linguistics-and-poetics.md) | 1302-1307 | 6 | excerpt: 6 |
+| [Two Aspects of Language and Two Types of Aphasic Disturbances](norton-texts/jakobson-two-aspects-language-aphasia.md) | 1308-1312 | 5 | excerpt: 5 |
 
 ## Passage Queue
 
@@ -168,8 +177,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:28:42Z` |
-| Git commit | `783f2a9` |
+| Generated at | `2026-06-13T05:38:45Z` |
+| Git commit | `0fd2aaf` |
 | Script version | `2` |
 | Output path | `docs/workspace/media-and-form.md` |
 
