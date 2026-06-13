@@ -20,7 +20,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [Dancing through the Minefield](../norton-texts/kolodny-dancing-through-the-minefield.md) | 2190-2207 | 18 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md) | `edition-review-needed` |
+| [Dancing through the Minefield](../norton-texts/kolodny-dancing-through-the-minefield.md) | 2190-2208 | 19 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -39,9 +39,9 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Signal | Value |
 | --- | --- |
-| Page kinds | excerpt: 18<br>author_intro: 3 |
-| Review rows | 21 |
-| Review reasons | mixed_bibliography_and_work_title: 21<br>continues_beyond_current_batch: 18<br>transition_from_previous_author: 3 |
+| Page kinds | excerpt: 19<br>author_intro: 3 |
+| Review rows | 22 |
+| Review reasons | mixed_bibliography_and_work_title: 22<br>mixed_author_transition_page: 19<br>transition_from_previous_author: 3 |
 
 ## Passage Queue
 
@@ -92,8 +92,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T06:52:05Z` |
-| Git commit | `9ddb58b` |
+| Generated at | `2026-06-13T06:58:06Z` |
+| Git commit | `891720f` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/annette-kolodny.md` |
 

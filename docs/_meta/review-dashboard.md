@@ -5,7 +5,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Boundary Review</div>
-  <div class="ah-metric-value">408</div>
+  <div class="ah-metric-value">428</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Content Separation</div>
@@ -21,7 +21,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">General Review</div>
-  <div class="ah-metric-value">1072</div>
+  <div class="ah-metric-value">1132</div>
 </div>
 </div>
 
@@ -29,10 +29,10 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 <div class="ah-review-grid">
 <section class="ah-review-card warn">
-  <div class="ah-review-card-kicker">408 pages</div>
+  <div class="ah-review-card-kicker">428 pages</div>
   <h3>Boundary Review</h3>
   <p>Confirm thinker and work boundaries before assembling public-facing drafts.</p>
-  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +396 more</p>
+  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +416 more</p>
 </section>
 <section class="ah-review-card warn">
   <div class="ah-review-card-kicker">9 pages</div>
@@ -53,10 +53,10 @@ This is the editorial queue for restricted extraction work. It is generated from
   <p><strong>Start:</strong> <code>74</code>, <code>98</code>, <code>99</code>, <code>126</code>, <code>185</code>, <code>190</code>, <code>191</code>, <code>192</code>, <code>194</code>, <code>204</code>, <code>213</code>, <code>218</code> +60 more</p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">1072 pages</div>
+  <div class="ah-review-card-kicker">1132 pages</div>
   <h3>General Review</h3>
   <p>Resolve remaining template or classification questions.</p>
-  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +1060 more</p>
+  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +1120 more</p>
 </section>
 </div>
 
@@ -72,11 +72,11 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Field | Value |
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
-| Classified source pages | `71-2207` |
-| Review queue rows | `1905` |
+| Classified source pages | `71-2287` |
+| Review queue rows | `1985` |
 | Review queue file | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
-| Generated at | `2026-06-13T06:52:04Z` |
-| Git commit | `9ddb58b` |
+| Generated at | `2026-06-13T06:58:04Z` |
+| Git commit | `891720f` |
 | Script version | `1` |
 | Output path | `docs/_meta/review-dashboard.md` |
 
@@ -84,17 +84,17 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 | Reason | Pages |
 | --- | ---: |
+| mixed_bibliography_and_work_title | 720 |
 | mixed_work_transition_page | 658 |
-| mixed_bibliography_and_work_title | 640 |
-| transition_from_previous_author | 386 |
+| transition_from_previous_author | 406 |
+| mixed_author_transition_page | 373 |
 | multi_column_layout | 357 |
 | source_notes_detected | 314 |
-| mixed_author_transition_page | 296 |
 | mixed_transition_page | 68 |
 | selection_boundary_review | 34 |
-| continues_beyond_current_batch | 32 |
 | layout_review_required | 23 |
 | author_boundary_without_life_dates | 20 |
+| continues_beyond_current_batch | 15 |
 | bibliography_on_previous_page | 15 |
 | mixed_excerpt_and_bibliography | 9 |
 | transition_from_previous_work | 2 |
@@ -128,12 +128,12 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Barbara Herrnstein Smith | 22 |
 | Stanley E. Fish | 22 |
 | Tzvetan Todorov | 22 |
+| Annette Kolodny | 22 |
 | Samuel Johnson | 21 |
 | Ralph Waldo Emerson | 21 |
 | Ferdinand de Saussure | 21 |
 | Cleanth Brooks | 21 |
 | Helene Cixous | 21 |
-| Annette Kolodny | 21 |
 | Alexander Pope | 20 |
 | Max Horkheimer and Theodor W. Adorno | 20 |
 | Hayden White | 20 |
@@ -148,6 +148,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Zora Neale Hurston | 17 |
 | Jean-Paul Sartre | 17 |
 | Jane Tompkins | 17 |
+| Houston A. Baker Jr. | 17 |
 | Oscar Wilde | 16 |
 | Georges Poulet | 16 |
 | Gilles Deleuze and Felix Guattari | 16 |
@@ -162,11 +163,15 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Irving Howe | 15 |
 | Stuart Hall | 15 |
 | Sandra M. Gilbert and Susan Gubar | 15 |
+| Gayatri Chakravorty Spivak | 15 |
+| Gloria Anzaldua | 15 |
 | Horace | 14 |
 | Immanuel Kant | 14 |
 | Friedrich Schleiermacher | 14 |
 | Thomas Love Peacock | 14 |
 | Edmund Wilson | 14 |
+| Julia Kristeva | 14 |
+| Laura Mulvey | 14 |
 | Samuel Taylor Coleridge | 13 |
 | Virginia Woolf | 13 |
 | John Crowe Ransom | 13 |
@@ -220,6 +225,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Dante Alighieri | 5 |
 | Pierre de Ronsard | 5 |
 | Macrobius | 4 |
+| Terry Eagleton | 4 |
 | Gorgias of Leontini | 3 |
 | Christine de Pizan | 3 |
 
@@ -635,6 +641,26 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 2187 | Annette Kolodny | Me and My Shadow | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2187.md |
 | 2188 | Annette Kolodny |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2188.md |
 | 2189 | Annette Kolodny | Annette Kolodny | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2189.md |
+| 2209 | Julia Kristeva | Dancing through the Minefield | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2209.md |
+| 2210 | Julia Kristeva |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2210.md |
+| 2211 | Julia Kristeva | Julia Kristeva | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2211.md |
+| 2212 | Julia Kristeva |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2212.md |
+| 2223 | Laura Mulvey | Revolution in Poetic Language | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2223.md |
+| 2224 | Laura Mulvey |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2224.md |
+| 2237 | Gayatri Chakravorty Spivak |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2237.md |
+| 2238 | Gayatri Chakravorty Spivak |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2238.md |
+| 2239 | Gayatri Chakravorty Spivak |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2239.md |
+| 2240 | Gayatri Chakravorty Spivak |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2240.md |
+| 2252 | Gloria Anzaldua | A Critique of Postcolonial Reason | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2252.md |
+| 2253 | Gloria Anzaldua |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2253.md |
+| 2254 | Gloria Anzaldua |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2254.md |
+| 2267 | Houston A. Baker Jr. | Borderlands/La Frontera: The New Mestiza | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2267.md |
+| 2268 | Houston A. Baker Jr. |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2268.md |
+| 2269 | Houston A. Baker Jr. | Houston A. Baker Jr | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2269.md |
+| 2270 | Houston A. Baker Jr. |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2270.md |
+| 2284 | Terry Eagleton | Blues, Ideology, and Afro-American Literature | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2284.md |
+| 2285 | Terry Eagleton |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2285.md |
+| 2286 | Terry Eagleton |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2286.md |
 
 ## Content Separation
 
@@ -2134,21 +2160,81 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 2184 | Jane Tompkins | Me and My Shadow | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2184.md |
 | 2185 | Jane Tompkins | Me and My Shadow | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2185.md |
 | 2186 | Jane Tompkins | Me and My Shadow | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2186.md |
-| 2190 | Annette Kolodny | Dancing through the Minefield | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2190.md |
-| 2191 | Annette Kolodny | Dancing through the Minefield | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2191.md |
-| 2192 | Annette Kolodny | Dancing through the Minefield | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2192.md |
-| 2193 | Annette Kolodny | Dancing through the Minefield | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2193.md |
-| 2194 | Annette Kolodny | Dancing through the Minefield | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2194.md |
-| 2195 | Annette Kolodny | Dancing through the Minefield | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2195.md |
-| 2196 | Annette Kolodny | Dancing through the Minefield | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2196.md |
-| 2197 | Annette Kolodny | Dancing through the Minefield | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2197.md |
-| 2198 | Annette Kolodny | Dancing through the Minefield | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2198.md |
-| 2199 | Annette Kolodny | Dancing through the Minefield | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2199.md |
-| 2200 | Annette Kolodny | Dancing through the Minefield | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2200.md |
-| 2201 | Annette Kolodny | Dancing through the Minefield | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2201.md |
-| 2202 | Annette Kolodny | Dancing through the Minefield | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2202.md |
-| 2203 | Annette Kolodny | Dancing through the Minefield | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2203.md |
-| 2204 | Annette Kolodny | Dancing through the Minefield | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2204.md |
-| 2205 | Annette Kolodny | Dancing through the Minefield | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2205.md |
-| 2206 | Annette Kolodny | Dancing through the Minefield | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2206.md |
-| 2207 | Annette Kolodny | Dancing through the Minefield | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2207.md |
+| 2190 | Annette Kolodny | Dancing through the Minefield | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2190.md |
+| 2191 | Annette Kolodny | Dancing through the Minefield | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2191.md |
+| 2192 | Annette Kolodny | Dancing through the Minefield | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2192.md |
+| 2193 | Annette Kolodny | Dancing through the Minefield | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2193.md |
+| 2194 | Annette Kolodny | Dancing through the Minefield | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2194.md |
+| 2195 | Annette Kolodny | Dancing through the Minefield | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2195.md |
+| 2196 | Annette Kolodny | Dancing through the Minefield | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2196.md |
+| 2197 | Annette Kolodny | Dancing through the Minefield | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2197.md |
+| 2198 | Annette Kolodny | Dancing through the Minefield | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2198.md |
+| 2199 | Annette Kolodny | Dancing through the Minefield | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2199.md |
+| 2200 | Annette Kolodny | Dancing through the Minefield | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2200.md |
+| 2201 | Annette Kolodny | Dancing through the Minefield | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2201.md |
+| 2202 | Annette Kolodny | Dancing through the Minefield | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2202.md |
+| 2203 | Annette Kolodny | Dancing through the Minefield | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2203.md |
+| 2204 | Annette Kolodny | Dancing through the Minefield | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2204.md |
+| 2205 | Annette Kolodny | Dancing through the Minefield | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2205.md |
+| 2206 | Annette Kolodny | Dancing through the Minefield | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2206.md |
+| 2207 | Annette Kolodny | Dancing through the Minefield | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2207.md |
+| 2208 | Annette Kolodny | Dancing through the Minefield | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2208.md |
+| 2213 | Julia Kristeva | Revolution in Poetic Language | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2213.md |
+| 2214 | Julia Kristeva | Revolution in Poetic Language | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2214.md |
+| 2215 | Julia Kristeva | Revolution in Poetic Language | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2215.md |
+| 2216 | Julia Kristeva | Revolution in Poetic Language | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2216.md |
+| 2217 | Julia Kristeva | Revolution in Poetic Language | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2217.md |
+| 2218 | Julia Kristeva | Revolution in Poetic Language | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2218.md |
+| 2219 | Julia Kristeva | Revolution in Poetic Language | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2219.md |
+| 2220 | Julia Kristeva | Revolution in Poetic Language | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2220.md |
+| 2221 | Julia Kristeva | Revolution in Poetic Language | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2221.md |
+| 2222 | Julia Kristeva | Revolution in Poetic Language | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2222.md |
+| 2225 | Laura Mulvey | Visual Pleasure and Narrative Cinema | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2225.md |
+| 2226 | Laura Mulvey | Visual Pleasure and Narrative Cinema | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2226.md |
+| 2227 | Laura Mulvey | Visual Pleasure and Narrative Cinema | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2227.md |
+| 2228 | Laura Mulvey | Visual Pleasure and Narrative Cinema | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2228.md |
+| 2229 | Laura Mulvey | Visual Pleasure and Narrative Cinema | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2229.md |
+| 2230 | Laura Mulvey | Visual Pleasure and Narrative Cinema | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2230.md |
+| 2231 | Laura Mulvey | Visual Pleasure and Narrative Cinema | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2231.md |
+| 2232 | Laura Mulvey | Visual Pleasure and Narrative Cinema | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2232.md |
+| 2233 | Laura Mulvey | Visual Pleasure and Narrative Cinema | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2233.md |
+| 2234 | Laura Mulvey | Visual Pleasure and Narrative Cinema | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2234.md |
+| 2235 | Laura Mulvey | Visual Pleasure and Narrative Cinema | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2235.md |
+| 2236 | Laura Mulvey | Visual Pleasure and Narrative Cinema | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2236.md |
+| 2241 | Gayatri Chakravorty Spivak | A Critique of Postcolonial Reason | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2241.md |
+| 2242 | Gayatri Chakravorty Spivak | A Critique of Postcolonial Reason | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2242.md |
+| 2243 | Gayatri Chakravorty Spivak | A Critique of Postcolonial Reason | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2243.md |
+| 2244 | Gayatri Chakravorty Spivak | A Critique of Postcolonial Reason | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2244.md |
+| 2245 | Gayatri Chakravorty Spivak | A Critique of Postcolonial Reason | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2245.md |
+| 2246 | Gayatri Chakravorty Spivak | A Critique of Postcolonial Reason | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2246.md |
+| 2247 | Gayatri Chakravorty Spivak | A Critique of Postcolonial Reason | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2247.md |
+| 2248 | Gayatri Chakravorty Spivak | A Critique of Postcolonial Reason | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2248.md |
+| 2249 | Gayatri Chakravorty Spivak | A Critique of Postcolonial Reason | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2249.md |
+| 2250 | Gayatri Chakravorty Spivak | A Critique of Postcolonial Reason | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2250.md |
+| 2251 | Gayatri Chakravorty Spivak | A Critique of Postcolonial Reason | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2251.md |
+| 2255 | Gloria Anzaldua | Borderlands/La Frontera: The New Mestiza | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2255.md |
+| 2256 | Gloria Anzaldua | Borderlands/La Frontera: The New Mestiza | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2256.md |
+| 2257 | Gloria Anzaldua | Borderlands/La Frontera: The New Mestiza | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2257.md |
+| 2258 | Gloria Anzaldua | Borderlands/La Frontera: The New Mestiza | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2258.md |
+| 2259 | Gloria Anzaldua | Borderlands/La Frontera: The New Mestiza | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2259.md |
+| 2260 | Gloria Anzaldua | Borderlands/La Frontera: The New Mestiza | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2260.md |
+| 2261 | Gloria Anzaldua | Borderlands/La Frontera: The New Mestiza | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2261.md |
+| 2262 | Gloria Anzaldua | Borderlands/La Frontera: The New Mestiza | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2262.md |
+| 2263 | Gloria Anzaldua | Borderlands/La Frontera: The New Mestiza | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2263.md |
+| 2264 | Gloria Anzaldua | Borderlands/La Frontera: The New Mestiza | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2264.md |
+| 2265 | Gloria Anzaldua | Borderlands/La Frontera: The New Mestiza | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2265.md |
+| 2266 | Gloria Anzaldua | Borderlands/La Frontera: The New Mestiza | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2266.md |
+| 2271 | Houston A. Baker Jr. | Blues, Ideology, and Afro-American Literature | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2271.md |
+| 2272 | Houston A. Baker Jr. | Blues, Ideology, and Afro-American Literature | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2272.md |
+| 2273 | Houston A. Baker Jr. | Blues, Ideology, and Afro-American Literature | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2273.md |
+| 2274 | Houston A. Baker Jr. | Blues, Ideology, and Afro-American Literature | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2274.md |
+| 2275 | Houston A. Baker Jr. | Blues, Ideology, and Afro-American Literature | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2275.md |
+| 2276 | Houston A. Baker Jr. | Blues, Ideology, and Afro-American Literature | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2276.md |
+| 2277 | Houston A. Baker Jr. | Blues, Ideology, and Afro-American Literature | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2277.md |
+| 2278 | Houston A. Baker Jr. | Blues, Ideology, and Afro-American Literature | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2278.md |
+| 2279 | Houston A. Baker Jr. | Blues, Ideology, and Afro-American Literature | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2279.md |
+| 2280 | Houston A. Baker Jr. | Blues, Ideology, and Afro-American Literature | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2280.md |
+| 2281 | Houston A. Baker Jr. | Blues, Ideology, and Afro-American Literature | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2281.md |
+| 2282 | Houston A. Baker Jr. | Blues, Ideology, and Afro-American Literature | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2282.md |
+| 2283 | Houston A. Baker Jr. | Blues, Ideology, and Afro-American Literature | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2283.md |
+| 2287 | Terry Eagleton | Literary Theory: An Introduction | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2287.md |

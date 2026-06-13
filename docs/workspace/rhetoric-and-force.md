@@ -105,8 +105,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T06:51:18Z` |
-| Git commit | `9ddb58b` |
+| Generated at | `2026-06-13T06:57:54Z` |
+| Git commit | `891720f` |
 | Script version | `2` |
 | Output path | `docs/workspace/rhetoric-and-force.md` |
 

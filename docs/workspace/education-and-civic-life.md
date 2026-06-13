@@ -78,7 +78,10 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/smith-contingencies-of-value/"><strong>Barbara Herrnstein Smith, Contingencies of Value</strong><span>value, taste, contingency; pages 1957-1975; 19 review rows</span></a>
   <a href="../norton-texts/ngugi-liyong-owuor-anyumba-abolition-english-department/"><strong>Ngugi wa Thiong&#x27;o, Taban Lo Liyong, and Henry Owuor-Anyumba, On the Abolition of the English Department</strong><span>postcolonialism, education, curriculum; pages 2136-2140; 5 review rows</span></a>
   <a href="../norton-texts/tompkins-me-and-my-shadow/"><strong>Jane Tompkins, Me and My Shadow</strong><span>feminist-criticism, personal-criticism, institutions; pages 2173-2186; 14 review rows</span></a>
-  <a href="../norton-texts/kolodny-dancing-through-the-minefield/"><strong>Annette Kolodny, Dancing through the Minefield</strong><span>feminist-criticism, canon, interpretation; pages 2190-2207; 18 review rows</span></a>
+  <a href="../norton-texts/kolodny-dancing-through-the-minefield/"><strong>Annette Kolodny, Dancing through the Minefield</strong><span>feminist-criticism, canon, interpretation; pages 2190-2208; 19 review rows</span></a>
+  <a href="../norton-texts/spivak-critique-postcolonial-reason/"><strong>Gayatri Chakravorty Spivak, A Critique of Postcolonial Reason</strong><span>postcolonialism, subaltern-studies, representation; pages 2241-2251; 11 review rows</span></a>
+  <a href="../norton-texts/anzaldua-borderlands-la-frontera/"><strong>Gloria Anzaldua, Borderlands/La Frontera: The New Mestiza</strong><span>borderlands, mestiza-consciousness, chicana-feminism; pages 2255-2266; 12 review rows</span></a>
+  <a href="../norton-texts/eagleton-literary-theory-introduction/"><strong>Terry Eagleton, Literary Theory: An Introduction</strong><span>marxism, ideology, literary-studies; pages 2287-2287; 1 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -147,6 +150,9 @@ This is a scaffold for reading the configured texts together. It should become a
 54. [Ngugi wa Thiong&#x27;o, Taban Lo Liyong, and Henry Owuor-Anyumba, On the Abolition of the English Department](norton-texts/ngugi-liyong-owuor-anyumba-abolition-english-department.md)
 55. [Jane Tompkins, Me and My Shadow](norton-texts/tompkins-me-and-my-shadow.md)
 56. [Annette Kolodny, Dancing through the Minefield](norton-texts/kolodny-dancing-through-the-minefield.md)
+57. [Gayatri Chakravorty Spivak, A Critique of Postcolonial Reason](norton-texts/spivak-critique-postcolonial-reason.md)
+58. [Gloria Anzaldua, Borderlands/La Frontera: The New Mestiza](norton-texts/anzaldua-borderlands-la-frontera.md)
+59. [Terry Eagleton, Literary Theory: An Introduction](norton-texts/eagleton-literary-theory-introduction.md)
 
 ## Review Pressure
 
@@ -207,7 +213,10 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Contingencies of Value](norton-texts/smith-contingencies-of-value.md) | 1957-1975 | 19 | excerpt: 19 |
 | [On the Abolition of the English Department](norton-texts/ngugi-liyong-owuor-anyumba-abolition-english-department.md) | 2136-2140 | 5 | excerpt: 5 |
 | [Me and My Shadow](norton-texts/tompkins-me-and-my-shadow.md) | 2173-2186 | 14 | excerpt: 14 |
-| [Dancing through the Minefield](norton-texts/kolodny-dancing-through-the-minefield.md) | 2190-2207 | 18 | excerpt: 18 |
+| [Dancing through the Minefield](norton-texts/kolodny-dancing-through-the-minefield.md) | 2190-2208 | 19 | excerpt: 19 |
+| [A Critique of Postcolonial Reason](norton-texts/spivak-critique-postcolonial-reason.md) | 2241-2251 | 11 | excerpt: 11 |
+| [Borderlands/La Frontera: The New Mestiza](norton-texts/anzaldua-borderlands-la-frontera.md) | 2255-2266 | 12 | excerpt: 12 |
+| [Literary Theory: An Introduction](norton-texts/eagleton-literary-theory-introduction.md) | 2287-2287 | 1 | excerpt: 1 |
 
 ## Passage Queue
 
@@ -261,8 +270,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T06:51:19Z` |
-| Git commit | `9ddb58b` |
+| Generated at | `2026-06-13T06:57:55Z` |
+| Git commit | `891720f` |
 | Script version | `2` |
 | Output path | `docs/workspace/education-and-civic-life.md` |
 

@@ -71,6 +71,9 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/habermas-modernity-incomplete-project/"><strong>Jurgen Habermas, Modernity - An Incomplete Project</strong><span>modernity, enlightenment, culture; pages 1793-1802; 10 review rows</span></a>
   <a href="../norton-texts/jameson-postmodernism-consumer-society/"><strong>Fredric Jameson, Postmodernism and Consumer Society</strong><span>postmodernism, consumer-society, late-capitalism; pages 2004-2018; 15 review rows</span></a>
   <a href="../norton-texts/vizenor-postindian-warriors/"><strong>Gerald Vizenor, Postindian Warriors</strong><span>survivance, simulation, native-studies; pages 2021-2029; 9 review rows</span></a>
+  <a href="../norton-texts/mulvey-visual-pleasure-narrative-cinema/"><strong>Laura Mulvey, Visual Pleasure and Narrative Cinema</strong><span>film-theory, feminism, psychoanalysis; pages 2225-2236; 12 review rows</span></a>
+  <a href="../norton-texts/baker-blues-ideology-afro-american-literature/"><strong>Houston A. Baker Jr., Blues, Ideology, and Afro-American Literature</strong><span>african-american-literature, vernacular, blues; pages 2271-2283; 13 review rows</span></a>
+  <a href="../norton-texts/eagleton-literary-theory-introduction/"><strong>Terry Eagleton, Literary Theory: An Introduction</strong><span>marxism, ideology, literary-studies; pages 2287-2287; 1 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -131,6 +134,9 @@ This is a scaffold for reading the configured texts together. It should become a
 46. [Jurgen Habermas, Modernity - An Incomplete Project](norton-texts/habermas-modernity-incomplete-project.md)
 47. [Fredric Jameson, Postmodernism and Consumer Society](norton-texts/jameson-postmodernism-consumer-society.md)
 48. [Gerald Vizenor, Postindian Warriors](norton-texts/vizenor-postindian-warriors.md)
+49. [Laura Mulvey, Visual Pleasure and Narrative Cinema](norton-texts/mulvey-visual-pleasure-narrative-cinema.md)
+50. [Houston A. Baker Jr., Blues, Ideology, and Afro-American Literature](norton-texts/baker-blues-ideology-afro-american-literature.md)
+51. [Terry Eagleton, Literary Theory: An Introduction](norton-texts/eagleton-literary-theory-introduction.md)
 
 ## Review Pressure
 
@@ -184,6 +190,9 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Modernity - An Incomplete Project](norton-texts/habermas-modernity-incomplete-project.md) | 1793-1802 | 10 | excerpt: 10 |
 | [Postmodernism and Consumer Society](norton-texts/jameson-postmodernism-consumer-society.md) | 2004-2018 | 15 | excerpt: 15 |
 | [Postindian Warriors](norton-texts/vizenor-postindian-warriors.md) | 2021-2029 | 9 | excerpt: 9 |
+| [Visual Pleasure and Narrative Cinema](norton-texts/mulvey-visual-pleasure-narrative-cinema.md) | 2225-2236 | 12 | excerpt: 12 |
+| [Blues, Ideology, and Afro-American Literature](norton-texts/baker-blues-ideology-afro-american-literature.md) | 2271-2283 | 13 | excerpt: 13 |
+| [Literary Theory: An Introduction](norton-texts/eagleton-literary-theory-introduction.md) | 2287-2287 | 1 | excerpt: 1 |
 
 ## Passage Queue
 
@@ -237,8 +246,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T06:51:21Z` |
-| Git commit | `9ddb58b` |
+| Generated at | `2026-06-13T06:57:57Z` |
+| Git commit | `891720f` |
 | Script version | `2` |
 | Output path | `docs/workspace/media-and-form.md` |
 

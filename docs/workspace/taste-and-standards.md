@@ -68,7 +68,10 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/smith-contingencies-of-value/"><strong>Barbara Herrnstein Smith, Contingencies of Value</strong><span>value, taste, contingency; pages 1957-1975; 19 review rows</span></a>
   <a href="../norton-texts/jameson-postmodernism-consumer-society/"><strong>Fredric Jameson, Postmodernism and Consumer Society</strong><span>postmodernism, consumer-society, late-capitalism; pages 2004-2018; 15 review rows</span></a>
   <a href="../norton-texts/tompkins-me-and-my-shadow/"><strong>Jane Tompkins, Me and My Shadow</strong><span>feminist-criticism, personal-criticism, institutions; pages 2173-2186; 14 review rows</span></a>
-  <a href="../norton-texts/kolodny-dancing-through-the-minefield/"><strong>Annette Kolodny, Dancing through the Minefield</strong><span>feminist-criticism, canon, interpretation; pages 2190-2207; 18 review rows</span></a>
+  <a href="../norton-texts/kolodny-dancing-through-the-minefield/"><strong>Annette Kolodny, Dancing through the Minefield</strong><span>feminist-criticism, canon, interpretation; pages 2190-2208; 19 review rows</span></a>
+  <a href="../norton-texts/mulvey-visual-pleasure-narrative-cinema/"><strong>Laura Mulvey, Visual Pleasure and Narrative Cinema</strong><span>film-theory, feminism, psychoanalysis; pages 2225-2236; 12 review rows</span></a>
+  <a href="../norton-texts/baker-blues-ideology-afro-american-literature/"><strong>Houston A. Baker Jr., Blues, Ideology, and Afro-American Literature</strong><span>african-american-literature, vernacular, blues; pages 2271-2283; 13 review rows</span></a>
+  <a href="../norton-texts/eagleton-literary-theory-introduction/"><strong>Terry Eagleton, Literary Theory: An Introduction</strong><span>marxism, ideology, literary-studies; pages 2287-2287; 1 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -127,6 +130,9 @@ This is a scaffold for reading the configured texts together. It should become a
 44. [Fredric Jameson, Postmodernism and Consumer Society](norton-texts/jameson-postmodernism-consumer-society.md)
 45. [Jane Tompkins, Me and My Shadow](norton-texts/tompkins-me-and-my-shadow.md)
 46. [Annette Kolodny, Dancing through the Minefield](norton-texts/kolodny-dancing-through-the-minefield.md)
+47. [Laura Mulvey, Visual Pleasure and Narrative Cinema](norton-texts/mulvey-visual-pleasure-narrative-cinema.md)
+48. [Houston A. Baker Jr., Blues, Ideology, and Afro-American Literature](norton-texts/baker-blues-ideology-afro-american-literature.md)
+49. [Terry Eagleton, Literary Theory: An Introduction](norton-texts/eagleton-literary-theory-introduction.md)
 
 ## Review Pressure
 
@@ -177,7 +183,10 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Contingencies of Value](norton-texts/smith-contingencies-of-value.md) | 1957-1975 | 19 | excerpt: 19 |
 | [Postmodernism and Consumer Society](norton-texts/jameson-postmodernism-consumer-society.md) | 2004-2018 | 15 | excerpt: 15 |
 | [Me and My Shadow](norton-texts/tompkins-me-and-my-shadow.md) | 2173-2186 | 14 | excerpt: 14 |
-| [Dancing through the Minefield](norton-texts/kolodny-dancing-through-the-minefield.md) | 2190-2207 | 18 | excerpt: 18 |
+| [Dancing through the Minefield](norton-texts/kolodny-dancing-through-the-minefield.md) | 2190-2208 | 19 | excerpt: 19 |
+| [Visual Pleasure and Narrative Cinema](norton-texts/mulvey-visual-pleasure-narrative-cinema.md) | 2225-2236 | 12 | excerpt: 12 |
+| [Blues, Ideology, and Afro-American Literature](norton-texts/baker-blues-ideology-afro-american-literature.md) | 2271-2283 | 13 | excerpt: 13 |
+| [Literary Theory: An Introduction](norton-texts/eagleton-literary-theory-introduction.md) | 2287-2287 | 1 | excerpt: 1 |
 
 ## Passage Queue
 
@@ -231,8 +240,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T06:51:20Z` |
-| Git commit | `9ddb58b` |
+| Generated at | `2026-06-13T06:57:57Z` |
+| Git commit | `891720f` |
 | Script version | `2` |
 | Output path | `docs/workspace/taste-and-standards.md` |
 

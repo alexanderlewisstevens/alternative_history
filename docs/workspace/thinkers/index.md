@@ -38,6 +38,7 @@ This private index is generated from curated source metadata and local extractio
 | [Friedrich Nietzsche](friedrich-nietzsche.md) | 2 | On Truth and Lying in a Non-Moral Sense, The Birth of Tragedy |
 | [Friedrich Schiller](friedrich-schiller.md) | 1 | On the Aesthetic Education of Man |
 | [Friedrich Schleiermacher](friedrich-schleiermacher.md) | 1 | Hermeneutics |
+| [Gayatri Chakravorty Spivak](gayatri-chakravorty-spivak.md) | 1 | A Critique of Postcolonial Reason |
 | [Geoffrey of Vinsauf](geoffrey-of-vinsauf.md) | 1 | Poetria Nova |
 | [Georg Wilhelm Friedrich Hegel](georg-wilhelm-friedrich-hegel.md) | 1 | Phenomenology of Spirit and Lectures on Fine Art |
 | [Georges Poulet](georges-poulet.md) | 1 | Phenomenology of Reading |
@@ -49,6 +50,7 @@ This private index is generated from curated source metadata and local extractio
 | [Giambattista Vico](giambattista-vico.md) | 1 | The New Science |
 | [Gilles Deleuze and Felix Guattari](gilles-deleuze-and-felix-guattari.md) | 2 | Kafka: Toward a Minor Literature, A Thousand Plateaus |
 | [Giovanni Boccaccio](giovanni-boccaccio.md) | 1 | Genealogy of the Gentile Gods |
+| [Gloria Anzaldua](gloria-anzaldua.md) | 1 | Borderlands/La Frontera: The New Mestiza |
 | [Gorgias](gorgias-of-leontini.md) | 1 | Encomium of Helen |
 | [Gotthold Ephraim Lessing](gotthold-ephraim-lessing.md) | 1 | Laocoon |
 | [Gyorgy Lukacs](gyorgy-lukacs.md) | 1 | Realism in the Balance |
@@ -58,6 +60,7 @@ This private index is generated from curated source metadata and local extractio
 | [Helene Cixous](helene-cixous.md) | 1 | The Laugh of the Medusa |
 | [Henry James](henry-james.md) | 1 | The Art of Fiction |
 | [Horace](horace.md) | 1 | Ars Poetica |
+| [Houston A. Baker Jr.](houston-a-baker-jr.md) | 1 | Blues, Ideology, and Afro-American Literature |
 | [Hugh of St. Victor](hugh-of-st-victor.md) | 1 | The Didascalicon |
 | [Immanuel Kant](immanuel-kant.md) | 1 | Critique of Judgment |
 | [Irving Howe](irving-howe.md) | 1 | History and the Novel |
@@ -72,10 +75,12 @@ This private index is generated from curated source metadata and local extractio
 | [John Crowe Ransom](john-crowe-ransom.md) | 1 | Criticism, Inc. |
 | [John Dryden](john-dryden.md) | 1 | Selected Critical Prose |
 | [Joseph Addison](joseph-addison.md) | 1 | The Spectator, Nos. 62 and 412 |
+| [Julia Kristeva](julia-kristeva.md) | 1 | Revolution in Poetic Language |
 | [Jurgen Habermas](jurgen-habermas.md) | 2 | The Structural Transformation of the Public Sphere, Modernity - An Incomplete Project |
 | [Karl Marx and Friedrich Engels](karl-marx-and-friedrich-engels.md) | 1 | Selected Cultural and Historical Writings |
 | [Kenneth Burke](kenneth-burke.md) | 1 | Kinds of Criticism |
 | [Langston Hughes](langston-hughes.md) | 1 | The Negro Artist and the Racial Mountain |
+| [Laura Mulvey](laura-mulvey.md) | 1 | Visual Pleasure and Narrative Cinema |
 | [Leon Trotsky](leon-trotsky.md) | 1 | Literature and Revolution |
 | [Longinus](longinus.md) | 1 | On Sublimity |
 | [Louis Althusser](louis-althusser.md) | 2 | A Letter on Art in Reply to Andre Daspre, Ideology and Ideological State Apparatuses |
@@ -115,6 +120,7 @@ This private index is generated from curated source metadata and local extractio
 | [Stephane Mallarme](stephane-mallarme.md) | 1 | Crisis in Poetry |
 | [Stuart Hall](stuart-hall.md) | 1 | Cultural Studies and Its Theoretical Legacies |
 | [T. S. Eliot](t-s-eliot.md) | 2 | Tradition and the Individual Talent, The Metaphysical Poets |
+| [Terry Eagleton](terry-eagleton.md) | 1 | Literary Theory: An Introduction |
 | [Theophile Gautier](theophile-gautier.md) | 1 | Preface to Mademoiselle de Maupin |
 | [Thomas Aquinas](thomas-aquinas.md) | 1 | Summa Theologica |
 | [Thomas Love Peacock](thomas-love-peacock.md) | 1 | The Four Ages of Poetry |
@@ -149,7 +155,7 @@ This private index is generated from curated source metadata and local extractio
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
-| Generated at | `2026-06-13T06:52:05Z` |
-| Git commit | `9ddb58b` |
+| Generated at | `2026-06-13T06:58:06Z` |
+| Git commit | `891720f` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/index.md` |

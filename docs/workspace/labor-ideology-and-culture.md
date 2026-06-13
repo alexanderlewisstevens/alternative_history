@@ -69,6 +69,10 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/said-orientalism/"><strong>Edward W. Said, Orientalism</strong><span>orientalism, imperialism, postcolonialism; pages 2035-2055; 21 review rows</span></a>
   <a href="../norton-texts/wittig-one-is-not-born-a-woman/"><strong>Monique Wittig, One Is Not Born a Woman</strong><span>feminism, lesbian-theory, gender; pages 2058-2063; 6 review rows</span></a>
   <a href="../norton-texts/graff-taking-cover-in-coverage/"><strong>Gerald Graff, Taking Cover in Coverage</strong><span>pedagogy, institutions, literary-studies; pages 2103-2110; 8 review rows</span></a>
+  <a href="../norton-texts/spivak-critique-postcolonial-reason/"><strong>Gayatri Chakravorty Spivak, A Critique of Postcolonial Reason</strong><span>postcolonialism, subaltern-studies, representation; pages 2241-2251; 11 review rows</span></a>
+  <a href="../norton-texts/anzaldua-borderlands-la-frontera/"><strong>Gloria Anzaldua, Borderlands/La Frontera: The New Mestiza</strong><span>borderlands, mestiza-consciousness, chicana-feminism; pages 2255-2266; 12 review rows</span></a>
+  <a href="../norton-texts/baker-blues-ideology-afro-american-literature/"><strong>Houston A. Baker Jr., Blues, Ideology, and Afro-American Literature</strong><span>african-american-literature, vernacular, blues; pages 2271-2283; 13 review rows</span></a>
+  <a href="../norton-texts/eagleton-literary-theory-introduction/"><strong>Terry Eagleton, Literary Theory: An Introduction</strong><span>marxism, ideology, literary-studies; pages 2287-2287; 1 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -127,6 +131,10 @@ This is a scaffold for reading the configured texts together. It should become a
 44. [Edward W. Said, Orientalism](norton-texts/said-orientalism.md)
 45. [Monique Wittig, One Is Not Born a Woman](norton-texts/wittig-one-is-not-born-a-woman.md)
 46. [Gerald Graff, Taking Cover in Coverage](norton-texts/graff-taking-cover-in-coverage.md)
+47. [Gayatri Chakravorty Spivak, A Critique of Postcolonial Reason](norton-texts/spivak-critique-postcolonial-reason.md)
+48. [Gloria Anzaldua, Borderlands/La Frontera: The New Mestiza](norton-texts/anzaldua-borderlands-la-frontera.md)
+49. [Houston A. Baker Jr., Blues, Ideology, and Afro-American Literature](norton-texts/baker-blues-ideology-afro-american-literature.md)
+50. [Terry Eagleton, Literary Theory: An Introduction](norton-texts/eagleton-literary-theory-introduction.md)
 
 ## Review Pressure
 
@@ -178,6 +186,10 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Orientalism](norton-texts/said-orientalism.md) | 2035-2055 | 21 | excerpt: 21 |
 | [One Is Not Born a Woman](norton-texts/wittig-one-is-not-born-a-woman.md) | 2058-2063 | 6 | excerpt: 6 |
 | [Taking Cover in Coverage](norton-texts/graff-taking-cover-in-coverage.md) | 2103-2110 | 8 | excerpt: 8 |
+| [A Critique of Postcolonial Reason](norton-texts/spivak-critique-postcolonial-reason.md) | 2241-2251 | 11 | excerpt: 11 |
+| [Borderlands/La Frontera: The New Mestiza](norton-texts/anzaldua-borderlands-la-frontera.md) | 2255-2266 | 12 | excerpt: 12 |
+| [Blues, Ideology, and Afro-American Literature](norton-texts/baker-blues-ideology-afro-american-literature.md) | 2271-2283 | 13 | excerpt: 13 |
+| [Literary Theory: An Introduction](norton-texts/eagleton-literary-theory-introduction.md) | 2287-2287 | 1 | excerpt: 1 |
 
 ## Passage Queue
 
@@ -231,8 +243,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T06:51:22Z` |
-| Git commit | `9ddb58b` |
+| Generated at | `2026-06-13T06:57:58Z` |
+| Git commit | `891720f` |
 | Script version | `2` |
 | Output path | `docs/workspace/labor-ideology-and-culture.md` |
 

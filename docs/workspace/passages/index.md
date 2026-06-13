@@ -44,7 +44,7 @@ This private index collects small passage-level notes for the workspace. These a
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Passage count | 3 |
-| Generated at | `2026-06-13T06:52:05Z` |
-| Git commit | `9ddb58b` |
+| Generated at | `2026-06-13T06:58:05Z` |
+| Git commit | `891720f` |
 | Script version | `1` |
 | Output path | `docs/workspace/passages/index.md` |

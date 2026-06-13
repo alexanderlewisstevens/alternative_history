@@ -91,7 +91,11 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/todorov-structural-analysis-narrative/"><strong>Tzvetan Todorov, Structural Analysis of Narrative</strong><span>structuralism, narratology, poetics; pages 2143-2162; 20 review rows</span></a>
   <a href="../norton-texts/allen-kochinnenako-in-academe/"><strong>Paula Gunn Allen, Kochinnenako in Academe</strong><span>native-studies, feminism, oral-tradition; pages 2165-2169; 5 review rows</span></a>
   <a href="../norton-texts/tompkins-me-and-my-shadow/"><strong>Jane Tompkins, Me and My Shadow</strong><span>feminist-criticism, personal-criticism, institutions; pages 2173-2186; 14 review rows</span></a>
-  <a href="../norton-texts/kolodny-dancing-through-the-minefield/"><strong>Annette Kolodny, Dancing through the Minefield</strong><span>feminist-criticism, canon, interpretation; pages 2190-2207; 18 review rows</span></a>
+  <a href="../norton-texts/kolodny-dancing-through-the-minefield/"><strong>Annette Kolodny, Dancing through the Minefield</strong><span>feminist-criticism, canon, interpretation; pages 2190-2208; 19 review rows</span></a>
+  <a href="../norton-texts/kristeva-revolution-in-poetic-language/"><strong>Julia Kristeva, Revolution in Poetic Language</strong><span>semiotics, psychoanalysis, subjectivity; pages 2213-2222; 10 review rows</span></a>
+  <a href="../norton-texts/spivak-critique-postcolonial-reason/"><strong>Gayatri Chakravorty Spivak, A Critique of Postcolonial Reason</strong><span>postcolonialism, subaltern-studies, representation; pages 2241-2251; 11 review rows</span></a>
+  <a href="../norton-texts/baker-blues-ideology-afro-american-literature/"><strong>Houston A. Baker Jr., Blues, Ideology, and Afro-American Literature</strong><span>african-american-literature, vernacular, blues; pages 2271-2283; 13 review rows</span></a>
+  <a href="../norton-texts/eagleton-literary-theory-introduction/"><strong>Terry Eagleton, Literary Theory: An Introduction</strong><span>marxism, ideology, literary-studies; pages 2287-2287; 1 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -173,6 +177,10 @@ This is a scaffold for reading the configured texts together. It should become a
 67. [Paula Gunn Allen, Kochinnenako in Academe](norton-texts/allen-kochinnenako-in-academe.md)
 68. [Jane Tompkins, Me and My Shadow](norton-texts/tompkins-me-and-my-shadow.md)
 69. [Annette Kolodny, Dancing through the Minefield](norton-texts/kolodny-dancing-through-the-minefield.md)
+70. [Julia Kristeva, Revolution in Poetic Language](norton-texts/kristeva-revolution-in-poetic-language.md)
+71. [Gayatri Chakravorty Spivak, A Critique of Postcolonial Reason](norton-texts/spivak-critique-postcolonial-reason.md)
+72. [Houston A. Baker Jr., Blues, Ideology, and Afro-American Literature](norton-texts/baker-blues-ideology-afro-american-literature.md)
+73. [Terry Eagleton, Literary Theory: An Introduction](norton-texts/eagleton-literary-theory-introduction.md)
 
 ## Review Pressure
 
@@ -246,7 +254,11 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Structural Analysis of Narrative](norton-texts/todorov-structural-analysis-narrative.md) | 2143-2162 | 20 | excerpt: 20 |
 | [Kochinnenako in Academe](norton-texts/allen-kochinnenako-in-academe.md) | 2165-2169 | 5 | excerpt: 5 |
 | [Me and My Shadow](norton-texts/tompkins-me-and-my-shadow.md) | 2173-2186 | 14 | excerpt: 14 |
-| [Dancing through the Minefield](norton-texts/kolodny-dancing-through-the-minefield.md) | 2190-2207 | 18 | excerpt: 18 |
+| [Dancing through the Minefield](norton-texts/kolodny-dancing-through-the-minefield.md) | 2190-2208 | 19 | excerpt: 19 |
+| [Revolution in Poetic Language](norton-texts/kristeva-revolution-in-poetic-language.md) | 2213-2222 | 10 | excerpt: 10 |
+| [A Critique of Postcolonial Reason](norton-texts/spivak-critique-postcolonial-reason.md) | 2241-2251 | 11 | excerpt: 11 |
+| [Blues, Ideology, and Afro-American Literature](norton-texts/baker-blues-ideology-afro-american-literature.md) | 2271-2283 | 13 | excerpt: 13 |
+| [Literary Theory: An Introduction](norton-texts/eagleton-literary-theory-introduction.md) | 2287-2287 | 1 | excerpt: 1 |
 
 ## Passage Queue
 
@@ -300,8 +312,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T06:51:19Z` |
-| Git commit | `9ddb58b` |
+| Generated at | `2026-06-13T06:57:55Z` |
+| Git commit | `891720f` |
 | Script version | `2` |
 | Output path | `docs/workspace/commentary-and-afterlife.md` |
 

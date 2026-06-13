@@ -10,11 +10,11 @@ This index is generated from curated source metadata and local extraction audit 
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Curated Text Nodes</div>
-  <div class="ah-metric-value">136</div>
+  <div class="ah-metric-value">142</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Assembled Chunks</div>
-  <div class="ah-metric-value">136</div>
+  <div class="ah-metric-value">142</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Constellations</div>
@@ -161,7 +161,13 @@ This index is generated from curated source metadata and local extraction audit 
 | [Structural Analysis of Narrative](todorov-structural-analysis-narrative.md) | Tzvetan Todorov | 2143-2162 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 20 | `edition-review-needed` |
 | [Kochinnenako in Academe](allen-kochinnenako-in-academe.md) | Paula Gunn Allen | 2165-2169 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 5 | `edition-review-needed` |
 | [Me and My Shadow](tompkins-me-and-my-shadow.md) | Jane Tompkins | 2173-2186 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md) | 0 | 14 | `edition-review-needed` |
-| [Dancing through the Minefield](kolodny-dancing-through-the-minefield.md) | Annette Kolodny | 2190-2207 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md) | 0 | 18 | `edition-review-needed` |
+| [Dancing through the Minefield](kolodny-dancing-through-the-minefield.md) | Annette Kolodny | 2190-2208 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md) | 0 | 19 | `edition-review-needed` |
+| [Revolution in Poetic Language](kristeva-revolution-in-poetic-language.md) | Julia Kristeva | 2213-2222 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md) | 0 | 10 | `edition-review-needed` |
+| [Visual Pleasure and Narrative Cinema](mulvey-visual-pleasure-narrative-cinema.md) | Laura Mulvey | 2225-2236 | [signs-and-reading](../signs-and-reading.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[media-and-form](../media-and-form.md) | 0 | 12 | `edition-review-needed` |
+| [A Critique of Postcolonial Reason](spivak-critique-postcolonial-reason.md) | Gayatri Chakravorty Spivak | 2241-2251 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 11 | `edition-review-needed` |
+| [Borderlands/La Frontera: The New Mestiza](anzaldua-borderlands-la-frontera.md) | Gloria Anzaldua | 2255-2266 | [signs-and-reading](../signs-and-reading.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 12 | `edition-review-needed` |
+| [Blues, Ideology, and Afro-American Literature](baker-blues-ideology-afro-american-literature.md) | Houston A. Baker Jr. | 2271-2283 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[media-and-form](../media-and-form.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 13 | `edition-review-needed` |
+| [Literary Theory: An Introduction](eagleton-literary-theory-introduction.md) | Terry Eagleton | 2287-2287 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[media-and-form](../media-and-form.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 1 | `edition-review-needed` |
 
 ## How To Use This Index
 
@@ -188,7 +194,7 @@ This index is generated from curated source metadata and local extraction audit 
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T06:52:14Z` |
-| Git commit | `9ddb58b` |
+| Generated at | `2026-06-13T06:58:15Z` |
+| Git commit | `891720f` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/index.md` |

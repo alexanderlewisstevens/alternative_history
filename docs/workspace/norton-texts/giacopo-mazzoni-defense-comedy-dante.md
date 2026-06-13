@@ -88,8 +88,8 @@ This note turns the current Norton chunk for Giacopo Mazzoni into a navigable wo
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/giacopo-mazzoni.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T06:52:11Z` |
-| Git commit | `9ddb58b` |
+| Generated at | `2026-06-13T06:58:12Z` |
+| Git commit | `891720f` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/giacopo-mazzoni-defense-comedy-dante.md` |
 

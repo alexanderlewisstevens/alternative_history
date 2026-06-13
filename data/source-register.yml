@@ -1590,6 +1590,78 @@ curated_texts:
       - interpretation
       - ideology
     status: edition-review-needed
+  - id: kristeva-revolution-in-poetic-language
+    title: Revolution in Poetic Language
+    creator: Julia Kristeva
+    extraction_work_titles:
+      - Revolution in Poetic Language
+    role: core-text-candidate
+    themes:
+      - semiotics
+      - psychoanalysis
+      - subjectivity
+      - avant-garde
+    status: edition-review-needed
+  - id: mulvey-visual-pleasure-narrative-cinema
+    title: Visual Pleasure and Narrative Cinema
+    creator: Laura Mulvey
+    extraction_work_titles:
+      - Visual Pleasure and Narrative Cinema
+    role: core-text-candidate
+    themes:
+      - film-theory
+      - feminism
+      - psychoanalysis
+      - spectatorship
+    status: edition-review-needed
+  - id: spivak-critique-postcolonial-reason
+    title: A Critique of Postcolonial Reason
+    creator: Gayatri Chakravorty Spivak
+    extraction_work_titles:
+      - A Critique of Postcolonial Reason
+    role: core-text-candidate
+    themes:
+      - postcolonialism
+      - subaltern-studies
+      - representation
+      - feminism
+    status: edition-review-needed
+  - id: anzaldua-borderlands-la-frontera
+    title: "Borderlands/La Frontera: The New Mestiza"
+    creator: Gloria Anzaldua
+    extraction_work_titles:
+      - "Borderlands/La Frontera: The New Mestiza"
+    role: core-text-candidate
+    themes:
+      - borderlands
+      - mestiza-consciousness
+      - chicana-feminism
+      - identity
+    status: edition-review-needed
+  - id: baker-blues-ideology-afro-american-literature
+    title: Blues, Ideology, and Afro-American Literature
+    creator: Houston A. Baker Jr.
+    extraction_work_titles:
+      - Blues, Ideology, and Afro-American Literature
+    role: core-text-candidate
+    themes:
+      - african-american-literature
+      - vernacular
+      - blues
+      - ideology
+    status: edition-review-needed
+  - id: eagleton-literary-theory-introduction
+    title: "Literary Theory: An Introduction"
+    creator: Terry Eagleton
+    extraction_work_titles:
+      - "Literary Theory: An Introduction"
+    role: core-text-candidate
+    themes:
+      - marxism
+      - ideology
+      - literary-studies
+      - education
+    status: edition-review-needed
 
 constellations:
   - id: rhetoric-and-force
@@ -1714,6 +1786,12 @@ constellations:
       - allen-kochinnenako-in-academe
       - tompkins-me-and-my-shadow
       - kolodny-dancing-through-the-minefield
+      - kristeva-revolution-in-poetic-language
+      - mulvey-visual-pleasure-narrative-cinema
+      - spivak-critique-postcolonial-reason
+      - anzaldua-borderlands-la-frontera
+      - baker-blues-ideology-afro-american-literature
+      - eagleton-literary-theory-introduction
     relations:
       - writing
       - interpretation
@@ -1815,6 +1893,10 @@ constellations:
       - allen-kochinnenako-in-academe
       - tompkins-me-and-my-shadow
       - kolodny-dancing-through-the-minefield
+      - kristeva-revolution-in-poetic-language
+      - spivak-critique-postcolonial-reason
+      - baker-blues-ideology-afro-american-literature
+      - eagleton-literary-theory-introduction
     relations:
       - commentary
       - transmission
@@ -1878,6 +1960,9 @@ constellations:
       - ngugi-liyong-owuor-anyumba-abolition-english-department
       - tompkins-me-and-my-shadow
       - kolodny-dancing-through-the-minefield
+      - spivak-critique-postcolonial-reason
+      - anzaldua-borderlands-la-frontera
+      - eagleton-literary-theory-introduction
     relations:
       - pedagogy
       - civic-formation
@@ -1995,6 +2080,10 @@ constellations:
       - allen-kochinnenako-in-academe
       - tompkins-me-and-my-shadow
       - kolodny-dancing-through-the-minefield
+      - spivak-critique-postcolonial-reason
+      - anzaldua-borderlands-la-frontera
+      - baker-blues-ideology-afro-american-literature
+      - eagleton-literary-theory-introduction
     relations:
       - authorship
       - gender
@@ -2048,6 +2137,9 @@ constellations:
       - jameson-postmodernism-consumer-society
       - tompkins-me-and-my-shadow
       - kolodny-dancing-through-the-minefield
+      - mulvey-visual-pleasure-narrative-cinema
+      - baker-blues-ideology-afro-american-literature
+      - eagleton-literary-theory-introduction
     relations:
       - taste
       - criticism
@@ -2125,6 +2217,9 @@ constellations:
       - habermas-modernity-incomplete-project
       - jameson-postmodernism-consumer-society
       - vizenor-postindian-warriors
+      - mulvey-visual-pleasure-narrative-cinema
+      - baker-blues-ideology-afro-american-literature
+      - eagleton-literary-theory-introduction
     relations:
       - medium
       - form
@@ -2176,6 +2271,9 @@ constellations:
       - tompkins-me-and-my-shadow
       - kolodny-dancing-through-the-minefield
       - fish-interpreting-the-variorum
+      - spivak-critique-postcolonial-reason
+      - anzaldua-borderlands-la-frontera
+      - eagleton-literary-theory-introduction
     relations:
       - education
       - freedom
@@ -2280,6 +2378,10 @@ constellations:
       - said-orientalism
       - wittig-one-is-not-born-a-woman
       - graff-taking-cover-in-coverage
+      - spivak-critique-postcolonial-reason
+      - anzaldua-borderlands-la-frontera
+      - baker-blues-ideology-afro-american-literature
+      - eagleton-literary-theory-introduction
     relations:
       - labor
       - ideology

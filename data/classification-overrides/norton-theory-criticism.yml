@@ -3796,11 +3796,179 @@ overrides:
       - mixed_bibliography_and_work_title
 
   - id: annette-kolodny-dancing-through-the-minefield
-    pages: 2190-2207
+    pages: 2190-2209
     author_name: Annette Kolodny
     author_slug: annette-kolodny
     work_title: Dancing through the Minefield
     work_slug: dancing-through-the-minefield
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: julia-kristeva-headnote
+    pages: 2209-2213
+    author_name: Julia Kristeva
+    author_slug: julia-kristeva
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: julia-kristeva-revolution-in-poetic-language
+    pages: 2213-2223
+    author_name: Julia Kristeva
+    author_slug: julia-kristeva
+    work_title: Revolution in Poetic Language
+    work_slug: revolution-in-poetic-language
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: laura-mulvey-headnote
+    pages: 2223-2225
+    author_name: Laura Mulvey
+    author_slug: laura-mulvey
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: laura-mulvey-visual-pleasure-narrative-cinema
+    pages: 2225-2236
+    author_name: Laura Mulvey
+    author_slug: laura-mulvey
+    work_title: Visual Pleasure and Narrative Cinema
+    work_slug: visual-pleasure-narrative-cinema
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: gayatri-chakravorty-spivak-headnote
+    pages: 2237-2241
+    author_name: Gayatri Chakravorty Spivak
+    author_slug: gayatri-chakravorty-spivak
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: gayatri-chakravorty-spivak-critique-postcolonial-reason
+    pages: 2241-2252
+    author_name: Gayatri Chakravorty Spivak
+    author_slug: gayatri-chakravorty-spivak
+    work_title: A Critique of Postcolonial Reason
+    work_slug: critique-postcolonial-reason
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: gloria-anzaldua-headnote
+    pages: 2252-2255
+    author_name: Gloria Anzaldua
+    author_slug: gloria-anzaldua
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: gloria-anzaldua-borderlands-la-frontera
+    pages: 2255-2267
+    author_name: Gloria Anzaldua
+    author_slug: gloria-anzaldua
+    work_title: "Borderlands/La Frontera: The New Mestiza"
+    work_slug: borderlands-la-frontera
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: houston-a-baker-jr-headnote
+    pages: 2267-2271
+    author_name: Houston A. Baker Jr.
+    author_slug: houston-a-baker-jr
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: houston-a-baker-jr-blues-ideology-afro-american-literature
+    pages: 2271-2284
+    author_name: Houston A. Baker Jr.
+    author_slug: houston-a-baker-jr
+    work_title: Blues, Ideology, and Afro-American Literature
+    work_slug: blues-ideology-afro-american-literature
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: terry-eagleton-headnote
+    pages: 2284-2287
+    author_name: Terry Eagleton
+    author_slug: terry-eagleton
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: terry-eagleton-literary-theory-introduction
+    pages: 2287
+    author_name: Terry Eagleton
+    author_slug: terry-eagleton
+    work_title: "Literary Theory: An Introduction"
+    work_slug: literary-theory-introduction
     page_kind: excerpt
     starts_new_author: false
     continues_previous_author: true

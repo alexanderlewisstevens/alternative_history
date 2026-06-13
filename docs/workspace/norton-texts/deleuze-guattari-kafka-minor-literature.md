@@ -93,8 +93,8 @@ This note turns the current Norton chunk for Gilles Deleuze and Felix Guattari i
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/gilles-deleuze-and-felix-guattari.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T06:52:13Z` |
-| Git commit | `9ddb58b` |
+| Generated at | `2026-06-13T06:58:13Z` |
+| Git commit | `891720f` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/deleuze-guattari-kafka-minor-literature.md` |
 
