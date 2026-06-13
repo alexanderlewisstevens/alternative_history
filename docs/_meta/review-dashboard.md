@@ -5,7 +5,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Boundary Review</div>
-  <div class="ah-metric-value">315</div>
+  <div class="ah-metric-value">331</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Content Separation</div>
@@ -13,15 +13,15 @@ This is the editorial queue for restricted extraction work. It is generated from
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Layout Review</div>
-  <div class="ah-metric-value">339</div>
+  <div class="ah-metric-value">344</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Source Notes</div>
-  <div class="ah-metric-value">71</div>
+  <div class="ah-metric-value">72</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">General Review</div>
-  <div class="ah-metric-value">623</div>
+  <div class="ah-metric-value">669</div>
 </div>
 </div>
 
@@ -29,10 +29,10 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 <div class="ah-review-grid">
 <section class="ah-review-card warn">
-  <div class="ah-review-card-kicker">315 pages</div>
+  <div class="ah-review-card-kicker">331 pages</div>
   <h3>Boundary Review</h3>
   <p>Confirm thinker and work boundaries before assembling public-facing drafts.</p>
-  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +303 more</p>
+  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +319 more</p>
 </section>
 <section class="ah-review-card warn">
   <div class="ah-review-card-kicker">9 pages</div>
@@ -41,22 +41,22 @@ This is the editorial queue for restricted extraction work. It is generated from
   <p><strong>Start:</strong> <code>72</code>, <code>199</code>, <code>285</code>, <code>297</code>, <code>344</code>, <code>368</code>, <code>443</code>, <code>469</code>, <code>655</code></p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">339 pages</div>
+  <div class="ah-review-card-kicker">344 pages</div>
   <h3>Layout Review</h3>
   <p>Confirm multi-column reading order before any summary or excerpt curation.</p>
-  <p><strong>Start:</strong> <code>73</code>, <code>79</code>, <code>80</code>, <code>82</code>, <code>83</code>, <code>84</code>, <code>86</code>, <code>90</code>, <code>91</code>, <code>92</code>, <code>93</code>, <code>94</code> +327 more</p>
+  <p><strong>Start:</strong> <code>73</code>, <code>79</code>, <code>80</code>, <code>82</code>, <code>83</code>, <code>84</code>, <code>86</code>, <code>90</code>, <code>91</code>, <code>92</code>, <code>93</code>, <code>94</code> +332 more</p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">71 pages</div>
+  <div class="ah-review-card-kicker">72 pages</div>
   <h3>Source Notes</h3>
   <p>Move source footnotes into Source Notes without converting them into Markdown footnotes.</p>
-  <p><strong>Start:</strong> <code>74</code>, <code>98</code>, <code>99</code>, <code>126</code>, <code>185</code>, <code>190</code>, <code>191</code>, <code>192</code>, <code>194</code>, <code>204</code>, <code>213</code>, <code>218</code> +59 more</p>
+  <p><strong>Start:</strong> <code>74</code>, <code>98</code>, <code>99</code>, <code>126</code>, <code>185</code>, <code>190</code>, <code>191</code>, <code>192</code>, <code>194</code>, <code>204</code>, <code>213</code>, <code>218</code> +60 more</p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">623 pages</div>
+  <div class="ah-review-card-kicker">669 pages</div>
   <h3>General Review</h3>
   <p>Resolve remaining template or classification questions.</p>
-  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +611 more</p>
+  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +657 more</p>
 </section>
 </div>
 
@@ -72,11 +72,11 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Field | Value |
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
-| Classified source pages | `71-1647` |
-| Review queue rows | `1357` |
+| Classified source pages | `71-1727` |
+| Review queue rows | `1425` |
 | Review queue file | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
-| Generated at | `2026-06-13T06:06:08Z` |
-| Git commit | `e71f735` |
+| Generated at | `2026-06-13T06:14:14Z` |
+| Git commit | `2df3079` |
 | Script version | `1` |
 | Output path | `docs/_meta/review-dashboard.md` |
 
@@ -84,16 +84,16 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 | Reason | Pages |
 | --- | ---: |
-| mixed_work_transition_page | 534 |
-| multi_column_layout | 352 |
-| source_notes_detected | 310 |
-| transition_from_previous_author | 294 |
-| mixed_bibliography_and_work_title | 240 |
+| mixed_work_transition_page | 565 |
+| multi_column_layout | 357 |
+| source_notes_detected | 314 |
+| transition_from_previous_author | 309 |
+| mixed_bibliography_and_work_title | 274 |
 | mixed_transition_page | 68 |
-| mixed_author_transition_page | 35 |
+| mixed_author_transition_page | 58 |
 | layout_review_required | 23 |
-| author_boundary_without_life_dates | 19 |
-| continues_beyond_current_batch | 14 |
+| author_boundary_without_life_dates | 20 |
+| continues_beyond_current_batch | 13 |
 | mixed_excerpt_and_bibliography | 9 |
 | transition_from_previous_work | 2 |
 | ocr_title_cleanup | 2 |
@@ -103,6 +103,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Thinker | Pages |
 | --- | ---: |
 | Sigmund Freud | 43 |
+| Michel Foucault | 43 |
 | Sir Philip Sidney | 39 |
 | Mikhail M. Bakhtin | 34 |
 | Jacques Lacan | 33 |
@@ -133,6 +134,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Jean-Paul Sartre | 17 |
 | Oscar Wilde | 16 |
 | Georges Poulet | 16 |
+| Gilles Deleuze and Felix Guattari | 16 |
 | Moses Maimonides | 15 |
 | Giacopo Mazzoni | 15 |
 | Gotthold Ephraim Lessing | 15 |
@@ -153,13 +155,13 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Geoffrey of Vinsauf | 12 |
 | Simone de Beauvoir | 12 |
 | Claude Levi-Strauss | 12 |
+| Wolfgang Iser | 12 |
 | Joachim du Bellay | 11 |
 | Pierre Corneille | 11 |
 | Aphra Behn | 11 |
 | Giambattista Vico | 11 |
 | Edward Young | 11 |
 | Edgar Allan Poe | 11 |
-| Gilles Deleuze and Felix Guattari | 11 |
 | Quintilian | 10 |
 | Hugh of St. Victor | 10 |
 | Joseph Addison | 10 |
@@ -187,11 +189,13 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Edmund Burke | 6 |
 | Georg Wilhelm Friedrich Hegel | 6 |
 | Langston Hughes | 6 |
+| Jean-Francois Lyotard | 6 |
 | Dante Alighieri | 5 |
 | Pierre de Ronsard | 5 |
 | Macrobius | 4 |
 | Gorgias of Leontini | 3 |
 | Christine de Pizan | 3 |
+| E. D. Hirsch Jr. | 2 |
 
 ## Boundary Review
 
@@ -512,6 +516,22 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 1639 | Gilles Deleuze and Felix Guattari |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1639.md |
 | 1640 | Gilles Deleuze and Felix Guattari | the early 19.80s up to his death, Deleuze continued to emphasize the rieed | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1640.md |
 | 1641 | Gilles Deleuze and Felix Guattari | Gilles Deleuze and F~lix Guattari | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1641.md |
+| 1653 | Jean-Francois Lyotard | From A Thousand Plateaus: Capitalism and Schizophrenia | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1653.md |
+| 1654 | Jean-Francois Lyotard |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1654.md |
+| 1655 | Jean-Francois Lyotard |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1655.md |
+| 1659 | Michel Foucault | Defining the Postmodern | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1659.md |
+| 1660 | Michel Foucault | 1970 on, Foucault spent longer and longer stints in North America as a | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1660.md |
+| 1661 | Michel Foucault | Michel Foucault | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1661.md |
+| 1662 | Michel Foucault |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1662.md |
+| 1663 | Michel Foucault |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1663.md |
+| 1664 | Michel Foucault |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1664.md |
+| 1665 | Michel Foucault | Michel Foucault | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1665.md |
+| 1703 | Michel Foucault | From The History of Sexuality, Volume 1, An Introduction | author_boundary_without_life_dates | work/page-records/norton-theory-criticism/page_1703.md |
+| 1714 | Wolfgang Iser | From Truth and Power | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1714.md |
+| 1715 | Wolfgang Iser | Wolfgang Is Er | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1715.md |
+| 1716 | Wolfgang Iser |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1716.md |
+| 1726 | E. D. Hirsch Jr. | Interaction between Text and Reader | continues_beyond_current_batch;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1726.md |
+| 1727 | E. D. Hirsch Jr. |  | continues_beyond_current_batch;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1727.md |
 
 ## Content Separation
 
@@ -870,6 +890,11 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 1572 | Paul de Man | The Return to Philology | multi_column_layout | work/page-records/norton-theory-criticism/page_1572.md |
 | 1574 | Paul de Man | The Return to Philology | multi_column_layout | work/page-records/norton-theory-criticism/page_1574.md |
 | 1575 | Paul de Man | The Return to Philology | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_1575.md |
+| 1693 | Michel Foucault | From The History of Sexuality, Volume 1, An Introduction | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_1693.md |
+| 1694 | Michel Foucault | From The History of Sexuality, Volume 1, An Introduction | multi_column_layout | work/page-records/norton-theory-criticism/page_1694.md |
+| 1698 | Michel Foucault | From The History of Sexuality, Volume 1, An Introduction | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_1698.md |
+| 1699 | Michel Foucault | From The History of Sexuality, Volume 1, An Introduction | multi_column_layout | work/page-records/norton-theory-criticism/page_1699.md |
+| 1707 | Michel Foucault | From The History of Sexuality, Volume 1, An Introduction | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_1707.md |
 
 ## Source Notes
 
@@ -946,6 +971,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 1128 | Boris Eichenbaum | The Theory of the Formal Method | source_notes_detected | work/page-records/norton-theory-criticism/page_1128.md |
 | 1568 | Paul de Man | Semiology and Rhetoric | source_notes_detected | work/page-records/norton-theory-criticism/page_1568.md |
 | 1570 | Paul de Man | Semiology and Rhetoric | source_notes_detected | work/page-records/norton-theory-criticism/page_1570.md |
+| 1695 | Michel Foucault | From The History of Sexuality, Volume 1, An Introduction | source_notes_detected | work/page-records/norton-theory-criticism/page_1695.md |
 
 ## General Review
 
@@ -1571,6 +1597,52 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 1642 | Gilles Deleuze and Felix Guattari | From Kafka: Toward a Minor Literature | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1642.md |
 | 1643 | Gilles Deleuze and Felix Guattari | From Kafka: Toward a Minor Literature | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1643.md |
 | 1644 | Gilles Deleuze and Felix Guattari | From Kafka: Toward a Minor Literature | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1644.md |
-| 1645 | Gilles Deleuze and Felix Guattari | From A Thousand Plateaus: Capitalism and Schizophrenia | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1645.md |
-| 1646 | Gilles Deleuze and Felix Guattari | From A Thousand Plateaus: Capitalism and Schizophrenia | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1646.md |
-| 1647 | Gilles Deleuze and Felix Guattari | From A Thousand Plateaus: Capitalism and Schizophrenia | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1647.md |
+| 1645 | Gilles Deleuze and Felix Guattari | From A Thousand Plateaus: Capitalism and Schizophrenia | mixed_author_transition_page;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1645.md |
+| 1646 | Gilles Deleuze and Felix Guattari | From A Thousand Plateaus: Capitalism and Schizophrenia | mixed_author_transition_page;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1646.md |
+| 1647 | Gilles Deleuze and Felix Guattari | From A Thousand Plateaus: Capitalism and Schizophrenia | mixed_author_transition_page;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1647.md |
+| 1648 | Gilles Deleuze and Felix Guattari | From A Thousand Plateaus: Capitalism and Schizophrenia | mixed_author_transition_page;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1648.md |
+| 1649 | Gilles Deleuze and Felix Guattari | From A Thousand Plateaus: Capitalism and Schizophrenia | mixed_author_transition_page;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1649.md |
+| 1650 | Gilles Deleuze and Felix Guattari | From A Thousand Plateaus: Capitalism and Schizophrenia | mixed_author_transition_page;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1650.md |
+| 1651 | Gilles Deleuze and Felix Guattari | From A Thousand Plateaus: Capitalism and Schizophrenia | mixed_author_transition_page;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1651.md |
+| 1652 | Gilles Deleuze and Felix Guattari | From A Thousand Plateaus: Capitalism and Schizophrenia | mixed_author_transition_page;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1652.md |
+| 1656 | Jean-Francois Lyotard | Defining the Postmodern | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1656.md |
+| 1657 | Jean-Francois Lyotard | Defining the Postmodern | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1657.md |
+| 1658 | Jean-Francois Lyotard | Defining the Postmodern | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1658.md |
+| 1666 | Michel Foucault | What Is an Author? | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1666.md |
+| 1667 | Michel Foucault | What Is an Author? | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1667.md |
+| 1668 | Michel Foucault | What Is an Author? | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1668.md |
+| 1669 | Michel Foucault | What Is an Author? | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1669.md |
+| 1670 | Michel Foucault | What Is an Author? | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1670.md |
+| 1671 | Michel Foucault | What Is an Author? | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1671.md |
+| 1672 | Michel Foucault | What Is an Author? | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1672.md |
+| 1673 | Michel Foucault | What Is an Author? | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1673.md |
+| 1674 | Michel Foucault | What Is an Author? | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1674.md |
+| 1675 | Michel Foucault | From Discipline and Punish: The Birth of the Prison | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1675.md |
+| 1676 | Michel Foucault | From Discipline and Punish: The Birth of the Prison | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1676.md |
+| 1677 | Michel Foucault | From Discipline and Punish: The Birth of the Prison | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1677.md |
+| 1678 | Michel Foucault | From Discipline and Punish: The Birth of the Prison | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1678.md |
+| 1679 | Michel Foucault | From Discipline and Punish: The Birth of the Prison | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1679.md |
+| 1680 | Michel Foucault | From Discipline and Punish: The Birth of the Prison | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1680.md |
+| 1681 | Michel Foucault | From Discipline and Punish: The Birth of the Prison | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1681.md |
+| 1682 | Michel Foucault | From Discipline and Punish: The Birth of the Prison | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1682.md |
+| 1683 | Michel Foucault | From Discipline and Punish: The Birth of the Prison | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1683.md |
+| 1684 | Michel Foucault | From Discipline and Punish: The Birth of the Prison | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1684.md |
+| 1685 | Michel Foucault | From Discipline and Punish: The Birth of the Prison | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1685.md |
+| 1686 | Michel Foucault | From Discipline and Punish: The Birth of the Prison | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1686.md |
+| 1687 | Michel Foucault | From Discipline and Punish: The Birth of the Prison | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1687.md |
+| 1688 | Michel Foucault | From Discipline and Punish: The Birth of the Prison | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1688.md |
+| 1689 | Michel Foucault | From Discipline and Punish: The Birth of the Prison | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1689.md |
+| 1690 | Michel Foucault | From Discipline and Punish: The Birth of the Prison | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1690.md |
+| 1691 | Michel Foucault | From Discipline and Punish: The Birth of the Prison | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1691.md |
+| 1711 | Michel Foucault | From Truth and Power | mixed_author_transition_page | work/page-records/norton-theory-criticism/page_1711.md |
+| 1712 | Michel Foucault | From Truth and Power | mixed_author_transition_page | work/page-records/norton-theory-criticism/page_1712.md |
+| 1713 | Michel Foucault | From Truth and Power | mixed_author_transition_page | work/page-records/norton-theory-criticism/page_1713.md |
+| 1717 | Wolfgang Iser | Interaction between Text and Reader | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1717.md |
+| 1718 | Wolfgang Iser | Interaction between Text and Reader | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1718.md |
+| 1719 | Wolfgang Iser | Interaction between Text and Reader | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1719.md |
+| 1720 | Wolfgang Iser | Interaction between Text and Reader | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1720.md |
+| 1721 | Wolfgang Iser | Interaction between Text and Reader | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1721.md |
+| 1722 | Wolfgang Iser | Interaction between Text and Reader | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1722.md |
+| 1723 | Wolfgang Iser | Interaction between Text and Reader | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1723.md |
+| 1724 | Wolfgang Iser | Interaction between Text and Reader | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1724.md |
+| 1725 | Wolfgang Iser | Interaction between Text and Reader | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1725.md |

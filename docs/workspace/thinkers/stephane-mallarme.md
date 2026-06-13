@@ -20,7 +20,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [Crisis in Poetry](../norton-texts/mallarme-crisis-poetry.md) | 883-892 | 10 | 0 | [vernacular-and-institution](../vernacular-and-institution.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[media-and-form](../media-and-form.md)<br>[romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
+| [Crisis in Poetry](../norton-texts/mallarme-crisis-poetry.md) | 887-892 | 6 | 0 | [vernacular-and-institution](../vernacular-and-institution.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[media-and-form](../media-and-form.md)<br>[romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -91,8 +91,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T06:06:10Z` |
-| Git commit | `e71f735` |
+| Generated at | `2026-06-13T06:14:17Z` |
+| Git commit | `2df3079` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/stephane-mallarme.md` |
 

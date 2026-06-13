@@ -20,7 +20,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [Preface to The Picture of Dorian Gray and The Critic as Artist](../norton-texts/wilde-selected-critical-prose.md) | 939-956 | 16 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[beauty-and-ascent](../beauty-and-ascent.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[media-and-form](../media-and-form.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md)<br>[art-utility-and-modern-life](../art-utility-and-modern-life.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
+| [Preface to The Picture of Dorian Gray and The Critic as Artist](../norton-texts/wilde-selected-critical-prose.md) | 943-956 | 12 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[beauty-and-ascent](../beauty-and-ascent.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[media-and-form](../media-and-form.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md)<br>[art-utility-and-modern-life](../art-utility-and-modern-life.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -98,8 +98,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T06:06:10Z` |
-| Git commit | `e71f735` |
+| Generated at | `2026-06-13T06:14:16Z` |
+| Git commit | `2df3079` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/oscar-wilde.md` |
 

@@ -61,6 +61,8 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/de-man-return-to-philology/"><strong>Paul de Man, The Return to Philology</strong><span>philology, theory, pedagogy; pages 1571-1575; 4 review rows</span></a>
   <a href="../norton-texts/jauss-literary-history-challenge/"><strong>Hans Robert Jauss, Literary History as a Challenge to Literary Theory</strong><span>reception, literary-history, reader; pages 1594-1608; 15 review rows</span></a>
   <a href="../norton-texts/williams-marxism-literature/"><strong>Raymond Williams, Marxism and Literature</strong><span>culture, marxism, literature; pages 1611-1618; 8 review rows</span></a>
+  <a href="../norton-texts/lyotard-defining-postmodern/"><strong>Jean-Francois Lyotard, Defining the Postmodern</strong><span>postmodernism, modernity, sublime; pages 1656-1658; 3 review rows</span></a>
+  <a href="../norton-texts/iser-interaction-text-reader/"><strong>Wolfgang Iser, Interaction Between Text and Reader</strong><span>reader-response, interpretation, gaps; pages 1717-1725; 9 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -111,6 +113,8 @@ This is a scaffold for reading the configured texts together. It should become a
 36. [Paul de Man, The Return to Philology](norton-texts/de-man-return-to-philology.md)
 37. [Hans Robert Jauss, Literary History as a Challenge to Literary Theory](norton-texts/jauss-literary-history-challenge.md)
 38. [Raymond Williams, Marxism and Literature](norton-texts/williams-marxism-literature.md)
+39. [Jean-Francois Lyotard, Defining the Postmodern](norton-texts/lyotard-defining-postmodern.md)
+40. [Wolfgang Iser, Interaction Between Text and Reader](norton-texts/iser-interaction-text-reader.md)
 
 ## Review Pressure
 
@@ -154,6 +158,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | [The Return to Philology](norton-texts/de-man-return-to-philology.md) | 1571-1575 | 4 | excerpt: 5 |
 | [Literary History as a Challenge to Literary Theory](norton-texts/jauss-literary-history-challenge.md) | 1594-1608 | 15 | excerpt: 15 |
 | [Marxism and Literature](norton-texts/williams-marxism-literature.md) | 1611-1618 | 8 | excerpt: 8 |
+| [Defining the Postmodern](norton-texts/lyotard-defining-postmodern.md) | 1656-1658 | 3 | excerpt: 3 |
+| [Interaction Between Text and Reader](norton-texts/iser-interaction-text-reader.md) | 1717-1725 | 9 | excerpt: 9 |
 
 ## Passage Queue
 
@@ -207,8 +213,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T06:06:04Z` |
-| Git commit | `e71f735` |
+| Generated at | `2026-06-13T06:12:09Z` |
+| Git commit | `2df3079` |
 | Script version | `2` |
 | Output path | `docs/workspace/taste-and-standards.md` |
 

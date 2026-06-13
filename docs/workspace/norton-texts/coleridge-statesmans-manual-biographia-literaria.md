@@ -97,8 +97,8 @@ This note turns the current Norton chunk for Samuel Taylor Coleridge into a navi
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/samuel-taylor-coleridge.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T06:06:13Z` |
-| Git commit | `e71f735` |
+| Generated at | `2026-06-13T06:14:20Z` |
+| Git commit | `2df3079` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/coleridge-statesmans-manual-biographia-literaria.md` |
 

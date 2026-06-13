@@ -20,8 +20,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [Kafka: Toward a Minor Literature](../norton-texts/deleuze-guattari-kafka-minor-literature.md) | 1637-1647 | 11 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
-| [A Thousand Plateaus](../norton-texts/deleuze-guattari-thousand-plateaus.md) | 1637-1647 | 11 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[media-and-form](../media-and-form.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
+| [Kafka: Toward a Minor Literature](../norton-texts/deleuze-guattari-kafka-minor-literature.md) | 1642-1644 | 3 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
+| [A Thousand Plateaus](../norton-texts/deleuze-guattari-thousand-plateaus.md) | 1645-1652 | 8 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[media-and-form](../media-and-form.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -44,9 +44,9 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Signal | Value |
 | --- | --- |
-| Page kinds | excerpt: 6<br>author_intro: 5 |
-| Review rows | 11 |
-| Review reasons | mixed_bibliography_and_work_title: 8<br>mixed_work_transition_page: 6<br>transition_from_previous_author: 5<br>continues_beyond_current_batch: 3 |
+| Page kinds | excerpt: 11<br>author_intro: 5 |
+| Review rows | 16 |
+| Review reasons | mixed_work_transition_page: 11<br>mixed_bibliography_and_work_title: 8<br>mixed_author_transition_page: 8<br>transition_from_previous_author: 5 |
 
 ## Passage Queue
 
@@ -97,8 +97,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T06:06:09Z` |
-| Git commit | `e71f735` |
+| Generated at | `2026-06-13T06:14:16Z` |
+| Git commit | `2df3079` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/gilles-deleuze-and-felix-guattari.md` |
 

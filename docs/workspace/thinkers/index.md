@@ -51,6 +51,7 @@ This private index is generated from curated source metadata and local extractio
 | [Irving Howe](irving-howe.md) | 1 | History and the Novel |
 | [J. L. Austin](j-l-austin.md) | 1 | Performative Utterances |
 | [Jacques Lacan](jacques-lacan.md) | 3 | The Mirror Stage as Formative of the Function of the I as Revealed in Psychoanalytic Experience, The Agency of the Letter in the Unconscious, The Signification of the Phallus |
+| [Jean-Francois Lyotard](jean-francois-lyotard.md) | 1 | Defining the Postmodern |
 | [Jean-Paul Sartre](jean-paul-sartre.md) | 1 | What Is Literature? |
 | [Joachim du Bellay](joachim-du-bellay.md) | 1 | The Defence and Illustration of the French Language |
 | [John Crowe Ransom](john-crowe-ransom.md) | 1 | Criticism, Inc. |
@@ -67,6 +68,7 @@ This private index is generated from curated source metadata and local extractio
 | [Mary Wollstonecraft](mary-wollstonecraft.md) | 1 | A Vindication of the Rights of Woman |
 | [Matthew Arnold](matthew-arnold.md) | 1 | Selected Critical Prose |
 | [Max Horkheimer and Theodor W. Adorno](max-horkheimer-and-theodor-w-adorno.md) | 1 | The Culture Industry: Enlightenment as Mass Deception |
+| [Michel Foucault](michel-foucault.md) | 4 | What Is an Author?, Discipline and Punish, The History of Sexuality, Truth and Power |
 | [Mikhail M. Bakhtin](mikhail-bakhtin.md) | 1 | Discourse in the Novel |
 | [Moses Maimonides](moses-maimonides.md) | 1 | The Guide of the Perplexed |
 | [Northrop Frye](northrop-frye.md) | 1 | The Archetypes of Literature |
@@ -98,6 +100,7 @@ This private index is generated from curated source metadata and local extractio
 | [W. E. B. Du Bois](web-du-bois.md) | 1 | Criteria of Negro Art |
 | [William K. Wimsatt Jr. and Monroe C. Beardsley](william-k-wimsatt-jr-and-monroe-c-beardsley.md) | 2 | The Intentional Fallacy, The Affective Fallacy |
 | [William Wordsworth](william-wordsworth.md) | 1 | Preface to Lyrical Ballads |
+| [Wolfgang Iser](wolfgang-iser.md) | 1 | Interaction Between Text and Reader |
 | [Zora Neale Hurston](zora-neale-hurston.md) | 2 | Characteristics of Negro Expression, What White Publishers Won&#x27;t Print |
 
 ## Provenance
@@ -121,7 +124,7 @@ This private index is generated from curated source metadata and local extractio
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
-| Generated at | `2026-06-13T06:06:09Z` |
-| Git commit | `e71f735` |
+| Generated at | `2026-06-13T06:14:15Z` |
+| Git commit | `2df3079` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/index.md` |

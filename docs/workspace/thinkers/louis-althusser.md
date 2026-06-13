@@ -20,8 +20,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [A Letter on Art in Reply to Andre Daspre](../norton-texts/althusser-letter-on-art.md) | 1519-1551 | 33 | 0 | [aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | `edition-review-needed` |
-| [Ideology and Ideological State Apparatuses](../norton-texts/althusser-ideology-state-apparatuses.md) | 1519-1551 | 33 | 0 | [education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | `edition-review-needed` |
+| [A Letter on Art in Reply to Andre Daspre](../norton-texts/althusser-letter-on-art.md) | 1524-1526 | 3 | 0 | [aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | `edition-review-needed` |
+| [Ideology and Ideological State Apparatuses](../norton-texts/althusser-ideology-state-apparatuses.md) | 1527-1551 | 25 | 0 | [education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -92,8 +92,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T06:06:10Z` |
-| Git commit | `e71f735` |
+| Generated at | `2026-06-13T06:14:16Z` |
+| Git commit | `2df3079` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/louis-althusser.md` |
 

@@ -20,7 +20,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [The Culture Industry: Enlightenment as Mass Deception](../norton-texts/horkheimer-adorno-culture-industry.md) | 1264-1283 | 20 | 0 | [media-and-form](../media-and-form.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | `edition-review-needed` |
+| [The Culture Industry: Enlightenment as Mass Deception](../norton-texts/horkheimer-adorno-culture-industry.md) | 1267-1283 | 17 | 0 | [media-and-form](../media-and-form.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -89,8 +89,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T06:06:10Z` |
-| Git commit | `e71f735` |
+| Generated at | `2026-06-13T06:14:16Z` |
+| Git commit | `2df3079` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/max-horkheimer-and-theodor-w-adorno.md` |
 

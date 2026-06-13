@@ -20,7 +20,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful](../norton-texts/burke-sublime-and-beautiful.md) | 578-592 | 6 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[beauty-and-ascent](../beauty-and-ascent.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[sublime-and-limits](../sublime-and-limits.md) | `edition-review-needed` |
+| [A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful](../norton-texts/burke-sublime-and-beautiful.md) | 581-592 | 3 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[beauty-and-ascent](../beauty-and-ascent.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[sublime-and-limits](../sublime-and-limits.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -90,8 +90,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T06:06:09Z` |
-| Git commit | `e71f735` |
+| Generated at | `2026-06-13T06:14:15Z` |
+| Git commit | `2df3079` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/edmund-burke.md` |
 

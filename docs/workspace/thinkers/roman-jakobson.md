@@ -20,8 +20,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [Linguistics and Poetics](../norton-texts/jakobson-linguistics-and-poetics.md) | 1298-1312 | 15 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[media-and-form](../media-and-form.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
-| [Two Aspects of Language and Two Types of Aphasic Disturbances](../norton-texts/jakobson-two-aspects-language-aphasia.md) | 1298-1312 | 15 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[media-and-form](../media-and-form.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
+| [Linguistics and Poetics](../norton-texts/jakobson-linguistics-and-poetics.md) | 1302-1307 | 6 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[media-and-form](../media-and-form.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
+| [Two Aspects of Language and Two Types of Aphasic Disturbances](../norton-texts/jakobson-two-aspects-language-aphasia.md) | 1308-1312 | 5 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[media-and-form](../media-and-form.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -95,8 +95,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T06:06:10Z` |
-| Git commit | `e71f735` |
+| Generated at | `2026-06-13T06:14:16Z` |
+| Git commit | `2df3079` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/roman-jakobson.md` |
 

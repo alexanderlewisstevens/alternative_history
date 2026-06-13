@@ -10,11 +10,11 @@ This index is generated from curated source metadata and local extraction audit 
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Curated Text Nodes</div>
-  <div class="ah-metric-value">102</div>
+  <div class="ah-metric-value">108</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Assembled Chunks</div>
-  <div class="ah-metric-value">102</div>
+  <div class="ah-metric-value">108</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Constellations</div>
@@ -126,8 +126,14 @@ This index is generated from curated source metadata and local extraction audit 
 | [Literary History as a Challenge to Literary Theory](jauss-literary-history-challenge.md) | Hans Robert Jauss | 1591-1608 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 18 | `edition-review-needed` |
 | [Marxism and Literature](williams-marxism-literature.md) | Raymond Williams | 1609-1618 | [commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[media-and-form](../media-and-form.md)<br>[art-utility-and-modern-life](../art-utility-and-modern-life.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 10 | `edition-review-needed` |
 | [The Wretched of the Earth](fanon-wretched-earth.md) | Frantz Fanon | 1619-1636 | [education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[art-utility-and-modern-life](../art-utility-and-modern-life.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 18 | `edition-review-needed` |
-| [Kafka: Toward a Minor Literature](deleuze-guattari-kafka-minor-literature.md) | Gilles Deleuze and Felix Guattari | 1637-1647 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 11 | `edition-review-needed` |
-| [A Thousand Plateaus](deleuze-guattari-thousand-plateaus.md) | Gilles Deleuze and Felix Guattari | 1637-1647 | [signs-and-reading](../signs-and-reading.md)<br>[media-and-form](../media-and-form.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 11 | `edition-review-needed` |
+| [Kafka: Toward a Minor Literature](deleuze-guattari-kafka-minor-literature.md) | Gilles Deleuze and Felix Guattari | 1637-1652 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 16 | `edition-review-needed` |
+| [A Thousand Plateaus](deleuze-guattari-thousand-plateaus.md) | Gilles Deleuze and Felix Guattari | 1637-1652 | [signs-and-reading](../signs-and-reading.md)<br>[media-and-form](../media-and-form.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 16 | `edition-review-needed` |
+| [Defining the Postmodern](lyotard-defining-postmodern.md) | Jean-Francois Lyotard | 1653-1658 | [signs-and-reading](../signs-and-reading.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[media-and-form](../media-and-form.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 6 | `edition-review-needed` |
+| [What Is an Author?](foucault-what-is-an-author.md) | Michel Foucault | 1659-1713 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[media-and-form](../media-and-form.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 43 | `edition-review-needed` |
+| [Discipline and Punish](foucault-discipline-and-punish.md) | Michel Foucault | 1659-1713 | [education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 43 | `edition-review-needed` |
+| [The History of Sexuality](foucault-history-sexuality.md) | Michel Foucault | 1659-1713 | [vernacular-and-institution](../vernacular-and-institution.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 43 | `edition-review-needed` |
+| [Truth and Power](foucault-truth-and-power.md) | Michel Foucault | 1659-1713 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 43 | `edition-review-needed` |
+| [Interaction Between Text and Reader](iser-interaction-text-reader.md) | Wolfgang Iser | 1714-1725 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[media-and-form](../media-and-form.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 12 | `edition-review-needed` |
 
 ## How To Use This Index
 
@@ -154,7 +160,7 @@ This index is generated from curated source metadata and local extraction audit 
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T06:06:14Z` |
-| Git commit | `e71f735` |
+| Generated at | `2026-06-13T06:14:21Z` |
+| Git commit | `2df3079` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/index.md` |

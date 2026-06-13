@@ -1161,6 +1161,82 @@ curated_texts:
       - mapping
       - poststructuralism
     status: edition-review-needed
+  - id: lyotard-defining-postmodern
+    title: Defining the Postmodern
+    creator: Jean-Francois Lyotard
+    extraction_work_titles:
+      - Defining the Postmodern
+    role: core-text-candidate
+    themes:
+      - postmodernism
+      - modernity
+      - sublime
+      - progress
+    status: edition-review-needed
+  - id: foucault-what-is-an-author
+    title: What Is an Author?
+    creator: Michel Foucault
+    extraction_work_titles:
+      - What Is an Author?
+    role: core-text-candidate
+    themes:
+      - authorship
+      - discourse
+      - institution
+      - interpretation
+    status: edition-review-needed
+  - id: foucault-discipline-and-punish
+    title: Discipline and Punish
+    creator: Michel Foucault
+    extraction_work_titles:
+      - "From Discipline and Punish: The Birth of the Prison"
+      - "Discipline and Punish: The Birth of the Prison"
+    role: core-text-candidate
+    themes:
+      - discipline
+      - institution
+      - power
+      - normalization
+    status: edition-review-needed
+  - id: foucault-history-sexuality
+    title: The History of Sexuality
+    creator: Michel Foucault
+    extraction_work_titles:
+      - From The History of Sexuality, Volume 1, An Introduction
+      - The History of Sexuality
+    role: core-text-candidate
+    themes:
+      - sexuality
+      - discourse
+      - power
+      - subject-formation
+    status: edition-review-needed
+  - id: foucault-truth-and-power
+    title: Truth and Power
+    creator: Michel Foucault
+    extraction_work_titles:
+      - From Truth and Power
+      - Truth and Power
+    role: core-text-candidate
+    themes:
+      - truth
+      - power
+      - institutions
+      - intellectuals
+    status: edition-review-needed
+  - id: iser-interaction-text-reader
+    title: Interaction Between Text and Reader
+    creator: Wolfgang Iser
+    extraction_work_titles:
+      - Interaction between Text and Reader
+      - Interaction Between Text and Reader
+    role: core-text-candidate
+    themes:
+      - reader-response
+      - interpretation
+      - gaps
+      - communication
+    status: edition-review-needed
 
 constellations:
   - id: rhetoric-and-force
@@ -1264,6 +1340,10 @@ constellations:
       - jauss-literary-history-challenge
       - deleuze-guattari-kafka-minor-literature
       - deleuze-guattari-thousand-plateaus
+      - lyotard-defining-postmodern
+      - foucault-what-is-an-author
+      - foucault-truth-and-power
+      - iser-interaction-text-reader
     relations:
       - writing
       - interpretation
@@ -1340,6 +1420,9 @@ constellations:
       - jauss-literary-history-challenge
       - williams-marxism-literature
       - deleuze-guattari-kafka-minor-literature
+      - foucault-what-is-an-author
+      - foucault-truth-and-power
+      - iser-interaction-text-reader
     relations:
       - commentary
       - transmission
@@ -1387,6 +1470,9 @@ constellations:
       - jauss-literary-history-challenge
       - williams-marxism-literature
       - fanon-wretched-earth
+      - foucault-discipline-and-punish
+      - foucault-truth-and-power
+      - iser-interaction-text-reader
     relations:
       - pedagogy
       - civic-formation
@@ -1423,6 +1509,9 @@ constellations:
       - williams-marxism-literature
       - fanon-wretched-earth
       - deleuze-guattari-kafka-minor-literature
+      - foucault-discipline-and-punish
+      - foucault-history-sexuality
+      - foucault-truth-and-power
     relations:
       - vernacular
       - imitation
@@ -1477,6 +1566,8 @@ constellations:
       - de-man-return-to-philology
       - howe-history-novel
       - deleuze-guattari-kafka-minor-literature
+      - foucault-what-is-an-author
+      - iser-interaction-text-reader
     relations:
       - authorship
       - gender
@@ -1522,6 +1613,8 @@ constellations:
       - de-man-return-to-philology
       - jauss-literary-history-challenge
       - williams-marxism-literature
+      - lyotard-defining-postmodern
+      - iser-interaction-text-reader
     relations:
       - taste
       - criticism
@@ -1589,6 +1682,9 @@ constellations:
       - de-man-semiology-rhetoric
       - williams-marxism-literature
       - deleuze-guattari-thousand-plateaus
+      - lyotard-defining-postmodern
+      - foucault-what-is-an-author
+      - iser-interaction-text-reader
     relations:
       - medium
       - form
@@ -1621,6 +1717,9 @@ constellations:
       - de-man-return-to-philology
       - jauss-literary-history-challenge
       - fanon-wretched-earth
+      - lyotard-defining-postmodern
+      - foucault-discipline-and-punish
+      - iser-interaction-text-reader
     relations:
       - education
       - freedom
@@ -1703,6 +1802,9 @@ constellations:
       - howe-history-novel
       - williams-marxism-literature
       - fanon-wretched-earth
+      - foucault-discipline-and-punish
+      - foucault-history-sexuality
+      - foucault-truth-and-power
     relations:
       - labor
       - ideology
@@ -1749,6 +1851,10 @@ constellations:
       - jauss-literary-history-challenge
       - deleuze-guattari-kafka-minor-literature
       - deleuze-guattari-thousand-plateaus
+      - lyotard-defining-postmodern
+      - foucault-what-is-an-author
+      - foucault-truth-and-power
+      - iser-interaction-text-reader
     relations:
       - language
       - fiction

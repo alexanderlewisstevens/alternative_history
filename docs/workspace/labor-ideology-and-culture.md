@@ -50,6 +50,9 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/howe-history-novel/"><strong>Irving Howe, History and the Novel</strong><span>history, novel, politics; pages 1579-1590; 12 review rows</span></a>
   <a href="../norton-texts/williams-marxism-literature/"><strong>Raymond Williams, Marxism and Literature</strong><span>culture, marxism, literature; pages 1611-1618; 8 review rows</span></a>
   <a href="../norton-texts/fanon-wretched-earth/"><strong>Frantz Fanon, The Wretched of the Earth</strong><span>colonialism, nationalism, culture; pages 1622-1636; 15 review rows</span></a>
+  <a href="../norton-texts/foucault-discipline-and-punish/"><strong>Michel Foucault, Discipline and Punish</strong><span>discipline, institution, power; pages 1675-1691; 17 review rows</span></a>
+  <a href="../norton-texts/foucault-history-sexuality/"><strong>Michel Foucault, The History of Sexuality</strong><span>sexuality, discourse, power; pages 1692-1710; 7 review rows</span></a>
+  <a href="../norton-texts/foucault-truth-and-power/"><strong>Michel Foucault, Truth and Power</strong><span>truth, power, institutions; pages 1711-1713; 3 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -89,6 +92,9 @@ This is a scaffold for reading the configured texts together. It should become a
 25. [Irving Howe, History and the Novel](norton-texts/howe-history-novel.md)
 26. [Raymond Williams, Marxism and Literature](norton-texts/williams-marxism-literature.md)
 27. [Frantz Fanon, The Wretched of the Earth](norton-texts/fanon-wretched-earth.md)
+28. [Michel Foucault, Discipline and Punish](norton-texts/foucault-discipline-and-punish.md)
+29. [Michel Foucault, The History of Sexuality](norton-texts/foucault-history-sexuality.md)
+30. [Michel Foucault, Truth and Power](norton-texts/foucault-truth-and-power.md)
 
 ## Review Pressure
 
@@ -121,6 +127,9 @@ This is a scaffold for reading the configured texts together. It should become a
 | [History and the Novel](norton-texts/howe-history-novel.md) | 1579-1590 | 12 | excerpt: 12 |
 | [Marxism and Literature](norton-texts/williams-marxism-literature.md) | 1611-1618 | 8 | excerpt: 8 |
 | [The Wretched of the Earth](norton-texts/fanon-wretched-earth.md) | 1622-1636 | 15 | excerpt: 15 |
+| [Discipline and Punish](norton-texts/foucault-discipline-and-punish.md) | 1675-1691 | 17 | excerpt: 17 |
+| [The History of Sexuality](norton-texts/foucault-history-sexuality.md) | 1692-1710 | 7 | excerpt: 19 |
+| [Truth and Power](norton-texts/foucault-truth-and-power.md) | 1711-1713 | 3 | excerpt: 3 |
 
 ## Passage Queue
 
@@ -174,8 +183,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T06:06:05Z` |
-| Git commit | `e71f735` |
+| Generated at | `2026-06-13T06:12:10Z` |
+| Git commit | `2df3079` |
 | Script version | `2` |
 | Output path | `docs/workspace/labor-ideology-and-culture.md` |
 

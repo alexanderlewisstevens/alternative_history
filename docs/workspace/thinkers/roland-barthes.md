@@ -20,9 +20,9 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [Mythologies](../norton-texts/barthes-mythologies.md) | 1501-1518 | 18 | 0 | [vernacular-and-institution](../vernacular-and-institution.md)<br>[media-and-form](../media-and-form.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | `edition-review-needed` |
-| [The Death of the Author](../norton-texts/barthes-death-author.md) | 1501-1518 | 18 | 0 | [commentary-and-afterlife](../commentary-and-afterlife.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
-| [Work to Text](../norton-texts/barthes-work-to-text.md) | 1501-1518 | 18 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[media-and-form](../media-and-form.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
+| [Mythologies](../norton-texts/barthes-mythologies.md) | 1505-1508 | 4 | 0 | [vernacular-and-institution](../vernacular-and-institution.md)<br>[media-and-form](../media-and-form.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | `edition-review-needed` |
+| [The Death of the Author](../norton-texts/barthes-death-author.md) | 1509-1511 | 3 | 0 | [commentary-and-afterlife](../commentary-and-afterlife.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
+| [Work to Text](../norton-texts/barthes-work-to-text.md) | 1512-1518 | 7 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[media-and-form](../media-and-form.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -99,8 +99,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T06:06:10Z` |
-| Git commit | `e71f735` |
+| Generated at | `2026-06-13T06:14:16Z` |
+| Git commit | `2df3079` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/roland-barthes.md` |
 

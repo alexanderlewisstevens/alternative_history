@@ -60,7 +60,10 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/barthes-work-to-text/"><strong>Roland Barthes, Work to Text</strong><span>textuality, intertextuality, reader; pages 1512-1518; 7 review rows</span></a>
   <a href="../norton-texts/de-man-semiology-rhetoric/"><strong>Paul de Man, Semiology and Rhetoric</strong><span>rhetoric, deconstruction, reading; pages 1558-1570; 13 review rows</span></a>
   <a href="../norton-texts/williams-marxism-literature/"><strong>Raymond Williams, Marxism and Literature</strong><span>culture, marxism, literature; pages 1611-1618; 8 review rows</span></a>
-  <a href="../norton-texts/deleuze-guattari-thousand-plateaus/"><strong>Gilles Deleuze and Felix Guattari, A Thousand Plateaus</strong><span>rhizome, multiplicity, mapping; pages 1645-1647; 3 review rows</span></a>
+  <a href="../norton-texts/deleuze-guattari-thousand-plateaus/"><strong>Gilles Deleuze and Felix Guattari, A Thousand Plateaus</strong><span>rhizome, multiplicity, mapping; pages 1645-1652; 8 review rows</span></a>
+  <a href="../norton-texts/lyotard-defining-postmodern/"><strong>Jean-Francois Lyotard, Defining the Postmodern</strong><span>postmodernism, modernity, sublime; pages 1656-1658; 3 review rows</span></a>
+  <a href="../norton-texts/foucault-what-is-an-author/"><strong>Michel Foucault, What Is an Author?</strong><span>authorship, discourse, institution; pages 1666-1674; 9 review rows</span></a>
+  <a href="../norton-texts/iser-interaction-text-reader/"><strong>Wolfgang Iser, Interaction Between Text and Reader</strong><span>reader-response, interpretation, gaps; pages 1717-1725; 9 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -111,6 +114,9 @@ This is a scaffold for reading the configured texts together. It should become a
 36. [Paul de Man, Semiology and Rhetoric](norton-texts/de-man-semiology-rhetoric.md)
 37. [Raymond Williams, Marxism and Literature](norton-texts/williams-marxism-literature.md)
 38. [Gilles Deleuze and Felix Guattari, A Thousand Plateaus](norton-texts/deleuze-guattari-thousand-plateaus.md)
+39. [Jean-Francois Lyotard, Defining the Postmodern](norton-texts/lyotard-defining-postmodern.md)
+40. [Michel Foucault, What Is an Author?](norton-texts/foucault-what-is-an-author.md)
+41. [Wolfgang Iser, Interaction Between Text and Reader](norton-texts/iser-interaction-text-reader.md)
 
 ## Review Pressure
 
@@ -153,7 +159,10 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Work to Text](norton-texts/barthes-work-to-text.md) | 1512-1518 | 7 | excerpt: 7 |
 | [Semiology and Rhetoric](norton-texts/de-man-semiology-rhetoric.md) | 1558-1570 | 13 | excerpt: 13 |
 | [Marxism and Literature](norton-texts/williams-marxism-literature.md) | 1611-1618 | 8 | excerpt: 8 |
-| [A Thousand Plateaus](norton-texts/deleuze-guattari-thousand-plateaus.md) | 1645-1647 | 3 | excerpt: 3 |
+| [A Thousand Plateaus](norton-texts/deleuze-guattari-thousand-plateaus.md) | 1645-1652 | 8 | excerpt: 8 |
+| [Defining the Postmodern](norton-texts/lyotard-defining-postmodern.md) | 1656-1658 | 3 | excerpt: 3 |
+| [What Is an Author?](norton-texts/foucault-what-is-an-author.md) | 1666-1674 | 9 | excerpt: 9 |
+| [Interaction Between Text and Reader](norton-texts/iser-interaction-text-reader.md) | 1717-1725 | 9 | excerpt: 9 |
 
 ## Passage Queue
 
@@ -207,8 +216,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T06:06:05Z` |
-| Git commit | `e71f735` |
+| Generated at | `2026-06-13T06:12:10Z` |
+| Git commit | `2df3079` |
 | Script version | `2` |
 | Output path | `docs/workspace/media-and-form.md` |
 

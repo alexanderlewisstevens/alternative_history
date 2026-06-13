@@ -2935,7 +2935,7 @@ overrides:
       - mixed_work_transition_page
 
   - id: deleuze-guattari-thousand-plateaus
-    pages: 1645-1647
+    pages: 1645-1653
     author_name: Gilles Deleuze and Felix Guattari
     author_slug: gilles-deleuze-and-felix-guattari
     work_title: "From A Thousand Plateaus: Capitalism and Schizophrenia"
@@ -2947,4 +2947,140 @@ overrides:
     review_required: true
     review_reasons:
       - mixed_work_transition_page
+      - mixed_author_transition_page
+
+  - id: jean-francois-lyotard-headnote
+    pages: 1653-1656
+    author_name: Jean-Francois Lyotard
+    author_slug: jean-francois-lyotard
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: jean-francois-lyotard-defining-postmodern
+    pages: 1656-1659
+    author_name: Jean-Francois Lyotard
+    author_slug: jean-francois-lyotard
+    work_title: Defining the Postmodern
+    work_slug: defining-the-postmodern
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: michel-foucault-headnote
+    pages: 1659-1666
+    author_name: Michel Foucault
+    author_slug: michel-foucault
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: michel-foucault-what-is-an-author
+    pages: 1666-1675
+    author_name: Michel Foucault
+    author_slug: michel-foucault
+    work_title: What Is an Author?
+    work_slug: what-is-an-author
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_work_transition_page
+
+  - id: michel-foucault-discipline-and-punish
+    pages: 1675-1691
+    author_name: Michel Foucault
+    author_slug: michel-foucault
+    work_title: "From Discipline and Punish: The Birth of the Prison"
+    work_slug: from-discipline-and-punish-the-birth-of-the-prison
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: michel-foucault-history-sexuality
+    pages: 1692-1710
+    author_name: Michel Foucault
+    author_slug: michel-foucault
+    work_title: From The History of Sexuality, Volume 1, An Introduction
+    work_slug: from-the-history-of-sexuality-volume-1-an-introduction
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: michel-foucault-truth-and-power
+    pages: 1711-1714
+    author_name: Michel Foucault
+    author_slug: michel-foucault
+    work_title: From Truth and Power
+    work_slug: from-truth-and-power
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_author_transition_page
+
+  - id: wolfgang-iser-headnote
+    pages: 1714-1717
+    author_name: Wolfgang Iser
+    author_slug: wolfgang-iser
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: wolfgang-iser-interaction-text-reader
+    pages: 1717-1726
+    author_name: Wolfgang Iser
+    author_slug: wolfgang-iser
+    work_title: Interaction between Text and Reader
+    work_slug: interaction-between-text-and-reader
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: e-d-hirsch-jr-headnote
+    pages: 1726-1727
+    author_name: E. D. Hirsch Jr.
+    author_slug: e-d-hirsch-jr
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
       - continues_beyond_current_batch

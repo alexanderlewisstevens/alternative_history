@@ -99,8 +99,8 @@ This note turns the current Norton chunk for Oscar Wilde into a navigable worksp
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/oscar-wilde.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T06:06:13Z` |
-| Git commit | `e71f735` |
+| Generated at | `2026-06-13T06:14:20Z` |
+| Git commit | `2df3079` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/wilde-selected-critical-prose.md` |
 

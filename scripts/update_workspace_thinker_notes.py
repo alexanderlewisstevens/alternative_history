@@ -23,13 +23,15 @@ from lib.extraction_common import (
 from lib.workspace_components import backlink_list, link, note_meta, passage_card, private_banner, provenance_table
 from update_workspace_map import (
     author_display_names,
+    classification_records_for_text,
     constellations_for_text_ids,
     counter_summary,
     load_source_register,
     page_kinds_by_author,
-    page_range,
+    page_range_for_records,
     read_csv_rows,
     review_counts_by_author,
+    review_counts_for_records,
     works_by_author,
 )
 from update_workspace_passage_notes import load_passage_notes
@@ -85,6 +87,7 @@ def registered_work_titles_for_texts(texts: list[dict[str, Any]]) -> list[str]:
 def text_rows_for_thinker(
     texts: list[dict[str, Any]],
     author_rows: dict[str, dict[str, str] | None],
+    classification_records: list[dict[str, Any]],
     review_counts: dict[str, Counter[str]],
     constellations: list[dict[str, Any]],
     passage_notes: list[dict[str, Any]],
@@ -94,7 +97,9 @@ def text_rows_for_thinker(
         text_id = str(text["id"])
         author_row = author_rows.get(text_id)
         author_slug = author_row.get("author_slug", "") if author_row else ""
-        pages = page_range(author_row.get("first_page", ""), author_row.get("last_page", "")) if author_row else ""
+        text_records = classification_records_for_text(classification_records, text)
+        text_review_counts = review_counts_for_records(text_records) or review_counts.get(author_slug, Counter())
+        pages = page_range_for_records(text_records)
         constellation_links = "<br>".join(linked_constellation(str(item.get("id", "")), relative_prefix="../") for item in text_constellations(text_id, constellations))
         passage_count = len(passage_notes_for_text_ids([text_id], passage_notes))
         rows.append(
@@ -103,7 +108,7 @@ def text_rows_for_thinker(
                 [
                     text_note_link(text_id, str(text.get("title", text_id))),
                     html.escape(pages),
-                    str(review_counts.get(author_slug, Counter()).get("total", 0)),
+                    str(text_review_counts.get("total", 0)),
                     str(passage_count),
                     constellation_links or "",
                     f"`{html.escape(str(text.get('status', 'unknown')))}`",
@@ -120,6 +125,7 @@ def build_thinker_page(
     texts: list[dict[str, Any]],
     source: dict[str, Any],
     author_rows: dict[str, dict[str, str] | None],
+    classification_records: list[dict[str, Any]],
     works: dict[str, list[str]],
     page_kinds: dict[str, Counter[str]],
     review_counts: dict[str, Counter[str]],
@@ -153,7 +159,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-{text_rows_for_thinker(texts, author_rows, review_counts, constellations, passage_notes)}
+{text_rows_for_thinker(texts, author_rows, classification_records, review_counts, constellations, passage_notes)}
 
 ## Works And Excerpt Blocks
 
@@ -328,6 +334,7 @@ def main() -> int:
                     texts=texts,
                     source=source,
                     author_rows=author_rows,
+                    classification_records=classification_records,
                     works=works,
                     page_kinds=page_kinds,
                     review_counts=review_counts,

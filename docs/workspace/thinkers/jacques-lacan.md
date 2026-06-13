@@ -20,9 +20,9 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [The Mirror Stage as Formative of the Function of the I as Revealed in Psychoanalytic Experience](../norton-texts/lacan-mirror-stage.md) | 1322-1354 | 33 | 0 |  | `edition-review-needed` |
-| [The Agency of the Letter in the Unconscious](../norton-texts/lacan-agency-letter.md) | 1322-1354 | 33 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[media-and-form](../media-and-form.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
-| [The Signification of the Phallus](../norton-texts/lacan-signification-phallus.md) | 1322-1354 | 33 | 0 | [language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
+| [The Mirror Stage as Formative of the Function of the I as Revealed in Psychoanalytic Experience](../norton-texts/lacan-mirror-stage.md) | 1329-1333 | 5 | 0 |  | `edition-review-needed` |
+| [The Agency of the Letter in the Unconscious](../norton-texts/lacan-agency-letter.md) | 1334-1345 | 12 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[media-and-form](../media-and-form.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
+| [The Signification of the Phallus](../norton-texts/lacan-signification-phallus.md) | 1346-1354 | 9 | 0 | [language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -94,8 +94,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T06:06:09Z` |
-| Git commit | `e71f735` |
+| Generated at | `2026-06-13T06:14:16Z` |
+| Git commit | `2df3079` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/jacques-lacan.md` |
 

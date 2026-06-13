@@ -132,6 +132,12 @@ nav:
           - Fanon, The Wretched of the Earth: workspace/norton-texts/fanon-wretched-earth.md
           - "Deleuze and Guattari, Kafka: Toward a Minor Literature": workspace/norton-texts/deleuze-guattari-kafka-minor-literature.md
           - "Deleuze and Guattari, A Thousand Plateaus": workspace/norton-texts/deleuze-guattari-thousand-plateaus.md
+          - Lyotard, Defining the Postmodern: workspace/norton-texts/lyotard-defining-postmodern.md
+          - "Foucault, What Is an Author?": workspace/norton-texts/foucault-what-is-an-author.md
+          - Foucault, Discipline and Punish: workspace/norton-texts/foucault-discipline-and-punish.md
+          - Foucault, The History of Sexuality: workspace/norton-texts/foucault-history-sexuality.md
+          - Foucault, Truth and Power: workspace/norton-texts/foucault-truth-and-power.md
+          - Iser, Interaction Between Text and Reader: workspace/norton-texts/iser-interaction-text-reader.md
       - Thinker Notes:
           - Index: workspace/thinkers/index.md
           - Gorgias of Leontini: workspace/thinkers/gorgias-of-leontini.md
@@ -224,6 +230,9 @@ nav:
           - Raymond Williams: workspace/thinkers/raymond-williams.md
           - Frantz Fanon: workspace/thinkers/frantz-fanon.md
           - Gilles Deleuze and Felix Guattari: workspace/thinkers/gilles-deleuze-and-felix-guattari.md
+          - Jean-Francois Lyotard: workspace/thinkers/jean-francois-lyotard.md
+          - Michel Foucault: workspace/thinkers/michel-foucault.md
+          - Wolfgang Iser: workspace/thinkers/wolfgang-iser.md
       - Passage Notes:
           - Index: workspace/passages/index.md
           - Speech As Force: workspace/passages/gorgias-speech-as-force.md

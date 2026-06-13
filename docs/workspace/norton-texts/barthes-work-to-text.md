@@ -93,8 +93,8 @@ This note turns the current Norton chunk for Roland Barthes into a navigable wor
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/roland-barthes.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T06:06:14Z` |
-| Git commit | `e71f735` |
+| Generated at | `2026-06-13T06:14:21Z` |
+| Git commit | `2df3079` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/barthes-work-to-text.md` |
 

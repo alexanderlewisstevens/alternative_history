@@ -52,6 +52,9 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/williams-marxism-literature/"><strong>Raymond Williams, Marxism and Literature</strong><span>culture, marxism, literature; pages 1611-1618; 8 review rows</span></a>
   <a href="../norton-texts/fanon-wretched-earth/"><strong>Frantz Fanon, The Wretched of the Earth</strong><span>colonialism, nationalism, culture; pages 1622-1636; 15 review rows</span></a>
   <a href="../norton-texts/deleuze-guattari-kafka-minor-literature/"><strong>Gilles Deleuze and Felix Guattari, Kafka: Toward a Minor Literature</strong><span>minor-literature, language, politics; pages 1642-1644; 3 review rows</span></a>
+  <a href="../norton-texts/foucault-discipline-and-punish/"><strong>Michel Foucault, Discipline and Punish</strong><span>discipline, institution, power; pages 1675-1691; 17 review rows</span></a>
+  <a href="../norton-texts/foucault-history-sexuality/"><strong>Michel Foucault, The History of Sexuality</strong><span>sexuality, discourse, power; pages 1692-1710; 7 review rows</span></a>
+  <a href="../norton-texts/foucault-truth-and-power/"><strong>Michel Foucault, Truth and Power</strong><span>truth, power, institutions; pages 1711-1713; 3 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -93,6 +96,9 @@ This is a scaffold for reading the configured texts together. It should become a
 27. [Raymond Williams, Marxism and Literature](norton-texts/williams-marxism-literature.md)
 28. [Frantz Fanon, The Wretched of the Earth](norton-texts/fanon-wretched-earth.md)
 29. [Gilles Deleuze and Felix Guattari, Kafka: Toward a Minor Literature](norton-texts/deleuze-guattari-kafka-minor-literature.md)
+30. [Michel Foucault, Discipline and Punish](norton-texts/foucault-discipline-and-punish.md)
+31. [Michel Foucault, The History of Sexuality](norton-texts/foucault-history-sexuality.md)
+32. [Michel Foucault, Truth and Power](norton-texts/foucault-truth-and-power.md)
 
 ## Review Pressure
 
@@ -127,6 +133,9 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Marxism and Literature](norton-texts/williams-marxism-literature.md) | 1611-1618 | 8 | excerpt: 8 |
 | [The Wretched of the Earth](norton-texts/fanon-wretched-earth.md) | 1622-1636 | 15 | excerpt: 15 |
 | [Kafka: Toward a Minor Literature](norton-texts/deleuze-guattari-kafka-minor-literature.md) | 1642-1644 | 3 | excerpt: 3 |
+| [Discipline and Punish](norton-texts/foucault-discipline-and-punish.md) | 1675-1691 | 17 | excerpt: 17 |
+| [The History of Sexuality](norton-texts/foucault-history-sexuality.md) | 1692-1710 | 7 | excerpt: 19 |
+| [Truth and Power](norton-texts/foucault-truth-and-power.md) | 1711-1713 | 3 | excerpt: 3 |
 
 ## Passage Queue
 
@@ -180,8 +189,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T06:06:04Z` |
-| Git commit | `e71f735` |
+| Generated at | `2026-06-13T06:12:09Z` |
+| Git commit | `2df3079` |
 | Script version | `2` |
 | Output path | `docs/workspace/vernacular-and-institution.md` |
 

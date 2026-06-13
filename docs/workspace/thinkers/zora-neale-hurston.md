@@ -20,8 +20,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [Characteristics of Negro Expression](../norton-texts/hurston-characteristics-negro-expression.md) | 1188-1206 | 17 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[media-and-form](../media-and-form.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
-| [What White Publishers Won&#x27;t Print](../norton-texts/hurston-what-white-publishers-wont-print.md) | 1188-1206 | 17 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md) | `edition-review-needed` |
+| [Characteristics of Negro Expression](../norton-texts/hurston-characteristics-negro-expression.md) | 1190-1202 | 13 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[media-and-form](../media-and-form.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
+| [What White Publishers Won&#x27;t Print](../norton-texts/hurston-what-white-publishers-wont-print.md) | 1203-1206 | 2 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -97,8 +97,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T06:06:10Z` |
-| Git commit | `e71f735` |
+| Generated at | `2026-06-13T06:14:17Z` |
+| Git commit | `2df3079` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/zora-neale-hurston.md` |
 
