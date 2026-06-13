@@ -51,6 +51,13 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/wimsatt-beardsley-intentional-fallacy/"><strong>William K. Wimsatt Jr. and Monroe C. Beardsley, The Intentional Fallacy</strong><span>intention, authorship, formalism; pages 1418-1430; 13 review rows</span></a>
   <a href="../norton-texts/levi-strauss-tristes-tropiques/"><strong>Claude Levi-Strauss, Tristes Tropiques</strong><span>anthropology, structuralism, writing; pages 1463-1470; 8 review rows</span></a>
   <a href="../norton-texts/austin-performative-utterances/"><strong>J. L. Austin, Performative Utterances</strong><span>speech-acts, ordinary-language, performativity; pages 1474-1485; 12 review rows</span></a>
+  <a href="../norton-texts/frye-archetypes-literature/"><strong>Northrop Frye, The Archetypes of Literature</strong><span>archetype, myth, criticism; pages 1489-1500; 12 review rows</span></a>
+  <a href="../norton-texts/barthes-work-to-text/"><strong>Roland Barthes, Work to Text</strong><span>textuality, intertextuality, reader; pages 1512-1518; 7 review rows</span></a>
+  <a href="../norton-texts/de-man-semiology-rhetoric/"><strong>Paul de Man, Semiology and Rhetoric</strong><span>rhetoric, deconstruction, reading; pages 1558-1570; 13 review rows</span></a>
+  <a href="../norton-texts/de-man-return-to-philology/"><strong>Paul de Man, The Return to Philology</strong><span>philology, theory, pedagogy; pages 1571-1575; 4 review rows</span></a>
+  <a href="../norton-texts/jauss-literary-history-challenge/"><strong>Hans Robert Jauss, Literary History as a Challenge to Literary Theory</strong><span>reception, literary-history, reader; pages 1594-1608; 15 review rows</span></a>
+  <a href="../norton-texts/deleuze-guattari-kafka-minor-literature/"><strong>Gilles Deleuze and Felix Guattari, Kafka: Toward a Minor Literature</strong><span>minor-literature, language, politics; pages 1642-1644; 3 review rows</span></a>
+  <a href="../norton-texts/deleuze-guattari-thousand-plateaus/"><strong>Gilles Deleuze and Felix Guattari, A Thousand Plateaus</strong><span>rhizome, multiplicity, mapping; pages 1645-1647; 3 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -91,6 +98,13 @@ This is a scaffold for reading the configured texts together. It should become a
 26. [William K. Wimsatt Jr. and Monroe C. Beardsley, The Intentional Fallacy](norton-texts/wimsatt-beardsley-intentional-fallacy.md)
 27. [Claude Levi-Strauss, Tristes Tropiques](norton-texts/levi-strauss-tristes-tropiques.md)
 28. [J. L. Austin, Performative Utterances](norton-texts/austin-performative-utterances.md)
+29. [Northrop Frye, The Archetypes of Literature](norton-texts/frye-archetypes-literature.md)
+30. [Roland Barthes, Work to Text](norton-texts/barthes-work-to-text.md)
+31. [Paul de Man, Semiology and Rhetoric](norton-texts/de-man-semiology-rhetoric.md)
+32. [Paul de Man, The Return to Philology](norton-texts/de-man-return-to-philology.md)
+33. [Hans Robert Jauss, Literary History as a Challenge to Literary Theory](norton-texts/jauss-literary-history-challenge.md)
+34. [Gilles Deleuze and Felix Guattari, Kafka: Toward a Minor Literature](norton-texts/deleuze-guattari-kafka-minor-literature.md)
+35. [Gilles Deleuze and Felix Guattari, A Thousand Plateaus](norton-texts/deleuze-guattari-thousand-plateaus.md)
 
 ## Review Pressure
 
@@ -124,6 +138,13 @@ This is a scaffold for reading the configured texts together. It should become a
 | [The Intentional Fallacy](norton-texts/wimsatt-beardsley-intentional-fallacy.md) | 1418-1430 | 13 | excerpt: 13 |
 | [Tristes Tropiques](norton-texts/levi-strauss-tristes-tropiques.md) | 1463-1470 | 8 | excerpt: 8 |
 | [Performative Utterances](norton-texts/austin-performative-utterances.md) | 1474-1485 | 12 | excerpt: 12 |
+| [The Archetypes of Literature](norton-texts/frye-archetypes-literature.md) | 1489-1500 | 12 | excerpt: 12 |
+| [Work to Text](norton-texts/barthes-work-to-text.md) | 1512-1518 | 7 | excerpt: 7 |
+| [Semiology and Rhetoric](norton-texts/de-man-semiology-rhetoric.md) | 1558-1570 | 13 | excerpt: 13 |
+| [The Return to Philology](norton-texts/de-man-return-to-philology.md) | 1571-1575 | 4 | excerpt: 5 |
+| [Literary History as a Challenge to Literary Theory](norton-texts/jauss-literary-history-challenge.md) | 1594-1608 | 15 | excerpt: 15 |
+| [Kafka: Toward a Minor Literature](norton-texts/deleuze-guattari-kafka-minor-literature.md) | 1642-1644 | 3 | excerpt: 3 |
+| [A Thousand Plateaus](norton-texts/deleuze-guattari-thousand-plateaus.md) | 1645-1647 | 3 | excerpt: 3 |
 
 ## Passage Queue
 
@@ -177,8 +198,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:51:24Z` |
-| Git commit | `1dc0dd5` |
+| Generated at | `2026-06-13T06:06:03Z` |
+| Git commit | `e71f735` |
 | Script version | `2` |
 | Output path | `docs/workspace/signs-and-reading.md` |
 

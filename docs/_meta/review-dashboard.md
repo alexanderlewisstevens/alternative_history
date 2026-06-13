@@ -5,7 +5,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Boundary Review</div>
-  <div class="ah-metric-value">282</div>
+  <div class="ah-metric-value">315</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Content Separation</div>
@@ -13,15 +13,15 @@ This is the editorial queue for restricted extraction work. It is generated from
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Layout Review</div>
-  <div class="ah-metric-value">334</div>
+  <div class="ah-metric-value">339</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Source Notes</div>
-  <div class="ah-metric-value">69</div>
+  <div class="ah-metric-value">71</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">General Review</div>
-  <div class="ah-metric-value">504</div>
+  <div class="ah-metric-value">623</div>
 </div>
 </div>
 
@@ -29,10 +29,10 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 <div class="ah-review-grid">
 <section class="ah-review-card warn">
-  <div class="ah-review-card-kicker">282 pages</div>
+  <div class="ah-review-card-kicker">315 pages</div>
   <h3>Boundary Review</h3>
   <p>Confirm thinker and work boundaries before assembling public-facing drafts.</p>
-  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +270 more</p>
+  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +303 more</p>
 </section>
 <section class="ah-review-card warn">
   <div class="ah-review-card-kicker">9 pages</div>
@@ -41,22 +41,22 @@ This is the editorial queue for restricted extraction work. It is generated from
   <p><strong>Start:</strong> <code>72</code>, <code>199</code>, <code>285</code>, <code>297</code>, <code>344</code>, <code>368</code>, <code>443</code>, <code>469</code>, <code>655</code></p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">334 pages</div>
+  <div class="ah-review-card-kicker">339 pages</div>
   <h3>Layout Review</h3>
   <p>Confirm multi-column reading order before any summary or excerpt curation.</p>
-  <p><strong>Start:</strong> <code>73</code>, <code>79</code>, <code>80</code>, <code>82</code>, <code>83</code>, <code>84</code>, <code>86</code>, <code>90</code>, <code>91</code>, <code>92</code>, <code>93</code>, <code>94</code> +322 more</p>
+  <p><strong>Start:</strong> <code>73</code>, <code>79</code>, <code>80</code>, <code>82</code>, <code>83</code>, <code>84</code>, <code>86</code>, <code>90</code>, <code>91</code>, <code>92</code>, <code>93</code>, <code>94</code> +327 more</p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">69 pages</div>
+  <div class="ah-review-card-kicker">71 pages</div>
   <h3>Source Notes</h3>
   <p>Move source footnotes into Source Notes without converting them into Markdown footnotes.</p>
-  <p><strong>Start:</strong> <code>74</code>, <code>98</code>, <code>99</code>, <code>126</code>, <code>185</code>, <code>190</code>, <code>191</code>, <code>192</code>, <code>194</code>, <code>204</code>, <code>213</code>, <code>218</code> +57 more</p>
+  <p><strong>Start:</strong> <code>74</code>, <code>98</code>, <code>99</code>, <code>126</code>, <code>185</code>, <code>190</code>, <code>191</code>, <code>192</code>, <code>194</code>, <code>204</code>, <code>213</code>, <code>218</code> +59 more</p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">504 pages</div>
+  <div class="ah-review-card-kicker">623 pages</div>
   <h3>General Review</h3>
   <p>Resolve remaining template or classification questions.</p>
-  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +492 more</p>
+  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +611 more</p>
 </section>
 </div>
 
@@ -72,11 +72,11 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Field | Value |
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
-| Classified source pages | `71-1487` |
-| Review queue rows | `1198` |
+| Classified source pages | `71-1647` |
+| Review queue rows | `1357` |
 | Review queue file | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
-| Generated at | `2026-06-13T05:51:52Z` |
-| Git commit | `1dc0dd5` |
+| Generated at | `2026-06-13T06:06:08Z` |
+| Git commit | `e71f735` |
 | Script version | `1` |
 | Output path | `docs/_meta/review-dashboard.md` |
 
@@ -84,16 +84,17 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 | Reason | Pages |
 | --- | ---: |
-| mixed_work_transition_page | 474 |
-| multi_column_layout | 347 |
-| source_notes_detected | 306 |
-| transition_from_previous_author | 261 |
-| mixed_bibliography_and_work_title | 152 |
+| mixed_work_transition_page | 534 |
+| multi_column_layout | 352 |
+| source_notes_detected | 310 |
+| transition_from_previous_author | 294 |
+| mixed_bibliography_and_work_title | 240 |
 | mixed_transition_page | 68 |
+| mixed_author_transition_page | 35 |
 | layout_review_required | 23 |
 | author_boundary_without_life_dates | 19 |
+| continues_beyond_current_batch | 14 |
 | mixed_excerpt_and_bibliography | 9 |
-| continues_beyond_current_batch | 4 |
 | transition_from_previous_work | 2 |
 | ocr_title_cleanup | 2 |
 
@@ -105,6 +106,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Sir Philip Sidney | 39 |
 | Mikhail M. Bakhtin | 34 |
 | Jacques Lacan | 33 |
+| Louis Althusser | 33 |
 | William K. Wimsatt Jr. and Monroe C. Beardsley | 32 |
 | Matthew Arnold | 31 |
 | Plato | 29 |
@@ -113,6 +115,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Friedrich Nietzsche | 27 |
 | Aristotle | 23 |
 | Walter Benjamin | 23 |
+| Paul de Man | 23 |
 | Boris Eichenbaum | 22 |
 | Samuel Johnson | 21 |
 | Ralph Waldo Emerson | 21 |
@@ -122,6 +125,9 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Max Horkheimer and Theodor W. Adorno | 20 |
 | Longinus | 19 |
 | Percy Bysshe Shelley | 19 |
+| Roland Barthes | 18 |
+| Hans Robert Jauss | 18 |
+| Frantz Fanon | 18 |
 | T. S. Eliot | 17 |
 | Zora Neale Hurston | 17 |
 | Jean-Paul Sartre | 17 |
@@ -134,6 +140,8 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Leon Trotsky | 15 |
 | Roman Jakobson | 15 |
 | J. L. Austin | 15 |
+| Northrop Frye | 15 |
+| Irving Howe | 15 |
 | Horace | 14 |
 | Immanuel Kant | 14 |
 | Friedrich Schleiermacher | 14 |
@@ -151,6 +159,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Giambattista Vico | 11 |
 | Edward Young | 11 |
 | Edgar Allan Poe | 11 |
+| Gilles Deleuze and Felix Guattari | 11 |
 | Quintilian | 10 |
 | Hugh of St. Victor | 10 |
 | Joseph Addison | 10 |
@@ -159,6 +168,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Stephane Mallarme | 10 |
 | W. E. B. Du Bois | 10 |
 | Martin Heidegger | 10 |
+| Raymond Williams | 10 |
 | Augustine of Hippo | 9 |
 | Giovanni Boccaccio | 9 |
 | John Dryden | 9 |
@@ -182,7 +192,6 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Macrobius | 4 |
 | Gorgias of Leontini | 3 |
 | Christine de Pizan | 3 |
-| Northrop Frye | 2 |
 
 ## Boundary Review
 
@@ -468,8 +477,41 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 1471 | J. L. Austin | From Tristes Tropiques | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1471.md |
 | 1472 | J. L. Austin |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1472.md |
 | 1473 | J. L. Austin | J. L. Austin | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1473.md |
-| 1486 | Northrop Frye | Performative Utterances | continues_beyond_current_batch;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1486.md |
-| 1487 | Northrop Frye |  | continues_beyond_current_batch;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1487.md |
+| 1486 | Northrop Frye | Performative Utterances | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1486.md |
+| 1487 | Northrop Frye |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1487.md |
+| 1488 | Northrop Frye |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1488.md |
+| 1501 | Roland Barthes | The Archetypes of Literature | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1501.md |
+| 1502 | Roland Barthes |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1502.md |
+| 1503 | Roland Barthes | Roland Barthes | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1503.md |
+| 1504 | Roland Barthes |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1504.md |
+| 1519 | Louis Althusser | From Work to Text | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1519.md |
+| 1520 | Louis Althusser |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1520.md |
+| 1521 | Louis Althusser | Louis Althusser | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1521.md |
+| 1522 | Louis Althusser |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1522.md |
+| 1523 | Louis Althusser | Louis Althusser | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1523.md |
+| 1552 | Paul de Man | Ideology and Ideological State Apparatuses | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1552.md |
+| 1553 | Paul de Man |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1553.md |
+| 1554 | Paul de Man |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1554.md |
+| 1555 | Paul de Man | Paul de Man | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1555.md |
+| 1556 | Paul de Man |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1556.md |
+| 1557 | Paul de Man |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1557.md |
+| 1558 | Paul de Man | Semiology and Rhetoric | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1558.md |
+| 1576 | Irving Howe |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1576.md |
+| 1577 | Irving Howe | Irving Howe | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1577.md |
+| 1578 | Irving Howe |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1578.md |
+| 1591 | Hans Robert Jauss | History and the Novel | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1591.md |
+| 1592 | Hans Robert Jauss |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1592.md |
+| 1593 | Hans Robert Jauss |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1593.md |
+| 1609 | Raymond Williams |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1609.md |
+| 1610 | Raymond Williams |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1610.md |
+| 1619 | Frantz Fanon | From Marxism and Literature | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1619.md |
+| 1620 | Frantz Fanon |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1620.md |
+| 1621 | Frantz Fanon | Frantz Fanon | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1621.md |
+| 1637 | Gilles Deleuze and Felix Guattari | From The Wretched of the Earth | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1637.md |
+| 1638 | Gilles Deleuze and Felix Guattari |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1638.md |
+| 1639 | Gilles Deleuze and Felix Guattari |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1639.md |
+| 1640 | Gilles Deleuze and Felix Guattari | the early 19.80s up to his death, Deleuze continued to emphasize the rieed | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1640.md |
+| 1641 | Gilles Deleuze and Felix Guattari | Gilles Deleuze and F~lix Guattari | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1641.md |
 
 ## Content Separation
 
@@ -823,6 +865,11 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 1176 | Martin Heidegger | Language | multi_column_layout | work/page-records/norton-theory-criticism/page_1176.md |
 | 1203 | Zora Neale Hurston | What White Publishers Won't Print | multi_column_layout | work/page-records/norton-theory-criticism/page_1203.md |
 | 1206 | Zora Neale Hurston | What White Publishers Won't Print | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_1206.md |
+| 1569 | Paul de Man | Semiology and Rhetoric | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_1569.md |
+| 1571 | Paul de Man | The Return to Philology | multi_column_layout | work/page-records/norton-theory-criticism/page_1571.md |
+| 1572 | Paul de Man | The Return to Philology | multi_column_layout | work/page-records/norton-theory-criticism/page_1572.md |
+| 1574 | Paul de Man | The Return to Philology | multi_column_layout | work/page-records/norton-theory-criticism/page_1574.md |
+| 1575 | Paul de Man | The Return to Philology | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_1575.md |
 
 ## Source Notes
 
@@ -897,6 +944,8 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 1123 | Boris Eichenbaum | The Theory of the Formal Method | source_notes_detected | work/page-records/norton-theory-criticism/page_1123.md |
 | 1124 | Boris Eichenbaum | The Theory of the Formal Method | source_notes_detected | work/page-records/norton-theory-criticism/page_1124.md |
 | 1128 | Boris Eichenbaum | The Theory of the Formal Method | source_notes_detected | work/page-records/norton-theory-criticism/page_1128.md |
+| 1568 | Paul de Man | Semiology and Rhetoric | source_notes_detected | work/page-records/norton-theory-criticism/page_1568.md |
+| 1570 | Paul de Man | Semiology and Rhetoric | source_notes_detected | work/page-records/norton-theory-criticism/page_1570.md |
 
 ## General Review
 
@@ -1406,3 +1455,122 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 1483 | J. L. Austin | Performative Utterances | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1483.md |
 | 1484 | J. L. Austin | Performative Utterances | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1484.md |
 | 1485 | J. L. Austin | Performative Utterances | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1485.md |
+| 1489 | Northrop Frye | The Archetypes of Literature | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1489.md |
+| 1490 | Northrop Frye | The Archetypes of Literature | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1490.md |
+| 1491 | Northrop Frye | The Archetypes of Literature | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1491.md |
+| 1492 | Northrop Frye | The Archetypes of Literature | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1492.md |
+| 1493 | Northrop Frye | The Archetypes of Literature | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1493.md |
+| 1494 | Northrop Frye | The Archetypes of Literature | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1494.md |
+| 1495 | Northrop Frye | The Archetypes of Literature | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1495.md |
+| 1496 | Northrop Frye | The Archetypes of Literature | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1496.md |
+| 1497 | Northrop Frye | The Archetypes of Literature | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1497.md |
+| 1498 | Northrop Frye | The Archetypes of Literature | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1498.md |
+| 1499 | Northrop Frye | The Archetypes of Literature | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1499.md |
+| 1500 | Northrop Frye | The Archetypes of Literature | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1500.md |
+| 1505 | Roland Barthes | From Mythologies | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1505.md |
+| 1506 | Roland Barthes | From Mythologies | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1506.md |
+| 1507 | Roland Barthes | From Mythologies | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1507.md |
+| 1508 | Roland Barthes | From Mythologies | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1508.md |
+| 1509 | Roland Barthes | The Death of the Author | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1509.md |
+| 1510 | Roland Barthes | The Death of the Author | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1510.md |
+| 1511 | Roland Barthes | The Death of the Author | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1511.md |
+| 1512 | Roland Barthes | From Work to Text | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1512.md |
+| 1513 | Roland Barthes | From Work to Text | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1513.md |
+| 1514 | Roland Barthes | From Work to Text | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1514.md |
+| 1515 | Roland Barthes | From Work to Text | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1515.md |
+| 1516 | Roland Barthes | From Work to Text | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1516.md |
+| 1517 | Roland Barthes | From Work to Text | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1517.md |
+| 1518 | Roland Barthes | From Work to Text | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1518.md |
+| 1524 | Louis Althusser | A Letter on Art in Reply to Andre Daspre | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1524.md |
+| 1525 | Louis Althusser | A Letter on Art in Reply to Andre Daspre | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1525.md |
+| 1526 | Louis Althusser | A Letter on Art in Reply to Andre Daspre | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1526.md |
+| 1527 | Louis Althusser | Ideology and Ideological State Apparatuses | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1527.md |
+| 1528 | Louis Althusser | Ideology and Ideological State Apparatuses | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1528.md |
+| 1529 | Louis Althusser | Ideology and Ideological State Apparatuses | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1529.md |
+| 1530 | Louis Althusser | Ideology and Ideological State Apparatuses | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1530.md |
+| 1531 | Louis Althusser | Ideology and Ideological State Apparatuses | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1531.md |
+| 1532 | Louis Althusser | Ideology and Ideological State Apparatuses | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1532.md |
+| 1533 | Louis Althusser | Ideology and Ideological State Apparatuses | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1533.md |
+| 1534 | Louis Althusser | Ideology and Ideological State Apparatuses | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1534.md |
+| 1535 | Louis Althusser | Ideology and Ideological State Apparatuses | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1535.md |
+| 1536 | Louis Althusser | Ideology and Ideological State Apparatuses | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1536.md |
+| 1537 | Louis Althusser | Ideology and Ideological State Apparatuses | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1537.md |
+| 1538 | Louis Althusser | Ideology and Ideological State Apparatuses | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1538.md |
+| 1539 | Louis Althusser | Ideology and Ideological State Apparatuses | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1539.md |
+| 1540 | Louis Althusser | Ideology and Ideological State Apparatuses | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1540.md |
+| 1541 | Louis Althusser | Ideology and Ideological State Apparatuses | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1541.md |
+| 1542 | Louis Althusser | Ideology and Ideological State Apparatuses | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1542.md |
+| 1543 | Louis Althusser | Ideology and Ideological State Apparatuses | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1543.md |
+| 1544 | Louis Althusser | Ideology and Ideological State Apparatuses | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1544.md |
+| 1545 | Louis Althusser | Ideology and Ideological State Apparatuses | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1545.md |
+| 1546 | Louis Althusser | Ideology and Ideological State Apparatuses | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1546.md |
+| 1547 | Louis Althusser | Ideology and Ideological State Apparatuses | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1547.md |
+| 1548 | Louis Althusser | Ideology and Ideological State Apparatuses | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1548.md |
+| 1549 | Louis Althusser | Ideology and Ideological State Apparatuses | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1549.md |
+| 1550 | Louis Althusser | Ideology and Ideological State Apparatuses | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1550.md |
+| 1551 | Louis Althusser | Ideology and Ideological State Apparatuses | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1551.md |
+| 1559 | Paul de Man | Semiology and Rhetoric | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1559.md |
+| 1560 | Paul de Man | Semiology and Rhetoric | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1560.md |
+| 1561 | Paul de Man | Semiology and Rhetoric | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1561.md |
+| 1562 | Paul de Man | Semiology and Rhetoric | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1562.md |
+| 1563 | Paul de Man | Semiology and Rhetoric | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1563.md |
+| 1564 | Paul de Man | Semiology and Rhetoric | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1564.md |
+| 1565 | Paul de Man | Semiology and Rhetoric | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1565.md |
+| 1566 | Paul de Man | Semiology and Rhetoric | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1566.md |
+| 1567 | Paul de Man | Semiology and Rhetoric | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1567.md |
+| 1579 | Irving Howe | History and the Novel | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1579.md |
+| 1580 | Irving Howe | History and the Novel | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1580.md |
+| 1581 | Irving Howe | History and the Novel | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1581.md |
+| 1582 | Irving Howe | History and the Novel | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1582.md |
+| 1583 | Irving Howe | History and the Novel | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1583.md |
+| 1584 | Irving Howe | History and the Novel | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1584.md |
+| 1585 | Irving Howe | History and the Novel | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1585.md |
+| 1586 | Irving Howe | History and the Novel | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1586.md |
+| 1587 | Irving Howe | History and the Novel | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1587.md |
+| 1588 | Irving Howe | History and the Novel | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1588.md |
+| 1589 | Irving Howe | History and the Novel | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1589.md |
+| 1590 | Irving Howe | History and the Novel | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1590.md |
+| 1594 | Hans Robert Jauss | From Literary History as a Challenge to Literary Theory | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1594.md |
+| 1595 | Hans Robert Jauss | From Literary History as a Challenge to Literary Theory | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1595.md |
+| 1596 | Hans Robert Jauss | From Literary History as a Challenge to Literary Theory | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1596.md |
+| 1597 | Hans Robert Jauss | From Literary History as a Challenge to Literary Theory | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1597.md |
+| 1598 | Hans Robert Jauss | From Literary History as a Challenge to Literary Theory | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1598.md |
+| 1599 | Hans Robert Jauss | From Literary History as a Challenge to Literary Theory | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1599.md |
+| 1600 | Hans Robert Jauss | From Literary History as a Challenge to Literary Theory | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1600.md |
+| 1601 | Hans Robert Jauss | From Literary History as a Challenge to Literary Theory | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1601.md |
+| 1602 | Hans Robert Jauss | From Literary History as a Challenge to Literary Theory | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1602.md |
+| 1603 | Hans Robert Jauss | From Literary History as a Challenge to Literary Theory | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1603.md |
+| 1604 | Hans Robert Jauss | From Literary History as a Challenge to Literary Theory | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1604.md |
+| 1605 | Hans Robert Jauss | From Literary History as a Challenge to Literary Theory | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1605.md |
+| 1606 | Hans Robert Jauss | From Literary History as a Challenge to Literary Theory | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1606.md |
+| 1607 | Hans Robert Jauss | From Literary History as a Challenge to Literary Theory | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1607.md |
+| 1608 | Hans Robert Jauss | From Literary History as a Challenge to Literary Theory | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1608.md |
+| 1611 | Raymond Williams | From Marxism and Literature | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1611.md |
+| 1612 | Raymond Williams | From Marxism and Literature | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1612.md |
+| 1613 | Raymond Williams | From Marxism and Literature | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1613.md |
+| 1614 | Raymond Williams | From Marxism and Literature | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1614.md |
+| 1615 | Raymond Williams | From Marxism and Literature | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1615.md |
+| 1616 | Raymond Williams | From Marxism and Literature | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1616.md |
+| 1617 | Raymond Williams | From Marxism and Literature | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1617.md |
+| 1618 | Raymond Williams | From Marxism and Literature | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1618.md |
+| 1622 | Frantz Fanon | From The Wretched of the Earth | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1622.md |
+| 1623 | Frantz Fanon | From The Wretched of the Earth | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1623.md |
+| 1624 | Frantz Fanon | From The Wretched of the Earth | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1624.md |
+| 1625 | Frantz Fanon | From The Wretched of the Earth | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1625.md |
+| 1626 | Frantz Fanon | From The Wretched of the Earth | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1626.md |
+| 1627 | Frantz Fanon | From The Wretched of the Earth | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1627.md |
+| 1628 | Frantz Fanon | From The Wretched of the Earth | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1628.md |
+| 1629 | Frantz Fanon | From The Wretched of the Earth | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1629.md |
+| 1630 | Frantz Fanon | From The Wretched of the Earth | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1630.md |
+| 1631 | Frantz Fanon | From The Wretched of the Earth | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1631.md |
+| 1632 | Frantz Fanon | From The Wretched of the Earth | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1632.md |
+| 1633 | Frantz Fanon | From The Wretched of the Earth | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1633.md |
+| 1634 | Frantz Fanon | From The Wretched of the Earth | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1634.md |
+| 1635 | Frantz Fanon | From The Wretched of the Earth | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1635.md |
+| 1636 | Frantz Fanon | From The Wretched of the Earth | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1636.md |
+| 1642 | Gilles Deleuze and Felix Guattari | From Kafka: Toward a Minor Literature | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1642.md |
+| 1643 | Gilles Deleuze and Felix Guattari | From Kafka: Toward a Minor Literature | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1643.md |
+| 1644 | Gilles Deleuze and Felix Guattari | From Kafka: Toward a Minor Literature | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1644.md |
+| 1645 | Gilles Deleuze and Felix Guattari | From A Thousand Plateaus: Capitalism and Schizophrenia | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1645.md |
+| 1646 | Gilles Deleuze and Felix Guattari | From A Thousand Plateaus: Capitalism and Schizophrenia | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1646.md |
+| 1647 | Gilles Deleuze and Felix Guattari | From A Thousand Plateaus: Capitalism and Schizophrenia | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1647.md |

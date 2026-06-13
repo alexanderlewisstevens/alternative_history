@@ -2638,7 +2638,7 @@ overrides:
       - mixed_work_transition_page
 
   - id: northrop-frye-headnote
-    pages: 1486-1487
+    pages: 1486-1489
     author_name: Northrop Frye
     author_slug: northrop-frye
     page_kind: author_intro
@@ -2648,4 +2648,303 @@ overrides:
     review_required: true
     review_reasons:
       - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: northrop-frye-archetypes-literature
+    pages: 1489-1501
+    author_name: Northrop Frye
+    author_slug: northrop-frye
+    work_title: The Archetypes of Literature
+    work_slug: the-archetypes-of-literature
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: roland-barthes-headnote
+    pages: 1501-1505
+    author_name: Roland Barthes
+    author_slug: roland-barthes
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: roland-barthes-mythologies
+    pages: 1505-1509
+    author_name: Roland Barthes
+    author_slug: roland-barthes
+    work_title: From Mythologies
+    work_slug: from-mythologies
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: roland-barthes-death-author
+    pages: 1509-1512
+    author_name: Roland Barthes
+    author_slug: roland-barthes
+    work_title: The Death of the Author
+    work_slug: the-death-of-the-author
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: roland-barthes-work-to-text
+    pages: 1512-1519
+    author_name: Roland Barthes
+    author_slug: roland-barthes
+    work_title: From Work to Text
+    work_slug: from-work-to-text
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: louis-althusser-headnote
+    pages: 1519-1524
+    author_name: Louis Althusser
+    author_slug: louis-althusser
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: louis-althusser-letter-on-art
+    pages: 1524-1527
+    author_name: Louis Althusser
+    author_slug: louis-althusser
+    work_title: A Letter on Art in Reply to Andre Daspre
+    work_slug: a-letter-on-art-in-reply-to-andre-daspre
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: louis-althusser-ideology-state-apparatuses
+    pages: 1527-1552
+    author_name: Louis Althusser
+    author_slug: louis-althusser
+    work_title: Ideology and Ideological State Apparatuses
+    work_slug: ideology-and-ideological-state-apparatuses
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: paul-de-man-headnote
+    pages: 1552-1558
+    author_name: Paul de Man
+    author_slug: paul-de-man
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: paul-de-man-semiology-rhetoric
+    pages: 1558-1570
+    author_name: Paul de Man
+    author_slug: paul-de-man
+    work_title: Semiology and Rhetoric
+    work_slug: semiology-and-rhetoric
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: paul-de-man-return-to-philology
+    pages: 1571-1575
+    author_name: Paul de Man
+    author_slug: paul-de-man
+    work_title: The Return to Philology
+    work_slug: the-return-to-philology
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: irving-howe-headnote
+    pages: 1576-1579
+    author_name: Irving Howe
+    author_slug: irving-howe
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: irving-howe-history-novel
+    pages: 1579-1591
+    author_name: Irving Howe
+    author_slug: irving-howe
+    work_title: History and the Novel
+    work_slug: history-and-the-novel
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: hans-robert-jauss-headnote
+    pages: 1591-1594
+    author_name: Hans Robert Jauss
+    author_slug: hans-robert-jauss
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: hans-robert-jauss-literary-history-challenge
+    pages: 1594-1608
+    author_name: Hans Robert Jauss
+    author_slug: hans-robert-jauss
+    work_title: From Literary History as a Challenge to Literary Theory
+    work_slug: from-literary-history-as-a-challenge-to-literary-theory
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: raymond-williams-headnote
+    pages: 1609-1611
+    author_name: Raymond Williams
+    author_slug: raymond-williams
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: raymond-williams-marxism-literature
+    pages: 1611-1619
+    author_name: Raymond Williams
+    author_slug: raymond-williams
+    work_title: From Marxism and Literature
+    work_slug: from-marxism-and-literature
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: frantz-fanon-headnote
+    pages: 1619-1622
+    author_name: Frantz Fanon
+    author_slug: frantz-fanon
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: frantz-fanon-wretched-earth
+    pages: 1622-1637
+    author_name: Frantz Fanon
+    author_slug: frantz-fanon
+    work_title: From The Wretched of the Earth
+    work_slug: from-the-wretched-of-the-earth
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: deleuze-guattari-headnote
+    pages: 1637-1642
+    author_name: Gilles Deleuze and Felix Guattari
+    author_slug: gilles-deleuze-and-felix-guattari
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: deleuze-guattari-kafka-minor-literature
+    pages: 1642-1645
+    author_name: Gilles Deleuze and Felix Guattari
+    author_slug: gilles-deleuze-and-felix-guattari
+    work_title: "From Kafka: Toward a Minor Literature"
+    work_slug: from-kafka-toward-a-minor-literature
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_work_transition_page
+
+  - id: deleuze-guattari-thousand-plateaus
+    pages: 1645-1647
+    author_name: Gilles Deleuze and Felix Guattari
+    author_slug: gilles-deleuze-and-felix-guattari
+    work_title: "From A Thousand Plateaus: Capitalism and Schizophrenia"
+    work_slug: from-a-thousand-plateaus-capitalism-and-schizophrenia
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
       - continues_beyond_current_batch

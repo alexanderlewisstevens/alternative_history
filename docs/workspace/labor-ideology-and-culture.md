@@ -44,6 +44,12 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/sartre-what-is-literature/"><strong>Jean-Paul Sartre, What Is Literature?</strong><span>literature, freedom, responsibility; pages 1380-1393; 14 review rows</span></a>
   <a href="../norton-texts/beauvoir-second-sex/"><strong>Simone de Beauvoir, The Second Sex</strong><span>feminism, gender, myth; pages 1450-1458; 9 review rows</span></a>
   <a href="../norton-texts/levi-strauss-tristes-tropiques/"><strong>Claude Levi-Strauss, Tristes Tropiques</strong><span>anthropology, structuralism, writing; pages 1463-1470; 8 review rows</span></a>
+  <a href="../norton-texts/barthes-mythologies/"><strong>Roland Barthes, Mythologies</strong><span>myth, semiology, mass-culture; pages 1505-1508; 4 review rows</span></a>
+  <a href="../norton-texts/althusser-letter-on-art/"><strong>Louis Althusser, A Letter on Art in Reply to Andre Daspre</strong><span>art, ideology, marxism; pages 1524-1526; 3 review rows</span></a>
+  <a href="../norton-texts/althusser-ideology-state-apparatuses/"><strong>Louis Althusser, Ideology and Ideological State Apparatuses</strong><span>ideology, education, state; pages 1527-1551; 25 review rows</span></a>
+  <a href="../norton-texts/howe-history-novel/"><strong>Irving Howe, History and the Novel</strong><span>history, novel, politics; pages 1579-1590; 12 review rows</span></a>
+  <a href="../norton-texts/williams-marxism-literature/"><strong>Raymond Williams, Marxism and Literature</strong><span>culture, marxism, literature; pages 1611-1618; 8 review rows</span></a>
+  <a href="../norton-texts/fanon-wretched-earth/"><strong>Frantz Fanon, The Wretched of the Earth</strong><span>colonialism, nationalism, culture; pages 1622-1636; 15 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -77,6 +83,12 @@ This is a scaffold for reading the configured texts together. It should become a
 19. [Jean-Paul Sartre, What Is Literature?](norton-texts/sartre-what-is-literature.md)
 20. [Simone de Beauvoir, The Second Sex](norton-texts/beauvoir-second-sex.md)
 21. [Claude Levi-Strauss, Tristes Tropiques](norton-texts/levi-strauss-tristes-tropiques.md)
+22. [Roland Barthes, Mythologies](norton-texts/barthes-mythologies.md)
+23. [Louis Althusser, A Letter on Art in Reply to Andre Daspre](norton-texts/althusser-letter-on-art.md)
+24. [Louis Althusser, Ideology and Ideological State Apparatuses](norton-texts/althusser-ideology-state-apparatuses.md)
+25. [Irving Howe, History and the Novel](norton-texts/howe-history-novel.md)
+26. [Raymond Williams, Marxism and Literature](norton-texts/williams-marxism-literature.md)
+27. [Frantz Fanon, The Wretched of the Earth](norton-texts/fanon-wretched-earth.md)
 
 ## Review Pressure
 
@@ -103,6 +115,12 @@ This is a scaffold for reading the configured texts together. It should become a
 | [What Is Literature?](norton-texts/sartre-what-is-literature.md) | 1380-1393 | 14 | excerpt: 14 |
 | [The Second Sex](norton-texts/beauvoir-second-sex.md) | 1450-1458 | 9 | excerpt: 9 |
 | [Tristes Tropiques](norton-texts/levi-strauss-tristes-tropiques.md) | 1463-1470 | 8 | excerpt: 8 |
+| [Mythologies](norton-texts/barthes-mythologies.md) | 1505-1508 | 4 | excerpt: 4 |
+| [A Letter on Art in Reply to Andre Daspre](norton-texts/althusser-letter-on-art.md) | 1524-1526 | 3 | excerpt: 3 |
+| [Ideology and Ideological State Apparatuses](norton-texts/althusser-ideology-state-apparatuses.md) | 1527-1551 | 25 | excerpt: 25 |
+| [History and the Novel](norton-texts/howe-history-novel.md) | 1579-1590 | 12 | excerpt: 12 |
+| [Marxism and Literature](norton-texts/williams-marxism-literature.md) | 1611-1618 | 8 | excerpt: 8 |
+| [The Wretched of the Earth](norton-texts/fanon-wretched-earth.md) | 1622-1636 | 15 | excerpt: 15 |
 
 ## Passage Queue
 
@@ -156,8 +174,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:51:26Z` |
-| Git commit | `1dc0dd5` |
+| Generated at | `2026-06-13T06:06:05Z` |
+| Git commit | `e71f735` |
 | Script version | `2` |
 | Output path | `docs/workspace/labor-ideology-and-culture.md` |
 

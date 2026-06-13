@@ -56,6 +56,11 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/wimsatt-beardsley-affective-fallacy/"><strong>William K. Wimsatt Jr. and Monroe C. Beardsley, The Affective Fallacy</strong><span>affect, reader-response, formalism; pages 1431-1446; 16 review rows</span></a>
   <a href="../norton-texts/levi-strauss-tristes-tropiques/"><strong>Claude Levi-Strauss, Tristes Tropiques</strong><span>anthropology, structuralism, writing; pages 1463-1470; 8 review rows</span></a>
   <a href="../norton-texts/austin-performative-utterances/"><strong>J. L. Austin, Performative Utterances</strong><span>speech-acts, ordinary-language, performativity; pages 1474-1485; 12 review rows</span></a>
+  <a href="../norton-texts/barthes-mythologies/"><strong>Roland Barthes, Mythologies</strong><span>myth, semiology, mass-culture; pages 1505-1508; 4 review rows</span></a>
+  <a href="../norton-texts/barthes-work-to-text/"><strong>Roland Barthes, Work to Text</strong><span>textuality, intertextuality, reader; pages 1512-1518; 7 review rows</span></a>
+  <a href="../norton-texts/de-man-semiology-rhetoric/"><strong>Paul de Man, Semiology and Rhetoric</strong><span>rhetoric, deconstruction, reading; pages 1558-1570; 13 review rows</span></a>
+  <a href="../norton-texts/williams-marxism-literature/"><strong>Raymond Williams, Marxism and Literature</strong><span>culture, marxism, literature; pages 1611-1618; 8 review rows</span></a>
+  <a href="../norton-texts/deleuze-guattari-thousand-plateaus/"><strong>Gilles Deleuze and Felix Guattari, A Thousand Plateaus</strong><span>rhizome, multiplicity, mapping; pages 1645-1647; 3 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -101,6 +106,11 @@ This is a scaffold for reading the configured texts together. It should become a
 31. [William K. Wimsatt Jr. and Monroe C. Beardsley, The Affective Fallacy](norton-texts/wimsatt-beardsley-affective-fallacy.md)
 32. [Claude Levi-Strauss, Tristes Tropiques](norton-texts/levi-strauss-tristes-tropiques.md)
 33. [J. L. Austin, Performative Utterances](norton-texts/austin-performative-utterances.md)
+34. [Roland Barthes, Mythologies](norton-texts/barthes-mythologies.md)
+35. [Roland Barthes, Work to Text](norton-texts/barthes-work-to-text.md)
+36. [Paul de Man, Semiology and Rhetoric](norton-texts/de-man-semiology-rhetoric.md)
+37. [Raymond Williams, Marxism and Literature](norton-texts/williams-marxism-literature.md)
+38. [Gilles Deleuze and Felix Guattari, A Thousand Plateaus](norton-texts/deleuze-guattari-thousand-plateaus.md)
 
 ## Review Pressure
 
@@ -139,6 +149,11 @@ This is a scaffold for reading the configured texts together. It should become a
 | [The Affective Fallacy](norton-texts/wimsatt-beardsley-affective-fallacy.md) | 1431-1446 | 16 | excerpt: 16 |
 | [Tristes Tropiques](norton-texts/levi-strauss-tristes-tropiques.md) | 1463-1470 | 8 | excerpt: 8 |
 | [Performative Utterances](norton-texts/austin-performative-utterances.md) | 1474-1485 | 12 | excerpt: 12 |
+| [Mythologies](norton-texts/barthes-mythologies.md) | 1505-1508 | 4 | excerpt: 4 |
+| [Work to Text](norton-texts/barthes-work-to-text.md) | 1512-1518 | 7 | excerpt: 7 |
+| [Semiology and Rhetoric](norton-texts/de-man-semiology-rhetoric.md) | 1558-1570 | 13 | excerpt: 13 |
+| [Marxism and Literature](norton-texts/williams-marxism-literature.md) | 1611-1618 | 8 | excerpt: 8 |
+| [A Thousand Plateaus](norton-texts/deleuze-guattari-thousand-plateaus.md) | 1645-1647 | 3 | excerpt: 3 |
 
 ## Passage Queue
 
@@ -192,8 +207,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:51:26Z` |
-| Git commit | `1dc0dd5` |
+| Generated at | `2026-06-13T06:06:05Z` |
+| Git commit | `e71f735` |
 | Script version | `2` |
 | Output path | `docs/workspace/media-and-form.md` |
 

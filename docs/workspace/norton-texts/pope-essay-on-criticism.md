@@ -90,8 +90,8 @@ This note turns the current Norton chunk for Alexander Pope into a navigable wor
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/alexander-pope.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T05:51:56Z` |
-| Git commit | `1dc0dd5` |
+| Generated at | `2026-06-13T06:06:12Z` |
+| Git commit | `e71f735` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/pope-essay-on-criticism.md` |
 

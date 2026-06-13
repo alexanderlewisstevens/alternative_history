@@ -986,6 +986,181 @@ curated_texts:
       - performativity
       - philosophy
     status: edition-review-needed
+  - id: frye-archetypes-literature
+    title: The Archetypes of Literature
+    creator: Northrop Frye
+    extraction_work_titles:
+      - The Archetypes of Literature
+    role: core-text-candidate
+    themes:
+      - archetype
+      - myth
+      - criticism
+      - literary-system
+    status: edition-review-needed
+  - id: barthes-mythologies
+    title: Mythologies
+    creator: Roland Barthes
+    extraction_work_titles:
+      - From Mythologies
+      - Mythologies
+    role: core-text-candidate
+    themes:
+      - myth
+      - semiology
+      - mass-culture
+      - ideology
+    status: edition-review-needed
+  - id: barthes-death-author
+    title: The Death of the Author
+    creator: Roland Barthes
+    extraction_work_titles:
+      - The Death of the Author
+    role: core-text-candidate
+    themes:
+      - authorship
+      - reader
+      - poststructuralism
+      - writing
+    status: edition-review-needed
+  - id: barthes-work-to-text
+    title: Work to Text
+    creator: Roland Barthes
+    extraction_work_titles:
+      - From Work to Text
+      - Work to Text
+    role: core-text-candidate
+    themes:
+      - textuality
+      - intertextuality
+      - reader
+      - poststructuralism
+    status: edition-review-needed
+  - id: althusser-letter-on-art
+    title: A Letter on Art in Reply to Andre Daspre
+    creator: Louis Althusser
+    extraction_work_titles:
+      - A Letter on Art in Reply to Andre Daspre
+    role: core-text-candidate
+    themes:
+      - art
+      - ideology
+      - marxism
+      - aesthetics
+    status: edition-review-needed
+  - id: althusser-ideology-state-apparatuses
+    title: Ideology and Ideological State Apparatuses
+    creator: Louis Althusser
+    extraction_work_titles:
+      - Ideology and Ideological State Apparatuses
+    role: core-text-candidate
+    themes:
+      - ideology
+      - education
+      - state
+      - reproduction
+    status: edition-review-needed
+  - id: de-man-semiology-rhetoric
+    title: Semiology and Rhetoric
+    creator: Paul de Man
+    extraction_work_titles:
+      - Semiology and Rhetoric
+    role: core-text-candidate
+    themes:
+      - rhetoric
+      - deconstruction
+      - reading
+      - figuration
+    status: edition-review-needed
+  - id: de-man-return-to-philology
+    title: The Return to Philology
+    creator: Paul de Man
+    extraction_work_titles:
+      - The Return to Philology
+    role: core-text-candidate
+    themes:
+      - philology
+      - theory
+      - pedagogy
+      - rhetoric
+    status: edition-review-needed
+  - id: howe-history-novel
+    title: History and the Novel
+    creator: Irving Howe
+    extraction_work_titles:
+      - History and the Novel
+    role: core-text-candidate
+    themes:
+      - history
+      - novel
+      - politics
+      - realism
+    status: edition-review-needed
+  - id: jauss-literary-history-challenge
+    title: Literary History as a Challenge to Literary Theory
+    creator: Hans Robert Jauss
+    extraction_work_titles:
+      - From Literary History as a Challenge to Literary Theory
+      - Literary History as a Challenge to Literary Theory
+    role: core-text-candidate
+    themes:
+      - reception
+      - literary-history
+      - reader
+      - hermeneutics
+    status: edition-review-needed
+  - id: williams-marxism-literature
+    title: Marxism and Literature
+    creator: Raymond Williams
+    extraction_work_titles:
+      - From Marxism and Literature
+      - Marxism and Literature
+    role: core-text-candidate
+    themes:
+      - culture
+      - marxism
+      - literature
+      - materialism
+    status: edition-review-needed
+  - id: fanon-wretched-earth
+    title: The Wretched of the Earth
+    creator: Frantz Fanon
+    extraction_work_titles:
+      - From The Wretched of the Earth
+      - The Wretched of the Earth
+    role: core-text-candidate
+    themes:
+      - colonialism
+      - nationalism
+      - culture
+      - liberation
+    status: edition-review-needed
+  - id: deleuze-guattari-kafka-minor-literature
+    title: "Kafka: Toward a Minor Literature"
+    creator: Gilles Deleuze and Felix Guattari
+    extraction_work_titles:
+      - "From Kafka: Toward a Minor Literature"
+      - "Kafka: Toward a Minor Literature"
+    role: core-text-candidate
+    themes:
+      - minor-literature
+      - language
+      - politics
+      - collective-enunciation
+    status: edition-review-needed
+  - id: deleuze-guattari-thousand-plateaus
+    title: A Thousand Plateaus
+    creator: Gilles Deleuze and Felix Guattari
+    extraction_work_titles:
+      - "From A Thousand Plateaus: Capitalism and Schizophrenia"
+      - "A Thousand Plateaus: Capitalism and Schizophrenia"
+    role: core-text-candidate
+    themes:
+      - rhizome
+      - multiplicity
+      - mapping
+      - poststructuralism
+    status: edition-review-needed
 
 constellations:
   - id: rhetoric-and-force
@@ -1082,6 +1257,13 @@ constellations:
       - wimsatt-beardsley-intentional-fallacy
       - levi-strauss-tristes-tropiques
       - austin-performative-utterances
+      - frye-archetypes-literature
+      - barthes-work-to-text
+      - de-man-semiology-rhetoric
+      - de-man-return-to-philology
+      - jauss-literary-history-challenge
+      - deleuze-guattari-kafka-minor-literature
+      - deleuze-guattari-thousand-plateaus
     relations:
       - writing
       - interpretation
@@ -1150,6 +1332,14 @@ constellations:
       - burke-kinds-of-criticism
       - wimsatt-beardsley-intentional-fallacy
       - wimsatt-beardsley-affective-fallacy
+      - frye-archetypes-literature
+      - barthes-death-author
+      - barthes-work-to-text
+      - de-man-semiology-rhetoric
+      - de-man-return-to-philology
+      - jauss-literary-history-challenge
+      - williams-marxism-literature
+      - deleuze-guattari-kafka-minor-literature
     relations:
       - commentary
       - transmission
@@ -1192,6 +1382,11 @@ constellations:
       - sartre-what-is-literature
       - wimsatt-beardsley-intentional-fallacy
       - beauvoir-second-sex
+      - althusser-ideology-state-apparatuses
+      - de-man-return-to-philology
+      - jauss-literary-history-challenge
+      - williams-marxism-literature
+      - fanon-wretched-earth
     relations:
       - pedagogy
       - civic-formation
@@ -1223,6 +1418,11 @@ constellations:
       - hughes-negro-artist-racial-mountain
       - levi-strauss-tristes-tropiques
       - austin-performative-utterances
+      - barthes-mythologies
+      - althusser-ideology-state-apparatuses
+      - williams-marxism-literature
+      - fanon-wretched-earth
+      - deleuze-guattari-kafka-minor-literature
     relations:
       - vernacular
       - imitation
@@ -1272,6 +1472,11 @@ constellations:
       - burke-kinds-of-criticism
       - hughes-negro-artist-racial-mountain
       - sartre-what-is-literature
+      - barthes-death-author
+      - barthes-work-to-text
+      - de-man-return-to-philology
+      - howe-history-novel
+      - deleuze-guattari-kafka-minor-literature
     relations:
       - authorship
       - gender
@@ -1312,6 +1517,11 @@ constellations:
       - brooks-well-wrought-urn
       - wimsatt-beardsley-intentional-fallacy
       - wimsatt-beardsley-affective-fallacy
+      - frye-archetypes-literature
+      - de-man-semiology-rhetoric
+      - de-man-return-to-philology
+      - jauss-literary-history-challenge
+      - williams-marxism-literature
     relations:
       - taste
       - criticism
@@ -1374,6 +1584,11 @@ constellations:
       - wimsatt-beardsley-affective-fallacy
       - levi-strauss-tristes-tropiques
       - austin-performative-utterances
+      - barthes-mythologies
+      - barthes-work-to-text
+      - de-man-semiology-rhetoric
+      - williams-marxism-literature
+      - deleuze-guattari-thousand-plateaus
     relations:
       - medium
       - form
@@ -1401,6 +1616,11 @@ constellations:
       - hughes-negro-artist-racial-mountain
       - sartre-what-is-literature
       - beauvoir-second-sex
+      - althusser-letter-on-art
+      - althusser-ideology-state-apparatuses
+      - de-man-return-to-philology
+      - jauss-literary-history-challenge
+      - fanon-wretched-earth
     relations:
       - education
       - freedom
@@ -1447,6 +1667,8 @@ constellations:
       - lukacs-realism-in-the-balance
       - eliot-tradition-individual-talent
       - eliot-metaphysical-poets
+      - williams-marxism-literature
+      - fanon-wretched-earth
     relations:
       - utility
       - aestheticism
@@ -1475,6 +1697,12 @@ constellations:
       - sartre-what-is-literature
       - beauvoir-second-sex
       - levi-strauss-tristes-tropiques
+      - barthes-mythologies
+      - althusser-letter-on-art
+      - althusser-ideology-state-apparatuses
+      - howe-history-novel
+      - williams-marxism-literature
+      - fanon-wretched-earth
     relations:
       - labor
       - ideology
@@ -1513,6 +1741,14 @@ constellations:
       - wimsatt-beardsley-affective-fallacy
       - levi-strauss-tristes-tropiques
       - austin-performative-utterances
+      - frye-archetypes-literature
+      - barthes-death-author
+      - barthes-work-to-text
+      - de-man-semiology-rhetoric
+      - de-man-return-to-philology
+      - jauss-literary-history-challenge
+      - deleuze-guattari-kafka-minor-literature
+      - deleuze-guattari-thousand-plateaus
     relations:
       - language
       - fiction

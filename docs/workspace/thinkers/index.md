@@ -27,6 +27,7 @@ This private index is generated from curated source metadata and local extractio
 | [Edmund Wilson](edmund-wilson.md) | 1 | Marxism and Literature |
 | [Edward Young](edward-young.md) | 1 | Conjectures on Original Composition |
 | [Ferdinand de Saussure](ferdinand-de-saussure.md) | 1 | Course in General Linguistics |
+| [Frantz Fanon](frantz-fanon.md) | 1 | The Wretched of the Earth |
 | [Friedrich Nietzsche](friedrich-nietzsche.md) | 2 | On Truth and Lying in a Non-Moral Sense, The Birth of Tragedy |
 | [Friedrich Schiller](friedrich-schiller.md) | 1 | On the Aesthetic Education of Man |
 | [Friedrich Schleiermacher](friedrich-schleiermacher.md) | 1 | Hermeneutics |
@@ -37,14 +38,17 @@ This private index is generated from curated source metadata and local extractio
 | [Giacopo Mazzoni](giacopo-mazzoni.md) | 1 | On the Defense of the Comedy of Dante |
 | [Giambattista Giraldi](giambattista-giraldi.md) | 1 | Discourse on the Composition of Romances |
 | [Giambattista Vico](giambattista-vico.md) | 1 | The New Science |
+| [Gilles Deleuze and Felix Guattari](gilles-deleuze-and-felix-guattari.md) | 2 | Kafka: Toward a Minor Literature, A Thousand Plateaus |
 | [Giovanni Boccaccio](giovanni-boccaccio.md) | 1 | Genealogy of the Gentile Gods |
 | [Gorgias](gorgias-of-leontini.md) | 1 | Encomium of Helen |
 | [Gotthold Ephraim Lessing](gotthold-ephraim-lessing.md) | 1 | Laocoon |
 | [Gyorgy Lukacs](gyorgy-lukacs.md) | 1 | Realism in the Balance |
+| [Hans Robert Jauss](hans-robert-jauss.md) | 1 | Literary History as a Challenge to Literary Theory |
 | [Henry James](henry-james.md) | 1 | The Art of Fiction |
 | [Horace](horace.md) | 1 | Ars Poetica |
 | [Hugh of St. Victor](hugh-of-st-victor.md) | 1 | The Didascalicon |
 | [Immanuel Kant](immanuel-kant.md) | 1 | Critique of Judgment |
+| [Irving Howe](irving-howe.md) | 1 | History and the Novel |
 | [J. L. Austin](j-l-austin.md) | 1 | Performative Utterances |
 | [Jacques Lacan](jacques-lacan.md) | 3 | The Mirror Stage as Formative of the Function of the I as Revealed in Psychoanalytic Experience, The Agency of the Letter in the Unconscious, The Signification of the Phallus |
 | [Jean-Paul Sartre](jean-paul-sartre.md) | 1 | What Is Literature? |
@@ -57,6 +61,7 @@ This private index is generated from curated source metadata and local extractio
 | [Langston Hughes](langston-hughes.md) | 1 | The Negro Artist and the Racial Mountain |
 | [Leon Trotsky](leon-trotsky.md) | 1 | Literature and Revolution |
 | [Longinus](longinus.md) | 1 | On Sublimity |
+| [Louis Althusser](louis-althusser.md) | 2 | A Letter on Art in Reply to Andre Daspre, Ideology and Ideological State Apparatuses |
 | [Macrobius](macrobius.md) | 1 | Commentary on the Dream of Scipio |
 | [Martin Heidegger](martin-heidegger.md) | 1 | Language |
 | [Mary Wollstonecraft](mary-wollstonecraft.md) | 1 | A Vindication of the Rights of Woman |
@@ -64,7 +69,9 @@ This private index is generated from curated source metadata and local extractio
 | [Max Horkheimer and Theodor W. Adorno](max-horkheimer-and-theodor-w-adorno.md) | 1 | The Culture Industry: Enlightenment as Mass Deception |
 | [Mikhail M. Bakhtin](mikhail-bakhtin.md) | 1 | Discourse in the Novel |
 | [Moses Maimonides](moses-maimonides.md) | 1 | The Guide of the Perplexed |
+| [Northrop Frye](northrop-frye.md) | 1 | The Archetypes of Literature |
 | [Oscar Wilde](oscar-wilde.md) | 1 | Preface to The Picture of Dorian Gray and The Critic as Artist |
+| [Paul de Man](paul-de-man.md) | 2 | Semiology and Rhetoric, The Return to Philology |
 | [Percy Bysshe Shelley](percy-bysshe-shelley.md) | 1 | A Defence of Poetry |
 | [Pierre Corneille](pierre-corneille.md) | 1 | Of the Three Unities of Action, Time, and Place |
 | [Pierre de Ronsard](pierre-de-ronsard.md) | 1 | A Brief on the Art of French Poetry |
@@ -72,6 +79,8 @@ This private index is generated from curated source metadata and local extractio
 | [Plotinus](plotinus.md) | 1 | Selected Enneads |
 | [Quintilian](quintilian.md) | 1 | Institutio Oratoria |
 | [Ralph Waldo Emerson](ralph-waldo-emerson.md) | 1 | The American Scholar and The Poet |
+| [Raymond Williams](raymond-williams.md) | 1 | Marxism and Literature |
+| [Roland Barthes](roland-barthes.md) | 3 | Mythologies, The Death of the Author, Work to Text |
 | [Roman Jakobson](roman-jakobson.md) | 2 | Linguistics and Poetics, Two Aspects of Language and Two Types of Aphasic Disturbances |
 | [Samuel Johnson](samuel-johnson.md) | 1 | Selected Critical Prose |
 | [Samuel Taylor Coleridge](samuel-taylor-coleridge.md) | 1 | The Statesman&#x27;s Manual and Biographia Literaria |
@@ -112,7 +121,7 @@ This private index is generated from curated source metadata and local extractio
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
-| Generated at | `2026-06-13T05:51:53Z` |
-| Git commit | `1dc0dd5` |
+| Generated at | `2026-06-13T06:06:09Z` |
+| Git commit | `e71f735` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/index.md` |

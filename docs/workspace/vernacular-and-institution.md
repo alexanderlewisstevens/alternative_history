@@ -47,6 +47,11 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/hughes-negro-artist-racial-mountain/"><strong>Langston Hughes, The Negro Artist and the Racial Mountain</strong><span>race, art, vernacular; pages 1357-1360; 4 review rows</span></a>
   <a href="../norton-texts/levi-strauss-tristes-tropiques/"><strong>Claude Levi-Strauss, Tristes Tropiques</strong><span>anthropology, structuralism, writing; pages 1463-1470; 8 review rows</span></a>
   <a href="../norton-texts/austin-performative-utterances/"><strong>J. L. Austin, Performative Utterances</strong><span>speech-acts, ordinary-language, performativity; pages 1474-1485; 12 review rows</span></a>
+  <a href="../norton-texts/barthes-mythologies/"><strong>Roland Barthes, Mythologies</strong><span>myth, semiology, mass-culture; pages 1505-1508; 4 review rows</span></a>
+  <a href="../norton-texts/althusser-ideology-state-apparatuses/"><strong>Louis Althusser, Ideology and Ideological State Apparatuses</strong><span>ideology, education, state; pages 1527-1551; 25 review rows</span></a>
+  <a href="../norton-texts/williams-marxism-literature/"><strong>Raymond Williams, Marxism and Literature</strong><span>culture, marxism, literature; pages 1611-1618; 8 review rows</span></a>
+  <a href="../norton-texts/fanon-wretched-earth/"><strong>Frantz Fanon, The Wretched of the Earth</strong><span>colonialism, nationalism, culture; pages 1622-1636; 15 review rows</span></a>
+  <a href="../norton-texts/deleuze-guattari-kafka-minor-literature/"><strong>Gilles Deleuze and Felix Guattari, Kafka: Toward a Minor Literature</strong><span>minor-literature, language, politics; pages 1642-1644; 3 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -83,6 +88,11 @@ This is a scaffold for reading the configured texts together. It should become a
 22. [Langston Hughes, The Negro Artist and the Racial Mountain](norton-texts/hughes-negro-artist-racial-mountain.md)
 23. [Claude Levi-Strauss, Tristes Tropiques](norton-texts/levi-strauss-tristes-tropiques.md)
 24. [J. L. Austin, Performative Utterances](norton-texts/austin-performative-utterances.md)
+25. [Roland Barthes, Mythologies](norton-texts/barthes-mythologies.md)
+26. [Louis Althusser, Ideology and Ideological State Apparatuses](norton-texts/althusser-ideology-state-apparatuses.md)
+27. [Raymond Williams, Marxism and Literature](norton-texts/williams-marxism-literature.md)
+28. [Frantz Fanon, The Wretched of the Earth](norton-texts/fanon-wretched-earth.md)
+29. [Gilles Deleuze and Felix Guattari, Kafka: Toward a Minor Literature](norton-texts/deleuze-guattari-kafka-minor-literature.md)
 
 ## Review Pressure
 
@@ -112,6 +122,11 @@ This is a scaffold for reading the configured texts together. It should become a
 | [The Negro Artist and the Racial Mountain](norton-texts/hughes-negro-artist-racial-mountain.md) | 1357-1360 | 4 | excerpt: 3<br>author_intro: 1 |
 | [Tristes Tropiques](norton-texts/levi-strauss-tristes-tropiques.md) | 1463-1470 | 8 | excerpt: 8 |
 | [Performative Utterances](norton-texts/austin-performative-utterances.md) | 1474-1485 | 12 | excerpt: 12 |
+| [Mythologies](norton-texts/barthes-mythologies.md) | 1505-1508 | 4 | excerpt: 4 |
+| [Ideology and Ideological State Apparatuses](norton-texts/althusser-ideology-state-apparatuses.md) | 1527-1551 | 25 | excerpt: 25 |
+| [Marxism and Literature](norton-texts/williams-marxism-literature.md) | 1611-1618 | 8 | excerpt: 8 |
+| [The Wretched of the Earth](norton-texts/fanon-wretched-earth.md) | 1622-1636 | 15 | excerpt: 15 |
+| [Kafka: Toward a Minor Literature](norton-texts/deleuze-guattari-kafka-minor-literature.md) | 1642-1644 | 3 | excerpt: 3 |
 
 ## Passage Queue
 
@@ -165,8 +180,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:51:25Z` |
-| Git commit | `1dc0dd5` |
+| Generated at | `2026-06-13T06:06:04Z` |
+| Git commit | `e71f735` |
 | Script version | `2` |
 | Output path | `docs/workspace/vernacular-and-institution.md` |
 

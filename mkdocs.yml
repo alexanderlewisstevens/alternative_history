@@ -118,6 +118,20 @@ nav:
           - Beauvoir, The Second Sex: workspace/norton-texts/beauvoir-second-sex.md
           - Levi-Strauss, Tristes Tropiques: workspace/norton-texts/levi-strauss-tristes-tropiques.md
           - Austin, Performative Utterances: workspace/norton-texts/austin-performative-utterances.md
+          - Frye, The Archetypes of Literature: workspace/norton-texts/frye-archetypes-literature.md
+          - Barthes, Mythologies: workspace/norton-texts/barthes-mythologies.md
+          - Barthes, The Death of the Author: workspace/norton-texts/barthes-death-author.md
+          - Barthes, Work to Text: workspace/norton-texts/barthes-work-to-text.md
+          - Althusser, A Letter on Art: workspace/norton-texts/althusser-letter-on-art.md
+          - Althusser, Ideology and Ideological State Apparatuses: workspace/norton-texts/althusser-ideology-state-apparatuses.md
+          - de Man, Semiology and Rhetoric: workspace/norton-texts/de-man-semiology-rhetoric.md
+          - de Man, The Return to Philology: workspace/norton-texts/de-man-return-to-philology.md
+          - Howe, History and the Novel: workspace/norton-texts/howe-history-novel.md
+          - Jauss, Literary History as a Challenge to Literary Theory: workspace/norton-texts/jauss-literary-history-challenge.md
+          - Williams, Marxism and Literature: workspace/norton-texts/williams-marxism-literature.md
+          - Fanon, The Wretched of the Earth: workspace/norton-texts/fanon-wretched-earth.md
+          - "Deleuze and Guattari, Kafka: Toward a Minor Literature": workspace/norton-texts/deleuze-guattari-kafka-minor-literature.md
+          - "Deleuze and Guattari, A Thousand Plateaus": workspace/norton-texts/deleuze-guattari-thousand-plateaus.md
       - Thinker Notes:
           - Index: workspace/thinkers/index.md
           - Gorgias of Leontini: workspace/thinkers/gorgias-of-leontini.md
@@ -201,6 +215,15 @@ nav:
           - Simone de Beauvoir: workspace/thinkers/simone-de-beauvoir.md
           - Claude Levi-Strauss: workspace/thinkers/claude-levi-strauss.md
           - J. L. Austin: workspace/thinkers/j-l-austin.md
+          - Northrop Frye: workspace/thinkers/northrop-frye.md
+          - Roland Barthes: workspace/thinkers/roland-barthes.md
+          - Louis Althusser: workspace/thinkers/louis-althusser.md
+          - Paul de Man: workspace/thinkers/paul-de-man.md
+          - Irving Howe: workspace/thinkers/irving-howe.md
+          - Hans Robert Jauss: workspace/thinkers/hans-robert-jauss.md
+          - Raymond Williams: workspace/thinkers/raymond-williams.md
+          - Frantz Fanon: workspace/thinkers/frantz-fanon.md
+          - Gilles Deleuze and Felix Guattari: workspace/thinkers/gilles-deleuze-and-felix-guattari.md
       - Passage Notes:
           - Index: workspace/passages/index.md
           - Speech As Force: workspace/passages/gorgias-speech-as-force.md

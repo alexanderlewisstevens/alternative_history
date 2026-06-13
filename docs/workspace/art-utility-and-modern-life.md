@@ -36,6 +36,8 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/lukacs-realism-in-the-balance/"><strong>Gyorgy Lukacs, Realism in the Balance</strong><span>realism, marxism, modernism; pages 1077-1101; 25 review rows</span></a>
   <a href="../norton-texts/eliot-tradition-individual-talent/"><strong>T. S. Eliot, Tradition and the Individual Talent</strong><span>tradition, canon, modernism; pages 1136-1140; 5 review rows</span></a>
   <a href="../norton-texts/eliot-metaphysical-poets/"><strong>T. S. Eliot, The Metaphysical Poets</strong><span>modernism, poetry, sensibility; pages 1141-1148; 8 review rows</span></a>
+  <a href="../norton-texts/williams-marxism-literature/"><strong>Raymond Williams, Marxism and Literature</strong><span>culture, marxism, literature; pages 1611-1618; 8 review rows</span></a>
+  <a href="../norton-texts/fanon-wretched-earth/"><strong>Frantz Fanon, The Wretched of the Earth</strong><span>colonialism, nationalism, culture; pages 1622-1636; 15 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -61,6 +63,8 @@ This is a scaffold for reading the configured texts together. It should become a
 11. [Gyorgy Lukacs, Realism in the Balance](norton-texts/lukacs-realism-in-the-balance.md)
 12. [T. S. Eliot, Tradition and the Individual Talent](norton-texts/eliot-tradition-individual-talent.md)
 13. [T. S. Eliot, The Metaphysical Poets](norton-texts/eliot-metaphysical-poets.md)
+14. [Raymond Williams, Marxism and Literature](norton-texts/williams-marxism-literature.md)
+15. [Frantz Fanon, The Wretched of the Earth](norton-texts/fanon-wretched-earth.md)
 
 ## Review Pressure
 
@@ -79,6 +83,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Realism in the Balance](norton-texts/lukacs-realism-in-the-balance.md) | 1077-1101 | 25 | excerpt: 25 |
 | [Tradition and the Individual Talent](norton-texts/eliot-tradition-individual-talent.md) | 1136-1140 | 5 | excerpt: 5 |
 | [The Metaphysical Poets](norton-texts/eliot-metaphysical-poets.md) | 1141-1148 | 8 | excerpt: 8 |
+| [Marxism and Literature](norton-texts/williams-marxism-literature.md) | 1611-1618 | 8 | excerpt: 8 |
+| [The Wretched of the Earth](norton-texts/fanon-wretched-earth.md) | 1622-1636 | 15 | excerpt: 15 |
 
 ## Passage Queue
 
@@ -132,8 +138,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:51:26Z` |
-| Git commit | `1dc0dd5` |
+| Generated at | `2026-06-13T06:06:05Z` |
+| Git commit | `e71f735` |
 | Script version | `2` |
 | Output path | `docs/workspace/art-utility-and-modern-life.md` |
 

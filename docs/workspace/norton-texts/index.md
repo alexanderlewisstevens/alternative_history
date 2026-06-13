@@ -10,11 +10,11 @@ This index is generated from curated source metadata and local extraction audit 
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Curated Text Nodes</div>
-  <div class="ah-metric-value">88</div>
+  <div class="ah-metric-value">102</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Assembled Chunks</div>
-  <div class="ah-metric-value">88</div>
+  <div class="ah-metric-value">102</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Constellations</div>
@@ -114,6 +114,20 @@ This index is generated from curated source metadata and local extraction audit 
 | [The Second Sex](beauvoir-second-sex.md) | Simone de Beauvoir | 1447-1458 | [education-and-civic-life](../education-and-civic-life.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 12 | `edition-review-needed` |
 | [Tristes Tropiques](levi-strauss-tristes-tropiques.md) | Claude Levi-Strauss | 1459-1470 | [signs-and-reading](../signs-and-reading.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[media-and-form](../media-and-form.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 12 | `edition-review-needed` |
 | [Performative Utterances](austin-performative-utterances.md) | J. L. Austin | 1471-1485 | [signs-and-reading](../signs-and-reading.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[media-and-form](../media-and-form.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 15 | `edition-review-needed` |
+| [The Archetypes of Literature](frye-archetypes-literature.md) | Northrop Frye | 1486-1500 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 15 | `edition-review-needed` |
+| [Mythologies](barthes-mythologies.md) | Roland Barthes | 1501-1518 | [vernacular-and-institution](../vernacular-and-institution.md)<br>[media-and-form](../media-and-form.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 18 | `edition-review-needed` |
+| [The Death of the Author](barthes-death-author.md) | Roland Barthes | 1501-1518 | [commentary-and-afterlife](../commentary-and-afterlife.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 18 | `edition-review-needed` |
+| [Work to Text](barthes-work-to-text.md) | Roland Barthes | 1501-1518 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[media-and-form](../media-and-form.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 18 | `edition-review-needed` |
+| [A Letter on Art in Reply to Andre Daspre](althusser-letter-on-art.md) | Louis Althusser | 1519-1551 | [aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 33 | `edition-review-needed` |
+| [Ideology and Ideological State Apparatuses](althusser-ideology-state-apparatuses.md) | Louis Althusser | 1519-1551 | [education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 33 | `edition-review-needed` |
+| [Semiology and Rhetoric](de-man-semiology-rhetoric.md) | Paul de Man | 1552-1575 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[media-and-form](../media-and-form.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 23 | `edition-review-needed` |
+| [The Return to Philology](de-man-return-to-philology.md) | Paul de Man | 1552-1575 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 23 | `edition-review-needed` |
+| [History and the Novel](howe-history-novel.md) | Irving Howe | 1576-1590 | [authorship-and-authority](../authorship-and-authority.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 15 | `edition-review-needed` |
+| [Literary History as a Challenge to Literary Theory](jauss-literary-history-challenge.md) | Hans Robert Jauss | 1591-1608 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 18 | `edition-review-needed` |
+| [Marxism and Literature](williams-marxism-literature.md) | Raymond Williams | 1609-1618 | [commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[media-and-form](../media-and-form.md)<br>[art-utility-and-modern-life](../art-utility-and-modern-life.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 10 | `edition-review-needed` |
+| [The Wretched of the Earth](fanon-wretched-earth.md) | Frantz Fanon | 1619-1636 | [education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[art-utility-and-modern-life](../art-utility-and-modern-life.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 18 | `edition-review-needed` |
+| [Kafka: Toward a Minor Literature](deleuze-guattari-kafka-minor-literature.md) | Gilles Deleuze and Felix Guattari | 1637-1647 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 11 | `edition-review-needed` |
+| [A Thousand Plateaus](deleuze-guattari-thousand-plateaus.md) | Gilles Deleuze and Felix Guattari | 1637-1647 | [signs-and-reading](../signs-and-reading.md)<br>[media-and-form](../media-and-form.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 11 | `edition-review-needed` |
 
 ## How To Use This Index
 
@@ -140,7 +154,7 @@ This index is generated from curated source metadata and local extraction audit 
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T05:51:58Z` |
-| Git commit | `1dc0dd5` |
+| Generated at | `2026-06-13T06:06:14Z` |
+| Git commit | `e71f735` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/index.md` |

@@ -58,6 +58,11 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/sartre-what-is-literature/"><strong>Jean-Paul Sartre, What Is Literature?</strong><span>literature, freedom, responsibility; pages 1380-1393; 14 review rows</span></a>
   <a href="../norton-texts/wimsatt-beardsley-intentional-fallacy/"><strong>William K. Wimsatt Jr. and Monroe C. Beardsley, The Intentional Fallacy</strong><span>intention, authorship, formalism; pages 1418-1430; 13 review rows</span></a>
   <a href="../norton-texts/beauvoir-second-sex/"><strong>Simone de Beauvoir, The Second Sex</strong><span>feminism, gender, myth; pages 1450-1458; 9 review rows</span></a>
+  <a href="../norton-texts/althusser-ideology-state-apparatuses/"><strong>Louis Althusser, Ideology and Ideological State Apparatuses</strong><span>ideology, education, state; pages 1527-1551; 25 review rows</span></a>
+  <a href="../norton-texts/de-man-return-to-philology/"><strong>Paul de Man, The Return to Philology</strong><span>philology, theory, pedagogy; pages 1571-1575; 4 review rows</span></a>
+  <a href="../norton-texts/jauss-literary-history-challenge/"><strong>Hans Robert Jauss, Literary History as a Challenge to Literary Theory</strong><span>reception, literary-history, reader; pages 1594-1608; 15 review rows</span></a>
+  <a href="../norton-texts/williams-marxism-literature/"><strong>Raymond Williams, Marxism and Literature</strong><span>culture, marxism, literature; pages 1611-1618; 8 review rows</span></a>
+  <a href="../norton-texts/fanon-wretched-earth/"><strong>Frantz Fanon, The Wretched of the Earth</strong><span>colonialism, nationalism, culture; pages 1622-1636; 15 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -105,6 +110,11 @@ This is a scaffold for reading the configured texts together. It should become a
 33. [Jean-Paul Sartre, What Is Literature?](norton-texts/sartre-what-is-literature.md)
 34. [William K. Wimsatt Jr. and Monroe C. Beardsley, The Intentional Fallacy](norton-texts/wimsatt-beardsley-intentional-fallacy.md)
 35. [Simone de Beauvoir, The Second Sex](norton-texts/beauvoir-second-sex.md)
+36. [Louis Althusser, Ideology and Ideological State Apparatuses](norton-texts/althusser-ideology-state-apparatuses.md)
+37. [Paul de Man, The Return to Philology](norton-texts/de-man-return-to-philology.md)
+38. [Hans Robert Jauss, Literary History as a Challenge to Literary Theory](norton-texts/jauss-literary-history-challenge.md)
+39. [Raymond Williams, Marxism and Literature](norton-texts/williams-marxism-literature.md)
+40. [Frantz Fanon, The Wretched of the Earth](norton-texts/fanon-wretched-earth.md)
 
 ## Review Pressure
 
@@ -145,6 +155,11 @@ This is a scaffold for reading the configured texts together. It should become a
 | [What Is Literature?](norton-texts/sartre-what-is-literature.md) | 1380-1393 | 14 | excerpt: 14 |
 | [The Intentional Fallacy](norton-texts/wimsatt-beardsley-intentional-fallacy.md) | 1418-1430 | 13 | excerpt: 13 |
 | [The Second Sex](norton-texts/beauvoir-second-sex.md) | 1450-1458 | 9 | excerpt: 9 |
+| [Ideology and Ideological State Apparatuses](norton-texts/althusser-ideology-state-apparatuses.md) | 1527-1551 | 25 | excerpt: 25 |
+| [The Return to Philology](norton-texts/de-man-return-to-philology.md) | 1571-1575 | 4 | excerpt: 5 |
+| [Literary History as a Challenge to Literary Theory](norton-texts/jauss-literary-history-challenge.md) | 1594-1608 | 15 | excerpt: 15 |
+| [Marxism and Literature](norton-texts/williams-marxism-literature.md) | 1611-1618 | 8 | excerpt: 8 |
+| [The Wretched of the Earth](norton-texts/fanon-wretched-earth.md) | 1622-1636 | 15 | excerpt: 15 |
 
 ## Passage Queue
 
@@ -198,8 +213,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:51:25Z` |
-| Git commit | `1dc0dd5` |
+| Generated at | `2026-06-13T06:06:04Z` |
+| Git commit | `e71f735` |
 | Script version | `2` |
 | Output path | `docs/workspace/education-and-civic-life.md` |
 

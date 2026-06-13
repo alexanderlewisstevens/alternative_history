@@ -52,6 +52,11 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/burke-kinds-of-criticism/"><strong>Kenneth Burke, Kinds of Criticism</strong><span>rhetoric, criticism, method; pages 1316-1321; 6 review rows</span></a>
   <a href="../norton-texts/hughes-negro-artist-racial-mountain/"><strong>Langston Hughes, The Negro Artist and the Racial Mountain</strong><span>race, art, vernacular; pages 1357-1360; 4 review rows</span></a>
   <a href="../norton-texts/sartre-what-is-literature/"><strong>Jean-Paul Sartre, What Is Literature?</strong><span>literature, freedom, responsibility; pages 1380-1393; 14 review rows</span></a>
+  <a href="../norton-texts/barthes-death-author/"><strong>Roland Barthes, The Death of the Author</strong><span>authorship, reader, poststructuralism; pages 1509-1511; 3 review rows</span></a>
+  <a href="../norton-texts/barthes-work-to-text/"><strong>Roland Barthes, Work to Text</strong><span>textuality, intertextuality, reader; pages 1512-1518; 7 review rows</span></a>
+  <a href="../norton-texts/de-man-return-to-philology/"><strong>Paul de Man, The Return to Philology</strong><span>philology, theory, pedagogy; pages 1571-1575; 4 review rows</span></a>
+  <a href="../norton-texts/howe-history-novel/"><strong>Irving Howe, History and the Novel</strong><span>history, novel, politics; pages 1579-1590; 12 review rows</span></a>
+  <a href="../norton-texts/deleuze-guattari-kafka-minor-literature/"><strong>Gilles Deleuze and Felix Guattari, Kafka: Toward a Minor Literature</strong><span>minor-literature, language, politics; pages 1642-1644; 3 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -93,6 +98,11 @@ This is a scaffold for reading the configured texts together. It should become a
 27. [Kenneth Burke, Kinds of Criticism](norton-texts/burke-kinds-of-criticism.md)
 28. [Langston Hughes, The Negro Artist and the Racial Mountain](norton-texts/hughes-negro-artist-racial-mountain.md)
 29. [Jean-Paul Sartre, What Is Literature?](norton-texts/sartre-what-is-literature.md)
+30. [Roland Barthes, The Death of the Author](norton-texts/barthes-death-author.md)
+31. [Roland Barthes, Work to Text](norton-texts/barthes-work-to-text.md)
+32. [Paul de Man, The Return to Philology](norton-texts/de-man-return-to-philology.md)
+33. [Irving Howe, History and the Novel](norton-texts/howe-history-novel.md)
+34. [Gilles Deleuze and Felix Guattari, Kafka: Toward a Minor Literature](norton-texts/deleuze-guattari-kafka-minor-literature.md)
 
 ## Review Pressure
 
@@ -127,6 +137,11 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Kinds of Criticism](norton-texts/burke-kinds-of-criticism.md) | 1316-1321 | 6 | excerpt: 6 |
 | [The Negro Artist and the Racial Mountain](norton-texts/hughes-negro-artist-racial-mountain.md) | 1357-1360 | 4 | excerpt: 3<br>author_intro: 1 |
 | [What Is Literature?](norton-texts/sartre-what-is-literature.md) | 1380-1393 | 14 | excerpt: 14 |
+| [The Death of the Author](norton-texts/barthes-death-author.md) | 1509-1511 | 3 | excerpt: 3 |
+| [Work to Text](norton-texts/barthes-work-to-text.md) | 1512-1518 | 7 | excerpt: 7 |
+| [The Return to Philology](norton-texts/de-man-return-to-philology.md) | 1571-1575 | 4 | excerpt: 5 |
+| [History and the Novel](norton-texts/howe-history-novel.md) | 1579-1590 | 12 | excerpt: 12 |
+| [Kafka: Toward a Minor Literature](norton-texts/deleuze-guattari-kafka-minor-literature.md) | 1642-1644 | 3 | excerpt: 3 |
 
 ## Passage Queue
 
@@ -180,8 +195,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:51:25Z` |
-| Git commit | `1dc0dd5` |
+| Generated at | `2026-06-13T06:06:04Z` |
+| Git commit | `e71f735` |
 | Script version | `2` |
 | Output path | `docs/workspace/authorship-and-authority.md` |
 

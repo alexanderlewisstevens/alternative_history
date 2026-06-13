@@ -59,6 +59,14 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/burke-kinds-of-criticism/"><strong>Kenneth Burke, Kinds of Criticism</strong><span>rhetoric, criticism, method; pages 1316-1321; 6 review rows</span></a>
   <a href="../norton-texts/wimsatt-beardsley-intentional-fallacy/"><strong>William K. Wimsatt Jr. and Monroe C. Beardsley, The Intentional Fallacy</strong><span>intention, authorship, formalism; pages 1418-1430; 13 review rows</span></a>
   <a href="../norton-texts/wimsatt-beardsley-affective-fallacy/"><strong>William K. Wimsatt Jr. and Monroe C. Beardsley, The Affective Fallacy</strong><span>affect, reader-response, formalism; pages 1431-1446; 16 review rows</span></a>
+  <a href="../norton-texts/frye-archetypes-literature/"><strong>Northrop Frye, The Archetypes of Literature</strong><span>archetype, myth, criticism; pages 1489-1500; 12 review rows</span></a>
+  <a href="../norton-texts/barthes-death-author/"><strong>Roland Barthes, The Death of the Author</strong><span>authorship, reader, poststructuralism; pages 1509-1511; 3 review rows</span></a>
+  <a href="../norton-texts/barthes-work-to-text/"><strong>Roland Barthes, Work to Text</strong><span>textuality, intertextuality, reader; pages 1512-1518; 7 review rows</span></a>
+  <a href="../norton-texts/de-man-semiology-rhetoric/"><strong>Paul de Man, Semiology and Rhetoric</strong><span>rhetoric, deconstruction, reading; pages 1558-1570; 13 review rows</span></a>
+  <a href="../norton-texts/de-man-return-to-philology/"><strong>Paul de Man, The Return to Philology</strong><span>philology, theory, pedagogy; pages 1571-1575; 4 review rows</span></a>
+  <a href="../norton-texts/jauss-literary-history-challenge/"><strong>Hans Robert Jauss, Literary History as a Challenge to Literary Theory</strong><span>reception, literary-history, reader; pages 1594-1608; 15 review rows</span></a>
+  <a href="../norton-texts/williams-marxism-literature/"><strong>Raymond Williams, Marxism and Literature</strong><span>culture, marxism, literature; pages 1611-1618; 8 review rows</span></a>
+  <a href="../norton-texts/deleuze-guattari-kafka-minor-literature/"><strong>Gilles Deleuze and Felix Guattari, Kafka: Toward a Minor Literature</strong><span>minor-literature, language, politics; pages 1642-1644; 3 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -107,6 +115,14 @@ This is a scaffold for reading the configured texts together. It should become a
 34. [Kenneth Burke, Kinds of Criticism](norton-texts/burke-kinds-of-criticism.md)
 35. [William K. Wimsatt Jr. and Monroe C. Beardsley, The Intentional Fallacy](norton-texts/wimsatt-beardsley-intentional-fallacy.md)
 36. [William K. Wimsatt Jr. and Monroe C. Beardsley, The Affective Fallacy](norton-texts/wimsatt-beardsley-affective-fallacy.md)
+37. [Northrop Frye, The Archetypes of Literature](norton-texts/frye-archetypes-literature.md)
+38. [Roland Barthes, The Death of the Author](norton-texts/barthes-death-author.md)
+39. [Roland Barthes, Work to Text](norton-texts/barthes-work-to-text.md)
+40. [Paul de Man, Semiology and Rhetoric](norton-texts/de-man-semiology-rhetoric.md)
+41. [Paul de Man, The Return to Philology](norton-texts/de-man-return-to-philology.md)
+42. [Hans Robert Jauss, Literary History as a Challenge to Literary Theory](norton-texts/jauss-literary-history-challenge.md)
+43. [Raymond Williams, Marxism and Literature](norton-texts/williams-marxism-literature.md)
+44. [Gilles Deleuze and Felix Guattari, Kafka: Toward a Minor Literature](norton-texts/deleuze-guattari-kafka-minor-literature.md)
 
 ## Review Pressure
 
@@ -148,6 +164,14 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Kinds of Criticism](norton-texts/burke-kinds-of-criticism.md) | 1316-1321 | 6 | excerpt: 6 |
 | [The Intentional Fallacy](norton-texts/wimsatt-beardsley-intentional-fallacy.md) | 1418-1430 | 13 | excerpt: 13 |
 | [The Affective Fallacy](norton-texts/wimsatt-beardsley-affective-fallacy.md) | 1431-1446 | 16 | excerpt: 16 |
+| [The Archetypes of Literature](norton-texts/frye-archetypes-literature.md) | 1489-1500 | 12 | excerpt: 12 |
+| [The Death of the Author](norton-texts/barthes-death-author.md) | 1509-1511 | 3 | excerpt: 3 |
+| [Work to Text](norton-texts/barthes-work-to-text.md) | 1512-1518 | 7 | excerpt: 7 |
+| [Semiology and Rhetoric](norton-texts/de-man-semiology-rhetoric.md) | 1558-1570 | 13 | excerpt: 13 |
+| [The Return to Philology](norton-texts/de-man-return-to-philology.md) | 1571-1575 | 4 | excerpt: 5 |
+| [Literary History as a Challenge to Literary Theory](norton-texts/jauss-literary-history-challenge.md) | 1594-1608 | 15 | excerpt: 15 |
+| [Marxism and Literature](norton-texts/williams-marxism-literature.md) | 1611-1618 | 8 | excerpt: 8 |
+| [Kafka: Toward a Minor Literature](norton-texts/deleuze-guattari-kafka-minor-literature.md) | 1642-1644 | 3 | excerpt: 3 |
 
 ## Passage Queue
 
@@ -201,8 +225,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:51:25Z` |
-| Git commit | `1dc0dd5` |
+| Generated at | `2026-06-13T06:06:03Z` |
+| Git commit | `e71f735` |
 | Script version | `2` |
 | Output path | `docs/workspace/commentary-and-afterlife.md` |
 
