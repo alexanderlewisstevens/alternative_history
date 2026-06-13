@@ -93,9 +93,9 @@ This note turns the current Norton chunk for Claude Levi-Strauss into a navigabl
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/claude-levi-strauss.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T06:14:21Z` |
-| Git commit | `2df3079` |
-| Script version | `2` |
+| Generated at | `2026-06-13T06:21:53Z` |
+| Git commit | `37412ef` |
+| Script version | `3` |
 | Output path | `docs/workspace/norton-texts/levi-strauss-tristes-tropiques.md` |
 
 ## Backlinks

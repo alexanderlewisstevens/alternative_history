@@ -5,7 +5,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Boundary Review</div>
-  <div class="ah-metric-value">331</div>
+  <div class="ah-metric-value">343</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Content Separation</div>
@@ -21,7 +21,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">General Review</div>
-  <div class="ah-metric-value">669</div>
+  <div class="ah-metric-value">737</div>
 </div>
 </div>
 
@@ -29,10 +29,10 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 <div class="ah-review-grid">
 <section class="ah-review-card warn">
-  <div class="ah-review-card-kicker">331 pages</div>
+  <div class="ah-review-card-kicker">343 pages</div>
   <h3>Boundary Review</h3>
   <p>Confirm thinker and work boundaries before assembling public-facing drafts.</p>
-  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +319 more</p>
+  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +331 more</p>
 </section>
 <section class="ah-review-card warn">
   <div class="ah-review-card-kicker">9 pages</div>
@@ -53,10 +53,10 @@ This is the editorial queue for restricted extraction work. It is generated from
   <p><strong>Start:</strong> <code>74</code>, <code>98</code>, <code>99</code>, <code>126</code>, <code>185</code>, <code>190</code>, <code>191</code>, <code>192</code>, <code>194</code>, <code>204</code>, <code>213</code>, <code>218</code> +60 more</p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">669 pages</div>
+  <div class="ah-review-card-kicker">737 pages</div>
   <h3>General Review</h3>
   <p>Resolve remaining template or classification questions.</p>
-  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +657 more</p>
+  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +725 more</p>
 </section>
 </div>
 
@@ -72,11 +72,11 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Field | Value |
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
-| Classified source pages | `71-1727` |
-| Review queue rows | `1425` |
+| Classified source pages | `71-1807` |
+| Review queue rows | `1505` |
 | Review queue file | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
-| Generated at | `2026-06-13T06:14:14Z` |
-| Git commit | `2df3079` |
+| Generated at | `2026-06-13T06:21:46Z` |
+| Git commit | `37412ef` |
 | Script version | `1` |
 | Output path | `docs/_meta/review-dashboard.md` |
 
@@ -86,14 +86,15 @@ This is the editorial queue for restricted extraction work. It is generated from
 | --- | ---: |
 | mixed_work_transition_page | 565 |
 | multi_column_layout | 357 |
+| mixed_bibliography_and_work_title | 341 |
+| transition_from_previous_author | 321 |
 | source_notes_detected | 314 |
-| transition_from_previous_author | 309 |
-| mixed_bibliography_and_work_title | 274 |
+| mixed_author_transition_page | 119 |
 | mixed_transition_page | 68 |
-| mixed_author_transition_page | 58 |
 | layout_review_required | 23 |
 | author_boundary_without_life_dates | 20 |
-| continues_beyond_current_batch | 13 |
+| continues_beyond_current_batch | 16 |
+| selection_boundary_review | 15 |
 | mixed_excerpt_and_bibliography | 9 |
 | transition_from_previous_work | 2 |
 | ocr_title_cleanup | 2 |
@@ -114,6 +115,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Karl Marx and Friedrich Engels | 29 |
 | Gyorgy Lukacs | 28 |
 | Friedrich Nietzsche | 27 |
+| E. D. Hirsch Jr. | 27 |
 | Aristotle | 23 |
 | Walter Benjamin | 23 |
 | Paul de Man | 23 |
@@ -124,11 +126,13 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Cleanth Brooks | 21 |
 | Alexander Pope | 20 |
 | Max Horkheimer and Theodor W. Adorno | 20 |
+| Hayden White | 20 |
 | Longinus | 19 |
 | Percy Bysshe Shelley | 19 |
 | Roland Barthes | 18 |
 | Hans Robert Jauss | 18 |
 | Frantz Fanon | 18 |
+| Jurgen Habermas | 18 |
 | T. S. Eliot | 17 |
 | Zora Neale Hurston | 17 |
 | Jean-Paul Sartre | 17 |
@@ -156,6 +160,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Simone de Beauvoir | 12 |
 | Claude Levi-Strauss | 12 |
 | Wolfgang Iser | 12 |
+| Jean Baudrillard | 12 |
 | Joachim du Bellay | 11 |
 | Pierre Corneille | 11 |
 | Aphra Behn | 11 |
@@ -192,10 +197,10 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Jean-Francois Lyotard | 6 |
 | Dante Alighieri | 5 |
 | Pierre de Ronsard | 5 |
+| Adrienne Rich | 5 |
 | Macrobius | 4 |
 | Gorgias of Leontini | 3 |
 | Christine de Pizan | 3 |
-| E. D. Hirsch Jr. | 2 |
 
 ## Boundary Review
 
@@ -530,8 +535,20 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 1714 | Wolfgang Iser | From Truth and Power | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1714.md |
 | 1715 | Wolfgang Iser | Wolfgang Is Er | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1715.md |
 | 1716 | Wolfgang Iser |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1716.md |
-| 1726 | E. D. Hirsch Jr. | Interaction between Text and Reader | continues_beyond_current_batch;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1726.md |
-| 1727 | E. D. Hirsch Jr. |  | continues_beyond_current_batch;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1727.md |
+| 1726 | E. D. Hirsch Jr. | Interaction between Text and Reader | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1726.md |
+| 1727 | E. D. Hirsch Jr. |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1727.md |
+| 1753 | Hayden White | Objective Interpretation | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1753.md |
+| 1754 | Hayden White |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1754.md |
+| 1755 | Hayden White | Hayden White | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1755.md |
+| 1773 | Jean Baudrillard | The Historical Text as Literary Artifact | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1773.md |
+| 1774 | Jean Baudrillard |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1774.md |
+| 1775 | Jean Baudrillard |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1775.md |
+| 1785 | Jurgen Habermas | The Precession of Simulacra | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1785.md |
+| 1786 | Jurgen Habermas |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1786.md |
+| 1787 | Jurgen Habermas |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1787.md |
+| 1803 | Adrienne Rich | Modernity - An Incomplete Project | continues_beyond_current_batch;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1803.md |
+| 1804 | Adrienne Rich |  | continues_beyond_current_batch;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1804.md |
+| 1805 | Adrienne Rich |  | continues_beyond_current_batch;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1805.md |
 
 ## Content Separation
 
@@ -1646,3 +1663,71 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 1723 | Wolfgang Iser | Interaction between Text and Reader | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1723.md |
 | 1724 | Wolfgang Iser | Interaction between Text and Reader | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1724.md |
 | 1725 | Wolfgang Iser | Interaction between Text and Reader | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1725.md |
+| 1728 | E. D. Hirsch Jr. | Objective Interpretation | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1728.md |
+| 1729 | E. D. Hirsch Jr. | Objective Interpretation | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1729.md |
+| 1730 | E. D. Hirsch Jr. | Objective Interpretation | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1730.md |
+| 1731 | E. D. Hirsch Jr. | Objective Interpretation | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1731.md |
+| 1732 | E. D. Hirsch Jr. | Objective Interpretation | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1732.md |
+| 1733 | E. D. Hirsch Jr. | Objective Interpretation | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1733.md |
+| 1734 | E. D. Hirsch Jr. | Objective Interpretation | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1734.md |
+| 1735 | E. D. Hirsch Jr. | Objective Interpretation | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1735.md |
+| 1736 | E. D. Hirsch Jr. | Objective Interpretation | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1736.md |
+| 1737 | E. D. Hirsch Jr. | Objective Interpretation | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1737.md |
+| 1738 | E. D. Hirsch Jr. | Objective Interpretation | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1738.md |
+| 1739 | E. D. Hirsch Jr. | Objective Interpretation | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1739.md |
+| 1740 | E. D. Hirsch Jr. | Objective Interpretation | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1740.md |
+| 1741 | E. D. Hirsch Jr. | Objective Interpretation | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1741.md |
+| 1742 | E. D. Hirsch Jr. | Objective Interpretation | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1742.md |
+| 1743 | E. D. Hirsch Jr. | Objective Interpretation | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1743.md |
+| 1744 | E. D. Hirsch Jr. | Objective Interpretation | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1744.md |
+| 1745 | E. D. Hirsch Jr. | Objective Interpretation | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1745.md |
+| 1746 | E. D. Hirsch Jr. | Objective Interpretation | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1746.md |
+| 1747 | E. D. Hirsch Jr. | Objective Interpretation | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1747.md |
+| 1748 | E. D. Hirsch Jr. | Objective Interpretation | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1748.md |
+| 1749 | E. D. Hirsch Jr. | Objective Interpretation | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1749.md |
+| 1750 | E. D. Hirsch Jr. | Objective Interpretation | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1750.md |
+| 1751 | E. D. Hirsch Jr. | Objective Interpretation | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1751.md |
+| 1752 | E. D. Hirsch Jr. | Objective Interpretation | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1752.md |
+| 1756 | Hayden White | The Historical Text as Literary Artifact | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1756.md |
+| 1757 | Hayden White | The Historical Text as Literary Artifact | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1757.md |
+| 1758 | Hayden White | The Historical Text as Literary Artifact | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1758.md |
+| 1759 | Hayden White | The Historical Text as Literary Artifact | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1759.md |
+| 1760 | Hayden White | The Historical Text as Literary Artifact | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1760.md |
+| 1761 | Hayden White | The Historical Text as Literary Artifact | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1761.md |
+| 1762 | Hayden White | The Historical Text as Literary Artifact | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1762.md |
+| 1763 | Hayden White | The Historical Text as Literary Artifact | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1763.md |
+| 1764 | Hayden White | The Historical Text as Literary Artifact | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1764.md |
+| 1765 | Hayden White | The Historical Text as Literary Artifact | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1765.md |
+| 1766 | Hayden White | The Historical Text as Literary Artifact | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1766.md |
+| 1767 | Hayden White | The Historical Text as Literary Artifact | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1767.md |
+| 1768 | Hayden White | The Historical Text as Literary Artifact | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1768.md |
+| 1769 | Hayden White | The Historical Text as Literary Artifact | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1769.md |
+| 1770 | Hayden White | The Historical Text as Literary Artifact | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1770.md |
+| 1771 | Hayden White | The Historical Text as Literary Artifact | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1771.md |
+| 1772 | Hayden White | The Historical Text as Literary Artifact | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1772.md |
+| 1776 | Jean Baudrillard | The Precession of Simulacra | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1776.md |
+| 1777 | Jean Baudrillard | The Precession of Simulacra | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1777.md |
+| 1778 | Jean Baudrillard | The Precession of Simulacra | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1778.md |
+| 1779 | Jean Baudrillard | The Precession of Simulacra | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1779.md |
+| 1780 | Jean Baudrillard | The Precession of Simulacra | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1780.md |
+| 1781 | Jean Baudrillard | The Precession of Simulacra | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1781.md |
+| 1782 | Jean Baudrillard | The Precession of Simulacra | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1782.md |
+| 1783 | Jean Baudrillard | The Precession of Simulacra | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1783.md |
+| 1784 | Jean Baudrillard | The Precession of Simulacra | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1784.md |
+| 1788 | Jurgen Habermas | From The Structural Transformation of the Public Sphere | mixed_bibliography_and_work_title;selection_boundary_review | work/page-records/norton-theory-criticism/page_1788.md |
+| 1789 | Jurgen Habermas | From The Structural Transformation of the Public Sphere | mixed_bibliography_and_work_title;selection_boundary_review | work/page-records/norton-theory-criticism/page_1789.md |
+| 1790 | Jurgen Habermas | From The Structural Transformation of the Public Sphere | mixed_bibliography_and_work_title;selection_boundary_review | work/page-records/norton-theory-criticism/page_1790.md |
+| 1791 | Jurgen Habermas | From The Structural Transformation of the Public Sphere | mixed_bibliography_and_work_title;selection_boundary_review | work/page-records/norton-theory-criticism/page_1791.md |
+| 1792 | Jurgen Habermas | From The Structural Transformation of the Public Sphere | mixed_bibliography_and_work_title;selection_boundary_review | work/page-records/norton-theory-criticism/page_1792.md |
+| 1793 | Jurgen Habermas | Modernity - An Incomplete Project | mixed_author_transition_page;selection_boundary_review | work/page-records/norton-theory-criticism/page_1793.md |
+| 1794 | Jurgen Habermas | Modernity - An Incomplete Project | mixed_author_transition_page;selection_boundary_review | work/page-records/norton-theory-criticism/page_1794.md |
+| 1795 | Jurgen Habermas | Modernity - An Incomplete Project | mixed_author_transition_page;selection_boundary_review | work/page-records/norton-theory-criticism/page_1795.md |
+| 1796 | Jurgen Habermas | Modernity - An Incomplete Project | mixed_author_transition_page;selection_boundary_review | work/page-records/norton-theory-criticism/page_1796.md |
+| 1797 | Jurgen Habermas | Modernity - An Incomplete Project | mixed_author_transition_page;selection_boundary_review | work/page-records/norton-theory-criticism/page_1797.md |
+| 1798 | Jurgen Habermas | Modernity - An Incomplete Project | mixed_author_transition_page;selection_boundary_review | work/page-records/norton-theory-criticism/page_1798.md |
+| 1799 | Jurgen Habermas | Modernity - An Incomplete Project | mixed_author_transition_page;selection_boundary_review | work/page-records/norton-theory-criticism/page_1799.md |
+| 1800 | Jurgen Habermas | Modernity - An Incomplete Project | mixed_author_transition_page;selection_boundary_review | work/page-records/norton-theory-criticism/page_1800.md |
+| 1801 | Jurgen Habermas | Modernity - An Incomplete Project | mixed_author_transition_page;selection_boundary_review | work/page-records/norton-theory-criticism/page_1801.md |
+| 1802 | Jurgen Habermas | Modernity - An Incomplete Project | mixed_author_transition_page;selection_boundary_review | work/page-records/norton-theory-criticism/page_1802.md |
+| 1806 | Adrienne Rich | Compulsory Heterosexuality and Lesbian Existence | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1806.md |
+| 1807 | Adrienne Rich | Compulsory Heterosexuality and Lesbian Existence | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1807.md |

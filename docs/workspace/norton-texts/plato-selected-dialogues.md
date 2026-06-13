@@ -91,9 +91,9 @@ This note turns the current Norton chunk for Plato into a navigable workspace no
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/plato.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T06:14:19Z` |
-| Git commit | `2df3079` |
-| Script version | `2` |
+| Generated at | `2026-06-13T06:21:51Z` |
+| Git commit | `37412ef` |
+| Script version | `3` |
 | Output path | `docs/workspace/norton-texts/plato-selected-dialogues.md` |
 
 ## Backlinks

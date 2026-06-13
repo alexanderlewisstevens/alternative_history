@@ -1237,6 +1237,81 @@ curated_texts:
       - gaps
       - communication
     status: edition-review-needed
+  - id: hirsch-objective-interpretation
+    title: Objective Interpretation
+    creator: E. D. Hirsch Jr.
+    extraction_work_titles:
+      - Objective Interpretation
+    role: core-text-candidate
+    themes:
+      - interpretation
+      - intention
+      - meaning
+      - education
+    status: edition-review-needed
+  - id: white-historical-text-literary-artifact
+    title: The Historical Text as Literary Artifact
+    creator: Hayden White
+    extraction_work_titles:
+      - The Historical Text as Literary Artifact
+    role: core-text-candidate
+    themes:
+      - historiography
+      - narrative
+      - emplotment
+      - historical-imagination
+    status: edition-review-needed
+  - id: baudrillard-precession-simulacra
+    title: The Precession of Simulacra
+    creator: Jean Baudrillard
+    extraction_work_titles:
+      - From The Precession of Simulacra
+      - The Precession of Simulacra
+    role: core-text-candidate
+    themes:
+      - simulation
+      - signs
+      - media
+      - hyperreality
+    status: edition-review-needed
+  - id: habermas-public-sphere
+    title: The Structural Transformation of the Public Sphere
+    creator: Jurgen Habermas
+    extraction_work_titles:
+      - From The Structural Transformation of the Public Sphere
+      - The Structural Transformation of the Public Sphere
+    role: core-text-candidate
+    themes:
+      - public-sphere
+      - citizenship
+      - reason
+      - institutions
+    status: edition-review-needed
+  - id: habermas-modernity-incomplete-project
+    title: Modernity - An Incomplete Project
+    creator: Jurgen Habermas
+    extraction_work_titles:
+      - Modernity - An Incomplete Project
+      - Modernity-An Incomplete Project
+    role: core-text-candidate
+    themes:
+      - modernity
+      - enlightenment
+      - culture
+      - public-reason
+    status: edition-review-needed
+  - id: rich-compulsory-heterosexuality
+    title: Compulsory Heterosexuality and Lesbian Existence
+    creator: Adrienne Rich
+    extraction_work_titles:
+      - Compulsory Heterosexuality and Lesbian Existence
+    role: core-text-candidate
+    themes:
+      - feminism
+      - sexuality
+      - institution
+      - power
+    status: edition-review-needed
 
 constellations:
   - id: rhetoric-and-force
@@ -1344,6 +1419,9 @@ constellations:
       - foucault-what-is-an-author
       - foucault-truth-and-power
       - iser-interaction-text-reader
+      - hirsch-objective-interpretation
+      - white-historical-text-literary-artifact
+      - baudrillard-precession-simulacra
     relations:
       - writing
       - interpretation
@@ -1423,6 +1501,11 @@ constellations:
       - foucault-what-is-an-author
       - foucault-truth-and-power
       - iser-interaction-text-reader
+      - hirsch-objective-interpretation
+      - white-historical-text-literary-artifact
+      - habermas-public-sphere
+      - habermas-modernity-incomplete-project
+      - rich-compulsory-heterosexuality
     relations:
       - commentary
       - transmission
@@ -1473,6 +1556,11 @@ constellations:
       - foucault-discipline-and-punish
       - foucault-truth-and-power
       - iser-interaction-text-reader
+      - hirsch-objective-interpretation
+      - white-historical-text-literary-artifact
+      - habermas-public-sphere
+      - habermas-modernity-incomplete-project
+      - rich-compulsory-heterosexuality
     relations:
       - pedagogy
       - civic-formation
@@ -1512,6 +1600,9 @@ constellations:
       - foucault-discipline-and-punish
       - foucault-history-sexuality
       - foucault-truth-and-power
+      - baudrillard-precession-simulacra
+      - habermas-public-sphere
+      - rich-compulsory-heterosexuality
     relations:
       - vernacular
       - imitation
@@ -1568,6 +1659,9 @@ constellations:
       - deleuze-guattari-kafka-minor-literature
       - foucault-what-is-an-author
       - iser-interaction-text-reader
+      - hirsch-objective-interpretation
+      - white-historical-text-literary-artifact
+      - rich-compulsory-heterosexuality
     relations:
       - authorship
       - gender
@@ -1685,6 +1779,9 @@ constellations:
       - lyotard-defining-postmodern
       - foucault-what-is-an-author
       - iser-interaction-text-reader
+      - white-historical-text-literary-artifact
+      - baudrillard-precession-simulacra
+      - habermas-modernity-incomplete-project
     relations:
       - medium
       - form
@@ -1720,6 +1817,10 @@ constellations:
       - lyotard-defining-postmodern
       - foucault-discipline-and-punish
       - iser-interaction-text-reader
+      - hirsch-objective-interpretation
+      - habermas-public-sphere
+      - habermas-modernity-incomplete-project
+      - rich-compulsory-heterosexuality
     relations:
       - education
       - freedom
@@ -1805,6 +1906,10 @@ constellations:
       - foucault-discipline-and-punish
       - foucault-history-sexuality
       - foucault-truth-and-power
+      - baudrillard-precession-simulacra
+      - habermas-public-sphere
+      - habermas-modernity-incomplete-project
+      - rich-compulsory-heterosexuality
     relations:
       - labor
       - ideology
@@ -1855,6 +1960,12 @@ constellations:
       - foucault-what-is-an-author
       - foucault-truth-and-power
       - iser-interaction-text-reader
+      - hirsch-objective-interpretation
+      - white-historical-text-literary-artifact
+      - baudrillard-precession-simulacra
+      - habermas-public-sphere
+      - habermas-modernity-incomplete-project
+      - rich-compulsory-heterosexuality
     relations:
       - language
       - fiction

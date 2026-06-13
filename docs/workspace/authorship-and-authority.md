@@ -59,6 +59,9 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/deleuze-guattari-kafka-minor-literature/"><strong>Gilles Deleuze and Felix Guattari, Kafka: Toward a Minor Literature</strong><span>minor-literature, language, politics; pages 1642-1644; 3 review rows</span></a>
   <a href="../norton-texts/foucault-what-is-an-author/"><strong>Michel Foucault, What Is an Author?</strong><span>authorship, discourse, institution; pages 1666-1674; 9 review rows</span></a>
   <a href="../norton-texts/iser-interaction-text-reader/"><strong>Wolfgang Iser, Interaction Between Text and Reader</strong><span>reader-response, interpretation, gaps; pages 1717-1725; 9 review rows</span></a>
+  <a href="../norton-texts/hirsch-objective-interpretation/"><strong>E. D. Hirsch Jr., Objective Interpretation</strong><span>interpretation, intention, meaning; pages 1728-1752; 25 review rows</span></a>
+  <a href="../norton-texts/white-historical-text-literary-artifact/"><strong>Hayden White, The Historical Text as Literary Artifact</strong><span>historiography, narrative, emplotment; pages 1756-1772; 17 review rows</span></a>
+  <a href="../norton-texts/rich-compulsory-heterosexuality/"><strong>Adrienne Rich, Compulsory Heterosexuality and Lesbian Existence</strong><span>feminism, sexuality, institution; pages 1806-1807; 2 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -107,6 +110,9 @@ This is a scaffold for reading the configured texts together. It should become a
 34. [Gilles Deleuze and Felix Guattari, Kafka: Toward a Minor Literature](norton-texts/deleuze-guattari-kafka-minor-literature.md)
 35. [Michel Foucault, What Is an Author?](norton-texts/foucault-what-is-an-author.md)
 36. [Wolfgang Iser, Interaction Between Text and Reader](norton-texts/iser-interaction-text-reader.md)
+37. [E. D. Hirsch Jr., Objective Interpretation](norton-texts/hirsch-objective-interpretation.md)
+38. [Hayden White, The Historical Text as Literary Artifact](norton-texts/white-historical-text-literary-artifact.md)
+39. [Adrienne Rich, Compulsory Heterosexuality and Lesbian Existence](norton-texts/rich-compulsory-heterosexuality.md)
 
 ## Review Pressure
 
@@ -148,6 +154,9 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Kafka: Toward a Minor Literature](norton-texts/deleuze-guattari-kafka-minor-literature.md) | 1642-1644 | 3 | excerpt: 3 |
 | [What Is an Author?](norton-texts/foucault-what-is-an-author.md) | 1666-1674 | 9 | excerpt: 9 |
 | [Interaction Between Text and Reader](norton-texts/iser-interaction-text-reader.md) | 1717-1725 | 9 | excerpt: 9 |
+| [Objective Interpretation](norton-texts/hirsch-objective-interpretation.md) | 1728-1752 | 25 | excerpt: 25 |
+| [The Historical Text as Literary Artifact](norton-texts/white-historical-text-literary-artifact.md) | 1756-1772 | 17 | excerpt: 17 |
+| [Compulsory Heterosexuality and Lesbian Existence](norton-texts/rich-compulsory-heterosexuality.md) | 1806-1807 | 2 | excerpt: 2 |
 
 ## Passage Queue
 
@@ -201,8 +210,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T06:12:09Z` |
-| Git commit | `2df3079` |
+| Generated at | `2026-06-13T06:20:08Z` |
+| Git commit | `37412ef` |
 | Script version | `2` |
 | Output path | `docs/workspace/authorship-and-authority.md` |
 

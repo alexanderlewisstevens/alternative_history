@@ -64,6 +64,9 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/lyotard-defining-postmodern/"><strong>Jean-Francois Lyotard, Defining the Postmodern</strong><span>postmodernism, modernity, sublime; pages 1656-1658; 3 review rows</span></a>
   <a href="../norton-texts/foucault-what-is-an-author/"><strong>Michel Foucault, What Is an Author?</strong><span>authorship, discourse, institution; pages 1666-1674; 9 review rows</span></a>
   <a href="../norton-texts/iser-interaction-text-reader/"><strong>Wolfgang Iser, Interaction Between Text and Reader</strong><span>reader-response, interpretation, gaps; pages 1717-1725; 9 review rows</span></a>
+  <a href="../norton-texts/white-historical-text-literary-artifact/"><strong>Hayden White, The Historical Text as Literary Artifact</strong><span>historiography, narrative, emplotment; pages 1756-1772; 17 review rows</span></a>
+  <a href="../norton-texts/baudrillard-precession-simulacra/"><strong>Jean Baudrillard, The Precession of Simulacra</strong><span>simulation, signs, media; pages 1776-1784; 9 review rows</span></a>
+  <a href="../norton-texts/habermas-modernity-incomplete-project/"><strong>Jurgen Habermas, Modernity - An Incomplete Project</strong><span>modernity, enlightenment, culture; pages 1793-1802; 10 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -117,6 +120,9 @@ This is a scaffold for reading the configured texts together. It should become a
 39. [Jean-Francois Lyotard, Defining the Postmodern](norton-texts/lyotard-defining-postmodern.md)
 40. [Michel Foucault, What Is an Author?](norton-texts/foucault-what-is-an-author.md)
 41. [Wolfgang Iser, Interaction Between Text and Reader](norton-texts/iser-interaction-text-reader.md)
+42. [Hayden White, The Historical Text as Literary Artifact](norton-texts/white-historical-text-literary-artifact.md)
+43. [Jean Baudrillard, The Precession of Simulacra](norton-texts/baudrillard-precession-simulacra.md)
+44. [Jurgen Habermas, Modernity - An Incomplete Project](norton-texts/habermas-modernity-incomplete-project.md)
 
 ## Review Pressure
 
@@ -163,6 +169,9 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Defining the Postmodern](norton-texts/lyotard-defining-postmodern.md) | 1656-1658 | 3 | excerpt: 3 |
 | [What Is an Author?](norton-texts/foucault-what-is-an-author.md) | 1666-1674 | 9 | excerpt: 9 |
 | [Interaction Between Text and Reader](norton-texts/iser-interaction-text-reader.md) | 1717-1725 | 9 | excerpt: 9 |
+| [The Historical Text as Literary Artifact](norton-texts/white-historical-text-literary-artifact.md) | 1756-1772 | 17 | excerpt: 17 |
+| [The Precession of Simulacra](norton-texts/baudrillard-precession-simulacra.md) | 1776-1784 | 9 | excerpt: 9 |
+| [Modernity - An Incomplete Project](norton-texts/habermas-modernity-incomplete-project.md) | 1793-1802 | 10 | excerpt: 10 |
 
 ## Passage Queue
 
@@ -216,8 +225,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T06:12:10Z` |
-| Git commit | `2df3079` |
+| Generated at | `2026-06-13T06:20:08Z` |
+| Git commit | `37412ef` |
 | Script version | `2` |
 | Output path | `docs/workspace/media-and-form.md` |
 

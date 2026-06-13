@@ -9,6 +9,7 @@ This private index is generated from curated source metadata and local extractio
 
 | Thinker | Text Nodes | Current Texts |
 | --- | ---: | --- |
+| [Adrienne Rich](adrienne-rich.md) | 1 | Compulsory Heterosexuality and Lesbian Existence |
 | [Alexander Pope](alexander-pope.md) | 1 | An Essay on Criticism |
 | [Antonio Gramsci](antonio-gramsci.md) | 1 | The Formation of the Intellectuals |
 | [Aphra Behn](aphra-behn.md) | 1 | The Dutch Lover and Preface to The Lucky Chance |
@@ -22,6 +23,7 @@ This private index is generated from curated source metadata and local extractio
 | [Cleanth Brooks](cleanth-brooks.md) | 1 | The Well Wrought Urn |
 | [Dante Alighieri](dante-alighieri.md) | 1 | Il Convivio and The Letter to Can Grande |
 | [David Hume](david-hume.md) | 1 | Of the Standard of Taste |
+| [E. D. Hirsch Jr.](e-d-hirsch-jr.md) | 1 | Objective Interpretation |
 | [Edgar Allan Poe](edgar-allan-poe.md) | 1 | The Philosophy of Composition |
 | [Edmund Burke](edmund-burke.md) | 1 | A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful |
 | [Edmund Wilson](edmund-wilson.md) | 1 | Marxism and Literature |
@@ -44,6 +46,7 @@ This private index is generated from curated source metadata and local extractio
 | [Gotthold Ephraim Lessing](gotthold-ephraim-lessing.md) | 1 | Laocoon |
 | [Gyorgy Lukacs](gyorgy-lukacs.md) | 1 | Realism in the Balance |
 | [Hans Robert Jauss](hans-robert-jauss.md) | 1 | Literary History as a Challenge to Literary Theory |
+| [Hayden White](hayden-white.md) | 1 | The Historical Text as Literary Artifact |
 | [Henry James](henry-james.md) | 1 | The Art of Fiction |
 | [Horace](horace.md) | 1 | Ars Poetica |
 | [Hugh of St. Victor](hugh-of-st-victor.md) | 1 | The Didascalicon |
@@ -51,12 +54,14 @@ This private index is generated from curated source metadata and local extractio
 | [Irving Howe](irving-howe.md) | 1 | History and the Novel |
 | [J. L. Austin](j-l-austin.md) | 1 | Performative Utterances |
 | [Jacques Lacan](jacques-lacan.md) | 3 | The Mirror Stage as Formative of the Function of the I as Revealed in Psychoanalytic Experience, The Agency of the Letter in the Unconscious, The Signification of the Phallus |
+| [Jean Baudrillard](jean-baudrillard.md) | 1 | The Precession of Simulacra |
 | [Jean-Francois Lyotard](jean-francois-lyotard.md) | 1 | Defining the Postmodern |
 | [Jean-Paul Sartre](jean-paul-sartre.md) | 1 | What Is Literature? |
 | [Joachim du Bellay](joachim-du-bellay.md) | 1 | The Defence and Illustration of the French Language |
 | [John Crowe Ransom](john-crowe-ransom.md) | 1 | Criticism, Inc. |
 | [John Dryden](john-dryden.md) | 1 | Selected Critical Prose |
 | [Joseph Addison](joseph-addison.md) | 1 | The Spectator, Nos. 62 and 412 |
+| [Jurgen Habermas](jurgen-habermas.md) | 2 | The Structural Transformation of the Public Sphere, Modernity - An Incomplete Project |
 | [Karl Marx and Friedrich Engels](karl-marx-and-friedrich-engels.md) | 1 | Selected Cultural and Historical Writings |
 | [Kenneth Burke](kenneth-burke.md) | 1 | Kinds of Criticism |
 | [Langston Hughes](langston-hughes.md) | 1 | The Negro Artist and the Racial Mountain |
@@ -124,7 +129,7 @@ This private index is generated from curated source metadata and local extractio
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
-| Generated at | `2026-06-13T06:14:15Z` |
-| Git commit | `2df3079` |
+| Generated at | `2026-06-13T06:21:47Z` |
+| Git commit | `37412ef` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/index.md` |

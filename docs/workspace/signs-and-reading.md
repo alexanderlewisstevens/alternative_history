@@ -62,6 +62,9 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/foucault-what-is-an-author/"><strong>Michel Foucault, What Is an Author?</strong><span>authorship, discourse, institution; pages 1666-1674; 9 review rows</span></a>
   <a href="../norton-texts/foucault-truth-and-power/"><strong>Michel Foucault, Truth and Power</strong><span>truth, power, institutions; pages 1711-1713; 3 review rows</span></a>
   <a href="../norton-texts/iser-interaction-text-reader/"><strong>Wolfgang Iser, Interaction Between Text and Reader</strong><span>reader-response, interpretation, gaps; pages 1717-1725; 9 review rows</span></a>
+  <a href="../norton-texts/hirsch-objective-interpretation/"><strong>E. D. Hirsch Jr., Objective Interpretation</strong><span>interpretation, intention, meaning; pages 1728-1752; 25 review rows</span></a>
+  <a href="../norton-texts/white-historical-text-literary-artifact/"><strong>Hayden White, The Historical Text as Literary Artifact</strong><span>historiography, narrative, emplotment; pages 1756-1772; 17 review rows</span></a>
+  <a href="../norton-texts/baudrillard-precession-simulacra/"><strong>Jean Baudrillard, The Precession of Simulacra</strong><span>simulation, signs, media; pages 1776-1784; 9 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -113,6 +116,9 @@ This is a scaffold for reading the configured texts together. It should become a
 37. [Michel Foucault, What Is an Author?](norton-texts/foucault-what-is-an-author.md)
 38. [Michel Foucault, Truth and Power](norton-texts/foucault-truth-and-power.md)
 39. [Wolfgang Iser, Interaction Between Text and Reader](norton-texts/iser-interaction-text-reader.md)
+40. [E. D. Hirsch Jr., Objective Interpretation](norton-texts/hirsch-objective-interpretation.md)
+41. [Hayden White, The Historical Text as Literary Artifact](norton-texts/white-historical-text-literary-artifact.md)
+42. [Jean Baudrillard, The Precession of Simulacra](norton-texts/baudrillard-precession-simulacra.md)
 
 ## Review Pressure
 
@@ -157,6 +163,9 @@ This is a scaffold for reading the configured texts together. It should become a
 | [What Is an Author?](norton-texts/foucault-what-is-an-author.md) | 1666-1674 | 9 | excerpt: 9 |
 | [Truth and Power](norton-texts/foucault-truth-and-power.md) | 1711-1713 | 3 | excerpt: 3 |
 | [Interaction Between Text and Reader](norton-texts/iser-interaction-text-reader.md) | 1717-1725 | 9 | excerpt: 9 |
+| [Objective Interpretation](norton-texts/hirsch-objective-interpretation.md) | 1728-1752 | 25 | excerpt: 25 |
+| [The Historical Text as Literary Artifact](norton-texts/white-historical-text-literary-artifact.md) | 1756-1772 | 17 | excerpt: 17 |
+| [The Precession of Simulacra](norton-texts/baudrillard-precession-simulacra.md) | 1776-1784 | 9 | excerpt: 9 |
 
 ## Passage Queue
 
@@ -210,8 +219,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T06:12:08Z` |
-| Git commit | `2df3079` |
+| Generated at | `2026-06-13T06:20:06Z` |
+| Git commit | `37412ef` |
 | Script version | `2` |
 | Output path | `docs/workspace/signs-and-reading.md` |
 

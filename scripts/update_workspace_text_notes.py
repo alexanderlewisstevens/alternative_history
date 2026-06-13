@@ -24,7 +24,6 @@ from lib.workspace_components import backlink_list, link, note_meta, passage_car
 from update_workspace_map import (
     author_display_names,
     author_matches_text,
-    constellations_for_text_ids,
     counter_summary,
     classification_records_for_text,
     load_source_register,
@@ -36,13 +35,12 @@ from update_workspace_map import (
     read_csv_rows,
     review_counts_by_author,
     review_counts_for_records,
-    text_ids_for_author,
     works_by_author,
 )
 from update_workspace_passage_notes import load_passage_notes
 
 
-SCRIPT_VERSION = "2"
+SCRIPT_VERSION = "3"
 DEFAULT_OUTPUT_DIR = "docs/workspace/norton-texts"
 DEFAULT_PASSAGE_NOTES = "data/passage-notes.yml"
 
@@ -306,6 +304,7 @@ def build_index(
     source: dict[str, Any],
     curated_texts: list[dict[str, Any]],
     author_assembly: list[dict[str, str]],
+    classification_records: list[dict[str, Any]],
     names: dict[str, str],
     review_counts: dict[str, Counter[str]],
     constellations: list[dict[str, Any]],
@@ -321,7 +320,9 @@ def build_index(
         author_row = author_row_for_text(text, author_assembly)
         author_slug = author_row.get("author_slug", "") if author_row else ""
         author_name = names.get(author_slug, str(text.get("creator", "")))
-        pages = page_range(author_row.get("first_page", ""), author_row.get("last_page", "")) if author_row else ""
+        text_records = classification_records_for_text(classification_records, text)
+        pages = page_range_for_records(text_records) or (page_range(author_row.get("first_page", ""), author_row.get("last_page", "")) if author_row else "")
+        text_review_counts = review_counts_for_records(text_records) or review_counts.get(author_slug, Counter())
         if author_row:
             assembled_count += 1
         constellation_ids = [str(item.get("id", "")) for item in text_constellations(text_id, constellations)]
@@ -335,7 +336,7 @@ def build_index(
                     pages,
                     "<br>".join(linked_constellation(value) for value in constellation_ids),
                     str(passage_count),
-                    str(review_counts.get(author_slug, Counter()).get("total", 0)),
+                    str(text_review_counts.get("total", 0)),
                     f"`{html.escape(str(text.get('status', 'unknown')))}`",
                 ]
             )
@@ -472,13 +473,13 @@ def main() -> int:
                     "text_id": text_id,
                     "author_slug": author_row.get("author_slug", "") if author_row else "",
                     "page_range": text_page_range or (page_range(author_row.get("first_page", ""), author_row.get("last_page", "")) if author_row else ""),
-                    "constellations": ",".join(constellations_for_text_ids(text_ids_for_author(author_row.get("author_slug", ""), curated_texts), constellations)) if author_row else "",
+                    "constellations": ",".join(str(item.get("id", "")) for item in text_constellations(text_id, constellations)),
                 },
             )
         )
 
     index_path = output_dir / "index.md"
-    index_markdown = build_index(source, selected_texts, author_assembly, names, review_counts, constellations, passage_notes, index_path)
+    index_markdown = build_index(source, selected_texts, author_assembly, classification_records, names, review_counts, constellations, passage_notes, index_path)
     planned_outputs.insert(0, (index_path, index_markdown, {"text_id": "index", "author_slug": "", "page_range": "", "constellations": ""}))
 
     if args.dry_run:

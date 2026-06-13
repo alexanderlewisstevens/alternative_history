@@ -3073,7 +3073,7 @@ overrides:
       - mixed_author_transition_page
 
   - id: e-d-hirsch-jr-headnote
-    pages: 1726-1727
+    pages: 1726-1728
     author_name: E. D. Hirsch Jr.
     author_slug: e-d-hirsch-jr
     page_kind: author_intro
@@ -3083,4 +3083,145 @@ overrides:
     review_required: true
     review_reasons:
       - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: e-d-hirsch-jr-objective-interpretation
+    pages: 1728-1753
+    author_name: E. D. Hirsch Jr.
+    author_slug: e-d-hirsch-jr
+    work_title: Objective Interpretation
+    work_slug: objective-interpretation
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: hayden-white-headnote
+    pages: 1753-1756
+    author_name: Hayden White
+    author_slug: hayden-white
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: hayden-white-historical-text-literary-artifact
+    pages: 1756-1773
+    author_name: Hayden White
+    author_slug: hayden-white
+    work_title: The Historical Text as Literary Artifact
+    work_slug: the-historical-text-as-literary-artifact
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: jean-baudrillard-headnote
+    pages: 1773-1776
+    author_name: Jean Baudrillard
+    author_slug: jean-baudrillard
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: jean-baudrillard-precession-simulacra
+    pages: 1776-1785
+    author_name: Jean Baudrillard
+    author_slug: jean-baudrillard
+    work_title: The Precession of Simulacra
+    work_slug: the-precession-of-simulacra
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: jurgen-habermas-headnote
+    pages: 1785-1788
+    author_name: Jurgen Habermas
+    author_slug: jurgen-habermas
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: jurgen-habermas-public-sphere
+    pages: 1788-1793
+    author_name: Jurgen Habermas
+    author_slug: jurgen-habermas
+    work_title: From The Structural Transformation of the Public Sphere
+    work_slug: structural-transformation-public-sphere
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - selection_boundary_review
+
+  - id: jurgen-habermas-modernity-incomplete-project
+    pages: 1793-1803
+    author_name: Jurgen Habermas
+    author_slug: jurgen-habermas
+    work_title: Modernity - An Incomplete Project
+    work_slug: modernity-an-incomplete-project
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - selection_boundary_review
+      - mixed_author_transition_page
+
+  - id: adrienne-rich-headnote
+    pages: 1803-1806
+    author_name: Adrienne Rich
+    author_slug: adrienne-rich
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - continues_beyond_current_batch
+
+  - id: adrienne-rich-compulsory-heterosexuality
+    pages: 1806-1807
+    author_name: Adrienne Rich
+    author_slug: adrienne-rich
+    work_title: Compulsory Heterosexuality and Lesbian Existence
+    work_slug: compulsory-heterosexuality-and-lesbian-existence
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
       - continues_beyond_current_batch

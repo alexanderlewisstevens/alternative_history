@@ -53,6 +53,10 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/foucault-discipline-and-punish/"><strong>Michel Foucault, Discipline and Punish</strong><span>discipline, institution, power; pages 1675-1691; 17 review rows</span></a>
   <a href="../norton-texts/foucault-history-sexuality/"><strong>Michel Foucault, The History of Sexuality</strong><span>sexuality, discourse, power; pages 1692-1710; 7 review rows</span></a>
   <a href="../norton-texts/foucault-truth-and-power/"><strong>Michel Foucault, Truth and Power</strong><span>truth, power, institutions; pages 1711-1713; 3 review rows</span></a>
+  <a href="../norton-texts/baudrillard-precession-simulacra/"><strong>Jean Baudrillard, The Precession of Simulacra</strong><span>simulation, signs, media; pages 1776-1784; 9 review rows</span></a>
+  <a href="../norton-texts/habermas-public-sphere/"><strong>Jurgen Habermas, The Structural Transformation of the Public Sphere</strong><span>public-sphere, citizenship, reason; pages 1788-1792; 5 review rows</span></a>
+  <a href="../norton-texts/habermas-modernity-incomplete-project/"><strong>Jurgen Habermas, Modernity - An Incomplete Project</strong><span>modernity, enlightenment, culture; pages 1793-1802; 10 review rows</span></a>
+  <a href="../norton-texts/rich-compulsory-heterosexuality/"><strong>Adrienne Rich, Compulsory Heterosexuality and Lesbian Existence</strong><span>feminism, sexuality, institution; pages 1806-1807; 2 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -95,6 +99,10 @@ This is a scaffold for reading the configured texts together. It should become a
 28. [Michel Foucault, Discipline and Punish](norton-texts/foucault-discipline-and-punish.md)
 29. [Michel Foucault, The History of Sexuality](norton-texts/foucault-history-sexuality.md)
 30. [Michel Foucault, Truth and Power](norton-texts/foucault-truth-and-power.md)
+31. [Jean Baudrillard, The Precession of Simulacra](norton-texts/baudrillard-precession-simulacra.md)
+32. [Jurgen Habermas, The Structural Transformation of the Public Sphere](norton-texts/habermas-public-sphere.md)
+33. [Jurgen Habermas, Modernity - An Incomplete Project](norton-texts/habermas-modernity-incomplete-project.md)
+34. [Adrienne Rich, Compulsory Heterosexuality and Lesbian Existence](norton-texts/rich-compulsory-heterosexuality.md)
 
 ## Review Pressure
 
@@ -130,6 +138,10 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Discipline and Punish](norton-texts/foucault-discipline-and-punish.md) | 1675-1691 | 17 | excerpt: 17 |
 | [The History of Sexuality](norton-texts/foucault-history-sexuality.md) | 1692-1710 | 7 | excerpt: 19 |
 | [Truth and Power](norton-texts/foucault-truth-and-power.md) | 1711-1713 | 3 | excerpt: 3 |
+| [The Precession of Simulacra](norton-texts/baudrillard-precession-simulacra.md) | 1776-1784 | 9 | excerpt: 9 |
+| [The Structural Transformation of the Public Sphere](norton-texts/habermas-public-sphere.md) | 1788-1792 | 5 | excerpt: 5 |
+| [Modernity - An Incomplete Project](norton-texts/habermas-modernity-incomplete-project.md) | 1793-1802 | 10 | excerpt: 10 |
+| [Compulsory Heterosexuality and Lesbian Existence](norton-texts/rich-compulsory-heterosexuality.md) | 1806-1807 | 2 | excerpt: 2 |
 
 ## Passage Queue
 
@@ -183,8 +195,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T06:12:10Z` |
-| Git commit | `2df3079` |
+| Generated at | `2026-06-13T06:20:09Z` |
+| Git commit | `37412ef` |
 | Script version | `2` |
 | Output path | `docs/workspace/labor-ideology-and-culture.md` |
 
