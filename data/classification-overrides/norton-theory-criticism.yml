@@ -3516,11 +3516,151 @@ overrides:
       - mixed_bibliography_and_work_title
 
   - id: edward-w-said-orientalism
-    pages: 2035-2047
+    pages: 2035-2056
     author_name: Edward W. Said
     author_slug: edward-w-said
     work_title: From Orientalism
     work_slug: orientalism
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: monique-wittig-headnote
+    pages: 2056-2058
+    author_name: Monique Wittig
+    author_slug: monique-wittig
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: monique-wittig-one-is-not-born-a-woman
+    pages: 2058-2064
+    author_name: Monique Wittig
+    author_slug: monique-wittig
+    work_title: One Is Not Born a Woman
+    work_slug: one-is-not-born-a-woman
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: sandra-m-gilbert-and-susan-gubar-headnote
+    pages: 2064-2067
+    author_name: Sandra M. Gilbert and Susan Gubar
+    author_slug: sandra-m-gilbert-and-susan-gubar
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: sandra-m-gilbert-and-susan-gubar-madwoman-in-the-attic
+    pages: 2067-2079
+    author_name: Sandra M. Gilbert and Susan Gubar
+    author_slug: sandra-m-gilbert-and-susan-gubar
+    work_title: "From The Madwoman in the Attic: The Woman Writer and the Nineteenth-Century Literary Imagination"
+    work_slug: madwoman-in-the-attic
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: helene-cixous-headnote
+    pages: 2079-2083
+    author_name: Helene Cixous
+    author_slug: helene-cixous
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: helene-cixous-laugh-of-the-medusa
+    pages: 2083-2100
+    author_name: Helene Cixous
+    author_slug: helene-cixous
+    work_title: The Laugh of the Medusa
+    work_slug: laugh-of-the-medusa
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: gerald-graff-headnote
+    pages: 2100-2103
+    author_name: Gerald Graff
+    author_slug: gerald-graff
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: gerald-graff-taking-cover-in-coverage
+    pages: 2103-2111
+    author_name: Gerald Graff
+    author_slug: gerald-graff
+    work_title: Taking Cover in Coverage
+    work_slug: taking-cover-in-coverage
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: stanley-e-fish-headnote
+    pages: 2111-2115
+    author_name: Stanley E. Fish
+    author_slug: stanley-e-fish
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: stanley-e-fish-interpreting-the-variorum
+    pages: 2115-2127
+    author_name: Stanley E. Fish
+    author_slug: stanley-e-fish
+    work_title: Interpreting the Variorum
+    work_slug: interpreting-the-variorum
     page_kind: excerpt
     starts_new_author: false
     continues_previous_author: true

@@ -93,8 +93,8 @@ This note turns the current Norton chunk for Jacques Derrida into a navigable wo
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/jacques-derrida.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T06:37:23Z` |
-| Git commit | `5771067` |
+| Generated at | `2026-06-13T06:43:25Z` |
+| Git commit | `1be04e7` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/derrida-platos-pharmacy.md` |
 

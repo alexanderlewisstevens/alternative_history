@@ -5,19 +5,19 @@ This page is generated from audit artifacts. It intentionally contains metadata 
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Classified Pages</div>
-  <div class="ah-metric-value">71-2047</div>
+  <div class="ah-metric-value">71-2127</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Page Records</div>
-  <div class="ah-metric-value">1977</div>
+  <div class="ah-metric-value">2057</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Thinker Drafts</div>
-  <div class="ah-metric-value">108</div>
+  <div class="ah-metric-value">113</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Review Rows</div>
-  <div class="ah-metric-value">1745</div>
+  <div class="ah-metric-value">1825</div>
 </div>
 </div>
 
@@ -45,21 +45,21 @@ This page is generated from audit artifacts. It intentionally contains metadata 
 | Artifact | Count | Location |
 | --- | ---: | --- |
 | Sliced PDFs | 2668 | `Norton_Anthology_Sliced_Author` |
-| Layout records | 1977 | `work/layout/norton-theory-criticism/layout.jsonl` |
-| Classification records | 1977 | `work/classification/norton-theory-criticism/page-classifications.jsonl` |
-| Review queue rows | 1745 | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
-| Page records | 1977 | `work/page-records/norton-theory-criticism` |
-| Page-generation audit rows | 1977 | `work/audit/norton-theory-criticism/page-record-generation.csv` |
-| Thinker drafts | 108 | `generated/authors/norton-theory-criticism` |
-| Thinker-assembly audit rows | 108 | `work/audit/norton-theory-criticism/author-assembly.csv` |
+| Layout records | 2057 | `work/layout/norton-theory-criticism/layout.jsonl` |
+| Classification records | 2057 | `work/classification/norton-theory-criticism/page-classifications.jsonl` |
+| Review queue rows | 1825 | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
+| Page records | 2057 | `work/page-records/norton-theory-criticism` |
+| Page-generation audit rows | 2057 | `work/audit/norton-theory-criticism/page-record-generation.csv` |
+| Thinker drafts | 113 | `generated/authors/norton-theory-criticism` |
+| Thinker-assembly audit rows | 113 | `work/audit/norton-theory-criticism/author-assembly.csv` |
 
 ## Classified Range
 
 | Field | Value |
 | --- | --- |
-| Classified source pages | `71-2047` |
-| Status page generated at | `2026-06-13T06:37:15Z` |
-| Git commit | `5771067` |
+| Classified source pages | `71-2127` |
+| Status page generated at | `2026-06-13T06:43:16Z` |
+| Git commit | `1be04e7` |
 | Script version | `1` |
 | Output path | `docs/_meta/extraction-status.md` |
 
@@ -87,7 +87,7 @@ This page is generated from audit artifacts. It intentionally contains metadata 
 | edgar-allan-poe | 11 | 781-791 | ok | generated/authors/norton-theory-criticism/edgar-allan-poe.md |
 | edmund-burke | 15 | 578-592 | ok | generated/authors/norton-theory-criticism/edmund-burke.md |
 | edmund-wilson | 14 | 1284-1297 | ok | generated/authors/norton-theory-criticism/edmund-wilson.md |
-| edward-w-said | 18 | 2030-2047 | ok | generated/authors/norton-theory-criticism/edward-w-said.md |
+| edward-w-said | 26 | 2030-2055 | ok | generated/authors/norton-theory-criticism/edward-w-said.md |
 | edward-young | 12 | 468-479 | ok | generated/authors/norton-theory-criticism/edward-young.md |
 | ferdinand-de-saussure | 21 | 1000-1020 | ok | generated/authors/norton-theory-criticism/ferdinand-de-saussure.md |
 | frantz-fanon | 18 | 1619-1636 | ok | generated/authors/norton-theory-criticism/frantz-fanon.md |
@@ -98,6 +98,7 @@ This page is generated from audit artifacts. It intentionally contains metadata 
 | geoffrey-of-vinsauf | 14 | 268-281 | ok | generated/authors/norton-theory-criticism/geoffrey-of-vinsauf.md |
 | georg-wilhelm-friedrich-hegel | 19 | 668-686 | ok | generated/authors/norton-theory-criticism/georg-wilhelm-friedrich-hegel.md |
 | georges-poulet | 16 | 1361-1376 | ok | generated/authors/norton-theory-criticism/georges-poulet.md |
+| gerald-graff | 11 | 2100-2110 | ok | generated/authors/norton-theory-criticism/gerald-graff.md |
 | gerald-vizenor | 11 | 2019-2029 | ok | generated/authors/norton-theory-criticism/gerald-vizenor.md |
 | germaine-de-stael | 16 | 636-651 | ok | generated/authors/norton-theory-criticism/germaine-de-stael.md |
 | giacopo-mazzoni | 23 | 342-364 | ok | generated/authors/norton-theory-criticism/giacopo-mazzoni.md |
@@ -111,6 +112,7 @@ This page is generated from audit artifacts. It intentionally contains metadata 
 | hans-robert-jauss | 18 | 1591-1608 | ok | generated/authors/norton-theory-criticism/hans-robert-jauss.md |
 | harold-bloom | 12 | 1838-1849 | ok | generated/authors/norton-theory-criticism/harold-bloom.md |
 | hayden-white | 20 | 1753-1772 | ok | generated/authors/norton-theory-criticism/hayden-white.md |
+| helene-cixous | 21 | 2079-2099 | ok | generated/authors/norton-theory-criticism/helene-cixous.md |
 | henry-james | 19 | 893-911 | ok | generated/authors/norton-theory-criticism/henry-james.md |
 | horace | 14 | 163-176 | ok | generated/authors/norton-theory-criticism/horace.md |
 | hugh-of-st-victor | 10 | 243-252 | ok | generated/authors/norton-theory-criticism/hugh-of-st-victor.md |
@@ -140,6 +142,7 @@ This page is generated from audit artifacts. It intentionally contains metadata 
 | max-horkheimer-and-theodor-w-adorno | 20 | 1264-1283 | ok | generated/authors/norton-theory-criticism/max-horkheimer-and-theodor-w-adorno.md |
 | michel-foucault | 55 | 1659-1713 | ok | generated/authors/norton-theory-criticism/michel-foucault.md |
 | mikhail-bakhtin | 34 | 1230-1263 | ok | generated/authors/norton-theory-criticism/mikhail-bakhtin.md |
+| monique-wittig | 8 | 2056-2063 | ok | generated/authors/norton-theory-criticism/monique-wittig.md |
 | moses-maimonides | 15 | 253-267 | ok | generated/authors/norton-theory-criticism/moses-maimonides.md |
 | northrop-frye | 15 | 1486-1500 | ok | generated/authors/norton-theory-criticism/northrop-frye.md |
 | oscar-wilde | 18 | 939-956 | ok | generated/authors/norton-theory-criticism/oscar-wilde.md |
@@ -158,9 +161,11 @@ This page is generated from audit artifacts. It intentionally contains metadata 
 | roman-jakobson | 15 | 1298-1312 | ok | generated/authors/norton-theory-criticism/roman-jakobson.md |
 | samuel-johnson | 25 | 500-524 | ok | generated/authors/norton-theory-criticism/samuel-johnson.md |
 | samuel-taylor-coleridge | 14 | 710-723 | ok | generated/authors/norton-theory-criticism/samuel-taylor-coleridge.md |
+| sandra-m-gilbert-and-susan-gubar | 15 | 2064-2078 | ok | generated/authors/norton-theory-criticism/sandra-m-gilbert-and-susan-gubar.md |
 | sigmund-freud | 43 | 957-999 | ok | generated/authors/norton-theory-criticism/sigmund-freud.md |
 | simone-de-beauvoir | 12 | 1447-1458 | ok | generated/authors/norton-theory-criticism/simone-de-beauvoir.md |
 | sir-philip-sidney | 40 | 365-404 | ok | generated/authors/norton-theory-criticism/sir-philip-sidney.md |
+| stanley-e-fish | 17 | 2111-2127 | ok | generated/authors/norton-theory-criticism/stanley-e-fish.md |
 | stephane-mallarme | 10 | 883-892 | ok | generated/authors/norton-theory-criticism/stephane-mallarme.md |
 | stuart-hall | 15 | 1939-1953 | ok | generated/authors/norton-theory-criticism/stuart-hall.md |
 | t-s-eliot | 17 | 1132-1148 | ok | generated/authors/norton-theory-criticism/t-s-eliot.md |
@@ -181,11 +186,11 @@ This page is generated from audit artifacts. It intentionally contains metadata 
 | Review reason | Pages |
 | --- | ---: |
 | mixed_work_transition_page | 658 |
-| mixed_bibliography_and_work_title | 480 |
+| mixed_bibliography_and_work_title | 560 |
+| transition_from_previous_author | 373 |
 | multi_column_layout | 357 |
-| transition_from_previous_author | 357 |
 | source_notes_detected | 314 |
-| mixed_author_transition_page | 170 |
+| mixed_author_transition_page | 234 |
 | mixed_transition_page | 68 |
 | selection_boundary_review | 34 |
 | continues_beyond_current_batch | 27 |

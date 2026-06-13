@@ -60,7 +60,10 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/smith-contingencies-of-value/"><strong>Barbara Herrnstein Smith, Contingencies of Value</strong><span>value, taste, contingency; pages 1957-1975; 19 review rows</span></a>
   <a href="../norton-texts/jameson-political-unconscious/"><strong>Fredric Jameson, The Political Unconscious: Narrative as a Socially Symbolic Act</strong><span>marxism, historicism, ideology; pages 1981-2003; 23 review rows</span></a>
   <a href="../norton-texts/vizenor-postindian-warriors/"><strong>Gerald Vizenor, Postindian Warriors</strong><span>survivance, simulation, native-studies; pages 2021-2029; 9 review rows</span></a>
-  <a href="../norton-texts/said-orientalism/"><strong>Edward W. Said, Orientalism</strong><span>orientalism, imperialism, postcolonialism; pages 2035-2047; 13 review rows</span></a>
+  <a href="../norton-texts/said-orientalism/"><strong>Edward W. Said, Orientalism</strong><span>orientalism, imperialism, postcolonialism; pages 2035-2055; 21 review rows</span></a>
+  <a href="../norton-texts/wittig-one-is-not-born-a-woman/"><strong>Monique Wittig, One Is Not Born a Woman</strong><span>feminism, lesbian-theory, gender; pages 2058-2063; 6 review rows</span></a>
+  <a href="../norton-texts/graff-taking-cover-in-coverage/"><strong>Gerald Graff, Taking Cover in Coverage</strong><span>pedagogy, institutions, literary-studies; pages 2103-2110; 8 review rows</span></a>
+  <a href="../norton-texts/fish-interpreting-the-variorum/"><strong>Stanley E. Fish, Interpreting the Variorum</strong><span>reader-response, interpretation, institutions; pages 2115-2127; 13 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -111,6 +114,9 @@ This is a scaffold for reading the configured texts together. It should become a
 36. [Fredric Jameson, The Political Unconscious: Narrative as a Socially Symbolic Act](norton-texts/jameson-political-unconscious.md)
 37. [Gerald Vizenor, Postindian Warriors](norton-texts/vizenor-postindian-warriors.md)
 38. [Edward W. Said, Orientalism](norton-texts/said-orientalism.md)
+39. [Monique Wittig, One Is Not Born a Woman](norton-texts/wittig-one-is-not-born-a-woman.md)
+40. [Gerald Graff, Taking Cover in Coverage](norton-texts/graff-taking-cover-in-coverage.md)
+41. [Stanley E. Fish, Interpreting the Variorum](norton-texts/fish-interpreting-the-variorum.md)
 
 ## Review Pressure
 
@@ -153,7 +159,10 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Contingencies of Value](norton-texts/smith-contingencies-of-value.md) | 1957-1975 | 19 | excerpt: 19 |
 | [The Political Unconscious: Narrative as a Socially Symbolic Act](norton-texts/jameson-political-unconscious.md) | 1981-2003 | 23 | excerpt: 23 |
 | [Postindian Warriors](norton-texts/vizenor-postindian-warriors.md) | 2021-2029 | 9 | excerpt: 9 |
-| [Orientalism](norton-texts/said-orientalism.md) | 2035-2047 | 13 | excerpt: 13 |
+| [Orientalism](norton-texts/said-orientalism.md) | 2035-2055 | 21 | excerpt: 21 |
+| [One Is Not Born a Woman](norton-texts/wittig-one-is-not-born-a-woman.md) | 2058-2063 | 6 | excerpt: 6 |
+| [Taking Cover in Coverage](norton-texts/graff-taking-cover-in-coverage.md) | 2103-2110 | 8 | excerpt: 8 |
+| [Interpreting the Variorum](norton-texts/fish-interpreting-the-variorum.md) | 2115-2127 | 13 | excerpt: 13 |
 
 ## Passage Queue
 
@@ -207,8 +216,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T06:37:10Z` |
-| Git commit | `5771067` |
+| Generated at | `2026-06-13T06:43:09Z` |
+| Git commit | `1be04e7` |
 | Script version | `2` |
 | Output path | `docs/workspace/aesthetic-education-and-citizenship.md` |
 

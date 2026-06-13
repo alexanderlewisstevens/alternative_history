@@ -92,8 +92,8 @@ This note turns the current Norton chunk for William K. Wimsatt Jr. and Monroe C
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/william-k-wimsatt-jr-and-monroe-c-beardsley.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T06:37:23Z` |
-| Git commit | `5771067` |
+| Generated at | `2026-06-13T06:43:24Z` |
+| Git commit | `1be04e7` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/wimsatt-beardsley-intentional-fallacy.md` |
 

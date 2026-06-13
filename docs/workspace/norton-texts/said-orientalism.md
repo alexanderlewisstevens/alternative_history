@@ -20,11 +20,11 @@ This note turns the current Norton chunk for Edward W. Said into a navigable wor
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Chunk Status</span>
-  <h3>Norton Pages 2035-2047</h3>
-  <p><strong>Page count:</strong> 13</p>
+  <h3>Norton Pages 2035-2055</h3>
+  <p><strong>Page count:</strong> 21</p>
   <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/edward-w-said.md</code></p>
-  <p><strong>Page kinds:</strong> excerpt: 13</p>
-  <p><strong>Review pressure:</strong> 13 rows. continues_beyond_current_batch: 13<br>mixed_bibliography_and_work_title: 13</p>
+  <p><strong>Page kinds:</strong> excerpt: 21</p>
+  <p><strong>Review pressure:</strong> 21 rows. mixed_author_transition_page: 21<br>mixed_bibliography_and_work_title: 21</p>
 </section>
 
 ## Works And Excerpt Blocks
@@ -48,7 +48,7 @@ This note turns the current Norton chunk for Edward W. Said into a navigable wor
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Anchor Candidates</span>
   <h3>Choose Passages After Review</h3>
-  <p><strong>Source location:</strong> Norton page range 2035-2047.</p>
+  <p><strong>Source location:</strong> Norton page range 2035-2055.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
   <p><strong>Use:</strong> Find the passages that make this text active inside signs-and-reading, commentary-and-afterlife, vernacular-and-institution, aesthetic-education-and-citizenship, labor-ideology-and-culture, language-truth-and-fiction.</p>
 </section>
@@ -56,7 +56,7 @@ This note turns the current Norton chunk for Edward W. Said into a navigable wor
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Review Before Quoting</span>
   <h3>Layout, Notes, And Bibliography</h3>
-  <p><strong>Review signal:</strong> continues_beyond_current_batch: 13<br>mixed_bibliography_and_work_title: 13</p>
+  <p><strong>Review signal:</strong> mixed_author_transition_page: 21<br>mixed_bibliography_and_work_title: 21</p>
   <p><strong>Editorial rule:</strong> source notes belong in source-note fields, bibliography belongs in bibliography fields, and excerpt text stays separate.</p>
 </section>
 
@@ -94,8 +94,8 @@ This note turns the current Norton chunk for Edward W. Said into a navigable wor
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/edward-w-said.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T06:37:24Z` |
-| Git commit | `5771067` |
+| Generated at | `2026-06-13T06:43:25Z` |
+| Git commit | `1be04e7` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/said-orientalism.md` |
 

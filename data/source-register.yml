@@ -1467,6 +1467,67 @@ curated_texts:
       - postcolonialism
       - representation
     status: edition-review-needed
+  - id: wittig-one-is-not-born-a-woman
+    title: One Is Not Born a Woman
+    creator: Monique Wittig
+    extraction_work_titles:
+      - One Is Not Born a Woman
+    role: core-text-candidate
+    themes:
+      - feminism
+      - lesbian-theory
+      - gender
+      - materialism
+    status: edition-review-needed
+  - id: gilbert-gubar-madwoman-in-the-attic
+    title: The Madwoman in the Attic
+    creator: Sandra M. Gilbert and Susan Gubar
+    extraction_work_titles:
+      - "From The Madwoman in the Attic: The Woman Writer and the Nineteenth-Century Literary Imagination"
+      - The Madwoman in the Attic
+    role: core-text-candidate
+    themes:
+      - feminist-criticism
+      - authorship
+      - literary-history
+      - gender
+    status: edition-review-needed
+  - id: cixous-laugh-of-the-medusa
+    title: The Laugh of the Medusa
+    creator: Helene Cixous
+    extraction_work_titles:
+      - The Laugh of the Medusa
+    role: core-text-candidate
+    themes:
+      - ecriture-feminine
+      - writing
+      - feminism
+      - psychoanalysis
+    status: edition-review-needed
+  - id: graff-taking-cover-in-coverage
+    title: Taking Cover in Coverage
+    creator: Gerald Graff
+    extraction_work_titles:
+      - Taking Cover in Coverage
+    role: core-text-candidate
+    themes:
+      - pedagogy
+      - institutions
+      - literary-studies
+      - theory
+    status: edition-review-needed
+  - id: fish-interpreting-the-variorum
+    title: Interpreting the Variorum
+    creator: Stanley E. Fish
+    extraction_work_titles:
+      - Interpreting the Variorum
+    role: core-text-candidate
+    themes:
+      - reader-response
+      - interpretation
+      - institutions
+      - pragmatism
+    status: edition-review-needed
 
 constellations:
   - id: rhetoric-and-force
@@ -1584,6 +1645,9 @@ constellations:
       - smith-contingencies-of-value
       - jameson-political-unconscious
       - said-orientalism
+      - cixous-laugh-of-the-medusa
+      - graff-taking-cover-in-coverage
+      - fish-interpreting-the-variorum
     relations:
       - writing
       - interpretation
@@ -1678,6 +1742,9 @@ constellations:
       - jameson-political-unconscious
       - vizenor-postindian-warriors
       - said-orientalism
+      - gilbert-gubar-madwoman-in-the-attic
+      - cixous-laugh-of-the-medusa
+      - fish-interpreting-the-variorum
     relations:
       - commentary
       - transmission
@@ -2023,6 +2090,9 @@ constellations:
       - jameson-political-unconscious
       - vizenor-postindian-warriors
       - said-orientalism
+      - wittig-one-is-not-born-a-woman
+      - graff-taking-cover-in-coverage
+      - fish-interpreting-the-variorum
     relations:
       - education
       - freedom
@@ -2125,6 +2195,8 @@ constellations:
       - jameson-postmodernism-consumer-society
       - vizenor-postindian-warriors
       - said-orientalism
+      - wittig-one-is-not-born-a-woman
+      - graff-taking-cover-in-coverage
     relations:
       - labor
       - ideology
@@ -2190,6 +2262,8 @@ constellations:
       - jameson-political-unconscious
       - vizenor-postindian-warriors
       - said-orientalism
+      - cixous-laugh-of-the-medusa
+      - fish-interpreting-the-variorum
     relations:
       - language
       - fiction

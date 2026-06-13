@@ -5,7 +5,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Boundary Review</div>
-  <div class="ah-metric-value">379</div>
+  <div class="ah-metric-value">395</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Content Separation</div>
@@ -21,7 +21,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">General Review</div>
-  <div class="ah-metric-value">941</div>
+  <div class="ah-metric-value">1005</div>
 </div>
 </div>
 
@@ -29,10 +29,10 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 <div class="ah-review-grid">
 <section class="ah-review-card warn">
-  <div class="ah-review-card-kicker">379 pages</div>
+  <div class="ah-review-card-kicker">395 pages</div>
   <h3>Boundary Review</h3>
   <p>Confirm thinker and work boundaries before assembling public-facing drafts.</p>
-  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +367 more</p>
+  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +383 more</p>
 </section>
 <section class="ah-review-card warn">
   <div class="ah-review-card-kicker">9 pages</div>
@@ -53,10 +53,10 @@ This is the editorial queue for restricted extraction work. It is generated from
   <p><strong>Start:</strong> <code>74</code>, <code>98</code>, <code>99</code>, <code>126</code>, <code>185</code>, <code>190</code>, <code>191</code>, <code>192</code>, <code>194</code>, <code>204</code>, <code>213</code>, <code>218</code> +60 more</p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">941 pages</div>
+  <div class="ah-review-card-kicker">1005 pages</div>
   <h3>General Review</h3>
   <p>Resolve remaining template or classification questions.</p>
-  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +929 more</p>
+  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +993 more</p>
 </section>
 </div>
 
@@ -72,11 +72,11 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Field | Value |
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
-| Classified source pages | `71-2047` |
-| Review queue rows | `1745` |
+| Classified source pages | `71-2127` |
+| Review queue rows | `1825` |
 | Review queue file | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
-| Generated at | `2026-06-13T06:37:15Z` |
-| Git commit | `5771067` |
+| Generated at | `2026-06-13T06:43:16Z` |
+| Git commit | `1be04e7` |
 | Script version | `1` |
 | Output path | `docs/_meta/review-dashboard.md` |
 
@@ -85,11 +85,11 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Reason | Pages |
 | --- | ---: |
 | mixed_work_transition_page | 658 |
-| mixed_bibliography_and_work_title | 480 |
+| mixed_bibliography_and_work_title | 560 |
+| transition_from_previous_author | 373 |
 | multi_column_layout | 357 |
-| transition_from_previous_author | 357 |
 | source_notes_detected | 314 |
-| mixed_author_transition_page | 170 |
+| mixed_author_transition_page | 234 |
 | mixed_transition_page | 68 |
 | selection_boundary_review | 34 |
 | continues_beyond_current_batch | 27 |
@@ -119,6 +119,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Gyorgy Lukacs | 28 |
 | Friedrich Nietzsche | 27 |
 | E. D. Hirsch Jr. | 27 |
+| Edward W. Said | 26 |
 | Aristotle | 23 |
 | Walter Benjamin | 23 |
 | Paul de Man | 23 |
@@ -129,6 +130,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Ralph Waldo Emerson | 21 |
 | Ferdinand de Saussure | 21 |
 | Cleanth Brooks | 21 |
+| Helene Cixous | 21 |
 | Alexander Pope | 20 |
 | Max Horkheimer and Theodor W. Adorno | 20 |
 | Hayden White | 20 |
@@ -139,10 +141,10 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Frantz Fanon | 18 |
 | Jurgen Habermas | 18 |
 | Richard Ohmann | 18 |
-| Edward W. Said | 18 |
 | T. S. Eliot | 17 |
 | Zora Neale Hurston | 17 |
 | Jean-Paul Sartre | 17 |
+| Stanley E. Fish | 17 |
 | Oscar Wilde | 16 |
 | Georges Poulet | 16 |
 | Gilles Deleuze and Felix Guattari | 16 |
@@ -156,6 +158,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Northrop Frye | 15 |
 | Irving Howe | 15 |
 | Stuart Hall | 15 |
+| Sandra M. Gilbert and Susan Gubar | 15 |
 | Horace | 14 |
 | Immanuel Kant | 14 |
 | Friedrich Schleiermacher | 14 |
@@ -178,6 +181,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Edward Young | 11 |
 | Edgar Allan Poe | 11 |
 | Gerald Vizenor | 11 |
+| Gerald Graff | 11 |
 | Quintilian | 10 |
 | Hugh of St. Victor | 10 |
 | Joseph Addison | 10 |
@@ -199,6 +203,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Pierre Bourdieu | 9 |
 | Walter Pater | 8 |
 | Henry James | 8 |
+| Monique Wittig | 8 |
 | Plotinus | 7 |
 | Giambattista Giraldi | 7 |
 | David Hume | 7 |
@@ -596,6 +601,22 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 2032 | Edward W. Said |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2032.md |
 | 2033 | Edward W. Said |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2033.md |
 | 2034 | Edward W. Said | almost the beginning of his' c4teef, Said has attracted a large body of criticism | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2034.md |
+| 2056 | Monique Wittig | From Orientalism | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2056.md |
+| 2057 | Monique Wittig | Monique Wittig | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2057.md |
+| 2064 | Sandra M. Gilbert and Susan Gubar | One Is Not Born a Woman | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2064.md |
+| 2065 | Sandra M. Gilbert and Susan Gubar |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2065.md |
+| 2066 | Sandra M. Gilbert and Susan Gubar |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2066.md |
+| 2079 | Helene Cixous | From The Madwoman in the Attic: The Woman Writer and the Nineteenth-Century Literary Imagination | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2079.md |
+| 2080 | Helene Cixous |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2080.md |
+| 2081 | Helene Cixous | H~lt;ne Cixous | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2081.md |
+| 2082 | Helene Cixous |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2082.md |
+| 2100 | Gerald Graff | The Laugh of the Medusa | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2100.md |
+| 2101 | Gerald Graff | Gerald Graff | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2101.md |
+| 2102 | Gerald Graff |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2102.md |
+| 2111 | Stanley E. Fish | Taking Cover in Coverage | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2111.md |
+| 2112 | Stanley E. Fish |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2112.md |
+| 2113 | Stanley E. Fish | Stanley E. Fish | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2113.md |
+| 2114 | Stanley E. Fish |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2114.md |
 
 ## Content Separation
 
@@ -1969,16 +1990,80 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 2027 | Gerald Vizenor | From Manifest Manners: Postindian Warriors of Survivance / Postindian Warriors | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2027.md |
 | 2028 | Gerald Vizenor | From Manifest Manners: Postindian Warriors of Survivance / Postindian Warriors | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2028.md |
 | 2029 | Gerald Vizenor | From Manifest Manners: Postindian Warriors of Survivance / Postindian Warriors | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2029.md |
-| 2035 | Edward W. Said | From Orientalism | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2035.md |
-| 2036 | Edward W. Said | From Orientalism | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2036.md |
-| 2037 | Edward W. Said | From Orientalism | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2037.md |
-| 2038 | Edward W. Said | From Orientalism | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2038.md |
-| 2039 | Edward W. Said | From Orientalism | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2039.md |
-| 2040 | Edward W. Said | From Orientalism | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2040.md |
-| 2041 | Edward W. Said | From Orientalism | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2041.md |
-| 2042 | Edward W. Said | From Orientalism | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2042.md |
-| 2043 | Edward W. Said | From Orientalism | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2043.md |
-| 2044 | Edward W. Said | From Orientalism | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2044.md |
-| 2045 | Edward W. Said | From Orientalism | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2045.md |
-| 2046 | Edward W. Said | From Orientalism | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2046.md |
-| 2047 | Edward W. Said | From Orientalism | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2047.md |
+| 2035 | Edward W. Said | From Orientalism | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2035.md |
+| 2036 | Edward W. Said | From Orientalism | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2036.md |
+| 2037 | Edward W. Said | From Orientalism | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2037.md |
+| 2038 | Edward W. Said | From Orientalism | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2038.md |
+| 2039 | Edward W. Said | From Orientalism | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2039.md |
+| 2040 | Edward W. Said | From Orientalism | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2040.md |
+| 2041 | Edward W. Said | From Orientalism | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2041.md |
+| 2042 | Edward W. Said | From Orientalism | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2042.md |
+| 2043 | Edward W. Said | From Orientalism | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2043.md |
+| 2044 | Edward W. Said | From Orientalism | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2044.md |
+| 2045 | Edward W. Said | From Orientalism | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2045.md |
+| 2046 | Edward W. Said | From Orientalism | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2046.md |
+| 2047 | Edward W. Said | From Orientalism | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2047.md |
+| 2048 | Edward W. Said | From Orientalism | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2048.md |
+| 2049 | Edward W. Said | From Orientalism | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2049.md |
+| 2050 | Edward W. Said | From Orientalism | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2050.md |
+| 2051 | Edward W. Said | From Orientalism | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2051.md |
+| 2052 | Edward W. Said | From Orientalism | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2052.md |
+| 2053 | Edward W. Said | From Orientalism | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2053.md |
+| 2054 | Edward W. Said | From Orientalism | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2054.md |
+| 2055 | Edward W. Said | From Orientalism | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2055.md |
+| 2058 | Monique Wittig | One Is Not Born a Woman | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2058.md |
+| 2059 | Monique Wittig | One Is Not Born a Woman | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2059.md |
+| 2060 | Monique Wittig | One Is Not Born a Woman | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2060.md |
+| 2061 | Monique Wittig | One Is Not Born a Woman | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2061.md |
+| 2062 | Monique Wittig | One Is Not Born a Woman | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2062.md |
+| 2063 | Monique Wittig | One Is Not Born a Woman | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2063.md |
+| 2067 | Sandra M. Gilbert and Susan Gubar | From The Madwoman in the Attic: The Woman Writer and the Nineteenth-Century Literary Imagination | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2067.md |
+| 2068 | Sandra M. Gilbert and Susan Gubar | From The Madwoman in the Attic: The Woman Writer and the Nineteenth-Century Literary Imagination | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2068.md |
+| 2069 | Sandra M. Gilbert and Susan Gubar | From The Madwoman in the Attic: The Woman Writer and the Nineteenth-Century Literary Imagination | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2069.md |
+| 2070 | Sandra M. Gilbert and Susan Gubar | From The Madwoman in the Attic: The Woman Writer and the Nineteenth-Century Literary Imagination | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2070.md |
+| 2071 | Sandra M. Gilbert and Susan Gubar | From The Madwoman in the Attic: The Woman Writer and the Nineteenth-Century Literary Imagination | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2071.md |
+| 2072 | Sandra M. Gilbert and Susan Gubar | From The Madwoman in the Attic: The Woman Writer and the Nineteenth-Century Literary Imagination | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2072.md |
+| 2073 | Sandra M. Gilbert and Susan Gubar | From The Madwoman in the Attic: The Woman Writer and the Nineteenth-Century Literary Imagination | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2073.md |
+| 2074 | Sandra M. Gilbert and Susan Gubar | From The Madwoman in the Attic: The Woman Writer and the Nineteenth-Century Literary Imagination | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2074.md |
+| 2075 | Sandra M. Gilbert and Susan Gubar | From The Madwoman in the Attic: The Woman Writer and the Nineteenth-Century Literary Imagination | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2075.md |
+| 2076 | Sandra M. Gilbert and Susan Gubar | From The Madwoman in the Attic: The Woman Writer and the Nineteenth-Century Literary Imagination | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2076.md |
+| 2077 | Sandra M. Gilbert and Susan Gubar | From The Madwoman in the Attic: The Woman Writer and the Nineteenth-Century Literary Imagination | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2077.md |
+| 2078 | Sandra M. Gilbert and Susan Gubar | From The Madwoman in the Attic: The Woman Writer and the Nineteenth-Century Literary Imagination | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2078.md |
+| 2083 | Helene Cixous | The Laugh of the Medusa | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2083.md |
+| 2084 | Helene Cixous | The Laugh of the Medusa | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2084.md |
+| 2085 | Helene Cixous | The Laugh of the Medusa | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2085.md |
+| 2086 | Helene Cixous | The Laugh of the Medusa | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2086.md |
+| 2087 | Helene Cixous | The Laugh of the Medusa | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2087.md |
+| 2088 | Helene Cixous | The Laugh of the Medusa | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2088.md |
+| 2089 | Helene Cixous | The Laugh of the Medusa | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2089.md |
+| 2090 | Helene Cixous | The Laugh of the Medusa | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2090.md |
+| 2091 | Helene Cixous | The Laugh of the Medusa | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2091.md |
+| 2092 | Helene Cixous | The Laugh of the Medusa | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2092.md |
+| 2093 | Helene Cixous | The Laugh of the Medusa | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2093.md |
+| 2094 | Helene Cixous | The Laugh of the Medusa | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2094.md |
+| 2095 | Helene Cixous | The Laugh of the Medusa | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2095.md |
+| 2096 | Helene Cixous | The Laugh of the Medusa | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2096.md |
+| 2097 | Helene Cixous | The Laugh of the Medusa | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2097.md |
+| 2098 | Helene Cixous | The Laugh of the Medusa | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2098.md |
+| 2099 | Helene Cixous | The Laugh of the Medusa | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2099.md |
+| 2103 | Gerald Graff | Taking Cover in Coverage | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2103.md |
+| 2104 | Gerald Graff | Taking Cover in Coverage | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2104.md |
+| 2105 | Gerald Graff | Taking Cover in Coverage | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2105.md |
+| 2106 | Gerald Graff | Taking Cover in Coverage | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2106.md |
+| 2107 | Gerald Graff | Taking Cover in Coverage | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2107.md |
+| 2108 | Gerald Graff | Taking Cover in Coverage | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2108.md |
+| 2109 | Gerald Graff | Taking Cover in Coverage | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2109.md |
+| 2110 | Gerald Graff | Taking Cover in Coverage | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2110.md |
+| 2115 | Stanley E. Fish | Interpreting the Variorum | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2115.md |
+| 2116 | Stanley E. Fish | Interpreting the Variorum | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2116.md |
+| 2117 | Stanley E. Fish | Interpreting the Variorum | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2117.md |
+| 2118 | Stanley E. Fish | Interpreting the Variorum | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2118.md |
+| 2119 | Stanley E. Fish | Interpreting the Variorum | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2119.md |
+| 2120 | Stanley E. Fish | Interpreting the Variorum | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2120.md |
+| 2121 | Stanley E. Fish | Interpreting the Variorum | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2121.md |
+| 2122 | Stanley E. Fish | Interpreting the Variorum | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2122.md |
+| 2123 | Stanley E. Fish | Interpreting the Variorum | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2123.md |
+| 2124 | Stanley E. Fish | Interpreting the Variorum | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2124.md |
+| 2125 | Stanley E. Fish | Interpreting the Variorum | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2125.md |
+| 2126 | Stanley E. Fish | Interpreting the Variorum | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2126.md |
+| 2127 | Stanley E. Fish | Interpreting the Variorum | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2127.md |

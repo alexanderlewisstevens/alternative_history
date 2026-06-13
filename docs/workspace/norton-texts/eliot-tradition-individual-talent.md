@@ -95,8 +95,8 @@ This note turns the current Norton chunk for T. S. Eliot into a navigable worksp
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/t-s-eliot.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T06:37:22Z` |
-| Git commit | `5771067` |
+| Generated at | `2026-06-13T06:43:24Z` |
+| Git commit | `1be04e7` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/eliot-tradition-individual-talent.md` |
 

@@ -71,7 +71,10 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/ohmann-shaping-of-a-canon/"><strong>Richard Ohmann, The Shaping of a Canon: U.S. Fiction, 1960-1975</strong><span>canon, publishing, institutions; pages 1924-1938; 15 review rows</span></a>
   <a href="../norton-texts/smith-contingencies-of-value/"><strong>Barbara Herrnstein Smith, Contingencies of Value</strong><span>value, taste, contingency; pages 1957-1975; 19 review rows</span></a>
   <a href="../norton-texts/jameson-political-unconscious/"><strong>Fredric Jameson, The Political Unconscious: Narrative as a Socially Symbolic Act</strong><span>marxism, historicism, ideology; pages 1981-2003; 23 review rows</span></a>
-  <a href="../norton-texts/said-orientalism/"><strong>Edward W. Said, Orientalism</strong><span>orientalism, imperialism, postcolonialism; pages 2035-2047; 13 review rows</span></a>
+  <a href="../norton-texts/said-orientalism/"><strong>Edward W. Said, Orientalism</strong><span>orientalism, imperialism, postcolonialism; pages 2035-2055; 21 review rows</span></a>
+  <a href="../norton-texts/cixous-laugh-of-the-medusa/"><strong>Helene Cixous, The Laugh of the Medusa</strong><span>ecriture-feminine, writing, feminism; pages 2083-2099; 17 review rows</span></a>
+  <a href="../norton-texts/graff-taking-cover-in-coverage/"><strong>Gerald Graff, Taking Cover in Coverage</strong><span>pedagogy, institutions, literary-studies; pages 2103-2110; 8 review rows</span></a>
+  <a href="../norton-texts/fish-interpreting-the-variorum/"><strong>Stanley E. Fish, Interpreting the Variorum</strong><span>reader-response, interpretation, institutions; pages 2115-2127; 13 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -133,6 +136,9 @@ This is a scaffold for reading the configured texts together. It should become a
 47. [Barbara Herrnstein Smith, Contingencies of Value](norton-texts/smith-contingencies-of-value.md)
 48. [Fredric Jameson, The Political Unconscious: Narrative as a Socially Symbolic Act](norton-texts/jameson-political-unconscious.md)
 49. [Edward W. Said, Orientalism](norton-texts/said-orientalism.md)
+50. [Helene Cixous, The Laugh of the Medusa](norton-texts/cixous-laugh-of-the-medusa.md)
+51. [Gerald Graff, Taking Cover in Coverage](norton-texts/graff-taking-cover-in-coverage.md)
+52. [Stanley E. Fish, Interpreting the Variorum](norton-texts/fish-interpreting-the-variorum.md)
 
 ## Review Pressure
 
@@ -186,7 +192,10 @@ This is a scaffold for reading the configured texts together. It should become a
 | [The Shaping of a Canon: U.S. Fiction, 1960-1975](norton-texts/ohmann-shaping-of-a-canon.md) | 1924-1938 | 15 | excerpt: 15 |
 | [Contingencies of Value](norton-texts/smith-contingencies-of-value.md) | 1957-1975 | 19 | excerpt: 19 |
 | [The Political Unconscious: Narrative as a Socially Symbolic Act](norton-texts/jameson-political-unconscious.md) | 1981-2003 | 23 | excerpt: 23 |
-| [Orientalism](norton-texts/said-orientalism.md) | 2035-2047 | 13 | excerpt: 13 |
+| [Orientalism](norton-texts/said-orientalism.md) | 2035-2055 | 21 | excerpt: 21 |
+| [The Laugh of the Medusa](norton-texts/cixous-laugh-of-the-medusa.md) | 2083-2099 | 17 | excerpt: 17 |
+| [Taking Cover in Coverage](norton-texts/graff-taking-cover-in-coverage.md) | 2103-2110 | 8 | excerpt: 8 |
+| [Interpreting the Variorum](norton-texts/fish-interpreting-the-variorum.md) | 2115-2127 | 13 | excerpt: 13 |
 
 ## Passage Queue
 
@@ -240,8 +249,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T06:37:07Z` |
-| Git commit | `5771067` |
+| Generated at | `2026-06-13T06:43:06Z` |
+| Git commit | `1be04e7` |
 | Script version | `2` |
 | Output path | `docs/workspace/signs-and-reading.md` |
 

@@ -84,7 +84,10 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/smith-contingencies-of-value/"><strong>Barbara Herrnstein Smith, Contingencies of Value</strong><span>value, taste, contingency; pages 1957-1975; 19 review rows</span></a>
   <a href="../norton-texts/jameson-political-unconscious/"><strong>Fredric Jameson, The Political Unconscious: Narrative as a Socially Symbolic Act</strong><span>marxism, historicism, ideology; pages 1981-2003; 23 review rows</span></a>
   <a href="../norton-texts/vizenor-postindian-warriors/"><strong>Gerald Vizenor, Postindian Warriors</strong><span>survivance, simulation, native-studies; pages 2021-2029; 9 review rows</span></a>
-  <a href="../norton-texts/said-orientalism/"><strong>Edward W. Said, Orientalism</strong><span>orientalism, imperialism, postcolonialism; pages 2035-2047; 13 review rows</span></a>
+  <a href="../norton-texts/said-orientalism/"><strong>Edward W. Said, Orientalism</strong><span>orientalism, imperialism, postcolonialism; pages 2035-2055; 21 review rows</span></a>
+  <a href="../norton-texts/gilbert-gubar-madwoman-in-the-attic/"><strong>Sandra M. Gilbert and Susan Gubar, The Madwoman in the Attic</strong><span>feminist-criticism, authorship, literary-history; pages 2067-2078; 12 review rows</span></a>
+  <a href="../norton-texts/cixous-laugh-of-the-medusa/"><strong>Helene Cixous, The Laugh of the Medusa</strong><span>ecriture-feminine, writing, feminism; pages 2083-2099; 17 review rows</span></a>
+  <a href="../norton-texts/fish-interpreting-the-variorum/"><strong>Stanley E. Fish, Interpreting the Variorum</strong><span>reader-response, interpretation, institutions; pages 2115-2127; 13 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -159,6 +162,9 @@ This is a scaffold for reading the configured texts together. It should become a
 60. [Fredric Jameson, The Political Unconscious: Narrative as a Socially Symbolic Act](norton-texts/jameson-political-unconscious.md)
 61. [Gerald Vizenor, Postindian Warriors](norton-texts/vizenor-postindian-warriors.md)
 62. [Edward W. Said, Orientalism](norton-texts/said-orientalism.md)
+63. [Sandra M. Gilbert and Susan Gubar, The Madwoman in the Attic](norton-texts/gilbert-gubar-madwoman-in-the-attic.md)
+64. [Helene Cixous, The Laugh of the Medusa](norton-texts/cixous-laugh-of-the-medusa.md)
+65. [Stanley E. Fish, Interpreting the Variorum](norton-texts/fish-interpreting-the-variorum.md)
 
 ## Review Pressure
 
@@ -225,7 +231,10 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Contingencies of Value](norton-texts/smith-contingencies-of-value.md) | 1957-1975 | 19 | excerpt: 19 |
 | [The Political Unconscious: Narrative as a Socially Symbolic Act](norton-texts/jameson-political-unconscious.md) | 1981-2003 | 23 | excerpt: 23 |
 | [Postindian Warriors](norton-texts/vizenor-postindian-warriors.md) | 2021-2029 | 9 | excerpt: 9 |
-| [Orientalism](norton-texts/said-orientalism.md) | 2035-2047 | 13 | excerpt: 13 |
+| [Orientalism](norton-texts/said-orientalism.md) | 2035-2055 | 21 | excerpt: 21 |
+| [The Madwoman in the Attic](norton-texts/gilbert-gubar-madwoman-in-the-attic.md) | 2067-2078 | 12 | excerpt: 12 |
+| [The Laugh of the Medusa](norton-texts/cixous-laugh-of-the-medusa.md) | 2083-2099 | 17 | excerpt: 17 |
+| [Interpreting the Variorum](norton-texts/fish-interpreting-the-variorum.md) | 2115-2127 | 13 | excerpt: 13 |
 
 ## Passage Queue
 
@@ -279,8 +288,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T06:37:08Z` |
-| Git commit | `5771067` |
+| Generated at | `2026-06-13T06:43:06Z` |
+| Git commit | `1be04e7` |
 | Script version | `2` |
 | Output path | `docs/workspace/commentary-and-afterlife.md` |
 

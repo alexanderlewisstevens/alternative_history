@@ -40,6 +40,7 @@ This private index is generated from curated source metadata and local extractio
 | [Geoffrey of Vinsauf](geoffrey-of-vinsauf.md) | 1 | Poetria Nova |
 | [Georg Wilhelm Friedrich Hegel](georg-wilhelm-friedrich-hegel.md) | 1 | Phenomenology of Spirit and Lectures on Fine Art |
 | [Georges Poulet](georges-poulet.md) | 1 | Phenomenology of Reading |
+| [Gerald Graff](gerald-graff.md) | 1 | Taking Cover in Coverage |
 | [Gerald Vizenor](gerald-vizenor.md) | 1 | Postindian Warriors |
 | [Germaine de Stael](germaine-de-stael.md) | 1 | Essay on Fictions and On Literature Considered in Its Relationship to Social Institutions |
 | [Giacopo Mazzoni](giacopo-mazzoni.md) | 1 | On the Defense of the Comedy of Dante |
@@ -53,6 +54,7 @@ This private index is generated from curated source metadata and local extractio
 | [Hans Robert Jauss](hans-robert-jauss.md) | 1 | Literary History as a Challenge to Literary Theory |
 | [Harold Bloom](harold-bloom.md) | 1 | The Anxiety of Influence |
 | [Hayden White](hayden-white.md) | 1 | The Historical Text as Literary Artifact |
+| [Helene Cixous](helene-cixous.md) | 1 | The Laugh of the Medusa |
 | [Henry James](henry-james.md) | 1 | The Art of Fiction |
 | [Horace](horace.md) | 1 | Ars Poetica |
 | [Hugh of St. Victor](hugh-of-st-victor.md) | 1 | The Didascalicon |
@@ -82,6 +84,7 @@ This private index is generated from curated source metadata and local extractio
 | [Max Horkheimer and Theodor W. Adorno](max-horkheimer-and-theodor-w-adorno.md) | 1 | The Culture Industry: Enlightenment as Mass Deception |
 | [Michel Foucault](michel-foucault.md) | 4 | What Is an Author?, Discipline and Punish, The History of Sexuality, Truth and Power |
 | [Mikhail M. Bakhtin](mikhail-bakhtin.md) | 1 | Discourse in the Novel |
+| [Monique Wittig](monique-wittig.md) | 1 | One Is Not Born a Woman |
 | [Moses Maimonides](moses-maimonides.md) | 1 | The Guide of the Perplexed |
 | [Northrop Frye](northrop-frye.md) | 1 | The Archetypes of Literature |
 | [Oscar Wilde](oscar-wilde.md) | 1 | Preface to The Picture of Dorian Gray and The Critic as Artist |
@@ -100,9 +103,11 @@ This private index is generated from curated source metadata and local extractio
 | [Roman Jakobson](roman-jakobson.md) | 2 | Linguistics and Poetics, Two Aspects of Language and Two Types of Aphasic Disturbances |
 | [Samuel Johnson](samuel-johnson.md) | 1 | Selected Critical Prose |
 | [Samuel Taylor Coleridge](samuel-taylor-coleridge.md) | 1 | The Statesman&#x27;s Manual and Biographia Literaria |
+| [Sandra M. Gilbert and Susan Gubar](sandra-m-gilbert-and-susan-gubar.md) | 1 | The Madwoman in the Attic |
 | [Sigmund Freud](sigmund-freud.md) | 1 | The Interpretation of Dreams, The Uncanny, and Fetishism |
 | [Simone de Beauvoir](simone-de-beauvoir.md) | 1 | The Second Sex |
 | [Sir Philip Sidney](sir-philip-sidney.md) | 1 | The Defense of Poesy |
+| [Stanley E. Fish](stanley-e-fish.md) | 1 | Interpreting the Variorum |
 | [Stephane Mallarme](stephane-mallarme.md) | 1 | Crisis in Poetry |
 | [Stuart Hall](stuart-hall.md) | 1 | Cultural Studies and Its Theoretical Legacies |
 | [T. S. Eliot](t-s-eliot.md) | 2 | Tradition and the Individual Talent, The Metaphysical Poets |
@@ -139,7 +144,7 @@ This private index is generated from curated source metadata and local extractio
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
-| Generated at | `2026-06-13T06:37:16Z` |
-| Git commit | `5771067` |
+| Generated at | `2026-06-13T06:43:18Z` |
+| Git commit | `1be04e7` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/index.md` |

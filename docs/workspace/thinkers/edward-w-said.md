@@ -20,7 +20,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [Orientalism](../norton-texts/said-orientalism.md) | 2035-2047 | 13 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
+| [Orientalism](../norton-texts/said-orientalism.md) | 2035-2055 | 21 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -40,9 +40,9 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Signal | Value |
 | --- | --- |
-| Page kinds | excerpt: 13<br>author_intro: 5 |
-| Review rows | 18 |
-| Review reasons | mixed_bibliography_and_work_title: 18<br>continues_beyond_current_batch: 13<br>transition_from_previous_author: 5 |
+| Page kinds | excerpt: 21<br>author_intro: 5 |
+| Review rows | 26 |
+| Review reasons | mixed_bibliography_and_work_title: 26<br>mixed_author_transition_page: 21<br>transition_from_previous_author: 5 |
 
 ## Passage Queue
 
@@ -93,8 +93,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T06:37:17Z` |
-| Git commit | `5771067` |
+| Generated at | `2026-06-13T06:43:18Z` |
+| Git commit | `1be04e7` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/edward-w-said.md` |
 
