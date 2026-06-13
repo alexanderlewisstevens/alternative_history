@@ -3964,11 +3964,144 @@ overrides:
       - mixed_bibliography_and_work_title
 
   - id: terry-eagleton-literary-theory-introduction
-    pages: 2287
+    pages: 2287-2293
     author_name: Terry Eagleton
     author_slug: terry-eagleton
     work_title: "Literary Theory: An Introduction"
     work_slug: literary-theory-introduction
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: stephen-greenblatt-headnote
+    pages: 2294-2295
+    author_name: Stephen Greenblatt
+    author_slug: stephen-greenblatt
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: stephen-greenblatt-introduction-power-of-forms
+    pages: 2295-2298
+    author_name: Stephen Greenblatt
+    author_slug: stephen-greenblatt
+    work_title: Introduction to The Power of Forms in the English Renaissance
+    work_slug: introduction-power-of-forms
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: barbara-christian-headnote
+    pages: 2299-2300
+    author_name: Barbara Christian
+    author_slug: barbara-christian
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: barbara-christian-race-for-theory
+    pages: 2301-2310
+    author_name: Barbara Christian
+    author_slug: barbara-christian
+    work_title: The Race for Theory
+    work_slug: race-for-theory
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_author_transition_page
+
+  - id: donna-haraway-headnote
+    pages: 2310-2313
+    author_name: Donna Haraway
+    author_slug: donna-haraway
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: donna-haraway-manifesto-for-cyborgs
+    pages: 2313-2343
+    author_name: Donna Haraway
+    author_slug: donna-haraway
+    work_title: A Manifesto for Cyborgs
+    work_slug: manifesto-for-cyborgs
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: barbara-smith-headnote
+    pages: 2343-2346
+    author_name: Barbara Smith
+    author_slug: barbara-smith
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: barbara-smith-toward-black-feminist-criticism
+    pages: 2346-2359
+    author_name: Barbara Smith
+    author_slug: barbara-smith
+    work_title: Toward a Black Feminist Criticism
+    work_slug: toward-black-feminist-criticism
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: barbara-johnson-headnote
+    pages: 2360-2363
+    author_name: Barbara Johnson
+    author_slug: barbara-johnson
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: barbara-johnson-melvilles-fist-execution-billy-budd
+    pages: 2363-2367
+    author_name: Barbara Johnson
+    author_slug: barbara-johnson
+    work_title: "Melville's Fist: The Execution of Billy Budd"
+    work_slug: melvilles-fist-execution-billy-budd
     page_kind: excerpt
     starts_new_author: false
     continues_previous_author: true

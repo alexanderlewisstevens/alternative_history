@@ -93,8 +93,8 @@ This note turns the current Norton chunk for Boris Eichenbaum into a navigable w
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/boris-eichenbaum.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T06:58:13Z` |
-| Git commit | `891720f` |
+| Generated at | `2026-06-13T07:03:56Z` |
+| Git commit | `d472811` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/eichenbaum-theory-formal-method.md` |
 

@@ -84,7 +84,12 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/spivak-critique-postcolonial-reason/"><strong>Gayatri Chakravorty Spivak, A Critique of Postcolonial Reason</strong><span>postcolonialism, subaltern-studies, representation; pages 2241-2251; 11 review rows</span></a>
   <a href="../norton-texts/anzaldua-borderlands-la-frontera/"><strong>Gloria Anzaldua, Borderlands/La Frontera: The New Mestiza</strong><span>borderlands, mestiza-consciousness, chicana-feminism; pages 2255-2266; 12 review rows</span></a>
   <a href="../norton-texts/baker-blues-ideology-afro-american-literature/"><strong>Houston A. Baker Jr., Blues, Ideology, and Afro-American Literature</strong><span>african-american-literature, vernacular, blues; pages 2271-2283; 13 review rows</span></a>
-  <a href="../norton-texts/eagleton-literary-theory-introduction/"><strong>Terry Eagleton, Literary Theory: An Introduction</strong><span>marxism, ideology, literary-studies; pages 2287-2287; 1 review rows</span></a>
+  <a href="../norton-texts/eagleton-literary-theory-introduction/"><strong>Terry Eagleton, Literary Theory: An Introduction</strong><span>marxism, ideology, literary-studies; pages 2287-2293; 7 review rows</span></a>
+  <a href="../norton-texts/greenblatt-introduction-power-of-forms/"><strong>Stephen Greenblatt, Introduction to The Power of Forms in the English Renaissance</strong><span>new-historicism, renaissance, power; pages 2295-2298; 4 review rows</span></a>
+  <a href="../norton-texts/christian-race-for-theory/"><strong>Barbara Christian, The Race for Theory</strong><span>black-feminism, theory, african-american-literature; pages 2301-2309; 9 review rows</span></a>
+  <a href="../norton-texts/haraway-manifesto-for-cyborgs/"><strong>Donna Haraway, A Manifesto for Cyborgs</strong><span>cyberfeminism, technoscience, feminism; pages 2313-2342; 30 review rows</span></a>
+  <a href="../norton-texts/smith-toward-black-feminist-criticism/"><strong>Barbara Smith, Toward a Black Feminist Criticism</strong><span>black-feminism, lesbian-criticism, canon; pages 2346-2359; 14 review rows</span></a>
+  <a href="../norton-texts/johnson-melvilles-fist-execution-billy-budd/"><strong>Barbara Johnson, Melville&#x27;s Fist: The Execution of Billy Budd</strong><span>deconstruction, law, language; pages 2363-2367; 5 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -159,6 +164,11 @@ This is a scaffold for reading the configured texts together. It should become a
 60. [Gloria Anzaldua, Borderlands/La Frontera: The New Mestiza](norton-texts/anzaldua-borderlands-la-frontera.md)
 61. [Houston A. Baker Jr., Blues, Ideology, and Afro-American Literature](norton-texts/baker-blues-ideology-afro-american-literature.md)
 62. [Terry Eagleton, Literary Theory: An Introduction](norton-texts/eagleton-literary-theory-introduction.md)
+63. [Stephen Greenblatt, Introduction to The Power of Forms in the English Renaissance](norton-texts/greenblatt-introduction-power-of-forms.md)
+64. [Barbara Christian, The Race for Theory](norton-texts/christian-race-for-theory.md)
+65. [Donna Haraway, A Manifesto for Cyborgs](norton-texts/haraway-manifesto-for-cyborgs.md)
+66. [Barbara Smith, Toward a Black Feminist Criticism](norton-texts/smith-toward-black-feminist-criticism.md)
+67. [Barbara Johnson, Melville&#x27;s Fist: The Execution of Billy Budd](norton-texts/johnson-melvilles-fist-execution-billy-budd.md)
 
 ## Review Pressure
 
@@ -225,7 +235,12 @@ This is a scaffold for reading the configured texts together. It should become a
 | [A Critique of Postcolonial Reason](norton-texts/spivak-critique-postcolonial-reason.md) | 2241-2251 | 11 | excerpt: 11 |
 | [Borderlands/La Frontera: The New Mestiza](norton-texts/anzaldua-borderlands-la-frontera.md) | 2255-2266 | 12 | excerpt: 12 |
 | [Blues, Ideology, and Afro-American Literature](norton-texts/baker-blues-ideology-afro-american-literature.md) | 2271-2283 | 13 | excerpt: 13 |
-| [Literary Theory: An Introduction](norton-texts/eagleton-literary-theory-introduction.md) | 2287-2287 | 1 | excerpt: 1 |
+| [Literary Theory: An Introduction](norton-texts/eagleton-literary-theory-introduction.md) | 2287-2293 | 7 | excerpt: 7 |
+| [Introduction to The Power of Forms in the English Renaissance](norton-texts/greenblatt-introduction-power-of-forms.md) | 2295-2298 | 4 | excerpt: 4 |
+| [The Race for Theory](norton-texts/christian-race-for-theory.md) | 2301-2309 | 9 | excerpt: 9 |
+| [A Manifesto for Cyborgs](norton-texts/haraway-manifesto-for-cyborgs.md) | 2313-2342 | 30 | excerpt: 30 |
+| [Toward a Black Feminist Criticism](norton-texts/smith-toward-black-feminist-criticism.md) | 2346-2359 | 14 | excerpt: 14 |
+| [Melville&#x27;s Fist: The Execution of Billy Budd](norton-texts/johnson-melvilles-fist-execution-billy-budd.md) | 2363-2367 | 5 | excerpt: 5 |
 
 ## Passage Queue
 
@@ -279,8 +294,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T06:57:54Z` |
-| Git commit | `891720f` |
+| Generated at | `2026-06-13T07:03:42Z` |
+| Git commit | `d472811` |
 | Script version | `2` |
 | Output path | `docs/workspace/signs-and-reading.md` |
 

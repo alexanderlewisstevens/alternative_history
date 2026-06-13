@@ -5,7 +5,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Boundary Review</div>
-  <div class="ah-metric-value">428</div>
+  <div class="ah-metric-value">436</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Content Separation</div>
@@ -21,7 +21,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">General Review</div>
-  <div class="ah-metric-value">1132</div>
+  <div class="ah-metric-value">1204</div>
 </div>
 </div>
 
@@ -29,10 +29,10 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 <div class="ah-review-grid">
 <section class="ah-review-card warn">
-  <div class="ah-review-card-kicker">428 pages</div>
+  <div class="ah-review-card-kicker">436 pages</div>
   <h3>Boundary Review</h3>
   <p>Confirm thinker and work boundaries before assembling public-facing drafts.</p>
-  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +416 more</p>
+  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +424 more</p>
 </section>
 <section class="ah-review-card warn">
   <div class="ah-review-card-kicker">9 pages</div>
@@ -53,10 +53,10 @@ This is the editorial queue for restricted extraction work. It is generated from
   <p><strong>Start:</strong> <code>74</code>, <code>98</code>, <code>99</code>, <code>126</code>, <code>185</code>, <code>190</code>, <code>191</code>, <code>192</code>, <code>194</code>, <code>204</code>, <code>213</code>, <code>218</code> +60 more</p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">1132 pages</div>
+  <div class="ah-review-card-kicker">1204 pages</div>
   <h3>General Review</h3>
   <p>Resolve remaining template or classification questions.</p>
-  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +1120 more</p>
+  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +1192 more</p>
 </section>
 </div>
 
@@ -72,11 +72,11 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Field | Value |
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
-| Classified source pages | `71-2287` |
-| Review queue rows | `1985` |
+| Classified source pages | `71-2367` |
+| Review queue rows | `2065` |
 | Review queue file | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
-| Generated at | `2026-06-13T06:58:04Z` |
-| Git commit | `891720f` |
+| Generated at | `2026-06-13T07:03:48Z` |
+| Git commit | `d472811` |
 | Script version | `1` |
 | Output path | `docs/_meta/review-dashboard.md` |
 
@@ -84,17 +84,17 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 | Reason | Pages |
 | --- | ---: |
-| mixed_bibliography_and_work_title | 720 |
+| mixed_bibliography_and_work_title | 789 |
 | mixed_work_transition_page | 658 |
-| transition_from_previous_author | 406 |
-| mixed_author_transition_page | 373 |
+| transition_from_previous_author | 414 |
+| mixed_author_transition_page | 412 |
 | multi_column_layout | 357 |
 | source_notes_detected | 314 |
 | mixed_transition_page | 68 |
 | selection_boundary_review | 34 |
 | layout_review_required | 23 |
 | author_boundary_without_life_dates | 20 |
-| continues_beyond_current_batch | 15 |
+| continues_beyond_current_batch | 19 |
 | bibliography_on_previous_page | 15 |
 | mixed_excerpt_and_bibliography | 9 |
 | transition_from_previous_work | 2 |
@@ -112,6 +112,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Mikhail M. Bakhtin | 34 |
 | Jacques Lacan | 33 |
 | Louis Althusser | 33 |
+| Donna Haraway | 33 |
 | William K. Wimsatt Jr. and Monroe C. Beardsley | 32 |
 | Matthew Arnold | 31 |
 | Plato | 29 |
@@ -149,6 +150,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Jean-Paul Sartre | 17 |
 | Jane Tompkins | 17 |
 | Houston A. Baker Jr. | 17 |
+| Barbara Smith | 17 |
 | Oscar Wilde | 16 |
 | Georges Poulet | 16 |
 | Gilles Deleuze and Felix Guattari | 16 |
@@ -190,6 +192,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Edgar Allan Poe | 11 |
 | Gerald Vizenor | 11 |
 | Gerald Graff | 11 |
+| Barbara Christian | 11 |
 | Quintilian | 10 |
 | Hugh of St. Victor | 10 |
 | Joseph Addison | 10 |
@@ -199,6 +202,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | W. E. B. Du Bois | 10 |
 | Martin Heidegger | 10 |
 | Raymond Williams | 10 |
+| Terry Eagleton | 10 |
 | Augustine of Hippo | 9 |
 | Giovanni Boccaccio | 9 |
 | John Dryden | 9 |
@@ -213,6 +217,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Henry James | 8 |
 | Monique Wittig | 8 |
 | Ngugi wa Thiong'o, Taban Lo Liyong, and Henry Owuor-Anyumba | 8 |
+| Barbara Johnson | 8 |
 | Plotinus | 7 |
 | Giambattista Giraldi | 7 |
 | David Hume | 7 |
@@ -224,8 +229,8 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Jean-Francois Lyotard | 6 |
 | Dante Alighieri | 5 |
 | Pierre de Ronsard | 5 |
+| Stephen Greenblatt | 5 |
 | Macrobius | 4 |
-| Terry Eagleton | 4 |
 | Gorgias of Leontini | 3 |
 | Christine de Pizan | 3 |
 
@@ -661,6 +666,14 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 2284 | Terry Eagleton | Blues, Ideology, and Afro-American Literature | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2284.md |
 | 2285 | Terry Eagleton |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2285.md |
 | 2286 | Terry Eagleton |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2286.md |
+| 2299 | Barbara Christian |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_2299.md |
+| 2300 | Barbara Christian |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_2300.md |
+| 2310 | Donna Haraway | The Race for Theory | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2310.md |
+| 2311 | Donna Haraway | Donna Haraway | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2311.md |
+| 2312 | Donna Haraway |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2312.md |
+| 2343 | Barbara Smith | A Manifesto for Cyborgs | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2343.md |
+| 2344 | Barbara Smith |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2344.md |
+| 2345 | Barbara Smith | Barbara Smith | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2345.md |
 
 ## Content Separation
 
@@ -2237,4 +2250,76 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 2281 | Houston A. Baker Jr. | Blues, Ideology, and Afro-American Literature | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2281.md |
 | 2282 | Houston A. Baker Jr. | Blues, Ideology, and Afro-American Literature | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2282.md |
 | 2283 | Houston A. Baker Jr. | Blues, Ideology, and Afro-American Literature | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2283.md |
-| 2287 | Terry Eagleton | Literary Theory: An Introduction | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2287.md |
+| 2287 | Terry Eagleton | Literary Theory: An Introduction | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2287.md |
+| 2288 | Terry Eagleton | Literary Theory: An Introduction | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2288.md |
+| 2289 | Terry Eagleton | Literary Theory: An Introduction | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2289.md |
+| 2290 | Terry Eagleton | Literary Theory: An Introduction | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2290.md |
+| 2291 | Terry Eagleton | Literary Theory: An Introduction | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2291.md |
+| 2292 | Terry Eagleton | Literary Theory: An Introduction | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2292.md |
+| 2293 | Terry Eagleton | Literary Theory: An Introduction | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2293.md |
+| 2294 | Stephen Greenblatt |  | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2294.md |
+| 2295 | Stephen Greenblatt | Introduction to The Power of Forms in the English Renaissance | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2295.md |
+| 2296 | Stephen Greenblatt | Introduction to The Power of Forms in the English Renaissance | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2296.md |
+| 2297 | Stephen Greenblatt | Introduction to The Power of Forms in the English Renaissance | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2297.md |
+| 2298 | Stephen Greenblatt | Introduction to The Power of Forms in the English Renaissance | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2298.md |
+| 2301 | Barbara Christian | The Race for Theory | mixed_author_transition_page | work/page-records/norton-theory-criticism/page_2301.md |
+| 2302 | Barbara Christian | The Race for Theory | mixed_author_transition_page | work/page-records/norton-theory-criticism/page_2302.md |
+| 2303 | Barbara Christian | The Race for Theory | mixed_author_transition_page | work/page-records/norton-theory-criticism/page_2303.md |
+| 2304 | Barbara Christian | The Race for Theory | mixed_author_transition_page | work/page-records/norton-theory-criticism/page_2304.md |
+| 2305 | Barbara Christian | The Race for Theory | mixed_author_transition_page | work/page-records/norton-theory-criticism/page_2305.md |
+| 2306 | Barbara Christian | The Race for Theory | mixed_author_transition_page | work/page-records/norton-theory-criticism/page_2306.md |
+| 2307 | Barbara Christian | The Race for Theory | mixed_author_transition_page | work/page-records/norton-theory-criticism/page_2307.md |
+| 2308 | Barbara Christian | The Race for Theory | mixed_author_transition_page | work/page-records/norton-theory-criticism/page_2308.md |
+| 2309 | Barbara Christian | The Race for Theory | mixed_author_transition_page | work/page-records/norton-theory-criticism/page_2309.md |
+| 2313 | Donna Haraway | A Manifesto for Cyborgs | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2313.md |
+| 2314 | Donna Haraway | A Manifesto for Cyborgs | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2314.md |
+| 2315 | Donna Haraway | A Manifesto for Cyborgs | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2315.md |
+| 2316 | Donna Haraway | A Manifesto for Cyborgs | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2316.md |
+| 2317 | Donna Haraway | A Manifesto for Cyborgs | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2317.md |
+| 2318 | Donna Haraway | A Manifesto for Cyborgs | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2318.md |
+| 2319 | Donna Haraway | A Manifesto for Cyborgs | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2319.md |
+| 2320 | Donna Haraway | A Manifesto for Cyborgs | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2320.md |
+| 2321 | Donna Haraway | A Manifesto for Cyborgs | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2321.md |
+| 2322 | Donna Haraway | A Manifesto for Cyborgs | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2322.md |
+| 2323 | Donna Haraway | A Manifesto for Cyborgs | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2323.md |
+| 2324 | Donna Haraway | A Manifesto for Cyborgs | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2324.md |
+| 2325 | Donna Haraway | A Manifesto for Cyborgs | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2325.md |
+| 2326 | Donna Haraway | A Manifesto for Cyborgs | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2326.md |
+| 2327 | Donna Haraway | A Manifesto for Cyborgs | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2327.md |
+| 2328 | Donna Haraway | A Manifesto for Cyborgs | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2328.md |
+| 2329 | Donna Haraway | A Manifesto for Cyborgs | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2329.md |
+| 2330 | Donna Haraway | A Manifesto for Cyborgs | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2330.md |
+| 2331 | Donna Haraway | A Manifesto for Cyborgs | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2331.md |
+| 2332 | Donna Haraway | A Manifesto for Cyborgs | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2332.md |
+| 2333 | Donna Haraway | A Manifesto for Cyborgs | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2333.md |
+| 2334 | Donna Haraway | A Manifesto for Cyborgs | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2334.md |
+| 2335 | Donna Haraway | A Manifesto for Cyborgs | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2335.md |
+| 2336 | Donna Haraway | A Manifesto for Cyborgs | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2336.md |
+| 2337 | Donna Haraway | A Manifesto for Cyborgs | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2337.md |
+| 2338 | Donna Haraway | A Manifesto for Cyborgs | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2338.md |
+| 2339 | Donna Haraway | A Manifesto for Cyborgs | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2339.md |
+| 2340 | Donna Haraway | A Manifesto for Cyborgs | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2340.md |
+| 2341 | Donna Haraway | A Manifesto for Cyborgs | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2341.md |
+| 2342 | Donna Haraway | A Manifesto for Cyborgs | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2342.md |
+| 2346 | Barbara Smith | Toward a Black Feminist Criticism | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2346.md |
+| 2347 | Barbara Smith | Toward a Black Feminist Criticism | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2347.md |
+| 2348 | Barbara Smith | Toward a Black Feminist Criticism | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2348.md |
+| 2349 | Barbara Smith | Toward a Black Feminist Criticism | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2349.md |
+| 2350 | Barbara Smith | Toward a Black Feminist Criticism | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2350.md |
+| 2351 | Barbara Smith | Toward a Black Feminist Criticism | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2351.md |
+| 2352 | Barbara Smith | Toward a Black Feminist Criticism | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2352.md |
+| 2353 | Barbara Smith | Toward a Black Feminist Criticism | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2353.md |
+| 2354 | Barbara Smith | Toward a Black Feminist Criticism | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2354.md |
+| 2355 | Barbara Smith | Toward a Black Feminist Criticism | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2355.md |
+| 2356 | Barbara Smith | Toward a Black Feminist Criticism | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2356.md |
+| 2357 | Barbara Smith | Toward a Black Feminist Criticism | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2357.md |
+| 2358 | Barbara Smith | Toward a Black Feminist Criticism | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2358.md |
+| 2359 | Barbara Smith | Toward a Black Feminist Criticism | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2359.md |
+| 2360 | Barbara Johnson |  | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2360.md |
+| 2361 | Barbara Johnson | Barbarajohnson | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2361.md |
+| 2362 | Barbara Johnson |  | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2362.md |
+| 2363 | Barbara Johnson | Melville's Fist: The Execution of Billy Budd | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2363.md |
+| 2364 | Barbara Johnson | Melville's Fist: The Execution of Billy Budd | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2364.md |
+| 2365 | Barbara Johnson | Melville's Fist: The Execution of Billy Budd | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2365.md |
+| 2366 | Barbara Johnson | Melville's Fist: The Execution of Billy Budd | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2366.md |
+| 2367 | Barbara Johnson | Melville's Fist: The Execution of Billy Budd | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2367.md |

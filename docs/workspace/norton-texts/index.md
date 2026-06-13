@@ -10,11 +10,11 @@ This index is generated from curated source metadata and local extraction audit 
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Curated Text Nodes</div>
-  <div class="ah-metric-value">142</div>
+  <div class="ah-metric-value">147</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Assembled Chunks</div>
-  <div class="ah-metric-value">142</div>
+  <div class="ah-metric-value">147</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Constellations</div>
@@ -167,7 +167,12 @@ This index is generated from curated source metadata and local extraction audit 
 | [A Critique of Postcolonial Reason](spivak-critique-postcolonial-reason.md) | Gayatri Chakravorty Spivak | 2241-2251 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 11 | `edition-review-needed` |
 | [Borderlands/La Frontera: The New Mestiza](anzaldua-borderlands-la-frontera.md) | Gloria Anzaldua | 2255-2266 | [signs-and-reading](../signs-and-reading.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 12 | `edition-review-needed` |
 | [Blues, Ideology, and Afro-American Literature](baker-blues-ideology-afro-american-literature.md) | Houston A. Baker Jr. | 2271-2283 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[media-and-form](../media-and-form.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 13 | `edition-review-needed` |
-| [Literary Theory: An Introduction](eagleton-literary-theory-introduction.md) | Terry Eagleton | 2287-2287 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[media-and-form](../media-and-form.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 1 | `edition-review-needed` |
+| [Literary Theory: An Introduction](eagleton-literary-theory-introduction.md) | Terry Eagleton | 2287-2293 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[media-and-form](../media-and-form.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 7 | `edition-review-needed` |
+| [Introduction to The Power of Forms in the English Renaissance](greenblatt-introduction-power-of-forms.md) | Stephen Greenblatt | 2295-2298 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 4 | `edition-review-needed` |
+| [The Race for Theory](christian-race-for-theory.md) | Barbara Christian | 2301-2309 | [signs-and-reading](../signs-and-reading.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 9 | `edition-review-needed` |
+| [A Manifesto for Cyborgs](haraway-manifesto-for-cyborgs.md) | Donna Haraway | 2313-2342 | [signs-and-reading](../signs-and-reading.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 30 | `edition-review-needed` |
+| [Toward a Black Feminist Criticism](smith-toward-black-feminist-criticism.md) | Barbara Smith | 2346-2359 | [signs-and-reading](../signs-and-reading.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 14 | `edition-review-needed` |
+| [Melville&#x27;s Fist: The Execution of Billy Budd](johnson-melvilles-fist-execution-billy-budd.md) | Barbara Johnson | 2363-2367 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md) | 0 | 5 | `edition-review-needed` |
 
 ## How To Use This Index
 
@@ -194,7 +199,7 @@ This index is generated from curated source metadata and local extraction audit 
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T06:58:15Z` |
-| Git commit | `891720f` |
+| Generated at | `2026-06-13T07:03:58Z` |
+| Git commit | `d472811` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/index.md` |

@@ -93,8 +93,8 @@ This note turns the current Norton chunk for Aristotle into a navigable workspac
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/aristotle.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T06:58:11Z` |
-| Git commit | `891720f` |
+| Generated at | `2026-06-13T07:03:54Z` |
+| Git commit | `d472811` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/aristotle-poetics-rhetoric.md` |
 

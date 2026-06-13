@@ -1662,6 +1662,66 @@ curated_texts:
       - literary-studies
       - education
     status: edition-review-needed
+  - id: greenblatt-introduction-power-of-forms
+    title: Introduction to The Power of Forms in the English Renaissance
+    creator: Stephen Greenblatt
+    extraction_work_titles:
+      - Introduction to The Power of Forms in the English Renaissance
+    role: core-text-candidate
+    themes:
+      - new-historicism
+      - renaissance
+      - power
+      - cultural-poetics
+    status: edition-review-needed
+  - id: christian-race-for-theory
+    title: The Race for Theory
+    creator: Barbara Christian
+    extraction_work_titles:
+      - The Race for Theory
+    role: core-text-candidate
+    themes:
+      - black-feminism
+      - theory
+      - african-american-literature
+      - canon
+    status: edition-review-needed
+  - id: haraway-manifesto-for-cyborgs
+    title: A Manifesto for Cyborgs
+    creator: Donna Haraway
+    extraction_work_titles:
+      - A Manifesto for Cyborgs
+    role: core-text-candidate
+    themes:
+      - cyberfeminism
+      - technoscience
+      - feminism
+      - subjectivity
+    status: edition-review-needed
+  - id: smith-toward-black-feminist-criticism
+    title: Toward a Black Feminist Criticism
+    creator: Barbara Smith
+    extraction_work_titles:
+      - Toward a Black Feminist Criticism
+    role: core-text-candidate
+    themes:
+      - black-feminism
+      - lesbian-criticism
+      - canon
+      - literary-criticism
+    status: edition-review-needed
+  - id: johnson-melvilles-fist-execution-billy-budd
+    title: "Melville's Fist: The Execution of Billy Budd"
+    creator: Barbara Johnson
+    extraction_work_titles:
+      - "Melville's Fist: The Execution of Billy Budd"
+    role: core-text-candidate
+    themes:
+      - deconstruction
+      - law
+      - language
+      - pedagogy
+    status: edition-review-needed
 
 constellations:
   - id: rhetoric-and-force
@@ -1792,6 +1852,11 @@ constellations:
       - anzaldua-borderlands-la-frontera
       - baker-blues-ideology-afro-american-literature
       - eagleton-literary-theory-introduction
+      - greenblatt-introduction-power-of-forms
+      - christian-race-for-theory
+      - haraway-manifesto-for-cyborgs
+      - smith-toward-black-feminist-criticism
+      - johnson-melvilles-fist-execution-billy-budd
     relations:
       - writing
       - interpretation
@@ -1897,6 +1962,8 @@ constellations:
       - spivak-critique-postcolonial-reason
       - baker-blues-ideology-afro-american-literature
       - eagleton-literary-theory-introduction
+      - greenblatt-introduction-power-of-forms
+      - johnson-melvilles-fist-execution-billy-budd
     relations:
       - commentary
       - transmission
@@ -1963,6 +2030,9 @@ constellations:
       - spivak-critique-postcolonial-reason
       - anzaldua-borderlands-la-frontera
       - eagleton-literary-theory-introduction
+      - christian-race-for-theory
+      - smith-toward-black-feminist-criticism
+      - johnson-melvilles-fist-execution-billy-budd
     relations:
       - pedagogy
       - civic-formation
@@ -2084,6 +2154,9 @@ constellations:
       - anzaldua-borderlands-la-frontera
       - baker-blues-ideology-afro-american-literature
       - eagleton-literary-theory-introduction
+      - christian-race-for-theory
+      - smith-toward-black-feminist-criticism
+      - johnson-melvilles-fist-execution-billy-budd
     relations:
       - authorship
       - gender
@@ -2140,6 +2213,8 @@ constellations:
       - mulvey-visual-pleasure-narrative-cinema
       - baker-blues-ideology-afro-american-literature
       - eagleton-literary-theory-introduction
+      - haraway-manifesto-for-cyborgs
+      - johnson-melvilles-fist-execution-billy-budd
     relations:
       - taste
       - criticism
@@ -2274,6 +2349,9 @@ constellations:
       - spivak-critique-postcolonial-reason
       - anzaldua-borderlands-la-frontera
       - eagleton-literary-theory-introduction
+      - christian-race-for-theory
+      - smith-toward-black-feminist-criticism
+      - johnson-melvilles-fist-execution-billy-budd
     relations:
       - education
       - freedom
@@ -2382,6 +2460,10 @@ constellations:
       - anzaldua-borderlands-la-frontera
       - baker-blues-ideology-afro-american-literature
       - eagleton-literary-theory-introduction
+      - greenblatt-introduction-power-of-forms
+      - christian-race-for-theory
+      - haraway-manifesto-for-cyborgs
+      - smith-toward-black-feminist-criticism
     relations:
       - labor
       - ideology

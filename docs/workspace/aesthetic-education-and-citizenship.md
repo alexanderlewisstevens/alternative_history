@@ -69,7 +69,10 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/fish-interpreting-the-variorum/"><strong>Stanley E. Fish, Interpreting the Variorum</strong><span>reader-response, interpretation, institutions; pages 2115-2132; 18 review rows</span></a>
   <a href="../norton-texts/spivak-critique-postcolonial-reason/"><strong>Gayatri Chakravorty Spivak, A Critique of Postcolonial Reason</strong><span>postcolonialism, subaltern-studies, representation; pages 2241-2251; 11 review rows</span></a>
   <a href="../norton-texts/anzaldua-borderlands-la-frontera/"><strong>Gloria Anzaldua, Borderlands/La Frontera: The New Mestiza</strong><span>borderlands, mestiza-consciousness, chicana-feminism; pages 2255-2266; 12 review rows</span></a>
-  <a href="../norton-texts/eagleton-literary-theory-introduction/"><strong>Terry Eagleton, Literary Theory: An Introduction</strong><span>marxism, ideology, literary-studies; pages 2287-2287; 1 review rows</span></a>
+  <a href="../norton-texts/eagleton-literary-theory-introduction/"><strong>Terry Eagleton, Literary Theory: An Introduction</strong><span>marxism, ideology, literary-studies; pages 2287-2293; 7 review rows</span></a>
+  <a href="../norton-texts/christian-race-for-theory/"><strong>Barbara Christian, The Race for Theory</strong><span>black-feminism, theory, african-american-literature; pages 2301-2309; 9 review rows</span></a>
+  <a href="../norton-texts/smith-toward-black-feminist-criticism/"><strong>Barbara Smith, Toward a Black Feminist Criticism</strong><span>black-feminism, lesbian-criticism, canon; pages 2346-2359; 14 review rows</span></a>
+  <a href="../norton-texts/johnson-melvilles-fist-execution-billy-budd/"><strong>Barbara Johnson, Melville&#x27;s Fist: The Execution of Billy Budd</strong><span>deconstruction, law, language; pages 2363-2367; 5 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -129,6 +132,9 @@ This is a scaffold for reading the configured texts together. It should become a
 45. [Gayatri Chakravorty Spivak, A Critique of Postcolonial Reason](norton-texts/spivak-critique-postcolonial-reason.md)
 46. [Gloria Anzaldua, Borderlands/La Frontera: The New Mestiza](norton-texts/anzaldua-borderlands-la-frontera.md)
 47. [Terry Eagleton, Literary Theory: An Introduction](norton-texts/eagleton-literary-theory-introduction.md)
+48. [Barbara Christian, The Race for Theory](norton-texts/christian-race-for-theory.md)
+49. [Barbara Smith, Toward a Black Feminist Criticism](norton-texts/smith-toward-black-feminist-criticism.md)
+50. [Barbara Johnson, Melville&#x27;s Fist: The Execution of Billy Budd](norton-texts/johnson-melvilles-fist-execution-billy-budd.md)
 
 ## Review Pressure
 
@@ -180,7 +186,10 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Interpreting the Variorum](norton-texts/fish-interpreting-the-variorum.md) | 2115-2132 | 18 | excerpt: 18 |
 | [A Critique of Postcolonial Reason](norton-texts/spivak-critique-postcolonial-reason.md) | 2241-2251 | 11 | excerpt: 11 |
 | [Borderlands/La Frontera: The New Mestiza](norton-texts/anzaldua-borderlands-la-frontera.md) | 2255-2266 | 12 | excerpt: 12 |
-| [Literary Theory: An Introduction](norton-texts/eagleton-literary-theory-introduction.md) | 2287-2287 | 1 | excerpt: 1 |
+| [Literary Theory: An Introduction](norton-texts/eagleton-literary-theory-introduction.md) | 2287-2293 | 7 | excerpt: 7 |
+| [The Race for Theory](norton-texts/christian-race-for-theory.md) | 2301-2309 | 9 | excerpt: 9 |
+| [Toward a Black Feminist Criticism](norton-texts/smith-toward-black-feminist-criticism.md) | 2346-2359 | 14 | excerpt: 14 |
+| [Melville&#x27;s Fist: The Execution of Billy Budd](norton-texts/johnson-melvilles-fist-execution-billy-budd.md) | 2363-2367 | 5 | excerpt: 5 |
 
 ## Passage Queue
 
@@ -234,8 +243,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T06:57:58Z` |
-| Git commit | `891720f` |
+| Generated at | `2026-06-13T07:03:45Z` |
+| Git commit | `d472811` |
 | Script version | `2` |
 | Output path | `docs/workspace/aesthetic-education-and-citizenship.md` |
 

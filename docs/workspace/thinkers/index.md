@@ -16,7 +16,10 @@ This private index is generated from curated source metadata and local extractio
 | [Aphra Behn](aphra-behn.md) | 1 | The Dutch Lover and Preface to The Lucky Chance |
 | [Aristotle](aristotle.md) | 1 | Poetics and Rhetoric |
 | [Augustine of Hippo](augustine-of-hippo.md) | 1 | On Christian Doctrine and The Trinity |
+| [Barbara Christian](barbara-christian.md) | 1 | The Race for Theory |
 | [Barbara Herrnstein Smith](barbara-herrnstein-smith.md) | 1 | Contingencies of Value |
+| [Barbara Johnson](barbara-johnson.md) | 1 | Melville&#x27;s Fist: The Execution of Billy Budd |
+| [Barbara Smith](barbara-smith.md) | 1 | Toward a Black Feminist Criticism |
 | [Boris Eichenbaum](boris-eichenbaum.md) | 1 | The Theory of the Formal Method |
 | [Carl Gustav Jung](carl-gustav-jung.md) | 1 | On the Relation of Analytical Psychology to Poetry |
 | [Charles Baudelaire](charles-baudelaire.md) | 1 | The Painter of Modern Life |
@@ -26,6 +29,7 @@ This private index is generated from curated source metadata and local extractio
 | [Cleanth Brooks](cleanth-brooks.md) | 1 | The Well Wrought Urn |
 | [Dante Alighieri](dante-alighieri.md) | 1 | Il Convivio and The Letter to Can Grande |
 | [David Hume](david-hume.md) | 1 | Of the Standard of Taste |
+| [Donna Haraway](donna-haraway.md) | 1 | A Manifesto for Cyborgs |
 | [E. D. Hirsch Jr.](e-d-hirsch-jr.md) | 1 | Objective Interpretation |
 | [Edgar Allan Poe](edgar-allan-poe.md) | 1 | The Philosophy of Composition |
 | [Edmund Burke](edmund-burke.md) | 1 | A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful |
@@ -118,6 +122,7 @@ This private index is generated from curated source metadata and local extractio
 | [Sir Philip Sidney](sir-philip-sidney.md) | 1 | The Defense of Poesy |
 | [Stanley E. Fish](stanley-e-fish.md) | 1 | Interpreting the Variorum |
 | [Stephane Mallarme](stephane-mallarme.md) | 1 | Crisis in Poetry |
+| [Stephen Greenblatt](stephen-greenblatt.md) | 1 | Introduction to The Power of Forms in the English Renaissance |
 | [Stuart Hall](stuart-hall.md) | 1 | Cultural Studies and Its Theoretical Legacies |
 | [T. S. Eliot](t-s-eliot.md) | 2 | Tradition and the Individual Talent, The Metaphysical Poets |
 | [Terry Eagleton](terry-eagleton.md) | 1 | Literary Theory: An Introduction |
@@ -155,7 +160,7 @@ This private index is generated from curated source metadata and local extractio
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
-| Generated at | `2026-06-13T06:58:06Z` |
-| Git commit | `891720f` |
+| Generated at | `2026-06-13T07:03:49Z` |
+| Git commit | `d472811` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/index.md` |

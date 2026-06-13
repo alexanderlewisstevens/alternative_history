@@ -89,8 +89,8 @@ This note turns the current Norton chunk for Horace into a navigable workspace n
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/horace.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T06:58:11Z` |
-| Git commit | `891720f` |
+| Generated at | `2026-06-13T07:03:54Z` |
+| Git commit | `d472811` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/horace-ars-poetica.md` |
 

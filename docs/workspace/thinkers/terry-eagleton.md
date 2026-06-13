@@ -20,7 +20,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [Literary Theory: An Introduction](../norton-texts/eagleton-literary-theory-introduction.md) | 2287-2287 | 1 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[media-and-form](../media-and-form.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | `edition-review-needed` |
+| [Literary Theory: An Introduction](../norton-texts/eagleton-literary-theory-introduction.md) | 2287-2293 | 7 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[media-and-form](../media-and-form.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -41,9 +41,9 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Signal | Value |
 | --- | --- |
-| Page kinds | author_intro: 3<br>excerpt: 1 |
-| Review rows | 4 |
-| Review reasons | mixed_bibliography_and_work_title: 4<br>transition_from_previous_author: 3<br>continues_beyond_current_batch: 1 |
+| Page kinds | excerpt: 7<br>author_intro: 3 |
+| Review rows | 10 |
+| Review reasons | mixed_bibliography_and_work_title: 10<br>transition_from_previous_author: 3 |
 
 ## Passage Queue
 
@@ -94,8 +94,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T06:58:08Z` |
-| Git commit | `891720f` |
+| Generated at | `2026-06-13T07:03:51Z` |
+| Git commit | `d472811` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/terry-eagleton.md` |
 

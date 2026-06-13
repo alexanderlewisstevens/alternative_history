@@ -90,8 +90,8 @@ This note turns the current Norton chunk for Joseph Addison into a navigable wor
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/joseph-addison.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T06:58:12Z` |
-| Git commit | `891720f` |
+| Generated at | `2026-06-13T07:03:55Z` |
+| Git commit | `d472811` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/addison-spectator-essays.md` |
 
