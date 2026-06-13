@@ -21,3 +21,9 @@ jobs:
 
       - name: Run reproducible checks
         run: make ci
+
+      - name: Install browser
+        run: .venv/bin/python -m playwright install --with-deps chromium
+
+      - name: Run browser smoke checks
+        run: make browser-smoke-site

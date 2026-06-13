@@ -58,8 +58,8 @@ This page is generated from audit artifacts. It intentionally contains metadata 
 | Field | Value |
 | --- | --- |
 | Classified source pages | `71-267` |
-| Status page generated at | `2026-06-13T02:07:36Z` |
-| Git commit | `8bc76e4` |
+| Status page generated at | `2026-06-13T02:14:27Z` |
+| Git commit | `bac7e96` |
 | Script version | `1` |
 | Output path | `docs/_meta/extraction-status.md` |
 

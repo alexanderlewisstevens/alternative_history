@@ -27,7 +27,7 @@ LIMIT_ARGS := $(if $(LIMIT),--limit $(LIMIT),)
 SELECT_ARGS := $(PAGE_ARGS) $(LIMIT_ARGS)
 AGENT_ARGS := $(if $(AGENT_COMMAND),--agent-command "$(AGENT_COMMAND)",)
 
-.PHONY: setup slice validate-fixtures extract-layout classify-pages generate-page-records validate-page-records assemble-authors validate-authors update-site update-workspace update-workspace-constellations update-workspace-thinkers update-workspace-notes build smoke-site audit ci pilot pilot-api serve clean-extraction clean-generated
+.PHONY: setup slice validate-fixtures extract-layout classify-pages generate-page-records validate-page-records assemble-authors validate-authors update-site update-workspace update-workspace-constellations update-workspace-thinkers update-workspace-notes build smoke-site browser-smoke-site install-browser audit ci pilot pilot-api serve clean-extraction clean-generated
 
 $(VENV_STAMP): requirements.txt
 	$(PYTHON) -m venv $(VENV)
@@ -89,6 +89,12 @@ build: setup update-site
 
 smoke-site: build
 	$(VENV_PYTHON) scripts/smoke_site.py --site-dir site
+
+install-browser: setup
+	$(VENV_PYTHON) -m playwright install chromium
+
+browser-smoke-site: build
+	$(VENV_PYTHON) scripts/browser_smoke_site.py --site-dir site
 
 serve: setup update-site
 	$(VENV_PYTHON) -m mkdocs serve --dev-addr $(SERVE_ADDR)
