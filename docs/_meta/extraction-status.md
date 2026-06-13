@@ -5,19 +5,19 @@ This page is generated from audit artifacts. It intentionally contains metadata 
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Classified Pages</div>
-  <div class="ah-metric-value">71-1327</div>
+  <div class="ah-metric-value">71-1407</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Page Records</div>
-  <div class="ah-metric-value">1257</div>
+  <div class="ah-metric-value">1337</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Thinker Drafts</div>
-  <div class="ah-metric-value">73</div>
+  <div class="ah-metric-value">77</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Review Rows</div>
-  <div class="ah-metric-value">1038</div>
+  <div class="ah-metric-value">1118</div>
 </div>
 </div>
 
@@ -45,21 +45,21 @@ This page is generated from audit artifacts. It intentionally contains metadata 
 | Artifact | Count | Location |
 | --- | ---: | --- |
 | Sliced PDFs | 2668 | `Norton_Anthology_Sliced_Author` |
-| Layout records | 1257 | `work/layout/norton-theory-criticism/layout.jsonl` |
-| Classification records | 1257 | `work/classification/norton-theory-criticism/page-classifications.jsonl` |
-| Review queue rows | 1038 | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
-| Page records | 1257 | `work/page-records/norton-theory-criticism` |
-| Page-generation audit rows | 1257 | `work/audit/norton-theory-criticism/page-record-generation.csv` |
-| Thinker drafts | 73 | `generated/authors/norton-theory-criticism` |
-| Thinker-assembly audit rows | 73 | `work/audit/norton-theory-criticism/author-assembly.csv` |
+| Layout records | 1337 | `work/layout/norton-theory-criticism/layout.jsonl` |
+| Classification records | 1337 | `work/classification/norton-theory-criticism/page-classifications.jsonl` |
+| Review queue rows | 1118 | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
+| Page records | 1337 | `work/page-records/norton-theory-criticism` |
+| Page-generation audit rows | 1337 | `work/audit/norton-theory-criticism/page-record-generation.csv` |
+| Thinker drafts | 77 | `generated/authors/norton-theory-criticism` |
+| Thinker-assembly audit rows | 77 | `work/audit/norton-theory-criticism/author-assembly.csv` |
 
 ## Classified Range
 
 | Field | Value |
 | --- | --- |
-| Classified source pages | `71-1327` |
-| Status page generated at | `2026-06-13T05:38:59Z` |
-| Git commit | `0fd2aaf` |
+| Classified source pages | `71-1407` |
+| Status page generated at | `2026-06-13T05:45:38Z` |
+| Git commit | `d54dce7` |
 | Script version | `1` |
 | Output path | `docs/_meta/extraction-status.md` |
 
@@ -76,6 +76,7 @@ This page is generated from audit artifacts. It intentionally contains metadata 
 | carl-gustav-jung | 15 | 1031-1045 | ok | generated/authors/norton-theory-criticism/carl-gustav-jung.md |
 | charles-baudelaire | 13 | 831-843 | ok | generated/authors/norton-theory-criticism/charles-baudelaire.md |
 | christine-de-pizan | 8 | 305-312 | ok | generated/authors/norton-theory-criticism/christine-de-pizan.md |
+| cleanth-brooks | 14 | 1394-1407 | ok | generated/authors/norton-theory-criticism/cleanth-brooks.md |
 | dante-alighieri | 7 | 288-294 | ok | generated/authors/norton-theory-criticism/dante-alighieri.md |
 | david-hume | 16 | 525-540 | ok | generated/authors/norton-theory-criticism/david-hume.md |
 | edgar-allan-poe | 11 | 781-791 | ok | generated/authors/norton-theory-criticism/edgar-allan-poe.md |
@@ -88,6 +89,7 @@ This page is generated from audit artifacts. It intentionally contains metadata 
 | friedrich-schleiermacher | 16 | 652-667 | ok | generated/authors/norton-theory-criticism/friedrich-schleiermacher.md |
 | geoffrey-of-vinsauf | 14 | 268-281 | ok | generated/authors/norton-theory-criticism/geoffrey-of-vinsauf.md |
 | georg-wilhelm-friedrich-hegel | 19 | 668-686 | ok | generated/authors/norton-theory-criticism/georg-wilhelm-friedrich-hegel.md |
+| georges-poulet | 16 | 1361-1376 | ok | generated/authors/norton-theory-criticism/georges-poulet.md |
 | germaine-de-stael | 16 | 636-651 | ok | generated/authors/norton-theory-criticism/germaine-de-stael.md |
 | giacopo-mazzoni | 23 | 342-364 | ok | generated/authors/norton-theory-criticism/giacopo-mazzoni.md |
 | giambattista-giraldi | 8 | 313-320 | ok | generated/authors/norton-theory-criticism/giambattista-giraldi.md |
@@ -100,13 +102,15 @@ This page is generated from audit artifacts. It intentionally contains metadata 
 | horace | 14 | 163-176 | ok | generated/authors/norton-theory-criticism/horace.md |
 | hugh-of-st-victor | 10 | 243-252 | ok | generated/authors/norton-theory-criticism/hugh-of-st-victor.md |
 | immanuel-kant | 37 | 541-577 | ok | generated/authors/norton-theory-criticism/immanuel-kant.md |
-| jacques-lacan | 6 | 1322-1327 | ok | generated/authors/norton-theory-criticism/jacques-lacan.md |
+| jacques-lacan | 33 | 1322-1354 | ok | generated/authors/norton-theory-criticism/jacques-lacan.md |
+| jean-paul-sartre | 17 | 1377-1393 | ok | generated/authors/norton-theory-criticism/jean-paul-sartre.md |
 | joachim-du-bellay | 12 | 321-332 | ok | generated/authors/norton-theory-criticism/joachim-du-bellay.md |
 | john-crowe-ransom | 13 | 1149-1161 | ok | generated/authors/norton-theory-criticism/john-crowe-ransom.md |
 | john-dryden | 9 | 421-429 | ok | generated/authors/norton-theory-criticism/john-dryden.md |
 | joseph-addison | 10 | 458-467 | ok | generated/authors/norton-theory-criticism/joseph-addison.md |
 | karl-marx-and-friedrich-engels | 30 | 801-830 | ok | generated/authors/norton-theory-criticism/karl-marx-and-friedrich-engels.md |
 | kenneth-burke | 9 | 1313-1321 | ok | generated/authors/norton-theory-criticism/kenneth-burke.md |
+| langston-hughes | 6 | 1355-1360 | ok | generated/authors/norton-theory-criticism/langston-hughes.md |
 | leon-trotsky | 15 | 1046-1060 | ok | generated/authors/norton-theory-criticism/leon-trotsky.md |
 | longinus | 20 | 177-196 | ok | generated/authors/norton-theory-criticism/longinus.md |
 | macrobius | 5 | 238-242 | ok | generated/authors/norton-theory-criticism/macrobius.md |
@@ -145,16 +149,16 @@ This page is generated from audit artifacts. It intentionally contains metadata 
 
 | Review reason | Pages |
 | --- | ---: |
+| mixed_work_transition_page | 409 |
 | multi_column_layout | 347 |
-| mixed_work_transition_page | 343 |
 | source_notes_detected | 306 |
-| transition_from_previous_author | 232 |
-| mixed_bibliography_and_work_title | 119 |
+| transition_from_previous_author | 246 |
+| mixed_bibliography_and_work_title | 139 |
 | mixed_transition_page | 68 |
 | layout_review_required | 23 |
 | author_boundary_without_life_dates | 19 |
+| continues_beyond_current_batch | 12 |
 | mixed_excerpt_and_bibliography | 9 |
-| continues_beyond_current_batch | 8 |
 | ocr_title_cleanup | 2 |
 | transition_from_previous_work | 2 |
 

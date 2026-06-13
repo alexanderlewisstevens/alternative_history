@@ -44,6 +44,7 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/bakhtin-discourse-in-the-novel/"><strong>Mikhail M. Bakhtin, Discourse in the Novel</strong><span>dialogism, heteroglossia, novel; pages 1234-1263; 30 review rows</span></a>
   <a href="../norton-texts/jakobson-linguistics-and-poetics/"><strong>Roman Jakobson, Linguistics and Poetics</strong><span>poetics, linguistics, semiotics; pages 1302-1307; 6 review rows</span></a>
   <a href="../norton-texts/jakobson-two-aspects-language-aphasia/"><strong>Roman Jakobson, Two Aspects of Language and Two Types of Aphasic Disturbances</strong><span>metaphor, metonymy, language; pages 1308-1312; 5 review rows</span></a>
+  <a href="../norton-texts/hughes-negro-artist-racial-mountain/"><strong>Langston Hughes, The Negro Artist and the Racial Mountain</strong><span>race, art, vernacular; pages 1357-1360; 4 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -77,6 +78,7 @@ This is a scaffold for reading the configured texts together. It should become a
 19. [Mikhail M. Bakhtin, Discourse in the Novel](norton-texts/bakhtin-discourse-in-the-novel.md)
 20. [Roman Jakobson, Linguistics and Poetics](norton-texts/jakobson-linguistics-and-poetics.md)
 21. [Roman Jakobson, Two Aspects of Language and Two Types of Aphasic Disturbances](norton-texts/jakobson-two-aspects-language-aphasia.md)
+22. [Langston Hughes, The Negro Artist and the Racial Mountain](norton-texts/hughes-negro-artist-racial-mountain.md)
 
 ## Review Pressure
 
@@ -103,6 +105,7 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Discourse in the Novel](norton-texts/bakhtin-discourse-in-the-novel.md) | 1234-1263 | 30 | excerpt: 30 |
 | [Linguistics and Poetics](norton-texts/jakobson-linguistics-and-poetics.md) | 1302-1307 | 6 | excerpt: 6 |
 | [Two Aspects of Language and Two Types of Aphasic Disturbances](norton-texts/jakobson-two-aspects-language-aphasia.md) | 1308-1312 | 5 | excerpt: 5 |
+| [The Negro Artist and the Racial Mountain](norton-texts/hughes-negro-artist-racial-mountain.md) | 1357-1360 | 4 | excerpt: 3<br>author_intro: 1 |
 
 ## Passage Queue
 
@@ -156,8 +159,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:38:44Z` |
-| Git commit | `0fd2aaf` |
+| Generated at | `2026-06-13T05:45:26Z` |
+| Git commit | `d54dce7` |
 | Script version | `2` |
 | Output path | `docs/workspace/vernacular-and-institution.md` |
 

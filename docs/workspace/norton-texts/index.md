@@ -10,11 +10,11 @@ This index is generated from curated source metadata and local extraction audit 
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Curated Text Nodes</div>
-  <div class="ah-metric-value">76</div>
+  <div class="ah-metric-value">83</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Assembled Chunks</div>
-  <div class="ah-metric-value">76</div>
+  <div class="ah-metric-value">83</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Constellations</div>
@@ -102,6 +102,13 @@ This index is generated from curated source metadata and local extraction audit 
 | [Linguistics and Poetics](jakobson-linguistics-and-poetics.md) | Roman Jakobson | 1298-1312 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[media-and-form](../media-and-form.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 15 | `edition-review-needed` |
 | [Two Aspects of Language and Two Types of Aphasic Disturbances](jakobson-two-aspects-language-aphasia.md) | Roman Jakobson | 1298-1312 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[media-and-form](../media-and-form.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 15 | `edition-review-needed` |
 | [Kinds of Criticism](burke-kinds-of-criticism.md) | Kenneth Burke | 1313-1321 | [commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 9 | `edition-review-needed` |
+| [The Mirror Stage as Formative of the Function of the I as Revealed in Psychoanalytic Experience](lacan-mirror-stage.md) | Jacques Lacan | 1322-1354 |  | 0 | 33 | `edition-review-needed` |
+| [The Agency of the Letter in the Unconscious](lacan-agency-letter.md) | Jacques Lacan | 1322-1354 | [signs-and-reading](../signs-and-reading.md)<br>[media-and-form](../media-and-form.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 33 | `edition-review-needed` |
+| [The Signification of the Phallus](lacan-signification-phallus.md) | Jacques Lacan | 1322-1354 | [language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 33 | `edition-review-needed` |
+| [The Negro Artist and the Racial Mountain](hughes-negro-artist-racial-mountain.md) | Langston Hughes | 1355-1360 | [education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 6 | `edition-review-needed` |
+| [Phenomenology of Reading](poulet-phenomenology-reading.md) | Georges Poulet | 1361-1376 | [signs-and-reading](../signs-and-reading.md) | 0 | 16 | `edition-review-needed` |
+| [What Is Literature?](sartre-what-is-literature.md) | Jean-Paul Sartre | 1377-1393 | [signs-and-reading](../signs-and-reading.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 17 | `edition-review-needed` |
+| [The Well Wrought Urn](brooks-well-wrought-urn.md) | Cleanth Brooks | 1394-1407 | [signs-and-reading](../signs-and-reading.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[media-and-form](../media-and-form.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 14 | `edition-review-needed` |
 
 ## How To Use This Index
 
@@ -128,7 +135,7 @@ This index is generated from curated source metadata and local extraction audit 
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T05:39:04Z` |
-| Git commit | `0fd2aaf` |
+| Generated at | `2026-06-13T05:45:43Z` |
+| Git commit | `d54dce7` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/index.md` |

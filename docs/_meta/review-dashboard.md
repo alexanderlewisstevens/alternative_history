@@ -5,7 +5,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Boundary Review</div>
-  <div class="ah-metric-value">253</div>
+  <div class="ah-metric-value">267</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Content Separation</div>
@@ -21,7 +21,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">General Review</div>
-  <div class="ah-metric-value">373</div>
+  <div class="ah-metric-value">439</div>
 </div>
 </div>
 
@@ -29,10 +29,10 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 <div class="ah-review-grid">
 <section class="ah-review-card warn">
-  <div class="ah-review-card-kicker">253 pages</div>
+  <div class="ah-review-card-kicker">267 pages</div>
   <h3>Boundary Review</h3>
   <p>Confirm thinker and work boundaries before assembling public-facing drafts.</p>
-  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +241 more</p>
+  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +255 more</p>
 </section>
 <section class="ah-review-card warn">
   <div class="ah-review-card-kicker">9 pages</div>
@@ -53,10 +53,10 @@ This is the editorial queue for restricted extraction work. It is generated from
   <p><strong>Start:</strong> <code>74</code>, <code>98</code>, <code>99</code>, <code>126</code>, <code>185</code>, <code>190</code>, <code>191</code>, <code>192</code>, <code>194</code>, <code>204</code>, <code>213</code>, <code>218</code> +57 more</p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">373 pages</div>
+  <div class="ah-review-card-kicker">439 pages</div>
   <h3>General Review</h3>
   <p>Resolve remaining template or classification questions.</p>
-  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +361 more</p>
+  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +427 more</p>
 </section>
 </div>
 
@@ -72,11 +72,11 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Field | Value |
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
-| Classified source pages | `71-1327` |
-| Review queue rows | `1038` |
+| Classified source pages | `71-1407` |
+| Review queue rows | `1118` |
 | Review queue file | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
-| Generated at | `2026-06-13T05:39:00Z` |
-| Git commit | `0fd2aaf` |
+| Generated at | `2026-06-13T05:45:38Z` |
+| Git commit | `d54dce7` |
 | Script version | `1` |
 | Output path | `docs/_meta/review-dashboard.md` |
 
@@ -84,16 +84,16 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 | Reason | Pages |
 | --- | ---: |
+| mixed_work_transition_page | 409 |
 | multi_column_layout | 347 |
-| mixed_work_transition_page | 343 |
 | source_notes_detected | 306 |
-| transition_from_previous_author | 232 |
-| mixed_bibliography_and_work_title | 119 |
+| transition_from_previous_author | 246 |
+| mixed_bibliography_and_work_title | 139 |
 | mixed_transition_page | 68 |
 | layout_review_required | 23 |
 | author_boundary_without_life_dates | 19 |
+| continues_beyond_current_batch | 12 |
 | mixed_excerpt_and_bibliography | 9 |
-| continues_beyond_current_batch | 8 |
 | transition_from_previous_work | 2 |
 | ocr_title_cleanup | 2 |
 
@@ -104,6 +104,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Sigmund Freud | 43 |
 | Sir Philip Sidney | 39 |
 | Mikhail M. Bakhtin | 34 |
+| Jacques Lacan | 33 |
 | Matthew Arnold | 31 |
 | Plato | 29 |
 | Karl Marx and Friedrich Engels | 29 |
@@ -121,7 +122,9 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Percy Bysshe Shelley | 19 |
 | T. S. Eliot | 17 |
 | Zora Neale Hurston | 17 |
+| Jean-Paul Sartre | 17 |
 | Oscar Wilde | 16 |
+| Georges Poulet | 16 |
 | Moses Maimonides | 15 |
 | Giacopo Mazzoni | 15 |
 | Gotthold Ephraim Lessing | 15 |
@@ -133,6 +136,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Friedrich Schleiermacher | 14 |
 | Thomas Love Peacock | 14 |
 | Edmund Wilson | 14 |
+| Cleanth Brooks | 14 |
 | Samuel Taylor Coleridge | 13 |
 | Virginia Woolf | 13 |
 | John Crowe Ransom | 13 |
@@ -168,7 +172,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Thomas Aquinas | 6 |
 | Edmund Burke | 6 |
 | Georg Wilhelm Friedrich Hegel | 6 |
-| Jacques Lacan | 6 |
+| Langston Hughes | 6 |
 | Dante Alighieri | 5 |
 | Pierre de Ronsard | 5 |
 | Macrobius | 4 |
@@ -426,12 +430,26 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 1313 | Kenneth Burke | From Two Aspects of Language and Two Types of Aphasic Disturbances | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1313.md |
 | 1314 | Kenneth Burke |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1314.md |
 | 1315 | Kenneth Burke | Kenneth Burke | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1315.md |
-| 1322 | Jacques Lacan | Kinds of Criticism | continues_beyond_current_batch;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1322.md |
-| 1323 | Jacques Lacan | Jacques Lacan | continues_beyond_current_batch;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1323.md |
-| 1324 | Jacques Lacan |  | continues_beyond_current_batch;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1324.md |
-| 1325 | Jacques Lacan |  | continues_beyond_current_batch;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1325.md |
-| 1326 | Jacques Lacan |  | continues_beyond_current_batch;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1326.md |
-| 1327 | Jacques Lacan | Jacques Lacan | continues_beyond_current_batch;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1327.md |
+| 1322 | Jacques Lacan | Kinds of Criticism | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1322.md |
+| 1323 | Jacques Lacan | Jacques Lacan | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1323.md |
+| 1324 | Jacques Lacan |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1324.md |
+| 1325 | Jacques Lacan |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1325.md |
+| 1326 | Jacques Lacan |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1326.md |
+| 1327 | Jacques Lacan | Jacques Lacan | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1327.md |
+| 1328 | Jacques Lacan |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1328.md |
+| 1355 | Langston Hughes | The Signification of the Phallus | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1355.md |
+| 1356 | Langston Hughes |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1356.md |
+| 1357 | Langston Hughes | The Negro Artist and The Racial Mountain | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1357.md |
+| 1361 | Georges Poulet | The Negro Artist and the Racial Mountain | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1361.md |
+| 1362 | Georges Poulet |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1362.md |
+| 1363 | Georges Poulet | Georges Poulet | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1363.md |
+| 1377 | Jean-Paul Sartre | Phenomenology of Reading | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1377.md |
+| 1378 | Jean-Paul Sartre |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1378.md |
+| 1379 | Jean-Paul Sartre | Jean-paul Sartre | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1379.md |
+| 1394 | Cleanth Brooks | From What Is Literature? | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1394.md |
+| 1395 | Cleanth Brooks | Cleanthbrooks | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1395.md |
+| 1396 | Cleanth Brooks |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1396.md |
+| 1397 | Cleanth Brooks | The Well Wrought Urn | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1397.md |
 
 ## Content Separation
 
@@ -1237,3 +1255,69 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 1319 | Kenneth Burke | Kinds of Criticism | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1319.md |
 | 1320 | Kenneth Burke | Kinds of Criticism | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1320.md |
 | 1321 | Kenneth Burke | Kinds of Criticism | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1321.md |
+| 1329 | Jacques Lacan | The Mirror Stage as Formative of the Function of the I as Revealed in Psychoanalytic Experience | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1329.md |
+| 1330 | Jacques Lacan | The Mirror Stage as Formative of the Function of the I as Revealed in Psychoanalytic Experience | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1330.md |
+| 1331 | Jacques Lacan | The Mirror Stage as Formative of the Function of the I as Revealed in Psychoanalytic Experience | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1331.md |
+| 1332 | Jacques Lacan | The Mirror Stage as Formative of the Function of the I as Revealed in Psychoanalytic Experience | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1332.md |
+| 1333 | Jacques Lacan | The Mirror Stage as Formative of the Function of the I as Revealed in Psychoanalytic Experience | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1333.md |
+| 1334 | Jacques Lacan | From The Agency of the Letter in the Unconscious | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1334.md |
+| 1335 | Jacques Lacan | From The Agency of the Letter in the Unconscious | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1335.md |
+| 1336 | Jacques Lacan | From The Agency of the Letter in the Unconscious | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1336.md |
+| 1337 | Jacques Lacan | From The Agency of the Letter in the Unconscious | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1337.md |
+| 1338 | Jacques Lacan | From The Agency of the Letter in the Unconscious | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1338.md |
+| 1339 | Jacques Lacan | From The Agency of the Letter in the Unconscious | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1339.md |
+| 1340 | Jacques Lacan | From The Agency of the Letter in the Unconscious | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1340.md |
+| 1341 | Jacques Lacan | From The Agency of the Letter in the Unconscious | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1341.md |
+| 1342 | Jacques Lacan | From The Agency of the Letter in the Unconscious | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1342.md |
+| 1343 | Jacques Lacan | From The Agency of the Letter in the Unconscious | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1343.md |
+| 1344 | Jacques Lacan | From The Agency of the Letter in the Unconscious | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1344.md |
+| 1345 | Jacques Lacan | From The Agency of the Letter in the Unconscious | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1345.md |
+| 1346 | Jacques Lacan | The Signification of the Phallus | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1346.md |
+| 1347 | Jacques Lacan | The Signification of the Phallus | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1347.md |
+| 1348 | Jacques Lacan | The Signification of the Phallus | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1348.md |
+| 1349 | Jacques Lacan | The Signification of the Phallus | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1349.md |
+| 1350 | Jacques Lacan | The Signification of the Phallus | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1350.md |
+| 1351 | Jacques Lacan | The Signification of the Phallus | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1351.md |
+| 1352 | Jacques Lacan | The Signification of the Phallus | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1352.md |
+| 1353 | Jacques Lacan | The Signification of the Phallus | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1353.md |
+| 1354 | Jacques Lacan | The Signification of the Phallus | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1354.md |
+| 1358 | Langston Hughes | The Negro Artist and the Racial Mountain | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1358.md |
+| 1359 | Langston Hughes | The Negro Artist and the Racial Mountain | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1359.md |
+| 1360 | Langston Hughes | The Negro Artist and the Racial Mountain | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1360.md |
+| 1364 | Georges Poulet | Phenomenology of Reading | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1364.md |
+| 1365 | Georges Poulet | Phenomenology of Reading | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1365.md |
+| 1366 | Georges Poulet | Phenomenology of Reading | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1366.md |
+| 1367 | Georges Poulet | Phenomenology of Reading | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1367.md |
+| 1368 | Georges Poulet | Phenomenology of Reading | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1368.md |
+| 1369 | Georges Poulet | Phenomenology of Reading | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1369.md |
+| 1370 | Georges Poulet | Phenomenology of Reading | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1370.md |
+| 1371 | Georges Poulet | Phenomenology of Reading | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1371.md |
+| 1372 | Georges Poulet | Phenomenology of Reading | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1372.md |
+| 1373 | Georges Poulet | Phenomenology of Reading | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1373.md |
+| 1374 | Georges Poulet | Phenomenology of Reading | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1374.md |
+| 1375 | Georges Poulet | Phenomenology of Reading | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1375.md |
+| 1376 | Georges Poulet | Phenomenology of Reading | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1376.md |
+| 1380 | Jean-Paul Sartre | From What Is Literature? | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1380.md |
+| 1381 | Jean-Paul Sartre | From What Is Literature? | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1381.md |
+| 1382 | Jean-Paul Sartre | From What Is Literature? | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1382.md |
+| 1383 | Jean-Paul Sartre | From What Is Literature? | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1383.md |
+| 1384 | Jean-Paul Sartre | From What Is Literature? | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1384.md |
+| 1385 | Jean-Paul Sartre | From What Is Literature? | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1385.md |
+| 1386 | Jean-Paul Sartre | From What Is Literature? | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1386.md |
+| 1387 | Jean-Paul Sartre | From What Is Literature? | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1387.md |
+| 1388 | Jean-Paul Sartre | From What Is Literature? | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1388.md |
+| 1389 | Jean-Paul Sartre | From What Is Literature? | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1389.md |
+| 1390 | Jean-Paul Sartre | From What Is Literature? | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1390.md |
+| 1391 | Jean-Paul Sartre | From What Is Literature? | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1391.md |
+| 1392 | Jean-Paul Sartre | From What Is Literature? | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1392.md |
+| 1393 | Jean-Paul Sartre | From What Is Literature? | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1393.md |
+| 1398 | Cleanth Brooks | From The Well Wrought Urn | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1398.md |
+| 1399 | Cleanth Brooks | From The Well Wrought Urn | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1399.md |
+| 1400 | Cleanth Brooks | From The Well Wrought Urn | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1400.md |
+| 1401 | Cleanth Brooks | From The Well Wrought Urn | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1401.md |
+| 1402 | Cleanth Brooks | From The Well Wrought Urn | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1402.md |
+| 1403 | Cleanth Brooks | From The Well Wrought Urn | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1403.md |
+| 1404 | Cleanth Brooks | From The Well Wrought Urn | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1404.md |
+| 1405 | Cleanth Brooks | From The Well Wrought Urn | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1405.md |
+| 1406 | Cleanth Brooks | From The Well Wrought Urn | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1406.md |
+| 1407 | Cleanth Brooks | From The Well Wrought Urn | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1407.md |

@@ -2353,7 +2353,7 @@ overrides:
       - mixed_work_transition_page
 
   - id: jacques-lacan-headnote
-    pages: 1322-1327
+    pages: 1322-1329
     author_name: Jacques Lacan
     author_slug: jacques-lacan
     page_kind: author_intro
@@ -2363,4 +2363,155 @@ overrides:
     review_required: true
     review_reasons:
       - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: jacques-lacan-mirror-stage
+    pages: 1329-1334
+    author_name: Jacques Lacan
+    author_slug: jacques-lacan
+    work_title: The Mirror Stage as Formative of the Function of the I as Revealed in Psychoanalytic Experience
+    work_slug: the-mirror-stage-as-formative-of-the-function-of-the-i-as-revealed-in-psychoanalytic-experience
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: jacques-lacan-agency-letter
+    pages: 1334-1346
+    author_name: Jacques Lacan
+    author_slug: jacques-lacan
+    work_title: From The Agency of the Letter in the Unconscious
+    work_slug: from-the-agency-of-the-letter-in-the-unconscious
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: jacques-lacan-signification-phallus
+    pages: 1346-1355
+    author_name: Jacques Lacan
+    author_slug: jacques-lacan
+    work_title: The Signification of the Phallus
+    work_slug: the-signification-of-the-phallus
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: langston-hughes-headnote
+    pages: 1355-1358
+    author_name: Langston Hughes
+    author_slug: langston-hughes
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: langston-hughes-negro-artist-racial-mountain
+    pages: 1358-1361
+    author_name: Langston Hughes
+    author_slug: langston-hughes
+    work_title: The Negro Artist and the Racial Mountain
+    work_slug: the-negro-artist-and-the-racial-mountain
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: georges-poulet-headnote
+    pages: 1361-1364
+    author_name: Georges Poulet
+    author_slug: georges-poulet
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: georges-poulet-phenomenology-reading
+    pages: 1364-1377
+    author_name: Georges Poulet
+    author_slug: georges-poulet
+    work_title: Phenomenology of Reading
+    work_slug: phenomenology-of-reading
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: jean-paul-sartre-headnote
+    pages: 1377-1380
+    author_name: Jean-Paul Sartre
+    author_slug: jean-paul-sartre
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: jean-paul-sartre-what-is-literature
+    pages: 1380-1394
+    author_name: Jean-Paul Sartre
+    author_slug: jean-paul-sartre
+    work_title: "From What Is Literature?"
+    work_slug: from-what-is-literature
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: cleanth-brooks-headnote
+    pages: 1394-1398
+    author_name: Cleanth Brooks
+    author_slug: cleanth-brooks
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: cleanth-brooks-well-wrought-urn
+    pages: 1398-1407
+    author_name: Cleanth Brooks
+    author_slug: cleanth-brooks
+    work_title: From The Well Wrought Urn
+    work_slug: from-the-well-wrought-urn
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
       - continues_beyond_current_batch

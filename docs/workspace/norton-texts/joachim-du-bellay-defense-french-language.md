@@ -90,8 +90,8 @@ This note turns the current Norton chunk for Joachim du Bellay into a navigable 
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/joachim-du-bellay.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T05:39:03Z` |
-| Git commit | `0fd2aaf` |
+| Generated at | `2026-06-13T05:45:42Z` |
+| Git commit | `d54dce7` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/joachim-du-bellay-defense-french-language.md` |
 

@@ -51,6 +51,8 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/horkheimer-adorno-culture-industry/"><strong>Max Horkheimer and Theodor W. Adorno, The Culture Industry: Enlightenment as Mass Deception</strong><span>culture-industry, mass-culture, media; pages 1267-1283; 17 review rows</span></a>
   <a href="../norton-texts/jakobson-linguistics-and-poetics/"><strong>Roman Jakobson, Linguistics and Poetics</strong><span>poetics, linguistics, semiotics; pages 1302-1307; 6 review rows</span></a>
   <a href="../norton-texts/jakobson-two-aspects-language-aphasia/"><strong>Roman Jakobson, Two Aspects of Language and Two Types of Aphasic Disturbances</strong><span>metaphor, metonymy, language; pages 1308-1312; 5 review rows</span></a>
+  <a href="../norton-texts/lacan-agency-letter/"><strong>Jacques Lacan, The Agency of the Letter in the Unconscious</strong><span>psychoanalysis, language, unconscious; pages 1334-1345; 12 review rows</span></a>
+  <a href="../norton-texts/brooks-well-wrought-urn/"><strong>Cleanth Brooks, The Well Wrought Urn</strong><span>new-criticism, poetry, irony; pages 1397-1407; 11 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -91,6 +93,8 @@ This is a scaffold for reading the configured texts together. It should become a
 26. [Max Horkheimer and Theodor W. Adorno, The Culture Industry: Enlightenment as Mass Deception](norton-texts/horkheimer-adorno-culture-industry.md)
 27. [Roman Jakobson, Linguistics and Poetics](norton-texts/jakobson-linguistics-and-poetics.md)
 28. [Roman Jakobson, Two Aspects of Language and Two Types of Aphasic Disturbances](norton-texts/jakobson-two-aspects-language-aphasia.md)
+29. [Jacques Lacan, The Agency of the Letter in the Unconscious](norton-texts/lacan-agency-letter.md)
+30. [Cleanth Brooks, The Well Wrought Urn](norton-texts/brooks-well-wrought-urn.md)
 
 ## Review Pressure
 
@@ -124,6 +128,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | [The Culture Industry: Enlightenment as Mass Deception](norton-texts/horkheimer-adorno-culture-industry.md) | 1267-1283 | 17 | excerpt: 17 |
 | [Linguistics and Poetics](norton-texts/jakobson-linguistics-and-poetics.md) | 1302-1307 | 6 | excerpt: 6 |
 | [Two Aspects of Language and Two Types of Aphasic Disturbances](norton-texts/jakobson-two-aspects-language-aphasia.md) | 1308-1312 | 5 | excerpt: 5 |
+| [The Agency of the Letter in the Unconscious](norton-texts/lacan-agency-letter.md) | 1334-1345 | 12 | excerpt: 12 |
+| [The Well Wrought Urn](norton-texts/brooks-well-wrought-urn.md) | 1397-1407 | 11 | excerpt: 10<br>author_intro: 1 |
 
 ## Passage Queue
 
@@ -177,8 +183,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:38:45Z` |
-| Git commit | `0fd2aaf` |
+| Generated at | `2026-06-13T05:45:27Z` |
+| Git commit | `d54dce7` |
 | Script version | `2` |
 | Output path | `docs/workspace/media-and-form.md` |
 

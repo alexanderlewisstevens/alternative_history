@@ -18,6 +18,7 @@ This private index is generated from curated source metadata and local extractio
 | [Carl Gustav Jung](carl-gustav-jung.md) | 1 | On the Relation of Analytical Psychology to Poetry |
 | [Charles Baudelaire](charles-baudelaire.md) | 1 | The Painter of Modern Life |
 | [Christine de Pizan](christine-de-pizan.md) | 1 | The Book of the City of Ladies |
+| [Cleanth Brooks](cleanth-brooks.md) | 1 | The Well Wrought Urn |
 | [Dante Alighieri](dante-alighieri.md) | 1 | Il Convivio and The Letter to Can Grande |
 | [David Hume](david-hume.md) | 1 | Of the Standard of Taste |
 | [Edgar Allan Poe](edgar-allan-poe.md) | 1 | The Philosophy of Composition |
@@ -30,6 +31,7 @@ This private index is generated from curated source metadata and local extractio
 | [Friedrich Schleiermacher](friedrich-schleiermacher.md) | 1 | Hermeneutics |
 | [Geoffrey of Vinsauf](geoffrey-of-vinsauf.md) | 1 | Poetria Nova |
 | [Georg Wilhelm Friedrich Hegel](georg-wilhelm-friedrich-hegel.md) | 1 | Phenomenology of Spirit and Lectures on Fine Art |
+| [Georges Poulet](georges-poulet.md) | 1 | Phenomenology of Reading |
 | [Germaine de Stael](germaine-de-stael.md) | 1 | Essay on Fictions and On Literature Considered in Its Relationship to Social Institutions |
 | [Giacopo Mazzoni](giacopo-mazzoni.md) | 1 | On the Defense of the Comedy of Dante |
 | [Giambattista Giraldi](giambattista-giraldi.md) | 1 | Discourse on the Composition of Romances |
@@ -42,12 +44,15 @@ This private index is generated from curated source metadata and local extractio
 | [Horace](horace.md) | 1 | Ars Poetica |
 | [Hugh of St. Victor](hugh-of-st-victor.md) | 1 | The Didascalicon |
 | [Immanuel Kant](immanuel-kant.md) | 1 | Critique of Judgment |
+| [Jacques Lacan](jacques-lacan.md) | 3 | The Mirror Stage as Formative of the Function of the I as Revealed in Psychoanalytic Experience, The Agency of the Letter in the Unconscious, The Signification of the Phallus |
+| [Jean-Paul Sartre](jean-paul-sartre.md) | 1 | What Is Literature? |
 | [Joachim du Bellay](joachim-du-bellay.md) | 1 | The Defence and Illustration of the French Language |
 | [John Crowe Ransom](john-crowe-ransom.md) | 1 | Criticism, Inc. |
 | [John Dryden](john-dryden.md) | 1 | Selected Critical Prose |
 | [Joseph Addison](joseph-addison.md) | 1 | The Spectator, Nos. 62 and 412 |
 | [Karl Marx and Friedrich Engels](karl-marx-and-friedrich-engels.md) | 1 | Selected Cultural and Historical Writings |
 | [Kenneth Burke](kenneth-burke.md) | 1 | Kinds of Criticism |
+| [Langston Hughes](langston-hughes.md) | 1 | The Negro Artist and the Racial Mountain |
 | [Leon Trotsky](leon-trotsky.md) | 1 | Literature and Revolution |
 | [Longinus](longinus.md) | 1 | On Sublimity |
 | [Macrobius](macrobius.md) | 1 | Commentary on the Dream of Scipio |
@@ -103,7 +108,7 @@ This private index is generated from curated source metadata and local extractio
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
-| Generated at | `2026-06-13T05:39:00Z` |
-| Git commit | `0fd2aaf` |
+| Generated at | `2026-06-13T05:45:39Z` |
+| Git commit | `d54dce7` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/index.md` |

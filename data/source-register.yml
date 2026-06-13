@@ -835,6 +835,93 @@ curated_texts:
       - method
       - symbolic-action
     status: edition-review-needed
+  - id: lacan-mirror-stage
+    title: The Mirror Stage as Formative of the Function of the I as Revealed in Psychoanalytic Experience
+    creator: Jacques Lacan
+    extraction_work_titles:
+      - The Mirror Stage as Formative of the Function of the I as Revealed in Psychoanalytic Experience
+    role: core-text-candidate
+    themes:
+      - psychoanalysis
+      - subjectivity
+      - identification
+      - image
+    status: edition-review-needed
+  - id: lacan-agency-letter
+    title: The Agency of the Letter in the Unconscious
+    creator: Jacques Lacan
+    extraction_work_titles:
+      - From The Agency of the Letter in the Unconscious
+      - The Agency of the Letter in the Unconscious
+    role: core-text-candidate
+    themes:
+      - psychoanalysis
+      - language
+      - unconscious
+      - signifier
+    status: edition-review-needed
+  - id: lacan-signification-phallus
+    title: The Signification of the Phallus
+    creator: Jacques Lacan
+    extraction_work_titles:
+      - The Signification of the Phallus
+    role: core-text-candidate
+    themes:
+      - psychoanalysis
+      - desire
+      - gender
+      - signifier
+    status: edition-review-needed
+  - id: hughes-negro-artist-racial-mountain
+    title: The Negro Artist and the Racial Mountain
+    creator: Langston Hughes
+    extraction_work_titles:
+      - The Negro Artist and the Racial Mountain
+    role: core-text-candidate
+    themes:
+      - race
+      - art
+      - vernacular
+      - cultural-politics
+    status: edition-review-needed
+  - id: poulet-phenomenology-reading
+    title: Phenomenology of Reading
+    creator: Georges Poulet
+    extraction_work_titles:
+      - Phenomenology of Reading
+    role: core-text-candidate
+    themes:
+      - reading
+      - phenomenology
+      - consciousness
+      - criticism
+    status: edition-review-needed
+  - id: sartre-what-is-literature
+    title: What Is Literature?
+    creator: Jean-Paul Sartre
+    extraction_work_titles:
+      - From What Is Literature?
+      - What Is Literature?
+    role: core-text-candidate
+    themes:
+      - literature
+      - freedom
+      - responsibility
+      - reader
+    status: edition-review-needed
+  - id: brooks-well-wrought-urn
+    title: The Well Wrought Urn
+    creator: Cleanth Brooks
+    extraction_work_titles:
+      - From The Well Wrought Urn
+      - The Well Wrought Urn
+    role: core-text-candidate
+    themes:
+      - new-criticism
+      - poetry
+      - irony
+      - paraphrase
+    status: edition-review-needed
 
 constellations:
   - id: rhetoric-and-force
@@ -924,6 +1011,10 @@ constellations:
       - bakhtin-discourse-in-the-novel
       - jakobson-linguistics-and-poetics
       - jakobson-two-aspects-language-aphasia
+      - lacan-agency-letter
+      - poulet-phenomenology-reading
+      - sartre-what-is-literature
+      - brooks-well-wrought-urn
     relations:
       - writing
       - interpretation
@@ -1028,6 +1119,8 @@ constellations:
       - hurston-what-white-publishers-wont-print
       - wilson-marxism-and-literature
       - burke-kinds-of-criticism
+      - hughes-negro-artist-racial-mountain
+      - sartre-what-is-literature
     relations:
       - pedagogy
       - civic-formation
@@ -1056,6 +1149,7 @@ constellations:
       - bakhtin-discourse-in-the-novel
       - jakobson-linguistics-and-poetics
       - jakobson-two-aspects-language-aphasia
+      - hughes-negro-artist-racial-mountain
     relations:
       - vernacular
       - imitation
@@ -1103,6 +1197,8 @@ constellations:
       - hurston-what-white-publishers-wont-print
       - bakhtin-discourse-in-the-novel
       - burke-kinds-of-criticism
+      - hughes-negro-artist-racial-mountain
+      - sartre-what-is-literature
     relations:
       - authorship
       - gender
@@ -1140,6 +1236,7 @@ constellations:
       - benjamin-work-of-art-mechanical-reproduction
       - wilson-marxism-and-literature
       - burke-kinds-of-criticism
+      - brooks-well-wrought-urn
     relations:
       - taste
       - criticism
@@ -1197,6 +1294,8 @@ constellations:
       - horkheimer-adorno-culture-industry
       - jakobson-linguistics-and-poetics
       - jakobson-two-aspects-language-aphasia
+      - lacan-agency-letter
+      - brooks-well-wrought-urn
     relations:
       - medium
       - form
@@ -1221,6 +1320,8 @@ constellations:
       - woolf-room-of-ones-own
       - ransom-criticism-inc
       - gramsci-formation-intellectuals
+      - hughes-negro-artist-racial-mountain
+      - sartre-what-is-literature
     relations:
       - education
       - freedom
@@ -1291,6 +1392,8 @@ constellations:
       - benjamin-work-of-art-mechanical-reproduction
       - horkheimer-adorno-culture-industry
       - wilson-marxism-and-literature
+      - hughes-negro-artist-racial-mountain
+      - sartre-what-is-literature
     relations:
       - labor
       - ideology
@@ -1322,6 +1425,9 @@ constellations:
       - jakobson-linguistics-and-poetics
       - jakobson-two-aspects-language-aphasia
       - burke-kinds-of-criticism
+      - lacan-agency-letter
+      - lacan-signification-phallus
+      - brooks-well-wrought-urn
     relations:
       - language
       - fiction

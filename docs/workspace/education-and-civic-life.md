@@ -54,6 +54,8 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/hurston-what-white-publishers-wont-print/"><strong>Zora Neale Hurston, What White Publishers Won&#x27;t Print</strong><span>publishing, race, representation; pages 1203-1206; 2 review rows</span></a>
   <a href="../norton-texts/wilson-marxism-and-literature/"><strong>Edmund Wilson, Marxism and Literature</strong><span>marxism, literary-criticism, politics; pages 1287-1297; 11 review rows</span></a>
   <a href="../norton-texts/burke-kinds-of-criticism/"><strong>Kenneth Burke, Kinds of Criticism</strong><span>rhetoric, criticism, method; pages 1316-1321; 6 review rows</span></a>
+  <a href="../norton-texts/hughes-negro-artist-racial-mountain/"><strong>Langston Hughes, The Negro Artist and the Racial Mountain</strong><span>race, art, vernacular; pages 1357-1360; 4 review rows</span></a>
+  <a href="../norton-texts/sartre-what-is-literature/"><strong>Jean-Paul Sartre, What Is Literature?</strong><span>literature, freedom, responsibility; pages 1380-1393; 14 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -97,6 +99,8 @@ This is a scaffold for reading the configured texts together. It should become a
 29. [Zora Neale Hurston, What White Publishers Won&#x27;t Print](norton-texts/hurston-what-white-publishers-wont-print.md)
 30. [Edmund Wilson, Marxism and Literature](norton-texts/wilson-marxism-and-literature.md)
 31. [Kenneth Burke, Kinds of Criticism](norton-texts/burke-kinds-of-criticism.md)
+32. [Langston Hughes, The Negro Artist and the Racial Mountain](norton-texts/hughes-negro-artist-racial-mountain.md)
+33. [Jean-Paul Sartre, What Is Literature?](norton-texts/sartre-what-is-literature.md)
 
 ## Review Pressure
 
@@ -133,6 +137,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | [What White Publishers Won&#x27;t Print](norton-texts/hurston-what-white-publishers-wont-print.md) | 1203-1206 | 2 | excerpt: 4 |
 | [Marxism and Literature](norton-texts/wilson-marxism-and-literature.md) | 1287-1297 | 11 | excerpt: 11 |
 | [Kinds of Criticism](norton-texts/burke-kinds-of-criticism.md) | 1316-1321 | 6 | excerpt: 6 |
+| [The Negro Artist and the Racial Mountain](norton-texts/hughes-negro-artist-racial-mountain.md) | 1357-1360 | 4 | excerpt: 3<br>author_intro: 1 |
+| [What Is Literature?](norton-texts/sartre-what-is-literature.md) | 1380-1393 | 14 | excerpt: 14 |
 
 ## Passage Queue
 
@@ -186,8 +192,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:38:44Z` |
-| Git commit | `0fd2aaf` |
+| Generated at | `2026-06-13T05:45:26Z` |
+| Git commit | `d54dce7` |
 | Script version | `2` |
 | Output path | `docs/workspace/education-and-civic-life.md` |
 

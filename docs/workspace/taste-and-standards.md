@@ -53,6 +53,7 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/benjamin-work-of-art-mechanical-reproduction/"><strong>Walter Benjamin, The Work of Art in the Age of Mechanical Reproduction</strong><span>media, technology, aura; pages 1211-1229; 19 review rows</span></a>
   <a href="../norton-texts/wilson-marxism-and-literature/"><strong>Edmund Wilson, Marxism and Literature</strong><span>marxism, literary-criticism, politics; pages 1287-1297; 11 review rows</span></a>
   <a href="../norton-texts/burke-kinds-of-criticism/"><strong>Kenneth Burke, Kinds of Criticism</strong><span>rhetoric, criticism, method; pages 1316-1321; 6 review rows</span></a>
+  <a href="../norton-texts/brooks-well-wrought-urn/"><strong>Cleanth Brooks, The Well Wrought Urn</strong><span>new-criticism, poetry, irony; pages 1397-1407; 11 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -95,6 +96,7 @@ This is a scaffold for reading the configured texts together. It should become a
 28. [Walter Benjamin, The Work of Art in the Age of Mechanical Reproduction](norton-texts/benjamin-work-of-art-mechanical-reproduction.md)
 29. [Edmund Wilson, Marxism and Literature](norton-texts/wilson-marxism-and-literature.md)
 30. [Kenneth Burke, Kinds of Criticism](norton-texts/burke-kinds-of-criticism.md)
+31. [Cleanth Brooks, The Well Wrought Urn](norton-texts/brooks-well-wrought-urn.md)
 
 ## Review Pressure
 
@@ -130,6 +132,7 @@ This is a scaffold for reading the configured texts together. It should become a
 | [The Work of Art in the Age of Mechanical Reproduction](norton-texts/benjamin-work-of-art-mechanical-reproduction.md) | 1211-1229 | 19 | excerpt: 19 |
 | [Marxism and Literature](norton-texts/wilson-marxism-and-literature.md) | 1287-1297 | 11 | excerpt: 11 |
 | [Kinds of Criticism](norton-texts/burke-kinds-of-criticism.md) | 1316-1321 | 6 | excerpt: 6 |
+| [The Well Wrought Urn](norton-texts/brooks-well-wrought-urn.md) | 1397-1407 | 11 | excerpt: 10<br>author_intro: 1 |
 
 ## Passage Queue
 
@@ -183,8 +186,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:38:45Z` |
-| Git commit | `0fd2aaf` |
+| Generated at | `2026-06-13T05:45:26Z` |
+| Git commit | `d54dce7` |
 | Script version | `2` |
 | Output path | `docs/workspace/taste-and-standards.md` |
 

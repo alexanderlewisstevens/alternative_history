@@ -40,6 +40,8 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/woolf-room-of-ones-own/"><strong>Virginia Woolf, A Room of One&#x27;s Own</strong><span>feminism, authorship, education; pages 1065-1073; 9 review rows</span></a>
   <a href="../norton-texts/ransom-criticism-inc/"><strong>John Crowe Ransom, Criticism, Inc.</strong><span>new-criticism, criticism, close-reading; pages 1152-1161; 10 review rows</span></a>
   <a href="../norton-texts/gramsci-formation-intellectuals/"><strong>Antonio Gramsci, The Formation of the Intellectuals</strong><span>hegemony, intellectuals, education; pages 1182-1187; 6 review rows</span></a>
+  <a href="../norton-texts/hughes-negro-artist-racial-mountain/"><strong>Langston Hughes, The Negro Artist and the Racial Mountain</strong><span>race, art, vernacular; pages 1357-1360; 4 review rows</span></a>
+  <a href="../norton-texts/sartre-what-is-literature/"><strong>Jean-Paul Sartre, What Is Literature?</strong><span>literature, freedom, responsibility; pages 1380-1393; 14 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -69,6 +71,8 @@ This is a scaffold for reading the configured texts together. It should become a
 15. [Virginia Woolf, A Room of One&#x27;s Own](norton-texts/woolf-room-of-ones-own.md)
 16. [John Crowe Ransom, Criticism, Inc.](norton-texts/ransom-criticism-inc.md)
 17. [Antonio Gramsci, The Formation of the Intellectuals](norton-texts/gramsci-formation-intellectuals.md)
+18. [Langston Hughes, The Negro Artist and the Racial Mountain](norton-texts/hughes-negro-artist-racial-mountain.md)
+19. [Jean-Paul Sartre, What Is Literature?](norton-texts/sartre-what-is-literature.md)
 
 ## Review Pressure
 
@@ -91,6 +95,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | [A Room of One&#x27;s Own](norton-texts/woolf-room-of-ones-own.md) | 1065-1073 | 9 | excerpt: 9 |
 | [Criticism, Inc.](norton-texts/ransom-criticism-inc.md) | 1152-1161 | 10 | excerpt: 10 |
 | [The Formation of the Intellectuals](norton-texts/gramsci-formation-intellectuals.md) | 1182-1187 | 6 | excerpt: 6 |
+| [The Negro Artist and the Racial Mountain](norton-texts/hughes-negro-artist-racial-mountain.md) | 1357-1360 | 4 | excerpt: 3<br>author_intro: 1 |
+| [What Is Literature?](norton-texts/sartre-what-is-literature.md) | 1380-1393 | 14 | excerpt: 14 |
 
 ## Passage Queue
 
@@ -144,8 +150,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:38:45Z` |
-| Git commit | `0fd2aaf` |
+| Generated at | `2026-06-13T05:45:27Z` |
+| Git commit | `d54dce7` |
 | Script version | `2` |
 | Output path | `docs/workspace/aesthetic-education-and-citizenship.md` |
 
