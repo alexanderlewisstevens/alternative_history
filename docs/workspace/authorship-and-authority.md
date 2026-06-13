@@ -31,6 +31,8 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/young-conjectures-original-composition/"><strong>Edward Young, Conjectures on Original Composition</strong><span>originality, imitation, authorship; pages 468-479; 11 review rows</span></a>
   <a href="../norton-texts/pope-essay-on-criticism/"><strong>Alexander Pope, An Essay on Criticism</strong><span>criticism, judgment, wit; pages 480-499; 20 review rows</span></a>
   <a href="../norton-texts/johnson-selected-critical-prose/"><strong>Samuel Johnson, Selected Critical Prose</strong><span>fiction, shakespeare, criticism; pages 500-524; 21 review rows</span></a>
+  <a href="../norton-texts/wollstonecraft-rights-woman/"><strong>Mary Wollstonecraft, A Vindication of the Rights of Woman</strong><span>education, gender, citizenship; pages 624-635; 9 review rows</span></a>
+  <a href="../norton-texts/stael-fictions-literature-social-institutions/"><strong>Germaine de Stael, Essay on Fictions and On Literature Considered in Its Relationship to Social Institutions</strong><span>literature, society, institutions; pages 636-651; 10 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -51,6 +53,8 @@ This is a scaffold for reading the configured texts together. It should become a
 6. [Edward Young, Conjectures on Original Composition](norton-texts/young-conjectures-original-composition.md)
 7. [Alexander Pope, An Essay on Criticism](norton-texts/pope-essay-on-criticism.md)
 8. [Samuel Johnson, Selected Critical Prose](norton-texts/johnson-selected-critical-prose.md)
+9. [Mary Wollstonecraft, A Vindication of the Rights of Woman](norton-texts/wollstonecraft-rights-woman.md)
+10. [Germaine de Stael, Essay on Fictions and On Literature Considered in Its Relationship to Social Institutions](norton-texts/stael-fictions-literature-social-institutions.md)
 
 ## Review Pressure
 
@@ -64,6 +68,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Conjectures on Original Composition](norton-texts/young-conjectures-original-composition.md) | 468-479 | 11 | excerpt: 10<br>author_intro: 1<br>mixed_excerpt_bibliography: 1 |
 | [An Essay on Criticism](norton-texts/pope-essay-on-criticism.md) | 480-499 | 20 | excerpt: 17<br>author_intro: 3 |
 | [Selected Critical Prose](norton-texts/johnson-selected-critical-prose.md) | 500-524 | 21 | excerpt: 18<br>author_intro: 7 |
+| [A Vindication of the Rights of Woman](norton-texts/wollstonecraft-rights-woman.md) | 624-635 | 9 | excerpt: 8<br>author_intro: 4 |
+| [Essay on Fictions and On Literature Considered in Its Relationship to Social Institutions](norton-texts/stael-fictions-literature-social-institutions.md) | 636-651 | 10 | excerpt: 13<br>author_intro: 3 |
 
 ## Passage Queue
 
@@ -117,8 +123,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T04:35:59Z` |
-| Git commit | `647245f` |
+| Generated at | `2026-06-13T04:42:18Z` |
+| Git commit | `0e02b79` |
 | Script version | `2` |
 | Output path | `docs/workspace/authorship-and-authority.md` |
 

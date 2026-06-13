@@ -345,6 +345,66 @@ curated_texts:
       - painting
       - representation
     status: edition-review-needed
+  - id: schiller-aesthetic-education
+    title: On the Aesthetic Education of Man
+    creator: Friedrich Schiller
+    role: core-text-candidate
+    themes:
+      - aesthetic-education
+      - freedom
+      - play
+      - citizenship
+    status: edition-review-needed
+  - id: wollstonecraft-rights-woman
+    title: A Vindication of the Rights of Woman
+    creator: Mary Wollstonecraft
+    role: core-text-candidate
+    themes:
+      - education
+      - gender
+      - citizenship
+      - reason
+    status: edition-review-needed
+  - id: stael-fictions-literature-social-institutions
+    title: Essay on Fictions and On Literature Considered in Its Relationship to Social Institutions
+    creator: Germaine de Stael
+    role: core-text-candidate
+    themes:
+      - literature
+      - society
+      - institutions
+      - nation
+    status: edition-review-needed
+  - id: schleiermacher-hermeneutics
+    title: Hermeneutics
+    creator: Friedrich Schleiermacher
+    role: core-text-candidate
+    themes:
+      - hermeneutics
+      - interpretation
+      - language
+      - understanding
+    status: edition-review-needed
+  - id: hegel-phenomenology-fine-art
+    title: Phenomenology of Spirit and Lectures on Fine Art
+    creator: Georg Wilhelm Friedrich Hegel
+    role: core-text-candidate
+    themes:
+      - spirit
+      - aesthetics
+      - history
+      - recognition
+    status: edition-review-needed
+  - id: wordsworth-lyrical-ballads-preface
+    title: Preface to Lyrical Ballads
+    creator: William Wordsworth
+    role: core-text-candidate
+    themes:
+      - poetry
+      - common-life
+      - language
+      - imagination
+    status: edition-review-needed
 
 constellations:
   - id: rhetoric-and-force
@@ -380,6 +440,9 @@ constellations:
       - kant-critique-of-judgment
       - burke-sublime-and-beautiful
       - lessing-laocoon
+      - schiller-aesthetic-education
+      - wollstonecraft-rights-woman
+      - wordsworth-lyrical-ballads-preface
     relations:
       - tension
       - craft
@@ -394,6 +457,8 @@ constellations:
       - thomas-aquinas-summa-theologica
       - dante-il-convivio-letter-can-grande
       - giacopo-mazzoni-defense-comedy-dante
+      - schleiermacher-hermeneutics
+      - hegel-phenomenology-fine-art
     relations:
       - writing
       - interpretation
@@ -406,6 +471,8 @@ constellations:
       - augustine-on-christian-doctrine-trinity
       - kant-critique-of-judgment
       - burke-sublime-and-beautiful
+      - schiller-aesthetic-education
+      - hegel-phenomenology-fine-art
     relations:
       - sublimity
       - ascent
@@ -421,6 +488,8 @@ constellations:
       - dante-il-convivio-letter-can-grande
       - joachim-du-bellay-defense-french-language
       - vico-new-science
+      - schleiermacher-hermeneutics
+      - hegel-phenomenology-fine-art
     relations:
       - commentary
       - transmission
@@ -437,6 +506,9 @@ constellations:
       - vico-new-science
       - addison-spectator-essays
       - johnson-selected-critical-prose
+      - schiller-aesthetic-education
+      - wollstonecraft-rights-woman
+      - stael-fictions-literature-social-institutions
     relations:
       - pedagogy
       - civic-formation
@@ -450,6 +522,8 @@ constellations:
       - pierre-de-ronsard-art-french-poetry
       - sidney-defense-of-poesy
       - vico-new-science
+      - stael-fictions-literature-social-institutions
+      - wordsworth-lyrical-ballads-preface
     relations:
       - vernacular
       - imitation
@@ -478,6 +552,8 @@ constellations:
       - young-conjectures-original-composition
       - pope-essay-on-criticism
       - johnson-selected-critical-prose
+      - wollstonecraft-rights-woman
+      - stael-fictions-literature-social-institutions
     relations:
       - authorship
       - gender
@@ -493,6 +569,7 @@ constellations:
       - hume-standard-of-taste
       - kant-critique-of-judgment
       - burke-sublime-and-beautiful
+      - schiller-aesthetic-education
     relations:
       - taste
       - criticism
@@ -505,6 +582,7 @@ constellations:
       - kant-critique-of-judgment
       - burke-sublime-and-beautiful
       - lessing-laocoon
+      - hegel-phenomenology-fine-art
     relations:
       - sublimity
       - affect
@@ -516,10 +594,25 @@ constellations:
       - horace-ars-poetica
       - kant-critique-of-judgment
       - lessing-laocoon
+      - wordsworth-lyrical-ballads-preface
     relations:
       - medium
       - form
       - representation
+  - id: aesthetic-education-and-citizenship
+    question: What kind of citizen can education form?
+    texts:
+      - quintilian-institutio-oratoria
+      - christine-de-pizan-city-of-ladies
+      - sidney-defense-of-poesy
+      - schiller-aesthetic-education
+      - wollstonecraft-rights-woman
+      - stael-fictions-literature-social-institutions
+      - wordsworth-lyrical-ballads-preface
+    relations:
+      - education
+      - freedom
+      - citizenship
 
 research_tools:
   - id: worldcat

@@ -27,7 +27,8 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/hume-standard-of-taste/"><strong>David Hume, Of the Standard of Taste</strong><span>taste, judgment, empiricism; pages 525-540; 7 review rows</span></a>
   <a href="../norton-texts/kant-critique-of-judgment/"><strong>Immanuel Kant, Critique of Judgment</strong><span>aesthetics, judgment, disinterestedness; pages 541-577; 14 review rows</span></a>
   <a href="../norton-texts/burke-sublime-and-beautiful/"><strong>Edmund Burke, A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful</strong><span>sublime, beauty, affect; pages 578-592; 6 review rows</span></a>
-  <a href="../norton-texts/lessing-laocoon/"><strong>Gotthold Ephraim Lessing, Laocoon</strong><span>media, poetry, painting; pages 593-607; 12 review rows</span></a>
+  <a href="../norton-texts/lessing-laocoon/"><strong>Gotthold Ephraim Lessing, Laocoon</strong><span>media, poetry, painting; pages 593-612; 15 review rows</span></a>
+  <a href="../norton-texts/hegel-phenomenology-fine-art/"><strong>Georg Wilhelm Friedrich Hegel, Phenomenology of Spirit and Lectures on Fine Art</strong><span>spirit, aesthetics, history; pages 668-686; 6 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -45,6 +46,7 @@ This is a scaffold for reading the configured texts together. It should become a
 3. [Immanuel Kant, Critique of Judgment](norton-texts/kant-critique-of-judgment.md)
 4. [Edmund Burke, A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful](norton-texts/burke-sublime-and-beautiful.md)
 5. [Gotthold Ephraim Lessing, Laocoon](norton-texts/lessing-laocoon.md)
+6. [Georg Wilhelm Friedrich Hegel, Phenomenology of Spirit and Lectures on Fine Art](norton-texts/hegel-phenomenology-fine-art.md)
 
 ## Review Pressure
 
@@ -54,7 +56,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Of the Standard of Taste](norton-texts/hume-standard-of-taste.md) | 525-540 | 7 | excerpt: 13<br>author_intro: 3 |
 | [Critique of Judgment](norton-texts/kant-critique-of-judgment.md) | 541-577 | 14 | excerpt: 32<br>author_intro: 5 |
 | [A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful](norton-texts/burke-sublime-and-beautiful.md) | 578-592 | 6 | excerpt: 12<br>author_intro: 3 |
-| [Laocoon](norton-texts/lessing-laocoon.md) | 593-607 | 12 | excerpt: 12<br>author_intro: 3 |
+| [Laocoon](norton-texts/lessing-laocoon.md) | 593-612 | 15 | excerpt: 17<br>author_intro: 3 |
+| [Phenomenology of Spirit and Lectures on Fine Art](norton-texts/hegel-phenomenology-fine-art.md) | 668-686 | 6 | excerpt: 14<br>author_intro: 5 |
 
 ## Passage Queue
 
@@ -108,8 +111,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T04:35:59Z` |
-| Git commit | `647245f` |
+| Generated at | `2026-06-13T04:42:18Z` |
+| Git commit | `0e02b79` |
 | Script version | `2` |
 | Output path | `docs/workspace/sublime-and-limits.md` |
 

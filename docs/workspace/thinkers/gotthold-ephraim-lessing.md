@@ -20,7 +20,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [Laocoon](../norton-texts/lessing-laocoon.md) | 593-607 | 12 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[sublime-and-limits](../sublime-and-limits.md)<br>[media-and-form](../media-and-form.md) | `edition-review-needed` |
+| [Laocoon](../norton-texts/lessing-laocoon.md) | 593-612 | 15 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[sublime-and-limits](../sublime-and-limits.md)<br>[media-and-form](../media-and-form.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -36,9 +36,9 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Signal | Value |
 | --- | --- |
-| Page kinds | excerpt: 12<br>author_intro: 3 |
-| Review rows | 12 |
-| Review reasons | multi_column_layout: 9<br>source_notes_detected: 8<br>transition_from_previous_author: 3 |
+| Page kinds | excerpt: 17<br>author_intro: 3 |
+| Review rows | 15 |
+| Review reasons | multi_column_layout: 12<br>source_notes_detected: 9<br>transition_from_previous_author: 3 |
 
 ## Passage Queue
 
@@ -89,8 +89,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T04:36:17Z` |
-| Git commit | `647245f` |
+| Generated at | `2026-06-13T04:42:24Z` |
+| Git commit | `0e02b79` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/gotthold-ephraim-lessing.md` |
 

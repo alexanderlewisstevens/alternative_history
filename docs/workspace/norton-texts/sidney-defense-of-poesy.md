@@ -41,6 +41,7 @@ This note turns the current Norton chunk for Sir Philip Sidney into a navigable 
 | [vernacular-and-institution](../vernacular-and-institution.md) | How do languages become institutions of thought? | vernacular, imitation, nation |
 | [authorship-and-authority](../authorship-and-authority.md) | Who is allowed to speak as an author? | authorship, gender, authority |
 | [taste-and-standards](../taste-and-standards.md) | How do communities make judgments of taste? | taste, criticism, consensus |
+| [aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md) | What kind of citizen can education form? | education, freedom, citizenship |
 
 ## Passage Queue
 
@@ -49,7 +50,7 @@ This note turns the current Norton chunk for Sir Philip Sidney into a navigable 
   <h3>Choose Passages After Review</h3>
   <p><strong>Source location:</strong> Norton page range 365-404.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
-  <p><strong>Use:</strong> Find the passages that make this text active inside poetry-and-judgment, education-and-civic-life, vernacular-and-institution, authorship-and-authority, taste-and-standards.</p>
+  <p><strong>Use:</strong> Find the passages that make this text active inside poetry-and-judgment, education-and-civic-life, vernacular-and-institution, authorship-and-authority, taste-and-standards, aesthetic-education-and-citizenship.</p>
 </section>
 
 <section class="ah-passage-card">
@@ -93,8 +94,8 @@ This note turns the current Norton chunk for Sir Philip Sidney into a navigable 
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/sir-philip-sidney.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T04:36:20Z` |
-| Git commit | `647245f` |
+| Generated at | `2026-06-13T04:42:28Z` |
+| Git commit | `0e02b79` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/sidney-defense-of-poesy.md` |
 
@@ -112,6 +113,7 @@ This note turns the current Norton chunk for Sir Philip Sidney into a navigable 
 <li><a href="../../vernacular-and-institution/">vernacular-and-institution</a></li>
 <li><a href="../../authorship-and-authority/">authorship-and-authority</a></li>
 <li><a href="../../taste-and-standards/">taste-and-standards</a></li>
+<li><a href="../../aesthetic-education-and-citizenship/">aesthetic-education-and-citizenship</a></li>
 </ul>
 
 ## Open Questions

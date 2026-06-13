@@ -104,12 +104,39 @@
     },
     {
       "constellations": [
+        "aesthetic-education-and-citizenship"
+      ],
+      "id": "constellation:aesthetic-education-and-citizenship",
+      "kind": "constellation",
+      "review_pressure": 0,
+      "search_text": "aesthetic education and citizenship what kind of citizen can education form?   private constellation draft christine-de-pizan-city-of-ladies citizenship education freedom quintilian-institutio-oratoria schiller-aesthetic-education sidney-defense-of-poesy stael-fictions-literature-social-institutions wollstonecraft-rights-woman wordsworth-lyrical-ballads-preface aesthetic-education-and-citizenship",
+      "status": "private constellation draft",
+      "summary": "What kind of citizen can education form?",
+      "tags": [
+        "christine-de-pizan-city-of-ladies",
+        "citizenship",
+        "education",
+        "freedom",
+        "quintilian-institutio-oratoria",
+        "schiller-aesthetic-education",
+        "sidney-defense-of-poesy",
+        "stael-fictions-literature-social-institutions",
+        "wollstonecraft-rights-woman",
+        "wordsworth-lyrical-ballads-preface"
+      ],
+      "text_id": "",
+      "thinker": "",
+      "title": "Aesthetic Education And Citizenship",
+      "url": "/workspace/aesthetic-education-and-citizenship/"
+    },
+    {
+      "constellations": [
         "authorship-and-authority"
       ],
       "id": "constellation:authorship-and-authority",
       "kind": "constellation",
       "review_pressure": 0,
-      "search_text": "authorship and authority who is allowed to speak as an author?   private constellation draft aphra-behn-dutch-lover-lucky-chance authority authorship christine-de-pizan-city-of-ladies dryden-selected-critical-prose gender joachim-du-bellay-defense-french-language johnson-selected-critical-prose pope-essay-on-criticism sidney-defense-of-poesy young-conjectures-original-composition authorship-and-authority",
+      "search_text": "authorship and authority who is allowed to speak as an author?   private constellation draft aphra-behn-dutch-lover-lucky-chance authority authorship christine-de-pizan-city-of-ladies dryden-selected-critical-prose gender joachim-du-bellay-defense-french-language johnson-selected-critical-prose pope-essay-on-criticism sidney-defense-of-poesy stael-fictions-literature-social-institutions wollstonecraft-rights-woman young-conjectures-original-composition authorship-and-authority",
       "status": "private constellation draft",
       "summary": "Who is allowed to speak as an author?",
       "tags": [
@@ -123,6 +150,8 @@
         "johnson-selected-critical-prose",
         "pope-essay-on-criticism",
         "sidney-defense-of-poesy",
+        "stael-fictions-literature-social-institutions",
+        "wollstonecraft-rights-woman",
         "young-conjectures-original-composition"
       ],
       "text_id": "",
@@ -137,17 +166,19 @@
       "id": "constellation:beauty-and-ascent",
       "kind": "constellation",
       "review_pressure": 0,
-      "search_text": "beauty and ascent when does beauty become a way of knowing?   private constellation draft ascent augustine-on-christian-doctrine-trinity burke-sublime-and-beautiful inward-reading kant-critique-of-judgment longinus-on-sublimity plotinus-enneads sublimity beauty-and-ascent",
+      "search_text": "beauty and ascent when does beauty become a way of knowing?   private constellation draft ascent augustine-on-christian-doctrine-trinity burke-sublime-and-beautiful hegel-phenomenology-fine-art inward-reading kant-critique-of-judgment longinus-on-sublimity plotinus-enneads schiller-aesthetic-education sublimity beauty-and-ascent",
       "status": "private constellation draft",
       "summary": "When does beauty become a way of knowing?",
       "tags": [
         "ascent",
         "augustine-on-christian-doctrine-trinity",
         "burke-sublime-and-beautiful",
+        "hegel-phenomenology-fine-art",
         "inward-reading",
         "kant-critique-of-judgment",
         "longinus-on-sublimity",
         "plotinus-enneads",
+        "schiller-aesthetic-education",
         "sublimity"
       ],
       "text_id": "",
@@ -162,7 +193,7 @@
       "id": "constellation:commentary-and-afterlife",
       "kind": "constellation",
       "review_pressure": 0,
-      "search_text": "commentary and afterlife how do texts survive by being reread?   private constellation draft commentary dante-il-convivio-letter-can-grande disciplined-reading geoffrey-poetria-nova hugh-didascalicon joachim-du-bellay-defense-french-language macrobius-dream-scipio maimonides-guide-perplexed thomas-aquinas-summa-theologica transmission vico-new-science commentary-and-afterlife",
+      "search_text": "commentary and afterlife how do texts survive by being reread?   private constellation draft commentary dante-il-convivio-letter-can-grande disciplined-reading geoffrey-poetria-nova hegel-phenomenology-fine-art hugh-didascalicon joachim-du-bellay-defense-french-language macrobius-dream-scipio maimonides-guide-perplexed schleiermacher-hermeneutics thomas-aquinas-summa-theologica transmission vico-new-science commentary-and-afterlife",
       "status": "private constellation draft",
       "summary": "How do texts survive by being reread?",
       "tags": [
@@ -170,10 +201,12 @@
         "dante-il-convivio-letter-can-grande",
         "disciplined-reading",
         "geoffrey-poetria-nova",
+        "hegel-phenomenology-fine-art",
         "hugh-didascalicon",
         "joachim-du-bellay-defense-french-language",
         "macrobius-dream-scipio",
         "maimonides-guide-perplexed",
+        "schleiermacher-hermeneutics",
         "thomas-aquinas-summa-theologica",
         "transmission",
         "vico-new-science"
@@ -190,7 +223,7 @@
       "id": "constellation:education-and-civic-life",
       "kind": "constellation",
       "review_pressure": 0,
-      "search_text": "education and civic life what should education make possible for citizens?   private constellation draft addison-spectator-essays aristotle-poetics-rhetoric authority christine-de-pizan-city-of-ladies civic-formation hugh-didascalicon johnson-selected-critical-prose pedagogy plato-selected-dialogues quintilian-institutio-oratoria sidney-defense-of-poesy vico-new-science education-and-civic-life",
+      "search_text": "education and civic life what should education make possible for citizens?   private constellation draft addison-spectator-essays aristotle-poetics-rhetoric authority christine-de-pizan-city-of-ladies civic-formation hugh-didascalicon johnson-selected-critical-prose pedagogy plato-selected-dialogues quintilian-institutio-oratoria schiller-aesthetic-education sidney-defense-of-poesy stael-fictions-literature-social-institutions vico-new-science wollstonecraft-rights-woman education-and-civic-life",
       "status": "private constellation draft",
       "summary": "What should education make possible for citizens?",
       "tags": [
@@ -204,8 +237,11 @@
         "pedagogy",
         "plato-selected-dialogues",
         "quintilian-institutio-oratoria",
+        "schiller-aesthetic-education",
         "sidney-defense-of-poesy",
-        "vico-new-science"
+        "stael-fictions-literature-social-institutions",
+        "vico-new-science",
+        "wollstonecraft-rights-woman"
       ],
       "text_id": "",
       "thinker": "",
@@ -219,7 +255,7 @@
       "id": "constellation:media-and-form",
       "kind": "constellation",
       "review_pressure": 0,
-      "search_text": "media and form how do media shape what thought can represent?   private constellation draft aristotle-poetics-rhetoric form horace-ars-poetica kant-critique-of-judgment lessing-laocoon medium representation media-and-form",
+      "search_text": "media and form how do media shape what thought can represent?   private constellation draft aristotle-poetics-rhetoric form horace-ars-poetica kant-critique-of-judgment lessing-laocoon medium representation wordsworth-lyrical-ballads-preface media-and-form",
       "status": "private constellation draft",
       "summary": "How do media shape what thought can represent?",
       "tags": [
@@ -229,7 +265,8 @@
         "kant-critique-of-judgment",
         "lessing-laocoon",
         "medium",
-        "representation"
+        "representation",
+        "wordsworth-lyrical-ballads-preface"
       ],
       "text_id": "",
       "thinker": "",
@@ -243,7 +280,7 @@
       "id": "constellation:poetry-and-judgment",
       "kind": "constellation",
       "review_pressure": 0,
-      "search_text": "poetry and judgment who gets to judge art?   private constellation draft addison-spectator-essays aphra-behn-dutch-lover-lucky-chance aristotle-poetics-rhetoric boccaccio-genealogy-gentile-gods burke-sublime-and-beautiful corneille-three-unities craft dryden-selected-critical-prose excess geoffrey-poetria-nova horace-ars-poetica hume-standard-of-taste johnson-selected-critical-prose kant-critique-of-judgment lessing-laocoon longinus-on-sublimity pierre-de-ronsard-art-french-poetry plato-selected-dialogues pope-essay-on-criticism sidney-defense-of-poesy tension young-conjectures-original-composition poetry-and-judgment",
+      "search_text": "poetry and judgment who gets to judge art?   private constellation draft addison-spectator-essays aphra-behn-dutch-lover-lucky-chance aristotle-poetics-rhetoric boccaccio-genealogy-gentile-gods burke-sublime-and-beautiful corneille-three-unities craft dryden-selected-critical-prose excess geoffrey-poetria-nova horace-ars-poetica hume-standard-of-taste johnson-selected-critical-prose kant-critique-of-judgment lessing-laocoon longinus-on-sublimity pierre-de-ronsard-art-french-poetry plato-selected-dialogues pope-essay-on-criticism schiller-aesthetic-education sidney-defense-of-poesy tension wollstonecraft-rights-woman wordsworth-lyrical-ballads-preface young-conjectures-original-composition poetry-and-judgment",
       "status": "private constellation draft",
       "summary": "Who gets to judge art?",
       "tags": [
@@ -266,8 +303,11 @@
         "pierre-de-ronsard-art-french-poetry",
         "plato-selected-dialogues",
         "pope-essay-on-criticism",
+        "schiller-aesthetic-education",
         "sidney-defense-of-poesy",
         "tension",
+        "wollstonecraft-rights-woman",
+        "wordsworth-lyrical-ballads-preface",
         "young-conjectures-original-composition"
       ],
       "text_id": "",
@@ -306,7 +346,7 @@
       "id": "constellation:signs-and-reading",
       "kind": "constellation",
       "review_pressure": 0,
-      "search_text": "signs and reading how should difficult texts be read?   private constellation draft allegory augustine-on-christian-doctrine-trinity dante-il-convivio-letter-can-grande giacopo-mazzoni-defense-comedy-dante hugh-didascalicon interpretation maimonides-guide-perplexed plato-selected-dialogues thomas-aquinas-summa-theologica writing signs-and-reading",
+      "search_text": "signs and reading how should difficult texts be read?   private constellation draft allegory augustine-on-christian-doctrine-trinity dante-il-convivio-letter-can-grande giacopo-mazzoni-defense-comedy-dante hegel-phenomenology-fine-art hugh-didascalicon interpretation maimonides-guide-perplexed plato-selected-dialogues schleiermacher-hermeneutics thomas-aquinas-summa-theologica writing signs-and-reading",
       "status": "private constellation draft",
       "summary": "How should difficult texts be read?",
       "tags": [
@@ -314,10 +354,12 @@
         "augustine-on-christian-doctrine-trinity",
         "dante-il-convivio-letter-can-grande",
         "giacopo-mazzoni-defense-comedy-dante",
+        "hegel-phenomenology-fine-art",
         "hugh-didascalicon",
         "interpretation",
         "maimonides-guide-perplexed",
         "plato-selected-dialogues",
+        "schleiermacher-hermeneutics",
         "thomas-aquinas-summa-theologica",
         "writing"
       ],
@@ -333,12 +375,13 @@
       "id": "constellation:sublime-and-limits",
       "kind": "constellation",
       "review_pressure": 0,
-      "search_text": "sublime and limits what happens when experience exceeds form?   private constellation draft affect burke-sublime-and-beautiful hume-standard-of-taste kant-critique-of-judgment lessing-laocoon limit longinus-on-sublimity sublimity sublime-and-limits",
+      "search_text": "sublime and limits what happens when experience exceeds form?   private constellation draft affect burke-sublime-and-beautiful hegel-phenomenology-fine-art hume-standard-of-taste kant-critique-of-judgment lessing-laocoon limit longinus-on-sublimity sublimity sublime-and-limits",
       "status": "private constellation draft",
       "summary": "What happens when experience exceeds form?",
       "tags": [
         "affect",
         "burke-sublime-and-beautiful",
+        "hegel-phenomenology-fine-art",
         "hume-standard-of-taste",
         "kant-critique-of-judgment",
         "lessing-laocoon",
@@ -358,7 +401,7 @@
       "id": "constellation:taste-and-standards",
       "kind": "constellation",
       "review_pressure": 0,
-      "search_text": "taste and standards how do communities make judgments of taste?   private constellation draft addison-spectator-essays burke-sublime-and-beautiful consensus criticism hume-standard-of-taste johnson-selected-critical-prose kant-critique-of-judgment longinus-on-sublimity pope-essay-on-criticism sidney-defense-of-poesy taste taste-and-standards",
+      "search_text": "taste and standards how do communities make judgments of taste?   private constellation draft addison-spectator-essays burke-sublime-and-beautiful consensus criticism hume-standard-of-taste johnson-selected-critical-prose kant-critique-of-judgment longinus-on-sublimity pope-essay-on-criticism schiller-aesthetic-education sidney-defense-of-poesy taste taste-and-standards",
       "status": "private constellation draft",
       "summary": "How do communities make judgments of taste?",
       "tags": [
@@ -371,6 +414,7 @@
         "kant-critique-of-judgment",
         "longinus-on-sublimity",
         "pope-essay-on-criticism",
+        "schiller-aesthetic-education",
         "sidney-defense-of-poesy",
         "taste"
       ],
@@ -412,7 +456,7 @@
       "id": "constellation:vernacular-and-institution",
       "kind": "constellation",
       "review_pressure": 0,
-      "search_text": "vernacular and institution how do languages become institutions of thought?   private constellation draft dante-il-convivio-letter-can-grande giambattista-giraldi-composition-romances imitation joachim-du-bellay-defense-french-language nation pierre-de-ronsard-art-french-poetry sidney-defense-of-poesy vernacular vico-new-science vernacular-and-institution",
+      "search_text": "vernacular and institution how do languages become institutions of thought?   private constellation draft dante-il-convivio-letter-can-grande giambattista-giraldi-composition-romances imitation joachim-du-bellay-defense-french-language nation pierre-de-ronsard-art-french-poetry sidney-defense-of-poesy stael-fictions-literature-social-institutions vernacular vico-new-science wordsworth-lyrical-ballads-preface vernacular-and-institution",
       "status": "private constellation draft",
       "summary": "How do languages become institutions of thought?",
       "tags": [
@@ -423,8 +467,10 @@
         "nation",
         "pierre-de-ronsard-art-french-poetry",
         "sidney-defense-of-poesy",
+        "stael-fictions-literature-social-institutions",
         "vernacular",
-        "vico-new-science"
+        "vico-new-science",
+        "wordsworth-lyrical-ballads-preface"
       ],
       "text_id": "",
       "thinker": "",
@@ -545,6 +591,34 @@
       "thinker": "Edmund Burke",
       "title": "A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful",
       "url": "/workspace/norton-texts/burke-sublime-and-beautiful/"
+    },
+    {
+      "constellations": [
+        "aesthetic-education-and-citizenship",
+        "authorship-and-authority",
+        "education-and-civic-life",
+        "poetry-and-judgment"
+      ],
+      "id": "text:wollstonecraft-rights-woman",
+      "kind": "text",
+      "review_pressure": 9,
+      "search_text": "a vindication of the rights of woman mary wollstonecraft; core-text-candidate; pages 624-635; 9 review rows. mary wollstonecraft wollstonecraft-rights-woman edition-review-needed aesthetic-education-and-citizenship authorship-and-authority citizenship education education-and-civic-life gender poetry-and-judgment reason aesthetic-education-and-citizenship authorship-and-authority education-and-civic-life poetry-and-judgment",
+      "status": "edition-review-needed",
+      "summary": "Mary Wollstonecraft; core-text-candidate; pages 624-635; 9 review rows.",
+      "tags": [
+        "aesthetic-education-and-citizenship",
+        "authorship-and-authority",
+        "citizenship",
+        "education",
+        "education-and-civic-life",
+        "gender",
+        "poetry-and-judgment",
+        "reason"
+      ],
+      "text_id": "wollstonecraft-rights-woman",
+      "thinker": "Mary Wollstonecraft",
+      "title": "A Vindication of the Rights of Woman",
+      "url": "/workspace/norton-texts/wollstonecraft-rights-woman/"
     },
     {
       "constellations": [
@@ -717,6 +791,34 @@
     },
     {
       "constellations": [
+        "aesthetic-education-and-citizenship",
+        "authorship-and-authority",
+        "education-and-civic-life",
+        "vernacular-and-institution"
+      ],
+      "id": "text:stael-fictions-literature-social-institutions",
+      "kind": "text",
+      "review_pressure": 10,
+      "search_text": "essay on fictions and on literature considered in its relationship to social institutions germaine de stael; core-text-candidate; pages 636-651; 10 review rows. germaine de stael stael-fictions-literature-social-institutions edition-review-needed aesthetic-education-and-citizenship authorship-and-authority education-and-civic-life institutions literature nation society vernacular-and-institution aesthetic-education-and-citizenship authorship-and-authority education-and-civic-life vernacular-and-institution",
+      "status": "edition-review-needed",
+      "summary": "Germaine de Stael; core-text-candidate; pages 636-651; 10 review rows.",
+      "tags": [
+        "aesthetic-education-and-citizenship",
+        "authorship-and-authority",
+        "education-and-civic-life",
+        "institutions",
+        "literature",
+        "nation",
+        "society",
+        "vernacular-and-institution"
+      ],
+      "text_id": "stael-fictions-literature-social-institutions",
+      "thinker": "Germaine de Stael",
+      "title": "Essay on Fictions and On Literature Considered in Its Relationship to Social Institutions",
+      "url": "/workspace/norton-texts/stael-fictions-literature-social-institutions/"
+    },
+    {
+      "constellations": [
         "poetry-and-judgment"
       ],
       "id": "text:boccaccio-genealogy-gentile-gods",
@@ -736,6 +838,30 @@
       "thinker": "Giovanni Boccaccio",
       "title": "Genealogy of the Gentile Gods",
       "url": "/workspace/norton-texts/boccaccio-genealogy-gentile-gods/"
+    },
+    {
+      "constellations": [
+        "commentary-and-afterlife",
+        "signs-and-reading"
+      ],
+      "id": "text:schleiermacher-hermeneutics",
+      "kind": "text",
+      "review_pressure": 14,
+      "search_text": "hermeneutics friedrich schleiermacher; core-text-candidate; pages 652-667; 14 review rows. friedrich schleiermacher schleiermacher-hermeneutics edition-review-needed commentary-and-afterlife hermeneutics interpretation language signs-and-reading understanding commentary-and-afterlife signs-and-reading",
+      "status": "edition-review-needed",
+      "summary": "Friedrich Schleiermacher; core-text-candidate; pages 652-667; 14 review rows.",
+      "tags": [
+        "commentary-and-afterlife",
+        "hermeneutics",
+        "interpretation",
+        "language",
+        "signs-and-reading",
+        "understanding"
+      ],
+      "text_id": "schleiermacher-hermeneutics",
+      "thinker": "Friedrich Schleiermacher",
+      "title": "Hermeneutics",
+      "url": "/workspace/norton-texts/schleiermacher-hermeneutics/"
     },
     {
       "constellations": [
@@ -765,16 +891,18 @@
     },
     {
       "constellations": [
+        "aesthetic-education-and-citizenship",
         "education-and-civic-life",
         "rhetoric-and-force"
       ],
       "id": "text:quintilian-institutio-oratoria",
       "kind": "text",
       "review_pressure": 10,
-      "search_text": "institutio oratoria quintilian; core-text-candidate; pages 197-212; 10 review rows. quintilian quintilian-institutio-oratoria edition-review-needed civic-formation education education-and-civic-life rhetoric rhetoric-and-force education-and-civic-life rhetoric-and-force",
+      "search_text": "institutio oratoria quintilian; core-text-candidate; pages 197-212; 10 review rows. quintilian quintilian-institutio-oratoria edition-review-needed aesthetic-education-and-citizenship civic-formation education education-and-civic-life rhetoric rhetoric-and-force aesthetic-education-and-citizenship education-and-civic-life rhetoric-and-force",
       "status": "edition-review-needed",
       "summary": "Quintilian; core-text-candidate; pages 197-212; 10 review rows.",
       "tags": [
+        "aesthetic-education-and-citizenship",
         "civic-formation",
         "education",
         "education-and-civic-life",
@@ -794,10 +922,10 @@
       ],
       "id": "text:lessing-laocoon",
       "kind": "text",
-      "review_pressure": 12,
-      "search_text": "laocoon gotthold ephraim lessing; core-text-candidate; pages 593-607; 12 review rows. gotthold ephraim lessing lessing-laocoon edition-review-needed media media-and-form painting poetry poetry-and-judgment representation sublime-and-limits media-and-form poetry-and-judgment sublime-and-limits",
+      "review_pressure": 15,
+      "search_text": "laocoon gotthold ephraim lessing; core-text-candidate; pages 593-612; 15 review rows. gotthold ephraim lessing lessing-laocoon edition-review-needed media media-and-form painting poetry poetry-and-judgment representation sublime-and-limits media-and-form poetry-and-judgment sublime-and-limits",
       "status": "edition-review-needed",
-      "summary": "Gotthold Ephraim Lessing; core-text-candidate; pages 593-607; 12 review rows.",
+      "summary": "Gotthold Ephraim Lessing; core-text-candidate; pages 593-612; 15 review rows.",
       "tags": [
         "media",
         "media-and-form",
@@ -915,6 +1043,36 @@
     },
     {
       "constellations": [
+        "aesthetic-education-and-citizenship",
+        "beauty-and-ascent",
+        "education-and-civic-life",
+        "poetry-and-judgment",
+        "taste-and-standards"
+      ],
+      "id": "text:schiller-aesthetic-education",
+      "kind": "text",
+      "review_pressure": 10,
+      "search_text": "on the aesthetic education of man friedrich schiller; core-text-candidate; pages 613-623; 10 review rows. friedrich schiller schiller-aesthetic-education edition-review-needed aesthetic-education aesthetic-education-and-citizenship beauty-and-ascent citizenship education-and-civic-life freedom play poetry-and-judgment taste-and-standards aesthetic-education-and-citizenship beauty-and-ascent education-and-civic-life poetry-and-judgment taste-and-standards",
+      "status": "edition-review-needed",
+      "summary": "Friedrich Schiller; core-text-candidate; pages 613-623; 10 review rows.",
+      "tags": [
+        "aesthetic-education",
+        "aesthetic-education-and-citizenship",
+        "beauty-and-ascent",
+        "citizenship",
+        "education-and-civic-life",
+        "freedom",
+        "play",
+        "poetry-and-judgment",
+        "taste-and-standards"
+      ],
+      "text_id": "schiller-aesthetic-education",
+      "thinker": "Friedrich Schiller",
+      "title": "On the Aesthetic Education of Man",
+      "url": "/workspace/norton-texts/schiller-aesthetic-education/"
+    },
+    {
+      "constellations": [
         "signs-and-reading"
       ],
       "id": "text:giacopo-mazzoni-defense-comedy-dante",
@@ -934,6 +1092,34 @@
       "thinker": "Giacopo Mazzoni",
       "title": "On the Defense of the Comedy of Dante",
       "url": "/workspace/norton-texts/giacopo-mazzoni-defense-comedy-dante/"
+    },
+    {
+      "constellations": [
+        "beauty-and-ascent",
+        "commentary-and-afterlife",
+        "signs-and-reading",
+        "sublime-and-limits"
+      ],
+      "id": "text:hegel-phenomenology-fine-art",
+      "kind": "text",
+      "review_pressure": 6,
+      "search_text": "phenomenology of spirit and lectures on fine art georg wilhelm friedrich hegel; core-text-candidate; pages 668-686; 6 review rows. georg wilhelm friedrich hegel hegel-phenomenology-fine-art edition-review-needed aesthetics beauty-and-ascent commentary-and-afterlife history recognition signs-and-reading spirit sublime-and-limits beauty-and-ascent commentary-and-afterlife signs-and-reading sublime-and-limits",
+      "status": "edition-review-needed",
+      "summary": "Georg Wilhelm Friedrich Hegel; core-text-candidate; pages 668-686; 6 review rows.",
+      "tags": [
+        "aesthetics",
+        "beauty-and-ascent",
+        "commentary-and-afterlife",
+        "history",
+        "recognition",
+        "signs-and-reading",
+        "spirit",
+        "sublime-and-limits"
+      ],
+      "text_id": "hegel-phenomenology-fine-art",
+      "thinker": "Georg Wilhelm Friedrich Hegel",
+      "title": "Phenomenology of Spirit and Lectures on Fine Art",
+      "url": "/workspace/norton-texts/hegel-phenomenology-fine-art/"
     },
     {
       "constellations": [
@@ -988,6 +1174,34 @@
       "thinker": "Geoffrey of Vinsauf",
       "title": "Poetria Nova",
       "url": "/workspace/norton-texts/geoffrey-poetria-nova/"
+    },
+    {
+      "constellations": [
+        "aesthetic-education-and-citizenship",
+        "media-and-form",
+        "poetry-and-judgment",
+        "vernacular-and-institution"
+      ],
+      "id": "text:wordsworth-lyrical-ballads-preface",
+      "kind": "text",
+      "review_pressure": 1,
+      "search_text": "preface to lyrical ballads william wordsworth; core-text-candidate; pages 687-687; 1 review rows. william wordsworth wordsworth-lyrical-ballads-preface edition-review-needed aesthetic-education-and-citizenship common-life imagination language media-and-form poetry poetry-and-judgment vernacular-and-institution aesthetic-education-and-citizenship media-and-form poetry-and-judgment vernacular-and-institution",
+      "status": "edition-review-needed",
+      "summary": "William Wordsworth; core-text-candidate; pages 687-687; 1 review rows.",
+      "tags": [
+        "aesthetic-education-and-citizenship",
+        "common-life",
+        "imagination",
+        "language",
+        "media-and-form",
+        "poetry",
+        "poetry-and-judgment",
+        "vernacular-and-institution"
+      ],
+      "text_id": "wordsworth-lyrical-ballads-preface",
+      "thinker": "William Wordsworth",
+      "title": "Preface to Lyrical Ballads",
+      "url": "/workspace/norton-texts/wordsworth-lyrical-ballads-preface/"
     },
     {
       "constellations": [
@@ -1120,16 +1334,18 @@
     },
     {
       "constellations": [
+        "aesthetic-education-and-citizenship",
         "authorship-and-authority",
         "education-and-civic-life"
       ],
       "id": "text:christine-de-pizan-city-of-ladies",
       "kind": "text",
       "review_pressure": 3,
-      "search_text": "the book of the city of ladies christine de pizan; core-text-candidate; pages 305-312; 3 review rows. christine de pizan christine-de-pizan-city-of-ladies edition-review-needed authority authorship-and-authority civic-imagination education education-and-civic-life gender authorship-and-authority education-and-civic-life",
+      "search_text": "the book of the city of ladies christine de pizan; core-text-candidate; pages 305-312; 3 review rows. christine de pizan christine-de-pizan-city-of-ladies edition-review-needed aesthetic-education-and-citizenship authority authorship-and-authority civic-imagination education education-and-civic-life gender aesthetic-education-and-citizenship authorship-and-authority education-and-civic-life",
       "status": "edition-review-needed",
       "summary": "Christine de Pizan; core-text-candidate; pages 305-312; 3 review rows.",
       "tags": [
+        "aesthetic-education-and-citizenship",
         "authority",
         "authorship-and-authority",
         "civic-imagination",
@@ -1170,6 +1386,7 @@
     },
     {
       "constellations": [
+        "aesthetic-education-and-citizenship",
         "authorship-and-authority",
         "education-and-civic-life",
         "poetry-and-judgment",
@@ -1179,10 +1396,11 @@
       "id": "text:sidney-defense-of-poesy",
       "kind": "text",
       "review_pressure": 39,
-      "search_text": "the defense of poesy sir philip sidney; core-text-candidate; pages 365-404; 39 review rows. sir philip sidney sidney-defense-of-poesy edition-review-needed authorship-and-authority civic-formation education education-and-civic-life poetry poetry-and-judgment rhetoric taste-and-standards vernacular-and-institution authorship-and-authority education-and-civic-life poetry-and-judgment taste-and-standards vernacular-and-institution",
+      "search_text": "the defense of poesy sir philip sidney; core-text-candidate; pages 365-404; 39 review rows. sir philip sidney sidney-defense-of-poesy edition-review-needed aesthetic-education-and-citizenship authorship-and-authority civic-formation education education-and-civic-life poetry poetry-and-judgment rhetoric taste-and-standards vernacular-and-institution aesthetic-education-and-citizenship authorship-and-authority education-and-civic-life poetry-and-judgment taste-and-standards vernacular-and-institution",
       "status": "edition-review-needed",
       "summary": "Sir Philip Sidney; core-text-candidate; pages 365-404; 39 review rows.",
       "tags": [
+        "aesthetic-education-and-citizenship",
         "authorship-and-authority",
         "civic-formation",
         "education",
@@ -1433,16 +1651,18 @@
     },
     {
       "constellations": [
+        "aesthetic-education-and-citizenship",
         "authorship-and-authority",
         "education-and-civic-life"
       ],
       "id": "thinker:christine-de-pizan",
       "kind": "thinker",
       "review_pressure": 3,
-      "search_text": "christine de pizan 1 text node(s); christine-de-pizan-city-of-ladies. christine de pizan  generated private workspace note authority authorship-and-authority civic-imagination education education-and-civic-life gender authorship-and-authority education-and-civic-life",
+      "search_text": "christine de pizan 1 text node(s); christine-de-pizan-city-of-ladies. christine de pizan  generated private workspace note aesthetic-education-and-citizenship authority authorship-and-authority civic-imagination education education-and-civic-life gender aesthetic-education-and-citizenship authorship-and-authority education-and-civic-life",
       "status": "generated private workspace note",
       "summary": "1 text node(s); christine-de-pizan-city-of-ladies.",
       "tags": [
+        "aesthetic-education-and-citizenship",
         "authority",
         "authorship-and-authority",
         "civic-imagination",
@@ -1561,6 +1781,60 @@
     },
     {
       "constellations": [
+        "aesthetic-education-and-citizenship",
+        "beauty-and-ascent",
+        "education-and-civic-life",
+        "poetry-and-judgment",
+        "taste-and-standards"
+      ],
+      "id": "thinker:friedrich-schiller",
+      "kind": "thinker",
+      "review_pressure": 10,
+      "search_text": "friedrich schiller 1 text node(s); schiller-aesthetic-education. friedrich schiller  generated private workspace note aesthetic-education aesthetic-education-and-citizenship beauty-and-ascent citizenship education-and-civic-life freedom play poetry-and-judgment taste-and-standards aesthetic-education-and-citizenship beauty-and-ascent education-and-civic-life poetry-and-judgment taste-and-standards",
+      "status": "generated private workspace note",
+      "summary": "1 text node(s); schiller-aesthetic-education.",
+      "tags": [
+        "aesthetic-education",
+        "aesthetic-education-and-citizenship",
+        "beauty-and-ascent",
+        "citizenship",
+        "education-and-civic-life",
+        "freedom",
+        "play",
+        "poetry-and-judgment",
+        "taste-and-standards"
+      ],
+      "text_id": "",
+      "thinker": "Friedrich Schiller",
+      "title": "Friedrich Schiller",
+      "url": "/workspace/thinkers/friedrich-schiller/"
+    },
+    {
+      "constellations": [
+        "commentary-and-afterlife",
+        "signs-and-reading"
+      ],
+      "id": "thinker:friedrich-schleiermacher",
+      "kind": "thinker",
+      "review_pressure": 14,
+      "search_text": "friedrich schleiermacher 1 text node(s); schleiermacher-hermeneutics. friedrich schleiermacher  generated private workspace note commentary-and-afterlife hermeneutics interpretation language signs-and-reading understanding commentary-and-afterlife signs-and-reading",
+      "status": "generated private workspace note",
+      "summary": "1 text node(s); schleiermacher-hermeneutics.",
+      "tags": [
+        "commentary-and-afterlife",
+        "hermeneutics",
+        "interpretation",
+        "language",
+        "signs-and-reading",
+        "understanding"
+      ],
+      "text_id": "",
+      "thinker": "Friedrich Schleiermacher",
+      "title": "Friedrich Schleiermacher",
+      "url": "/workspace/thinkers/friedrich-schleiermacher/"
+    },
+    {
+      "constellations": [
         "commentary-and-afterlife",
         "poetry-and-judgment"
       ],
@@ -1582,6 +1856,62 @@
       "thinker": "Geoffrey of Vinsauf",
       "title": "Geoffrey of Vinsauf",
       "url": "/workspace/thinkers/geoffrey-of-vinsauf/"
+    },
+    {
+      "constellations": [
+        "beauty-and-ascent",
+        "commentary-and-afterlife",
+        "signs-and-reading",
+        "sublime-and-limits"
+      ],
+      "id": "thinker:georg-wilhelm-friedrich-hegel",
+      "kind": "thinker",
+      "review_pressure": 6,
+      "search_text": "georg wilhelm friedrich hegel 1 text node(s); hegel-phenomenology-fine-art. georg wilhelm friedrich hegel  generated private workspace note aesthetics beauty-and-ascent commentary-and-afterlife history recognition signs-and-reading spirit sublime-and-limits beauty-and-ascent commentary-and-afterlife signs-and-reading sublime-and-limits",
+      "status": "generated private workspace note",
+      "summary": "1 text node(s); hegel-phenomenology-fine-art.",
+      "tags": [
+        "aesthetics",
+        "beauty-and-ascent",
+        "commentary-and-afterlife",
+        "history",
+        "recognition",
+        "signs-and-reading",
+        "spirit",
+        "sublime-and-limits"
+      ],
+      "text_id": "",
+      "thinker": "Georg Wilhelm Friedrich Hegel",
+      "title": "Georg Wilhelm Friedrich Hegel",
+      "url": "/workspace/thinkers/georg-wilhelm-friedrich-hegel/"
+    },
+    {
+      "constellations": [
+        "aesthetic-education-and-citizenship",
+        "authorship-and-authority",
+        "education-and-civic-life",
+        "vernacular-and-institution"
+      ],
+      "id": "thinker:germaine-de-stael",
+      "kind": "thinker",
+      "review_pressure": 10,
+      "search_text": "germaine de stael 1 text node(s); stael-fictions-literature-social-institutions. germaine de stael  generated private workspace note aesthetic-education-and-citizenship authorship-and-authority education-and-civic-life institutions literature nation society vernacular-and-institution aesthetic-education-and-citizenship authorship-and-authority education-and-civic-life vernacular-and-institution",
+      "status": "generated private workspace note",
+      "summary": "1 text node(s); stael-fictions-literature-social-institutions.",
+      "tags": [
+        "aesthetic-education-and-citizenship",
+        "authorship-and-authority",
+        "education-and-civic-life",
+        "institutions",
+        "literature",
+        "nation",
+        "society",
+        "vernacular-and-institution"
+      ],
+      "text_id": "",
+      "thinker": "Germaine de Stael",
+      "title": "Germaine de Stael",
+      "url": "/workspace/thinkers/germaine-de-stael/"
     },
     {
       "constellations": [
@@ -1706,7 +2036,7 @@
       ],
       "id": "thinker:gotthold-ephraim-lessing",
       "kind": "thinker",
-      "review_pressure": 12,
+      "review_pressure": 15,
       "search_text": "gotthold ephraim lessing 1 text node(s); lessing-laocoon. gotthold ephraim lessing  generated private workspace note media media-and-form painting poetry poetry-and-judgment representation sublime-and-limits media-and-form poetry-and-judgment sublime-and-limits",
       "status": "generated private workspace note",
       "summary": "1 text node(s); lessing-laocoon.",
@@ -1930,6 +2260,34 @@
     },
     {
       "constellations": [
+        "aesthetic-education-and-citizenship",
+        "authorship-and-authority",
+        "education-and-civic-life",
+        "poetry-and-judgment"
+      ],
+      "id": "thinker:mary-wollstonecraft",
+      "kind": "thinker",
+      "review_pressure": 9,
+      "search_text": "mary wollstonecraft 1 text node(s); wollstonecraft-rights-woman. mary wollstonecraft  generated private workspace note aesthetic-education-and-citizenship authorship-and-authority citizenship education education-and-civic-life gender poetry-and-judgment reason aesthetic-education-and-citizenship authorship-and-authority education-and-civic-life poetry-and-judgment",
+      "status": "generated private workspace note",
+      "summary": "1 text node(s); wollstonecraft-rights-woman.",
+      "tags": [
+        "aesthetic-education-and-citizenship",
+        "authorship-and-authority",
+        "citizenship",
+        "education",
+        "education-and-civic-life",
+        "gender",
+        "poetry-and-judgment",
+        "reason"
+      ],
+      "text_id": "",
+      "thinker": "Mary Wollstonecraft",
+      "title": "Mary Wollstonecraft",
+      "url": "/workspace/thinkers/mary-wollstonecraft/"
+    },
+    {
+      "constellations": [
         "commentary-and-afterlife",
         "signs-and-reading"
       ],
@@ -2051,16 +2409,18 @@
     },
     {
       "constellations": [
+        "aesthetic-education-and-citizenship",
         "education-and-civic-life",
         "rhetoric-and-force"
       ],
       "id": "thinker:quintilian",
       "kind": "thinker",
       "review_pressure": 10,
-      "search_text": "quintilian 1 text node(s); quintilian-institutio-oratoria. quintilian  generated private workspace note civic-formation education education-and-civic-life rhetoric rhetoric-and-force education-and-civic-life rhetoric-and-force",
+      "search_text": "quintilian 1 text node(s); quintilian-institutio-oratoria. quintilian  generated private workspace note aesthetic-education-and-citizenship civic-formation education education-and-civic-life rhetoric rhetoric-and-force aesthetic-education-and-citizenship education-and-civic-life rhetoric-and-force",
       "status": "generated private workspace note",
       "summary": "1 text node(s); quintilian-institutio-oratoria.",
       "tags": [
+        "aesthetic-education-and-citizenship",
         "civic-formation",
         "education",
         "education-and-civic-life",
@@ -2104,6 +2464,7 @@
     },
     {
       "constellations": [
+        "aesthetic-education-and-citizenship",
         "authorship-and-authority",
         "education-and-civic-life",
         "poetry-and-judgment",
@@ -2113,10 +2474,11 @@
       "id": "thinker:sir-philip-sidney",
       "kind": "thinker",
       "review_pressure": 39,
-      "search_text": "sir philip sidney 1 text node(s); sidney-defense-of-poesy. sir philip sidney  generated private workspace note authorship-and-authority civic-formation education education-and-civic-life poetry poetry-and-judgment rhetoric taste-and-standards vernacular-and-institution authorship-and-authority education-and-civic-life poetry-and-judgment taste-and-standards vernacular-and-institution",
+      "search_text": "sir philip sidney 1 text node(s); sidney-defense-of-poesy. sir philip sidney  generated private workspace note aesthetic-education-and-citizenship authorship-and-authority civic-formation education education-and-civic-life poetry poetry-and-judgment rhetoric taste-and-standards vernacular-and-institution aesthetic-education-and-citizenship authorship-and-authority education-and-civic-life poetry-and-judgment taste-and-standards vernacular-and-institution",
       "status": "generated private workspace note",
       "summary": "1 text node(s); sidney-defense-of-poesy.",
       "tags": [
+        "aesthetic-education-and-citizenship",
         "authorship-and-authority",
         "civic-formation",
         "education",
@@ -2155,41 +2517,72 @@
       "thinker": "Thomas Aquinas",
       "title": "Thomas Aquinas",
       "url": "/workspace/thinkers/thomas-aquinas/"
+    },
+    {
+      "constellations": [
+        "aesthetic-education-and-citizenship",
+        "media-and-form",
+        "poetry-and-judgment",
+        "vernacular-and-institution"
+      ],
+      "id": "thinker:william-wordsworth",
+      "kind": "thinker",
+      "review_pressure": 1,
+      "search_text": "william wordsworth 1 text node(s); wordsworth-lyrical-ballads-preface. william wordsworth  generated private workspace note aesthetic-education-and-citizenship common-life imagination language media-and-form poetry poetry-and-judgment vernacular-and-institution aesthetic-education-and-citizenship media-and-form poetry-and-judgment vernacular-and-institution",
+      "status": "generated private workspace note",
+      "summary": "1 text node(s); wordsworth-lyrical-ballads-preface.",
+      "tags": [
+        "aesthetic-education-and-citizenship",
+        "common-life",
+        "imagination",
+        "language",
+        "media-and-form",
+        "poetry",
+        "poetry-and-judgment",
+        "vernacular-and-institution"
+      ],
+      "text_id": "",
+      "thinker": "William Wordsworth",
+      "title": "William Wordsworth",
+      "url": "/workspace/thinkers/william-wordsworth/"
     }
   ],
-  "entry_count": 87,
+  "entry_count": 100,
   "filters": {
     "constellations": {
-      "authorship-and-authority": 17,
-      "beauty-and-ascent": 11,
-      "commentary-and-afterlife": 17,
-      "education-and-civic-life": 19,
-      "media-and-form": 9,
-      "poetry-and-judgment": 39,
+      "aesthetic-education-and-citizenship": 15,
+      "authorship-and-authority": 21,
+      "beauty-and-ascent": 15,
+      "commentary-and-afterlife": 21,
+      "education-and-civic-life": 25,
+      "media-and-form": 11,
+      "poetry-and-judgment": 45,
       "rhetoric-and-force": 12,
-      "signs-and-reading": 15,
-      "sublime-and-limits": 11,
-      "taste-and-standards": 17,
+      "signs-and-reading": 19,
+      "sublime-and-limits": 13,
+      "taste-and-standards": 19,
       "theater-and-public-judgment": 13,
-      "vernacular-and-institution": 13
+      "vernacular-and-institution": 17
     },
     "kinds": {
       "chapter": 6,
-      "constellation": 12,
+      "constellation": 13,
       "passage": 3,
-      "text": 33,
-      "thinker": 33
+      "text": 39,
+      "thinker": 39
     },
     "statuses": {
       "chapter draft": 6,
-      "edition-review-needed": 33,
-      "generated private workspace note": 33,
-      "private constellation draft": 12,
+      "edition-review-needed": 39,
+      "generated private workspace note": 39,
+      "private constellation draft": 13,
       "private restricted note; public quotation pending edition review": 3
     },
     "tags": {
       "addison-spectator-essays": 3,
-      "aesthetics": 4,
+      "aesthetic-education": 2,
+      "aesthetic-education-and-citizenship": 14,
+      "aesthetics": 6,
       "affect": 3,
       "agency": 1,
       "allegory": 9,
@@ -2201,21 +2594,23 @@
       "augustine-on-christian-doctrine-trinity": 2,
       "authority": 8,
       "authorship": 5,
-      "authorship-and-authority": 16,
+      "authorship-and-authority": 20,
       "beauty": 4,
-      "beauty-and-ascent": 10,
+      "beauty-and-ascent": 14,
       "belief": 1,
       "blame": 1,
       "boccaccio-genealogy-gentile-gods": 1,
       "burke-sublime-and-beautiful": 4,
-      "christine-de-pizan-city-of-ladies": 2,
+      "christine-de-pizan-city-of-ladies": 3,
+      "citizenship": 5,
       "civic-discipline": 1,
       "civic-formation": 7,
       "civic-imagination": 2,
       "civic-knowledge": 2,
       "classification": 2,
       "commentary": 5,
-      "commentary-and-afterlife": 16,
+      "commentary-and-afterlife": 20,
+      "common-life": 2,
       "consensus": 3,
       "corneille-three-unities": 2,
       "counterfactual": 1,
@@ -2228,45 +2623,49 @@
       "disinterestedness": 2,
       "drama": 5,
       "dryden-selected-critical-prose": 3,
-      "education": 10,
-      "education-and-civic-life": 18,
+      "education": 13,
+      "education-and-civic-life": 24,
       "empiricism": 2,
       "excess": 1,
       "fiction": 2,
       "force": 1,
       "form": 3,
-      "gender": 5,
+      "freedom": 3,
+      "gender": 7,
       "genius": 2,
       "genre": 6,
       "geoffrey-poetria-nova": 2,
       "giacopo-mazzoni-defense-comedy-dante": 1,
       "giambattista-giraldi-composition-romances": 2,
       "gorgias-encomium-helen": 1,
-      "history": 3,
+      "hegel-phenomenology-fine-art": 4,
+      "hermeneutics": 2,
+      "history": 5,
       "horace-ars-poetica": 2,
       "hugh-didascalicon": 3,
       "humanism": 2,
       "hume-standard-of-taste": 3,
-      "imagination": 2,
+      "imagination": 4,
       "imitation": 5,
       "inheritance": 1,
       "institutional-judgment": 2,
-      "institutions": 2,
-      "interpretation": 9,
+      "institutions": 4,
+      "interpretation": 11,
       "inward-reading": 1,
       "joachim-du-bellay-defense-french-language": 3,
       "johnson-selected-critical-prose": 5,
       "judgment": 9,
       "kant-critique-of-judgment": 5,
-      "language": 4,
+      "language": 8,
       "lessing-laocoon": 3,
       "limit": 1,
       "literary-judgment": 2,
+      "literature": 2,
       "longinus-on-sublimity": 4,
       "macrobius-dream-scipio": 1,
       "maimonides-guide-perplexed": 2,
       "media": 2,
-      "media-and-form": 8,
+      "media-and-form": 10,
       "medium": 1,
       "memory": 4,
       "metaphysics": 2,
@@ -2275,7 +2674,7 @@
       "modernity": 2,
       "myth": 1,
       "mythology": 2,
-      "nation": 3,
+      "nation": 5,
       "neoclassicism": 2,
       "orientation": 1,
       "originality": 2,
@@ -2284,16 +2683,18 @@
       "persuasion": 3,
       "pierre-de-ronsard-art-french-poetry": 2,
       "plato-selected-dialogues": 4,
+      "play": 2,
       "plotinus-enneads": 1,
       "poetics": 12,
-      "poetry": 4,
-      "poetry-and-judgment": 38,
+      "poetry": 6,
+      "poetry-and-judgment": 44,
       "pope-essay-on-criticism": 3,
       "public-judgment": 4,
       "public-sphere": 2,
-      "quintilian-institutio-oratoria": 2,
+      "quintilian-institutio-oratoria": 3,
       "reading": 2,
-      "reason": 2,
+      "reason": 4,
+      "recognition": 2,
       "representation": 3,
       "revelation": 2,
       "rhetoric": 13,
@@ -2301,16 +2702,21 @@
       "romance": 2,
       "rules": 3,
       "rupture": 1,
+      "schiller-aesthetic-education": 5,
+      "schleiermacher-hermeneutics": 2,
       "shakespeare": 2,
-      "sidney-defense-of-poesy": 5,
+      "sidney-defense-of-poesy": 6,
       "signs": 2,
-      "signs-and-reading": 14,
+      "signs-and-reading": 18,
+      "society": 2,
       "speech": 2,
+      "spirit": 2,
+      "stael-fictions-literature-social-institutions": 4,
       "sublime": 4,
-      "sublime-and-limits": 10,
+      "sublime-and-limits": 12,
       "sublimity": 4,
       "taste": 5,
-      "taste-and-standards": 16,
+      "taste-and-standards": 18,
       "tension": 2,
       "terror": 2,
       "theater": 2,
@@ -2320,10 +2726,13 @@
       "thomas-aquinas-summa-theologica": 2,
       "translation": 2,
       "transmission": 3,
+      "understanding": 2,
       "vernacular": 9,
-      "vernacular-and-institution": 12,
+      "vernacular-and-institution": 16,
       "vico-new-science": 3,
       "wit": 4,
+      "wollstonecraft-rights-woman": 4,
+      "wordsworth-lyrical-ballads-preface": 4,
       "writing": 3,
       "young-conjectures-original-composition": 2
     },
@@ -2337,7 +2746,11 @@
       "David Hume": 2,
       "Edmund Burke": 2,
       "Edward Young": 2,
+      "Friedrich Schiller": 2,
+      "Friedrich Schleiermacher": 2,
       "Geoffrey of Vinsauf": 2,
+      "Georg Wilhelm Friedrich Hegel": 2,
+      "Germaine de Stael": 2,
       "Giacopo Mazzoni": 2,
       "Giambattista Giraldi": 2,
       "Giambattista Vico": 2,
@@ -2353,6 +2766,7 @@
       "Joseph Addison": 2,
       "Longinus": 2,
       "Macrobius": 2,
+      "Mary Wollstonecraft": 2,
       "Moses Maimonides": 2,
       "Pierre Corneille": 2,
       "Pierre de Ronsard": 2,
@@ -2361,11 +2775,12 @@
       "Quintilian": 2,
       "Samuel Johnson": 2,
       "Sir Philip Sidney": 2,
-      "Thomas Aquinas": 2
+      "Thomas Aquinas": 2,
+      "William Wordsworth": 2
     }
   },
-  "generated_at": "2026-06-13T04:36:22Z",
-  "git_commit": "647245f",
+  "generated_at": "2026-06-13T04:42:30Z",
+  "git_commit": "0e02b79",
   "script_version": "1",
   "source_id": "norton-theory-criticism"
 }

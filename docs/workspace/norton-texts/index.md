@@ -10,15 +10,15 @@ This index is generated from curated source metadata and local extraction audit 
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Curated Text Nodes</div>
-  <div class="ah-metric-value">33</div>
+  <div class="ah-metric-value">39</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Assembled Chunks</div>
-  <div class="ah-metric-value">33</div>
+  <div class="ah-metric-value">39</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Constellations</div>
-  <div class="ah-metric-value">12</div>
+  <div class="ah-metric-value">13</div>
 </div>
 </div>
 
@@ -31,7 +31,7 @@ This index is generated from curated source metadata and local extraction audit 
 | [Poetics and Rhetoric](aristotle-poetics-rhetoric.md) | Aristotle | 128-162 | [rhetoric-and-force](../rhetoric-and-force.md)<br>[poetry-and-judgment](../poetry-and-judgment.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[theater-and-public-judgment](../theater-and-public-judgment.md)<br>[media-and-form](../media-and-form.md) | 0 | 23 | `edition-review-needed` |
 | [Ars Poetica](horace-ars-poetica.md) | Horace | 163-176 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[media-and-form](../media-and-form.md) | 0 | 14 | `edition-review-needed` |
 | [On Sublimity](longinus-on-sublimity.md) | Longinus | 177-196 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[beauty-and-ascent](../beauty-and-ascent.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[sublime-and-limits](../sublime-and-limits.md) | 0 | 19 | `edition-review-needed` |
-| [Institutio Oratoria](quintilian-institutio-oratoria.md) | Quintilian | 197-212 | [rhetoric-and-force](../rhetoric-and-force.md)<br>[education-and-civic-life](../education-and-civic-life.md) | 0 | 10 | `edition-review-needed` |
+| [Institutio Oratoria](quintilian-institutio-oratoria.md) | Quintilian | 197-212 | [rhetoric-and-force](../rhetoric-and-force.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md) | 0 | 10 | `edition-review-needed` |
 | [Selected Enneads](plotinus-enneads.md) | Plotinus | 213-226 | [beauty-and-ascent](../beauty-and-ascent.md) | 0 | 7 | `edition-review-needed` |
 | [On Christian Doctrine and The Trinity](augustine-on-christian-doctrine-trinity.md) | Augustine of Hippo | 227-237 | [signs-and-reading](../signs-and-reading.md)<br>[beauty-and-ascent](../beauty-and-ascent.md) | 0 | 9 | `edition-review-needed` |
 | [Commentary on the Dream of Scipio](macrobius-dream-scipio.md) | Macrobius | 238-242 | [commentary-and-afterlife](../commentary-and-afterlife.md) | 0 | 4 | `edition-review-needed` |
@@ -41,12 +41,12 @@ This index is generated from curated source metadata and local extraction audit 
 | [Summa Theologica](thomas-aquinas-summa-theologica.md) | Thomas Aquinas | 282-287 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md) | 0 | 6 | `edition-review-needed` |
 | [Il Convivio and The Letter to Can Grande](dante-il-convivio-letter-can-grande.md) | Dante Alighieri | 288-294 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[vernacular-and-institution](../vernacular-and-institution.md) | 0 | 5 | `edition-review-needed` |
 | [Genealogy of the Gentile Gods](boccaccio-genealogy-gentile-gods.md) | Giovanni Boccaccio | 295-304 | [poetry-and-judgment](../poetry-and-judgment.md) | 0 | 9 | `edition-review-needed` |
-| [The Book of the City of Ladies](christine-de-pizan-city-of-ladies.md) | Christine de Pizan | 305-312 | [education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md) | 0 | 3 | `edition-review-needed` |
+| [The Book of the City of Ladies](christine-de-pizan-city-of-ladies.md) | Christine de Pizan | 305-312 | [education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md) | 0 | 3 | `edition-review-needed` |
 | [Discourse on the Composition of Romances](giambattista-giraldi-composition-romances.md) | Giambattista Giraldi | 313-320 | [vernacular-and-institution](../vernacular-and-institution.md)<br>[theater-and-public-judgment](../theater-and-public-judgment.md) | 0 | 7 | `edition-review-needed` |
 | [The Defence and Illustration of the French Language](joachim-du-bellay-defense-french-language.md) | Joachim du Bellay | 321-332 | [commentary-and-afterlife](../commentary-and-afterlife.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[authorship-and-authority](../authorship-and-authority.md) | 0 | 11 | `edition-review-needed` |
 | [A Brief on the Art of French Poetry](pierre-de-ronsard-art-french-poetry.md) | Pierre de Ronsard | 333-341 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[vernacular-and-institution](../vernacular-and-institution.md) | 0 | 5 | `edition-review-needed` |
 | [On the Defense of the Comedy of Dante](giacopo-mazzoni-defense-comedy-dante.md) | Giacopo Mazzoni | 342-364 | [signs-and-reading](../signs-and-reading.md) | 0 | 15 | `edition-review-needed` |
-| [The Defense of Poesy](sidney-defense-of-poesy.md) | Sir Philip Sidney | 365-404 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md) | 0 | 39 | `edition-review-needed` |
+| [The Defense of Poesy](sidney-defense-of-poesy.md) | Sir Philip Sidney | 365-404 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md) | 0 | 39 | `edition-review-needed` |
 | [Of the Three Unities of Action, Time, and Place](corneille-three-unities.md) | Pierre Corneille | 405-420 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[theater-and-public-judgment](../theater-and-public-judgment.md) | 0 | 11 | `edition-review-needed` |
 | [Selected Critical Prose](dryden-selected-critical-prose.md) | John Dryden | 421-429 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[theater-and-public-judgment](../theater-and-public-judgment.md)<br>[authorship-and-authority](../authorship-and-authority.md) | 0 | 9 | `edition-review-needed` |
 | [The Dutch Lover and Preface to The Lucky Chance](aphra-behn-dutch-lover-lucky-chance.md) | Aphra Behn | 430-440 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[theater-and-public-judgment](../theater-and-public-judgment.md)<br>[authorship-and-authority](../authorship-and-authority.md) | 0 | 11 | `edition-review-needed` |
@@ -58,7 +58,13 @@ This index is generated from curated source metadata and local extraction audit 
 | [Of the Standard of Taste](hume-standard-of-taste.md) | David Hume | 525-540 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[sublime-and-limits](../sublime-and-limits.md) | 0 | 7 | `edition-review-needed` |
 | [Critique of Judgment](kant-critique-of-judgment.md) | Immanuel Kant | 541-577 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[beauty-and-ascent](../beauty-and-ascent.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[sublime-and-limits](../sublime-and-limits.md)<br>[media-and-form](../media-and-form.md) | 0 | 14 | `edition-review-needed` |
 | [A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful](burke-sublime-and-beautiful.md) | Edmund Burke | 578-592 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[beauty-and-ascent](../beauty-and-ascent.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[sublime-and-limits](../sublime-and-limits.md) | 0 | 6 | `edition-review-needed` |
-| [Laocoon](lessing-laocoon.md) | Gotthold Ephraim Lessing | 593-607 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[sublime-and-limits](../sublime-and-limits.md)<br>[media-and-form](../media-and-form.md) | 0 | 12 | `edition-review-needed` |
+| [Laocoon](lessing-laocoon.md) | Gotthold Ephraim Lessing | 593-612 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[sublime-and-limits](../sublime-and-limits.md)<br>[media-and-form](../media-and-form.md) | 0 | 15 | `edition-review-needed` |
+| [On the Aesthetic Education of Man](schiller-aesthetic-education.md) | Friedrich Schiller | 613-623 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[beauty-and-ascent](../beauty-and-ascent.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md) | 0 | 10 | `edition-review-needed` |
+| [A Vindication of the Rights of Woman](wollstonecraft-rights-woman.md) | Mary Wollstonecraft | 624-635 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md) | 0 | 9 | `edition-review-needed` |
+| [Essay on Fictions and On Literature Considered in Its Relationship to Social Institutions](stael-fictions-literature-social-institutions.md) | Germaine de Stael | 636-651 | [education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md) | 0 | 10 | `edition-review-needed` |
+| [Hermeneutics](schleiermacher-hermeneutics.md) | Friedrich Schleiermacher | 652-667 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md) | 0 | 14 | `edition-review-needed` |
+| [Phenomenology of Spirit and Lectures on Fine Art](hegel-phenomenology-fine-art.md) | Georg Wilhelm Friedrich Hegel | 668-686 | [signs-and-reading](../signs-and-reading.md)<br>[beauty-and-ascent](../beauty-and-ascent.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[sublime-and-limits](../sublime-and-limits.md) | 0 | 6 | `edition-review-needed` |
+| [Preface to Lyrical Ballads](wordsworth-lyrical-ballads-preface.md) | William Wordsworth | 687-687 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[media-and-form](../media-and-form.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md) | 0 | 1 | `edition-review-needed` |
 
 ## How To Use This Index
 
@@ -85,7 +91,7 @@ This index is generated from curated source metadata and local extraction audit 
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T04:36:21Z` |
-| Git commit | `647245f` |
+| Generated at | `2026-06-13T04:42:28Z` |
+| Git commit | `0e02b79` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/index.md` |

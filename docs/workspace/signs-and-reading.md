@@ -30,6 +30,8 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/thomas-aquinas-summa-theologica/"><strong>Thomas Aquinas, Summa Theologica</strong><span>interpretation, theology, allegory; pages 282-287; 6 review rows</span></a>
   <a href="../norton-texts/dante-il-convivio-letter-can-grande/"><strong>Dante Alighieri, Il Convivio and The Letter to Can Grande</strong><span>interpretation, allegory, vernacular; pages 288-294; 5 review rows</span></a>
   <a href="../norton-texts/giacopo-mazzoni-defense-comedy-dante/"><strong>Giacopo Mazzoni, On the Defense of the Comedy of Dante</strong><span>mimesis, poetics, genre; pages 342-364; 15 review rows</span></a>
+  <a href="../norton-texts/schleiermacher-hermeneutics/"><strong>Friedrich Schleiermacher, Hermeneutics</strong><span>hermeneutics, interpretation, language; pages 652-667; 14 review rows</span></a>
+  <a href="../norton-texts/hegel-phenomenology-fine-art/"><strong>Georg Wilhelm Friedrich Hegel, Phenomenology of Spirit and Lectures on Fine Art</strong><span>spirit, aesthetics, history; pages 668-686; 6 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -49,6 +51,8 @@ This is a scaffold for reading the configured texts together. It should become a
 5. [Thomas Aquinas, Summa Theologica](norton-texts/thomas-aquinas-summa-theologica.md)
 6. [Dante Alighieri, Il Convivio and The Letter to Can Grande](norton-texts/dante-il-convivio-letter-can-grande.md)
 7. [Giacopo Mazzoni, On the Defense of the Comedy of Dante](norton-texts/giacopo-mazzoni-defense-comedy-dante.md)
+8. [Friedrich Schleiermacher, Hermeneutics](norton-texts/schleiermacher-hermeneutics.md)
+9. [Georg Wilhelm Friedrich Hegel, Phenomenology of Spirit and Lectures on Fine Art](norton-texts/hegel-phenomenology-fine-art.md)
 
 ## Review Pressure
 
@@ -61,6 +65,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Summa Theologica](norton-texts/thomas-aquinas-summa-theologica.md) | 282-287 | 6 | author_intro: 3<br>excerpt: 2<br>mixed_excerpt_bibliography: 1 |
 | [Il Convivio and The Letter to Can Grande](norton-texts/dante-il-convivio-letter-can-grande.md) | 288-294 | 5 | excerpt: 4<br>author_intro: 3 |
 | [On the Defense of the Comedy of Dante](norton-texts/giacopo-mazzoni-defense-comedy-dante.md) | 342-364 | 15 | excerpt: 20<br>author_intro: 2<br>mixed_excerpt_bibliography: 1 |
+| [Hermeneutics](norton-texts/schleiermacher-hermeneutics.md) | 652-667 | 14 | excerpt: 12<br>author_intro: 3<br>mixed_excerpt_bibliography: 1 |
+| [Phenomenology of Spirit and Lectures on Fine Art](norton-texts/hegel-phenomenology-fine-art.md) | 668-686 | 6 | excerpt: 14<br>author_intro: 5 |
 
 ## Passage Queue
 
@@ -114,8 +120,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T04:35:59Z` |
-| Git commit | `647245f` |
+| Generated at | `2026-06-13T04:42:18Z` |
+| Git commit | `0e02b79` |
 | Script version | `2` |
 | Output path | `docs/workspace/signs-and-reading.md` |
 

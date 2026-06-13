@@ -1028,3 +1028,209 @@ overrides:
     starts_new_author: false
     continues_previous_author: true
     confidence: high
+
+  - id: gotthold-ephraim-lessing-laocoon-continuation
+    pages: 608-612
+    author_name: Gotthold Ephraim Lessing
+    author_slug: gotthold-ephraim-lessing
+    work_title: Laocoon
+    work_slug: laocoon
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: friedrich-schiller-headnote
+    pages: 613-614
+    author_name: Friedrich Schiller
+    author_slug: friedrich-schiller
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: friedrich-schiller-aesthetic-education
+    pages: 615-623
+    author_name: Friedrich Schiller
+    author_slug: friedrich-schiller
+    work_title: On the Aesthetic Education of Man
+    work_slug: on-the-aesthetic-education-of-man
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: mary-wollstonecraft-headnote
+    pages: 624-627
+    author_name: Mary Wollstonecraft
+    author_slug: mary-wollstonecraft
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: mary-wollstonecraft-rights-woman
+    pages: 628-635
+    author_name: Mary Wollstonecraft
+    author_slug: mary-wollstonecraft
+    work_title: A Vindication of the Rights of Woman
+    work_slug: a-vindication-of-the-rights-of-woman
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: germaine-de-stael-headnote
+    pages: 636-638
+    author_name: Germaine de Stael
+    author_slug: germaine-de-stael
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: germaine-de-stael-essay-on-fictions
+    pages: 639-645
+    author_name: Germaine de Stael
+    author_slug: germaine-de-stael
+    work_title: Essay on Fictions
+    work_slug: essay-on-fictions
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: germaine-de-stael-literature-social-institutions
+    pages: 646-651
+    author_name: Germaine de Stael
+    author_slug: germaine-de-stael
+    work_title: On Literature Considered in Its Relationship to Social Institutions
+    work_slug: on-literature-considered-in-its-relationship-to-social-institutions
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: friedrich-schleiermacher-headnote
+    pages: 652-654
+    author_name: Friedrich Schleiermacher
+    author_slug: friedrich-schleiermacher
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: friedrich-schleiermacher-hermeneutics-opening
+    pages: 655
+    author_name: Friedrich Schleiermacher
+    author_slug: friedrich-schleiermacher
+    work_title: Hermeneutics
+    work_slug: hermeneutics
+    page_kind: mixed_excerpt_bibliography
+    starts_new_author: false
+    continues_previous_author: true
+    contains_excerpt: true
+    contains_bibliography: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_excerpt_and_bibliography
+
+  - id: friedrich-schleiermacher-hermeneutics
+    pages: 656-667
+    author_name: Friedrich Schleiermacher
+    author_slug: friedrich-schleiermacher
+    work_title: Hermeneutics
+    work_slug: hermeneutics
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: georg-wilhelm-friedrich-hegel-headnote
+    pages: 668-672
+    author_name: Georg Wilhelm Friedrich Hegel
+    author_slug: georg-wilhelm-friedrich-hegel
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: georg-wilhelm-friedrich-hegel-phenomenology
+    pages: 673-677
+    author_name: Georg Wilhelm Friedrich Hegel
+    author_slug: georg-wilhelm-friedrich-hegel
+    work_title: Phenomenology of Spirit
+    work_slug: phenomenology-of-spirit
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: georg-wilhelm-friedrich-hegel-lectures-fine-art
+    pages: 678-686
+    author_name: Georg Wilhelm Friedrich Hegel
+    author_slug: georg-wilhelm-friedrich-hegel
+    work_title: Lectures on Fine Art
+    work_slug: lectures-on-fine-art
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: william-wordsworth-headnote
+    pages: 687
+    author_name: William Wordsworth
+    author_slug: william-wordsworth
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: cleanup-mary-wollstonecraft-headnote-title
+    pages: 627
+    author_name: Mary Wollstonecraft
+    author_slug: mary-wollstonecraft
+    work_title: Headnote
+    work_slug: headnote
+    page_kind: author_intro
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - ocr_title_cleanup
+
+  - id: cleanup-germaine-de-stael-headnote-title
+    pages: 637
+    author_name: Germaine de Stael
+    author_slug: germaine-de-stael
+    work_title: Headnote
+    work_slug: headnote
+    page_kind: author_intro
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - ocr_title_cleanup

@@ -31,6 +31,7 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/hume-standard-of-taste/"><strong>David Hume, Of the Standard of Taste</strong><span>taste, judgment, empiricism; pages 525-540; 7 review rows</span></a>
   <a href="../norton-texts/kant-critique-of-judgment/"><strong>Immanuel Kant, Critique of Judgment</strong><span>aesthetics, judgment, disinterestedness; pages 541-577; 14 review rows</span></a>
   <a href="../norton-texts/burke-sublime-and-beautiful/"><strong>Edmund Burke, A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful</strong><span>sublime, beauty, affect; pages 578-592; 6 review rows</span></a>
+  <a href="../norton-texts/schiller-aesthetic-education/"><strong>Friedrich Schiller, On the Aesthetic Education of Man</strong><span>aesthetic-education, freedom, play; pages 613-623; 10 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -51,6 +52,7 @@ This is a scaffold for reading the configured texts together. It should become a
 6. [David Hume, Of the Standard of Taste](norton-texts/hume-standard-of-taste.md)
 7. [Immanuel Kant, Critique of Judgment](norton-texts/kant-critique-of-judgment.md)
 8. [Edmund Burke, A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful](norton-texts/burke-sublime-and-beautiful.md)
+9. [Friedrich Schiller, On the Aesthetic Education of Man](norton-texts/schiller-aesthetic-education.md)
 
 ## Review Pressure
 
@@ -64,6 +66,7 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Of the Standard of Taste](norton-texts/hume-standard-of-taste.md) | 525-540 | 7 | excerpt: 13<br>author_intro: 3 |
 | [Critique of Judgment](norton-texts/kant-critique-of-judgment.md) | 541-577 | 14 | excerpt: 32<br>author_intro: 5 |
 | [A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful](norton-texts/burke-sublime-and-beautiful.md) | 578-592 | 6 | excerpt: 12<br>author_intro: 3 |
+| [On the Aesthetic Education of Man](norton-texts/schiller-aesthetic-education.md) | 613-623 | 10 | excerpt: 9<br>author_intro: 2 |
 
 ## Passage Queue
 
@@ -117,8 +120,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T04:35:59Z` |
-| Git commit | `647245f` |
+| Generated at | `2026-06-13T04:42:18Z` |
+| Git commit | `0e02b79` |
 | Script version | `2` |
 | Output path | `docs/workspace/taste-and-standards.md` |
 

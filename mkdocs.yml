@@ -63,6 +63,12 @@ nav:
           - Kant, Critique of Judgment: workspace/norton-texts/kant-critique-of-judgment.md
           - Burke, Sublime and Beautiful: workspace/norton-texts/burke-sublime-and-beautiful.md
           - Lessing, Laocoon: workspace/norton-texts/lessing-laocoon.md
+          - Schiller, Aesthetic Education: workspace/norton-texts/schiller-aesthetic-education.md
+          - Wollstonecraft, Rights of Woman: workspace/norton-texts/wollstonecraft-rights-woman.md
+          - de Stael, Fictions and Literature: workspace/norton-texts/stael-fictions-literature-social-institutions.md
+          - Schleiermacher, Hermeneutics: workspace/norton-texts/schleiermacher-hermeneutics.md
+          - Hegel, Phenomenology and Fine Art: workspace/norton-texts/hegel-phenomenology-fine-art.md
+          - Wordsworth, Preface to Lyrical Ballads: workspace/norton-texts/wordsworth-lyrical-ballads-preface.md
       - Thinker Notes:
           - Index: workspace/thinkers/index.md
           - Gorgias of Leontini: workspace/thinkers/gorgias-of-leontini.md
@@ -98,6 +104,12 @@ nav:
           - Immanuel Kant: workspace/thinkers/immanuel-kant.md
           - Edmund Burke: workspace/thinkers/edmund-burke.md
           - Gotthold Ephraim Lessing: workspace/thinkers/gotthold-ephraim-lessing.md
+          - Friedrich Schiller: workspace/thinkers/friedrich-schiller.md
+          - Mary Wollstonecraft: workspace/thinkers/mary-wollstonecraft.md
+          - Germaine de Stael: workspace/thinkers/germaine-de-stael.md
+          - Friedrich Schleiermacher: workspace/thinkers/friedrich-schleiermacher.md
+          - Georg Wilhelm Friedrich Hegel: workspace/thinkers/georg-wilhelm-friedrich-hegel.md
+          - William Wordsworth: workspace/thinkers/william-wordsworth.md
       - Passage Notes:
           - Index: workspace/passages/index.md
           - Speech As Force: workspace/passages/gorgias-speech-as-force.md
@@ -115,6 +127,7 @@ nav:
       - Taste And Standards: workspace/taste-and-standards.md
       - Sublime And Limits: workspace/sublime-and-limits.md
       - Media And Form: workspace/media-and-form.md
+      - Aesthetic Education And Citizenship: workspace/aesthetic-education-and-citizenship.md
       - Page Anatomy: workspace/page-anatomy.md
       - Gorgias Text Note: workspace/gorgias-encomium-helen.md
   - Project Notes:

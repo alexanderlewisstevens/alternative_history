@@ -20,7 +20,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [The Book of the City of Ladies](../norton-texts/christine-de-pizan-city-of-ladies.md) | 305-312 | 3 | 0 | [education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md) | `edition-review-needed` |
+| [The Book of the City of Ladies](../norton-texts/christine-de-pizan-city-of-ladies.md) | 305-312 | 3 | 0 | [education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -29,6 +29,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 ## Constellation Backlinks
 
+- [aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)
 - [authorship-and-authority](../authorship-and-authority.md)
 - [education-and-civic-life](../education-and-civic-life.md)
 
@@ -89,8 +90,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T04:36:17Z` |
-| Git commit | `647245f` |
+| Generated at | `2026-06-13T04:42:24Z` |
+| Git commit | `0e02b79` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/christine-de-pizan.md` |
 

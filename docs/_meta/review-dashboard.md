@@ -5,19 +5,19 @@ This is the editorial queue for restricted extraction work. It is generated from
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Boundary Review</div>
-  <div class="ah-metric-value">104</div>
+  <div class="ah-metric-value">122</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Content Separation</div>
-  <div class="ah-metric-value">8</div>
+  <div class="ah-metric-value">9</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Layout Review</div>
-  <div class="ah-metric-value">244</div>
+  <div class="ah-metric-value">261</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Source Notes</div>
-  <div class="ah-metric-value">42</div>
+  <div class="ah-metric-value">59</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">General Review</div>
@@ -29,28 +29,28 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 <div class="ah-review-grid">
 <section class="ah-review-card warn">
-  <div class="ah-review-card-kicker">104 pages</div>
+  <div class="ah-review-card-kicker">122 pages</div>
   <h3>Boundary Review</h3>
   <p>Confirm thinker and work boundaries before assembling public-facing drafts.</p>
-  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +92 more</p>
+  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +110 more</p>
 </section>
 <section class="ah-review-card warn">
-  <div class="ah-review-card-kicker">8 pages</div>
+  <div class="ah-review-card-kicker">9 pages</div>
   <h3>Content Separation</h3>
   <p>Keep excerpt text, source notes, and bibliography material in separate template sections.</p>
-  <p><strong>Start:</strong> <code>72</code>, <code>199</code>, <code>285</code>, <code>297</code>, <code>344</code>, <code>368</code>, <code>443</code>, <code>469</code></p>
+  <p><strong>Start:</strong> <code>72</code>, <code>199</code>, <code>285</code>, <code>297</code>, <code>344</code>, <code>368</code>, <code>443</code>, <code>469</code>, <code>655</code></p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">244 pages</div>
+  <div class="ah-review-card-kicker">261 pages</div>
   <h3>Layout Review</h3>
   <p>Confirm multi-column reading order before any summary or excerpt curation.</p>
-  <p><strong>Start:</strong> <code>73</code>, <code>79</code>, <code>80</code>, <code>82</code>, <code>83</code>, <code>84</code>, <code>86</code>, <code>90</code>, <code>91</code>, <code>92</code>, <code>93</code>, <code>94</code> +232 more</p>
+  <p><strong>Start:</strong> <code>73</code>, <code>79</code>, <code>80</code>, <code>82</code>, <code>83</code>, <code>84</code>, <code>86</code>, <code>90</code>, <code>91</code>, <code>92</code>, <code>93</code>, <code>94</code> +249 more</p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">42 pages</div>
+  <div class="ah-review-card-kicker">59 pages</div>
   <h3>Source Notes</h3>
   <p>Move source footnotes into Source Notes without converting them into Markdown footnotes.</p>
-  <p><strong>Start:</strong> <code>74</code>, <code>98</code>, <code>99</code>, <code>126</code>, <code>185</code>, <code>190</code>, <code>191</code>, <code>192</code>, <code>194</code>, <code>204</code>, <code>213</code>, <code>218</code> +30 more</p>
+  <p><strong>Start:</strong> <code>74</code>, <code>98</code>, <code>99</code>, <code>126</code>, <code>185</code>, <code>190</code>, <code>191</code>, <code>192</code>, <code>194</code>, <code>204</code>, <code>213</code>, <code>218</code> +47 more</p>
 </section>
 </div>
 
@@ -66,11 +66,11 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Field | Value |
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
-| Classified source pages | `71-607` |
-| Review queue rows | `398` |
+| Classified source pages | `71-687` |
+| Review queue rows | `451` |
 | Review queue file | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
-| Generated at | `2026-06-13T04:36:16Z` |
-| Git commit | `647245f` |
+| Generated at | `2026-06-13T04:42:22Z` |
+| Git commit | `0e02b79` |
 | Script version | `1` |
 | Output path | `docs/_meta/review-dashboard.md` |
 
@@ -78,13 +78,14 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 | Reason | Pages |
 | --- | ---: |
-| multi_column_layout | 254 |
-| source_notes_detected | 227 |
-| transition_from_previous_author | 88 |
+| multi_column_layout | 271 |
+| source_notes_detected | 251 |
+| transition_from_previous_author | 106 |
 | layout_review_required | 22 |
 | author_boundary_without_life_dates | 14 |
-| mixed_excerpt_and_bibliography | 8 |
+| mixed_excerpt_and_bibliography | 9 |
 | transition_from_previous_work | 2 |
+| ocr_title_cleanup | 2 |
 
 ## Thinkers Needing Review
 
@@ -98,10 +99,11 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Longinus | 19 |
 | Moses Maimonides | 15 |
 | Giacopo Mazzoni | 15 |
+| Gotthold Ephraim Lessing | 15 |
 | Horace | 14 |
 | Immanuel Kant | 14 |
+| Friedrich Schleiermacher | 14 |
 | Geoffrey of Vinsauf | 12 |
-| Gotthold Ephraim Lessing | 12 |
 | Joachim du Bellay | 11 |
 | Pierre Corneille | 11 |
 | Aphra Behn | 11 |
@@ -110,19 +112,24 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Quintilian | 10 |
 | Hugh of St. Victor | 10 |
 | Joseph Addison | 10 |
+| Friedrich Schiller | 10 |
+| Germaine de Stael | 10 |
 | Augustine of Hippo | 9 |
 | Giovanni Boccaccio | 9 |
 | John Dryden | 9 |
+| Mary Wollstonecraft | 9 |
 | Plotinus | 7 |
 | Giambattista Giraldi | 7 |
 | David Hume | 7 |
 | Thomas Aquinas | 6 |
 | Edmund Burke | 6 |
+| Georg Wilhelm Friedrich Hegel | 6 |
 | Dante Alighieri | 5 |
 | Pierre de Ronsard | 5 |
 | Macrobius | 4 |
 | Gorgias of Leontini | 3 |
 | Christine de Pizan | 3 |
+| William Wordsworth | 1 |
 
 ## Boundary Review
 
@@ -232,6 +239,24 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 593 | Gotthold Ephraim Lessing |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0593.md |
 | 594 | Gotthold Ephraim Lessing |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0594.md |
 | 595 | Gotthold Ephraim Lessing |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0595.md |
+| 613 | Friedrich Schiller |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0613.md |
+| 614 | Friedrich Schiller |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0614.md |
+| 624 | Mary Wollstonecraft |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0624.md |
+| 625 | Mary Wollstonecraft |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0625.md |
+| 626 | Mary Wollstonecraft |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0626.md |
+| 627 | Mary Wollstonecraft | Headnote | ocr_title_cleanup;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0627.md |
+| 636 | Germaine de Stael |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0636.md |
+| 637 | Germaine de Stael | Headnote | ocr_title_cleanup;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0637.md |
+| 638 | Germaine de Stael |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0638.md |
+| 652 | Friedrich Schleiermacher |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0652.md |
+| 653 | Friedrich Schleiermacher |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0653.md |
+| 654 | Friedrich Schleiermacher |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0654.md |
+| 668 | Georg Wilhelm Friedrich Hegel |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0668.md |
+| 669 | Georg Wilhelm Friedrich Hegel |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0669.md |
+| 670 | Georg Wilhelm Friedrich Hegel |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0670.md |
+| 671 | Georg Wilhelm Friedrich Hegel | Georg Wilhelm Friedrich Hegel | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0671.md |
+| 672 | Georg Wilhelm Friedrich Hegel |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0672.md |
+| 687 | William Wordsworth |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0687.md |
 
 ## Content Separation
 
@@ -245,6 +270,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 368 | Sir Philip Sidney | An Apology for Poetry | mixed_excerpt_and_bibliography | work/page-records/norton-theory-criticism/page_0368.md |
 | 443 | Giambattista Vico | The New Science | mixed_excerpt_and_bibliography | work/page-records/norton-theory-criticism/page_0443.md |
 | 469 | Edward Young | Conjectures on Original Composition | mixed_excerpt_and_bibliography | work/page-records/norton-theory-criticism/page_0469.md |
+| 655 | Friedrich Schleiermacher | Hermeneutics | mixed_excerpt_and_bibliography | work/page-records/norton-theory-criticism/page_0655.md |
 
 ## Layout Review
 
@@ -494,6 +520,23 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 604 | Gotthold Ephraim Lessing | Laocoon | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0604.md |
 | 605 | Gotthold Ephraim Lessing | Laocoon | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0605.md |
 | 606 | Gotthold Ephraim Lessing | Laocoon | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0606.md |
+| 609 | Gotthold Ephraim Lessing | Laocoon | multi_column_layout | work/page-records/norton-theory-criticism/page_0609.md |
+| 610 | Gotthold Ephraim Lessing | Laocoon | multi_column_layout | work/page-records/norton-theory-criticism/page_0610.md |
+| 612 | Gotthold Ephraim Lessing | Laocoon | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0612.md |
+| 622 | Friedrich Schiller | On the Aesthetic Education of Man | multi_column_layout | work/page-records/norton-theory-criticism/page_0622.md |
+| 628 | Mary Wollstonecraft | A Vindication of the Rights of Woman | multi_column_layout | work/page-records/norton-theory-criticism/page_0628.md |
+| 629 | Mary Wollstonecraft | A Vindication of the Rights of Woman | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0629.md |
+| 633 | Mary Wollstonecraft | A Vindication of the Rights of Woman | multi_column_layout | work/page-records/norton-theory-criticism/page_0633.md |
+| 634 | Mary Wollstonecraft | A Vindication of the Rights of Woman | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0634.md |
+| 639 | Germaine de Stael | Essay on Fictions | multi_column_layout | work/page-records/norton-theory-criticism/page_0639.md |
+| 640 | Germaine de Stael | Essay on Fictions | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0640.md |
+| 644 | Germaine de Stael | Essay on Fictions | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0644.md |
+| 645 | Germaine de Stael | Essay on Fictions | multi_column_layout | work/page-records/norton-theory-criticism/page_0645.md |
+| 646 | Germaine de Stael | On Literature Considered in Its Relationship to Social Institutions | multi_column_layout | work/page-records/norton-theory-criticism/page_0646.md |
+| 648 | Germaine de Stael | On Literature Considered in Its Relationship to Social Institutions | multi_column_layout | work/page-records/norton-theory-criticism/page_0648.md |
+| 651 | Germaine de Stael | On Literature Considered in Its Relationship to Social Institutions | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0651.md |
+| 656 | Friedrich Schleiermacher | Hermeneutics | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0656.md |
+| 666 | Friedrich Schleiermacher | Hermeneutics | multi_column_layout | work/page-records/norton-theory-criticism/page_0666.md |
 
 ## Source Notes
 
@@ -541,3 +584,20 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 535 | David Hume | Of the Standard of Taste | source_notes_detected | work/page-records/norton-theory-criticism/page_0535.md |
 | 538 | David Hume | Of the Standard of Taste | source_notes_detected | work/page-records/norton-theory-criticism/page_0538.md |
 | 540 | David Hume | Of the Standard of Taste | source_notes_detected | work/page-records/norton-theory-criticism/page_0540.md |
+| 615 | Friedrich Schiller | On the Aesthetic Education of Man | source_notes_detected | work/page-records/norton-theory-criticism/page_0615.md |
+| 616 | Friedrich Schiller | On the Aesthetic Education of Man | source_notes_detected | work/page-records/norton-theory-criticism/page_0616.md |
+| 617 | Friedrich Schiller | On the Aesthetic Education of Man | source_notes_detected | work/page-records/norton-theory-criticism/page_0617.md |
+| 618 | Friedrich Schiller | On the Aesthetic Education of Man | source_notes_detected | work/page-records/norton-theory-criticism/page_0618.md |
+| 619 | Friedrich Schiller | On the Aesthetic Education of Man | source_notes_detected | work/page-records/norton-theory-criticism/page_0619.md |
+| 621 | Friedrich Schiller | On the Aesthetic Education of Man | source_notes_detected | work/page-records/norton-theory-criticism/page_0621.md |
+| 623 | Friedrich Schiller | On the Aesthetic Education of Man | source_notes_detected | work/page-records/norton-theory-criticism/page_0623.md |
+| 630 | Mary Wollstonecraft | A Vindication of the Rights of Woman | source_notes_detected | work/page-records/norton-theory-criticism/page_0630.md |
+| 657 | Friedrich Schleiermacher | Hermeneutics | source_notes_detected | work/page-records/norton-theory-criticism/page_0657.md |
+| 658 | Friedrich Schleiermacher | Hermeneutics | source_notes_detected | work/page-records/norton-theory-criticism/page_0658.md |
+| 659 | Friedrich Schleiermacher | Hermeneutics | source_notes_detected | work/page-records/norton-theory-criticism/page_0659.md |
+| 660 | Friedrich Schleiermacher | Hermeneutics | source_notes_detected | work/page-records/norton-theory-criticism/page_0660.md |
+| 661 | Friedrich Schleiermacher | Hermeneutics | source_notes_detected | work/page-records/norton-theory-criticism/page_0661.md |
+| 662 | Friedrich Schleiermacher | Hermeneutics | source_notes_detected | work/page-records/norton-theory-criticism/page_0662.md |
+| 663 | Friedrich Schleiermacher | Hermeneutics | source_notes_detected | work/page-records/norton-theory-criticism/page_0663.md |
+| 664 | Friedrich Schleiermacher | Hermeneutics | source_notes_detected | work/page-records/norton-theory-criticism/page_0664.md |
+| 673 | Georg Wilhelm Friedrich Hegel | Phenomenology of Spirit | source_notes_detected | work/page-records/norton-theory-criticism/page_0673.md |

@@ -92,8 +92,8 @@ This note turns the current Norton chunk for Dante Alighieri into a navigable wo
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/dante-alighieri.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T04:36:20Z` |
-| Git commit | `647245f` |
+| Generated at | `2026-06-13T04:42:27Z` |
+| Git commit | `0e02b79` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/dante-il-convivio-letter-can-grande.md` |
 

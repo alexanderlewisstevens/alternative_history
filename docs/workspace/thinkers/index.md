@@ -18,7 +18,11 @@ This private index is generated from curated source metadata and local extractio
 | [David Hume](david-hume.md) | 1 | Of the Standard of Taste |
 | [Edmund Burke](edmund-burke.md) | 1 | A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful |
 | [Edward Young](edward-young.md) | 1 | Conjectures on Original Composition |
+| [Friedrich Schiller](friedrich-schiller.md) | 1 | On the Aesthetic Education of Man |
+| [Friedrich Schleiermacher](friedrich-schleiermacher.md) | 1 | Hermeneutics |
 | [Geoffrey of Vinsauf](geoffrey-of-vinsauf.md) | 1 | Poetria Nova |
+| [Georg Wilhelm Friedrich Hegel](georg-wilhelm-friedrich-hegel.md) | 1 | Phenomenology of Spirit and Lectures on Fine Art |
+| [Germaine de Stael](germaine-de-stael.md) | 1 | Essay on Fictions and On Literature Considered in Its Relationship to Social Institutions |
 | [Giacopo Mazzoni](giacopo-mazzoni.md) | 1 | On the Defense of the Comedy of Dante |
 | [Giambattista Giraldi](giambattista-giraldi.md) | 1 | Discourse on the Composition of Romances |
 | [Giambattista Vico](giambattista-vico.md) | 1 | The New Science |
@@ -33,6 +37,7 @@ This private index is generated from curated source metadata and local extractio
 | [Joseph Addison](joseph-addison.md) | 1 | The Spectator, Nos. 62 and 412 |
 | [Longinus](longinus.md) | 1 | On Sublimity |
 | [Macrobius](macrobius.md) | 1 | Commentary on the Dream of Scipio |
+| [Mary Wollstonecraft](mary-wollstonecraft.md) | 1 | A Vindication of the Rights of Woman |
 | [Moses Maimonides](moses-maimonides.md) | 1 | The Guide of the Perplexed |
 | [Pierre Corneille](pierre-corneille.md) | 1 | Of the Three Unities of Action, Time, and Place |
 | [Pierre de Ronsard](pierre-de-ronsard.md) | 1 | A Brief on the Art of French Poetry |
@@ -42,6 +47,7 @@ This private index is generated from curated source metadata and local extractio
 | [Samuel Johnson](samuel-johnson.md) | 1 | Selected Critical Prose |
 | [Sir Philip Sidney](sir-philip-sidney.md) | 1 | The Defense of Poesy |
 | [Thomas Aquinas](thomas-aquinas.md) | 1 | Summa Theologica |
+| [William Wordsworth](william-wordsworth.md) | 1 | Preface to Lyrical Ballads |
 
 ## Provenance
 
@@ -64,7 +70,7 @@ This private index is generated from curated source metadata and local extractio
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
-| Generated at | `2026-06-13T04:36:17Z` |
-| Git commit | `647245f` |
+| Generated at | `2026-06-13T04:42:24Z` |
+| Git commit | `0e02b79` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/index.md` |

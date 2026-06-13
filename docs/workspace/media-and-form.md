@@ -26,7 +26,8 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/aristotle-poetics-rhetoric/"><strong>Aristotle, Poetics and Rhetoric</strong><span>poetics, rhetoric, genre; pages 128-162; 23 review rows</span></a>
   <a href="../norton-texts/horace-ars-poetica/"><strong>Horace, Ars Poetica</strong><span>literary-judgment, craft, decorum; pages 163-176; 14 review rows</span></a>
   <a href="../norton-texts/kant-critique-of-judgment/"><strong>Immanuel Kant, Critique of Judgment</strong><span>aesthetics, judgment, disinterestedness; pages 541-577; 14 review rows</span></a>
-  <a href="../norton-texts/lessing-laocoon/"><strong>Gotthold Ephraim Lessing, Laocoon</strong><span>media, poetry, painting; pages 593-607; 12 review rows</span></a>
+  <a href="../norton-texts/lessing-laocoon/"><strong>Gotthold Ephraim Lessing, Laocoon</strong><span>media, poetry, painting; pages 593-612; 15 review rows</span></a>
+  <a href="../norton-texts/wordsworth-lyrical-ballads-preface/"><strong>William Wordsworth, Preface to Lyrical Ballads</strong><span>poetry, common-life, language; pages 687-687; 1 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -43,6 +44,7 @@ This is a scaffold for reading the configured texts together. It should become a
 2. [Horace, Ars Poetica](norton-texts/horace-ars-poetica.md)
 3. [Immanuel Kant, Critique of Judgment](norton-texts/kant-critique-of-judgment.md)
 4. [Gotthold Ephraim Lessing, Laocoon](norton-texts/lessing-laocoon.md)
+5. [William Wordsworth, Preface to Lyrical Ballads](norton-texts/wordsworth-lyrical-ballads-preface.md)
 
 ## Review Pressure
 
@@ -51,7 +53,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Poetics and Rhetoric](norton-texts/aristotle-poetics-rhetoric.md) | 128-162 | 23 | excerpt: 30<br>author_intro: 5 |
 | [Ars Poetica](norton-texts/horace-ars-poetica.md) | 163-176 | 14 | excerpt: 10<br>author_intro: 4 |
 | [Critique of Judgment](norton-texts/kant-critique-of-judgment.md) | 541-577 | 14 | excerpt: 32<br>author_intro: 5 |
-| [Laocoon](norton-texts/lessing-laocoon.md) | 593-607 | 12 | excerpt: 12<br>author_intro: 3 |
+| [Laocoon](norton-texts/lessing-laocoon.md) | 593-612 | 15 | excerpt: 17<br>author_intro: 3 |
+| [Preface to Lyrical Ballads](norton-texts/wordsworth-lyrical-ballads-preface.md) | 687-687 | 1 | author_intro: 1 |
 
 ## Passage Queue
 
@@ -105,8 +108,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T04:35:59Z` |
-| Git commit | `647245f` |
+| Generated at | `2026-06-13T04:42:19Z` |
+| Git commit | `0e02b79` |
 | Script version | `2` |
 | Output path | `docs/workspace/media-and-form.md` |
 

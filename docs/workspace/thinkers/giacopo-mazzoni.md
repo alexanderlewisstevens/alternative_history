@@ -87,8 +87,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T04:36:17Z` |
-| Git commit | `647245f` |
+| Generated at | `2026-06-13T04:42:24Z` |
+| Git commit | `0e02b79` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/giacopo-mazzoni.md` |
 

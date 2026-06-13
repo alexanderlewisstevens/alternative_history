@@ -29,6 +29,8 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/pierre-de-ronsard-art-french-poetry/"><strong>Pierre de Ronsard, A Brief on the Art of French Poetry</strong><span>poetics, craft, vernacular; pages 333-341; 5 review rows</span></a>
   <a href="../norton-texts/sidney-defense-of-poesy/"><strong>Sir Philip Sidney, The Defense of Poesy</strong><span>poetry, rhetoric, education; pages 365-404; 39 review rows</span></a>
   <a href="../norton-texts/vico-new-science/"><strong>Giambattista Vico, The New Science</strong><span>history, language, institutions; pages 441-457; 11 review rows</span></a>
+  <a href="../norton-texts/stael-fictions-literature-social-institutions/"><strong>Germaine de Stael, Essay on Fictions and On Literature Considered in Its Relationship to Social Institutions</strong><span>literature, society, institutions; pages 636-651; 10 review rows</span></a>
+  <a href="../norton-texts/wordsworth-lyrical-ballads-preface/"><strong>William Wordsworth, Preface to Lyrical Ballads</strong><span>poetry, common-life, language; pages 687-687; 1 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -47,6 +49,8 @@ This is a scaffold for reading the configured texts together. It should become a
 4. [Pierre de Ronsard, A Brief on the Art of French Poetry](norton-texts/pierre-de-ronsard-art-french-poetry.md)
 5. [Sir Philip Sidney, The Defense of Poesy](norton-texts/sidney-defense-of-poesy.md)
 6. [Giambattista Vico, The New Science](norton-texts/vico-new-science.md)
+7. [Germaine de Stael, Essay on Fictions and On Literature Considered in Its Relationship to Social Institutions](norton-texts/stael-fictions-literature-social-institutions.md)
+8. [William Wordsworth, Preface to Lyrical Ballads](norton-texts/wordsworth-lyrical-ballads-preface.md)
 
 ## Review Pressure
 
@@ -58,6 +62,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | [A Brief on the Art of French Poetry](norton-texts/pierre-de-ronsard-art-french-poetry.md) | 333-341 | 5 | excerpt: 6<br>author_intro: 3 |
 | [The Defense of Poesy](norton-texts/sidney-defense-of-poesy.md) | 365-404 | 39 | excerpt: 36<br>author_intro: 3<br>mixed_excerpt_bibliography: 1 |
 | [The New Science](norton-texts/vico-new-science.md) | 441-457 | 11 | excerpt: 14<br>author_intro: 2<br>mixed_excerpt_bibliography: 1 |
+| [Essay on Fictions and On Literature Considered in Its Relationship to Social Institutions](norton-texts/stael-fictions-literature-social-institutions.md) | 636-651 | 10 | excerpt: 13<br>author_intro: 3 |
+| [Preface to Lyrical Ballads](norton-texts/wordsworth-lyrical-ballads-preface.md) | 687-687 | 1 | author_intro: 1 |
 
 ## Passage Queue
 
@@ -111,8 +117,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T04:35:59Z` |
-| Git commit | `647245f` |
+| Generated at | `2026-06-13T04:42:18Z` |
+| Git commit | `0e02b79` |
 | Script version | `2` |
 | Output path | `docs/workspace/vernacular-and-institution.md` |
 
