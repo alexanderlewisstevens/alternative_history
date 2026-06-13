@@ -89,8 +89,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T05:09:15Z` |
-| Git commit | `9fa32c5` |
+| Generated at | `2026-06-13T05:15:35Z` |
+| Git commit | `72bf05e` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/alexander-pope.md` |
 

@@ -1840,11 +1840,150 @@ overrides:
       - mixed_bibliography_and_work_title
 
   - id: ferdinand-de-saussure-course-general-linguistics
-    pages: 1004-1007
+    pages: 1004-1021
     author_name: Ferdinand de Saussure
     author_slug: ferdinand-de-saussure
     work_title: Course in General Linguistics
     work_slug: course-in-general-linguistics
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: web-du-bois-headnote
+    pages: 1021-1024
+    author_name: W. E. B. Du Bois
+    author_slug: web-du-bois
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_transition_page
+      - mixed_bibliography_and_work_title
+
+  - id: web-du-bois-criteria-negro-art
+    pages: 1024-1031
+    author_name: W. E. B. Du Bois
+    author_slug: web-du-bois
+    work_title: Criteria of Negro Art
+    work_slug: criteria-of-negro-art
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: carl-gustav-jung-headnote
+    pages: 1031-1033
+    author_name: Carl Gustav Jung
+    author_slug: carl-gustav-jung
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_transition_page
+      - mixed_bibliography_and_work_title
+
+  - id: carl-gustav-jung-analytical-psychology-poetry
+    pages: 1034-1046
+    author_name: Carl Gustav Jung
+    author_slug: carl-gustav-jung
+    work_title: On the Relation of Analytical Psychology to Poetry
+    work_slug: on-the-relation-of-analytical-psychology-to-poetry
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: leon-trotsky-headnote
+    pages: 1046-1049
+    author_name: Leon Trotsky
+    author_slug: leon-trotsky
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_transition_page
+      - mixed_bibliography_and_work_title
+
+  - id: leon-trotsky-literature-and-revolution
+    pages: 1049-1061
+    author_name: Leon Trotsky
+    author_slug: leon-trotsky
+    work_title: Literature and Revolution
+    work_slug: literature-and-revolution
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: virginia-woolf-headnote
+    pages: 1061-1065
+    author_name: Virginia Woolf
+    author_slug: virginia-woolf
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_transition_page
+      - mixed_bibliography_and_work_title
+
+  - id: virginia-woolf-room-of-ones-own
+    pages: 1065-1073
+    author_name: Virginia Woolf
+    author_slug: virginia-woolf
+    work_title: A Room of One's Own
+    work_slug: a-room-of-ones-own
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: gyorgy-lukacs-headnote
+    pages: 1074-1077
+    author_name: Gyorgy Lukacs
+    author_slug: gyorgy-lukacs
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: gyorgy-lukacs-realism-in-the-balance
+    pages: 1077-1087
+    author_name: Gyorgy Lukacs
+    author_slug: gyorgy-lukacs
+    work_title: Realism in the Balance
+    work_slug: realism-in-the-balance
     page_kind: excerpt
     starts_new_author: false
     continues_previous_author: true

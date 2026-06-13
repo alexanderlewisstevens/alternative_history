@@ -20,11 +20,11 @@ This note turns the current Norton chunk for Ferdinand de Saussure into a naviga
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Chunk Status</span>
-  <h3>Norton Pages 1004-1007</h3>
-  <p><strong>Page count:</strong> 4</p>
+  <h3>Norton Pages 1004-1020</h3>
+  <p><strong>Page count:</strong> 17</p>
   <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/ferdinand-de-saussure.md</code></p>
-  <p><strong>Page kinds:</strong> excerpt: 4</p>
-  <p><strong>Review pressure:</strong> 4 rows. continues_beyond_current_batch: 4</p>
+  <p><strong>Page kinds:</strong> excerpt: 17</p>
+  <p><strong>Review pressure:</strong> 17 rows. mixed_work_transition_page: 17</p>
 </section>
 
 ## Works And Excerpt Blocks
@@ -48,7 +48,7 @@ This note turns the current Norton chunk for Ferdinand de Saussure into a naviga
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Anchor Candidates</span>
   <h3>Choose Passages After Review</h3>
-  <p><strong>Source location:</strong> Norton page range 1004-1007.</p>
+  <p><strong>Source location:</strong> Norton page range 1004-1020.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
   <p><strong>Use:</strong> Find the passages that make this text active inside signs-and-reading, commentary-and-afterlife, education-and-civic-life, vernacular-and-institution, media-and-form, labor-ideology-and-culture, language-truth-and-fiction.</p>
 </section>
@@ -56,7 +56,7 @@ This note turns the current Norton chunk for Ferdinand de Saussure into a naviga
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Review Before Quoting</span>
   <h3>Layout, Notes, And Bibliography</h3>
-  <p><strong>Review signal:</strong> continues_beyond_current_batch: 4</p>
+  <p><strong>Review signal:</strong> mixed_work_transition_page: 17</p>
   <p><strong>Editorial rule:</strong> source notes belong in source-note fields, bibliography belongs in bibliography fields, and excerpt text stays separate.</p>
 </section>
 
@@ -94,8 +94,8 @@ This note turns the current Norton chunk for Ferdinand de Saussure into a naviga
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/ferdinand-de-saussure.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T05:09:18Z` |
-| Git commit | `9fa32c5` |
+| Generated at | `2026-06-13T05:15:38Z` |
+| Git commit | `72bf05e` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/saussure-course-general-linguistics.md` |
 

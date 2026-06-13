@@ -57,6 +57,10 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/henry-james-art-fiction/"><strong>Henry James, The Art of Fiction</strong><span>fiction, realism, craft; pages 897-911; 4 review rows</span></a>
   <a href="../norton-texts/nietzsche-birth-of-tragedy/"><strong>Friedrich Nietzsche, The Birth of Tragedy</strong><span>tragedy, aesthetics, myth; pages 928-938; 11 review rows</span></a>
   <a href="../norton-texts/wilde-selected-critical-prose/"><strong>Oscar Wilde, Preface to The Picture of Dorian Gray and The Critic as Artist</strong><span>criticism, aestheticism, art-for-art; pages 943-956; 12 review rows</span></a>
+  <a href="../norton-texts/du-bois-criteria-of-negro-art/"><strong>W. E. B. Du Bois, Criteria of Negro Art</strong><span>race, art, propaganda; pages 1024-1030; 7 review rows</span></a>
+  <a href="../norton-texts/jung-analytical-psychology-poetry/"><strong>Carl Gustav Jung, On the Relation of Analytical Psychology to Poetry</strong><span>psychology, archetype, myth; pages 1034-1045; 12 review rows</span></a>
+  <a href="../norton-texts/woolf-room-of-ones-own/"><strong>Virginia Woolf, A Room of One&#x27;s Own</strong><span>feminism, authorship, education; pages 1065-1073; 9 review rows</span></a>
+  <a href="../norton-texts/lukacs-realism-in-the-balance/"><strong>Gyorgy Lukacs, Realism in the Balance</strong><span>realism, marxism, modernism; pages 1077-1087; 11 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -103,6 +107,10 @@ This is a scaffold for reading the configured texts together. It should become a
 32. [Henry James, The Art of Fiction](norton-texts/henry-james-art-fiction.md)
 33. [Friedrich Nietzsche, The Birth of Tragedy](norton-texts/nietzsche-birth-of-tragedy.md)
 34. [Oscar Wilde, Preface to The Picture of Dorian Gray and The Critic as Artist](norton-texts/wilde-selected-critical-prose.md)
+35. [W. E. B. Du Bois, Criteria of Negro Art](norton-texts/du-bois-criteria-of-negro-art.md)
+36. [Carl Gustav Jung, On the Relation of Analytical Psychology to Poetry](norton-texts/jung-analytical-psychology-poetry.md)
+37. [Virginia Woolf, A Room of One&#x27;s Own](norton-texts/woolf-room-of-ones-own.md)
+38. [Gyorgy Lukacs, Realism in the Balance](norton-texts/lukacs-realism-in-the-balance.md)
 
 ## Review Pressure
 
@@ -142,6 +150,10 @@ This is a scaffold for reading the configured texts together. It should become a
 | [The Art of Fiction](norton-texts/henry-james-art-fiction.md) | 897-911 | 4 | excerpt: 15 |
 | [The Birth of Tragedy](norton-texts/nietzsche-birth-of-tragedy.md) | 928-938 | 11 | excerpt: 11 |
 | [Preface to The Picture of Dorian Gray and The Critic as Artist](norton-texts/wilde-selected-critical-prose.md) | 943-956 | 12 | excerpt: 14 |
+| [Criteria of Negro Art](norton-texts/du-bois-criteria-of-negro-art.md) | 1024-1030 | 7 | excerpt: 7 |
+| [On the Relation of Analytical Psychology to Poetry](norton-texts/jung-analytical-psychology-poetry.md) | 1034-1045 | 12 | excerpt: 12 |
+| [A Room of One&#x27;s Own](norton-texts/woolf-room-of-ones-own.md) | 1065-1073 | 9 | excerpt: 9 |
+| [Realism in the Balance](norton-texts/lukacs-realism-in-the-balance.md) | 1077-1087 | 11 | excerpt: 11 |
 
 ## Passage Queue
 
@@ -195,8 +207,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:09:11Z` |
-| Git commit | `9fa32c5` |
+| Generated at | `2026-06-13T05:15:31Z` |
+| Git commit | `72bf05e` |
 | Script version | `2` |
 | Output path | `docs/workspace/poetry-and-judgment.md` |
 

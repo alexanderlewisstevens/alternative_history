@@ -37,6 +37,7 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/nietzsche-truth-and-lying/"><strong>Friedrich Nietzsche, On Truth and Lying in a Non-Moral Sense</strong><span>truth, metaphor, language; pages 916-927; 12 review rows</span></a>
   <a href="../norton-texts/nietzsche-birth-of-tragedy/"><strong>Friedrich Nietzsche, The Birth of Tragedy</strong><span>tragedy, aesthetics, myth; pages 928-938; 11 review rows</span></a>
   <a href="../norton-texts/freud-dreams-uncanny-fetishism/"><strong>Sigmund Freud, The Interpretation of Dreams, The Uncanny, and Fetishism</strong><span>psychoanalysis, dreams, uncanny; pages 963-999; 37 review rows</span></a>
+  <a href="../norton-texts/jung-analytical-psychology-poetry/"><strong>Carl Gustav Jung, On the Relation of Analytical Psychology to Poetry</strong><span>psychology, archetype, myth; pages 1034-1045; 12 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -63,6 +64,7 @@ This is a scaffold for reading the configured texts together. It should become a
 12. [Friedrich Nietzsche, On Truth and Lying in a Non-Moral Sense](norton-texts/nietzsche-truth-and-lying.md)
 13. [Friedrich Nietzsche, The Birth of Tragedy](norton-texts/nietzsche-birth-of-tragedy.md)
 14. [Sigmund Freud, The Interpretation of Dreams, The Uncanny, and Fetishism](norton-texts/freud-dreams-uncanny-fetishism.md)
+15. [Carl Gustav Jung, On the Relation of Analytical Psychology to Poetry](norton-texts/jung-analytical-psychology-poetry.md)
 
 ## Review Pressure
 
@@ -82,6 +84,7 @@ This is a scaffold for reading the configured texts together. It should become a
 | [On Truth and Lying in a Non-Moral Sense](norton-texts/nietzsche-truth-and-lying.md) | 916-927 | 12 | excerpt: 12 |
 | [The Birth of Tragedy](norton-texts/nietzsche-birth-of-tragedy.md) | 928-938 | 11 | excerpt: 11 |
 | [The Interpretation of Dreams, The Uncanny, and Fetishism](norton-texts/freud-dreams-uncanny-fetishism.md) | 963-999 | 37 | excerpt: 37 |
+| [On the Relation of Analytical Psychology to Poetry](norton-texts/jung-analytical-psychology-poetry.md) | 1034-1045 | 12 | excerpt: 12 |
 
 ## Passage Queue
 
@@ -135,8 +138,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:09:12Z` |
-| Git commit | `9fa32c5` |
+| Generated at | `2026-06-13T05:15:32Z` |
+| Git commit | `72bf05e` |
 | Script version | `2` |
 | Output path | `docs/workspace/sublime-and-limits.md` |
 

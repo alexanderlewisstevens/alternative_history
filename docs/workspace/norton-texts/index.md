@@ -10,11 +10,11 @@ This index is generated from curated source metadata and local extraction audit 
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Curated Text Nodes</div>
-  <div class="ah-metric-value">56</div>
+  <div class="ah-metric-value">61</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Assembled Chunks</div>
-  <div class="ah-metric-value">56</div>
+  <div class="ah-metric-value">61</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Constellations</div>
@@ -81,7 +81,12 @@ This index is generated from curated source metadata and local extraction audit 
 | [The Birth of Tragedy](nietzsche-birth-of-tragedy.md) | Friedrich Nietzsche | 912-938 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[beauty-and-ascent](../beauty-and-ascent.md)<br>[sublime-and-limits](../sublime-and-limits.md)<br>[romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 27 | `edition-review-needed` |
 | [Preface to The Picture of Dorian Gray and The Critic as Artist](wilde-selected-critical-prose.md) | Oscar Wilde | 939-956 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[beauty-and-ascent](../beauty-and-ascent.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[media-and-form](../media-and-form.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md)<br>[art-utility-and-modern-life](../art-utility-and-modern-life.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 16 | `edition-review-needed` |
 | [The Interpretation of Dreams, The Uncanny, and Fetishism](freud-dreams-uncanny-fetishism.md) | Sigmund Freud | 957-999 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[sublime-and-limits](../sublime-and-limits.md)<br>[media-and-form](../media-and-form.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 43 | `edition-review-needed` |
-| [Course in General Linguistics](saussure-course-general-linguistics.md) | Ferdinand de Saussure | 1000-1007 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[media-and-form](../media-and-form.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 8 | `edition-review-needed` |
+| [Course in General Linguistics](saussure-course-general-linguistics.md) | Ferdinand de Saussure | 1000-1020 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[media-and-form](../media-and-form.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 21 | `edition-review-needed` |
+| [Criteria of Negro Art](du-bois-criteria-of-negro-art.md) | W. E. B. Du Bois | 1021-1030 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md)<br>[art-utility-and-modern-life](../art-utility-and-modern-life.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 10 | `edition-review-needed` |
+| [On the Relation of Analytical Psychology to Poetry](jung-analytical-psychology-poetry.md) | Carl Gustav Jung | 1031-1045 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[signs-and-reading](../signs-and-reading.md)<br>[beauty-and-ascent](../beauty-and-ascent.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[sublime-and-limits](../sublime-and-limits.md)<br>[romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 15 | `edition-review-needed` |
+| [Literature and Revolution](trotsky-literature-and-revolution.md) | Leon Trotsky | 1046-1060 | [education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[media-and-form](../media-and-form.md)<br>[art-utility-and-modern-life](../art-utility-and-modern-life.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 15 | `edition-review-needed` |
+| [A Room of One&#x27;s Own](woolf-room-of-ones-own.md) | Virginia Woolf | 1061-1073 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[media-and-form](../media-and-form.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md)<br>[art-utility-and-modern-life](../art-utility-and-modern-life.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 13 | `edition-review-needed` |
+| [Realism in the Balance](lukacs-realism-in-the-balance.md) | Gyorgy Lukacs | 1074-1087 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[media-and-form](../media-and-form.md)<br>[romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md)<br>[art-utility-and-modern-life](../art-utility-and-modern-life.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 14 | `edition-review-needed` |
 
 ## How To Use This Index
 
@@ -108,7 +113,7 @@ This index is generated from curated source metadata and local extraction audit 
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T05:09:18Z` |
-| Git commit | `9fa32c5` |
+| Generated at | `2026-06-13T05:15:38Z` |
+| Git commit | `72bf05e` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/index.md` |

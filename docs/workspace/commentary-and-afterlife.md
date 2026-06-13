@@ -39,7 +39,10 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/pater-renaissance/"><strong>Walter Pater, Studies in the History of the Renaissance</strong><span>aestheticism, perception, criticism; pages 877-882; 6 review rows</span></a>
   <a href="../norton-texts/nietzsche-truth-and-lying/"><strong>Friedrich Nietzsche, On Truth and Lying in a Non-Moral Sense</strong><span>truth, metaphor, language; pages 916-927; 12 review rows</span></a>
   <a href="../norton-texts/freud-dreams-uncanny-fetishism/"><strong>Sigmund Freud, The Interpretation of Dreams, The Uncanny, and Fetishism</strong><span>psychoanalysis, dreams, uncanny; pages 963-999; 37 review rows</span></a>
-  <a href="../norton-texts/saussure-course-general-linguistics/"><strong>Ferdinand de Saussure, Course in General Linguistics</strong><span>language, signs, structure; pages 1004-1007; 4 review rows</span></a>
+  <a href="../norton-texts/saussure-course-general-linguistics/"><strong>Ferdinand de Saussure, Course in General Linguistics</strong><span>language, signs, structure; pages 1004-1020; 17 review rows</span></a>
+  <a href="../norton-texts/jung-analytical-psychology-poetry/"><strong>Carl Gustav Jung, On the Relation of Analytical Psychology to Poetry</strong><span>psychology, archetype, myth; pages 1034-1045; 12 review rows</span></a>
+  <a href="../norton-texts/woolf-room-of-ones-own/"><strong>Virginia Woolf, A Room of One&#x27;s Own</strong><span>feminism, authorship, education; pages 1065-1073; 9 review rows</span></a>
+  <a href="../norton-texts/lukacs-realism-in-the-balance/"><strong>Gyorgy Lukacs, Realism in the Balance</strong><span>realism, marxism, modernism; pages 1077-1087; 11 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -69,6 +72,9 @@ This is a scaffold for reading the configured texts together. It should become a
 15. [Friedrich Nietzsche, On Truth and Lying in a Non-Moral Sense](norton-texts/nietzsche-truth-and-lying.md)
 16. [Sigmund Freud, The Interpretation of Dreams, The Uncanny, and Fetishism](norton-texts/freud-dreams-uncanny-fetishism.md)
 17. [Ferdinand de Saussure, Course in General Linguistics](norton-texts/saussure-course-general-linguistics.md)
+18. [Carl Gustav Jung, On the Relation of Analytical Psychology to Poetry](norton-texts/jung-analytical-psychology-poetry.md)
+19. [Virginia Woolf, A Room of One&#x27;s Own](norton-texts/woolf-room-of-ones-own.md)
+20. [Gyorgy Lukacs, Realism in the Balance](norton-texts/lukacs-realism-in-the-balance.md)
 
 ## Review Pressure
 
@@ -90,7 +96,10 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Studies in the History of the Renaissance](norton-texts/pater-renaissance.md) | 877-882 | 6 | excerpt: 6 |
 | [On Truth and Lying in a Non-Moral Sense](norton-texts/nietzsche-truth-and-lying.md) | 916-927 | 12 | excerpt: 12 |
 | [The Interpretation of Dreams, The Uncanny, and Fetishism](norton-texts/freud-dreams-uncanny-fetishism.md) | 963-999 | 37 | excerpt: 37 |
-| [Course in General Linguistics](norton-texts/saussure-course-general-linguistics.md) | 1004-1007 | 4 | excerpt: 4 |
+| [Course in General Linguistics](norton-texts/saussure-course-general-linguistics.md) | 1004-1020 | 17 | excerpt: 17 |
+| [On the Relation of Analytical Psychology to Poetry](norton-texts/jung-analytical-psychology-poetry.md) | 1034-1045 | 12 | excerpt: 12 |
+| [A Room of One&#x27;s Own](norton-texts/woolf-room-of-ones-own.md) | 1065-1073 | 9 | excerpt: 9 |
+| [Realism in the Balance](norton-texts/lukacs-realism-in-the-balance.md) | 1077-1087 | 11 | excerpt: 11 |
 
 ## Passage Queue
 
@@ -144,8 +153,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:09:11Z` |
-| Git commit | `9fa32c5` |
+| Generated at | `2026-06-13T05:15:32Z` |
+| Git commit | `72bf05e` |
 | Script version | `2` |
 | Output path | `docs/workspace/commentary-and-afterlife.md` |
 

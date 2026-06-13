@@ -44,6 +44,8 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/nietzsche-truth-and-lying/"><strong>Friedrich Nietzsche, On Truth and Lying in a Non-Moral Sense</strong><span>truth, metaphor, language; pages 916-927; 12 review rows</span></a>
   <a href="../norton-texts/wilde-selected-critical-prose/"><strong>Oscar Wilde, Preface to The Picture of Dorian Gray and The Critic as Artist</strong><span>criticism, aestheticism, art-for-art; pages 943-956; 12 review rows</span></a>
   <a href="../norton-texts/freud-dreams-uncanny-fetishism/"><strong>Sigmund Freud, The Interpretation of Dreams, The Uncanny, and Fetishism</strong><span>psychoanalysis, dreams, uncanny; pages 963-999; 37 review rows</span></a>
+  <a href="../norton-texts/du-bois-criteria-of-negro-art/"><strong>W. E. B. Du Bois, Criteria of Negro Art</strong><span>race, art, propaganda; pages 1024-1030; 7 review rows</span></a>
+  <a href="../norton-texts/woolf-room-of-ones-own/"><strong>Virginia Woolf, A Room of One&#x27;s Own</strong><span>feminism, authorship, education; pages 1065-1073; 9 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -77,6 +79,8 @@ This is a scaffold for reading the configured texts together. It should become a
 19. [Friedrich Nietzsche, On Truth and Lying in a Non-Moral Sense](norton-texts/nietzsche-truth-and-lying.md)
 20. [Oscar Wilde, Preface to The Picture of Dorian Gray and The Critic as Artist](norton-texts/wilde-selected-critical-prose.md)
 21. [Sigmund Freud, The Interpretation of Dreams, The Uncanny, and Fetishism](norton-texts/freud-dreams-uncanny-fetishism.md)
+22. [W. E. B. Du Bois, Criteria of Negro Art](norton-texts/du-bois-criteria-of-negro-art.md)
+23. [Virginia Woolf, A Room of One&#x27;s Own](norton-texts/woolf-room-of-ones-own.md)
 
 ## Review Pressure
 
@@ -103,6 +107,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | [On Truth and Lying in a Non-Moral Sense](norton-texts/nietzsche-truth-and-lying.md) | 916-927 | 12 | excerpt: 12 |
 | [Preface to The Picture of Dorian Gray and The Critic as Artist](norton-texts/wilde-selected-critical-prose.md) | 943-956 | 12 | excerpt: 14 |
 | [The Interpretation of Dreams, The Uncanny, and Fetishism](norton-texts/freud-dreams-uncanny-fetishism.md) | 963-999 | 37 | excerpt: 37 |
+| [Criteria of Negro Art](norton-texts/du-bois-criteria-of-negro-art.md) | 1024-1030 | 7 | excerpt: 7 |
+| [A Room of One&#x27;s Own](norton-texts/woolf-room-of-ones-own.md) | 1065-1073 | 9 | excerpt: 9 |
 
 ## Passage Queue
 
@@ -156,8 +162,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:09:12Z` |
-| Git commit | `9fa32c5` |
+| Generated at | `2026-06-13T05:15:32Z` |
+| Git commit | `72bf05e` |
 | Script version | `2` |
 | Output path | `docs/workspace/authorship-and-authority.md` |
 

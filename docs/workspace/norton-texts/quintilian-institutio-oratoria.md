@@ -90,8 +90,8 @@ This note turns the current Norton chunk for Quintilian into a navigable workspa
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/quintilian.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T05:09:17Z` |
-| Git commit | `9fa32c5` |
+| Generated at | `2026-06-13T05:15:37Z` |
+| Git commit | `72bf05e` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/quintilian-institutio-oratoria.md` |
 

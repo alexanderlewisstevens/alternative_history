@@ -5,7 +5,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Boundary Review</div>
-  <div class="ah-metric-value">188</div>
+  <div class="ah-metric-value">204</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Content Separation</div>
@@ -21,7 +21,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">General Review</div>
-  <div class="ah-metric-value">157</div>
+  <div class="ah-metric-value">221</div>
 </div>
 </div>
 
@@ -29,10 +29,10 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 <div class="ah-review-grid">
 <section class="ah-review-card warn">
-  <div class="ah-review-card-kicker">188 pages</div>
+  <div class="ah-review-card-kicker">204 pages</div>
   <h3>Boundary Review</h3>
   <p>Confirm thinker and work boundaries before assembling public-facing drafts.</p>
-  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +176 more</p>
+  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +192 more</p>
 </section>
 <section class="ah-review-card warn">
   <div class="ah-review-card-kicker">9 pages</div>
@@ -53,10 +53,10 @@ This is the editorial queue for restricted extraction work. It is generated from
   <p><strong>Start:</strong> <code>74</code>, <code>98</code>, <code>99</code>, <code>126</code>, <code>185</code>, <code>190</code>, <code>191</code>, <code>192</code>, <code>194</code>, <code>204</code>, <code>213</code>, <code>218</code> +52 more</p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">157 pages</div>
+  <div class="ah-review-card-kicker">221 pages</div>
   <h3>General Review</h3>
   <p>Resolve remaining template or classification questions.</p>
-  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +145 more</p>
+  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +209 more</p>
 </section>
 </div>
 
@@ -72,11 +72,11 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Field | Value |
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
-| Classified source pages | `71-1007` |
-| Review queue rows | `735` |
+| Classified source pages | `71-1087` |
+| Review queue rows | `815` |
 | Review queue file | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
-| Generated at | `2026-06-13T05:09:14Z` |
-| Git commit | `9fa32c5` |
+| Generated at | `2026-06-13T05:15:34Z` |
+| Git commit | `72bf05e` |
 | Script version | `1` |
 | Output path | `docs/_meta/review-dashboard.md` |
 
@@ -86,14 +86,14 @@ This is the editorial queue for restricted extraction work. It is generated from
 | --- | ---: |
 | multi_column_layout | 330 |
 | source_notes_detected | 291 |
-| transition_from_previous_author | 168 |
-| mixed_work_transition_page | 125 |
-| mixed_bibliography_and_work_title | 61 |
-| mixed_transition_page | 43 |
+| transition_from_previous_author | 184 |
+| mixed_work_transition_page | 182 |
+| mixed_bibliography_and_work_title | 77 |
+| mixed_transition_page | 56 |
 | layout_review_required | 23 |
 | author_boundary_without_life_dates | 18 |
+| continues_beyond_current_batch | 11 |
 | mixed_excerpt_and_bibliography | 9 |
-| continues_beyond_current_batch | 4 |
 | transition_from_previous_work | 2 |
 | ocr_title_cleanup | 2 |
 
@@ -110,6 +110,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Aristotle | 23 |
 | Samuel Johnson | 21 |
 | Ralph Waldo Emerson | 21 |
+| Ferdinand de Saussure | 21 |
 | Alexander Pope | 20 |
 | Longinus | 19 |
 | Percy Bysshe Shelley | 19 |
@@ -117,11 +118,15 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Moses Maimonides | 15 |
 | Giacopo Mazzoni | 15 |
 | Gotthold Ephraim Lessing | 15 |
+| Carl Gustav Jung | 15 |
+| Leon Trotsky | 15 |
 | Horace | 14 |
 | Immanuel Kant | 14 |
 | Friedrich Schleiermacher | 14 |
 | Thomas Love Peacock | 14 |
+| Gyorgy Lukacs | 14 |
 | Samuel Taylor Coleridge | 13 |
+| Virginia Woolf | 13 |
 | Geoffrey of Vinsauf | 12 |
 | Joachim du Bellay | 11 |
 | Pierre Corneille | 11 |
@@ -135,6 +140,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Friedrich Schiller | 10 |
 | Germaine de Stael | 10 |
 | Stephane Mallarme | 10 |
+| W. E. B. Du Bois | 10 |
 | Augustine of Hippo | 9 |
 | Giovanni Boccaccio | 9 |
 | John Dryden | 9 |
@@ -144,7 +150,6 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Charles Baudelaire | 9 |
 | Walter Pater | 8 |
 | Henry James | 8 |
-| Ferdinand de Saussure | 8 |
 | Plotinus | 7 |
 | Giambattista Giraldi | 7 |
 | David Hume | 7 |
@@ -349,6 +354,22 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 1001 | Ferdinand de Saussure | Ferdinand de Saussure | mixed_bibliography_and_work_title;mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1001.md |
 | 1002 | Ferdinand de Saussure |  | mixed_bibliography_and_work_title;mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1002.md |
 | 1003 | Ferdinand de Saussure | Ferdinand de Saussure | mixed_bibliography_and_work_title;mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1003.md |
+| 1021 | W. E. B. Du Bois | Course in General Linguistics | mixed_bibliography_and_work_title;mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1021.md |
+| 1022 | W. E. B. Du Bois | 1910 to 1934 Du Bois was the editor of the NAACP's monthly magaZine | mixed_bibliography_and_work_title;mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1022.md |
+| 1023 | W. E. B. Du Bois | the 1930s until his death in 1963, Du Bois remained an activist and a prolific | mixed_bibliography_and_work_title;mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1023.md |
+| 1031 | Carl Gustav Jung | Criteria of Negro Art | mixed_bibliography_and_work_title;mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1031.md |
+| 1032 | Carl Gustav Jung | Cahl Gustav Jung | mixed_bibliography_and_work_title;mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1032.md |
+| 1033 | Carl Gustav Jung |  | mixed_bibliography_and_work_title;mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1033.md |
+| 1046 | Leon Trotsky | On the Relation of Analytical Psychology to Poetry | mixed_bibliography_and_work_title;mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1046.md |
+| 1047 | Leon Trotsky | Leon Trotsky | mixed_bibliography_and_work_title;mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1047.md |
+| 1048 | Leon Trotsky |  | mixed_bibliography_and_work_title;mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1048.md |
+| 1061 | Virginia Woolf | Literature and Revolution | mixed_bibliography_and_work_title;mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1061.md |
+| 1062 | Virginia Woolf |  | mixed_bibliography_and_work_title;mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1062.md |
+| 1063 | Virginia Woolf |  | mixed_bibliography_and_work_title;mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1063.md |
+| 1064 | Virginia Woolf |  | mixed_bibliography_and_work_title;mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1064.md |
+| 1074 | Gyorgy Lukacs |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1074.md |
+| 1075 | Gyorgy Lukacs | the 1930s onward, Lukacs directed considerable effort toward the construc- | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1075.md |
+| 1076 | Gyorgy Lukacs |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1076.md |
 
 ## Content Separation
 
@@ -912,7 +933,71 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 997 | Sigmund Freud | Fetishism | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0997.md |
 | 998 | Sigmund Freud | Fetishism | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0998.md |
 | 999 | Sigmund Freud | Fetishism | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0999.md |
-| 1004 | Ferdinand de Saussure | Course in General Linguistics | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1004.md |
-| 1005 | Ferdinand de Saussure | Course in General Linguistics | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1005.md |
-| 1006 | Ferdinand de Saussure | Course in General Linguistics | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1006.md |
-| 1007 | Ferdinand de Saussure | Course in General Linguistics | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1007.md |
+| 1004 | Ferdinand de Saussure | Course in General Linguistics | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1004.md |
+| 1005 | Ferdinand de Saussure | Course in General Linguistics | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1005.md |
+| 1006 | Ferdinand de Saussure | Course in General Linguistics | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1006.md |
+| 1007 | Ferdinand de Saussure | Course in General Linguistics | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1007.md |
+| 1008 | Ferdinand de Saussure | Course in General Linguistics | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1008.md |
+| 1009 | Ferdinand de Saussure | Course in General Linguistics | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1009.md |
+| 1010 | Ferdinand de Saussure | Course in General Linguistics | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1010.md |
+| 1011 | Ferdinand de Saussure | Course in General Linguistics | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1011.md |
+| 1012 | Ferdinand de Saussure | Course in General Linguistics | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1012.md |
+| 1013 | Ferdinand de Saussure | Course in General Linguistics | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1013.md |
+| 1014 | Ferdinand de Saussure | Course in General Linguistics | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1014.md |
+| 1015 | Ferdinand de Saussure | Course in General Linguistics | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1015.md |
+| 1016 | Ferdinand de Saussure | Course in General Linguistics | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1016.md |
+| 1017 | Ferdinand de Saussure | Course in General Linguistics | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1017.md |
+| 1018 | Ferdinand de Saussure | Course in General Linguistics | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1018.md |
+| 1019 | Ferdinand de Saussure | Course in General Linguistics | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1019.md |
+| 1020 | Ferdinand de Saussure | Course in General Linguistics | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1020.md |
+| 1024 | W. E. B. Du Bois | Criteria of Negro Art | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1024.md |
+| 1025 | W. E. B. Du Bois | Criteria of Negro Art | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1025.md |
+| 1026 | W. E. B. Du Bois | Criteria of Negro Art | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1026.md |
+| 1027 | W. E. B. Du Bois | Criteria of Negro Art | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1027.md |
+| 1028 | W. E. B. Du Bois | Criteria of Negro Art | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1028.md |
+| 1029 | W. E. B. Du Bois | Criteria of Negro Art | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1029.md |
+| 1030 | W. E. B. Du Bois | Criteria of Negro Art | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1030.md |
+| 1034 | Carl Gustav Jung | On the Relation of Analytical Psychology to Poetry | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1034.md |
+| 1035 | Carl Gustav Jung | On the Relation of Analytical Psychology to Poetry | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1035.md |
+| 1036 | Carl Gustav Jung | On the Relation of Analytical Psychology to Poetry | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1036.md |
+| 1037 | Carl Gustav Jung | On the Relation of Analytical Psychology to Poetry | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1037.md |
+| 1038 | Carl Gustav Jung | On the Relation of Analytical Psychology to Poetry | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1038.md |
+| 1039 | Carl Gustav Jung | On the Relation of Analytical Psychology to Poetry | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1039.md |
+| 1040 | Carl Gustav Jung | On the Relation of Analytical Psychology to Poetry | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1040.md |
+| 1041 | Carl Gustav Jung | On the Relation of Analytical Psychology to Poetry | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1041.md |
+| 1042 | Carl Gustav Jung | On the Relation of Analytical Psychology to Poetry | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1042.md |
+| 1043 | Carl Gustav Jung | On the Relation of Analytical Psychology to Poetry | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1043.md |
+| 1044 | Carl Gustav Jung | On the Relation of Analytical Psychology to Poetry | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1044.md |
+| 1045 | Carl Gustav Jung | On the Relation of Analytical Psychology to Poetry | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1045.md |
+| 1049 | Leon Trotsky | Literature and Revolution | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1049.md |
+| 1050 | Leon Trotsky | Literature and Revolution | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1050.md |
+| 1051 | Leon Trotsky | Literature and Revolution | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1051.md |
+| 1052 | Leon Trotsky | Literature and Revolution | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1052.md |
+| 1053 | Leon Trotsky | Literature and Revolution | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1053.md |
+| 1054 | Leon Trotsky | Literature and Revolution | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1054.md |
+| 1055 | Leon Trotsky | Literature and Revolution | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1055.md |
+| 1056 | Leon Trotsky | Literature and Revolution | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1056.md |
+| 1057 | Leon Trotsky | Literature and Revolution | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1057.md |
+| 1058 | Leon Trotsky | Literature and Revolution | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1058.md |
+| 1059 | Leon Trotsky | Literature and Revolution | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1059.md |
+| 1060 | Leon Trotsky | Literature and Revolution | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1060.md |
+| 1065 | Virginia Woolf | A Room of One's Own | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1065.md |
+| 1066 | Virginia Woolf | A Room of One's Own | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1066.md |
+| 1067 | Virginia Woolf | A Room of One's Own | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1067.md |
+| 1068 | Virginia Woolf | A Room of One's Own | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1068.md |
+| 1069 | Virginia Woolf | A Room of One's Own | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1069.md |
+| 1070 | Virginia Woolf | A Room of One's Own | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1070.md |
+| 1071 | Virginia Woolf | A Room of One's Own | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1071.md |
+| 1072 | Virginia Woolf | A Room of One's Own | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1072.md |
+| 1073 | Virginia Woolf | A Room of One's Own | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1073.md |
+| 1077 | Gyorgy Lukacs | Realism in the Balance | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1077.md |
+| 1078 | Gyorgy Lukacs | Realism in the Balance | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1078.md |
+| 1079 | Gyorgy Lukacs | Realism in the Balance | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1079.md |
+| 1080 | Gyorgy Lukacs | Realism in the Balance | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1080.md |
+| 1081 | Gyorgy Lukacs | Realism in the Balance | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1081.md |
+| 1082 | Gyorgy Lukacs | Realism in the Balance | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1082.md |
+| 1083 | Gyorgy Lukacs | Realism in the Balance | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1083.md |
+| 1084 | Gyorgy Lukacs | Realism in the Balance | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1084.md |
+| 1085 | Gyorgy Lukacs | Realism in the Balance | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1085.md |
+| 1086 | Gyorgy Lukacs | Realism in the Balance | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1086.md |
+| 1087 | Gyorgy Lukacs | Realism in the Balance | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1087.md |

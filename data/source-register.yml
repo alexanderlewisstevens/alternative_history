@@ -588,6 +588,68 @@ curated_texts:
       - structure
       - semiology
     status: edition-review-needed
+  - id: du-bois-criteria-of-negro-art
+    title: Criteria of Negro Art
+    creator: W. E. B. Du Bois
+    extraction_author_slugs:
+      - web-du-bois
+    extraction_work_titles:
+      - Criteria of Negro Art
+    role: core-text-candidate
+    themes:
+      - race
+      - art
+      - propaganda
+      - public-culture
+    status: edition-review-needed
+  - id: jung-analytical-psychology-poetry
+    title: On the Relation of Analytical Psychology to Poetry
+    creator: Carl Gustav Jung
+    extraction_work_titles:
+      - On the Relation of Analytical Psychology to Poetry
+    role: core-text-candidate
+    themes:
+      - psychology
+      - archetype
+      - myth
+      - poetry
+    status: edition-review-needed
+  - id: trotsky-literature-and-revolution
+    title: Literature and Revolution
+    creator: Leon Trotsky
+    extraction_work_titles:
+      - Literature and Revolution
+    role: core-text-candidate
+    themes:
+      - marxism
+      - revolution
+      - form
+      - literary-politics
+    status: edition-review-needed
+  - id: woolf-room-of-ones-own
+    title: A Room of One's Own
+    creator: Virginia Woolf
+    extraction_work_titles:
+      - A Room of One's Own
+    role: core-text-candidate
+    themes:
+      - feminism
+      - authorship
+      - education
+      - material-conditions
+    status: edition-review-needed
+  - id: lukacs-realism-in-the-balance
+    title: Realism in the Balance
+    creator: Gyorgy Lukacs
+    extraction_work_titles:
+      - Realism in the Balance
+    role: core-text-candidate
+    themes:
+      - realism
+      - marxism
+      - modernism
+      - totality
+    status: edition-review-needed
 
 constellations:
   - id: rhetoric-and-force
@@ -638,6 +700,10 @@ constellations:
       - henry-james-art-fiction
       - nietzsche-birth-of-tragedy
       - wilde-selected-critical-prose
+      - du-bois-criteria-of-negro-art
+      - jung-analytical-psychology-poetry
+      - woolf-room-of-ones-own
+      - lukacs-realism-in-the-balance
     relations:
       - tension
       - craft
@@ -659,6 +725,7 @@ constellations:
       - nietzsche-truth-and-lying
       - freud-dreams-uncanny-fetishism
       - saussure-course-general-linguistics
+      - jung-analytical-psychology-poetry
     relations:
       - writing
       - interpretation
@@ -682,6 +749,7 @@ constellations:
       - nietzsche-truth-and-lying
       - nietzsche-birth-of-tragedy
       - wilde-selected-critical-prose
+      - jung-analytical-psychology-poetry
     relations:
       - sublimity
       - ascent
@@ -706,6 +774,9 @@ constellations:
       - nietzsche-truth-and-lying
       - freud-dreams-uncanny-fetishism
       - saussure-course-general-linguistics
+      - jung-analytical-psychology-poetry
+      - woolf-room-of-ones-own
+      - lukacs-realism-in-the-balance
     relations:
       - commentary
       - transmission
@@ -735,6 +806,10 @@ constellations:
       - wilde-selected-critical-prose
       - freud-dreams-uncanny-fetishism
       - saussure-course-general-linguistics
+      - du-bois-criteria-of-negro-art
+      - trotsky-literature-and-revolution
+      - woolf-room-of-ones-own
+      - lukacs-realism-in-the-balance
     relations:
       - pedagogy
       - civic-formation
@@ -754,6 +829,10 @@ constellations:
       - baudelaire-painter-modern-life
       - mallarme-crisis-poetry
       - saussure-course-general-linguistics
+      - du-bois-criteria-of-negro-art
+      - trotsky-literature-and-revolution
+      - woolf-room-of-ones-own
+      - lukacs-realism-in-the-balance
     relations:
       - vernacular
       - imitation
@@ -795,6 +874,8 @@ constellations:
       - nietzsche-truth-and-lying
       - wilde-selected-critical-prose
       - freud-dreams-uncanny-fetishism
+      - du-bois-criteria-of-negro-art
+      - woolf-room-of-ones-own
     relations:
       - authorship
       - gender
@@ -823,6 +904,8 @@ constellations:
       - pater-renaissance
       - henry-james-art-fiction
       - wilde-selected-critical-prose
+      - du-bois-criteria-of-negro-art
+      - lukacs-realism-in-the-balance
     relations:
       - taste
       - criticism
@@ -844,6 +927,7 @@ constellations:
       - nietzsche-truth-and-lying
       - nietzsche-birth-of-tragedy
       - freud-dreams-uncanny-fetishism
+      - jung-analytical-psychology-poetry
     relations:
       - sublimity
       - affect
@@ -865,6 +949,9 @@ constellations:
       - wilde-selected-critical-prose
       - freud-dreams-uncanny-fetishism
       - saussure-course-general-linguistics
+      - trotsky-literature-and-revolution
+      - woolf-room-of-ones-own
+      - lukacs-realism-in-the-balance
     relations:
       - medium
       - form
@@ -885,6 +972,8 @@ constellations:
       - arnold-selected-critical-prose
       - pater-renaissance
       - wilde-selected-critical-prose
+      - du-bois-criteria-of-negro-art
+      - woolf-room-of-ones-own
     relations:
       - education
       - freedom
@@ -905,6 +994,10 @@ constellations:
       - nietzsche-truth-and-lying
       - nietzsche-birth-of-tragedy
       - wilde-selected-critical-prose
+      - du-bois-criteria-of-negro-art
+      - jung-analytical-psychology-poetry
+      - woolf-room-of-ones-own
+      - lukacs-realism-in-the-balance
     relations:
       - poetry
       - modernity
@@ -919,6 +1012,10 @@ constellations:
       - arnold-selected-critical-prose
       - pater-renaissance
       - wilde-selected-critical-prose
+      - du-bois-criteria-of-negro-art
+      - trotsky-literature-and-revolution
+      - woolf-room-of-ones-own
+      - lukacs-realism-in-the-balance
     relations:
       - utility
       - aestheticism
@@ -933,6 +1030,10 @@ constellations:
       - nietzsche-truth-and-lying
       - freud-dreams-uncanny-fetishism
       - saussure-course-general-linguistics
+      - du-bois-criteria-of-negro-art
+      - trotsky-literature-and-revolution
+      - woolf-room-of-ones-own
+      - lukacs-realism-in-the-balance
     relations:
       - labor
       - ideology
@@ -950,6 +1051,11 @@ constellations:
       - wilde-selected-critical-prose
       - freud-dreams-uncanny-fetishism
       - saussure-course-general-linguistics
+      - du-bois-criteria-of-negro-art
+      - jung-analytical-psychology-poetry
+      - trotsky-literature-and-revolution
+      - woolf-room-of-ones-own
+      - lukacs-realism-in-the-balance
     relations:
       - language
       - fiction

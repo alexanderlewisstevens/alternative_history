@@ -95,8 +95,8 @@ This note turns the current Norton chunk for Germaine de Stael into a navigable 
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/germaine-de-stael.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T05:09:17Z` |
-| Git commit | `9fa32c5` |
+| Generated at | `2026-06-13T05:15:38Z` |
+| Git commit | `72bf05e` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/stael-fictions-literature-social-institutions.md` |
 

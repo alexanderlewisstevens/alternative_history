@@ -44,6 +44,8 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/pater-renaissance/"><strong>Walter Pater, Studies in the History of the Renaissance</strong><span>aestheticism, perception, criticism; pages 877-882; 6 review rows</span></a>
   <a href="../norton-texts/henry-james-art-fiction/"><strong>Henry James, The Art of Fiction</strong><span>fiction, realism, craft; pages 897-911; 4 review rows</span></a>
   <a href="../norton-texts/wilde-selected-critical-prose/"><strong>Oscar Wilde, Preface to The Picture of Dorian Gray and The Critic as Artist</strong><span>criticism, aestheticism, art-for-art; pages 943-956; 12 review rows</span></a>
+  <a href="../norton-texts/du-bois-criteria-of-negro-art/"><strong>W. E. B. Du Bois, Criteria of Negro Art</strong><span>race, art, propaganda; pages 1024-1030; 7 review rows</span></a>
+  <a href="../norton-texts/lukacs-realism-in-the-balance/"><strong>Gyorgy Lukacs, Realism in the Balance</strong><span>realism, marxism, modernism; pages 1077-1087; 11 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -77,6 +79,8 @@ This is a scaffold for reading the configured texts together. It should become a
 19. [Walter Pater, Studies in the History of the Renaissance](norton-texts/pater-renaissance.md)
 20. [Henry James, The Art of Fiction](norton-texts/henry-james-art-fiction.md)
 21. [Oscar Wilde, Preface to The Picture of Dorian Gray and The Critic as Artist](norton-texts/wilde-selected-critical-prose.md)
+22. [W. E. B. Du Bois, Criteria of Negro Art](norton-texts/du-bois-criteria-of-negro-art.md)
+23. [Gyorgy Lukacs, Realism in the Balance](norton-texts/lukacs-realism-in-the-balance.md)
 
 ## Review Pressure
 
@@ -103,6 +107,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Studies in the History of the Renaissance](norton-texts/pater-renaissance.md) | 877-882 | 6 | excerpt: 6 |
 | [The Art of Fiction](norton-texts/henry-james-art-fiction.md) | 897-911 | 4 | excerpt: 15 |
 | [Preface to The Picture of Dorian Gray and The Critic as Artist](norton-texts/wilde-selected-critical-prose.md) | 943-956 | 12 | excerpt: 14 |
+| [Criteria of Negro Art](norton-texts/du-bois-criteria-of-negro-art.md) | 1024-1030 | 7 | excerpt: 7 |
+| [Realism in the Balance](norton-texts/lukacs-realism-in-the-balance.md) | 1077-1087 | 11 | excerpt: 11 |
 
 ## Passage Queue
 
@@ -156,8 +162,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:09:12Z` |
-| Git commit | `9fa32c5` |
+| Generated at | `2026-06-13T05:15:32Z` |
+| Git commit | `72bf05e` |
 | Script version | `2` |
 | Output path | `docs/workspace/taste-and-standards.md` |
 

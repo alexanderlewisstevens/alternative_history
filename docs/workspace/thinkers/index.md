@@ -13,6 +13,7 @@ This private index is generated from curated source metadata and local extractio
 | [Aphra Behn](aphra-behn.md) | 1 | The Dutch Lover and Preface to The Lucky Chance |
 | [Aristotle](aristotle.md) | 1 | Poetics and Rhetoric |
 | [Augustine of Hippo](augustine-of-hippo.md) | 1 | On Christian Doctrine and The Trinity |
+| [Carl Gustav Jung](carl-gustav-jung.md) | 1 | On the Relation of Analytical Psychology to Poetry |
 | [Charles Baudelaire](charles-baudelaire.md) | 1 | The Painter of Modern Life |
 | [Christine de Pizan](christine-de-pizan.md) | 1 | The Book of the City of Ladies |
 | [Dante Alighieri](dante-alighieri.md) | 1 | Il Convivio and The Letter to Can Grande |
@@ -33,6 +34,7 @@ This private index is generated from curated source metadata and local extractio
 | [Giovanni Boccaccio](giovanni-boccaccio.md) | 1 | Genealogy of the Gentile Gods |
 | [Gorgias](gorgias-of-leontini.md) | 1 | Encomium of Helen |
 | [Gotthold Ephraim Lessing](gotthold-ephraim-lessing.md) | 1 | Laocoon |
+| [Gyorgy Lukacs](gyorgy-lukacs.md) | 1 | Realism in the Balance |
 | [Henry James](henry-james.md) | 1 | The Art of Fiction |
 | [Horace](horace.md) | 1 | Ars Poetica |
 | [Hugh of St. Victor](hugh-of-st-victor.md) | 1 | The Didascalicon |
@@ -41,6 +43,7 @@ This private index is generated from curated source metadata and local extractio
 | [John Dryden](john-dryden.md) | 1 | Selected Critical Prose |
 | [Joseph Addison](joseph-addison.md) | 1 | The Spectator, Nos. 62 and 412 |
 | [Karl Marx and Friedrich Engels](karl-marx-and-friedrich-engels.md) | 1 | Selected Cultural and Historical Writings |
+| [Leon Trotsky](leon-trotsky.md) | 1 | Literature and Revolution |
 | [Longinus](longinus.md) | 1 | On Sublimity |
 | [Macrobius](macrobius.md) | 1 | Commentary on the Dream of Scipio |
 | [Mary Wollstonecraft](mary-wollstonecraft.md) | 1 | A Vindication of the Rights of Woman |
@@ -62,7 +65,9 @@ This private index is generated from curated source metadata and local extractio
 | [Theophile Gautier](theophile-gautier.md) | 1 | Preface to Mademoiselle de Maupin |
 | [Thomas Aquinas](thomas-aquinas.md) | 1 | Summa Theologica |
 | [Thomas Love Peacock](thomas-love-peacock.md) | 1 | The Four Ages of Poetry |
+| [Virginia Woolf](virginia-woolf.md) | 1 | A Room of One&#x27;s Own |
 | [Walter Pater](walter-pater.md) | 1 | Studies in the History of the Renaissance |
+| [W. E. B. Du Bois](web-du-bois.md) | 1 | Criteria of Negro Art |
 | [William Wordsworth](william-wordsworth.md) | 1 | Preface to Lyrical Ballads |
 
 ## Provenance
@@ -86,7 +91,7 @@ This private index is generated from curated source metadata and local extractio
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
-| Generated at | `2026-06-13T05:09:15Z` |
-| Git commit | `9fa32c5` |
+| Generated at | `2026-06-13T05:15:35Z` |
+| Git commit | `72bf05e` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/index.md` |

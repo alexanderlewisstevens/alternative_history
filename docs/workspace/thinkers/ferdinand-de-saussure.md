@@ -20,7 +20,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [Course in General Linguistics](../norton-texts/saussure-course-general-linguistics.md) | 1000-1007 | 8 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[media-and-form](../media-and-form.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
+| [Course in General Linguistics](../norton-texts/saussure-course-general-linguistics.md) | 1000-1020 | 21 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[media-and-form](../media-and-form.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -40,9 +40,9 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Signal | Value |
 | --- | --- |
-| Page kinds | author_intro: 4<br>excerpt: 4 |
-| Review rows | 8 |
-| Review reasons | mixed_bibliography_and_work_title: 4<br>mixed_transition_page: 4<br>transition_from_previous_author: 4<br>continues_beyond_current_batch: 4 |
+| Page kinds | excerpt: 17<br>author_intro: 4 |
+| Review rows | 21 |
+| Review reasons | mixed_work_transition_page: 17<br>mixed_bibliography_and_work_title: 4<br>mixed_transition_page: 4<br>transition_from_previous_author: 4 |
 
 ## Passage Queue
 
@@ -93,8 +93,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T05:09:15Z` |
-| Git commit | `9fa32c5` |
+| Generated at | `2026-06-13T05:15:35Z` |
+| Git commit | `72bf05e` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/ferdinand-de-saussure.md` |
 

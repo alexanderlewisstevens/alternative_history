@@ -252,6 +252,13 @@ def text_creator_slug(text: dict[str, Any]) -> str:
 
 
 def author_matches_text(author_slug: str, text: dict[str, Any]) -> bool:
+    configured_slugs = text.get("extraction_author_slugs")
+    if isinstance(configured_slugs, list):
+        normalized_author_slug = slugify(author_slug)
+        for configured_slug in configured_slugs:
+            normalized_configured_slug = slugify(str(configured_slug))
+            if normalized_configured_slug and normalized_configured_slug == normalized_author_slug:
+                return True
     creator_slug = text_creator_slug(text)
     if not creator_slug:
         return False
