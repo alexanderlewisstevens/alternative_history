@@ -1,10 +1,10 @@
-# Beauty And Ascent
+# Taste And Standards
 
 <div class="ah-note-meta">
   <span><strong>Type:</strong> constellation note</span>
   <span><strong>Status:</strong> generated private workspace draft</span>
   <span><strong>Source mode:</strong> restricted metadata only</span>
-  <span><strong>Tags:</strong> sublimity, ascent, inward-reading</span>
+  <span><strong>Tags:</strong> taste, criticism, consensus</span>
 </div>
 
 <div class="ah-private-banner">
@@ -14,7 +14,7 @@
 
 ## Core Question
 
-When does beauty become a way of knowing?
+How do communities make judgments of taste?
 
 ## Working Claim
 
@@ -24,31 +24,40 @@ This is a scaffold for reading the configured texts together. It should become a
 
 <div class="ah-graph-list">
   <a href="../norton-texts/longinus-on-sublimity/"><strong>Longinus, On Sublimity</strong><span>sublimity, aesthetics, authority; pages 177-196; 19 review rows</span></a>
-  <a href="../norton-texts/plotinus-enneads/"><strong>Plotinus, Selected Enneads</strong><span>beauty, form, metaphysics; pages 213-226; 7 review rows</span></a>
-  <a href="../norton-texts/augustine-on-christian-doctrine-trinity/"><strong>Augustine of Hippo, On Christian Doctrine and The Trinity</strong><span>interpretation, signs, theology; pages 227-237; 9 review rows</span></a>
+  <a href="../norton-texts/sidney-defense-of-poesy/"><strong>Sir Philip Sidney, The Defense of Poesy</strong><span>poetry, rhetoric, education; pages 365-404; 39 review rows</span></a>
+  <a href="../norton-texts/addison-spectator-essays/"><strong>Joseph Addison, The Spectator, Nos. 62 and 412</strong><span>wit, imagination, taste; pages 458-467; 10 review rows</span></a>
+  <a href="../norton-texts/pope-essay-on-criticism/"><strong>Alexander Pope, An Essay on Criticism</strong><span>criticism, judgment, wit; pages 480-499; 20 review rows</span></a>
+  <a href="../norton-texts/johnson-selected-critical-prose/"><strong>Samuel Johnson, Selected Critical Prose</strong><span>fiction, shakespeare, criticism; pages 500-524; 21 review rows</span></a>
+  <a href="../norton-texts/hume-standard-of-taste/"><strong>David Hume, Of the Standard of Taste</strong><span>taste, judgment, empiricism; pages 525-527; 3 review rows</span></a>
 </div>
 
 ## Relationship Map
 
 | Relation | From | To | Current Status |
 | --- | --- | --- | --- |
-| Sublimity | Longinus | Plotinus | Configured relation; needs close-reading evidence before promotion. |
-| Ascent | Plotinus | Augustine of Hippo | Configured relation; needs close-reading evidence before promotion. |
-| Inward Reading | Augustine of Hippo | Longinus | Configured relation; needs close-reading evidence before promotion. |
+| Taste | Longinus | Sir Philip Sidney | Configured relation; needs close-reading evidence before promotion. |
+| Criticism | Sir Philip Sidney | Joseph Addison | Configured relation; needs close-reading evidence before promotion. |
+| Consensus | Joseph Addison | Alexander Pope | Configured relation; needs close-reading evidence before promotion. |
 
 ## Reading Path
 
 1. [Longinus, On Sublimity](norton-texts/longinus-on-sublimity.md)
-2. [Plotinus, Selected Enneads](norton-texts/plotinus-enneads.md)
-3. [Augustine of Hippo, On Christian Doctrine and The Trinity](norton-texts/augustine-on-christian-doctrine-trinity.md)
+2. [Sir Philip Sidney, The Defense of Poesy](norton-texts/sidney-defense-of-poesy.md)
+3. [Joseph Addison, The Spectator, Nos. 62 and 412](norton-texts/addison-spectator-essays.md)
+4. [Alexander Pope, An Essay on Criticism](norton-texts/pope-essay-on-criticism.md)
+5. [Samuel Johnson, Selected Critical Prose](norton-texts/johnson-selected-critical-prose.md)
+6. [David Hume, Of the Standard of Taste](norton-texts/hume-standard-of-taste.md)
 
 ## Review Pressure
 
 | Text | Norton Pages | Review Rows | Page Kinds |
 | --- | --- | ---: | --- |
 | [On Sublimity](norton-texts/longinus-on-sublimity.md) | 177-196 | 19 | excerpt: 16<br>author_intro: 4 |
-| [Selected Enneads](norton-texts/plotinus-enneads.md) | 213-226 | 7 | excerpt: 10<br>author_intro: 4 |
-| [On Christian Doctrine and The Trinity](norton-texts/augustine-on-christian-doctrine-trinity.md) | 227-237 | 9 | excerpt: 7<br>author_intro: 4 |
+| [The Defense of Poesy](norton-texts/sidney-defense-of-poesy.md) | 365-404 | 39 | excerpt: 36<br>author_intro: 3<br>mixed_excerpt_bibliography: 1 |
+| [The Spectator, Nos. 62 and 412](norton-texts/addison-spectator-essays.md) | 458-467 | 10 | excerpt: 7<br>author_intro: 3 |
+| [An Essay on Criticism](norton-texts/pope-essay-on-criticism.md) | 480-499 | 20 | excerpt: 17<br>author_intro: 3 |
+| [Selected Critical Prose](norton-texts/johnson-selected-critical-prose.md) | 500-524 | 21 | excerpt: 18<br>author_intro: 7 |
+| [Of the Standard of Taste](norton-texts/hume-standard-of-taste.md) | 525-527 | 3 | author_intro: 3 |
 
 ## Passage Queue
 
@@ -97,7 +106,7 @@ This is a scaffold for reading the configured texts together. It should become a
 
 | Field | Value |
 | --- | --- |
-| Constellation ID | `beauty-and-ascent` |
+| Constellation ID | `taste-and-standards` |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
@@ -105,7 +114,7 @@ This is a scaffold for reading the configured texts together. It should become a
 | Generated at | `2026-06-13T04:32:57Z` |
 | Git commit | `7a6d90c` |
 | Script version | `2` |
-| Output path | `docs/workspace/beauty-and-ascent.md` |
+| Output path | `docs/workspace/taste-and-standards.md` |
 
 ## Open Questions
 

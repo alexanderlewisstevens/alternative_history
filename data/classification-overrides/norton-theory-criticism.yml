@@ -784,3 +784,167 @@ overrides:
     starts_new_author: false
     continues_previous_author: true
     confidence: high
+
+  - id: giambattista-vico-new-science-continuation
+    pages: 448-457
+    author_name: Giambattista Vico
+    author_slug: giambattista-vico
+    work_title: The New Science
+    work_slug: the-new-science
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: joseph-addison-headnote
+    pages: 458-460
+    author_name: Joseph Addison
+    author_slug: joseph-addison
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: joseph-addison-spectator-no-62
+    pages: 461-466
+    author_name: Joseph Addison
+    author_slug: joseph-addison
+    work_title: The Spectator, No. 62
+    work_slug: the-spectator-no-62
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: joseph-addison-spectator-no-412
+    pages: 467
+    author_name: Joseph Addison
+    author_slug: joseph-addison
+    work_title: The Spectator, No. 412
+    work_slug: the-spectator-no-412
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: edward-young-headnote
+    pages: 468
+    author_name: Edward Young
+    author_slug: edward-young
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: edward-young-conjectures-opening
+    pages: 469
+    author_name: Edward Young
+    author_slug: edward-young
+    work_title: Conjectures on Original Composition
+    work_slug: conjectures-on-original-composition
+    page_kind: mixed_excerpt_bibliography
+    starts_new_author: false
+    continues_previous_author: true
+    contains_excerpt: true
+    contains_bibliography: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_excerpt_and_bibliography
+
+  - id: edward-young-conjectures
+    pages: 470-479
+    author_name: Edward Young
+    author_slug: edward-young
+    work_title: Conjectures on Original Composition
+    work_slug: conjectures-on-original-composition
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: alexander-pope-headnote
+    pages: 480-482
+    author_name: Alexander Pope
+    author_slug: alexander-pope
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: alexander-pope-essay-on-criticism
+    pages: 483-499
+    author_name: Alexander Pope
+    author_slug: alexander-pope
+    work_title: An Essay on Criticism
+    work_slug: an-essay-on-criticism
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: samuel-johnson-headnote
+    pages: 500-506
+    author_name: Samuel Johnson
+    author_slug: samuel-johnson
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: samuel-johnson-rambler-no-4
+    pages: 507
+    author_name: Samuel Johnson
+    author_slug: samuel-johnson
+    work_title: The Rambler, No. 4
+    work_slug: the-rambler-no-4
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: samuel-johnson-rasselas
+    pages: 508-509
+    author_name: Samuel Johnson
+    author_slug: samuel-johnson
+    work_title: The History of Rasselas
+    work_slug: the-history-of-rasselas
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: samuel-johnson-preface-shakespeare
+    pages: 510-524
+    author_name: Samuel Johnson
+    author_slug: samuel-johnson
+    work_title: Preface to Shakespeare
+    work_slug: preface-to-shakespeare
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: david-hume-headnote
+    pages: 525-527
+    author_name: David Hume
+    author_slug: david-hume
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author

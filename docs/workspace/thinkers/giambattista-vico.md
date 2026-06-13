@@ -20,7 +20,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [The New Science](../norton-texts/vico-new-science.md) | 441-447 | 4 | 0 | [commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md) | `edition-review-needed` |
+| [The New Science](../norton-texts/vico-new-science.md) | 441-457 | 11 | 0 | [commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -36,9 +36,9 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Signal | Value |
 | --- | --- |
-| Page kinds | excerpt: 4<br>author_intro: 2<br>mixed_excerpt_bibliography: 1 |
-| Review rows | 4 |
-| Review reasons | transition_from_previous_author: 2<br>mixed_excerpt_and_bibliography: 1<br>multi_column_layout: 1<br>source_notes_detected: 1 |
+| Page kinds | excerpt: 14<br>author_intro: 2<br>mixed_excerpt_bibliography: 1 |
+| Review rows | 11 |
+| Review reasons | multi_column_layout: 6<br>source_notes_detected: 6<br>transition_from_previous_author: 2<br>mixed_excerpt_and_bibliography: 1<br>author_boundary_without_life_dates: 1 |
 
 ## Passage Queue
 
@@ -89,8 +89,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T04:29:46Z` |
-| Git commit | `1665a30` |
+| Generated at | `2026-06-13T04:33:22Z` |
+| Git commit | `7a6d90c` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/giambattista-vico.md` |
 

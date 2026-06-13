@@ -1,10 +1,10 @@
-# Giambattista Giraldi
+# Joseph Addison
 
 <div class="ah-note-meta">
   <span><strong>Type:</strong> thinker node</span>
   <span><strong>Status:</strong> generated private workspace note</span>
   <span><strong>Source mode:</strong> restricted metadata only</span>
-  <span><strong>Tags:</strong> genre, poetics, romance, vernacular</span>
+  <span><strong>Tags:</strong> imagination, public-sphere, taste, wit</span>
 </div>
 
 <div class="ah-private-banner">
@@ -20,25 +20,26 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [Discourse on the Composition of Romances](../norton-texts/giambattista-giraldi-composition-romances.md) | 313-320 | 7 | 0 | [vernacular-and-institution](../vernacular-and-institution.md)<br>[theater-and-public-judgment](../theater-and-public-judgment.md) | `edition-review-needed` |
+| [The Spectator, Nos. 62 and 412](../norton-texts/addison-spectator-essays.md) | 458-467 | 10 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[taste-and-standards](../taste-and-standards.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
-- Discourse on the Composition of Romances
-- a contemporary perspective, one jarring aspect of Giraldi&#x27;s theory of decorum
+- The Spectator, Nos. 62 and 412
+- The Spectator, No
 
 ## Constellation Backlinks
 
-- [theater-and-public-judgment](../theater-and-public-judgment.md)
-- [vernacular-and-institution](../vernacular-and-institution.md)
+- [education-and-civic-life](../education-and-civic-life.md)
+- [poetry-and-judgment](../poetry-and-judgment.md)
+- [taste-and-standards](../taste-and-standards.md)
 
 ## Review Pressure
 
 | Signal | Value |
 | --- | --- |
-| Page kinds | excerpt: 6<br>author_intro: 2 |
-| Review rows | 7 |
-| Review reasons | multi_column_layout: 4<br>transition_from_previous_author: 2<br>source_notes_detected: 2 |
+| Page kinds | excerpt: 7<br>author_intro: 3 |
+| Review rows | 10 |
+| Review reasons | multi_column_layout: 6<br>source_notes_detected: 6<br>transition_from_previous_author: 3 |
 
 ## Passage Queue
 
@@ -85,14 +86,14 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Field | Value |
 | --- | --- |
-| Thinker slug | `giambattista-giraldi` |
+| Thinker slug | `joseph-addison` |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Generated at | `2026-06-13T04:33:22Z` |
 | Git commit | `7a6d90c` |
 | Script version | `1` |
-| Output path | `docs/workspace/thinkers/giambattista-giraldi.md` |
+| Output path | `docs/workspace/thinkers/joseph-addison.md` |
 
 ## Open Questions
 

@@ -1,10 +1,10 @@
-# Giambattista Giraldi
+# David Hume
 
 <div class="ah-note-meta">
   <span><strong>Type:</strong> thinker node</span>
   <span><strong>Status:</strong> generated private workspace note</span>
   <span><strong>Source mode:</strong> restricted metadata only</span>
-  <span><strong>Tags:</strong> genre, poetics, romance, vernacular</span>
+  <span><strong>Tags:</strong> consensus, empiricism, judgment, taste</span>
 </div>
 
 <div class="ah-private-banner">
@@ -20,25 +20,25 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [Discourse on the Composition of Romances](../norton-texts/giambattista-giraldi-composition-romances.md) | 313-320 | 7 | 0 | [vernacular-and-institution](../vernacular-and-institution.md)<br>[theater-and-public-judgment](../theater-and-public-judgment.md) | `edition-review-needed` |
+| [Of the Standard of Taste](../norton-texts/hume-standard-of-taste.md) | 525-527 | 3 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[taste-and-standards](../taste-and-standards.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
-- Discourse on the Composition of Romances
-- a contemporary perspective, one jarring aspect of Giraldi&#x27;s theory of decorum
+- Of the Standard of Taste
+- the early 1750s to the mid-1760s, Hume spent most of his time in Edinburgh
 
 ## Constellation Backlinks
 
-- [theater-and-public-judgment](../theater-and-public-judgment.md)
-- [vernacular-and-institution](../vernacular-and-institution.md)
+- [poetry-and-judgment](../poetry-and-judgment.md)
+- [taste-and-standards](../taste-and-standards.md)
 
 ## Review Pressure
 
 | Signal | Value |
 | --- | --- |
-| Page kinds | excerpt: 6<br>author_intro: 2 |
-| Review rows | 7 |
-| Review reasons | multi_column_layout: 4<br>transition_from_previous_author: 2<br>source_notes_detected: 2 |
+| Page kinds | author_intro: 3 |
+| Review rows | 3 |
+| Review reasons | transition_from_previous_author: 3 |
 
 ## Passage Queue
 
@@ -85,14 +85,14 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Field | Value |
 | --- | --- |
-| Thinker slug | `giambattista-giraldi` |
+| Thinker slug | `david-hume` |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Generated at | `2026-06-13T04:33:22Z` |
 | Git commit | `7a6d90c` |
 | Script version | `1` |
-| Output path | `docs/workspace/thinkers/giambattista-giraldi.md` |
+| Output path | `docs/workspace/thinkers/david-hume.md` |
 
 ## Open Questions
 

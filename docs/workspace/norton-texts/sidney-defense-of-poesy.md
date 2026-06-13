@@ -40,6 +40,7 @@ This note turns the current Norton chunk for Sir Philip Sidney into a navigable 
 | [education-and-civic-life](../education-and-civic-life.md) | What should education make possible for citizens? | pedagogy, civic-formation, authority |
 | [vernacular-and-institution](../vernacular-and-institution.md) | How do languages become institutions of thought? | vernacular, imitation, nation |
 | [authorship-and-authority](../authorship-and-authority.md) | Who is allowed to speak as an author? | authorship, gender, authority |
+| [taste-and-standards](../taste-and-standards.md) | How do communities make judgments of taste? | taste, criticism, consensus |
 
 ## Passage Queue
 
@@ -48,7 +49,7 @@ This note turns the current Norton chunk for Sir Philip Sidney into a navigable 
   <h3>Choose Passages After Review</h3>
   <p><strong>Source location:</strong> Norton page range 365-404.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
-  <p><strong>Use:</strong> Find the passages that make this text active inside poetry-and-judgment, education-and-civic-life, vernacular-and-institution, authorship-and-authority.</p>
+  <p><strong>Use:</strong> Find the passages that make this text active inside poetry-and-judgment, education-and-civic-life, vernacular-and-institution, authorship-and-authority, taste-and-standards.</p>
 </section>
 
 <section class="ah-passage-card">
@@ -92,8 +93,8 @@ This note turns the current Norton chunk for Sir Philip Sidney into a navigable 
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/sir-philip-sidney.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T04:29:48Z` |
-| Git commit | `1665a30` |
+| Generated at | `2026-06-13T04:33:24Z` |
+| Git commit | `7a6d90c` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/sidney-defense-of-poesy.md` |
 
@@ -110,6 +111,7 @@ This note turns the current Norton chunk for Sir Philip Sidney into a navigable 
 <li><a href="../../education-and-civic-life/">education-and-civic-life</a></li>
 <li><a href="../../vernacular-and-institution/">vernacular-and-institution</a></li>
 <li><a href="../../authorship-and-authority/">authorship-and-authority</a></li>
+<li><a href="../../taste-and-standards/">taste-and-standards</a></li>
 </ul>
 
 ## Open Questions

@@ -28,6 +28,9 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/sidney-defense-of-poesy/"><strong>Sir Philip Sidney, The Defense of Poesy</strong><span>poetry, rhetoric, education; pages 365-404; 39 review rows</span></a>
   <a href="../norton-texts/dryden-selected-critical-prose/"><strong>John Dryden, Selected Critical Prose</strong><span>drama, translation, judgment; pages 421-429; 9 review rows</span></a>
   <a href="../norton-texts/aphra-behn-dutch-lover-lucky-chance/"><strong>Aphra Behn, The Dutch Lover and Preface to The Lucky Chance</strong><span>authorship, gender, theater; pages 430-440; 11 review rows</span></a>
+  <a href="../norton-texts/young-conjectures-original-composition/"><strong>Edward Young, Conjectures on Original Composition</strong><span>originality, imitation, authorship; pages 468-479; 11 review rows</span></a>
+  <a href="../norton-texts/pope-essay-on-criticism/"><strong>Alexander Pope, An Essay on Criticism</strong><span>criticism, judgment, wit; pages 480-499; 20 review rows</span></a>
+  <a href="../norton-texts/johnson-selected-critical-prose/"><strong>Samuel Johnson, Selected Critical Prose</strong><span>fiction, shakespeare, criticism; pages 500-524; 21 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -45,6 +48,9 @@ This is a scaffold for reading the configured texts together. It should become a
 3. [Sir Philip Sidney, The Defense of Poesy](norton-texts/sidney-defense-of-poesy.md)
 4. [John Dryden, Selected Critical Prose](norton-texts/dryden-selected-critical-prose.md)
 5. [Aphra Behn, The Dutch Lover and Preface to The Lucky Chance](norton-texts/aphra-behn-dutch-lover-lucky-chance.md)
+6. [Edward Young, Conjectures on Original Composition](norton-texts/young-conjectures-original-composition.md)
+7. [Alexander Pope, An Essay on Criticism](norton-texts/pope-essay-on-criticism.md)
+8. [Samuel Johnson, Selected Critical Prose](norton-texts/johnson-selected-critical-prose.md)
 
 ## Review Pressure
 
@@ -55,6 +61,9 @@ This is a scaffold for reading the configured texts together. It should become a
 | [The Defense of Poesy](norton-texts/sidney-defense-of-poesy.md) | 365-404 | 39 | excerpt: 36<br>author_intro: 3<br>mixed_excerpt_bibliography: 1 |
 | [Selected Critical Prose](norton-texts/dryden-selected-critical-prose.md) | 421-429 | 9 | excerpt: 7<br>author_intro: 2 |
 | [The Dutch Lover and Preface to The Lucky Chance](norton-texts/aphra-behn-dutch-lover-lucky-chance.md) | 430-440 | 11 | excerpt: 8<br>author_intro: 3 |
+| [Conjectures on Original Composition](norton-texts/young-conjectures-original-composition.md) | 468-479 | 11 | excerpt: 10<br>author_intro: 1<br>mixed_excerpt_bibliography: 1 |
+| [An Essay on Criticism](norton-texts/pope-essay-on-criticism.md) | 480-499 | 20 | excerpt: 17<br>author_intro: 3 |
+| [Selected Critical Prose](norton-texts/johnson-selected-critical-prose.md) | 500-524 | 21 | excerpt: 18<br>author_intro: 7 |
 
 ## Passage Queue
 
@@ -108,8 +117,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T04:29:15Z` |
-| Git commit | `1665a30` |
+| Generated at | `2026-06-13T04:32:57Z` |
+| Git commit | `7a6d90c` |
 | Script version | `2` |
 | Output path | `docs/workspace/authorship-and-authority.md` |
 

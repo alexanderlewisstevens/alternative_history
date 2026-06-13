@@ -109,7 +109,7 @@
       "id": "constellation:authorship-and-authority",
       "kind": "constellation",
       "review_pressure": 0,
-      "search_text": "authorship and authority who is allowed to speak as an author?   private constellation draft aphra-behn-dutch-lover-lucky-chance authority authorship christine-de-pizan-city-of-ladies dryden-selected-critical-prose gender joachim-du-bellay-defense-french-language sidney-defense-of-poesy authorship-and-authority",
+      "search_text": "authorship and authority who is allowed to speak as an author?   private constellation draft aphra-behn-dutch-lover-lucky-chance authority authorship christine-de-pizan-city-of-ladies dryden-selected-critical-prose gender joachim-du-bellay-defense-french-language johnson-selected-critical-prose pope-essay-on-criticism sidney-defense-of-poesy young-conjectures-original-composition authorship-and-authority",
       "status": "private constellation draft",
       "summary": "Who is allowed to speak as an author?",
       "tags": [
@@ -120,7 +120,10 @@
         "dryden-selected-critical-prose",
         "gender",
         "joachim-du-bellay-defense-french-language",
-        "sidney-defense-of-poesy"
+        "johnson-selected-critical-prose",
+        "pope-essay-on-criticism",
+        "sidney-defense-of-poesy",
+        "young-conjectures-original-composition"
       ],
       "text_id": "",
       "thinker": "",
@@ -185,15 +188,17 @@
       "id": "constellation:education-and-civic-life",
       "kind": "constellation",
       "review_pressure": 0,
-      "search_text": "education and civic life what should education make possible for citizens?   private constellation draft aristotle-poetics-rhetoric authority christine-de-pizan-city-of-ladies civic-formation hugh-didascalicon pedagogy plato-selected-dialogues quintilian-institutio-oratoria sidney-defense-of-poesy vico-new-science education-and-civic-life",
+      "search_text": "education and civic life what should education make possible for citizens?   private constellation draft addison-spectator-essays aristotle-poetics-rhetoric authority christine-de-pizan-city-of-ladies civic-formation hugh-didascalicon johnson-selected-critical-prose pedagogy plato-selected-dialogues quintilian-institutio-oratoria sidney-defense-of-poesy vico-new-science education-and-civic-life",
       "status": "private constellation draft",
       "summary": "What should education make possible for citizens?",
       "tags": [
+        "addison-spectator-essays",
         "aristotle-poetics-rhetoric",
         "authority",
         "christine-de-pizan-city-of-ladies",
         "civic-formation",
         "hugh-didascalicon",
+        "johnson-selected-critical-prose",
         "pedagogy",
         "plato-selected-dialogues",
         "quintilian-institutio-oratoria",
@@ -212,10 +217,11 @@
       "id": "constellation:poetry-and-judgment",
       "kind": "constellation",
       "review_pressure": 0,
-      "search_text": "poetry and judgment who gets to judge art?   private constellation draft aphra-behn-dutch-lover-lucky-chance aristotle-poetics-rhetoric boccaccio-genealogy-gentile-gods corneille-three-unities craft dryden-selected-critical-prose excess geoffrey-poetria-nova horace-ars-poetica longinus-on-sublimity pierre-de-ronsard-art-french-poetry plato-selected-dialogues sidney-defense-of-poesy tension poetry-and-judgment",
+      "search_text": "poetry and judgment who gets to judge art?   private constellation draft addison-spectator-essays aphra-behn-dutch-lover-lucky-chance aristotle-poetics-rhetoric boccaccio-genealogy-gentile-gods corneille-three-unities craft dryden-selected-critical-prose excess geoffrey-poetria-nova horace-ars-poetica hume-standard-of-taste johnson-selected-critical-prose longinus-on-sublimity pierre-de-ronsard-art-french-poetry plato-selected-dialogues pope-essay-on-criticism sidney-defense-of-poesy tension young-conjectures-original-composition poetry-and-judgment",
       "status": "private constellation draft",
       "summary": "Who gets to judge art?",
       "tags": [
+        "addison-spectator-essays",
         "aphra-behn-dutch-lover-lucky-chance",
         "aristotle-poetics-rhetoric",
         "boccaccio-genealogy-gentile-gods",
@@ -225,11 +231,15 @@
         "excess",
         "geoffrey-poetria-nova",
         "horace-ars-poetica",
+        "hume-standard-of-taste",
+        "johnson-selected-critical-prose",
         "longinus-on-sublimity",
         "pierre-de-ronsard-art-french-poetry",
         "plato-selected-dialogues",
+        "pope-essay-on-criticism",
         "sidney-defense-of-poesy",
-        "tension"
+        "tension",
+        "young-conjectures-original-composition"
       ],
       "text_id": "",
       "thinker": "",
@@ -289,12 +299,38 @@
     },
     {
       "constellations": [
+        "taste-and-standards"
+      ],
+      "id": "constellation:taste-and-standards",
+      "kind": "constellation",
+      "review_pressure": 0,
+      "search_text": "taste and standards how do communities make judgments of taste?   private constellation draft addison-spectator-essays consensus criticism hume-standard-of-taste johnson-selected-critical-prose longinus-on-sublimity pope-essay-on-criticism sidney-defense-of-poesy taste taste-and-standards",
+      "status": "private constellation draft",
+      "summary": "How do communities make judgments of taste?",
+      "tags": [
+        "addison-spectator-essays",
+        "consensus",
+        "criticism",
+        "hume-standard-of-taste",
+        "johnson-selected-critical-prose",
+        "longinus-on-sublimity",
+        "pope-essay-on-criticism",
+        "sidney-defense-of-poesy",
+        "taste"
+      ],
+      "text_id": "",
+      "thinker": "",
+      "title": "Taste And Standards",
+      "url": "/workspace/taste-and-standards/"
+    },
+    {
+      "constellations": [
         "theater-and-public-judgment"
       ],
       "id": "constellation:theater-and-public-judgment",
       "kind": "constellation",
       "review_pressure": 0,
-      "search_text": "theater and public judgment how does theater train or expose public judgment?   private constellation draft aphra-behn-dutch-lover-lucky-chance aristotle-poetics-rhetoric audience corneille-three-unities drama dryden-selected-critical-prose giambattista-giraldi-composition-romances rules theater-and-public-judgment",
+      "search_text": "theater and public judgment how does theater train or expose public judgment?   private constellation draft aphra-behn-dutch-lover-lucky-chance aristotle-poetics-rhetoric audience corneille-three-unities drama dryden-selected-critical-prose giambattista-giraldi-composition-romances johnson-selected-critical-prose rules theater-and-public-judgment",
       "status": "private constellation draft",
       "summary": "How does theater train or expose public judgment?",
       "tags": [
@@ -305,6 +341,7 @@
         "drama",
         "dryden-selected-critical-prose",
         "giambattista-giraldi-composition-romances",
+        "johnson-selected-critical-prose",
         "rules"
       ],
       "text_id": "",
@@ -427,6 +464,32 @@
     },
     {
       "constellations": [
+        "authorship-and-authority",
+        "poetry-and-judgment",
+        "taste-and-standards"
+      ],
+      "id": "text:pope-essay-on-criticism",
+      "kind": "text",
+      "review_pressure": 20,
+      "search_text": "an essay on criticism alexander pope; core-text-candidate; pages 480-499; 20 review rows. alexander pope pope-essay-on-criticism edition-review-needed authorship-and-authority criticism judgment neoclassicism poetry-and-judgment taste-and-standards wit authorship-and-authority poetry-and-judgment taste-and-standards",
+      "status": "edition-review-needed",
+      "summary": "Alexander Pope; core-text-candidate; pages 480-499; 20 review rows.",
+      "tags": [
+        "authorship-and-authority",
+        "criticism",
+        "judgment",
+        "neoclassicism",
+        "poetry-and-judgment",
+        "taste-and-standards",
+        "wit"
+      ],
+      "text_id": "pope-essay-on-criticism",
+      "thinker": "Alexander Pope",
+      "title": "An Essay on Criticism",
+      "url": "/workspace/norton-texts/pope-essay-on-criticism/"
+    },
+    {
+      "constellations": [
         "poetry-and-judgment"
       ],
       "id": "text:horace-ars-poetica",
@@ -466,6 +529,30 @@
       "thinker": "Macrobius",
       "title": "Commentary on the Dream of Scipio",
       "url": "/workspace/norton-texts/macrobius-dream-scipio/"
+    },
+    {
+      "constellations": [
+        "authorship-and-authority",
+        "poetry-and-judgment"
+      ],
+      "id": "text:young-conjectures-original-composition",
+      "kind": "text",
+      "review_pressure": 11,
+      "search_text": "conjectures on original composition edward young; core-text-candidate; pages 468-479; 11 review rows. edward young young-conjectures-original-composition edition-review-needed authorship authorship-and-authority genius imitation originality poetry-and-judgment authorship-and-authority poetry-and-judgment",
+      "status": "edition-review-needed",
+      "summary": "Edward Young; core-text-candidate; pages 468-479; 11 review rows.",
+      "tags": [
+        "authorship",
+        "authorship-and-authority",
+        "genius",
+        "imitation",
+        "originality",
+        "poetry-and-judgment"
+      ],
+      "text_id": "young-conjectures-original-composition",
+      "thinker": "Edward Young",
+      "title": "Conjectures on Original Composition",
+      "url": "/workspace/norton-texts/young-conjectures-original-composition/"
     },
     {
       "constellations": [
@@ -586,6 +673,30 @@
     {
       "constellations": [
         "poetry-and-judgment",
+        "taste-and-standards"
+      ],
+      "id": "text:hume-standard-of-taste",
+      "kind": "text",
+      "review_pressure": 3,
+      "search_text": "of the standard of taste david hume; core-text-candidate; pages 525-527; 3 review rows. david hume hume-standard-of-taste edition-review-needed consensus empiricism judgment poetry-and-judgment taste taste-and-standards poetry-and-judgment taste-and-standards",
+      "status": "edition-review-needed",
+      "summary": "David Hume; core-text-candidate; pages 525-527; 3 review rows.",
+      "tags": [
+        "consensus",
+        "empiricism",
+        "judgment",
+        "poetry-and-judgment",
+        "taste",
+        "taste-and-standards"
+      ],
+      "text_id": "hume-standard-of-taste",
+      "thinker": "David Hume",
+      "title": "Of the Standard of Taste",
+      "url": "/workspace/norton-texts/hume-standard-of-taste/"
+    },
+    {
+      "constellations": [
+        "poetry-and-judgment",
         "theater-and-public-judgment"
       ],
       "id": "text:corneille-three-unities",
@@ -634,12 +745,13 @@
     {
       "constellations": [
         "beauty-and-ascent",
-        "poetry-and-judgment"
+        "poetry-and-judgment",
+        "taste-and-standards"
       ],
       "id": "text:longinus-on-sublimity",
       "kind": "text",
       "review_pressure": 19,
-      "search_text": "on sublimity longinus; core-text-candidate; pages 177-196; 19 review rows. longinus longinus-on-sublimity edition-review-needed aesthetics authority beauty-and-ascent poetry-and-judgment sublimity beauty-and-ascent poetry-and-judgment",
+      "search_text": "on sublimity longinus; core-text-candidate; pages 177-196; 19 review rows. longinus longinus-on-sublimity edition-review-needed aesthetics authority beauty-and-ascent poetry-and-judgment sublimity taste-and-standards beauty-and-ascent poetry-and-judgment taste-and-standards",
       "status": "edition-review-needed",
       "summary": "Longinus; core-text-candidate; pages 177-196; 19 review rows.",
       "tags": [
@@ -647,7 +759,8 @@
         "authority",
         "beauty-and-ascent",
         "poetry-and-judgment",
-        "sublimity"
+        "sublimity",
+        "taste-and-standards"
       ],
       "text_id": "longinus-on-sublimity",
       "thinker": "Longinus",
@@ -753,6 +866,36 @@
       "thinker": "John Dryden",
       "title": "Selected Critical Prose",
       "url": "/workspace/norton-texts/dryden-selected-critical-prose/"
+    },
+    {
+      "constellations": [
+        "authorship-and-authority",
+        "education-and-civic-life",
+        "poetry-and-judgment",
+        "taste-and-standards",
+        "theater-and-public-judgment"
+      ],
+      "id": "text:johnson-selected-critical-prose",
+      "kind": "text",
+      "review_pressure": 21,
+      "search_text": "selected critical prose samuel johnson; core-text-candidate; pages 500-524; 21 review rows. samuel johnson johnson-selected-critical-prose edition-review-needed authorship-and-authority criticism education-and-civic-life fiction poetry-and-judgment public-judgment shakespeare taste-and-standards theater-and-public-judgment authorship-and-authority education-and-civic-life poetry-and-judgment taste-and-standards theater-and-public-judgment",
+      "status": "edition-review-needed",
+      "summary": "Samuel Johnson; core-text-candidate; pages 500-524; 21 review rows.",
+      "tags": [
+        "authorship-and-authority",
+        "criticism",
+        "education-and-civic-life",
+        "fiction",
+        "poetry-and-judgment",
+        "public-judgment",
+        "shakespeare",
+        "taste-and-standards",
+        "theater-and-public-judgment"
+      ],
+      "text_id": "johnson-selected-critical-prose",
+      "thinker": "Samuel Johnson",
+      "title": "Selected Critical Prose",
+      "url": "/workspace/norton-texts/johnson-selected-critical-prose/"
     },
     {
       "constellations": [
@@ -882,12 +1025,13 @@
         "authorship-and-authority",
         "education-and-civic-life",
         "poetry-and-judgment",
+        "taste-and-standards",
         "vernacular-and-institution"
       ],
       "id": "text:sidney-defense-of-poesy",
       "kind": "text",
       "review_pressure": 39,
-      "search_text": "the defense of poesy sir philip sidney; core-text-candidate; pages 365-404; 39 review rows. sir philip sidney sidney-defense-of-poesy edition-review-needed authorship-and-authority civic-formation education education-and-civic-life poetry poetry-and-judgment rhetoric vernacular-and-institution authorship-and-authority education-and-civic-life poetry-and-judgment vernacular-and-institution",
+      "search_text": "the defense of poesy sir philip sidney; core-text-candidate; pages 365-404; 39 review rows. sir philip sidney sidney-defense-of-poesy edition-review-needed authorship-and-authority civic-formation education education-and-civic-life poetry poetry-and-judgment rhetoric taste-and-standards vernacular-and-institution authorship-and-authority education-and-civic-life poetry-and-judgment taste-and-standards vernacular-and-institution",
       "status": "edition-review-needed",
       "summary": "Sir Philip Sidney; core-text-candidate; pages 365-404; 39 review rows.",
       "tags": [
@@ -898,6 +1042,7 @@
         "poetry",
         "poetry-and-judgment",
         "rhetoric",
+        "taste-and-standards",
         "vernacular-and-institution"
       ],
       "text_id": "sidney-defense-of-poesy",
@@ -988,10 +1133,10 @@
       ],
       "id": "text:vico-new-science",
       "kind": "text",
-      "review_pressure": 4,
-      "search_text": "the new science giambattista vico; core-text-candidate; pages 441-447; 4 review rows. giambattista vico vico-new-science edition-review-needed civic-knowledge commentary-and-afterlife education-and-civic-life history institutions language vernacular-and-institution commentary-and-afterlife education-and-civic-life vernacular-and-institution",
+      "review_pressure": 11,
+      "search_text": "the new science giambattista vico; core-text-candidate; pages 441-457; 11 review rows. giambattista vico vico-new-science edition-review-needed civic-knowledge commentary-and-afterlife education-and-civic-life history institutions language vernacular-and-institution commentary-and-afterlife education-and-civic-life vernacular-and-institution",
       "status": "edition-review-needed",
-      "summary": "Giambattista Vico; core-text-candidate; pages 441-447; 4 review rows.",
+      "summary": "Giambattista Vico; core-text-candidate; pages 441-457; 11 review rows.",
       "tags": [
         "civic-knowledge",
         "commentary-and-afterlife",
@@ -1005,6 +1150,58 @@
       "thinker": "Giambattista Vico",
       "title": "The New Science",
       "url": "/workspace/norton-texts/vico-new-science/"
+    },
+    {
+      "constellations": [
+        "education-and-civic-life",
+        "poetry-and-judgment",
+        "taste-and-standards"
+      ],
+      "id": "text:addison-spectator-essays",
+      "kind": "text",
+      "review_pressure": 10,
+      "search_text": "the spectator, nos. 62 and 412 joseph addison; core-text-candidate; pages 458-467; 10 review rows. joseph addison addison-spectator-essays edition-review-needed education-and-civic-life imagination poetry-and-judgment public-sphere taste taste-and-standards wit education-and-civic-life poetry-and-judgment taste-and-standards",
+      "status": "edition-review-needed",
+      "summary": "Joseph Addison; core-text-candidate; pages 458-467; 10 review rows.",
+      "tags": [
+        "education-and-civic-life",
+        "imagination",
+        "poetry-and-judgment",
+        "public-sphere",
+        "taste",
+        "taste-and-standards",
+        "wit"
+      ],
+      "text_id": "addison-spectator-essays",
+      "thinker": "Joseph Addison",
+      "title": "The Spectator, Nos. 62 and 412",
+      "url": "/workspace/norton-texts/addison-spectator-essays/"
+    },
+    {
+      "constellations": [
+        "authorship-and-authority",
+        "poetry-and-judgment",
+        "taste-and-standards"
+      ],
+      "id": "thinker:alexander-pope",
+      "kind": "thinker",
+      "review_pressure": 20,
+      "search_text": "alexander pope 1 text node(s); pope-essay-on-criticism. alexander pope  generated private workspace note authorship-and-authority criticism judgment neoclassicism poetry-and-judgment taste-and-standards wit authorship-and-authority poetry-and-judgment taste-and-standards",
+      "status": "generated private workspace note",
+      "summary": "1 text node(s); pope-essay-on-criticism.",
+      "tags": [
+        "authorship-and-authority",
+        "criticism",
+        "judgment",
+        "neoclassicism",
+        "poetry-and-judgment",
+        "taste-and-standards",
+        "wit"
+      ],
+      "text_id": "",
+      "thinker": "Alexander Pope",
+      "title": "Alexander Pope",
+      "url": "/workspace/thinkers/alexander-pope/"
     },
     {
       "constellations": [
@@ -1136,6 +1333,54 @@
     },
     {
       "constellations": [
+        "poetry-and-judgment",
+        "taste-and-standards"
+      ],
+      "id": "thinker:david-hume",
+      "kind": "thinker",
+      "review_pressure": 3,
+      "search_text": "david hume 1 text node(s); hume-standard-of-taste. david hume  generated private workspace note consensus empiricism judgment poetry-and-judgment taste taste-and-standards poetry-and-judgment taste-and-standards",
+      "status": "generated private workspace note",
+      "summary": "1 text node(s); hume-standard-of-taste.",
+      "tags": [
+        "consensus",
+        "empiricism",
+        "judgment",
+        "poetry-and-judgment",
+        "taste",
+        "taste-and-standards"
+      ],
+      "text_id": "",
+      "thinker": "David Hume",
+      "title": "David Hume",
+      "url": "/workspace/thinkers/david-hume/"
+    },
+    {
+      "constellations": [
+        "authorship-and-authority",
+        "poetry-and-judgment"
+      ],
+      "id": "thinker:edward-young",
+      "kind": "thinker",
+      "review_pressure": 11,
+      "search_text": "edward young 1 text node(s); young-conjectures-original-composition. edward young  generated private workspace note authorship authorship-and-authority genius imitation originality poetry-and-judgment authorship-and-authority poetry-and-judgment",
+      "status": "generated private workspace note",
+      "summary": "1 text node(s); young-conjectures-original-composition.",
+      "tags": [
+        "authorship",
+        "authorship-and-authority",
+        "genius",
+        "imitation",
+        "originality",
+        "poetry-and-judgment"
+      ],
+      "text_id": "",
+      "thinker": "Edward Young",
+      "title": "Edward Young",
+      "url": "/workspace/thinkers/edward-young/"
+    },
+    {
+      "constellations": [
         "commentary-and-afterlife",
         "poetry-and-judgment"
       ],
@@ -1212,7 +1457,7 @@
       ],
       "id": "thinker:giambattista-vico",
       "kind": "thinker",
-      "review_pressure": 4,
+      "review_pressure": 11,
       "search_text": "giambattista vico 1 text node(s); vico-new-science. giambattista vico  generated private workspace note civic-knowledge commentary-and-afterlife education-and-civic-life history institutions language vernacular-and-institution commentary-and-afterlife education-and-civic-life vernacular-and-institution",
       "status": "generated private workspace note",
       "summary": "1 text node(s); vico-new-science.",
@@ -1373,13 +1618,40 @@
     },
     {
       "constellations": [
+        "education-and-civic-life",
+        "poetry-and-judgment",
+        "taste-and-standards"
+      ],
+      "id": "thinker:joseph-addison",
+      "kind": "thinker",
+      "review_pressure": 10,
+      "search_text": "joseph addison 1 text node(s); addison-spectator-essays. joseph addison  generated private workspace note education-and-civic-life imagination poetry-and-judgment public-sphere taste taste-and-standards wit education-and-civic-life poetry-and-judgment taste-and-standards",
+      "status": "generated private workspace note",
+      "summary": "1 text node(s); addison-spectator-essays.",
+      "tags": [
+        "education-and-civic-life",
+        "imagination",
+        "poetry-and-judgment",
+        "public-sphere",
+        "taste",
+        "taste-and-standards",
+        "wit"
+      ],
+      "text_id": "",
+      "thinker": "Joseph Addison",
+      "title": "Joseph Addison",
+      "url": "/workspace/thinkers/joseph-addison/"
+    },
+    {
+      "constellations": [
         "beauty-and-ascent",
-        "poetry-and-judgment"
+        "poetry-and-judgment",
+        "taste-and-standards"
       ],
       "id": "thinker:longinus",
       "kind": "thinker",
       "review_pressure": 19,
-      "search_text": "longinus 1 text node(s); longinus-on-sublimity. longinus  generated private workspace note aesthetics authority beauty-and-ascent poetry-and-judgment sublimity beauty-and-ascent poetry-and-judgment",
+      "search_text": "longinus 1 text node(s); longinus-on-sublimity. longinus  generated private workspace note aesthetics authority beauty-and-ascent poetry-and-judgment sublimity taste-and-standards beauty-and-ascent poetry-and-judgment taste-and-standards",
       "status": "generated private workspace note",
       "summary": "1 text node(s); longinus-on-sublimity.",
       "tags": [
@@ -1387,7 +1659,8 @@
         "authority",
         "beauty-and-ascent",
         "poetry-and-judgment",
-        "sublimity"
+        "sublimity",
+        "taste-and-standards"
       ],
       "text_id": "",
       "thinker": "Longinus",
@@ -1564,12 +1837,43 @@
         "authorship-and-authority",
         "education-and-civic-life",
         "poetry-and-judgment",
+        "taste-and-standards",
+        "theater-and-public-judgment"
+      ],
+      "id": "thinker:samuel-johnson",
+      "kind": "thinker",
+      "review_pressure": 21,
+      "search_text": "samuel johnson 1 text node(s); johnson-selected-critical-prose. samuel johnson  generated private workspace note authorship-and-authority criticism education-and-civic-life fiction poetry-and-judgment public-judgment shakespeare taste-and-standards theater-and-public-judgment authorship-and-authority education-and-civic-life poetry-and-judgment taste-and-standards theater-and-public-judgment",
+      "status": "generated private workspace note",
+      "summary": "1 text node(s); johnson-selected-critical-prose.",
+      "tags": [
+        "authorship-and-authority",
+        "criticism",
+        "education-and-civic-life",
+        "fiction",
+        "poetry-and-judgment",
+        "public-judgment",
+        "shakespeare",
+        "taste-and-standards",
+        "theater-and-public-judgment"
+      ],
+      "text_id": "",
+      "thinker": "Samuel Johnson",
+      "title": "Samuel Johnson",
+      "url": "/workspace/thinkers/samuel-johnson/"
+    },
+    {
+      "constellations": [
+        "authorship-and-authority",
+        "education-and-civic-life",
+        "poetry-and-judgment",
+        "taste-and-standards",
         "vernacular-and-institution"
       ],
       "id": "thinker:sir-philip-sidney",
       "kind": "thinker",
       "review_pressure": 39,
-      "search_text": "sir philip sidney 1 text node(s); sidney-defense-of-poesy. sir philip sidney  generated private workspace note authorship-and-authority civic-formation education education-and-civic-life poetry poetry-and-judgment rhetoric vernacular-and-institution authorship-and-authority education-and-civic-life poetry-and-judgment vernacular-and-institution",
+      "search_text": "sir philip sidney 1 text node(s); sidney-defense-of-poesy. sir philip sidney  generated private workspace note authorship-and-authority civic-formation education education-and-civic-life poetry poetry-and-judgment rhetoric taste-and-standards vernacular-and-institution authorship-and-authority education-and-civic-life poetry-and-judgment taste-and-standards vernacular-and-institution",
       "status": "generated private workspace note",
       "summary": "1 text node(s); sidney-defense-of-poesy.",
       "tags": [
@@ -1580,6 +1884,7 @@
         "poetry",
         "poetry-and-judgment",
         "rhetoric",
+        "taste-and-standards",
         "vernacular-and-institution"
       ],
       "text_id": "",
@@ -1612,34 +1917,36 @@
       "url": "/workspace/thinkers/thomas-aquinas/"
     }
   ],
-  "entry_count": 68,
+  "entry_count": 79,
   "filters": {
     "constellations": {
-      "authorship-and-authority": 11,
+      "authorship-and-authority": 17,
       "beauty-and-ascent": 7,
       "commentary-and-afterlife": 17,
-      "education-and-civic-life": 15,
-      "poetry-and-judgment": 23,
+      "education-and-civic-life": 19,
+      "poetry-and-judgment": 33,
       "rhetoric-and-force": 12,
       "signs-and-reading": 15,
-      "theater-and-public-judgment": 11,
+      "taste-and-standards": 13,
+      "theater-and-public-judgment": 13,
       "vernacular-and-institution": 13
     },
     "kinds": {
       "chapter": 6,
-      "constellation": 9,
+      "constellation": 10,
       "passage": 3,
-      "text": 25,
-      "thinker": 25
+      "text": 30,
+      "thinker": 30
     },
     "statuses": {
       "chapter draft": 6,
-      "edition-review-needed": 25,
-      "generated private workspace note": 25,
-      "private constellation draft": 9,
+      "edition-review-needed": 30,
+      "generated private workspace note": 30,
+      "private constellation draft": 10,
       "private restricted note; public quotation pending edition review": 3
     },
     "tags": {
+      "addison-spectator-essays": 3,
       "aesthetics": 2,
       "agency": 1,
       "allegory": 9,
@@ -1650,8 +1957,8 @@
       "audience": 5,
       "augustine-on-christian-doctrine-trinity": 2,
       "authority": 8,
-      "authorship": 3,
-      "authorship-and-authority": 10,
+      "authorship": 5,
+      "authorship-and-authority": 16,
       "beauty": 2,
       "beauty-and-ascent": 6,
       "belief": 1,
@@ -1665,9 +1972,11 @@
       "classification": 2,
       "commentary": 5,
       "commentary-and-afterlife": 16,
+      "consensus": 3,
       "corneille-three-unities": 2,
       "counterfactual": 1,
       "craft": 7,
+      "criticism": 5,
       "dante-il-convivio-letter-can-grande": 3,
       "decorum": 2,
       "defense-of-poetry": 2,
@@ -1675,11 +1984,14 @@
       "drama": 5,
       "dryden-selected-critical-prose": 3,
       "education": 10,
-      "education-and-civic-life": 14,
+      "education-and-civic-life": 18,
+      "empiricism": 2,
       "excess": 1,
+      "fiction": 2,
       "force": 1,
       "form": 2,
       "gender": 5,
+      "genius": 2,
       "genre": 6,
       "geoffrey-poetria-nova": 2,
       "giacopo-mazzoni-defense-comedy-dante": 1,
@@ -1689,17 +2001,20 @@
       "horace-ars-poetica": 1,
       "hugh-didascalicon": 3,
       "humanism": 2,
-      "imitation": 3,
+      "hume-standard-of-taste": 2,
+      "imagination": 2,
+      "imitation": 5,
       "inheritance": 1,
       "institutional-judgment": 2,
       "institutions": 2,
       "interpretation": 9,
       "inward-reading": 1,
       "joachim-du-bellay-defense-french-language": 3,
-      "judgment": 3,
+      "johnson-selected-critical-prose": 5,
+      "judgment": 7,
       "language": 4,
       "literary-judgment": 2,
-      "longinus-on-sublimity": 2,
+      "longinus-on-sublimity": 3,
       "macrobius-dream-scipio": 1,
       "maimonides-guide-perplexed": 2,
       "memory": 4,
@@ -1710,7 +2025,9 @@
       "myth": 1,
       "mythology": 2,
       "nation": 3,
+      "neoclassicism": 2,
       "orientation": 1,
+      "originality": 2,
       "pedagogy": 7,
       "persuasion": 3,
       "pierre-de-ronsard-art-french-poetry": 2,
@@ -1718,8 +2035,10 @@
       "plotinus-enneads": 1,
       "poetics": 12,
       "poetry": 2,
-      "poetry-and-judgment": 22,
-      "public-judgment": 2,
+      "poetry-and-judgment": 32,
+      "pope-essay-on-criticism": 3,
+      "public-judgment": 4,
+      "public-sphere": 2,
       "quintilian-institutio-oratoria": 2,
       "reading": 2,
       "reason": 2,
@@ -1729,14 +2048,17 @@
       "romance": 2,
       "rules": 3,
       "rupture": 1,
-      "sidney-defense-of-poesy": 4,
+      "shakespeare": 2,
+      "sidney-defense-of-poesy": 5,
       "signs": 2,
       "signs-and-reading": 14,
       "speech": 2,
       "sublimity": 3,
+      "taste": 5,
+      "taste-and-standards": 12,
       "tension": 2,
       "theater": 2,
-      "theater-and-public-judgment": 10,
+      "theater-and-public-judgment": 12,
       "theology": 4,
       "theory": 1,
       "thomas-aquinas-summa-theologica": 2,
@@ -1745,14 +2067,19 @@
       "vernacular": 9,
       "vernacular-and-institution": 12,
       "vico-new-science": 3,
-      "writing": 3
+      "wit": 4,
+      "writing": 3,
+      "young-conjectures-original-composition": 2
     },
     "thinkers": {
+      "Alexander Pope": 2,
       "Aphra Behn": 2,
       "Aristotle": 2,
       "Augustine of Hippo": 2,
       "Christine de Pizan": 2,
       "Dante Alighieri": 2,
+      "David Hume": 2,
+      "Edward Young": 2,
       "Geoffrey of Vinsauf": 2,
       "Giacopo Mazzoni": 2,
       "Giambattista Giraldi": 2,
@@ -1764,6 +2091,7 @@
       "Hugh of St. Victor": 2,
       "Joachim du Bellay": 2,
       "John Dryden": 2,
+      "Joseph Addison": 2,
       "Longinus": 2,
       "Macrobius": 2,
       "Moses Maimonides": 2,
@@ -1772,12 +2100,13 @@
       "Plato": 2,
       "Plotinus": 2,
       "Quintilian": 2,
+      "Samuel Johnson": 2,
       "Sir Philip Sidney": 2,
       "Thomas Aquinas": 2
     }
   },
-  "generated_at": "2026-06-13T04:29:49Z",
-  "git_commit": "1665a30",
+  "generated_at": "2026-06-13T04:33:25Z",
+  "git_commit": "7a6d90c",
   "script_version": "1",
   "source_id": "norton-theory-criticism"
 }

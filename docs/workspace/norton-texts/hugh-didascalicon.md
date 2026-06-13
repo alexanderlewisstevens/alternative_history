@@ -90,8 +90,8 @@ This note turns the current Norton chunk for Hugh of St. Victor into a navigable
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/hugh-of-st-victor.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T04:29:48Z` |
-| Git commit | `1665a30` |
+| Generated at | `2026-06-13T04:33:24Z` |
+| Git commit | `7a6d90c` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/hugh-didascalicon.md` |
 

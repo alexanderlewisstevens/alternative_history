@@ -20,7 +20,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [On Sublimity](../norton-texts/longinus-on-sublimity.md) | 177-196 | 19 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[beauty-and-ascent](../beauty-and-ascent.md) | `edition-review-needed` |
+| [On Sublimity](../norton-texts/longinus-on-sublimity.md) | 177-196 | 19 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[beauty-and-ascent](../beauty-and-ascent.md)<br>[taste-and-standards](../taste-and-standards.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -30,6 +30,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 - [beauty-and-ascent](../beauty-and-ascent.md)
 - [poetry-and-judgment](../poetry-and-judgment.md)
+- [taste-and-standards](../taste-and-standards.md)
 
 ## Review Pressure
 
@@ -88,8 +89,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T04:29:46Z` |
-| Git commit | `1665a30` |
+| Generated at | `2026-06-13T04:33:22Z` |
+| Git commit | `7a6d90c` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/longinus.md` |
 

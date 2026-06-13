@@ -265,6 +265,56 @@ curated_texts:
       - institutions
       - civic-knowledge
     status: edition-review-needed
+  - id: addison-spectator-essays
+    title: The Spectator, Nos. 62 and 412
+    creator: Joseph Addison
+    role: core-text-candidate
+    themes:
+      - wit
+      - imagination
+      - taste
+      - public-sphere
+    status: edition-review-needed
+  - id: young-conjectures-original-composition
+    title: Conjectures on Original Composition
+    creator: Edward Young
+    role: core-text-candidate
+    themes:
+      - originality
+      - imitation
+      - authorship
+      - genius
+    status: edition-review-needed
+  - id: pope-essay-on-criticism
+    title: An Essay on Criticism
+    creator: Alexander Pope
+    role: core-text-candidate
+    themes:
+      - criticism
+      - judgment
+      - wit
+      - neoclassicism
+    status: edition-review-needed
+  - id: johnson-selected-critical-prose
+    title: Selected Critical Prose
+    creator: Samuel Johnson
+    role: core-text-candidate
+    themes:
+      - fiction
+      - shakespeare
+      - criticism
+      - public-judgment
+    status: edition-review-needed
+  - id: hume-standard-of-taste
+    title: Of the Standard of Taste
+    creator: David Hume
+    role: core-text-candidate
+    themes:
+      - taste
+      - judgment
+      - empiricism
+      - consensus
+    status: edition-review-needed
 
 constellations:
   - id: rhetoric-and-force
@@ -292,6 +342,11 @@ constellations:
       - corneille-three-unities
       - dryden-selected-critical-prose
       - aphra-behn-dutch-lover-lucky-chance
+      - addison-spectator-essays
+      - young-conjectures-original-composition
+      - pope-essay-on-criticism
+      - johnson-selected-critical-prose
+      - hume-standard-of-taste
     relations:
       - tension
       - craft
@@ -345,6 +400,8 @@ constellations:
       - christine-de-pizan-city-of-ladies
       - sidney-defense-of-poesy
       - vico-new-science
+      - addison-spectator-essays
+      - johnson-selected-critical-prose
     relations:
       - pedagogy
       - civic-formation
@@ -370,6 +427,7 @@ constellations:
       - corneille-three-unities
       - dryden-selected-critical-prose
       - aphra-behn-dutch-lover-lucky-chance
+      - johnson-selected-critical-prose
     relations:
       - drama
       - audience
@@ -382,10 +440,26 @@ constellations:
       - sidney-defense-of-poesy
       - dryden-selected-critical-prose
       - aphra-behn-dutch-lover-lucky-chance
+      - young-conjectures-original-composition
+      - pope-essay-on-criticism
+      - johnson-selected-critical-prose
     relations:
       - authorship
       - gender
       - authority
+  - id: taste-and-standards
+    question: How do communities make judgments of taste?
+    texts:
+      - longinus-on-sublimity
+      - sidney-defense-of-poesy
+      - addison-spectator-essays
+      - pope-essay-on-criticism
+      - johnson-selected-critical-prose
+      - hume-standard-of-taste
+    relations:
+      - taste
+      - criticism
+      - consensus
 
 research_tools:
   - id: worldcat

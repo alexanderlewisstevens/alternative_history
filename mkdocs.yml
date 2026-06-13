@@ -55,6 +55,11 @@ nav:
           - Dryden, Selected Critical Prose: workspace/norton-texts/dryden-selected-critical-prose.md
           - Behn, The Dutch Lover and The Lucky Chance: workspace/norton-texts/aphra-behn-dutch-lover-lucky-chance.md
           - Vico, The New Science: workspace/norton-texts/vico-new-science.md
+          - Addison, The Spectator Essays: workspace/norton-texts/addison-spectator-essays.md
+          - Young, Conjectures on Original Composition: workspace/norton-texts/young-conjectures-original-composition.md
+          - Pope, An Essay on Criticism: workspace/norton-texts/pope-essay-on-criticism.md
+          - Johnson, Selected Critical Prose: workspace/norton-texts/johnson-selected-critical-prose.md
+          - Hume, Of the Standard of Taste: workspace/norton-texts/hume-standard-of-taste.md
       - Thinker Notes:
           - Index: workspace/thinkers/index.md
           - Gorgias of Leontini: workspace/thinkers/gorgias-of-leontini.md
@@ -82,6 +87,11 @@ nav:
           - John Dryden: workspace/thinkers/john-dryden.md
           - Aphra Behn: workspace/thinkers/aphra-behn.md
           - Giambattista Vico: workspace/thinkers/giambattista-vico.md
+          - Joseph Addison: workspace/thinkers/joseph-addison.md
+          - Edward Young: workspace/thinkers/edward-young.md
+          - Alexander Pope: workspace/thinkers/alexander-pope.md
+          - Samuel Johnson: workspace/thinkers/samuel-johnson.md
+          - David Hume: workspace/thinkers/david-hume.md
       - Passage Notes:
           - Index: workspace/passages/index.md
           - Speech As Force: workspace/passages/gorgias-speech-as-force.md
@@ -96,6 +106,7 @@ nav:
       - Vernacular And Institution: workspace/vernacular-and-institution.md
       - Theater And Public Judgment: workspace/theater-and-public-judgment.md
       - Authorship And Authority: workspace/authorship-and-authority.md
+      - Taste And Standards: workspace/taste-and-standards.md
       - Page Anatomy: workspace/page-anatomy.md
       - Gorgias Text Note: workspace/gorgias-encomium-helen.md
   - Project Notes:

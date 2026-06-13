@@ -20,11 +20,11 @@ This note turns the current Norton chunk for Giambattista Vico into a navigable 
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Chunk Status</span>
-  <h3>Norton Pages 441-447</h3>
-  <p><strong>Page count:</strong> 7</p>
+  <h3>Norton Pages 441-457</h3>
+  <p><strong>Page count:</strong> 17</p>
   <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/giambattista-vico.md</code></p>
-  <p><strong>Page kinds:</strong> excerpt: 4<br>author_intro: 2<br>mixed_excerpt_bibliography: 1</p>
-  <p><strong>Review pressure:</strong> 4 rows. transition_from_previous_author: 2<br>mixed_excerpt_and_bibliography: 1<br>multi_column_layout: 1<br>source_notes_detected: 1</p>
+  <p><strong>Page kinds:</strong> excerpt: 14<br>author_intro: 2<br>mixed_excerpt_bibliography: 1</p>
+  <p><strong>Review pressure:</strong> 11 rows. multi_column_layout: 6<br>source_notes_detected: 6<br>transition_from_previous_author: 2<br>mixed_excerpt_and_bibliography: 1<br>author_boundary_without_life_dates: 1</p>
 </section>
 
 ## Works And Excerpt Blocks
@@ -44,7 +44,7 @@ This note turns the current Norton chunk for Giambattista Vico into a navigable 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Anchor Candidates</span>
   <h3>Choose Passages After Review</h3>
-  <p><strong>Source location:</strong> Norton page range 441-447.</p>
+  <p><strong>Source location:</strong> Norton page range 441-457.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
   <p><strong>Use:</strong> Find the passages that make this text active inside commentary-and-afterlife, education-and-civic-life, vernacular-and-institution.</p>
 </section>
@@ -52,7 +52,7 @@ This note turns the current Norton chunk for Giambattista Vico into a navigable 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Review Before Quoting</span>
   <h3>Layout, Notes, And Bibliography</h3>
-  <p><strong>Review signal:</strong> transition_from_previous_author: 2<br>mixed_excerpt_and_bibliography: 1<br>multi_column_layout: 1<br>source_notes_detected: 1</p>
+  <p><strong>Review signal:</strong> multi_column_layout: 6<br>source_notes_detected: 6<br>transition_from_previous_author: 2<br>mixed_excerpt_and_bibliography: 1<br>author_boundary_without_life_dates: 1</p>
   <p><strong>Editorial rule:</strong> source notes belong in source-note fields, bibliography belongs in bibliography fields, and excerpt text stays separate.</p>
 </section>
 
@@ -90,8 +90,8 @@ This note turns the current Norton chunk for Giambattista Vico into a navigable 
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/giambattista-vico.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T04:29:48Z` |
-| Git commit | `1665a30` |
+| Generated at | `2026-06-13T04:33:24Z` |
+| Git commit | `7a6d90c` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/vico-new-science.md` |
 

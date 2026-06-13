@@ -1,10 +1,10 @@
-# Pierre de Ronsard, A Brief on the Art of French Poetry
+# Samuel Johnson, Selected Critical Prose
 
 <div class="ah-note-meta">
   <span><strong>Type:</strong> Norton text node</span>
   <span><strong>Status:</strong> generated private workspace note</span>
   <span><strong>Source mode:</strong> restricted metadata only</span>
-  <span><strong>Tags:</strong> poetics, craft, vernacular, education</span>
+  <span><strong>Tags:</strong> fiction, shakespeare, criticism, public-judgment</span>
 </div>
 
 <div class="ah-private-banner">
@@ -14,44 +14,50 @@
 
 ## Working Use
 
-This note turns the current Norton chunk for Pierre de Ronsard into a navigable workspace node. Use it to move between the restricted draft, the curated text spine, the first constellations, and the review queue before writing public-facing commentary.
+This note turns the current Norton chunk for Samuel Johnson into a navigable workspace node. Use it to move between the restricted draft, the curated text spine, the first constellations, and the review queue before writing public-facing commentary.
 
 ## Current Chunk
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Chunk Status</span>
-  <h3>Norton Pages 333-341</h3>
-  <p><strong>Page count:</strong> 9</p>
-  <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/pierre-de-ronsard.md</code></p>
-  <p><strong>Page kinds:</strong> excerpt: 6<br>author_intro: 3</p>
-  <p><strong>Review pressure:</strong> 5 rows. transition_from_previous_author: 3<br>multi_column_layout: 2<br>source_notes_detected: 2</p>
+  <h3>Norton Pages 500-524</h3>
+  <p><strong>Page count:</strong> 25</p>
+  <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/samuel-johnson.md</code></p>
+  <p><strong>Page kinds:</strong> excerpt: 18<br>author_intro: 7</p>
+  <p><strong>Review pressure:</strong> 21 rows. multi_column_layout: 9<br>source_notes_detected: 9<br>transition_from_previous_author: 7</p>
 </section>
 
 ## Works And Excerpt Blocks
 
-- A Brief on the Art of French Poetry
+- Selected Critical Prose
+- Preface to Shakespeare
+- The History of Rasselas
+- The Rambler, No
 
 ## Constellations
 
 | Constellation | Core Question | Relations |
 | --- | --- | --- |
 | [poetry-and-judgment](../poetry-and-judgment.md) | Who gets to judge art? | tension, craft, excess |
-| [vernacular-and-institution](../vernacular-and-institution.md) | How do languages become institutions of thought? | vernacular, imitation, nation |
+| [education-and-civic-life](../education-and-civic-life.md) | What should education make possible for citizens? | pedagogy, civic-formation, authority |
+| [theater-and-public-judgment](../theater-and-public-judgment.md) | How does theater train or expose public judgment? | drama, audience, rules |
+| [authorship-and-authority](../authorship-and-authority.md) | Who is allowed to speak as an author? | authorship, gender, authority |
+| [taste-and-standards](../taste-and-standards.md) | How do communities make judgments of taste? | taste, criticism, consensus |
 
 ## Passage Queue
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Anchor Candidates</span>
   <h3>Choose Passages After Review</h3>
-  <p><strong>Source location:</strong> Norton page range 333-341.</p>
+  <p><strong>Source location:</strong> Norton page range 500-524.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
-  <p><strong>Use:</strong> Find the passages that make this text active inside poetry-and-judgment, vernacular-and-institution.</p>
+  <p><strong>Use:</strong> Find the passages that make this text active inside poetry-and-judgment, education-and-civic-life, theater-and-public-judgment, authorship-and-authority, taste-and-standards.</p>
 </section>
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Review Before Quoting</span>
   <h3>Layout, Notes, And Bibliography</h3>
-  <p><strong>Review signal:</strong> transition_from_previous_author: 3<br>multi_column_layout: 2<br>source_notes_detected: 2</p>
+  <p><strong>Review signal:</strong> multi_column_layout: 9<br>source_notes_detected: 9<br>transition_from_previous_author: 7</p>
   <p><strong>Editorial rule:</strong> source notes belong in source-note fields, bibliography belongs in bibliography fields, and excerpt text stays separate.</p>
 </section>
 
@@ -80,19 +86,19 @@ This note turns the current Norton chunk for Pierre de Ronsard into a navigable 
 
 | Field | Value |
 | --- | --- |
-| Text ID | `pierre-de-ronsard-art-french-poetry` |
-| Curated title | A Brief on the Art of French Poetry |
-| Creator | Pierre de Ronsard |
-| Thinker note | [Pierre de Ronsard](../thinkers/pierre-de-ronsard.md) |
+| Text ID | `johnson-selected-critical-prose` |
+| Curated title | Selected Critical Prose |
+| Creator | Samuel Johnson |
+| Thinker note | [Samuel Johnson](../thinkers/samuel-johnson.md) |
 | Register status | `edition-review-needed` |
 | Source anthology | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Restricted draft | `generated/authors/norton-theory-criticism/pierre-de-ronsard.md` |
+| Restricted draft | `generated/authors/norton-theory-criticism/samuel-johnson.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
 | Generated at | `2026-06-13T04:33:24Z` |
 | Git commit | `7a6d90c` |
 | Script version | `2` |
-| Output path | `docs/workspace/norton-texts/pierre-de-ronsard-art-french-poetry.md` |
+| Output path | `docs/workspace/norton-texts/johnson-selected-critical-prose.md` |
 
 ## Backlinks
 
@@ -101,10 +107,13 @@ This note turns the current Norton chunk for Pierre de Ronsard into a navigable 
 <li><a href="../../norton-map/">Norton Workspace Map</a></li>
 <li><a href="../../">Private Knowledge Base</a></li>
 <li><a href="../../../catalog/sources/">Text Catalog</a></li>
-<li>Thinker: <a href="../../thinkers/pierre-de-ronsard/">Pierre de Ronsard</a></li>
+<li>Thinker: <a href="../../thinkers/samuel-johnson/">Samuel Johnson</a></li>
 <li><a href="../../passages/">Passage Notes</a></li>
 <li><a href="../../poetry-and-judgment/">poetry-and-judgment</a></li>
-<li><a href="../../vernacular-and-institution/">vernacular-and-institution</a></li>
+<li><a href="../../education-and-civic-life/">education-and-civic-life</a></li>
+<li><a href="../../theater-and-public-judgment/">theater-and-public-judgment</a></li>
+<li><a href="../../authorship-and-authority/">authorship-and-authority</a></li>
+<li><a href="../../taste-and-standards/">taste-and-standards</a></li>
 </ul>
 
 ## Open Questions

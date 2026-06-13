@@ -1,10 +1,10 @@
-# Giambattista Giraldi
+# Edward Young
 
 <div class="ah-note-meta">
   <span><strong>Type:</strong> thinker node</span>
   <span><strong>Status:</strong> generated private workspace note</span>
   <span><strong>Source mode:</strong> restricted metadata only</span>
-  <span><strong>Tags:</strong> genre, poetics, romance, vernacular</span>
+  <span><strong>Tags:</strong> authorship, genius, imitation, originality</span>
 </div>
 
 <div class="ah-private-banner">
@@ -20,25 +20,24 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [Discourse on the Composition of Romances](../norton-texts/giambattista-giraldi-composition-romances.md) | 313-320 | 7 | 0 | [vernacular-and-institution](../vernacular-and-institution.md)<br>[theater-and-public-judgment](../theater-and-public-judgment.md) | `edition-review-needed` |
+| [Conjectures on Original Composition](../norton-texts/young-conjectures-original-composition.md) | 468-479 | 11 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[authorship-and-authority](../authorship-and-authority.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
-- Discourse on the Composition of Romances
-- a contemporary perspective, one jarring aspect of Giraldi&#x27;s theory of decorum
+- Conjectures on Original Composition
 
 ## Constellation Backlinks
 
-- [theater-and-public-judgment](../theater-and-public-judgment.md)
-- [vernacular-and-institution](../vernacular-and-institution.md)
+- [authorship-and-authority](../authorship-and-authority.md)
+- [poetry-and-judgment](../poetry-and-judgment.md)
 
 ## Review Pressure
 
 | Signal | Value |
 | --- | --- |
-| Page kinds | excerpt: 6<br>author_intro: 2 |
-| Review rows | 7 |
-| Review reasons | multi_column_layout: 4<br>transition_from_previous_author: 2<br>source_notes_detected: 2 |
+| Page kinds | excerpt: 10<br>author_intro: 1<br>mixed_excerpt_bibliography: 1 |
+| Review rows | 11 |
+| Review reasons | source_notes_detected: 9<br>multi_column_layout: 8<br>transition_from_previous_author: 1<br>mixed_excerpt_and_bibliography: 1 |
 
 ## Passage Queue
 
@@ -85,14 +84,14 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Field | Value |
 | --- | --- |
-| Thinker slug | `giambattista-giraldi` |
+| Thinker slug | `edward-young` |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Generated at | `2026-06-13T04:33:22Z` |
 | Git commit | `7a6d90c` |
 | Script version | `1` |
-| Output path | `docs/workspace/thinkers/giambattista-giraldi.md` |
+| Output path | `docs/workspace/thinkers/edward-young.md` |
 
 ## Open Questions
 

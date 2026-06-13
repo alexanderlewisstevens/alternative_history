@@ -20,7 +20,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [The Defense of Poesy](../norton-texts/sidney-defense-of-poesy.md) | 365-404 | 39 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[authorship-and-authority](../authorship-and-authority.md) | `edition-review-needed` |
+| [The Defense of Poesy](../norton-texts/sidney-defense-of-poesy.md) | 365-404 | 39 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -32,6 +32,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 - [authorship-and-authority](../authorship-and-authority.md)
 - [education-and-civic-life](../education-and-civic-life.md)
 - [poetry-and-judgment](../poetry-and-judgment.md)
+- [taste-and-standards](../taste-and-standards.md)
 - [vernacular-and-institution](../vernacular-and-institution.md)
 
 ## Review Pressure
@@ -91,8 +92,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T04:29:46Z` |
-| Git commit | `1665a30` |
+| Generated at | `2026-06-13T04:33:22Z` |
+| Git commit | `7a6d90c` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/sir-philip-sidney.md` |
 
