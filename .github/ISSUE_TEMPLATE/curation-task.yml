@@ -1,0 +1,43 @@
+name: Curation Task
+description: Track a thinker, text, constellation, chapter, or interpretive problem that needs editorial work.
+title: "[Curation] "
+labels:
+  - curation
+  - editorial
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this for intentional additions to the reader, not broad scrape requests.
+  - type: input
+    id: target
+    attributes:
+      label: Target
+      description: Name the thinker, text, constellation, chapter, or historical problem.
+      placeholder: "Example: Rhetoric And Force constellation"
+    validations:
+      required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Why It Belongs
+      description: Explain why this belongs in the theory-and-criticism reader.
+      placeholder: "What does this change about how readers understand history, interpretation, memory, power, or evidence?"
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Candidate Sources
+      description: List editions, translations, catalog links, or local source records.
+      placeholder: "- Source title, edition, rights status if known"
+    validations:
+      required: false
+  - type: textarea
+    id: done
+    attributes:
+      label: Done When
+      description: Define the editorial outcome clearly.
+      placeholder: "- Public page drafted\n- Rights status recorded\n- Linked from catalog or constellation"
+    validations:
+      required: true

@@ -1,0 +1,208 @@
+# Structured source metadata for curated source selection.
+# Keep this in sync with docs/catalog/sources.md as the project grows.
+
+collection_policy:
+  scope: curated-theory-and-criticism-reader
+  out_of_scope:
+    - broad-scraping
+    - topic-crawling
+    - unsupervised-harvesting
+    - repository-dumps
+  selection_rule: "A source needs an editorial reason before extraction or public promotion."
+
+curated_texts:
+  - id: norton-theory-criticism
+    title: The Norton Anthology of Theory and Criticism
+    creator: Vincent B. Leitch et al.
+    role: restricted-extraction-testbed
+    themes:
+      - theory
+      - criticism
+      - anthology
+      - extraction-workflow
+    status: restricted
+    rights_note: "Do not publish copied text unless specific material is separately rights-cleared."
+  - id: gorgias-encomium-helen
+    title: Encomium of Helen
+    creator: Gorgias
+    role: core-text-candidate
+    themes:
+      - rhetoric
+      - persuasion
+      - speech
+    status: edition-review-needed
+  - id: plato-selected-dialogues
+    title: Selected dialogues
+    creator: Plato
+    role: core-text-candidate
+    themes:
+      - mimesis
+      - writing
+      - memory
+      - pedagogy
+    status: edition-review-needed
+  - id: aristotle-poetics-rhetoric
+    title: Poetics and Rhetoric
+    creator: Aristotle
+    role: core-text-candidate
+    themes:
+      - poetics
+      - rhetoric
+      - genre
+      - audience
+    status: edition-review-needed
+  - id: horace-ars-poetica
+    title: Ars Poetica
+    creator: Horace
+    role: core-text-candidate
+    themes:
+      - literary-judgment
+      - craft
+      - decorum
+    status: edition-review-needed
+  - id: longinus-on-sublimity
+    title: On Sublimity
+    creator: Longinus
+    role: core-text-candidate
+    themes:
+      - sublimity
+      - aesthetics
+      - authority
+    status: edition-review-needed
+  - id: quintilian-institutio-oratoria
+    title: Institutio Oratoria
+    creator: Quintilian
+    role: core-text-candidate
+    themes:
+      - rhetoric
+      - education
+      - civic-formation
+    status: edition-review-needed
+  - id: plotinus-enneads
+    title: Selected Enneads
+    creator: Plotinus
+    role: core-text-candidate
+    themes:
+      - beauty
+      - form
+      - metaphysics
+    status: edition-review-needed
+  - id: augustine-on-christian-doctrine-trinity
+    title: On Christian Doctrine and The Trinity
+    creator: Augustine of Hippo
+    role: core-text-candidate
+    themes:
+      - interpretation
+      - signs
+      - theology
+      - authority
+    status: edition-review-needed
+  - id: macrobius-dream-scipio
+    title: Commentary on the Dream of Scipio
+    creator: Macrobius
+    role: core-text-candidate
+    themes:
+      - commentary
+      - transmission
+      - allegory
+    status: edition-review-needed
+  - id: hugh-didascalicon
+    title: The Didascalicon
+    creator: Hugh of St. Victor
+    role: core-text-candidate
+    themes:
+      - reading
+      - pedagogy
+      - classification
+    status: edition-review-needed
+  - id: maimonides-guide-perplexed
+    title: The Guide of the Perplexed
+    creator: Moses Maimonides
+    role: core-text-candidate
+    themes:
+      - allegory
+      - reason
+      - revelation
+      - interpretation
+    status: edition-review-needed
+
+constellations:
+  - id: rhetoric-and-force
+    question: What can speech do?
+    texts:
+      - gorgias-encomium-helen
+      - plato-selected-dialogues
+      - aristotle-poetics-rhetoric
+      - quintilian-institutio-oratoria
+    relations:
+      - tension
+      - civic-discipline
+      - inheritance
+  - id: poetry-and-judgment
+    question: Who gets to judge art?
+    texts:
+      - plato-selected-dialogues
+      - aristotle-poetics-rhetoric
+      - horace-ars-poetica
+      - longinus-on-sublimity
+    relations:
+      - tension
+      - craft
+      - excess
+  - id: signs-and-reading
+    question: How should difficult texts be read?
+    texts:
+      - plato-selected-dialogues
+      - augustine-on-christian-doctrine-trinity
+      - hugh-didascalicon
+      - maimonides-guide-perplexed
+    relations:
+      - writing
+      - interpretation
+      - allegory
+  - id: beauty-and-ascent
+    question: When does beauty become a way of knowing?
+    texts:
+      - longinus-on-sublimity
+      - plotinus-enneads
+      - augustine-on-christian-doctrine-trinity
+    relations:
+      - sublimity
+      - ascent
+      - inward-reading
+  - id: commentary-and-afterlife
+    question: How do texts survive by being reread?
+    texts:
+      - macrobius-dream-scipio
+      - hugh-didascalicon
+      - maimonides-guide-perplexed
+    relations:
+      - commentary
+      - transmission
+      - disciplined-reading
+
+research_tools:
+  - id: worldcat
+    name: WorldCat
+    url: https://www.worldcat.org/
+    use: edition-discovery
+  - id: internet-archive-texts
+    name: Internet Archive Texts
+    url: https://archive.org/details/texts
+    use: named-edition-inspection
+  - id: hathitrust
+    name: HathiTrust Digital Library
+    url: https://www.hathitrust.org/
+    use: named-edition-inspection
+  - id: project-gutenberg
+    name: Project Gutenberg
+    url: https://www.gutenberg.org/
+    use: public-domain-reading-copy-discovery
+  - id: standard-ebooks
+    name: Standard Ebooks
+    url: https://standardebooks.org/
+    use: public-domain-reading-copy-discovery
+  - id: wikisource
+    name: Wikisource
+    url: https://en.wikisource.org/
+    use: source-text-and-license-checking

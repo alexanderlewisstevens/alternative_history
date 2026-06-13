@@ -1,0 +1,43 @@
+name: Rights Review
+description: Track whether a passage, edition, image, or source can be promoted publicly.
+title: "[Rights] "
+labels:
+  - rights
+  - review
+body:
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: Name the source, edition, page range, or generated record.
+      placeholder: "Example: Norton Theory and Criticism, Gorgias pages 72-79"
+    validations:
+      required: true
+  - type: dropdown
+    id: current_status
+    attributes:
+      label: Current Rights Status
+      options:
+        - Unknown
+        - Public domain candidate
+        - Open license candidate
+        - Permission needed
+        - Restricted local-only source
+        - Fair-use review needed
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Add catalog records, copyright pages, license links, edition notes, or uncertainty.
+    validations:
+      required: true
+  - type: textarea
+    id: decision_needed
+    attributes:
+      label: Decision Needed
+      description: State the exact publication decision this issue should settle.
+      placeholder: "Can this excerpt be quoted publicly, summarized only, or kept restricted?"
+    validations:
+      required: true

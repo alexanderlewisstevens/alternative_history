@@ -1,0 +1,340 @@
+source_id: norton-theory-criticism
+notes: "Manual page-range corrections for Norton pilot runs. These are restricted extraction controls, not public source text."
+overrides:
+  - id: gorgias-headnote
+    pages: 71
+    author_name: Gorgias of Leontini
+    author_slug: gorgias-of-leontini
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+
+  - id: gorgias-encomium
+    pages: 72-74
+    author_name: Gorgias of Leontini
+    author_slug: gorgias-of-leontini
+    work_title: Encomium of Helen
+    work_slug: encomium-of-helen
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: plato-headnote
+    pages: 75
+    author_name: Plato
+    author_slug: plato
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+
+  - id: plato-headnote-continuation
+    pages: 76-78
+    author_name: Plato
+    author_slug: plato
+    page_kind: author_intro
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: plato-ion
+    pages: 79-90
+    author_name: Plato
+    author_slug: plato
+    work_title: Ion
+    work_slug: ion
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: plato-republic-book-ii
+    pages: 91-98
+    author_name: Plato
+    author_slug: plato
+    work_title: Republic, Book II
+    work_slug: republic-book-ii
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: plato-republic-book-iii
+    pages: 99-106
+    author_name: Plato
+    author_slug: plato
+    work_title: Republic, Book III
+    work_slug: republic-book-iii
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: plato-republic-book-vii
+    pages: 107-108
+    author_name: Plato
+    author_slug: plato
+    work_title: Republic, Book VII
+    work_slug: republic-book-vii
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: plato-republic-book-x
+    pages: 109-122
+    author_name: Plato
+    author_slug: plato
+    work_title: Republic, Book X
+    work_slug: republic-book-x
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: plato-phaedrus
+    pages: 123-127
+    author_name: Plato
+    author_slug: plato
+    work_title: Phaedrus
+    work_slug: phaedrus
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: aristotle-headnote
+    pages: 128-132
+    author_name: Aristotle
+    author_slug: aristotle
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+
+  - id: aristotle-poetics
+    pages: 133-158
+    author_name: Aristotle
+    author_slug: aristotle
+    work_title: Poetics
+    work_slug: poetics
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: aristotle-rhetoric-book-i-chapter-2
+    pages: 159-160
+    author_name: Aristotle
+    author_slug: aristotle
+    work_title: Rhetoric, Book I, Chapter 2
+    work_slug: rhetoric-book-i-chapter-2
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_work
+
+  - id: aristotle-rhetoric-book-ii-chapter-1
+    pages: 161-162
+    author_name: Aristotle
+    author_slug: aristotle
+    work_title: Rhetoric, Book II, Chapter 1
+    work_slug: rhetoric-book-ii-chapter-1
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: horace-headnote
+    pages: 163-166
+    author_name: Horace
+    author_slug: horace
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: horace-ars-poetica
+    pages: 167-176
+    author_name: Horace
+    author_slug: horace
+    work_title: Ars Poetica
+    work_slug: ars-poetica
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: longinus-headnote
+    pages: 177-180
+    author_name: Longinus
+    author_slug: longinus
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: longinus-on-sublimity
+    pages: 181-196
+    author_name: Longinus
+    author_slug: longinus
+    work_title: On Sublimity
+    work_slug: on-sublimity
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: quintilian-headnote
+    pages: 197-198
+    author_name: Quintilian
+    author_slug: quintilian
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+
+  - id: quintilian-institutio-oratoria
+    pages: 199-212
+    author_name: Quintilian
+    author_slug: quintilian
+    work_title: Institutio Oratoria
+    work_slug: institutio-oratoria
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: plotinus-headnote
+    pages: 213-216
+    author_name: Plotinus
+    author_slug: plotinus
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+
+  - id: plotinus-fifth-ennead
+    pages: 217-226
+    author_name: Plotinus
+    author_slug: plotinus
+    work_title: Fifth Ennead
+    work_slug: fifth-ennead
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: augustine-headnote
+    pages: 227-230
+    author_name: Augustine of Hippo
+    author_slug: augustine-of-hippo
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: augustine-on-christian-doctrine
+    pages: 231-234
+    author_name: Augustine of Hippo
+    author_slug: augustine-of-hippo
+    work_title: On Christian Doctrine
+    work_slug: on-christian-doctrine
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: augustine-the-trinity
+    pages: 235-237
+    author_name: Augustine of Hippo
+    author_slug: augustine-of-hippo
+    work_title: The Trinity
+    work_slug: the-trinity
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: macrobius-headnote
+    pages: 238-240
+    author_name: Macrobius
+    author_slug: macrobius
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: macrobius-commentary-dream-scipio
+    pages: 241-242
+    author_name: Macrobius
+    author_slug: macrobius
+    work_title: Commentary on the Dream of Scipio
+    work_slug: commentary-on-the-dream-of-scipio
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: hugh-of-st-victor-headnote
+    pages: 243-246
+    author_name: Hugh of St. Victor
+    author_slug: hugh-of-st-victor
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: hugh-of-st-victor-didascalicon
+    pages: 247-252
+    author_name: Hugh of St. Victor
+    author_slug: hugh-of-st-victor
+    work_title: The Didascalicon
+    work_slug: the-didascalicon
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: moses-maimonides-headnote
+    pages: 253-256
+    author_name: Moses Maimonides
+    author_slug: moses-maimonides
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: moses-maimonides-guide-perplexed
+    pages: 257-267
+    author_name: Moses Maimonides
+    author_slug: moses-maimonides
+    work_title: The Guide of the Perplexed
+    work_slug: the-guide-of-the-perplexed
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high

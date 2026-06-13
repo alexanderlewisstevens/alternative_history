@@ -1,0 +1,11 @@
+.DS_Store
+.venv/
+site/
+.site/
+.playwright-cli/
+__pycache__/
+*.pyc
+epdf.pub_the-norton-anthology-of-theory-and-criticism-5ea806ce63784.pdf
+Norton_Anthology_Sliced_Author/
+work/
+generated/

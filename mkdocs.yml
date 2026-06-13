@@ -1,0 +1,75 @@
+site_name: Alternative History
+site_description: A curated online reader in theory, criticism, historiography, and historical imagination.
+docs_dir: docs
+theme:
+  name: mkdocs
+extra_css:
+  - assets/stylesheets/alternative-history.css
+nav:
+  - Home: index.md
+  - Preface: preface.md
+  - Chapters:
+      - Start Here: chapters/00-start-here.md
+      - Methods: chapters/01-methods.md
+      - Rupture Points: chapters/02-rupture-points.md
+      - Erased Archives: chapters/03-erased-archives.md
+      - Counterfactual Method: chapters/04-counterfactual-method.md
+      - Memory and Myth: chapters/05-memory-and-myth.md
+  - Catalog:
+      - Texts: catalog/sources.md
+      - Thinkers: catalog/authors.md
+      - Constellations: catalog/constellations.md
+      - Historical Problems: catalog/events.md
+      - Excerpts: catalog/excerpts.md
+      - Bibliography: catalog/bibliography.md
+  - Workspace:
+      - Private Knowledge Base: workspace/index.md
+      - Norton Workspace Map: workspace/norton-map.md
+      - Norton Text Notes:
+          - Index: workspace/norton-texts/index.md
+          - Gorgias, Encomium of Helen: workspace/norton-texts/gorgias-encomium-helen.md
+          - Plato, Selected Dialogues: workspace/norton-texts/plato-selected-dialogues.md
+          - Aristotle, Poetics and Rhetoric: workspace/norton-texts/aristotle-poetics-rhetoric.md
+          - Horace, Ars Poetica: workspace/norton-texts/horace-ars-poetica.md
+          - Longinus, On Sublimity: workspace/norton-texts/longinus-on-sublimity.md
+          - Quintilian, Institutio Oratoria: workspace/norton-texts/quintilian-institutio-oratoria.md
+          - Plotinus, Selected Enneads: workspace/norton-texts/plotinus-enneads.md
+          - Augustine, On Christian Doctrine and The Trinity: workspace/norton-texts/augustine-on-christian-doctrine-trinity.md
+          - Macrobius, Commentary on the Dream of Scipio: workspace/norton-texts/macrobius-dream-scipio.md
+          - Hugh of St. Victor, The Didascalicon: workspace/norton-texts/hugh-didascalicon.md
+          - Maimonides, The Guide of the Perplexed: workspace/norton-texts/maimonides-guide-perplexed.md
+      - Thinker Notes:
+          - Index: workspace/thinkers/index.md
+          - Gorgias of Leontini: workspace/thinkers/gorgias-of-leontini.md
+          - Plato: workspace/thinkers/plato.md
+          - Aristotle: workspace/thinkers/aristotle.md
+          - Horace: workspace/thinkers/horace.md
+          - Longinus: workspace/thinkers/longinus.md
+          - Quintilian: workspace/thinkers/quintilian.md
+          - Plotinus: workspace/thinkers/plotinus.md
+          - Augustine of Hippo: workspace/thinkers/augustine-of-hippo.md
+          - Macrobius: workspace/thinkers/macrobius.md
+          - Hugh of St. Victor: workspace/thinkers/hugh-of-st-victor.md
+          - Moses Maimonides: workspace/thinkers/moses-maimonides.md
+      - Rhetoric And Force: workspace/rhetoric-and-force.md
+      - Poetry And Judgment: workspace/poetry-and-judgment.md
+      - Signs And Reading: workspace/signs-and-reading.md
+      - Beauty And Ascent: workspace/beauty-and-ascent.md
+      - Commentary And Afterlife: workspace/commentary-and-afterlife.md
+      - Page Anatomy: workspace/page-anatomy.md
+      - Gorgias Text Note: workspace/gorgias-encomium-helen.md
+  - Project Notes:
+      - Editorial Policy: _meta/editorial-policy.md
+      - Rights and Sourcing: _meta/rights-and-sourcing.md
+      - Style Guide: _meta/style-guide.md
+      - Template Contract: _meta/template-contract.md
+      - PDF Workflow: _meta/pdf-to-author-markdown-workflow.md
+      - Extraction Status: _meta/extraction-status.md
+      - Review Dashboard: _meta/review-dashboard.md
+      - Research Queue: _meta/research-queue.md
+      - Publishing: _meta/publishing.md
+markdown_extensions:
+  - toc:
+      permalink: true
+  - tables
+  - footnotes

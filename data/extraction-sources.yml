@@ -1,0 +1,19 @@
+sources:
+  - source_id: norton-theory-criticism
+    source_title: The Norton Anthology of Theory and Criticism
+    source_pdf: epdf.pub_the-norton-anthology-of-theory-and-criticism-5ea806ce63784.pdf
+    sliced_pages_dir: Norton_Anthology_Sliced_Author
+    classification_overrides: data/classification-overrides/norton-theory-criticism.yml
+    layout_dir: work/layout/norton-theory-criticism
+    classification_dir: work/classification/norton-theory-criticism
+    review_dir: work/review/norton-theory-criticism
+    prompts_dir: work/prompts/norton-theory-criticism
+    page_records_dir: work/page-records/norton-theory-criticism
+    author_drafts_dir: generated/authors/norton-theory-criticism
+    audit_dir: work/audit/norton-theory-criticism
+    source_rights_status: copyrighted
+    default_output_mode: summary_only
+    default_access_level: restricted
+    public_release: false
+    rights_evidence: "Commercial anthology PDF in local workspace; no public reuse permission recorded."
+    notes: "Use for restricted web-readable drafts, metadata, author boundary detection, bibliography extraction, source notes, and summaries unless rights status changes."

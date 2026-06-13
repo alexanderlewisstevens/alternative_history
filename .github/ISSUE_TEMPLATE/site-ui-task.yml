@@ -1,0 +1,31 @@
+name: Site Or UI Task
+description: Track reader-facing website, navigation, information architecture, and visual design work.
+title: "[Site] "
+labels:
+  - site
+  - ui
+body:
+  - type: textarea
+    id: reader_need
+    attributes:
+      label: Reader Need
+      description: Describe what the site should help a reader do.
+      placeholder: "Readers should be able to move from a thinker to related texts and constellations."
+    validations:
+      required: true
+  - type: textarea
+    id: affected_pages
+    attributes:
+      label: Affected Pages
+      description: List source Markdown pages, templates, generated pages, or URLs.
+      placeholder: "- docs/index.md\n- docs/catalog/constellations.md"
+    validations:
+      required: true
+  - type: textarea
+    id: done
+    attributes:
+      label: Done When
+      description: Define what should be visible in the local site.
+      placeholder: "- make build passes\n- local preview reflects the change\n- navigation remains clear on mobile and desktop"
+    validations:
+      required: true
