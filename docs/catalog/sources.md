@@ -20,7 +20,7 @@ Every candidate should answer three questions:
 
 | Source | Why It May Matter | Public Use Status |
 | --- | --- | --- |
-| *The Norton Anthology of Theory and Criticism* source scan | Working extraction testbed for author boundaries, page records, notes, bibliography separation, and multi-column layout. | Restricted. Do not publish copied text unless separately rights-cleared. |
+| *The Norton Anthology of Theory and Criticism* source scan | Important first spine for theory and criticism in higher education: rhetoric, poetics, interpretation, civic formation, pedagogy, public judgment, institutions, and the transmission of knowledge. Also the working extraction testbed for author boundaries, page records, notes, bibliography separation, and multi-column layout. | Restricted. Do not publish copied text unless separately rights-cleared. |
 | Gorgias, *Encomium of Helen* | Rhetoric, persuasion, speech as force, and the instability of blame. | Edition and translation review needed. |
 | Plato, selected dialogues | Mimesis, writing, memory, pedagogy, political order, and the suspicion of poetry. | Edition and translation review needed. |
 | Aristotle, *Poetics* and *Rhetoric* | Form, genre, persuasion, causality, audience, and critical vocabulary. | Edition and translation review needed. |
@@ -48,6 +48,18 @@ These are candidates for later reading paths, not bulk-ingestion targets.
 | Hannah Arendt, selected works | Totalitarianism, public action, judgment, history, and responsibility. | Copyrighted. Summarize or cite unless rights-cleared. |
 | Michel Foucault, selected works | Archives, discourse, discipline, power, and knowledge formation. | Copyrighted. Summarize or cite unless rights-cleared. |
 | Edward Said, *Orientalism* | Representation, empire, philology, criticism, and institutional knowledge. | Copyrighted. Summarize or cite unless rights-cleared. |
+
+## Higher Education Threads
+
+These threads should guide source selection and constellation design, especially for readers who teach, study, or work in universities:
+
+| Thread | Working Question | Early Source Anchors |
+| --- | --- | --- |
+| Citizen formation | What kind of judgment does public life require? | Gorgias, Plato, Aristotle, Quintilian, Wollstonecraft, Du Bois, Arendt |
+| Government and public memory | How do states authorize narratives, archives, monuments, schools, and forgetting? | Plato, Augustine, Wells, Césaire, Fanon, Foucault, Said |
+| Educators and education | What should teaching do besides transmit information? | Plato, Quintilian, Augustine, Hugh of St. Victor, Wollstonecraft, Du Bois |
+| Work and institutions | How do labor, profession, discipline, and institution shape knowledge? | Horace, Hugh of St. Victor, Benjamin, Foucault, Said |
+| Critical reading | How do readers learn to see power while staying responsible to evidence? | Aristotle, Augustine, Maimonides, Benjamin, Fanon, Said |
 
 ## Edition-Finding Tools
 

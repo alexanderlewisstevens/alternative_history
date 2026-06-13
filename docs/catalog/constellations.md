@@ -6,6 +6,8 @@ Each constellation is a small, curated field of texts that should be read togeth
 
 Use this page to design reading paths before drafting public essays or excerpt cards.
 
+For this project, constellations should keep higher education in view. Many of the most useful paths will ask what texts teach citizens, governments, educators, students, workers, and institutions to notice or ignore.
+
 ## How A Constellation Works
 
 - Start with a strong question, not a category.
@@ -81,6 +83,15 @@ Use this page to design reading paths before drafting public essays or excerpt c
 | Refusal | A text rejects a premise another text needs. |
 | Translation | A text changes meaning through language, audience, or edition. |
 | Afterlife | A text becomes powerful through commentary, teaching, or reuse. |
+
+## Higher Education Constellation Seeds
+
+| Seed | Question | Possible Anchors |
+| --- | --- | --- |
+| Civic Speech And Public Judgment | What does responsible speech ask of a citizen? | Gorgias, Plato, Aristotle, Quintilian |
+| Education And Discipline | How do schools and curricula form attention, obedience, freedom, and judgment? | Plato, Quintilian, Augustine, Hugh of St. Victor, Wollstonecraft, Du Bois |
+| Government And Memory | How do institutions decide what becomes public memory? | Plato, Augustine, Wells, Arendt, Foucault, Said |
+| Work, Profession, And Knowledge | How do craft, office, discipline, and labor shape what counts as knowledge? | Horace, Hugh of St. Victor, Benjamin, Foucault |
 
 ## Drafting Questions
 

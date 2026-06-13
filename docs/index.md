@@ -10,6 +10,8 @@ Here, "alternative history" means critical practice, not novelty counterfactuals
 
 The first goal is to make the best texts come alive together. A text should not sit alone as a trophy. It should enter conversation with other texts: answering, resisting, inheriting, translating, and transforming them. The site is being built as a wiki-like reading surface where thinkers, passages, constellations, and editorial questions can be followed in more than one direction.
 
+The current working spine begins with *The Norton Anthology of Theory and Criticism* because it gathers many of the traditions higher education still teaches through: rhetoric, poetics, interpretation, pedagogy, civic formation, public judgment, power, and institutional knowledge. Norton is not treated as a final canon or a source to publish wholesale. It is a map for finding major thinkers, testing the extraction workflow, and asking which texts matter most for readers who teach, study, govern, organize, write, and work inside institutions.
+
 ## Project Desk
 
 <div class="ah-action-grid">
@@ -68,6 +70,16 @@ Every entry should help answer four questions:
 - Why does this source belong in this collection?
 - What habit of interpretation does it unsettle?
 - What becomes newly visible when we stay close to the text?
+
+## Higher Education Questions
+
+The project should be especially useful to readers in and around higher education. That means keeping several public questions alive across the collection:
+
+- What does a citizen need to know, read, and practice?
+- What should government do with knowledge, speech, education, archives, and public memory?
+- What is the role of teachers, schools, universities, and curricula in forming judgment?
+- How do work, class, profession, discipline, and institution shape what can be said or remembered?
+- Which texts help students and educators recognize power without giving up on evidence, difficulty, or shared inquiry?
 
 ## Current Status
 
