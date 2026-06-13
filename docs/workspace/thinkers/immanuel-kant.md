@@ -1,10 +1,10 @@
-# Alexander Pope
+# Immanuel Kant
 
 <div class="ah-note-meta">
   <span><strong>Type:</strong> thinker node</span>
   <span><strong>Status:</strong> generated private workspace note</span>
   <span><strong>Source mode:</strong> restricted metadata only</span>
-  <span><strong>Tags:</strong> criticism, judgment, neoclassicism, wit</span>
+  <span><strong>Tags:</strong> aesthetics, disinterestedness, judgment, sublime</span>
 </div>
 
 <div class="ah-private-banner">
@@ -20,25 +20,27 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [An Essay on Criticism](../norton-texts/pope-essay-on-criticism.md) | 480-499 | 20 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md) | `edition-review-needed` |
+| [Critique of Judgment](../norton-texts/kant-critique-of-judgment.md) | 541-577 | 14 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[beauty-and-ascent](../beauty-and-ascent.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[sublime-and-limits](../sublime-and-limits.md)<br>[media-and-form](../media-and-form.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
-- An Essay on Criticism
+- Critique of Judgment
 
 ## Constellation Backlinks
 
-- [authorship-and-authority](../authorship-and-authority.md)
+- [beauty-and-ascent](../beauty-and-ascent.md)
+- [media-and-form](../media-and-form.md)
 - [poetry-and-judgment](../poetry-and-judgment.md)
+- [sublime-and-limits](../sublime-and-limits.md)
 - [taste-and-standards](../taste-and-standards.md)
 
 ## Review Pressure
 
 | Signal | Value |
 | --- | --- |
-| Page kinds | excerpt: 17<br>author_intro: 3 |
-| Review rows | 20 |
-| Review reasons | multi_column_layout: 16<br>source_notes_detected: 16<br>layout_review_required: 15<br>transition_from_previous_author: 3<br>author_boundary_without_life_dates: 1 |
+| Page kinds | excerpt: 32<br>author_intro: 5 |
+| Review rows | 14 |
+| Review reasons | multi_column_layout: 7<br>transition_from_previous_author: 5<br>author_boundary_without_life_dates: 3<br>layout_review_required: 1 |
 
 ## Passage Queue
 
@@ -85,14 +87,14 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Field | Value |
 | --- | --- |
-| Thinker slug | `alexander-pope` |
+| Thinker slug | `immanuel-kant` |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Generated at | `2026-06-13T04:36:17Z` |
 | Git commit | `647245f` |
 | Script version | `1` |
-| Output path | `docs/workspace/thinkers/alexander-pope.md` |
+| Output path | `docs/workspace/thinkers/immanuel-kant.md` |
 
 ## Open Questions
 

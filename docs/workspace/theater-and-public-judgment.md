@@ -111,8 +111,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T04:32:57Z` |
-| Git commit | `7a6d90c` |
+| Generated at | `2026-06-13T04:35:59Z` |
+| Git commit | `647245f` |
 | Script version | `2` |
 | Output path | `docs/workspace/theater-and-public-judgment.md` |
 

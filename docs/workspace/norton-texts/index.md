@@ -10,15 +10,15 @@ This index is generated from curated source metadata and local extraction audit 
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Curated Text Nodes</div>
-  <div class="ah-metric-value">30</div>
+  <div class="ah-metric-value">33</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Assembled Chunks</div>
-  <div class="ah-metric-value">30</div>
+  <div class="ah-metric-value">33</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Constellations</div>
-  <div class="ah-metric-value">10</div>
+  <div class="ah-metric-value">12</div>
 </div>
 </div>
 
@@ -28,9 +28,9 @@ This index is generated from curated source metadata and local extraction audit 
 | --- | --- | --- | --- | ---: | ---: | --- |
 | [Encomium of Helen](gorgias-encomium-helen.md) | Gorgias of Leontini | 71-74 | [rhetoric-and-force](../rhetoric-and-force.md) | 3 | 3 | `edition-review-needed` |
 | [Selected dialogues](plato-selected-dialogues.md) | Plato | 75-127 | [rhetoric-and-force](../rhetoric-and-force.md)<br>[poetry-and-judgment](../poetry-and-judgment.md)<br>[signs-and-reading](../signs-and-reading.md)<br>[education-and-civic-life](../education-and-civic-life.md) | 0 | 29 | `edition-review-needed` |
-| [Poetics and Rhetoric](aristotle-poetics-rhetoric.md) | Aristotle | 128-162 | [rhetoric-and-force](../rhetoric-and-force.md)<br>[poetry-and-judgment](../poetry-and-judgment.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[theater-and-public-judgment](../theater-and-public-judgment.md) | 0 | 23 | `edition-review-needed` |
-| [Ars Poetica](horace-ars-poetica.md) | Horace | 163-176 | [poetry-and-judgment](../poetry-and-judgment.md) | 0 | 14 | `edition-review-needed` |
-| [On Sublimity](longinus-on-sublimity.md) | Longinus | 177-196 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[beauty-and-ascent](../beauty-and-ascent.md)<br>[taste-and-standards](../taste-and-standards.md) | 0 | 19 | `edition-review-needed` |
+| [Poetics and Rhetoric](aristotle-poetics-rhetoric.md) | Aristotle | 128-162 | [rhetoric-and-force](../rhetoric-and-force.md)<br>[poetry-and-judgment](../poetry-and-judgment.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[theater-and-public-judgment](../theater-and-public-judgment.md)<br>[media-and-form](../media-and-form.md) | 0 | 23 | `edition-review-needed` |
+| [Ars Poetica](horace-ars-poetica.md) | Horace | 163-176 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[media-and-form](../media-and-form.md) | 0 | 14 | `edition-review-needed` |
+| [On Sublimity](longinus-on-sublimity.md) | Longinus | 177-196 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[beauty-and-ascent](../beauty-and-ascent.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[sublime-and-limits](../sublime-and-limits.md) | 0 | 19 | `edition-review-needed` |
 | [Institutio Oratoria](quintilian-institutio-oratoria.md) | Quintilian | 197-212 | [rhetoric-and-force](../rhetoric-and-force.md)<br>[education-and-civic-life](../education-and-civic-life.md) | 0 | 10 | `edition-review-needed` |
 | [Selected Enneads](plotinus-enneads.md) | Plotinus | 213-226 | [beauty-and-ascent](../beauty-and-ascent.md) | 0 | 7 | `edition-review-needed` |
 | [On Christian Doctrine and The Trinity](augustine-on-christian-doctrine-trinity.md) | Augustine of Hippo | 227-237 | [signs-and-reading](../signs-and-reading.md)<br>[beauty-and-ascent](../beauty-and-ascent.md) | 0 | 9 | `edition-review-needed` |
@@ -55,7 +55,10 @@ This index is generated from curated source metadata and local extraction audit 
 | [Conjectures on Original Composition](young-conjectures-original-composition.md) | Edward Young | 468-479 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[authorship-and-authority](../authorship-and-authority.md) | 0 | 11 | `edition-review-needed` |
 | [An Essay on Criticism](pope-essay-on-criticism.md) | Alexander Pope | 480-499 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md) | 0 | 20 | `edition-review-needed` |
 | [Selected Critical Prose](johnson-selected-critical-prose.md) | Samuel Johnson | 500-524 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[theater-and-public-judgment](../theater-and-public-judgment.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md) | 0 | 21 | `edition-review-needed` |
-| [Of the Standard of Taste](hume-standard-of-taste.md) | David Hume | 525-527 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[taste-and-standards](../taste-and-standards.md) | 0 | 3 | `edition-review-needed` |
+| [Of the Standard of Taste](hume-standard-of-taste.md) | David Hume | 525-540 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[sublime-and-limits](../sublime-and-limits.md) | 0 | 7 | `edition-review-needed` |
+| [Critique of Judgment](kant-critique-of-judgment.md) | Immanuel Kant | 541-577 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[beauty-and-ascent](../beauty-and-ascent.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[sublime-and-limits](../sublime-and-limits.md)<br>[media-and-form](../media-and-form.md) | 0 | 14 | `edition-review-needed` |
+| [A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful](burke-sublime-and-beautiful.md) | Edmund Burke | 578-592 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[beauty-and-ascent](../beauty-and-ascent.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[sublime-and-limits](../sublime-and-limits.md) | 0 | 6 | `edition-review-needed` |
+| [Laocoon](lessing-laocoon.md) | Gotthold Ephraim Lessing | 593-607 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[sublime-and-limits](../sublime-and-limits.md)<br>[media-and-form](../media-and-form.md) | 0 | 12 | `edition-review-needed` |
 
 ## How To Use This Index
 
@@ -82,7 +85,7 @@ This index is generated from curated source metadata and local extraction audit 
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T04:33:24Z` |
-| Git commit | `7a6d90c` |
+| Generated at | `2026-06-13T04:36:21Z` |
+| Git commit | `647245f` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/index.md` |

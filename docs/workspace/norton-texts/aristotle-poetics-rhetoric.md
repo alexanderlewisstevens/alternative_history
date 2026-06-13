@@ -42,6 +42,7 @@ This note turns the current Norton chunk for Aristotle into a navigable workspac
 | [poetry-and-judgment](../poetry-and-judgment.md) | Who gets to judge art? | tension, craft, excess |
 | [education-and-civic-life](../education-and-civic-life.md) | What should education make possible for citizens? | pedagogy, civic-formation, authority |
 | [theater-and-public-judgment](../theater-and-public-judgment.md) | How does theater train or expose public judgment? | drama, audience, rules |
+| [media-and-form](../media-and-form.md) | How do media shape what thought can represent? | medium, form, representation |
 
 ## Passage Queue
 
@@ -50,7 +51,7 @@ This note turns the current Norton chunk for Aristotle into a navigable workspac
   <h3>Choose Passages After Review</h3>
   <p><strong>Source location:</strong> Norton page range 128-162.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
-  <p><strong>Use:</strong> Find the passages that make this text active inside rhetoric-and-force, poetry-and-judgment, education-and-civic-life, theater-and-public-judgment.</p>
+  <p><strong>Use:</strong> Find the passages that make this text active inside rhetoric-and-force, poetry-and-judgment, education-and-civic-life, theater-and-public-judgment, media-and-form.</p>
 </section>
 
 <section class="ah-passage-card">
@@ -94,8 +95,8 @@ This note turns the current Norton chunk for Aristotle into a navigable workspac
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/aristotle.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T04:33:23Z` |
-| Git commit | `7a6d90c` |
+| Generated at | `2026-06-13T04:36:20Z` |
+| Git commit | `647245f` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/aristotle-poetics-rhetoric.md` |
 
@@ -112,6 +113,7 @@ This note turns the current Norton chunk for Aristotle into a navigable workspac
 <li><a href="../../poetry-and-judgment/">poetry-and-judgment</a></li>
 <li><a href="../../education-and-civic-life/">education-and-civic-life</a></li>
 <li><a href="../../theater-and-public-judgment/">theater-and-public-judgment</a></li>
+<li><a href="../../media-and-form/">media-and-form</a></li>
 </ul>
 
 ## Open Questions

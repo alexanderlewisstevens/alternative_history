@@ -26,6 +26,8 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/longinus-on-sublimity/"><strong>Longinus, On Sublimity</strong><span>sublimity, aesthetics, authority; pages 177-196; 19 review rows</span></a>
   <a href="../norton-texts/plotinus-enneads/"><strong>Plotinus, Selected Enneads</strong><span>beauty, form, metaphysics; pages 213-226; 7 review rows</span></a>
   <a href="../norton-texts/augustine-on-christian-doctrine-trinity/"><strong>Augustine of Hippo, On Christian Doctrine and The Trinity</strong><span>interpretation, signs, theology; pages 227-237; 9 review rows</span></a>
+  <a href="../norton-texts/kant-critique-of-judgment/"><strong>Immanuel Kant, Critique of Judgment</strong><span>aesthetics, judgment, disinterestedness; pages 541-577; 14 review rows</span></a>
+  <a href="../norton-texts/burke-sublime-and-beautiful/"><strong>Edmund Burke, A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful</strong><span>sublime, beauty, affect; pages 578-592; 6 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -34,13 +36,15 @@ This is a scaffold for reading the configured texts together. It should become a
 | --- | --- | --- | --- |
 | Sublimity | Longinus | Plotinus | Configured relation; needs close-reading evidence before promotion. |
 | Ascent | Plotinus | Augustine of Hippo | Configured relation; needs close-reading evidence before promotion. |
-| Inward Reading | Augustine of Hippo | Longinus | Configured relation; needs close-reading evidence before promotion. |
+| Inward Reading | Augustine of Hippo | Immanuel Kant | Configured relation; needs close-reading evidence before promotion. |
 
 ## Reading Path
 
 1. [Longinus, On Sublimity](norton-texts/longinus-on-sublimity.md)
 2. [Plotinus, Selected Enneads](norton-texts/plotinus-enneads.md)
 3. [Augustine of Hippo, On Christian Doctrine and The Trinity](norton-texts/augustine-on-christian-doctrine-trinity.md)
+4. [Immanuel Kant, Critique of Judgment](norton-texts/kant-critique-of-judgment.md)
+5. [Edmund Burke, A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful](norton-texts/burke-sublime-and-beautiful.md)
 
 ## Review Pressure
 
@@ -49,6 +53,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | [On Sublimity](norton-texts/longinus-on-sublimity.md) | 177-196 | 19 | excerpt: 16<br>author_intro: 4 |
 | [Selected Enneads](norton-texts/plotinus-enneads.md) | 213-226 | 7 | excerpt: 10<br>author_intro: 4 |
 | [On Christian Doctrine and The Trinity](norton-texts/augustine-on-christian-doctrine-trinity.md) | 227-237 | 9 | excerpt: 7<br>author_intro: 4 |
+| [Critique of Judgment](norton-texts/kant-critique-of-judgment.md) | 541-577 | 14 | excerpt: 32<br>author_intro: 5 |
+| [A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful](norton-texts/burke-sublime-and-beautiful.md) | 578-592 | 6 | excerpt: 12<br>author_intro: 3 |
 
 ## Passage Queue
 
@@ -102,8 +108,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T04:32:57Z` |
-| Git commit | `7a6d90c` |
+| Generated at | `2026-06-13T04:35:59Z` |
+| Git commit | `647245f` |
 | Script version | `2` |
 | Output path | `docs/workspace/beauty-and-ascent.md` |
 

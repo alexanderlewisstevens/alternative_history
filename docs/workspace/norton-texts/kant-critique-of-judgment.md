@@ -1,10 +1,10 @@
-# Macrobius, Commentary on the Dream of Scipio
+# Immanuel Kant, Critique of Judgment
 
 <div class="ah-note-meta">
   <span><strong>Type:</strong> Norton text node</span>
   <span><strong>Status:</strong> generated private workspace note</span>
   <span><strong>Source mode:</strong> restricted metadata only</span>
-  <span><strong>Tags:</strong> commentary, transmission, allegory</span>
+  <span><strong>Tags:</strong> aesthetics, judgment, disinterestedness, sublime</span>
 </div>
 
 <div class="ah-private-banner">
@@ -14,43 +14,47 @@
 
 ## Working Use
 
-This note turns the current Norton chunk for Macrobius into a navigable workspace node. Use it to move between the restricted draft, the curated text spine, the first constellations, and the review queue before writing public-facing commentary.
+This note turns the current Norton chunk for Immanuel Kant into a navigable workspace node. Use it to move between the restricted draft, the curated text spine, the first constellations, and the review queue before writing public-facing commentary.
 
 ## Current Chunk
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Chunk Status</span>
-  <h3>Norton Pages 238-242</h3>
-  <p><strong>Page count:</strong> 5</p>
-  <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/macrobius.md</code></p>
-  <p><strong>Page kinds:</strong> author_intro: 3<br>excerpt: 2</p>
-  <p><strong>Review pressure:</strong> 4 rows. transition_from_previous_author: 3<br>multi_column_layout: 1<br>source_notes_detected: 1</p>
+  <h3>Norton Pages 541-577</h3>
+  <p><strong>Page count:</strong> 37</p>
+  <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/immanuel-kant.md</code></p>
+  <p><strong>Page kinds:</strong> excerpt: 32<br>author_intro: 5</p>
+  <p><strong>Review pressure:</strong> 14 rows. multi_column_layout: 7<br>transition_from_previous_author: 5<br>author_boundary_without_life_dates: 3<br>layout_review_required: 1</p>
 </section>
 
 ## Works And Excerpt Blocks
 
-- Commentary on the Dream of Scipio
+- Critique of Judgment
 
 ## Constellations
 
 | Constellation | Core Question | Relations |
 | --- | --- | --- |
-| [commentary-and-afterlife](../commentary-and-afterlife.md) | How do texts survive by being reread? | commentary, transmission, disciplined-reading |
+| [poetry-and-judgment](../poetry-and-judgment.md) | Who gets to judge art? | tension, craft, excess |
+| [beauty-and-ascent](../beauty-and-ascent.md) | When does beauty become a way of knowing? | sublimity, ascent, inward-reading |
+| [taste-and-standards](../taste-and-standards.md) | How do communities make judgments of taste? | taste, criticism, consensus |
+| [sublime-and-limits](../sublime-and-limits.md) | What happens when experience exceeds form? | sublimity, affect, limit |
+| [media-and-form](../media-and-form.md) | How do media shape what thought can represent? | medium, form, representation |
 
 ## Passage Queue
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Anchor Candidates</span>
   <h3>Choose Passages After Review</h3>
-  <p><strong>Source location:</strong> Norton page range 238-242.</p>
+  <p><strong>Source location:</strong> Norton page range 541-577.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
-  <p><strong>Use:</strong> Find the passages that make this text active inside commentary-and-afterlife.</p>
+  <p><strong>Use:</strong> Find the passages that make this text active inside poetry-and-judgment, beauty-and-ascent, taste-and-standards, sublime-and-limits, media-and-form.</p>
 </section>
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Review Before Quoting</span>
   <h3>Layout, Notes, And Bibliography</h3>
-  <p><strong>Review signal:</strong> transition_from_previous_author: 3<br>multi_column_layout: 1<br>source_notes_detected: 1</p>
+  <p><strong>Review signal:</strong> multi_column_layout: 7<br>transition_from_previous_author: 5<br>author_boundary_without_life_dates: 3<br>layout_review_required: 1</p>
   <p><strong>Editorial rule:</strong> source notes belong in source-note fields, bibliography belongs in bibliography fields, and excerpt text stays separate.</p>
 </section>
 
@@ -79,19 +83,19 @@ This note turns the current Norton chunk for Macrobius into a navigable workspac
 
 | Field | Value |
 | --- | --- |
-| Text ID | `macrobius-dream-scipio` |
-| Curated title | Commentary on the Dream of Scipio |
-| Creator | Macrobius |
-| Thinker note | [Macrobius](../thinkers/macrobius.md) |
+| Text ID | `kant-critique-of-judgment` |
+| Curated title | Critique of Judgment |
+| Creator | Immanuel Kant |
+| Thinker note | [Immanuel Kant](../thinkers/immanuel-kant.md) |
 | Register status | `edition-review-needed` |
 | Source anthology | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Restricted draft | `generated/authors/norton-theory-criticism/macrobius.md` |
+| Restricted draft | `generated/authors/norton-theory-criticism/immanuel-kant.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
 | Generated at | `2026-06-13T04:36:20Z` |
 | Git commit | `647245f` |
 | Script version | `2` |
-| Output path | `docs/workspace/norton-texts/macrobius-dream-scipio.md` |
+| Output path | `docs/workspace/norton-texts/kant-critique-of-judgment.md` |
 
 ## Backlinks
 
@@ -100,9 +104,13 @@ This note turns the current Norton chunk for Macrobius into a navigable workspac
 <li><a href="../../norton-map/">Norton Workspace Map</a></li>
 <li><a href="../../">Private Knowledge Base</a></li>
 <li><a href="../../../catalog/sources/">Text Catalog</a></li>
-<li>Thinker: <a href="../../thinkers/macrobius/">Macrobius</a></li>
+<li>Thinker: <a href="../../thinkers/immanuel-kant/">Immanuel Kant</a></li>
 <li><a href="../../passages/">Passage Notes</a></li>
-<li><a href="../../commentary-and-afterlife/">commentary-and-afterlife</a></li>
+<li><a href="../../poetry-and-judgment/">poetry-and-judgment</a></li>
+<li><a href="../../beauty-and-ascent/">beauty-and-ascent</a></li>
+<li><a href="../../taste-and-standards/">taste-and-standards</a></li>
+<li><a href="../../sublime-and-limits/">sublime-and-limits</a></li>
+<li><a href="../../media-and-form/">media-and-form</a></li>
 </ul>
 
 ## Open Questions

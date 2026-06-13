@@ -20,7 +20,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [Of the Standard of Taste](../norton-texts/hume-standard-of-taste.md) | 525-527 | 3 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[taste-and-standards](../taste-and-standards.md) | `edition-review-needed` |
+| [Of the Standard of Taste](../norton-texts/hume-standard-of-taste.md) | 525-540 | 7 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[sublime-and-limits](../sublime-and-limits.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -30,15 +30,16 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 ## Constellation Backlinks
 
 - [poetry-and-judgment](../poetry-and-judgment.md)
+- [sublime-and-limits](../sublime-and-limits.md)
 - [taste-and-standards](../taste-and-standards.md)
 
 ## Review Pressure
 
 | Signal | Value |
 | --- | --- |
-| Page kinds | author_intro: 3 |
-| Review rows | 3 |
-| Review reasons | transition_from_previous_author: 3 |
+| Page kinds | excerpt: 13<br>author_intro: 3 |
+| Review rows | 7 |
+| Review reasons | source_notes_detected: 4<br>transition_from_previous_author: 3<br>multi_column_layout: 1 |
 
 ## Passage Queue
 
@@ -89,8 +90,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T04:33:22Z` |
-| Git commit | `7a6d90c` |
+| Generated at | `2026-06-13T04:36:17Z` |
+| Git commit | `647245f` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/david-hume.md` |
 

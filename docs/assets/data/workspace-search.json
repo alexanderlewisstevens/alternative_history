@@ -137,13 +137,15 @@
       "id": "constellation:beauty-and-ascent",
       "kind": "constellation",
       "review_pressure": 0,
-      "search_text": "beauty and ascent when does beauty become a way of knowing?   private constellation draft ascent augustine-on-christian-doctrine-trinity inward-reading longinus-on-sublimity plotinus-enneads sublimity beauty-and-ascent",
+      "search_text": "beauty and ascent when does beauty become a way of knowing?   private constellation draft ascent augustine-on-christian-doctrine-trinity burke-sublime-and-beautiful inward-reading kant-critique-of-judgment longinus-on-sublimity plotinus-enneads sublimity beauty-and-ascent",
       "status": "private constellation draft",
       "summary": "When does beauty become a way of knowing?",
       "tags": [
         "ascent",
         "augustine-on-christian-doctrine-trinity",
+        "burke-sublime-and-beautiful",
         "inward-reading",
+        "kant-critique-of-judgment",
         "longinus-on-sublimity",
         "plotinus-enneads",
         "sublimity"
@@ -212,12 +214,36 @@
     },
     {
       "constellations": [
+        "media-and-form"
+      ],
+      "id": "constellation:media-and-form",
+      "kind": "constellation",
+      "review_pressure": 0,
+      "search_text": "media and form how do media shape what thought can represent?   private constellation draft aristotle-poetics-rhetoric form horace-ars-poetica kant-critique-of-judgment lessing-laocoon medium representation media-and-form",
+      "status": "private constellation draft",
+      "summary": "How do media shape what thought can represent?",
+      "tags": [
+        "aristotle-poetics-rhetoric",
+        "form",
+        "horace-ars-poetica",
+        "kant-critique-of-judgment",
+        "lessing-laocoon",
+        "medium",
+        "representation"
+      ],
+      "text_id": "",
+      "thinker": "",
+      "title": "Media And Form",
+      "url": "/workspace/media-and-form/"
+    },
+    {
+      "constellations": [
         "poetry-and-judgment"
       ],
       "id": "constellation:poetry-and-judgment",
       "kind": "constellation",
       "review_pressure": 0,
-      "search_text": "poetry and judgment who gets to judge art?   private constellation draft addison-spectator-essays aphra-behn-dutch-lover-lucky-chance aristotle-poetics-rhetoric boccaccio-genealogy-gentile-gods corneille-three-unities craft dryden-selected-critical-prose excess geoffrey-poetria-nova horace-ars-poetica hume-standard-of-taste johnson-selected-critical-prose longinus-on-sublimity pierre-de-ronsard-art-french-poetry plato-selected-dialogues pope-essay-on-criticism sidney-defense-of-poesy tension young-conjectures-original-composition poetry-and-judgment",
+      "search_text": "poetry and judgment who gets to judge art?   private constellation draft addison-spectator-essays aphra-behn-dutch-lover-lucky-chance aristotle-poetics-rhetoric boccaccio-genealogy-gentile-gods burke-sublime-and-beautiful corneille-three-unities craft dryden-selected-critical-prose excess geoffrey-poetria-nova horace-ars-poetica hume-standard-of-taste johnson-selected-critical-prose kant-critique-of-judgment lessing-laocoon longinus-on-sublimity pierre-de-ronsard-art-french-poetry plato-selected-dialogues pope-essay-on-criticism sidney-defense-of-poesy tension young-conjectures-original-composition poetry-and-judgment",
       "status": "private constellation draft",
       "summary": "Who gets to judge art?",
       "tags": [
@@ -225,6 +251,7 @@
         "aphra-behn-dutch-lover-lucky-chance",
         "aristotle-poetics-rhetoric",
         "boccaccio-genealogy-gentile-gods",
+        "burke-sublime-and-beautiful",
         "corneille-three-unities",
         "craft",
         "dryden-selected-critical-prose",
@@ -233,6 +260,8 @@
         "horace-ars-poetica",
         "hume-standard-of-taste",
         "johnson-selected-critical-prose",
+        "kant-critique-of-judgment",
+        "lessing-laocoon",
         "longinus-on-sublimity",
         "pierre-de-ronsard-art-french-poetry",
         "plato-selected-dialogues",
@@ -299,20 +328,47 @@
     },
     {
       "constellations": [
+        "sublime-and-limits"
+      ],
+      "id": "constellation:sublime-and-limits",
+      "kind": "constellation",
+      "review_pressure": 0,
+      "search_text": "sublime and limits what happens when experience exceeds form?   private constellation draft affect burke-sublime-and-beautiful hume-standard-of-taste kant-critique-of-judgment lessing-laocoon limit longinus-on-sublimity sublimity sublime-and-limits",
+      "status": "private constellation draft",
+      "summary": "What happens when experience exceeds form?",
+      "tags": [
+        "affect",
+        "burke-sublime-and-beautiful",
+        "hume-standard-of-taste",
+        "kant-critique-of-judgment",
+        "lessing-laocoon",
+        "limit",
+        "longinus-on-sublimity",
+        "sublimity"
+      ],
+      "text_id": "",
+      "thinker": "",
+      "title": "Sublime And Limits",
+      "url": "/workspace/sublime-and-limits/"
+    },
+    {
+      "constellations": [
         "taste-and-standards"
       ],
       "id": "constellation:taste-and-standards",
       "kind": "constellation",
       "review_pressure": 0,
-      "search_text": "taste and standards how do communities make judgments of taste?   private constellation draft addison-spectator-essays consensus criticism hume-standard-of-taste johnson-selected-critical-prose longinus-on-sublimity pope-essay-on-criticism sidney-defense-of-poesy taste taste-and-standards",
+      "search_text": "taste and standards how do communities make judgments of taste?   private constellation draft addison-spectator-essays burke-sublime-and-beautiful consensus criticism hume-standard-of-taste johnson-selected-critical-prose kant-critique-of-judgment longinus-on-sublimity pope-essay-on-criticism sidney-defense-of-poesy taste taste-and-standards",
       "status": "private constellation draft",
       "summary": "How do communities make judgments of taste?",
       "tags": [
         "addison-spectator-essays",
+        "burke-sublime-and-beautiful",
         "consensus",
         "criticism",
         "hume-standard-of-taste",
         "johnson-selected-critical-prose",
+        "kant-critique-of-judgment",
         "longinus-on-sublimity",
         "pope-essay-on-criticism",
         "sidney-defense-of-poesy",
@@ -464,6 +520,34 @@
     },
     {
       "constellations": [
+        "beauty-and-ascent",
+        "poetry-and-judgment",
+        "sublime-and-limits",
+        "taste-and-standards"
+      ],
+      "id": "text:burke-sublime-and-beautiful",
+      "kind": "text",
+      "review_pressure": 6,
+      "search_text": "a philosophical enquiry into the origin of our ideas of the sublime and beautiful edmund burke; core-text-candidate; pages 578-592; 6 review rows. edmund burke burke-sublime-and-beautiful edition-review-needed affect beauty beauty-and-ascent poetry-and-judgment sublime sublime-and-limits taste-and-standards terror beauty-and-ascent poetry-and-judgment sublime-and-limits taste-and-standards",
+      "status": "edition-review-needed",
+      "summary": "Edmund Burke; core-text-candidate; pages 578-592; 6 review rows.",
+      "tags": [
+        "affect",
+        "beauty",
+        "beauty-and-ascent",
+        "poetry-and-judgment",
+        "sublime",
+        "sublime-and-limits",
+        "taste-and-standards",
+        "terror"
+      ],
+      "text_id": "burke-sublime-and-beautiful",
+      "thinker": "Edmund Burke",
+      "title": "A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful",
+      "url": "/workspace/norton-texts/burke-sublime-and-beautiful/"
+    },
+    {
+      "constellations": [
         "authorship-and-authority",
         "poetry-and-judgment",
         "taste-and-standards"
@@ -490,18 +574,20 @@
     },
     {
       "constellations": [
+        "media-and-form",
         "poetry-and-judgment"
       ],
       "id": "text:horace-ars-poetica",
       "kind": "text",
       "review_pressure": 14,
-      "search_text": "ars poetica horace; core-text-candidate; pages 163-176; 14 review rows. horace horace-ars-poetica edition-review-needed craft decorum literary-judgment poetry-and-judgment poetry-and-judgment",
+      "search_text": "ars poetica horace; core-text-candidate; pages 163-176; 14 review rows. horace horace-ars-poetica edition-review-needed craft decorum literary-judgment media-and-form poetry-and-judgment media-and-form poetry-and-judgment",
       "status": "edition-review-needed",
       "summary": "Horace; core-text-candidate; pages 163-176; 14 review rows.",
       "tags": [
         "craft",
         "decorum",
         "literary-judgment",
+        "media-and-form",
         "poetry-and-judgment"
       ],
       "text_id": "horace-ars-poetica",
@@ -553,6 +639,36 @@
       "thinker": "Edward Young",
       "title": "Conjectures on Original Composition",
       "url": "/workspace/norton-texts/young-conjectures-original-composition/"
+    },
+    {
+      "constellations": [
+        "beauty-and-ascent",
+        "media-and-form",
+        "poetry-and-judgment",
+        "sublime-and-limits",
+        "taste-and-standards"
+      ],
+      "id": "text:kant-critique-of-judgment",
+      "kind": "text",
+      "review_pressure": 14,
+      "search_text": "critique of judgment immanuel kant; core-text-candidate; pages 541-577; 14 review rows. immanuel kant kant-critique-of-judgment edition-review-needed aesthetics beauty-and-ascent disinterestedness judgment media-and-form poetry-and-judgment sublime sublime-and-limits taste-and-standards beauty-and-ascent media-and-form poetry-and-judgment sublime-and-limits taste-and-standards",
+      "status": "edition-review-needed",
+      "summary": "Immanuel Kant; core-text-candidate; pages 541-577; 14 review rows.",
+      "tags": [
+        "aesthetics",
+        "beauty-and-ascent",
+        "disinterestedness",
+        "judgment",
+        "media-and-form",
+        "poetry-and-judgment",
+        "sublime",
+        "sublime-and-limits",
+        "taste-and-standards"
+      ],
+      "text_id": "kant-critique-of-judgment",
+      "thinker": "Immanuel Kant",
+      "title": "Critique of Judgment",
+      "url": "/workspace/norton-texts/kant-critique-of-judgment/"
     },
     {
       "constellations": [
@@ -672,20 +788,48 @@
     },
     {
       "constellations": [
+        "media-and-form",
         "poetry-and-judgment",
+        "sublime-and-limits"
+      ],
+      "id": "text:lessing-laocoon",
+      "kind": "text",
+      "review_pressure": 12,
+      "search_text": "laocoon gotthold ephraim lessing; core-text-candidate; pages 593-607; 12 review rows. gotthold ephraim lessing lessing-laocoon edition-review-needed media media-and-form painting poetry poetry-and-judgment representation sublime-and-limits media-and-form poetry-and-judgment sublime-and-limits",
+      "status": "edition-review-needed",
+      "summary": "Gotthold Ephraim Lessing; core-text-candidate; pages 593-607; 12 review rows.",
+      "tags": [
+        "media",
+        "media-and-form",
+        "painting",
+        "poetry",
+        "poetry-and-judgment",
+        "representation",
+        "sublime-and-limits"
+      ],
+      "text_id": "lessing-laocoon",
+      "thinker": "Gotthold Ephraim Lessing",
+      "title": "Laocoon",
+      "url": "/workspace/norton-texts/lessing-laocoon/"
+    },
+    {
+      "constellations": [
+        "poetry-and-judgment",
+        "sublime-and-limits",
         "taste-and-standards"
       ],
       "id": "text:hume-standard-of-taste",
       "kind": "text",
-      "review_pressure": 3,
-      "search_text": "of the standard of taste david hume; core-text-candidate; pages 525-527; 3 review rows. david hume hume-standard-of-taste edition-review-needed consensus empiricism judgment poetry-and-judgment taste taste-and-standards poetry-and-judgment taste-and-standards",
+      "review_pressure": 7,
+      "search_text": "of the standard of taste david hume; core-text-candidate; pages 525-540; 7 review rows. david hume hume-standard-of-taste edition-review-needed consensus empiricism judgment poetry-and-judgment sublime-and-limits taste taste-and-standards poetry-and-judgment sublime-and-limits taste-and-standards",
       "status": "edition-review-needed",
-      "summary": "David Hume; core-text-candidate; pages 525-527; 3 review rows.",
+      "summary": "David Hume; core-text-candidate; pages 525-540; 7 review rows.",
       "tags": [
         "consensus",
         "empiricism",
         "judgment",
         "poetry-and-judgment",
+        "sublime-and-limits",
         "taste",
         "taste-and-standards"
       ],
@@ -746,12 +890,13 @@
       "constellations": [
         "beauty-and-ascent",
         "poetry-and-judgment",
+        "sublime-and-limits",
         "taste-and-standards"
       ],
       "id": "text:longinus-on-sublimity",
       "kind": "text",
       "review_pressure": 19,
-      "search_text": "on sublimity longinus; core-text-candidate; pages 177-196; 19 review rows. longinus longinus-on-sublimity edition-review-needed aesthetics authority beauty-and-ascent poetry-and-judgment sublimity taste-and-standards beauty-and-ascent poetry-and-judgment taste-and-standards",
+      "search_text": "on sublimity longinus; core-text-candidate; pages 177-196; 19 review rows. longinus longinus-on-sublimity edition-review-needed aesthetics authority beauty-and-ascent poetry-and-judgment sublime-and-limits sublimity taste-and-standards beauty-and-ascent poetry-and-judgment sublime-and-limits taste-and-standards",
       "status": "edition-review-needed",
       "summary": "Longinus; core-text-candidate; pages 177-196; 19 review rows.",
       "tags": [
@@ -759,6 +904,7 @@
         "authority",
         "beauty-and-ascent",
         "poetry-and-judgment",
+        "sublime-and-limits",
         "sublimity",
         "taste-and-standards"
       ],
@@ -792,6 +938,7 @@
     {
       "constellations": [
         "education-and-civic-life",
+        "media-and-form",
         "poetry-and-judgment",
         "rhetoric-and-force",
         "theater-and-public-judgment"
@@ -799,13 +946,14 @@
       "id": "text:aristotle-poetics-rhetoric",
       "kind": "text",
       "review_pressure": 23,
-      "search_text": "poetics and rhetoric aristotle; core-text-candidate; pages 128-162; 23 review rows. aristotle aristotle-poetics-rhetoric edition-review-needed audience education-and-civic-life genre poetics poetry-and-judgment rhetoric rhetoric-and-force theater-and-public-judgment education-and-civic-life poetry-and-judgment rhetoric-and-force theater-and-public-judgment",
+      "search_text": "poetics and rhetoric aristotle; core-text-candidate; pages 128-162; 23 review rows. aristotle aristotle-poetics-rhetoric edition-review-needed audience education-and-civic-life genre media-and-form poetics poetry-and-judgment rhetoric rhetoric-and-force theater-and-public-judgment education-and-civic-life media-and-form poetry-and-judgment rhetoric-and-force theater-and-public-judgment",
       "status": "edition-review-needed",
       "summary": "Aristotle; core-text-candidate; pages 128-162; 23 review rows.",
       "tags": [
         "audience",
         "education-and-civic-life",
         "genre",
+        "media-and-form",
         "poetics",
         "poetry-and-judgment",
         "rhetoric",
@@ -1232,6 +1380,7 @@
     {
       "constellations": [
         "education-and-civic-life",
+        "media-and-form",
         "poetry-and-judgment",
         "rhetoric-and-force",
         "theater-and-public-judgment"
@@ -1239,13 +1388,14 @@
       "id": "thinker:aristotle",
       "kind": "thinker",
       "review_pressure": 23,
-      "search_text": "aristotle 1 text node(s); aristotle-poetics-rhetoric. aristotle  generated private workspace note audience education-and-civic-life genre poetics poetry-and-judgment rhetoric rhetoric-and-force theater-and-public-judgment education-and-civic-life poetry-and-judgment rhetoric-and-force theater-and-public-judgment",
+      "search_text": "aristotle 1 text node(s); aristotle-poetics-rhetoric. aristotle  generated private workspace note audience education-and-civic-life genre media-and-form poetics poetry-and-judgment rhetoric rhetoric-and-force theater-and-public-judgment education-and-civic-life media-and-form poetry-and-judgment rhetoric-and-force theater-and-public-judgment",
       "status": "generated private workspace note",
       "summary": "1 text node(s); aristotle-poetics-rhetoric.",
       "tags": [
         "audience",
         "education-and-civic-life",
         "genre",
+        "media-and-form",
         "poetics",
         "poetry-and-judgment",
         "rhetoric",
@@ -1334,12 +1484,13 @@
     {
       "constellations": [
         "poetry-and-judgment",
+        "sublime-and-limits",
         "taste-and-standards"
       ],
       "id": "thinker:david-hume",
       "kind": "thinker",
-      "review_pressure": 3,
-      "search_text": "david hume 1 text node(s); hume-standard-of-taste. david hume  generated private workspace note consensus empiricism judgment poetry-and-judgment taste taste-and-standards poetry-and-judgment taste-and-standards",
+      "review_pressure": 7,
+      "search_text": "david hume 1 text node(s); hume-standard-of-taste. david hume  generated private workspace note consensus empiricism judgment poetry-and-judgment sublime-and-limits taste taste-and-standards poetry-and-judgment sublime-and-limits taste-and-standards",
       "status": "generated private workspace note",
       "summary": "1 text node(s); hume-standard-of-taste.",
       "tags": [
@@ -1347,6 +1498,7 @@
         "empiricism",
         "judgment",
         "poetry-and-judgment",
+        "sublime-and-limits",
         "taste",
         "taste-and-standards"
       ],
@@ -1354,6 +1506,34 @@
       "thinker": "David Hume",
       "title": "David Hume",
       "url": "/workspace/thinkers/david-hume/"
+    },
+    {
+      "constellations": [
+        "beauty-and-ascent",
+        "poetry-and-judgment",
+        "sublime-and-limits",
+        "taste-and-standards"
+      ],
+      "id": "thinker:edmund-burke",
+      "kind": "thinker",
+      "review_pressure": 6,
+      "search_text": "edmund burke 1 text node(s); burke-sublime-and-beautiful. edmund burke  generated private workspace note affect beauty beauty-and-ascent poetry-and-judgment sublime sublime-and-limits taste-and-standards terror beauty-and-ascent poetry-and-judgment sublime-and-limits taste-and-standards",
+      "status": "generated private workspace note",
+      "summary": "1 text node(s); burke-sublime-and-beautiful.",
+      "tags": [
+        "affect",
+        "beauty",
+        "beauty-and-ascent",
+        "poetry-and-judgment",
+        "sublime",
+        "sublime-and-limits",
+        "taste-and-standards",
+        "terror"
+      ],
+      "text_id": "",
+      "thinker": "Edmund Burke",
+      "title": "Edmund Burke",
+      "url": "/workspace/thinkers/edmund-burke/"
     },
     {
       "constellations": [
@@ -1520,18 +1700,46 @@
     },
     {
       "constellations": [
+        "media-and-form",
+        "poetry-and-judgment",
+        "sublime-and-limits"
+      ],
+      "id": "thinker:gotthold-ephraim-lessing",
+      "kind": "thinker",
+      "review_pressure": 12,
+      "search_text": "gotthold ephraim lessing 1 text node(s); lessing-laocoon. gotthold ephraim lessing  generated private workspace note media media-and-form painting poetry poetry-and-judgment representation sublime-and-limits media-and-form poetry-and-judgment sublime-and-limits",
+      "status": "generated private workspace note",
+      "summary": "1 text node(s); lessing-laocoon.",
+      "tags": [
+        "media",
+        "media-and-form",
+        "painting",
+        "poetry",
+        "poetry-and-judgment",
+        "representation",
+        "sublime-and-limits"
+      ],
+      "text_id": "",
+      "thinker": "Gotthold Ephraim Lessing",
+      "title": "Gotthold Ephraim Lessing",
+      "url": "/workspace/thinkers/gotthold-ephraim-lessing/"
+    },
+    {
+      "constellations": [
+        "media-and-form",
         "poetry-and-judgment"
       ],
       "id": "thinker:horace",
       "kind": "thinker",
       "review_pressure": 14,
-      "search_text": "horace 1 text node(s); horace-ars-poetica. horace  generated private workspace note craft decorum literary-judgment poetry-and-judgment poetry-and-judgment",
+      "search_text": "horace 1 text node(s); horace-ars-poetica. horace  generated private workspace note craft decorum literary-judgment media-and-form poetry-and-judgment media-and-form poetry-and-judgment",
       "status": "generated private workspace note",
       "summary": "1 text node(s); horace-ars-poetica.",
       "tags": [
         "craft",
         "decorum",
         "literary-judgment",
+        "media-and-form",
         "poetry-and-judgment"
       ],
       "text_id": "",
@@ -1563,6 +1771,36 @@
       "thinker": "Hugh of St. Victor",
       "title": "Hugh of St. Victor",
       "url": "/workspace/thinkers/hugh-of-st-victor/"
+    },
+    {
+      "constellations": [
+        "beauty-and-ascent",
+        "media-and-form",
+        "poetry-and-judgment",
+        "sublime-and-limits",
+        "taste-and-standards"
+      ],
+      "id": "thinker:immanuel-kant",
+      "kind": "thinker",
+      "review_pressure": 14,
+      "search_text": "immanuel kant 1 text node(s); kant-critique-of-judgment. immanuel kant  generated private workspace note aesthetics beauty-and-ascent disinterestedness judgment media-and-form poetry-and-judgment sublime sublime-and-limits taste-and-standards beauty-and-ascent media-and-form poetry-and-judgment sublime-and-limits taste-and-standards",
+      "status": "generated private workspace note",
+      "summary": "1 text node(s); kant-critique-of-judgment.",
+      "tags": [
+        "aesthetics",
+        "beauty-and-ascent",
+        "disinterestedness",
+        "judgment",
+        "media-and-form",
+        "poetry-and-judgment",
+        "sublime",
+        "sublime-and-limits",
+        "taste-and-standards"
+      ],
+      "text_id": "",
+      "thinker": "Immanuel Kant",
+      "title": "Immanuel Kant",
+      "url": "/workspace/thinkers/immanuel-kant/"
     },
     {
       "constellations": [
@@ -1646,12 +1884,13 @@
       "constellations": [
         "beauty-and-ascent",
         "poetry-and-judgment",
+        "sublime-and-limits",
         "taste-and-standards"
       ],
       "id": "thinker:longinus",
       "kind": "thinker",
       "review_pressure": 19,
-      "search_text": "longinus 1 text node(s); longinus-on-sublimity. longinus  generated private workspace note aesthetics authority beauty-and-ascent poetry-and-judgment sublimity taste-and-standards beauty-and-ascent poetry-and-judgment taste-and-standards",
+      "search_text": "longinus 1 text node(s); longinus-on-sublimity. longinus  generated private workspace note aesthetics authority beauty-and-ascent poetry-and-judgment sublime-and-limits sublimity taste-and-standards beauty-and-ascent poetry-and-judgment sublime-and-limits taste-and-standards",
       "status": "generated private workspace note",
       "summary": "1 text node(s); longinus-on-sublimity.",
       "tags": [
@@ -1659,6 +1898,7 @@
         "authority",
         "beauty-and-ascent",
         "poetry-and-judgment",
+        "sublime-and-limits",
         "sublimity",
         "taste-and-standards"
       ],
@@ -1917,53 +2157,57 @@
       "url": "/workspace/thinkers/thomas-aquinas/"
     }
   ],
-  "entry_count": 79,
+  "entry_count": 87,
   "filters": {
     "constellations": {
       "authorship-and-authority": 17,
-      "beauty-and-ascent": 7,
+      "beauty-and-ascent": 11,
       "commentary-and-afterlife": 17,
       "education-and-civic-life": 19,
-      "poetry-and-judgment": 33,
+      "media-and-form": 9,
+      "poetry-and-judgment": 39,
       "rhetoric-and-force": 12,
       "signs-and-reading": 15,
-      "taste-and-standards": 13,
+      "sublime-and-limits": 11,
+      "taste-and-standards": 17,
       "theater-and-public-judgment": 13,
       "vernacular-and-institution": 13
     },
     "kinds": {
       "chapter": 6,
-      "constellation": 10,
+      "constellation": 12,
       "passage": 3,
-      "text": 30,
-      "thinker": 30
+      "text": 33,
+      "thinker": 33
     },
     "statuses": {
       "chapter draft": 6,
-      "edition-review-needed": 30,
-      "generated private workspace note": 30,
-      "private constellation draft": 10,
+      "edition-review-needed": 33,
+      "generated private workspace note": 33,
+      "private constellation draft": 12,
       "private restricted note; public quotation pending edition review": 3
     },
     "tags": {
       "addison-spectator-essays": 3,
-      "aesthetics": 2,
+      "aesthetics": 4,
+      "affect": 3,
       "agency": 1,
       "allegory": 9,
       "aphra-behn-dutch-lover-lucky-chance": 3,
       "archive": 1,
-      "aristotle-poetics-rhetoric": 4,
+      "aristotle-poetics-rhetoric": 5,
       "ascent": 1,
       "audience": 5,
       "augustine-on-christian-doctrine-trinity": 2,
       "authority": 8,
       "authorship": 5,
       "authorship-and-authority": 16,
-      "beauty": 2,
-      "beauty-and-ascent": 6,
+      "beauty": 4,
+      "beauty-and-ascent": 10,
       "belief": 1,
       "blame": 1,
       "boccaccio-genealogy-gentile-gods": 1,
+      "burke-sublime-and-beautiful": 4,
       "christine-de-pizan-city-of-ladies": 2,
       "civic-discipline": 1,
       "civic-formation": 7,
@@ -1981,6 +2225,7 @@
       "decorum": 2,
       "defense-of-poetry": 2,
       "disciplined-reading": 1,
+      "disinterestedness": 2,
       "drama": 5,
       "dryden-selected-critical-prose": 3,
       "education": 10,
@@ -1989,7 +2234,7 @@
       "excess": 1,
       "fiction": 2,
       "force": 1,
-      "form": 2,
+      "form": 3,
       "gender": 5,
       "genius": 2,
       "genre": 6,
@@ -1998,10 +2243,10 @@
       "giambattista-giraldi-composition-romances": 2,
       "gorgias-encomium-helen": 1,
       "history": 3,
-      "horace-ars-poetica": 1,
+      "horace-ars-poetica": 2,
       "hugh-didascalicon": 3,
       "humanism": 2,
-      "hume-standard-of-taste": 2,
+      "hume-standard-of-taste": 3,
       "imagination": 2,
       "imitation": 5,
       "inheritance": 1,
@@ -2011,12 +2256,18 @@
       "inward-reading": 1,
       "joachim-du-bellay-defense-french-language": 3,
       "johnson-selected-critical-prose": 5,
-      "judgment": 7,
+      "judgment": 9,
+      "kant-critique-of-judgment": 5,
       "language": 4,
+      "lessing-laocoon": 3,
+      "limit": 1,
       "literary-judgment": 2,
-      "longinus-on-sublimity": 3,
+      "longinus-on-sublimity": 4,
       "macrobius-dream-scipio": 1,
       "maimonides-guide-perplexed": 2,
+      "media": 2,
+      "media-and-form": 8,
+      "medium": 1,
       "memory": 4,
       "metaphysics": 2,
       "method": 3,
@@ -2028,20 +2279,22 @@
       "neoclassicism": 2,
       "orientation": 1,
       "originality": 2,
+      "painting": 2,
       "pedagogy": 7,
       "persuasion": 3,
       "pierre-de-ronsard-art-french-poetry": 2,
       "plato-selected-dialogues": 4,
       "plotinus-enneads": 1,
       "poetics": 12,
-      "poetry": 2,
-      "poetry-and-judgment": 32,
+      "poetry": 4,
+      "poetry-and-judgment": 38,
       "pope-essay-on-criticism": 3,
       "public-judgment": 4,
       "public-sphere": 2,
       "quintilian-institutio-oratoria": 2,
       "reading": 2,
       "reason": 2,
+      "representation": 3,
       "revelation": 2,
       "rhetoric": 13,
       "rhetoric-and-force": 11,
@@ -2053,10 +2306,13 @@
       "signs": 2,
       "signs-and-reading": 14,
       "speech": 2,
-      "sublimity": 3,
+      "sublime": 4,
+      "sublime-and-limits": 10,
+      "sublimity": 4,
       "taste": 5,
-      "taste-and-standards": 12,
+      "taste-and-standards": 16,
       "tension": 2,
+      "terror": 2,
       "theater": 2,
       "theater-and-public-judgment": 12,
       "theology": 4,
@@ -2079,6 +2335,7 @@
       "Christine de Pizan": 2,
       "Dante Alighieri": 2,
       "David Hume": 2,
+      "Edmund Burke": 2,
       "Edward Young": 2,
       "Geoffrey of Vinsauf": 2,
       "Giacopo Mazzoni": 2,
@@ -2087,8 +2344,10 @@
       "Giovanni Boccaccio": 2,
       "Gorgias": 2,
       "Gorgias of Leontini": 3,
+      "Gotthold Ephraim Lessing": 2,
       "Horace": 2,
       "Hugh of St. Victor": 2,
+      "Immanuel Kant": 2,
       "Joachim du Bellay": 2,
       "John Dryden": 2,
       "Joseph Addison": 2,
@@ -2105,8 +2364,8 @@
       "Thomas Aquinas": 2
     }
   },
-  "generated_at": "2026-06-13T04:33:25Z",
-  "git_commit": "7a6d90c",
+  "generated_at": "2026-06-13T04:36:22Z",
+  "git_commit": "647245f",
   "script_version": "1",
   "source_id": "norton-theory-criticism"
 }

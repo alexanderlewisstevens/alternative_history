@@ -38,6 +38,7 @@ This note turns the current Norton chunk for Longinus into a navigable workspace
 | [poetry-and-judgment](../poetry-and-judgment.md) | Who gets to judge art? | tension, craft, excess |
 | [beauty-and-ascent](../beauty-and-ascent.md) | When does beauty become a way of knowing? | sublimity, ascent, inward-reading |
 | [taste-and-standards](../taste-and-standards.md) | How do communities make judgments of taste? | taste, criticism, consensus |
+| [sublime-and-limits](../sublime-and-limits.md) | What happens when experience exceeds form? | sublimity, affect, limit |
 
 ## Passage Queue
 
@@ -46,7 +47,7 @@ This note turns the current Norton chunk for Longinus into a navigable workspace
   <h3>Choose Passages After Review</h3>
   <p><strong>Source location:</strong> Norton page range 177-196.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
-  <p><strong>Use:</strong> Find the passages that make this text active inside poetry-and-judgment, beauty-and-ascent, taste-and-standards.</p>
+  <p><strong>Use:</strong> Find the passages that make this text active inside poetry-and-judgment, beauty-and-ascent, taste-and-standards, sublime-and-limits.</p>
 </section>
 
 <section class="ah-passage-card">
@@ -90,8 +91,8 @@ This note turns the current Norton chunk for Longinus into a navigable workspace
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/longinus.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T04:33:23Z` |
-| Git commit | `7a6d90c` |
+| Generated at | `2026-06-13T04:36:20Z` |
+| Git commit | `647245f` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/longinus-on-sublimity.md` |
 
@@ -107,6 +108,7 @@ This note turns the current Norton chunk for Longinus into a navigable workspace
 <li><a href="../../poetry-and-judgment/">poetry-and-judgment</a></li>
 <li><a href="../../beauty-and-ascent/">beauty-and-ascent</a></li>
 <li><a href="../../taste-and-standards/">taste-and-standards</a></li>
+<li><a href="../../sublime-and-limits/">sublime-and-limits</a></li>
 </ul>
 
 ## Open Questions

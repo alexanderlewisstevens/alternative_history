@@ -1,10 +1,10 @@
-# Rhetoric And Force
+# Media And Form
 
 <div class="ah-note-meta">
   <span><strong>Type:</strong> constellation note</span>
   <span><strong>Status:</strong> generated private workspace draft</span>
   <span><strong>Source mode:</strong> restricted metadata only</span>
-  <span><strong>Tags:</strong> tension, civic-discipline, inheritance</span>
+  <span><strong>Tags:</strong> medium, form, representation</span>
 </div>
 
 <div class="ah-private-banner">
@@ -14,7 +14,7 @@
 
 ## Core Question
 
-What can speech do?
+How do media shape what thought can represent?
 
 ## Working Claim
 
@@ -23,35 +23,35 @@ This is a scaffold for reading the configured texts together. It should become a
 ## Texts In Play
 
 <div class="ah-graph-list">
-  <a href="../norton-texts/gorgias-encomium-helen/"><strong>Gorgias, Encomium of Helen</strong><span>rhetoric, persuasion, speech; pages 71-74; 3 review rows</span></a>
-  <a href="../norton-texts/plato-selected-dialogues/"><strong>Plato, Selected dialogues</strong><span>mimesis, writing, memory; pages 75-127; 29 review rows</span></a>
   <a href="../norton-texts/aristotle-poetics-rhetoric/"><strong>Aristotle, Poetics and Rhetoric</strong><span>poetics, rhetoric, genre; pages 128-162; 23 review rows</span></a>
-  <a href="../norton-texts/quintilian-institutio-oratoria/"><strong>Quintilian, Institutio Oratoria</strong><span>rhetoric, education, civic-formation; pages 197-212; 10 review rows</span></a>
+  <a href="../norton-texts/horace-ars-poetica/"><strong>Horace, Ars Poetica</strong><span>literary-judgment, craft, decorum; pages 163-176; 14 review rows</span></a>
+  <a href="../norton-texts/kant-critique-of-judgment/"><strong>Immanuel Kant, Critique of Judgment</strong><span>aesthetics, judgment, disinterestedness; pages 541-577; 14 review rows</span></a>
+  <a href="../norton-texts/lessing-laocoon/"><strong>Gotthold Ephraim Lessing, Laocoon</strong><span>media, poetry, painting; pages 593-607; 12 review rows</span></a>
 </div>
 
 ## Relationship Map
 
 | Relation | From | To | Current Status |
 | --- | --- | --- | --- |
-| Tension | Gorgias | Plato | Configured relation; needs close-reading evidence before promotion. |
-| Civic Discipline | Plato | Aristotle | Configured relation; needs close-reading evidence before promotion. |
-| Inheritance | Aristotle | Quintilian | Configured relation; needs close-reading evidence before promotion. |
+| Medium | Aristotle | Horace | Configured relation; needs close-reading evidence before promotion. |
+| Form | Horace | Immanuel Kant | Configured relation; needs close-reading evidence before promotion. |
+| Representation | Immanuel Kant | Gotthold Ephraim Lessing | Configured relation; needs close-reading evidence before promotion. |
 
 ## Reading Path
 
-1. [Gorgias, Encomium of Helen](norton-texts/gorgias-encomium-helen.md)
-2. [Plato, Selected dialogues](norton-texts/plato-selected-dialogues.md)
-3. [Aristotle, Poetics and Rhetoric](norton-texts/aristotle-poetics-rhetoric.md)
-4. [Quintilian, Institutio Oratoria](norton-texts/quintilian-institutio-oratoria.md)
+1. [Aristotle, Poetics and Rhetoric](norton-texts/aristotle-poetics-rhetoric.md)
+2. [Horace, Ars Poetica](norton-texts/horace-ars-poetica.md)
+3. [Immanuel Kant, Critique of Judgment](norton-texts/kant-critique-of-judgment.md)
+4. [Gotthold Ephraim Lessing, Laocoon](norton-texts/lessing-laocoon.md)
 
 ## Review Pressure
 
 | Text | Norton Pages | Review Rows | Page Kinds |
 | --- | --- | ---: | --- |
-| [Encomium of Helen](norton-texts/gorgias-encomium-helen.md) | 71-74 | 3 | excerpt: 3<br>author_intro: 1 |
-| [Selected dialogues](norton-texts/plato-selected-dialogues.md) | 75-127 | 29 | excerpt: 49<br>author_intro: 4 |
 | [Poetics and Rhetoric](norton-texts/aristotle-poetics-rhetoric.md) | 128-162 | 23 | excerpt: 30<br>author_intro: 5 |
-| [Institutio Oratoria](norton-texts/quintilian-institutio-oratoria.md) | 197-212 | 10 | excerpt: 14<br>author_intro: 2 |
+| [Ars Poetica](norton-texts/horace-ars-poetica.md) | 163-176 | 14 | excerpt: 10<br>author_intro: 4 |
+| [Critique of Judgment](norton-texts/kant-critique-of-judgment.md) | 541-577 | 14 | excerpt: 32<br>author_intro: 5 |
+| [Laocoon](norton-texts/lessing-laocoon.md) | 593-607 | 12 | excerpt: 12<br>author_intro: 3 |
 
 ## Passage Queue
 
@@ -100,7 +100,7 @@ This is a scaffold for reading the configured texts together. It should become a
 
 | Field | Value |
 | --- | --- |
-| Constellation ID | `rhetoric-and-force` |
+| Constellation ID | `media-and-form` |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
@@ -108,7 +108,7 @@ This is a scaffold for reading the configured texts together. It should become a
 | Generated at | `2026-06-13T04:35:59Z` |
 | Git commit | `647245f` |
 | Script version | `2` |
-| Output path | `docs/workspace/rhetoric-and-force.md` |
+| Output path | `docs/workspace/media-and-form.md` |
 
 ## Open Questions
 

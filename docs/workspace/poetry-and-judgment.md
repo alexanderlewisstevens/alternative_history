@@ -38,7 +38,10 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/young-conjectures-original-composition/"><strong>Edward Young, Conjectures on Original Composition</strong><span>originality, imitation, authorship; pages 468-479; 11 review rows</span></a>
   <a href="../norton-texts/pope-essay-on-criticism/"><strong>Alexander Pope, An Essay on Criticism</strong><span>criticism, judgment, wit; pages 480-499; 20 review rows</span></a>
   <a href="../norton-texts/johnson-selected-critical-prose/"><strong>Samuel Johnson, Selected Critical Prose</strong><span>fiction, shakespeare, criticism; pages 500-524; 21 review rows</span></a>
-  <a href="../norton-texts/hume-standard-of-taste/"><strong>David Hume, Of the Standard of Taste</strong><span>taste, judgment, empiricism; pages 525-527; 3 review rows</span></a>
+  <a href="../norton-texts/hume-standard-of-taste/"><strong>David Hume, Of the Standard of Taste</strong><span>taste, judgment, empiricism; pages 525-540; 7 review rows</span></a>
+  <a href="../norton-texts/kant-critique-of-judgment/"><strong>Immanuel Kant, Critique of Judgment</strong><span>aesthetics, judgment, disinterestedness; pages 541-577; 14 review rows</span></a>
+  <a href="../norton-texts/burke-sublime-and-beautiful/"><strong>Edmund Burke, A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful</strong><span>sublime, beauty, affect; pages 578-592; 6 review rows</span></a>
+  <a href="../norton-texts/lessing-laocoon/"><strong>Gotthold Ephraim Lessing, Laocoon</strong><span>media, poetry, painting; pages 593-607; 12 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -67,6 +70,9 @@ This is a scaffold for reading the configured texts together. It should become a
 14. [Alexander Pope, An Essay on Criticism](norton-texts/pope-essay-on-criticism.md)
 15. [Samuel Johnson, Selected Critical Prose](norton-texts/johnson-selected-critical-prose.md)
 16. [David Hume, Of the Standard of Taste](norton-texts/hume-standard-of-taste.md)
+17. [Immanuel Kant, Critique of Judgment](norton-texts/kant-critique-of-judgment.md)
+18. [Edmund Burke, A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful](norton-texts/burke-sublime-and-beautiful.md)
+19. [Gotthold Ephraim Lessing, Laocoon](norton-texts/lessing-laocoon.md)
 
 ## Review Pressure
 
@@ -87,7 +93,10 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Conjectures on Original Composition](norton-texts/young-conjectures-original-composition.md) | 468-479 | 11 | excerpt: 10<br>author_intro: 1<br>mixed_excerpt_bibliography: 1 |
 | [An Essay on Criticism](norton-texts/pope-essay-on-criticism.md) | 480-499 | 20 | excerpt: 17<br>author_intro: 3 |
 | [Selected Critical Prose](norton-texts/johnson-selected-critical-prose.md) | 500-524 | 21 | excerpt: 18<br>author_intro: 7 |
-| [Of the Standard of Taste](norton-texts/hume-standard-of-taste.md) | 525-527 | 3 | author_intro: 3 |
+| [Of the Standard of Taste](norton-texts/hume-standard-of-taste.md) | 525-540 | 7 | excerpt: 13<br>author_intro: 3 |
+| [Critique of Judgment](norton-texts/kant-critique-of-judgment.md) | 541-577 | 14 | excerpt: 32<br>author_intro: 5 |
+| [A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful](norton-texts/burke-sublime-and-beautiful.md) | 578-592 | 6 | excerpt: 12<br>author_intro: 3 |
+| [Laocoon](norton-texts/lessing-laocoon.md) | 593-607 | 12 | excerpt: 12<br>author_intro: 3 |
 
 ## Passage Queue
 
@@ -141,8 +150,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T04:32:57Z` |
-| Git commit | `7a6d90c` |
+| Generated at | `2026-06-13T04:35:59Z` |
+| Git commit | `647245f` |
 | Script version | `2` |
 | Output path | `docs/workspace/poetry-and-judgment.md` |
 

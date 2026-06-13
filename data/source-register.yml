@@ -315,6 +315,36 @@ curated_texts:
       - empiricism
       - consensus
     status: edition-review-needed
+  - id: kant-critique-of-judgment
+    title: Critique of Judgment
+    creator: Immanuel Kant
+    role: core-text-candidate
+    themes:
+      - aesthetics
+      - judgment
+      - disinterestedness
+      - sublime
+    status: edition-review-needed
+  - id: burke-sublime-and-beautiful
+    title: A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful
+    creator: Edmund Burke
+    role: core-text-candidate
+    themes:
+      - sublime
+      - beauty
+      - affect
+      - terror
+    status: edition-review-needed
+  - id: lessing-laocoon
+    title: Laocoon
+    creator: Gotthold Ephraim Lessing
+    role: core-text-candidate
+    themes:
+      - media
+      - poetry
+      - painting
+      - representation
+    status: edition-review-needed
 
 constellations:
   - id: rhetoric-and-force
@@ -347,6 +377,9 @@ constellations:
       - pope-essay-on-criticism
       - johnson-selected-critical-prose
       - hume-standard-of-taste
+      - kant-critique-of-judgment
+      - burke-sublime-and-beautiful
+      - lessing-laocoon
     relations:
       - tension
       - craft
@@ -371,6 +404,8 @@ constellations:
       - longinus-on-sublimity
       - plotinus-enneads
       - augustine-on-christian-doctrine-trinity
+      - kant-critique-of-judgment
+      - burke-sublime-and-beautiful
     relations:
       - sublimity
       - ascent
@@ -456,10 +491,35 @@ constellations:
       - pope-essay-on-criticism
       - johnson-selected-critical-prose
       - hume-standard-of-taste
+      - kant-critique-of-judgment
+      - burke-sublime-and-beautiful
     relations:
       - taste
       - criticism
       - consensus
+  - id: sublime-and-limits
+    question: What happens when experience exceeds form?
+    texts:
+      - longinus-on-sublimity
+      - hume-standard-of-taste
+      - kant-critique-of-judgment
+      - burke-sublime-and-beautiful
+      - lessing-laocoon
+    relations:
+      - sublimity
+      - affect
+      - limit
+  - id: media-and-form
+    question: How do media shape what thought can represent?
+    texts:
+      - aristotle-poetics-rhetoric
+      - horace-ars-poetica
+      - kant-critique-of-judgment
+      - lessing-laocoon
+    relations:
+      - medium
+      - form
+      - representation
 
 research_tools:
   - id: worldcat

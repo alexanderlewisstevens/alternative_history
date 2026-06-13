@@ -36,6 +36,7 @@ This note turns the current Norton chunk for Horace into a navigable workspace n
 | Constellation | Core Question | Relations |
 | --- | --- | --- |
 | [poetry-and-judgment](../poetry-and-judgment.md) | Who gets to judge art? | tension, craft, excess |
+| [media-and-form](../media-and-form.md) | How do media shape what thought can represent? | medium, form, representation |
 
 ## Passage Queue
 
@@ -44,7 +45,7 @@ This note turns the current Norton chunk for Horace into a navigable workspace n
   <h3>Choose Passages After Review</h3>
   <p><strong>Source location:</strong> Norton page range 163-176.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
-  <p><strong>Use:</strong> Find the passages that make this text active inside poetry-and-judgment.</p>
+  <p><strong>Use:</strong> Find the passages that make this text active inside poetry-and-judgment, media-and-form.</p>
 </section>
 
 <section class="ah-passage-card">
@@ -88,8 +89,8 @@ This note turns the current Norton chunk for Horace into a navigable workspace n
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/horace.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T04:33:23Z` |
-| Git commit | `7a6d90c` |
+| Generated at | `2026-06-13T04:36:20Z` |
+| Git commit | `647245f` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/horace-ars-poetica.md` |
 
@@ -103,6 +104,7 @@ This note turns the current Norton chunk for Horace into a navigable workspace n
 <li>Thinker: <a href="../../thinkers/horace/">Horace</a></li>
 <li><a href="../../passages/">Passage Notes</a></li>
 <li><a href="../../poetry-and-judgment/">poetry-and-judgment</a></li>
+<li><a href="../../media-and-form/">media-and-form</a></li>
 </ul>
 
 ## Open Questions

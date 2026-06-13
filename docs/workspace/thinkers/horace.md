@@ -20,7 +20,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [Ars Poetica](../norton-texts/horace-ars-poetica.md) | 163-176 | 14 | 0 | [poetry-and-judgment](../poetry-and-judgment.md) | `edition-review-needed` |
+| [Ars Poetica](../norton-texts/horace-ars-poetica.md) | 163-176 | 14 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[media-and-form](../media-and-form.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -28,6 +28,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 ## Constellation Backlinks
 
+- [media-and-form](../media-and-form.md)
 - [poetry-and-judgment](../poetry-and-judgment.md)
 
 ## Review Pressure
@@ -87,8 +88,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T04:33:22Z` |
-| Git commit | `7a6d90c` |
+| Generated at | `2026-06-13T04:36:17Z` |
+| Git commit | `647245f` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/horace.md` |
 

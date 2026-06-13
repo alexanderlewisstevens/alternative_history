@@ -5,7 +5,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Boundary Review</div>
-  <div class="ah-metric-value">90</div>
+  <div class="ah-metric-value">104</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Content Separation</div>
@@ -13,11 +13,11 @@ This is the editorial queue for restricted extraction work. It is generated from
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Layout Review</div>
-  <div class="ah-metric-value">225</div>
+  <div class="ah-metric-value">244</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Source Notes</div>
-  <div class="ah-metric-value">39</div>
+  <div class="ah-metric-value">42</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">General Review</div>
@@ -29,10 +29,10 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 <div class="ah-review-grid">
 <section class="ah-review-card warn">
-  <div class="ah-review-card-kicker">90 pages</div>
+  <div class="ah-review-card-kicker">104 pages</div>
   <h3>Boundary Review</h3>
   <p>Confirm thinker and work boundaries before assembling public-facing drafts.</p>
-  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +78 more</p>
+  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +92 more</p>
 </section>
 <section class="ah-review-card warn">
   <div class="ah-review-card-kicker">8 pages</div>
@@ -41,16 +41,16 @@ This is the editorial queue for restricted extraction work. It is generated from
   <p><strong>Start:</strong> <code>72</code>, <code>199</code>, <code>285</code>, <code>297</code>, <code>344</code>, <code>368</code>, <code>443</code>, <code>469</code></p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">225 pages</div>
+  <div class="ah-review-card-kicker">244 pages</div>
   <h3>Layout Review</h3>
   <p>Confirm multi-column reading order before any summary or excerpt curation.</p>
-  <p><strong>Start:</strong> <code>73</code>, <code>79</code>, <code>80</code>, <code>82</code>, <code>83</code>, <code>84</code>, <code>86</code>, <code>90</code>, <code>91</code>, <code>92</code>, <code>93</code>, <code>94</code> +213 more</p>
+  <p><strong>Start:</strong> <code>73</code>, <code>79</code>, <code>80</code>, <code>82</code>, <code>83</code>, <code>84</code>, <code>86</code>, <code>90</code>, <code>91</code>, <code>92</code>, <code>93</code>, <code>94</code> +232 more</p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">39 pages</div>
+  <div class="ah-review-card-kicker">42 pages</div>
   <h3>Source Notes</h3>
   <p>Move source footnotes into Source Notes without converting them into Markdown footnotes.</p>
-  <p><strong>Start:</strong> <code>74</code>, <code>98</code>, <code>99</code>, <code>126</code>, <code>185</code>, <code>190</code>, <code>191</code>, <code>192</code>, <code>194</code>, <code>204</code>, <code>213</code>, <code>218</code> +27 more</p>
+  <p><strong>Start:</strong> <code>74</code>, <code>98</code>, <code>99</code>, <code>126</code>, <code>185</code>, <code>190</code>, <code>191</code>, <code>192</code>, <code>194</code>, <code>204</code>, <code>213</code>, <code>218</code> +30 more</p>
 </section>
 </div>
 
@@ -66,11 +66,11 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Field | Value |
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
-| Classified source pages | `71-527` |
-| Review queue rows | `362` |
+| Classified source pages | `71-607` |
+| Review queue rows | `398` |
 | Review queue file | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
-| Generated at | `2026-06-13T04:33:21Z` |
-| Git commit | `7a6d90c` |
+| Generated at | `2026-06-13T04:36:16Z` |
+| Git commit | `647245f` |
 | Script version | `1` |
 | Output path | `docs/_meta/review-dashboard.md` |
 
@@ -78,11 +78,11 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 | Reason | Pages |
 | --- | ---: |
-| multi_column_layout | 234 |
-| source_notes_detected | 212 |
-| transition_from_previous_author | 77 |
-| layout_review_required | 21 |
-| author_boundary_without_life_dates | 11 |
+| multi_column_layout | 254 |
+| source_notes_detected | 227 |
+| transition_from_previous_author | 88 |
+| layout_review_required | 22 |
+| author_boundary_without_life_dates | 14 |
 | mixed_excerpt_and_bibliography | 8 |
 | transition_from_previous_work | 2 |
 
@@ -99,7 +99,9 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Moses Maimonides | 15 |
 | Giacopo Mazzoni | 15 |
 | Horace | 14 |
+| Immanuel Kant | 14 |
 | Geoffrey of Vinsauf | 12 |
+| Gotthold Ephraim Lessing | 12 |
 | Joachim du Bellay | 11 |
 | Pierre Corneille | 11 |
 | Aphra Behn | 11 |
@@ -113,13 +115,14 @@ This is the editorial queue for restricted extraction work. It is generated from
 | John Dryden | 9 |
 | Plotinus | 7 |
 | Giambattista Giraldi | 7 |
+| David Hume | 7 |
 | Thomas Aquinas | 6 |
+| Edmund Burke | 6 |
 | Dante Alighieri | 5 |
 | Pierre de Ronsard | 5 |
 | Macrobius | 4 |
 | Gorgias of Leontini | 3 |
 | Christine de Pizan | 3 |
-| David Hume | 3 |
 
 ## Boundary Review
 
@@ -215,6 +218,20 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 525 | David Hume |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0525.md |
 | 526 | David Hume | the early 1750s to the mid-1760s, Hume spent most of his time in Edinburgh | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0526.md |
 | 527 | David Hume |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0527.md |
+| 541 | Immanuel Kant |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0541.md |
+| 542 | Immanuel Kant |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0542.md |
+| 543 | Immanuel Kant | Immanuel Kant | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0543.md |
+| 544 | Immanuel Kant |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0544.md |
+| 545 | Immanuel Kant |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0545.md |
+| 556 | Immanuel Kant | Critique of Judgment | author_boundary_without_life_dates;multi_column_layout | work/page-records/norton-theory-criticism/page_0556.md |
+| 571 | Immanuel Kant | Critique of Judgment | author_boundary_without_life_dates | work/page-records/norton-theory-criticism/page_0571.md |
+| 575 | Immanuel Kant | Critique of Judgment | author_boundary_without_life_dates | work/page-records/norton-theory-criticism/page_0575.md |
+| 578 | Edmund Burke |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0578.md |
+| 579 | Edmund Burke | Edmund Burke | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0579.md |
+| 580 | Edmund Burke |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0580.md |
+| 593 | Gotthold Ephraim Lessing |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0593.md |
+| 594 | Gotthold Ephraim Lessing |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0594.md |
+| 595 | Gotthold Ephraim Lessing |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0595.md |
 
 ## Content Separation
 
@@ -458,6 +475,25 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 521 | Samuel Johnson | Preface to Shakespeare | multi_column_layout | work/page-records/norton-theory-criticism/page_0521.md |
 | 522 | Samuel Johnson | Preface to Shakespeare | multi_column_layout | work/page-records/norton-theory-criticism/page_0522.md |
 | 523 | Samuel Johnson | Preface to Shakespeare | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0523.md |
+| 528 | David Hume | Of the Standard of Taste | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0528.md |
+| 546 | Immanuel Kant | Critique of Judgment | multi_column_layout | work/page-records/norton-theory-criticism/page_0546.md |
+| 554 | Immanuel Kant | Critique of Judgment | multi_column_layout | work/page-records/norton-theory-criticism/page_0554.md |
+| 559 | Immanuel Kant | Critique of Judgment | multi_column_layout | work/page-records/norton-theory-criticism/page_0559.md |
+| 568 | Immanuel Kant | Critique of Judgment | layout_review_required;multi_column_layout | work/page-records/norton-theory-criticism/page_0568.md |
+| 574 | Immanuel Kant | Critique of Judgment | multi_column_layout | work/page-records/norton-theory-criticism/page_0574.md |
+| 576 | Immanuel Kant | Critique of Judgment | multi_column_layout | work/page-records/norton-theory-criticism/page_0576.md |
+| 586 | Edmund Burke | A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0586.md |
+| 587 | Edmund Burke | A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0587.md |
+| 590 | Edmund Burke | A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0590.md |
+| 597 | Gotthold Ephraim Lessing | Laocoon | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0597.md |
+| 598 | Gotthold Ephraim Lessing | Laocoon | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0598.md |
+| 599 | Gotthold Ephraim Lessing | Laocoon | multi_column_layout | work/page-records/norton-theory-criticism/page_0599.md |
+| 601 | Gotthold Ephraim Lessing | Laocoon | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0601.md |
+| 602 | Gotthold Ephraim Lessing | Laocoon | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0602.md |
+| 603 | Gotthold Ephraim Lessing | Laocoon | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0603.md |
+| 604 | Gotthold Ephraim Lessing | Laocoon | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0604.md |
+| 605 | Gotthold Ephraim Lessing | Laocoon | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0605.md |
+| 606 | Gotthold Ephraim Lessing | Laocoon | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0606.md |
 
 ## Source Notes
 
@@ -502,3 +538,6 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 514 | Samuel Johnson | Preface to Shakespeare | source_notes_detected | work/page-records/norton-theory-criticism/page_0514.md |
 | 515 | Samuel Johnson | Preface to Shakespeare | source_notes_detected | work/page-records/norton-theory-criticism/page_0515.md |
 | 520 | Samuel Johnson | Preface to Shakespeare | source_notes_detected | work/page-records/norton-theory-criticism/page_0520.md |
+| 535 | David Hume | Of the Standard of Taste | source_notes_detected | work/page-records/norton-theory-criticism/page_0535.md |
+| 538 | David Hume | Of the Standard of Taste | source_notes_detected | work/page-records/norton-theory-criticism/page_0538.md |
+| 540 | David Hume | Of the Standard of Taste | source_notes_detected | work/page-records/norton-theory-criticism/page_0540.md |

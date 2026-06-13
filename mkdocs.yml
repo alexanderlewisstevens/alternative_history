@@ -60,6 +60,9 @@ nav:
           - Pope, An Essay on Criticism: workspace/norton-texts/pope-essay-on-criticism.md
           - Johnson, Selected Critical Prose: workspace/norton-texts/johnson-selected-critical-prose.md
           - Hume, Of the Standard of Taste: workspace/norton-texts/hume-standard-of-taste.md
+          - Kant, Critique of Judgment: workspace/norton-texts/kant-critique-of-judgment.md
+          - Burke, Sublime and Beautiful: workspace/norton-texts/burke-sublime-and-beautiful.md
+          - Lessing, Laocoon: workspace/norton-texts/lessing-laocoon.md
       - Thinker Notes:
           - Index: workspace/thinkers/index.md
           - Gorgias of Leontini: workspace/thinkers/gorgias-of-leontini.md
@@ -92,6 +95,9 @@ nav:
           - Alexander Pope: workspace/thinkers/alexander-pope.md
           - Samuel Johnson: workspace/thinkers/samuel-johnson.md
           - David Hume: workspace/thinkers/david-hume.md
+          - Immanuel Kant: workspace/thinkers/immanuel-kant.md
+          - Edmund Burke: workspace/thinkers/edmund-burke.md
+          - Gotthold Ephraim Lessing: workspace/thinkers/gotthold-ephraim-lessing.md
       - Passage Notes:
           - Index: workspace/passages/index.md
           - Speech As Force: workspace/passages/gorgias-speech-as-force.md
@@ -107,6 +113,8 @@ nav:
       - Theater And Public Judgment: workspace/theater-and-public-judgment.md
       - Authorship And Authority: workspace/authorship-and-authority.md
       - Taste And Standards: workspace/taste-and-standards.md
+      - Sublime And Limits: workspace/sublime-and-limits.md
+      - Media And Form: workspace/media-and-form.md
       - Page Anatomy: workspace/page-anatomy.md
       - Gorgias Text Note: workspace/gorgias-encomium-helen.md
   - Project Notes:

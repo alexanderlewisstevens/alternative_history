@@ -1,10 +1,10 @@
-# Alexander Pope
+# Gotthold Ephraim Lessing
 
 <div class="ah-note-meta">
   <span><strong>Type:</strong> thinker node</span>
   <span><strong>Status:</strong> generated private workspace note</span>
   <span><strong>Source mode:</strong> restricted metadata only</span>
-  <span><strong>Tags:</strong> criticism, judgment, neoclassicism, wit</span>
+  <span><strong>Tags:</strong> media, painting, poetry, representation</span>
 </div>
 
 <div class="ah-private-banner">
@@ -20,25 +20,25 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [An Essay on Criticism](../norton-texts/pope-essay-on-criticism.md) | 480-499 | 20 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md) | `edition-review-needed` |
+| [Laocoon](../norton-texts/lessing-laocoon.md) | 593-607 | 12 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[sublime-and-limits](../sublime-and-limits.md)<br>[media-and-form](../media-and-form.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
-- An Essay on Criticism
+- Laocoon
 
 ## Constellation Backlinks
 
-- [authorship-and-authority](../authorship-and-authority.md)
+- [media-and-form](../media-and-form.md)
 - [poetry-and-judgment](../poetry-and-judgment.md)
-- [taste-and-standards](../taste-and-standards.md)
+- [sublime-and-limits](../sublime-and-limits.md)
 
 ## Review Pressure
 
 | Signal | Value |
 | --- | --- |
-| Page kinds | excerpt: 17<br>author_intro: 3 |
-| Review rows | 20 |
-| Review reasons | multi_column_layout: 16<br>source_notes_detected: 16<br>layout_review_required: 15<br>transition_from_previous_author: 3<br>author_boundary_without_life_dates: 1 |
+| Page kinds | excerpt: 12<br>author_intro: 3 |
+| Review rows | 12 |
+| Review reasons | multi_column_layout: 9<br>source_notes_detected: 8<br>transition_from_previous_author: 3 |
 
 ## Passage Queue
 
@@ -85,14 +85,14 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Field | Value |
 | --- | --- |
-| Thinker slug | `alexander-pope` |
+| Thinker slug | `gotthold-ephraim-lessing` |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Generated at | `2026-06-13T04:36:17Z` |
 | Git commit | `647245f` |
 | Script version | `1` |
-| Output path | `docs/workspace/thinkers/alexander-pope.md` |
+| Output path | `docs/workspace/thinkers/gotthold-ephraim-lessing.md` |
 
 ## Open Questions
 

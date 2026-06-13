@@ -93,8 +93,8 @@ This note turns the current Norton chunk for Sir Philip Sidney into a navigable 
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/sir-philip-sidney.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T04:33:24Z` |
-| Git commit | `7a6d90c` |
+| Generated at | `2026-06-13T04:36:20Z` |
+| Git commit | `647245f` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/sidney-defense-of-poesy.md` |
 

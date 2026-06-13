@@ -20,11 +20,11 @@ This note turns the current Norton chunk for David Hume into a navigable workspa
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Chunk Status</span>
-  <h3>Norton Pages 525-527</h3>
-  <p><strong>Page count:</strong> 3</p>
+  <h3>Norton Pages 525-540</h3>
+  <p><strong>Page count:</strong> 16</p>
   <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/david-hume.md</code></p>
-  <p><strong>Page kinds:</strong> author_intro: 3</p>
-  <p><strong>Review pressure:</strong> 3 rows. transition_from_previous_author: 3</p>
+  <p><strong>Page kinds:</strong> excerpt: 13<br>author_intro: 3</p>
+  <p><strong>Review pressure:</strong> 7 rows. source_notes_detected: 4<br>transition_from_previous_author: 3<br>multi_column_layout: 1</p>
 </section>
 
 ## Works And Excerpt Blocks
@@ -38,21 +38,22 @@ This note turns the current Norton chunk for David Hume into a navigable workspa
 | --- | --- | --- |
 | [poetry-and-judgment](../poetry-and-judgment.md) | Who gets to judge art? | tension, craft, excess |
 | [taste-and-standards](../taste-and-standards.md) | How do communities make judgments of taste? | taste, criticism, consensus |
+| [sublime-and-limits](../sublime-and-limits.md) | What happens when experience exceeds form? | sublimity, affect, limit |
 
 ## Passage Queue
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Anchor Candidates</span>
   <h3>Choose Passages After Review</h3>
-  <p><strong>Source location:</strong> Norton page range 525-527.</p>
+  <p><strong>Source location:</strong> Norton page range 525-540.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
-  <p><strong>Use:</strong> Find the passages that make this text active inside poetry-and-judgment, taste-and-standards.</p>
+  <p><strong>Use:</strong> Find the passages that make this text active inside poetry-and-judgment, taste-and-standards, sublime-and-limits.</p>
 </section>
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Review Before Quoting</span>
   <h3>Layout, Notes, And Bibliography</h3>
-  <p><strong>Review signal:</strong> transition_from_previous_author: 3</p>
+  <p><strong>Review signal:</strong> source_notes_detected: 4<br>transition_from_previous_author: 3<br>multi_column_layout: 1</p>
   <p><strong>Editorial rule:</strong> source notes belong in source-note fields, bibliography belongs in bibliography fields, and excerpt text stays separate.</p>
 </section>
 
@@ -90,8 +91,8 @@ This note turns the current Norton chunk for David Hume into a navigable workspa
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/david-hume.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T04:33:24Z` |
-| Git commit | `7a6d90c` |
+| Generated at | `2026-06-13T04:36:20Z` |
+| Git commit | `647245f` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/hume-standard-of-taste.md` |
 
@@ -106,6 +107,7 @@ This note turns the current Norton chunk for David Hume into a navigable workspa
 <li><a href="../../passages/">Passage Notes</a></li>
 <li><a href="../../poetry-and-judgment/">poetry-and-judgment</a></li>
 <li><a href="../../taste-and-standards/">taste-and-standards</a></li>
+<li><a href="../../sublime-and-limits/">sublime-and-limits</a></li>
 </ul>
 
 ## Open Questions

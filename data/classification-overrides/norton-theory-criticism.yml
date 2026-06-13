@@ -948,3 +948,83 @@ overrides:
     review_required: true
     review_reasons:
       - transition_from_previous_author
+
+  - id: david-hume-standard-of-taste
+    pages: 528-540
+    author_name: David Hume
+    author_slug: david-hume
+    work_title: Of the Standard of Taste
+    work_slug: of-the-standard-of-taste
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: immanuel-kant-headnote
+    pages: 541-545
+    author_name: Immanuel Kant
+    author_slug: immanuel-kant
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: immanuel-kant-critique-of-judgment
+    pages: 546-577
+    author_name: Immanuel Kant
+    author_slug: immanuel-kant
+    work_title: Critique of Judgment
+    work_slug: critique-of-judgment
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: edmund-burke-headnote
+    pages: 578-580
+    author_name: Edmund Burke
+    author_slug: edmund-burke
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: edmund-burke-sublime-beautiful
+    pages: 581-592
+    author_name: Edmund Burke
+    author_slug: edmund-burke
+    work_title: A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful
+    work_slug: a-philosophical-enquiry-into-the-origin-of-our-ideas-of-the-sublime-and-beautiful
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: gotthold-ephraim-lessing-headnote
+    pages: 593-595
+    author_name: Gotthold Ephraim Lessing
+    author_slug: gotthold-ephraim-lessing
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: gotthold-ephraim-lessing-laocoon
+    pages: 596-607
+    author_name: Gotthold Ephraim Lessing
+    author_slug: gotthold-ephraim-lessing
+    work_title: Laocoon
+    work_slug: laocoon
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high

@@ -16,6 +16,7 @@ This private index is generated from curated source metadata and local extractio
 | [Christine de Pizan](christine-de-pizan.md) | 1 | The Book of the City of Ladies |
 | [Dante Alighieri](dante-alighieri.md) | 1 | Il Convivio and The Letter to Can Grande |
 | [David Hume](david-hume.md) | 1 | Of the Standard of Taste |
+| [Edmund Burke](edmund-burke.md) | 1 | A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful |
 | [Edward Young](edward-young.md) | 1 | Conjectures on Original Composition |
 | [Geoffrey of Vinsauf](geoffrey-of-vinsauf.md) | 1 | Poetria Nova |
 | [Giacopo Mazzoni](giacopo-mazzoni.md) | 1 | On the Defense of the Comedy of Dante |
@@ -23,8 +24,10 @@ This private index is generated from curated source metadata and local extractio
 | [Giambattista Vico](giambattista-vico.md) | 1 | The New Science |
 | [Giovanni Boccaccio](giovanni-boccaccio.md) | 1 | Genealogy of the Gentile Gods |
 | [Gorgias](gorgias-of-leontini.md) | 1 | Encomium of Helen |
+| [Gotthold Ephraim Lessing](gotthold-ephraim-lessing.md) | 1 | Laocoon |
 | [Horace](horace.md) | 1 | Ars Poetica |
 | [Hugh of St. Victor](hugh-of-st-victor.md) | 1 | The Didascalicon |
+| [Immanuel Kant](immanuel-kant.md) | 1 | Critique of Judgment |
 | [Joachim du Bellay](joachim-du-bellay.md) | 1 | The Defence and Illustration of the French Language |
 | [John Dryden](john-dryden.md) | 1 | Selected Critical Prose |
 | [Joseph Addison](joseph-addison.md) | 1 | The Spectator, Nos. 62 and 412 |
@@ -61,7 +64,7 @@ This private index is generated from curated source metadata and local extractio
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
-| Generated at | `2026-06-13T04:33:22Z` |
-| Git commit | `7a6d90c` |
+| Generated at | `2026-06-13T04:36:17Z` |
+| Git commit | `647245f` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/index.md` |
