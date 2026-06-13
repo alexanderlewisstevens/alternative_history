@@ -63,7 +63,7 @@ This index is generated from curated source metadata and local extraction audit 
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T02:46:14Z` |
-| Git commit | `4e87a11` |
+| Generated at | `2026-06-13T02:58:23Z` |
+| Git commit | `bed2581` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/index.md` |

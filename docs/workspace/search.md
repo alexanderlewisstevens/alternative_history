@@ -63,7 +63,7 @@ This generated page gives the private workspace a filtered index across texts, t
 | Source title | The Norton Anthology of Theory and Criticism |
 | Entry count | 36 |
 | JSON index | `docs/assets/data/workspace-search.json` |
-| Generated at | `2026-06-13T02:46:15Z` |
-| Git commit | `4e87a11` |
+| Generated at | `2026-06-13T02:58:23Z` |
+| Git commit | `bed2581` |
 | Script version | `1` |
 | Output path | `docs/workspace/search.md` |

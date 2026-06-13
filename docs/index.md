@@ -2,13 +2,13 @@
 
 History is not only what happened. It is also what was preserved, who was believed, what was translated, what was destroyed, what was taught, and what became convenient to forget.
 
-This book is a curated reader in theory, criticism, historiography, and historical imagination. It collects selected thinkers, texts, passages, historical problems, and interpretive traditions that challenge inherited versions of the past.
+This project is a curated reader and private knowledge base for theory, criticism, historiography, and historical imagination. It starts with the thinkers and texts that make history less automatic: works that show how memory is made, how authority speaks, how archives disappear, how interpretation hardens into common sense, and how a different reading can change the shape of the past.
 
-The project does not scrape broadly from open repositories or assemble material just because it is available. Each text should earn its place because it helps readers see how history is narrated, authorized, archived, translated, contested, or remembered.
+The collection is intentional. It does not scrape broadly from open repositories or assemble material just because it is available. Each source should earn its place because it helps readers understand how history is narrated, authorized, archived, translated, contested, or remembered.
 
-The project uses "alternative history" as a critical practice. It includes counter-histories that confront official memory, theory and criticism that expose narrative power, and disciplined speculation when it clarifies contingency rather than replacing evidence.
+Here, "alternative history" means critical practice, not novelty counterfactuals or unsupported hidden-history claims. It includes counter-histories that confront official memory, theory and criticism that expose narrative power, and disciplined speculation only when it clarifies contingency rather than replacing evidence.
 
-The first goal is to make the best texts come alive together. A text should not sit alone as a trophy. It should enter conversation with other texts: answering, resisting, inheriting, translating, and transforming them.
+The first goal is to make the best texts come alive together. A text should not sit alone as a trophy. It should enter conversation with other texts: answering, resisting, inheriting, translating, and transforming them. The site is being built as a wiki-like reading surface where thinkers, passages, constellations, and editorial questions can be followed in more than one direction.
 
 ## Project Desk
 
@@ -17,6 +17,11 @@ The first goal is to make the best texts come alive together. A text should not 
     <span class="ah-action-kicker">Private Workspace</span>
     <strong>Knowledge Base</strong>
     <span>A wiki-style working layer for notes, backlinks, passage queues, and reading paths.</span>
+  </a>
+  <a class="ah-action-card primary" href="workspace/search/">
+    <span class="ah-action-kicker">Find A Thread</span>
+    <strong>Workspace Search</strong>
+    <span>Filter texts, thinkers, passages, constellations, concepts, and chapter drafts from one page.</span>
   </a>
   <a class="ah-action-card" href="workspace/norton-map/">
     <span class="ah-action-kicker">Chunk Map</span>
@@ -57,11 +62,12 @@ The first goal is to make the best texts come alive together. A text should not 
 
 ## Editorial Promise
 
-Every entry should help answer three questions:
+Every entry should help answer four questions:
 
 - What text, thinker, concept, or historical problem is being read?
+- Why does this source belong in this collection?
 - What habit of interpretation does it unsettle?
-- What becomes newly visible when we stay true to the text?
+- What becomes newly visible when we stay close to the text?
 
 ## Current Status
 
