@@ -28,7 +28,8 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/quintilian-institutio-oratoria/"><strong>Quintilian, Institutio Oratoria</strong><span>rhetoric, education, civic-formation; pages 197-212; 10 review rows</span></a>
   <a href="../norton-texts/hugh-didascalicon/"><strong>Hugh of St. Victor, The Didascalicon</strong><span>reading, pedagogy, classification; pages 243-252; 10 review rows</span></a>
   <a href="../norton-texts/christine-de-pizan-city-of-ladies/"><strong>Christine de Pizan, The Book of the City of Ladies</strong><span>education, gender, authority; pages 305-312; 3 review rows</span></a>
-  <a href="../norton-texts/sidney-defense-of-poesy/"><strong>Sir Philip Sidney, The Defense of Poesy</strong><span>poetry, rhetoric, education; pages 365-367; 3 review rows</span></a>
+  <a href="../norton-texts/sidney-defense-of-poesy/"><strong>Sir Philip Sidney, The Defense of Poesy</strong><span>poetry, rhetoric, education; pages 365-404; 39 review rows</span></a>
+  <a href="../norton-texts/vico-new-science/"><strong>Giambattista Vico, The New Science</strong><span>history, language, institutions; pages 441-447; 4 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -47,6 +48,7 @@ This is a scaffold for reading the configured texts together. It should become a
 4. [Hugh of St. Victor, The Didascalicon](norton-texts/hugh-didascalicon.md)
 5. [Christine de Pizan, The Book of the City of Ladies](norton-texts/christine-de-pizan-city-of-ladies.md)
 6. [Sir Philip Sidney, The Defense of Poesy](norton-texts/sidney-defense-of-poesy.md)
+7. [Giambattista Vico, The New Science](norton-texts/vico-new-science.md)
 
 ## Review Pressure
 
@@ -57,7 +59,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Institutio Oratoria](norton-texts/quintilian-institutio-oratoria.md) | 197-212 | 10 | excerpt: 14<br>author_intro: 2 |
 | [The Didascalicon](norton-texts/hugh-didascalicon.md) | 243-252 | 10 | excerpt: 6<br>author_intro: 4 |
 | [The Book of the City of Ladies](norton-texts/christine-de-pizan-city-of-ladies.md) | 305-312 | 3 | excerpt: 6<br>author_intro: 2 |
-| [The Defense of Poesy](norton-texts/sidney-defense-of-poesy.md) | 365-367 | 3 | author_intro: 3 |
+| [The Defense of Poesy](norton-texts/sidney-defense-of-poesy.md) | 365-404 | 39 | excerpt: 36<br>author_intro: 3<br>mixed_excerpt_bibliography: 1 |
+| [The New Science](norton-texts/vico-new-science.md) | 441-447 | 4 | excerpt: 4<br>author_intro: 2<br>mixed_excerpt_bibliography: 1 |
 
 ## Passage Queue
 
@@ -111,8 +114,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T04:25:50Z` |
-| Git commit | `383dabc` |
+| Generated at | `2026-06-13T04:29:15Z` |
+| Git commit | `1665a30` |
 | Script version | `2` |
 | Output path | `docs/workspace/education-and-civic-life.md` |
 

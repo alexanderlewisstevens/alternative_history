@@ -1,10 +1,10 @@
-# Beauty And Ascent
+# Theater And Public Judgment
 
 <div class="ah-note-meta">
   <span><strong>Type:</strong> constellation note</span>
   <span><strong>Status:</strong> generated private workspace draft</span>
   <span><strong>Source mode:</strong> restricted metadata only</span>
-  <span><strong>Tags:</strong> sublimity, ascent, inward-reading</span>
+  <span><strong>Tags:</strong> drama, audience, rules</span>
 </div>
 
 <div class="ah-private-banner">
@@ -14,7 +14,7 @@
 
 ## Core Question
 
-When does beauty become a way of knowing?
+How does theater train or expose public judgment?
 
 ## Working Claim
 
@@ -23,32 +23,38 @@ This is a scaffold for reading the configured texts together. It should become a
 ## Texts In Play
 
 <div class="ah-graph-list">
-  <a href="../norton-texts/longinus-on-sublimity/"><strong>Longinus, On Sublimity</strong><span>sublimity, aesthetics, authority; pages 177-196; 19 review rows</span></a>
-  <a href="../norton-texts/plotinus-enneads/"><strong>Plotinus, Selected Enneads</strong><span>beauty, form, metaphysics; pages 213-226; 7 review rows</span></a>
-  <a href="../norton-texts/augustine-on-christian-doctrine-trinity/"><strong>Augustine of Hippo, On Christian Doctrine and The Trinity</strong><span>interpretation, signs, theology; pages 227-237; 9 review rows</span></a>
+  <a href="../norton-texts/aristotle-poetics-rhetoric/"><strong>Aristotle, Poetics and Rhetoric</strong><span>poetics, rhetoric, genre; pages 128-162; 23 review rows</span></a>
+  <a href="../norton-texts/giambattista-giraldi-composition-romances/"><strong>Giambattista Giraldi, Discourse on the Composition of Romances</strong><span>genre, romance, poetics; pages 313-320; 7 review rows</span></a>
+  <a href="../norton-texts/corneille-three-unities/"><strong>Pierre Corneille, Of the Three Unities of Action, Time, and Place</strong><span>drama, rules, audience; pages 405-420; 11 review rows</span></a>
+  <a href="../norton-texts/dryden-selected-critical-prose/"><strong>John Dryden, Selected Critical Prose</strong><span>drama, translation, judgment; pages 421-429; 9 review rows</span></a>
+  <a href="../norton-texts/aphra-behn-dutch-lover-lucky-chance/"><strong>Aphra Behn, The Dutch Lover and Preface to The Lucky Chance</strong><span>authorship, gender, theater; pages 430-440; 11 review rows</span></a>
 </div>
 
 ## Relationship Map
 
 | Relation | From | To | Current Status |
 | --- | --- | --- | --- |
-| Sublimity | Longinus | Plotinus | Configured relation; needs close-reading evidence before promotion. |
-| Ascent | Plotinus | Augustine of Hippo | Configured relation; needs close-reading evidence before promotion. |
-| Inward Reading | Augustine of Hippo | Longinus | Configured relation; needs close-reading evidence before promotion. |
+| Drama | Aristotle | Giambattista Giraldi | Configured relation; needs close-reading evidence before promotion. |
+| Audience | Giambattista Giraldi | Pierre Corneille | Configured relation; needs close-reading evidence before promotion. |
+| Rules | Pierre Corneille | John Dryden | Configured relation; needs close-reading evidence before promotion. |
 
 ## Reading Path
 
-1. [Longinus, On Sublimity](norton-texts/longinus-on-sublimity.md)
-2. [Plotinus, Selected Enneads](norton-texts/plotinus-enneads.md)
-3. [Augustine of Hippo, On Christian Doctrine and The Trinity](norton-texts/augustine-on-christian-doctrine-trinity.md)
+1. [Aristotle, Poetics and Rhetoric](norton-texts/aristotle-poetics-rhetoric.md)
+2. [Giambattista Giraldi, Discourse on the Composition of Romances](norton-texts/giambattista-giraldi-composition-romances.md)
+3. [Pierre Corneille, Of the Three Unities of Action, Time, and Place](norton-texts/corneille-three-unities.md)
+4. [John Dryden, Selected Critical Prose](norton-texts/dryden-selected-critical-prose.md)
+5. [Aphra Behn, The Dutch Lover and Preface to The Lucky Chance](norton-texts/aphra-behn-dutch-lover-lucky-chance.md)
 
 ## Review Pressure
 
 | Text | Norton Pages | Review Rows | Page Kinds |
 | --- | --- | ---: | --- |
-| [On Sublimity](norton-texts/longinus-on-sublimity.md) | 177-196 | 19 | excerpt: 16<br>author_intro: 4 |
-| [Selected Enneads](norton-texts/plotinus-enneads.md) | 213-226 | 7 | excerpt: 10<br>author_intro: 4 |
-| [On Christian Doctrine and The Trinity](norton-texts/augustine-on-christian-doctrine-trinity.md) | 227-237 | 9 | excerpt: 7<br>author_intro: 4 |
+| [Poetics and Rhetoric](norton-texts/aristotle-poetics-rhetoric.md) | 128-162 | 23 | excerpt: 30<br>author_intro: 5 |
+| [Discourse on the Composition of Romances](norton-texts/giambattista-giraldi-composition-romances.md) | 313-320 | 7 | excerpt: 6<br>author_intro: 2 |
+| [Of the Three Unities of Action, Time, and Place](norton-texts/corneille-three-unities.md) | 405-420 | 11 | excerpt: 12<br>author_intro: 4 |
+| [Selected Critical Prose](norton-texts/dryden-selected-critical-prose.md) | 421-429 | 9 | excerpt: 7<br>author_intro: 2 |
+| [The Dutch Lover and Preface to The Lucky Chance](norton-texts/aphra-behn-dutch-lover-lucky-chance.md) | 430-440 | 11 | excerpt: 8<br>author_intro: 3 |
 
 ## Passage Queue
 
@@ -97,7 +103,7 @@ This is a scaffold for reading the configured texts together. It should become a
 
 | Field | Value |
 | --- | --- |
-| Constellation ID | `beauty-and-ascent` |
+| Constellation ID | `theater-and-public-judgment` |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
@@ -105,7 +111,7 @@ This is a scaffold for reading the configured texts together. It should become a
 | Generated at | `2026-06-13T04:29:15Z` |
 | Git commit | `1665a30` |
 | Script version | `2` |
-| Output path | `docs/workspace/beauty-and-ascent.md` |
+| Output path | `docs/workspace/theater-and-public-judgment.md` |
 
 ## Open Questions
 

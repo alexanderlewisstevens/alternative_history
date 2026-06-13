@@ -37,6 +37,7 @@ This note turns the current Norton chunk for Christine de Pizan into a navigable
 | Constellation | Core Question | Relations |
 | --- | --- | --- |
 | [education-and-civic-life](../education-and-civic-life.md) | What should education make possible for citizens? | pedagogy, civic-formation, authority |
+| [authorship-and-authority](../authorship-and-authority.md) | Who is allowed to speak as an author? | authorship, gender, authority |
 
 ## Passage Queue
 
@@ -45,7 +46,7 @@ This note turns the current Norton chunk for Christine de Pizan into a navigable
   <h3>Choose Passages After Review</h3>
   <p><strong>Source location:</strong> Norton page range 305-312.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
-  <p><strong>Use:</strong> Find the passages that make this text active inside education-and-civic-life.</p>
+  <p><strong>Use:</strong> Find the passages that make this text active inside education-and-civic-life, authorship-and-authority.</p>
 </section>
 
 <section class="ah-passage-card">
@@ -89,8 +90,8 @@ This note turns the current Norton chunk for Christine de Pizan into a navigable
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/christine-de-pizan.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T04:26:20Z` |
-| Git commit | `383dabc` |
+| Generated at | `2026-06-13T04:29:48Z` |
+| Git commit | `1665a30` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/christine-de-pizan-city-of-ladies.md` |
 
@@ -104,6 +105,7 @@ This note turns the current Norton chunk for Christine de Pizan into a navigable
 <li>Thinker: <a href="../../thinkers/christine-de-pizan/">Christine de Pizan</a></li>
 <li><a href="../../passages/">Passage Notes</a></li>
 <li><a href="../../education-and-civic-life/">education-and-civic-life</a></li>
+<li><a href="../../authorship-and-authority/">authorship-and-authority</a></li>
 </ul>
 
 ## Open Questions

@@ -51,6 +51,10 @@ nav:
           - Ronsard, A Brief on the Art of French Poetry: workspace/norton-texts/pierre-de-ronsard-art-french-poetry.md
           - Mazzoni, On the Defense of the Comedy of Dante: workspace/norton-texts/giacopo-mazzoni-defense-comedy-dante.md
           - Sidney, The Defense of Poesy: workspace/norton-texts/sidney-defense-of-poesy.md
+          - Corneille, Of the Three Unities: workspace/norton-texts/corneille-three-unities.md
+          - Dryden, Selected Critical Prose: workspace/norton-texts/dryden-selected-critical-prose.md
+          - Behn, The Dutch Lover and The Lucky Chance: workspace/norton-texts/aphra-behn-dutch-lover-lucky-chance.md
+          - Vico, The New Science: workspace/norton-texts/vico-new-science.md
       - Thinker Notes:
           - Index: workspace/thinkers/index.md
           - Gorgias of Leontini: workspace/thinkers/gorgias-of-leontini.md
@@ -74,6 +78,10 @@ nav:
           - Pierre de Ronsard: workspace/thinkers/pierre-de-ronsard.md
           - Giacopo Mazzoni: workspace/thinkers/giacopo-mazzoni.md
           - Sir Philip Sidney: workspace/thinkers/sir-philip-sidney.md
+          - Pierre Corneille: workspace/thinkers/pierre-corneille.md
+          - John Dryden: workspace/thinkers/john-dryden.md
+          - Aphra Behn: workspace/thinkers/aphra-behn.md
+          - Giambattista Vico: workspace/thinkers/giambattista-vico.md
       - Passage Notes:
           - Index: workspace/passages/index.md
           - Speech As Force: workspace/passages/gorgias-speech-as-force.md
@@ -86,6 +94,8 @@ nav:
       - Commentary And Afterlife: workspace/commentary-and-afterlife.md
       - Education And Civic Life: workspace/education-and-civic-life.md
       - Vernacular And Institution: workspace/vernacular-and-institution.md
+      - Theater And Public Judgment: workspace/theater-and-public-judgment.md
+      - Authorship And Authority: workspace/authorship-and-authority.md
       - Page Anatomy: workspace/page-anatomy.md
       - Gorgias Text Note: workspace/gorgias-encomium-helen.md
   - Project Notes:

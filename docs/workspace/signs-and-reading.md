@@ -114,8 +114,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T04:25:50Z` |
-| Git commit | `383dabc` |
+| Generated at | `2026-06-13T04:29:15Z` |
+| Git commit | `1665a30` |
 | Script version | `2` |
 | Output path | `docs/workspace/signs-and-reading.md` |
 

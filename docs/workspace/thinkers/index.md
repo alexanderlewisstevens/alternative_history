@@ -9,6 +9,7 @@ This private index is generated from curated source metadata and local extractio
 
 | Thinker | Text Nodes | Current Texts |
 | --- | ---: | --- |
+| [Aphra Behn](aphra-behn.md) | 1 | The Dutch Lover and Preface to The Lucky Chance |
 | [Aristotle](aristotle.md) | 1 | Poetics and Rhetoric |
 | [Augustine of Hippo](augustine-of-hippo.md) | 1 | On Christian Doctrine and The Trinity |
 | [Christine de Pizan](christine-de-pizan.md) | 1 | The Book of the City of Ladies |
@@ -16,14 +17,17 @@ This private index is generated from curated source metadata and local extractio
 | [Geoffrey of Vinsauf](geoffrey-of-vinsauf.md) | 1 | Poetria Nova |
 | [Giacopo Mazzoni](giacopo-mazzoni.md) | 1 | On the Defense of the Comedy of Dante |
 | [Giambattista Giraldi](giambattista-giraldi.md) | 1 | Discourse on the Composition of Romances |
+| [Giambattista Vico](giambattista-vico.md) | 1 | The New Science |
 | [Giovanni Boccaccio](giovanni-boccaccio.md) | 1 | Genealogy of the Gentile Gods |
 | [Gorgias](gorgias-of-leontini.md) | 1 | Encomium of Helen |
 | [Horace](horace.md) | 1 | Ars Poetica |
 | [Hugh of St. Victor](hugh-of-st-victor.md) | 1 | The Didascalicon |
 | [Joachim du Bellay](joachim-du-bellay.md) | 1 | The Defence and Illustration of the French Language |
+| [John Dryden](john-dryden.md) | 1 | Selected Critical Prose |
 | [Longinus](longinus.md) | 1 | On Sublimity |
 | [Macrobius](macrobius.md) | 1 | Commentary on the Dream of Scipio |
 | [Moses Maimonides](moses-maimonides.md) | 1 | The Guide of the Perplexed |
+| [Pierre Corneille](pierre-corneille.md) | 1 | Of the Three Unities of Action, Time, and Place |
 | [Pierre de Ronsard](pierre-de-ronsard.md) | 1 | A Brief on the Art of French Poetry |
 | [Plato](plato.md) | 1 | Selected dialogues |
 | [Plotinus](plotinus.md) | 1 | Selected Enneads |
@@ -52,7 +56,7 @@ This private index is generated from curated source metadata and local extractio
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
-| Generated at | `2026-06-13T04:26:19Z` |
-| Git commit | `383dabc` |
+| Generated at | `2026-06-13T04:29:46Z` |
+| Git commit | `1665a30` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/index.md` |

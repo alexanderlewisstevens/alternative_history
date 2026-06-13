@@ -1,10 +1,10 @@
-# Macrobius, Commentary on the Dream of Scipio
+# Pierre Corneille, Of the Three Unities of Action, Time, and Place
 
 <div class="ah-note-meta">
   <span><strong>Type:</strong> Norton text node</span>
   <span><strong>Status:</strong> generated private workspace note</span>
   <span><strong>Source mode:</strong> restricted metadata only</span>
-  <span><strong>Tags:</strong> commentary, transmission, allegory</span>
+  <span><strong>Tags:</strong> drama, rules, audience, institutional-judgment</span>
 </div>
 
 <div class="ah-private-banner">
@@ -14,43 +14,44 @@
 
 ## Working Use
 
-This note turns the current Norton chunk for Macrobius into a navigable workspace node. Use it to move between the restricted draft, the curated text spine, the first constellations, and the review queue before writing public-facing commentary.
+This note turns the current Norton chunk for Pierre Corneille into a navigable workspace node. Use it to move between the restricted draft, the curated text spine, the first constellations, and the review queue before writing public-facing commentary.
 
 ## Current Chunk
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Chunk Status</span>
-  <h3>Norton Pages 238-242</h3>
-  <p><strong>Page count:</strong> 5</p>
-  <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/macrobius.md</code></p>
-  <p><strong>Page kinds:</strong> author_intro: 3<br>excerpt: 2</p>
-  <p><strong>Review pressure:</strong> 4 rows. transition_from_previous_author: 3<br>multi_column_layout: 1<br>source_notes_detected: 1</p>
+  <h3>Norton Pages 405-420</h3>
+  <p><strong>Page count:</strong> 16</p>
+  <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/pierre-corneille.md</code></p>
+  <p><strong>Page kinds:</strong> excerpt: 12<br>author_intro: 4</p>
+  <p><strong>Review pressure:</strong> 11 rows. source_notes_detected: 5<br>transition_from_previous_author: 4<br>multi_column_layout: 4<br>author_boundary_without_life_dates: 1</p>
 </section>
 
 ## Works And Excerpt Blocks
 
-- Commentary on the Dream of Scipio
+- Of the Three Unities of Action, Time, and Place
 
 ## Constellations
 
 | Constellation | Core Question | Relations |
 | --- | --- | --- |
-| [commentary-and-afterlife](../commentary-and-afterlife.md) | How do texts survive by being reread? | commentary, transmission, disciplined-reading |
+| [poetry-and-judgment](../poetry-and-judgment.md) | Who gets to judge art? | tension, craft, excess |
+| [theater-and-public-judgment](../theater-and-public-judgment.md) | How does theater train or expose public judgment? | drama, audience, rules |
 
 ## Passage Queue
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Anchor Candidates</span>
   <h3>Choose Passages After Review</h3>
-  <p><strong>Source location:</strong> Norton page range 238-242.</p>
+  <p><strong>Source location:</strong> Norton page range 405-420.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
-  <p><strong>Use:</strong> Find the passages that make this text active inside commentary-and-afterlife.</p>
+  <p><strong>Use:</strong> Find the passages that make this text active inside poetry-and-judgment, theater-and-public-judgment.</p>
 </section>
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Review Before Quoting</span>
   <h3>Layout, Notes, And Bibliography</h3>
-  <p><strong>Review signal:</strong> transition_from_previous_author: 3<br>multi_column_layout: 1<br>source_notes_detected: 1</p>
+  <p><strong>Review signal:</strong> source_notes_detected: 5<br>transition_from_previous_author: 4<br>multi_column_layout: 4<br>author_boundary_without_life_dates: 1</p>
   <p><strong>Editorial rule:</strong> source notes belong in source-note fields, bibliography belongs in bibliography fields, and excerpt text stays separate.</p>
 </section>
 
@@ -79,19 +80,19 @@ This note turns the current Norton chunk for Macrobius into a navigable workspac
 
 | Field | Value |
 | --- | --- |
-| Text ID | `macrobius-dream-scipio` |
-| Curated title | Commentary on the Dream of Scipio |
-| Creator | Macrobius |
-| Thinker note | [Macrobius](../thinkers/macrobius.md) |
+| Text ID | `corneille-three-unities` |
+| Curated title | Of the Three Unities of Action, Time, and Place |
+| Creator | Pierre Corneille |
+| Thinker note | [Pierre Corneille](../thinkers/pierre-corneille.md) |
 | Register status | `edition-review-needed` |
 | Source anthology | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Restricted draft | `generated/authors/norton-theory-criticism/macrobius.md` |
+| Restricted draft | `generated/authors/norton-theory-criticism/pierre-corneille.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
 | Generated at | `2026-06-13T04:29:48Z` |
 | Git commit | `1665a30` |
 | Script version | `2` |
-| Output path | `docs/workspace/norton-texts/macrobius-dream-scipio.md` |
+| Output path | `docs/workspace/norton-texts/corneille-three-unities.md` |
 
 ## Backlinks
 
@@ -100,9 +101,10 @@ This note turns the current Norton chunk for Macrobius into a navigable workspac
 <li><a href="../../norton-map/">Norton Workspace Map</a></li>
 <li><a href="../../">Private Knowledge Base</a></li>
 <li><a href="../../../catalog/sources/">Text Catalog</a></li>
-<li>Thinker: <a href="../../thinkers/macrobius/">Macrobius</a></li>
+<li>Thinker: <a href="../../thinkers/pierre-corneille/">Pierre Corneille</a></li>
 <li><a href="../../passages/">Passage Notes</a></li>
-<li><a href="../../commentary-and-afterlife/">commentary-and-afterlife</a></li>
+<li><a href="../../poetry-and-judgment/">poetry-and-judgment</a></li>
+<li><a href="../../theater-and-public-judgment/">theater-and-public-judgment</a></li>
 </ul>
 
 ## Open Questions

@@ -30,7 +30,10 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/geoffrey-poetria-nova/"><strong>Geoffrey of Vinsauf, Poetria Nova</strong><span>poetics, rhetoric, craft; pages 268-281; 12 review rows</span></a>
   <a href="../norton-texts/boccaccio-genealogy-gentile-gods/"><strong>Giovanni Boccaccio, Genealogy of the Gentile Gods</strong><span>poetics, mythology, defense-of-poetry; pages 295-304; 9 review rows</span></a>
   <a href="../norton-texts/pierre-de-ronsard-art-french-poetry/"><strong>Pierre de Ronsard, A Brief on the Art of French Poetry</strong><span>poetics, craft, vernacular; pages 333-341; 5 review rows</span></a>
-  <a href="../norton-texts/sidney-defense-of-poesy/"><strong>Sir Philip Sidney, The Defense of Poesy</strong><span>poetry, rhetoric, education; pages 365-367; 3 review rows</span></a>
+  <a href="../norton-texts/sidney-defense-of-poesy/"><strong>Sir Philip Sidney, The Defense of Poesy</strong><span>poetry, rhetoric, education; pages 365-404; 39 review rows</span></a>
+  <a href="../norton-texts/corneille-three-unities/"><strong>Pierre Corneille, Of the Three Unities of Action, Time, and Place</strong><span>drama, rules, audience; pages 405-420; 11 review rows</span></a>
+  <a href="../norton-texts/dryden-selected-critical-prose/"><strong>John Dryden, Selected Critical Prose</strong><span>drama, translation, judgment; pages 421-429; 9 review rows</span></a>
+  <a href="../norton-texts/aphra-behn-dutch-lover-lucky-chance/"><strong>Aphra Behn, The Dutch Lover and Preface to The Lucky Chance</strong><span>authorship, gender, theater; pages 430-440; 11 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -51,6 +54,9 @@ This is a scaffold for reading the configured texts together. It should become a
 6. [Giovanni Boccaccio, Genealogy of the Gentile Gods](norton-texts/boccaccio-genealogy-gentile-gods.md)
 7. [Pierre de Ronsard, A Brief on the Art of French Poetry](norton-texts/pierre-de-ronsard-art-french-poetry.md)
 8. [Sir Philip Sidney, The Defense of Poesy](norton-texts/sidney-defense-of-poesy.md)
+9. [Pierre Corneille, Of the Three Unities of Action, Time, and Place](norton-texts/corneille-three-unities.md)
+10. [John Dryden, Selected Critical Prose](norton-texts/dryden-selected-critical-prose.md)
+11. [Aphra Behn, The Dutch Lover and Preface to The Lucky Chance](norton-texts/aphra-behn-dutch-lover-lucky-chance.md)
 
 ## Review Pressure
 
@@ -63,7 +69,10 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Poetria Nova](norton-texts/geoffrey-poetria-nova.md) | 268-281 | 12 | excerpt: 11<br>author_intro: 3 |
 | [Genealogy of the Gentile Gods](norton-texts/boccaccio-genealogy-gentile-gods.md) | 295-304 | 9 | excerpt: 7<br>author_intro: 2<br>mixed_excerpt_bibliography: 1 |
 | [A Brief on the Art of French Poetry](norton-texts/pierre-de-ronsard-art-french-poetry.md) | 333-341 | 5 | excerpt: 6<br>author_intro: 3 |
-| [The Defense of Poesy](norton-texts/sidney-defense-of-poesy.md) | 365-367 | 3 | author_intro: 3 |
+| [The Defense of Poesy](norton-texts/sidney-defense-of-poesy.md) | 365-404 | 39 | excerpt: 36<br>author_intro: 3<br>mixed_excerpt_bibliography: 1 |
+| [Of the Three Unities of Action, Time, and Place](norton-texts/corneille-three-unities.md) | 405-420 | 11 | excerpt: 12<br>author_intro: 4 |
+| [Selected Critical Prose](norton-texts/dryden-selected-critical-prose.md) | 421-429 | 9 | excerpt: 7<br>author_intro: 2 |
+| [The Dutch Lover and Preface to The Lucky Chance](norton-texts/aphra-behn-dutch-lover-lucky-chance.md) | 430-440 | 11 | excerpt: 8<br>author_intro: 3 |
 
 ## Passage Queue
 
@@ -117,8 +126,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T04:25:50Z` |
-| Git commit | `383dabc` |
+| Generated at | `2026-06-13T04:29:15Z` |
+| Git commit | `1665a30` |
 | Script version | `2` |
 | Output path | `docs/workspace/poetry-and-judgment.md` |
 

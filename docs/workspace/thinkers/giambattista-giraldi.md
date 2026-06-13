@@ -20,7 +20,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [Discourse on the Composition of Romances](../norton-texts/giambattista-giraldi-composition-romances.md) | 313-320 | 7 | 0 | [vernacular-and-institution](../vernacular-and-institution.md) | `edition-review-needed` |
+| [Discourse on the Composition of Romances](../norton-texts/giambattista-giraldi-composition-romances.md) | 313-320 | 7 | 0 | [vernacular-and-institution](../vernacular-and-institution.md)<br>[theater-and-public-judgment](../theater-and-public-judgment.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -29,6 +29,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 ## Constellation Backlinks
 
+- [theater-and-public-judgment](../theater-and-public-judgment.md)
 - [vernacular-and-institution](../vernacular-and-institution.md)
 
 ## Review Pressure
@@ -88,8 +89,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T04:26:19Z` |
-| Git commit | `383dabc` |
+| Generated at | `2026-06-13T04:29:46Z` |
+| Git commit | `1665a30` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/giambattista-giraldi.md` |
 

@@ -37,6 +37,7 @@ This note turns the current Norton chunk for Joachim du Bellay into a navigable 
 | --- | --- | --- |
 | [commentary-and-afterlife](../commentary-and-afterlife.md) | How do texts survive by being reread? | commentary, transmission, disciplined-reading |
 | [vernacular-and-institution](../vernacular-and-institution.md) | How do languages become institutions of thought? | vernacular, imitation, nation |
+| [authorship-and-authority](../authorship-and-authority.md) | Who is allowed to speak as an author? | authorship, gender, authority |
 
 ## Passage Queue
 
@@ -45,7 +46,7 @@ This note turns the current Norton chunk for Joachim du Bellay into a navigable 
   <h3>Choose Passages After Review</h3>
   <p><strong>Source location:</strong> Norton page range 321-332.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
-  <p><strong>Use:</strong> Find the passages that make this text active inside commentary-and-afterlife, vernacular-and-institution.</p>
+  <p><strong>Use:</strong> Find the passages that make this text active inside commentary-and-afterlife, vernacular-and-institution, authorship-and-authority.</p>
 </section>
 
 <section class="ah-passage-card">
@@ -89,8 +90,8 @@ This note turns the current Norton chunk for Joachim du Bellay into a navigable 
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/joachim-du-bellay.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T04:26:20Z` |
-| Git commit | `383dabc` |
+| Generated at | `2026-06-13T04:29:48Z` |
+| Git commit | `1665a30` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/joachim-du-bellay-defense-french-language.md` |
 
@@ -105,6 +106,7 @@ This note turns the current Norton chunk for Joachim du Bellay into a navigable 
 <li><a href="../../passages/">Passage Notes</a></li>
 <li><a href="../../commentary-and-afterlife/">commentary-and-afterlife</a></li>
 <li><a href="../../vernacular-and-institution/">vernacular-and-institution</a></li>
+<li><a href="../../authorship-and-authority/">authorship-and-authority</a></li>
 </ul>
 
 ## Open Questions

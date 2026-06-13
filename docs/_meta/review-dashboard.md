@@ -5,19 +5,19 @@ This is the editorial queue for restricted extraction work. It is generated from
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Boundary Review</div>
-  <div class="ah-metric-value">57</div>
+  <div class="ah-metric-value">71</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Content Separation</div>
-  <div class="ah-metric-value">5</div>
+  <div class="ah-metric-value">7</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Layout Review</div>
-  <div class="ah-metric-value">131</div>
+  <div class="ah-metric-value">183</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Source Notes</div>
-  <div class="ah-metric-value">26</div>
+  <div class="ah-metric-value">29</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">General Review</div>
@@ -29,28 +29,28 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 <div class="ah-review-grid">
 <section class="ah-review-card warn">
-  <div class="ah-review-card-kicker">57 pages</div>
+  <div class="ah-review-card-kicker">71 pages</div>
   <h3>Boundary Review</h3>
   <p>Confirm thinker and work boundaries before assembling public-facing drafts.</p>
-  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +45 more</p>
+  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +59 more</p>
 </section>
 <section class="ah-review-card warn">
-  <div class="ah-review-card-kicker">5 pages</div>
+  <div class="ah-review-card-kicker">7 pages</div>
   <h3>Content Separation</h3>
   <p>Keep excerpt text, source notes, and bibliography material in separate template sections.</p>
-  <p><strong>Start:</strong> <code>72</code>, <code>199</code>, <code>285</code>, <code>297</code>, <code>344</code></p>
+  <p><strong>Start:</strong> <code>72</code>, <code>199</code>, <code>285</code>, <code>297</code>, <code>344</code>, <code>368</code>, <code>443</code></p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">131 pages</div>
+  <div class="ah-review-card-kicker">183 pages</div>
   <h3>Layout Review</h3>
   <p>Confirm multi-column reading order before any summary or excerpt curation.</p>
-  <p><strong>Start:</strong> <code>73</code>, <code>79</code>, <code>80</code>, <code>82</code>, <code>83</code>, <code>84</code>, <code>86</code>, <code>90</code>, <code>91</code>, <code>92</code>, <code>93</code>, <code>94</code> +119 more</p>
+  <p><strong>Start:</strong> <code>73</code>, <code>79</code>, <code>80</code>, <code>82</code>, <code>83</code>, <code>84</code>, <code>86</code>, <code>90</code>, <code>91</code>, <code>92</code>, <code>93</code>, <code>94</code> +171 more</p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">26 pages</div>
+  <div class="ah-review-card-kicker">29 pages</div>
   <h3>Source Notes</h3>
   <p>Move source footnotes into Source Notes without converting them into Markdown footnotes.</p>
-  <p><strong>Start:</strong> <code>74</code>, <code>98</code>, <code>99</code>, <code>126</code>, <code>185</code>, <code>190</code>, <code>191</code>, <code>192</code>, <code>194</code>, <code>204</code>, <code>213</code>, <code>218</code> +14 more</p>
+  <p><strong>Start:</strong> <code>74</code>, <code>98</code>, <code>99</code>, <code>126</code>, <code>185</code>, <code>190</code>, <code>191</code>, <code>192</code>, <code>194</code>, <code>204</code>, <code>213</code>, <code>218</code> +17 more</p>
 </section>
 </div>
 
@@ -66,11 +66,11 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Field | Value |
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
-| Classified source pages | `71-367` |
-| Review queue rows | `219` |
+| Classified source pages | `71-447` |
+| Review queue rows | `290` |
 | Review queue file | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
-| Generated at | `2026-06-13T04:26:18Z` |
-| Git commit | `383dabc` |
+| Generated at | `2026-06-13T04:29:45Z` |
+| Git commit | `1665a30` |
 | Script version | `1` |
 | Output path | `docs/_meta/review-dashboard.md` |
 
@@ -78,18 +78,19 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 | Reason | Pages |
 | --- | ---: |
-| multi_column_layout | 135 |
-| source_notes_detected | 119 |
-| transition_from_previous_author | 49 |
+| multi_column_layout | 190 |
+| source_notes_detected | 167 |
+| transition_from_previous_author | 60 |
+| author_boundary_without_life_dates | 9 |
+| mixed_excerpt_and_bibliography | 7 |
 | layout_review_required | 6 |
-| author_boundary_without_life_dates | 6 |
-| mixed_excerpt_and_bibliography | 5 |
 | transition_from_previous_work | 2 |
 
 ## Thinkers Needing Review
 
 | Thinker | Pages |
 | --- | ---: |
+| Sir Philip Sidney | 39 |
 | Plato | 29 |
 | Aristotle | 23 |
 | Longinus | 19 |
@@ -98,19 +99,22 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Horace | 14 |
 | Geoffrey of Vinsauf | 12 |
 | Joachim du Bellay | 11 |
+| Pierre Corneille | 11 |
+| Aphra Behn | 11 |
 | Quintilian | 10 |
 | Hugh of St. Victor | 10 |
 | Augustine of Hippo | 9 |
 | Giovanni Boccaccio | 9 |
+| John Dryden | 9 |
 | Plotinus | 7 |
 | Giambattista Giraldi | 7 |
 | Thomas Aquinas | 6 |
 | Dante Alighieri | 5 |
 | Pierre de Ronsard | 5 |
 | Macrobius | 4 |
+| Giambattista Vico | 4 |
 | Gorgias of Leontini | 3 |
 | Christine de Pizan | 3 |
-| Sir Philip Sidney | 3 |
 
 ## Boundary Review
 
@@ -173,6 +177,20 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 365 | Sir Philip Sidney | Sir Philip Sidney | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0365.md |
 | 366 | Sir Philip Sidney |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0366.md |
 | 367 | Sir Philip Sidney | Sir Philip Sidney | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0367.md |
+| 378 | Sir Philip Sidney | An Apology for Poetry | author_boundary_without_life_dates;multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0378.md |
+| 390 | Sir Philip Sidney | An Apology for Poetry | author_boundary_without_life_dates;multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0390.md |
+| 405 | Pierre Corneille |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0405.md |
+| 406 | Pierre Corneille |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0406.md |
+| 407 | Pierre Corneille |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0407.md |
+| 408 | Pierre Corneille |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0408.md |
+| 410 | Pierre Corneille | Of the Three Unities of Action, Time, and Place | author_boundary_without_life_dates;multi_column_layout | work/page-records/norton-theory-criticism/page_0410.md |
+| 421 | John Dryden |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0421.md |
+| 422 | John Dryden |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0422.md |
+| 430 | Aphra Behn |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0430.md |
+| 431 | Aphra Behn |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0431.md |
+| 432 | Aphra Behn |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0432.md |
+| 441 | Giambattista Vico |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0441.md |
+| 442 | Giambattista Vico |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0442.md |
 
 ## Content Separation
 
@@ -183,6 +201,8 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 285 | Thomas Aquinas | Summa Theologica | mixed_excerpt_and_bibliography | work/page-records/norton-theory-criticism/page_0285.md |
 | 297 | Giovanni Boccaccio | Genealogy of the Gentile Gods | mixed_excerpt_and_bibliography | work/page-records/norton-theory-criticism/page_0297.md |
 | 344 | Giacopo Mazzoni | On the Defense of the Comedy of Dante | mixed_excerpt_and_bibliography | work/page-records/norton-theory-criticism/page_0344.md |
+| 368 | Sir Philip Sidney | An Apology for Poetry | mixed_excerpt_and_bibliography | work/page-records/norton-theory-criticism/page_0368.md |
+| 443 | Giambattista Vico | The New Science | mixed_excerpt_and_bibliography | work/page-records/norton-theory-criticism/page_0443.md |
 
 ## Layout Review
 
@@ -319,6 +339,58 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 358 | Giacopo Mazzoni | On the Defense of the Comedy of Dante | multi_column_layout | work/page-records/norton-theory-criticism/page_0358.md |
 | 359 | Giacopo Mazzoni | On the Defense of the Comedy of Dante | multi_column_layout | work/page-records/norton-theory-criticism/page_0359.md |
 | 363 | Giacopo Mazzoni | On the Defense of the Comedy of Dante | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0363.md |
+| 369 | Sir Philip Sidney | An Apology for Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0369.md |
+| 370 | Sir Philip Sidney | An Apology for Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0370.md |
+| 371 | Sir Philip Sidney | An Apology for Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0371.md |
+| 372 | Sir Philip Sidney | An Apology for Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0372.md |
+| 373 | Sir Philip Sidney | An Apology for Poetry | multi_column_layout | work/page-records/norton-theory-criticism/page_0373.md |
+| 374 | Sir Philip Sidney | An Apology for Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0374.md |
+| 375 | Sir Philip Sidney | An Apology for Poetry | multi_column_layout | work/page-records/norton-theory-criticism/page_0375.md |
+| 376 | Sir Philip Sidney | An Apology for Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0376.md |
+| 377 | Sir Philip Sidney | An Apology for Poetry | multi_column_layout | work/page-records/norton-theory-criticism/page_0377.md |
+| 379 | Sir Philip Sidney | An Apology for Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0379.md |
+| 380 | Sir Philip Sidney | An Apology for Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0380.md |
+| 381 | Sir Philip Sidney | An Apology for Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0381.md |
+| 382 | Sir Philip Sidney | An Apology for Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0382.md |
+| 383 | Sir Philip Sidney | An Apology for Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0383.md |
+| 384 | Sir Philip Sidney | An Apology for Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0384.md |
+| 385 | Sir Philip Sidney | An Apology for Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0385.md |
+| 386 | Sir Philip Sidney | An Apology for Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0386.md |
+| 387 | Sir Philip Sidney | An Apology for Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0387.md |
+| 388 | Sir Philip Sidney | An Apology for Poetry | multi_column_layout | work/page-records/norton-theory-criticism/page_0388.md |
+| 389 | Sir Philip Sidney | An Apology for Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0389.md |
+| 392 | Sir Philip Sidney | An Apology for Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0392.md |
+| 393 | Sir Philip Sidney | An Apology for Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0393.md |
+| 394 | Sir Philip Sidney | An Apology for Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0394.md |
+| 395 | Sir Philip Sidney | An Apology for Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0395.md |
+| 396 | Sir Philip Sidney | An Apology for Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0396.md |
+| 397 | Sir Philip Sidney | An Apology for Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0397.md |
+| 398 | Sir Philip Sidney | An Apology for Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0398.md |
+| 399 | Sir Philip Sidney | An Apology for Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0399.md |
+| 400 | Sir Philip Sidney | An Apology for Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0400.md |
+| 401 | Sir Philip Sidney | An Apology for Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0401.md |
+| 402 | Sir Philip Sidney | An Apology for Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0402.md |
+| 403 | Sir Philip Sidney | An Apology for Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0403.md |
+| 404 | Sir Philip Sidney | An Apology for Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0404.md |
+| 409 | Pierre Corneille | Of the Three Unities of Action, Time, and Place | multi_column_layout | work/page-records/norton-theory-criticism/page_0409.md |
+| 411 | Pierre Corneille | Of the Three Unities of Action, Time, and Place | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0411.md |
+| 413 | Pierre Corneille | Of the Three Unities of Action, Time, and Place | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0413.md |
+| 423 | John Dryden | An Essay of Dramatic Poesy | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0423.md |
+| 424 | John Dryden | An Essay of Dramatic Poesy | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0424.md |
+| 425 | John Dryden | Preface to Troilus and Cressida | multi_column_layout | work/page-records/norton-theory-criticism/page_0425.md |
+| 426 | John Dryden | Preface to Troilus and Cressida | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0426.md |
+| 427 | John Dryden | Preface to Sylvae | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0427.md |
+| 428 | John Dryden | Preface to Sylvae | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0428.md |
+| 429 | John Dryden | Preface to Sylvae | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0429.md |
+| 433 | Aphra Behn | The Dutch Lover | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0433.md |
+| 434 | Aphra Behn | The Dutch Lover | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0434.md |
+| 435 | Aphra Behn | The Dutch Lover | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0435.md |
+| 436 | Aphra Behn | The Dutch Lover | multi_column_layout | work/page-records/norton-theory-criticism/page_0436.md |
+| 437 | Aphra Behn | Preface to The Lucky Chance | multi_column_layout | work/page-records/norton-theory-criticism/page_0437.md |
+| 438 | Aphra Behn | Preface to The Lucky Chance | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0438.md |
+| 439 | Aphra Behn | Preface to The Lucky Chance | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0439.md |
+| 440 | Aphra Behn | Preface to The Lucky Chance | multi_column_layout | work/page-records/norton-theory-criticism/page_0440.md |
+| 444 | Giambattista Vico | The New Science | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0444.md |
 
 ## Source Notes
 
@@ -350,3 +422,6 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 319 | Giambattista Giraldi | Discourse on the Composition of Romances | source_notes_detected | work/page-records/norton-theory-criticism/page_0319.md |
 | 354 | Giacopo Mazzoni | On the Defense of the Comedy of Dante | source_notes_detected | work/page-records/norton-theory-criticism/page_0354.md |
 | 357 | Giacopo Mazzoni | On the Defense of the Comedy of Dante | source_notes_detected | work/page-records/norton-theory-criticism/page_0357.md |
+| 412 | Pierre Corneille | Of the Three Unities of Action, Time, and Place | source_notes_detected | work/page-records/norton-theory-criticism/page_0412.md |
+| 415 | Pierre Corneille | Of the Three Unities of Action, Time, and Place | source_notes_detected | work/page-records/norton-theory-criticism/page_0415.md |
+| 416 | Pierre Corneille | Of the Three Unities of Action, Time, and Place | source_notes_detected | work/page-records/norton-theory-criticism/page_0416.md |

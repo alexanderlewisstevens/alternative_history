@@ -20,16 +20,17 @@ This note turns the current Norton chunk for Sir Philip Sidney into a navigable 
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Chunk Status</span>
-  <h3>Norton Pages 365-367</h3>
-  <p><strong>Page count:</strong> 3</p>
+  <h3>Norton Pages 365-404</h3>
+  <p><strong>Page count:</strong> 40</p>
   <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/sir-philip-sidney.md</code></p>
-  <p><strong>Page kinds:</strong> author_intro: 3</p>
-  <p><strong>Review pressure:</strong> 3 rows. transition_from_previous_author: 3</p>
+  <p><strong>Page kinds:</strong> excerpt: 36<br>author_intro: 3<br>mixed_excerpt_bibliography: 1</p>
+  <p><strong>Review pressure:</strong> 39 rows. multi_column_layout: 35<br>source_notes_detected: 31<br>transition_from_previous_author: 3<br>author_boundary_without_life_dates: 2<br>mixed_excerpt_and_bibliography: 1</p>
 </section>
 
 ## Works And Excerpt Blocks
 
 - The Defense of Poesy
+- An Apology for Poetry
 
 ## Constellations
 
@@ -38,21 +39,22 @@ This note turns the current Norton chunk for Sir Philip Sidney into a navigable 
 | [poetry-and-judgment](../poetry-and-judgment.md) | Who gets to judge art? | tension, craft, excess |
 | [education-and-civic-life](../education-and-civic-life.md) | What should education make possible for citizens? | pedagogy, civic-formation, authority |
 | [vernacular-and-institution](../vernacular-and-institution.md) | How do languages become institutions of thought? | vernacular, imitation, nation |
+| [authorship-and-authority](../authorship-and-authority.md) | Who is allowed to speak as an author? | authorship, gender, authority |
 
 ## Passage Queue
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Anchor Candidates</span>
   <h3>Choose Passages After Review</h3>
-  <p><strong>Source location:</strong> Norton page range 365-367.</p>
+  <p><strong>Source location:</strong> Norton page range 365-404.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
-  <p><strong>Use:</strong> Find the passages that make this text active inside poetry-and-judgment, education-and-civic-life, vernacular-and-institution.</p>
+  <p><strong>Use:</strong> Find the passages that make this text active inside poetry-and-judgment, education-and-civic-life, vernacular-and-institution, authorship-and-authority.</p>
 </section>
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Review Before Quoting</span>
   <h3>Layout, Notes, And Bibliography</h3>
-  <p><strong>Review signal:</strong> transition_from_previous_author: 3</p>
+  <p><strong>Review signal:</strong> multi_column_layout: 35<br>source_notes_detected: 31<br>transition_from_previous_author: 3<br>author_boundary_without_life_dates: 2<br>mixed_excerpt_and_bibliography: 1</p>
   <p><strong>Editorial rule:</strong> source notes belong in source-note fields, bibliography belongs in bibliography fields, and excerpt text stays separate.</p>
 </section>
 
@@ -90,8 +92,8 @@ This note turns the current Norton chunk for Sir Philip Sidney into a navigable 
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/sir-philip-sidney.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T04:26:20Z` |
-| Git commit | `383dabc` |
+| Generated at | `2026-06-13T04:29:48Z` |
+| Git commit | `1665a30` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/sidney-defense-of-poesy.md` |
 
@@ -107,6 +109,7 @@ This note turns the current Norton chunk for Sir Philip Sidney into a navigable 
 <li><a href="../../poetry-and-judgment/">poetry-and-judgment</a></li>
 <li><a href="../../education-and-civic-life/">education-and-civic-life</a></li>
 <li><a href="../../vernacular-and-institution/">vernacular-and-institution</a></li>
+<li><a href="../../authorship-and-authority/">authorship-and-authority</a></li>
 </ul>
 
 ## Open Questions

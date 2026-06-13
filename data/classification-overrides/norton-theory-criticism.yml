@@ -616,3 +616,171 @@ overrides:
     review_required: true
     review_reasons:
       - transition_from_previous_author
+
+  - id: sir-philip-sidney-apology-opening
+    pages: 368
+    author_name: Sir Philip Sidney
+    author_slug: sir-philip-sidney
+    work_title: An Apology for Poetry
+    work_slug: an-apology-for-poetry
+    page_kind: mixed_excerpt_bibliography
+    starts_new_author: false
+    continues_previous_author: true
+    contains_excerpt: true
+    contains_bibliography: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_excerpt_and_bibliography
+
+  - id: sir-philip-sidney-apology
+    pages: 369-404
+    author_name: Sir Philip Sidney
+    author_slug: sir-philip-sidney
+    work_title: An Apology for Poetry
+    work_slug: an-apology-for-poetry
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: pierre-corneille-headnote
+    pages: 405-408
+    author_name: Pierre Corneille
+    author_slug: pierre-corneille
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: pierre-corneille-three-unities
+    pages: 409-420
+    author_name: Pierre Corneille
+    author_slug: pierre-corneille
+    work_title: Of the Three Unities of Action, Time, and Place
+    work_slug: of-the-three-unities-of-action-time-and-place
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: john-dryden-headnote
+    pages: 421-422
+    author_name: John Dryden
+    author_slug: john-dryden
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: john-dryden-essay-dramatic-poesy
+    pages: 423-424
+    author_name: John Dryden
+    author_slug: john-dryden
+    work_title: An Essay of Dramatic Poesy
+    work_slug: an-essay-of-dramatic-poesy
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: john-dryden-preface-troilus-cressida
+    pages: 425-426
+    author_name: John Dryden
+    author_slug: john-dryden
+    work_title: Preface to Troilus and Cressida
+    work_slug: preface-to-troilus-and-cressida
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: john-dryden-preface-sylvae
+    pages: 427-429
+    author_name: John Dryden
+    author_slug: john-dryden
+    work_title: Preface to Sylvae
+    work_slug: preface-to-sylvae
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: aphra-behn-headnote
+    pages: 430-432
+    author_name: Aphra Behn
+    author_slug: aphra-behn
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: aphra-behn-dutch-lover
+    pages: 433-436
+    author_name: Aphra Behn
+    author_slug: aphra-behn
+    work_title: The Dutch Lover
+    work_slug: the-dutch-lover
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: aphra-behn-lucky-chance
+    pages: 437-440
+    author_name: Aphra Behn
+    author_slug: aphra-behn
+    work_title: Preface to The Lucky Chance
+    work_slug: preface-to-the-lucky-chance
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: giambattista-vico-headnote
+    pages: 441-442
+    author_name: Giambattista Vico
+    author_slug: giambattista-vico
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: giambattista-vico-new-science-opening
+    pages: 443
+    author_name: Giambattista Vico
+    author_slug: giambattista-vico
+    work_title: The New Science
+    work_slug: the-new-science
+    page_kind: mixed_excerpt_bibliography
+    starts_new_author: false
+    continues_previous_author: true
+    contains_excerpt: true
+    contains_bibliography: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_excerpt_and_bibliography
+
+  - id: giambattista-vico-new-science
+    pages: 444-447
+    author_name: Giambattista Vico
+    author_slug: giambattista-vico
+    work_title: The New Science
+    work_slug: the-new-science
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high

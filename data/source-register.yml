@@ -225,6 +225,46 @@ curated_texts:
       - education
       - civic-formation
     status: edition-review-needed
+  - id: corneille-three-unities
+    title: Of the Three Unities of Action, Time, and Place
+    creator: Pierre Corneille
+    role: core-text-candidate
+    themes:
+      - drama
+      - rules
+      - audience
+      - institutional-judgment
+    status: edition-review-needed
+  - id: dryden-selected-critical-prose
+    title: Selected Critical Prose
+    creator: John Dryden
+    role: core-text-candidate
+    themes:
+      - drama
+      - translation
+      - judgment
+      - modernity
+    status: edition-review-needed
+  - id: aphra-behn-dutch-lover-lucky-chance
+    title: The Dutch Lover and Preface to The Lucky Chance
+    creator: Aphra Behn
+    role: core-text-candidate
+    themes:
+      - authorship
+      - gender
+      - theater
+      - public-judgment
+    status: edition-review-needed
+  - id: vico-new-science
+    title: The New Science
+    creator: Giambattista Vico
+    role: core-text-candidate
+    themes:
+      - history
+      - language
+      - institutions
+      - civic-knowledge
+    status: edition-review-needed
 
 constellations:
   - id: rhetoric-and-force
@@ -249,6 +289,9 @@ constellations:
       - boccaccio-genealogy-gentile-gods
       - pierre-de-ronsard-art-french-poetry
       - sidney-defense-of-poesy
+      - corneille-three-unities
+      - dryden-selected-critical-prose
+      - aphra-behn-dutch-lover-lucky-chance
     relations:
       - tension
       - craft
@@ -287,6 +330,7 @@ constellations:
       - thomas-aquinas-summa-theologica
       - dante-il-convivio-letter-can-grande
       - joachim-du-bellay-defense-french-language
+      - vico-new-science
     relations:
       - commentary
       - transmission
@@ -300,6 +344,7 @@ constellations:
       - hugh-didascalicon
       - christine-de-pizan-city-of-ladies
       - sidney-defense-of-poesy
+      - vico-new-science
     relations:
       - pedagogy
       - civic-formation
@@ -312,10 +357,35 @@ constellations:
       - joachim-du-bellay-defense-french-language
       - pierre-de-ronsard-art-french-poetry
       - sidney-defense-of-poesy
+      - vico-new-science
     relations:
       - vernacular
       - imitation
       - nation
+  - id: theater-and-public-judgment
+    question: How does theater train or expose public judgment?
+    texts:
+      - aristotle-poetics-rhetoric
+      - giambattista-giraldi-composition-romances
+      - corneille-three-unities
+      - dryden-selected-critical-prose
+      - aphra-behn-dutch-lover-lucky-chance
+    relations:
+      - drama
+      - audience
+      - rules
+  - id: authorship-and-authority
+    question: Who is allowed to speak as an author?
+    texts:
+      - christine-de-pizan-city-of-ladies
+      - joachim-du-bellay-defense-french-language
+      - sidney-defense-of-poesy
+      - dryden-selected-critical-prose
+      - aphra-behn-dutch-lover-lucky-chance
+    relations:
+      - authorship
+      - gender
+      - authority
 
 research_tools:
   - id: worldcat

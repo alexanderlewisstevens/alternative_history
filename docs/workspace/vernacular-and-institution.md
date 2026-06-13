@@ -27,7 +27,8 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/giambattista-giraldi-composition-romances/"><strong>Giambattista Giraldi, Discourse on the Composition of Romances</strong><span>genre, romance, poetics; pages 313-320; 7 review rows</span></a>
   <a href="../norton-texts/joachim-du-bellay-defense-french-language/"><strong>Joachim du Bellay, The Defence and Illustration of the French Language</strong><span>vernacular, language, nation; pages 321-332; 11 review rows</span></a>
   <a href="../norton-texts/pierre-de-ronsard-art-french-poetry/"><strong>Pierre de Ronsard, A Brief on the Art of French Poetry</strong><span>poetics, craft, vernacular; pages 333-341; 5 review rows</span></a>
-  <a href="../norton-texts/sidney-defense-of-poesy/"><strong>Sir Philip Sidney, The Defense of Poesy</strong><span>poetry, rhetoric, education; pages 365-367; 3 review rows</span></a>
+  <a href="../norton-texts/sidney-defense-of-poesy/"><strong>Sir Philip Sidney, The Defense of Poesy</strong><span>poetry, rhetoric, education; pages 365-404; 39 review rows</span></a>
+  <a href="../norton-texts/vico-new-science/"><strong>Giambattista Vico, The New Science</strong><span>history, language, institutions; pages 441-447; 4 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -45,6 +46,7 @@ This is a scaffold for reading the configured texts together. It should become a
 3. [Joachim du Bellay, The Defence and Illustration of the French Language](norton-texts/joachim-du-bellay-defense-french-language.md)
 4. [Pierre de Ronsard, A Brief on the Art of French Poetry](norton-texts/pierre-de-ronsard-art-french-poetry.md)
 5. [Sir Philip Sidney, The Defense of Poesy](norton-texts/sidney-defense-of-poesy.md)
+6. [Giambattista Vico, The New Science](norton-texts/vico-new-science.md)
 
 ## Review Pressure
 
@@ -54,7 +56,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Discourse on the Composition of Romances](norton-texts/giambattista-giraldi-composition-romances.md) | 313-320 | 7 | excerpt: 6<br>author_intro: 2 |
 | [The Defence and Illustration of the French Language](norton-texts/joachim-du-bellay-defense-french-language.md) | 321-332 | 11 | excerpt: 9<br>author_intro: 3 |
 | [A Brief on the Art of French Poetry](norton-texts/pierre-de-ronsard-art-french-poetry.md) | 333-341 | 5 | excerpt: 6<br>author_intro: 3 |
-| [The Defense of Poesy](norton-texts/sidney-defense-of-poesy.md) | 365-367 | 3 | author_intro: 3 |
+| [The Defense of Poesy](norton-texts/sidney-defense-of-poesy.md) | 365-404 | 39 | excerpt: 36<br>author_intro: 3<br>mixed_excerpt_bibliography: 1 |
+| [The New Science](norton-texts/vico-new-science.md) | 441-447 | 4 | excerpt: 4<br>author_intro: 2<br>mixed_excerpt_bibliography: 1 |
 
 ## Passage Queue
 
@@ -108,8 +111,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T04:25:50Z` |
-| Git commit | `383dabc` |
+| Generated at | `2026-06-13T04:29:15Z` |
+| Git commit | `1665a30` |
 | Script version | `2` |
 | Output path | `docs/workspace/vernacular-and-institution.md` |
 

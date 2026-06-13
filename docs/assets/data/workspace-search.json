@@ -104,6 +104,31 @@
     },
     {
       "constellations": [
+        "authorship-and-authority"
+      ],
+      "id": "constellation:authorship-and-authority",
+      "kind": "constellation",
+      "review_pressure": 0,
+      "search_text": "authorship and authority who is allowed to speak as an author?   private constellation draft aphra-behn-dutch-lover-lucky-chance authority authorship christine-de-pizan-city-of-ladies dryden-selected-critical-prose gender joachim-du-bellay-defense-french-language sidney-defense-of-poesy authorship-and-authority",
+      "status": "private constellation draft",
+      "summary": "Who is allowed to speak as an author?",
+      "tags": [
+        "aphra-behn-dutch-lover-lucky-chance",
+        "authority",
+        "authorship",
+        "christine-de-pizan-city-of-ladies",
+        "dryden-selected-critical-prose",
+        "gender",
+        "joachim-du-bellay-defense-french-language",
+        "sidney-defense-of-poesy"
+      ],
+      "text_id": "",
+      "thinker": "",
+      "title": "Authorship And Authority",
+      "url": "/workspace/authorship-and-authority/"
+    },
+    {
+      "constellations": [
         "beauty-and-ascent"
       ],
       "id": "constellation:beauty-and-ascent",
@@ -132,7 +157,7 @@
       "id": "constellation:commentary-and-afterlife",
       "kind": "constellation",
       "review_pressure": 0,
-      "search_text": "commentary and afterlife how do texts survive by being reread?   private constellation draft commentary dante-il-convivio-letter-can-grande disciplined-reading geoffrey-poetria-nova hugh-didascalicon joachim-du-bellay-defense-french-language macrobius-dream-scipio maimonides-guide-perplexed thomas-aquinas-summa-theologica transmission commentary-and-afterlife",
+      "search_text": "commentary and afterlife how do texts survive by being reread?   private constellation draft commentary dante-il-convivio-letter-can-grande disciplined-reading geoffrey-poetria-nova hugh-didascalicon joachim-du-bellay-defense-french-language macrobius-dream-scipio maimonides-guide-perplexed thomas-aquinas-summa-theologica transmission vico-new-science commentary-and-afterlife",
       "status": "private constellation draft",
       "summary": "How do texts survive by being reread?",
       "tags": [
@@ -145,7 +170,8 @@
         "macrobius-dream-scipio",
         "maimonides-guide-perplexed",
         "thomas-aquinas-summa-theologica",
-        "transmission"
+        "transmission",
+        "vico-new-science"
       ],
       "text_id": "",
       "thinker": "",
@@ -159,7 +185,7 @@
       "id": "constellation:education-and-civic-life",
       "kind": "constellation",
       "review_pressure": 0,
-      "search_text": "education and civic life what should education make possible for citizens?   private constellation draft aristotle-poetics-rhetoric authority christine-de-pizan-city-of-ladies civic-formation hugh-didascalicon pedagogy plato-selected-dialogues quintilian-institutio-oratoria sidney-defense-of-poesy education-and-civic-life",
+      "search_text": "education and civic life what should education make possible for citizens?   private constellation draft aristotle-poetics-rhetoric authority christine-de-pizan-city-of-ladies civic-formation hugh-didascalicon pedagogy plato-selected-dialogues quintilian-institutio-oratoria sidney-defense-of-poesy vico-new-science education-and-civic-life",
       "status": "private constellation draft",
       "summary": "What should education make possible for citizens?",
       "tags": [
@@ -171,7 +197,8 @@
         "pedagogy",
         "plato-selected-dialogues",
         "quintilian-institutio-oratoria",
-        "sidney-defense-of-poesy"
+        "sidney-defense-of-poesy",
+        "vico-new-science"
       ],
       "text_id": "",
       "thinker": "",
@@ -185,13 +212,16 @@
       "id": "constellation:poetry-and-judgment",
       "kind": "constellation",
       "review_pressure": 0,
-      "search_text": "poetry and judgment who gets to judge art?   private constellation draft aristotle-poetics-rhetoric boccaccio-genealogy-gentile-gods craft excess geoffrey-poetria-nova horace-ars-poetica longinus-on-sublimity pierre-de-ronsard-art-french-poetry plato-selected-dialogues sidney-defense-of-poesy tension poetry-and-judgment",
+      "search_text": "poetry and judgment who gets to judge art?   private constellation draft aphra-behn-dutch-lover-lucky-chance aristotle-poetics-rhetoric boccaccio-genealogy-gentile-gods corneille-three-unities craft dryden-selected-critical-prose excess geoffrey-poetria-nova horace-ars-poetica longinus-on-sublimity pierre-de-ronsard-art-french-poetry plato-selected-dialogues sidney-defense-of-poesy tension poetry-and-judgment",
       "status": "private constellation draft",
       "summary": "Who gets to judge art?",
       "tags": [
+        "aphra-behn-dutch-lover-lucky-chance",
         "aristotle-poetics-rhetoric",
         "boccaccio-genealogy-gentile-gods",
+        "corneille-three-unities",
         "craft",
+        "dryden-selected-critical-prose",
         "excess",
         "geoffrey-poetria-nova",
         "horace-ars-poetica",
@@ -259,12 +289,37 @@
     },
     {
       "constellations": [
+        "theater-and-public-judgment"
+      ],
+      "id": "constellation:theater-and-public-judgment",
+      "kind": "constellation",
+      "review_pressure": 0,
+      "search_text": "theater and public judgment how does theater train or expose public judgment?   private constellation draft aphra-behn-dutch-lover-lucky-chance aristotle-poetics-rhetoric audience corneille-three-unities drama dryden-selected-critical-prose giambattista-giraldi-composition-romances rules theater-and-public-judgment",
+      "status": "private constellation draft",
+      "summary": "How does theater train or expose public judgment?",
+      "tags": [
+        "aphra-behn-dutch-lover-lucky-chance",
+        "aristotle-poetics-rhetoric",
+        "audience",
+        "corneille-three-unities",
+        "drama",
+        "dryden-selected-critical-prose",
+        "giambattista-giraldi-composition-romances",
+        "rules"
+      ],
+      "text_id": "",
+      "thinker": "",
+      "title": "Theater And Public Judgment",
+      "url": "/workspace/theater-and-public-judgment/"
+    },
+    {
+      "constellations": [
         "vernacular-and-institution"
       ],
       "id": "constellation:vernacular-and-institution",
       "kind": "constellation",
       "review_pressure": 0,
-      "search_text": "vernacular and institution how do languages become institutions of thought?   private constellation draft dante-il-convivio-letter-can-grande giambattista-giraldi-composition-romances imitation joachim-du-bellay-defense-french-language nation pierre-de-ronsard-art-french-poetry sidney-defense-of-poesy vernacular vernacular-and-institution",
+      "search_text": "vernacular and institution how do languages become institutions of thought?   private constellation draft dante-il-convivio-letter-can-grande giambattista-giraldi-composition-romances imitation joachim-du-bellay-defense-french-language nation pierre-de-ronsard-art-french-poetry sidney-defense-of-poesy vernacular vico-new-science vernacular-and-institution",
       "status": "private constellation draft",
       "summary": "How do languages become institutions of thought?",
       "tags": [
@@ -275,7 +330,8 @@
         "nation",
         "pierre-de-ronsard-art-french-poetry",
         "sidney-defense-of-poesy",
-        "vernacular"
+        "vernacular",
+        "vico-new-science"
       ],
       "text_id": "",
       "thinker": "",
@@ -413,18 +469,20 @@
     },
     {
       "constellations": [
+        "theater-and-public-judgment",
         "vernacular-and-institution"
       ],
       "id": "text:giambattista-giraldi-composition-romances",
       "kind": "text",
       "review_pressure": 7,
-      "search_text": "discourse on the composition of romances giambattista giraldi; core-text-candidate; pages 313-320; 7 review rows. giambattista giraldi giambattista-giraldi-composition-romances edition-review-needed genre poetics romance vernacular vernacular-and-institution vernacular-and-institution",
+      "search_text": "discourse on the composition of romances giambattista giraldi; core-text-candidate; pages 313-320; 7 review rows. giambattista giraldi giambattista-giraldi-composition-romances edition-review-needed genre poetics romance theater-and-public-judgment vernacular vernacular-and-institution theater-and-public-judgment vernacular-and-institution",
       "status": "edition-review-needed",
       "summary": "Giambattista Giraldi; core-text-candidate; pages 313-320; 7 review rows.",
       "tags": [
         "genre",
         "poetics",
         "romance",
+        "theater-and-public-judgment",
         "vernacular",
         "vernacular-and-institution"
       ],
@@ -527,6 +585,30 @@
     },
     {
       "constellations": [
+        "poetry-and-judgment",
+        "theater-and-public-judgment"
+      ],
+      "id": "text:corneille-three-unities",
+      "kind": "text",
+      "review_pressure": 11,
+      "search_text": "of the three unities of action, time, and place pierre corneille; core-text-candidate; pages 405-420; 11 review rows. pierre corneille corneille-three-unities edition-review-needed audience drama institutional-judgment poetry-and-judgment rules theater-and-public-judgment poetry-and-judgment theater-and-public-judgment",
+      "status": "edition-review-needed",
+      "summary": "Pierre Corneille; core-text-candidate; pages 405-420; 11 review rows.",
+      "tags": [
+        "audience",
+        "drama",
+        "institutional-judgment",
+        "poetry-and-judgment",
+        "rules",
+        "theater-and-public-judgment"
+      ],
+      "text_id": "corneille-three-unities",
+      "thinker": "Pierre Corneille",
+      "title": "Of the Three Unities of Action, Time, and Place",
+      "url": "/workspace/norton-texts/corneille-three-unities/"
+    },
+    {
+      "constellations": [
         "beauty-and-ascent",
         "signs-and-reading"
       ],
@@ -598,12 +680,13 @@
       "constellations": [
         "education-and-civic-life",
         "poetry-and-judgment",
-        "rhetoric-and-force"
+        "rhetoric-and-force",
+        "theater-and-public-judgment"
       ],
       "id": "text:aristotle-poetics-rhetoric",
       "kind": "text",
       "review_pressure": 23,
-      "search_text": "poetics and rhetoric aristotle; core-text-candidate; pages 128-162; 23 review rows. aristotle aristotle-poetics-rhetoric edition-review-needed audience education-and-civic-life genre poetics poetry-and-judgment rhetoric rhetoric-and-force education-and-civic-life poetry-and-judgment rhetoric-and-force",
+      "search_text": "poetics and rhetoric aristotle; core-text-candidate; pages 128-162; 23 review rows. aristotle aristotle-poetics-rhetoric edition-review-needed audience education-and-civic-life genre poetics poetry-and-judgment rhetoric rhetoric-and-force theater-and-public-judgment education-and-civic-life poetry-and-judgment rhetoric-and-force theater-and-public-judgment",
       "status": "edition-review-needed",
       "summary": "Aristotle; core-text-candidate; pages 128-162; 23 review rows.",
       "tags": [
@@ -613,7 +696,8 @@
         "poetics",
         "poetry-and-judgment",
         "rhetoric",
-        "rhetoric-and-force"
+        "rhetoric-and-force",
+        "theater-and-public-judgment"
       ],
       "text_id": "aristotle-poetics-rhetoric",
       "thinker": "Aristotle",
@@ -643,6 +727,32 @@
       "thinker": "Geoffrey of Vinsauf",
       "title": "Poetria Nova",
       "url": "/workspace/norton-texts/geoffrey-poetria-nova/"
+    },
+    {
+      "constellations": [
+        "authorship-and-authority",
+        "poetry-and-judgment",
+        "theater-and-public-judgment"
+      ],
+      "id": "text:dryden-selected-critical-prose",
+      "kind": "text",
+      "review_pressure": 9,
+      "search_text": "selected critical prose john dryden; core-text-candidate; pages 421-429; 9 review rows. john dryden dryden-selected-critical-prose edition-review-needed authorship-and-authority drama judgment modernity poetry-and-judgment theater-and-public-judgment translation authorship-and-authority poetry-and-judgment theater-and-public-judgment",
+      "status": "edition-review-needed",
+      "summary": "John Dryden; core-text-candidate; pages 421-429; 9 review rows.",
+      "tags": [
+        "authorship-and-authority",
+        "drama",
+        "judgment",
+        "modernity",
+        "poetry-and-judgment",
+        "theater-and-public-judgment",
+        "translation"
+      ],
+      "text_id": "dryden-selected-critical-prose",
+      "thinker": "John Dryden",
+      "title": "Selected Critical Prose",
+      "url": "/workspace/norton-texts/dryden-selected-critical-prose/"
     },
     {
       "constellations": [
@@ -719,16 +829,18 @@
     },
     {
       "constellations": [
+        "authorship-and-authority",
         "education-and-civic-life"
       ],
       "id": "text:christine-de-pizan-city-of-ladies",
       "kind": "text",
       "review_pressure": 3,
-      "search_text": "the book of the city of ladies christine de pizan; core-text-candidate; pages 305-312; 3 review rows. christine de pizan christine-de-pizan-city-of-ladies edition-review-needed authority civic-imagination education education-and-civic-life gender education-and-civic-life",
+      "search_text": "the book of the city of ladies christine de pizan; core-text-candidate; pages 305-312; 3 review rows. christine de pizan christine-de-pizan-city-of-ladies edition-review-needed authority authorship-and-authority civic-imagination education education-and-civic-life gender authorship-and-authority education-and-civic-life",
       "status": "edition-review-needed",
       "summary": "Christine de Pizan; core-text-candidate; pages 305-312; 3 review rows.",
       "tags": [
         "authority",
+        "authorship-and-authority",
         "civic-imagination",
         "education",
         "education-and-civic-life",
@@ -741,16 +853,18 @@
     },
     {
       "constellations": [
+        "authorship-and-authority",
         "commentary-and-afterlife",
         "vernacular-and-institution"
       ],
       "id": "text:joachim-du-bellay-defense-french-language",
       "kind": "text",
       "review_pressure": 11,
-      "search_text": "the defence and illustration of the french language joachim du bellay; core-text-candidate; pages 321-332; 11 review rows. joachim du bellay joachim-du-bellay-defense-french-language edition-review-needed commentary-and-afterlife imitation language nation vernacular vernacular-and-institution commentary-and-afterlife vernacular-and-institution",
+      "search_text": "the defence and illustration of the french language joachim du bellay; core-text-candidate; pages 321-332; 11 review rows. joachim du bellay joachim-du-bellay-defense-french-language edition-review-needed authorship-and-authority commentary-and-afterlife imitation language nation vernacular vernacular-and-institution authorship-and-authority commentary-and-afterlife vernacular-and-institution",
       "status": "edition-review-needed",
       "summary": "Joachim du Bellay; core-text-candidate; pages 321-332; 11 review rows.",
       "tags": [
+        "authorship-and-authority",
         "commentary-and-afterlife",
         "imitation",
         "language",
@@ -765,17 +879,19 @@
     },
     {
       "constellations": [
+        "authorship-and-authority",
         "education-and-civic-life",
         "poetry-and-judgment",
         "vernacular-and-institution"
       ],
       "id": "text:sidney-defense-of-poesy",
       "kind": "text",
-      "review_pressure": 3,
-      "search_text": "the defense of poesy sir philip sidney; core-text-candidate; pages 365-367; 3 review rows. sir philip sidney sidney-defense-of-poesy edition-review-needed civic-formation education education-and-civic-life poetry poetry-and-judgment rhetoric vernacular-and-institution education-and-civic-life poetry-and-judgment vernacular-and-institution",
+      "review_pressure": 39,
+      "search_text": "the defense of poesy sir philip sidney; core-text-candidate; pages 365-404; 39 review rows. sir philip sidney sidney-defense-of-poesy edition-review-needed authorship-and-authority civic-formation education education-and-civic-life poetry poetry-and-judgment rhetoric vernacular-and-institution authorship-and-authority education-and-civic-life poetry-and-judgment vernacular-and-institution",
       "status": "edition-review-needed",
-      "summary": "Sir Philip Sidney; core-text-candidate; pages 365-367; 3 review rows.",
+      "summary": "Sir Philip Sidney; core-text-candidate; pages 365-404; 39 review rows.",
       "tags": [
+        "authorship-and-authority",
         "civic-formation",
         "education",
         "education-and-civic-life",
@@ -816,6 +932,32 @@
     },
     {
       "constellations": [
+        "authorship-and-authority",
+        "poetry-and-judgment",
+        "theater-and-public-judgment"
+      ],
+      "id": "text:aphra-behn-dutch-lover-lucky-chance",
+      "kind": "text",
+      "review_pressure": 11,
+      "search_text": "the dutch lover and preface to the lucky chance aphra behn; core-text-candidate; pages 430-440; 11 review rows. aphra behn aphra-behn-dutch-lover-lucky-chance edition-review-needed authorship authorship-and-authority gender poetry-and-judgment public-judgment theater theater-and-public-judgment authorship-and-authority poetry-and-judgment theater-and-public-judgment",
+      "status": "edition-review-needed",
+      "summary": "Aphra Behn; core-text-candidate; pages 430-440; 11 review rows.",
+      "tags": [
+        "authorship",
+        "authorship-and-authority",
+        "gender",
+        "poetry-and-judgment",
+        "public-judgment",
+        "theater",
+        "theater-and-public-judgment"
+      ],
+      "text_id": "aphra-behn-dutch-lover-lucky-chance",
+      "thinker": "Aphra Behn",
+      "title": "The Dutch Lover and Preface to The Lucky Chance",
+      "url": "/workspace/norton-texts/aphra-behn-dutch-lover-lucky-chance/"
+    },
+    {
+      "constellations": [
         "commentary-and-afterlife",
         "signs-and-reading"
       ],
@@ -840,14 +982,67 @@
     },
     {
       "constellations": [
+        "commentary-and-afterlife",
+        "education-and-civic-life",
+        "vernacular-and-institution"
+      ],
+      "id": "text:vico-new-science",
+      "kind": "text",
+      "review_pressure": 4,
+      "search_text": "the new science giambattista vico; core-text-candidate; pages 441-447; 4 review rows. giambattista vico vico-new-science edition-review-needed civic-knowledge commentary-and-afterlife education-and-civic-life history institutions language vernacular-and-institution commentary-and-afterlife education-and-civic-life vernacular-and-institution",
+      "status": "edition-review-needed",
+      "summary": "Giambattista Vico; core-text-candidate; pages 441-447; 4 review rows.",
+      "tags": [
+        "civic-knowledge",
+        "commentary-and-afterlife",
+        "education-and-civic-life",
+        "history",
+        "institutions",
+        "language",
+        "vernacular-and-institution"
+      ],
+      "text_id": "vico-new-science",
+      "thinker": "Giambattista Vico",
+      "title": "The New Science",
+      "url": "/workspace/norton-texts/vico-new-science/"
+    },
+    {
+      "constellations": [
+        "authorship-and-authority",
+        "poetry-and-judgment",
+        "theater-and-public-judgment"
+      ],
+      "id": "thinker:aphra-behn",
+      "kind": "thinker",
+      "review_pressure": 11,
+      "search_text": "aphra behn 1 text node(s); aphra-behn-dutch-lover-lucky-chance. aphra behn  generated private workspace note authorship authorship-and-authority gender poetry-and-judgment public-judgment theater theater-and-public-judgment authorship-and-authority poetry-and-judgment theater-and-public-judgment",
+      "status": "generated private workspace note",
+      "summary": "1 text node(s); aphra-behn-dutch-lover-lucky-chance.",
+      "tags": [
+        "authorship",
+        "authorship-and-authority",
+        "gender",
+        "poetry-and-judgment",
+        "public-judgment",
+        "theater",
+        "theater-and-public-judgment"
+      ],
+      "text_id": "",
+      "thinker": "Aphra Behn",
+      "title": "Aphra Behn",
+      "url": "/workspace/thinkers/aphra-behn/"
+    },
+    {
+      "constellations": [
         "education-and-civic-life",
         "poetry-and-judgment",
-        "rhetoric-and-force"
+        "rhetoric-and-force",
+        "theater-and-public-judgment"
       ],
       "id": "thinker:aristotle",
       "kind": "thinker",
       "review_pressure": 23,
-      "search_text": "aristotle 1 text node(s); aristotle-poetics-rhetoric. aristotle  generated private workspace note audience education-and-civic-life genre poetics poetry-and-judgment rhetoric rhetoric-and-force education-and-civic-life poetry-and-judgment rhetoric-and-force",
+      "search_text": "aristotle 1 text node(s); aristotle-poetics-rhetoric. aristotle  generated private workspace note audience education-and-civic-life genre poetics poetry-and-judgment rhetoric rhetoric-and-force theater-and-public-judgment education-and-civic-life poetry-and-judgment rhetoric-and-force theater-and-public-judgment",
       "status": "generated private workspace note",
       "summary": "1 text node(s); aristotle-poetics-rhetoric.",
       "tags": [
@@ -857,7 +1052,8 @@
         "poetics",
         "poetry-and-judgment",
         "rhetoric",
-        "rhetoric-and-force"
+        "rhetoric-and-force",
+        "theater-and-public-judgment"
       ],
       "text_id": "",
       "thinker": "Aristotle",
@@ -890,16 +1086,18 @@
     },
     {
       "constellations": [
+        "authorship-and-authority",
         "education-and-civic-life"
       ],
       "id": "thinker:christine-de-pizan",
       "kind": "thinker",
       "review_pressure": 3,
-      "search_text": "christine de pizan 1 text node(s); christine-de-pizan-city-of-ladies. christine de pizan  generated private workspace note authority civic-imagination education education-and-civic-life gender education-and-civic-life",
+      "search_text": "christine de pizan 1 text node(s); christine-de-pizan-city-of-ladies. christine de pizan  generated private workspace note authority authorship-and-authority civic-imagination education education-and-civic-life gender authorship-and-authority education-and-civic-life",
       "status": "generated private workspace note",
       "summary": "1 text node(s); christine-de-pizan-city-of-ladies.",
       "tags": [
         "authority",
+        "authorship-and-authority",
         "civic-imagination",
         "education",
         "education-and-civic-life",
@@ -984,18 +1182,20 @@
     },
     {
       "constellations": [
+        "theater-and-public-judgment",
         "vernacular-and-institution"
       ],
       "id": "thinker:giambattista-giraldi",
       "kind": "thinker",
       "review_pressure": 7,
-      "search_text": "giambattista giraldi 1 text node(s); giambattista-giraldi-composition-romances. giambattista giraldi  generated private workspace note genre poetics romance vernacular vernacular-and-institution vernacular-and-institution",
+      "search_text": "giambattista giraldi 1 text node(s); giambattista-giraldi-composition-romances. giambattista giraldi  generated private workspace note genre poetics romance theater-and-public-judgment vernacular vernacular-and-institution theater-and-public-judgment vernacular-and-institution",
       "status": "generated private workspace note",
       "summary": "1 text node(s); giambattista-giraldi-composition-romances.",
       "tags": [
         "genre",
         "poetics",
         "romance",
+        "theater-and-public-judgment",
         "vernacular",
         "vernacular-and-institution"
       ],
@@ -1003,6 +1203,32 @@
       "thinker": "Giambattista Giraldi",
       "title": "Giambattista Giraldi",
       "url": "/workspace/thinkers/giambattista-giraldi/"
+    },
+    {
+      "constellations": [
+        "commentary-and-afterlife",
+        "education-and-civic-life",
+        "vernacular-and-institution"
+      ],
+      "id": "thinker:giambattista-vico",
+      "kind": "thinker",
+      "review_pressure": 4,
+      "search_text": "giambattista vico 1 text node(s); vico-new-science. giambattista vico  generated private workspace note civic-knowledge commentary-and-afterlife education-and-civic-life history institutions language vernacular-and-institution commentary-and-afterlife education-and-civic-life vernacular-and-institution",
+      "status": "generated private workspace note",
+      "summary": "1 text node(s); vico-new-science.",
+      "tags": [
+        "civic-knowledge",
+        "commentary-and-afterlife",
+        "education-and-civic-life",
+        "history",
+        "institutions",
+        "language",
+        "vernacular-and-institution"
+      ],
+      "text_id": "",
+      "thinker": "Giambattista Vico",
+      "title": "Giambattista Vico",
+      "url": "/workspace/thinkers/giambattista-vico/"
     },
     {
       "constellations": [
@@ -1095,16 +1321,18 @@
     },
     {
       "constellations": [
+        "authorship-and-authority",
         "commentary-and-afterlife",
         "vernacular-and-institution"
       ],
       "id": "thinker:joachim-du-bellay",
       "kind": "thinker",
       "review_pressure": 11,
-      "search_text": "joachim du bellay 1 text node(s); joachim-du-bellay-defense-french-language. joachim du bellay  generated private workspace note commentary-and-afterlife imitation language nation vernacular vernacular-and-institution commentary-and-afterlife vernacular-and-institution",
+      "search_text": "joachim du bellay 1 text node(s); joachim-du-bellay-defense-french-language. joachim du bellay  generated private workspace note authorship-and-authority commentary-and-afterlife imitation language nation vernacular vernacular-and-institution authorship-and-authority commentary-and-afterlife vernacular-and-institution",
       "status": "generated private workspace note",
       "summary": "1 text node(s); joachim-du-bellay-defense-french-language.",
       "tags": [
+        "authorship-and-authority",
         "commentary-and-afterlife",
         "imitation",
         "language",
@@ -1116,6 +1344,32 @@
       "thinker": "Joachim du Bellay",
       "title": "Joachim du Bellay",
       "url": "/workspace/thinkers/joachim-du-bellay/"
+    },
+    {
+      "constellations": [
+        "authorship-and-authority",
+        "poetry-and-judgment",
+        "theater-and-public-judgment"
+      ],
+      "id": "thinker:john-dryden",
+      "kind": "thinker",
+      "review_pressure": 9,
+      "search_text": "john dryden 1 text node(s); dryden-selected-critical-prose. john dryden  generated private workspace note authorship-and-authority drama judgment modernity poetry-and-judgment theater-and-public-judgment translation authorship-and-authority poetry-and-judgment theater-and-public-judgment",
+      "status": "generated private workspace note",
+      "summary": "1 text node(s); dryden-selected-critical-prose.",
+      "tags": [
+        "authorship-and-authority",
+        "drama",
+        "judgment",
+        "modernity",
+        "poetry-and-judgment",
+        "theater-and-public-judgment",
+        "translation"
+      ],
+      "text_id": "",
+      "thinker": "John Dryden",
+      "title": "John Dryden",
+      "url": "/workspace/thinkers/john-dryden/"
     },
     {
       "constellations": [
@@ -1184,6 +1438,30 @@
       "thinker": "Moses Maimonides",
       "title": "Moses Maimonides",
       "url": "/workspace/thinkers/moses-maimonides/"
+    },
+    {
+      "constellations": [
+        "poetry-and-judgment",
+        "theater-and-public-judgment"
+      ],
+      "id": "thinker:pierre-corneille",
+      "kind": "thinker",
+      "review_pressure": 11,
+      "search_text": "pierre corneille 1 text node(s); corneille-three-unities. pierre corneille  generated private workspace note audience drama institutional-judgment poetry-and-judgment rules theater-and-public-judgment poetry-and-judgment theater-and-public-judgment",
+      "status": "generated private workspace note",
+      "summary": "1 text node(s); corneille-three-unities.",
+      "tags": [
+        "audience",
+        "drama",
+        "institutional-judgment",
+        "poetry-and-judgment",
+        "rules",
+        "theater-and-public-judgment"
+      ],
+      "text_id": "",
+      "thinker": "Pierre Corneille",
+      "title": "Pierre Corneille",
+      "url": "/workspace/thinkers/pierre-corneille/"
     },
     {
       "constellations": [
@@ -1283,17 +1561,19 @@
     },
     {
       "constellations": [
+        "authorship-and-authority",
         "education-and-civic-life",
         "poetry-and-judgment",
         "vernacular-and-institution"
       ],
       "id": "thinker:sir-philip-sidney",
       "kind": "thinker",
-      "review_pressure": 3,
-      "search_text": "sir philip sidney 1 text node(s); sidney-defense-of-poesy. sir philip sidney  generated private workspace note civic-formation education education-and-civic-life poetry poetry-and-judgment rhetoric vernacular-and-institution education-and-civic-life poetry-and-judgment vernacular-and-institution",
+      "review_pressure": 39,
+      "search_text": "sir philip sidney 1 text node(s); sidney-defense-of-poesy. sir philip sidney  generated private workspace note authorship-and-authority civic-formation education education-and-civic-life poetry poetry-and-judgment rhetoric vernacular-and-institution authorship-and-authority education-and-civic-life poetry-and-judgment vernacular-and-institution",
       "status": "generated private workspace note",
       "summary": "1 text node(s); sidney-defense-of-poesy.",
       "tags": [
+        "authorship-and-authority",
         "civic-formation",
         "education",
         "education-and-civic-life",
@@ -1332,81 +1612,92 @@
       "url": "/workspace/thinkers/thomas-aquinas/"
     }
   ],
-  "entry_count": 58,
+  "entry_count": 68,
   "filters": {
     "constellations": {
+      "authorship-and-authority": 11,
       "beauty-and-ascent": 7,
-      "commentary-and-afterlife": 15,
-      "education-and-civic-life": 13,
-      "poetry-and-judgment": 17,
+      "commentary-and-afterlife": 17,
+      "education-and-civic-life": 15,
+      "poetry-and-judgment": 23,
       "rhetoric-and-force": 12,
       "signs-and-reading": 15,
-      "vernacular-and-institution": 11
+      "theater-and-public-judgment": 11,
+      "vernacular-and-institution": 13
     },
     "kinds": {
       "chapter": 6,
-      "constellation": 7,
+      "constellation": 9,
       "passage": 3,
-      "text": 21,
-      "thinker": 21
+      "text": 25,
+      "thinker": 25
     },
     "statuses": {
       "chapter draft": 6,
-      "edition-review-needed": 21,
-      "generated private workspace note": 21,
-      "private constellation draft": 7,
+      "edition-review-needed": 25,
+      "generated private workspace note": 25,
+      "private constellation draft": 9,
       "private restricted note; public quotation pending edition review": 3
     },
     "tags": {
       "aesthetics": 2,
       "agency": 1,
       "allegory": 9,
+      "aphra-behn-dutch-lover-lucky-chance": 3,
       "archive": 1,
-      "aristotle-poetics-rhetoric": 3,
+      "aristotle-poetics-rhetoric": 4,
       "ascent": 1,
-      "audience": 2,
+      "audience": 5,
       "augustine-on-christian-doctrine-trinity": 2,
-      "authority": 7,
+      "authority": 8,
+      "authorship": 3,
+      "authorship-and-authority": 10,
       "beauty": 2,
       "beauty-and-ascent": 6,
       "belief": 1,
       "blame": 1,
       "boccaccio-genealogy-gentile-gods": 1,
-      "christine-de-pizan-city-of-ladies": 1,
+      "christine-de-pizan-city-of-ladies": 2,
       "civic-discipline": 1,
       "civic-formation": 7,
       "civic-imagination": 2,
+      "civic-knowledge": 2,
       "classification": 2,
       "commentary": 5,
-      "commentary-and-afterlife": 14,
+      "commentary-and-afterlife": 16,
+      "corneille-three-unities": 2,
       "counterfactual": 1,
       "craft": 7,
       "dante-il-convivio-letter-can-grande": 3,
       "decorum": 2,
       "defense-of-poetry": 2,
       "disciplined-reading": 1,
+      "drama": 5,
+      "dryden-selected-critical-prose": 3,
       "education": 10,
-      "education-and-civic-life": 12,
+      "education-and-civic-life": 14,
       "excess": 1,
       "force": 1,
       "form": 2,
-      "gender": 2,
+      "gender": 5,
       "genre": 6,
       "geoffrey-poetria-nova": 2,
       "giacopo-mazzoni-defense-comedy-dante": 1,
-      "giambattista-giraldi-composition-romances": 1,
+      "giambattista-giraldi-composition-romances": 2,
       "gorgias-encomium-helen": 1,
-      "history": 1,
+      "history": 3,
       "horace-ars-poetica": 1,
       "hugh-didascalicon": 3,
       "humanism": 2,
       "imitation": 3,
       "inheritance": 1,
+      "institutional-judgment": 2,
+      "institutions": 2,
       "interpretation": 9,
       "inward-reading": 1,
-      "joachim-du-bellay-defense-french-language": 2,
-      "judgment": 1,
-      "language": 2,
+      "joachim-du-bellay-defense-french-language": 3,
+      "judgment": 3,
+      "language": 4,
       "literary-judgment": 2,
       "longinus-on-sublimity": 2,
       "macrobius-dream-scipio": 1,
@@ -1415,6 +1706,7 @@
       "metaphysics": 2,
       "method": 3,
       "mimesis": 4,
+      "modernity": 2,
       "myth": 1,
       "mythology": 2,
       "nation": 3,
@@ -1426,7 +1718,8 @@
       "plotinus-enneads": 1,
       "poetics": 12,
       "poetry": 2,
-      "poetry-and-judgment": 16,
+      "poetry-and-judgment": 22,
+      "public-judgment": 2,
       "quintilian-institutio-oratoria": 2,
       "reading": 2,
       "reason": 2,
@@ -1434,22 +1727,28 @@
       "rhetoric": 13,
       "rhetoric-and-force": 11,
       "romance": 2,
+      "rules": 3,
       "rupture": 1,
-      "sidney-defense-of-poesy": 3,
+      "sidney-defense-of-poesy": 4,
       "signs": 2,
       "signs-and-reading": 14,
       "speech": 2,
       "sublimity": 3,
       "tension": 2,
+      "theater": 2,
+      "theater-and-public-judgment": 10,
       "theology": 4,
       "theory": 1,
       "thomas-aquinas-summa-theologica": 2,
+      "translation": 2,
       "transmission": 3,
       "vernacular": 9,
-      "vernacular-and-institution": 10,
+      "vernacular-and-institution": 12,
+      "vico-new-science": 3,
       "writing": 3
     },
     "thinkers": {
+      "Aphra Behn": 2,
       "Aristotle": 2,
       "Augustine of Hippo": 2,
       "Christine de Pizan": 2,
@@ -1457,15 +1756,18 @@
       "Geoffrey of Vinsauf": 2,
       "Giacopo Mazzoni": 2,
       "Giambattista Giraldi": 2,
+      "Giambattista Vico": 2,
       "Giovanni Boccaccio": 2,
       "Gorgias": 2,
       "Gorgias of Leontini": 3,
       "Horace": 2,
       "Hugh of St. Victor": 2,
       "Joachim du Bellay": 2,
+      "John Dryden": 2,
       "Longinus": 2,
       "Macrobius": 2,
       "Moses Maimonides": 2,
+      "Pierre Corneille": 2,
       "Pierre de Ronsard": 2,
       "Plato": 2,
       "Plotinus": 2,
@@ -1474,8 +1776,8 @@
       "Thomas Aquinas": 2
     }
   },
-  "generated_at": "2026-06-13T04:26:21Z",
-  "git_commit": "383dabc",
+  "generated_at": "2026-06-13T04:29:49Z",
+  "git_commit": "1665a30",
   "script_version": "1",
   "source_id": "norton-theory-criticism"
 }

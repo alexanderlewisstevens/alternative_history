@@ -20,14 +20,16 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [The Defense of Poesy](../norton-texts/sidney-defense-of-poesy.md) | 365-367 | 3 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md) | `edition-review-needed` |
+| [The Defense of Poesy](../norton-texts/sidney-defense-of-poesy.md) | 365-404 | 39 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[authorship-and-authority](../authorship-and-authority.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
 - The Defense of Poesy
+- An Apology for Poetry
 
 ## Constellation Backlinks
 
+- [authorship-and-authority](../authorship-and-authority.md)
 - [education-and-civic-life](../education-and-civic-life.md)
 - [poetry-and-judgment](../poetry-and-judgment.md)
 - [vernacular-and-institution](../vernacular-and-institution.md)
@@ -36,9 +38,9 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Signal | Value |
 | --- | --- |
-| Page kinds | author_intro: 3 |
-| Review rows | 3 |
-| Review reasons | transition_from_previous_author: 3 |
+| Page kinds | excerpt: 36<br>author_intro: 3<br>mixed_excerpt_bibliography: 1 |
+| Review rows | 39 |
+| Review reasons | multi_column_layout: 35<br>source_notes_detected: 31<br>transition_from_previous_author: 3<br>author_boundary_without_life_dates: 2<br>mixed_excerpt_and_bibliography: 1 |
 
 ## Passage Queue
 
@@ -89,8 +91,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T04:26:19Z` |
-| Git commit | `383dabc` |
+| Generated at | `2026-06-13T04:29:46Z` |
+| Git commit | `1665a30` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/sir-philip-sidney.md` |
 

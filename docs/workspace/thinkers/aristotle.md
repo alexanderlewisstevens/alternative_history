@@ -20,7 +20,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [Poetics and Rhetoric](../norton-texts/aristotle-poetics-rhetoric.md) | 128-162 | 23 | 0 | [rhetoric-and-force](../rhetoric-and-force.md)<br>[poetry-and-judgment](../poetry-and-judgment.md)<br>[education-and-civic-life](../education-and-civic-life.md) | `edition-review-needed` |
+| [Poetics and Rhetoric](../norton-texts/aristotle-poetics-rhetoric.md) | 128-162 | 23 | 0 | [rhetoric-and-force](../rhetoric-and-force.md)<br>[poetry-and-judgment](../poetry-and-judgment.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[theater-and-public-judgment](../theater-and-public-judgment.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -34,6 +34,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 - [education-and-civic-life](../education-and-civic-life.md)
 - [poetry-and-judgment](../poetry-and-judgment.md)
 - [rhetoric-and-force](../rhetoric-and-force.md)
+- [theater-and-public-judgment](../theater-and-public-judgment.md)
 
 ## Review Pressure
 
@@ -92,8 +93,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T04:26:19Z` |
-| Git commit | `383dabc` |
+| Generated at | `2026-06-13T04:29:46Z` |
+| Git commit | `1665a30` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/aristotle.md` |
 

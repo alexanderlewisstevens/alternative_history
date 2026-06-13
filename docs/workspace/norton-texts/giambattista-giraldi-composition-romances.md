@@ -37,6 +37,7 @@ This note turns the current Norton chunk for Giambattista Giraldi into a navigab
 | Constellation | Core Question | Relations |
 | --- | --- | --- |
 | [vernacular-and-institution](../vernacular-and-institution.md) | How do languages become institutions of thought? | vernacular, imitation, nation |
+| [theater-and-public-judgment](../theater-and-public-judgment.md) | How does theater train or expose public judgment? | drama, audience, rules |
 
 ## Passage Queue
 
@@ -45,7 +46,7 @@ This note turns the current Norton chunk for Giambattista Giraldi into a navigab
   <h3>Choose Passages After Review</h3>
   <p><strong>Source location:</strong> Norton page range 313-320.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
-  <p><strong>Use:</strong> Find the passages that make this text active inside vernacular-and-institution.</p>
+  <p><strong>Use:</strong> Find the passages that make this text active inside vernacular-and-institution, theater-and-public-judgment.</p>
 </section>
 
 <section class="ah-passage-card">
@@ -89,8 +90,8 @@ This note turns the current Norton chunk for Giambattista Giraldi into a navigab
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/giambattista-giraldi.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T04:26:20Z` |
-| Git commit | `383dabc` |
+| Generated at | `2026-06-13T04:29:48Z` |
+| Git commit | `1665a30` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/giambattista-giraldi-composition-romances.md` |
 
@@ -104,6 +105,7 @@ This note turns the current Norton chunk for Giambattista Giraldi into a navigab
 <li>Thinker: <a href="../../thinkers/giambattista-giraldi/">Giambattista Giraldi</a></li>
 <li><a href="../../passages/">Passage Notes</a></li>
 <li><a href="../../vernacular-and-institution/">vernacular-and-institution</a></li>
+<li><a href="../../theater-and-public-judgment/">theater-and-public-judgment</a></li>
 </ul>
 
 ## Open Questions

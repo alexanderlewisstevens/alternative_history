@@ -1,10 +1,10 @@
-# Moses Maimonides
+# Giambattista Vico
 
 <div class="ah-note-meta">
   <span><strong>Type:</strong> thinker node</span>
   <span><strong>Status:</strong> generated private workspace note</span>
   <span><strong>Source mode:</strong> restricted metadata only</span>
-  <span><strong>Tags:</strong> allegory, interpretation, reason, revelation</span>
+  <span><strong>Tags:</strong> civic-knowledge, history, institutions, language</span>
 </div>
 
 <div class="ah-private-banner">
@@ -20,24 +20,25 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [The Guide of the Perplexed](../norton-texts/maimonides-guide-perplexed.md) | 253-267 | 15 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md) | `edition-review-needed` |
+| [The New Science](../norton-texts/vico-new-science.md) | 441-447 | 4 | 0 | [commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
-- The Guide of the Perplexed
+- The New Science
 
 ## Constellation Backlinks
 
 - [commentary-and-afterlife](../commentary-and-afterlife.md)
-- [signs-and-reading](../signs-and-reading.md)
+- [education-and-civic-life](../education-and-civic-life.md)
+- [vernacular-and-institution](../vernacular-and-institution.md)
 
 ## Review Pressure
 
 | Signal | Value |
 | --- | --- |
-| Page kinds | excerpt: 11<br>author_intro: 4 |
-| Review rows | 15 |
-| Review reasons | source_notes_detected: 10<br>multi_column_layout: 8<br>transition_from_previous_author: 4 |
+| Page kinds | excerpt: 4<br>author_intro: 2<br>mixed_excerpt_bibliography: 1 |
+| Review rows | 4 |
+| Review reasons | transition_from_previous_author: 2<br>mixed_excerpt_and_bibliography: 1<br>multi_column_layout: 1<br>source_notes_detected: 1 |
 
 ## Passage Queue
 
@@ -84,14 +85,14 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Field | Value |
 | --- | --- |
-| Thinker slug | `moses-maimonides` |
+| Thinker slug | `giambattista-vico` |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Generated at | `2026-06-13T04:29:46Z` |
 | Git commit | `1665a30` |
 | Script version | `1` |
-| Output path | `docs/workspace/thinkers/moses-maimonides.md` |
+| Output path | `docs/workspace/thinkers/giambattista-vico.md` |
 
 ## Open Questions
 
