@@ -1,0 +1,39 @@
+name: Pipeline Or Data Task
+description: Track extraction, validation, generated metadata, or reproducibility work.
+title: "[Pipeline] "
+labels:
+  - pipeline
+  - data
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: Describe the data, script, validation, or reproducibility issue.
+      placeholder: "What artifact is wrong, missing, unstable, or hard to audit?"
+    validations:
+      required: true
+  - type: textarea
+    id: artifacts
+    attributes:
+      label: Relevant Artifacts
+      description: Include paths, make targets, generated manifests, page ranges, or source IDs.
+      placeholder: "- SOURCE_ID=norton-theory-criticism\n- work/review/.../page-records-needing-review.csv"
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Result
+      description: State the observable result that would resolve the issue.
+      placeholder: "The target should regenerate deterministically and pass validation."
+    validations:
+      required: true
+  - type: textarea
+    id: checks
+    attributes:
+      label: Checks
+      description: List commands or manual checks that should pass.
+      placeholder: "- make audit SOURCE_ID=norton-theory-criticism\n- make build SOURCE_ID=norton-theory-criticism"
+    validations:
+      required: false

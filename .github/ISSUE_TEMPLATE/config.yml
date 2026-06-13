@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Editorial and sourcing policy
+    url: https://github.com/alexanderlewisstevens/alternative_history/blob/main/docs/_meta/editorial-policy.md
+    about: Check the project standard before proposing new source material.
+  - name: Rights and sourcing guidance
+    url: https://github.com/alexanderlewisstevens/alternative_history/blob/main/docs/_meta/rights-and-sourcing.md
+    about: Use this before copying source text into public pages.

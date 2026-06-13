@@ -1,0 +1,4548 @@
+source_id: norton-theory-criticism
+notes: "Manual page-range corrections for Norton pilot runs. These are restricted extraction controls, not public source text."
+overrides:
+  - id: opening-blank-pages
+    pages: 1-2
+    page_kind: blank
+    starts_new_author: false
+    continues_previous_author: false
+    include_in_author_assembly: false
+    confidence: high
+    review_required: false
+
+  - id: title-and-copyright-pages
+    pages: 3-6
+    page_kind: front_matter
+    starts_new_author: false
+    continues_previous_author: false
+    include_in_author_assembly: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - title_page
+      - copyright_page
+      - front_matter
+
+  - id: table-of-contents
+    pages: 7-20
+    page_kind: table_of_contents
+    starts_new_author: false
+    continues_previous_author: false
+    include_in_author_assembly: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - table_of_contents
+      - front_matter
+
+  - id: alternative-table-of-contents
+    pages: 21-31
+    page_kind: table_of_contents
+    starts_new_author: false
+    continues_previous_author: false
+    include_in_author_assembly: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - alternative_table_of_contents
+      - front_matter
+
+  - id: front-matter-blank-page
+    pages: 32
+    page_kind: blank
+    starts_new_author: false
+    continues_previous_author: false
+    include_in_author_assembly: false
+    confidence: high
+    review_required: false
+
+  - id: anthology-preface
+    pages: 33-36
+    page_kind: front_matter
+    starts_new_author: false
+    continues_previous_author: false
+    include_in_author_assembly: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - preface
+      - front_matter
+
+  - id: anthology-acknowledgments
+    pages: 37-38
+    page_kind: front_matter
+    starts_new_author: false
+    continues_previous_author: false
+    include_in_author_assembly: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - acknowledgments
+      - front_matter
+
+  - id: theory-and-criticism-divider
+    pages: 39-40
+    page_kind: front_matter
+    starts_new_author: false
+    continues_previous_author: false
+    include_in_author_assembly: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - section_divider
+      - front_matter
+
+  - id: introduction-to-theory-and-criticism
+    pages: 41-68
+    page_kind: editorial_apparatus
+    starts_new_author: false
+    continues_previous_author: false
+    include_in_author_assembly: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - introduction
+      - editorial_apparatus
+      - front_matter
+
+  - id: theory-and-criticism-section-opener
+    pages: 69-70
+    page_kind: front_matter
+    starts_new_author: false
+    continues_previous_author: false
+    include_in_author_assembly: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - section_opener
+      - front_matter
+
+  - id: gorgias-headnote
+    pages: 71
+    author_name: Gorgias of Leontini
+    author_slug: gorgias-of-leontini
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+
+  - id: gorgias-encomium
+    pages: 72-74
+    author_name: Gorgias of Leontini
+    author_slug: gorgias-of-leontini
+    work_title: Encomium of Helen
+    work_slug: encomium-of-helen
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: plato-headnote
+    pages: 75
+    author_name: Plato
+    author_slug: plato
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+
+  - id: plato-headnote-continuation
+    pages: 76-78
+    author_name: Plato
+    author_slug: plato
+    page_kind: author_intro
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: plato-ion
+    pages: 79-90
+    author_name: Plato
+    author_slug: plato
+    work_title: Ion
+    work_slug: ion
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: plato-republic-book-ii
+    pages: 91-98
+    author_name: Plato
+    author_slug: plato
+    work_title: Republic, Book II
+    work_slug: republic-book-ii
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: plato-republic-book-iii
+    pages: 99-106
+    author_name: Plato
+    author_slug: plato
+    work_title: Republic, Book III
+    work_slug: republic-book-iii
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: plato-republic-book-vii
+    pages: 107-108
+    author_name: Plato
+    author_slug: plato
+    work_title: Republic, Book VII
+    work_slug: republic-book-vii
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: plato-republic-book-x
+    pages: 109-122
+    author_name: Plato
+    author_slug: plato
+    work_title: Republic, Book X
+    work_slug: republic-book-x
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: plato-phaedrus
+    pages: 123-127
+    author_name: Plato
+    author_slug: plato
+    work_title: Phaedrus
+    work_slug: phaedrus
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: aristotle-headnote
+    pages: 128-132
+    author_name: Aristotle
+    author_slug: aristotle
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+
+  - id: aristotle-poetics
+    pages: 133-158
+    author_name: Aristotle
+    author_slug: aristotle
+    work_title: Poetics
+    work_slug: poetics
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: aristotle-rhetoric-book-i-chapter-2
+    pages: 159-160
+    author_name: Aristotle
+    author_slug: aristotle
+    work_title: Rhetoric, Book I, Chapter 2
+    work_slug: rhetoric-book-i-chapter-2
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_work
+
+  - id: aristotle-rhetoric-book-ii-chapter-1
+    pages: 161-162
+    author_name: Aristotle
+    author_slug: aristotle
+    work_title: Rhetoric, Book II, Chapter 1
+    work_slug: rhetoric-book-ii-chapter-1
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: horace-headnote
+    pages: 163-166
+    author_name: Horace
+    author_slug: horace
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: horace-ars-poetica
+    pages: 167-176
+    author_name: Horace
+    author_slug: horace
+    work_title: Ars Poetica
+    work_slug: ars-poetica
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: longinus-headnote
+    pages: 177-180
+    author_name: Longinus
+    author_slug: longinus
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: longinus-on-sublimity
+    pages: 181-196
+    author_name: Longinus
+    author_slug: longinus
+    work_title: On Sublimity
+    work_slug: on-sublimity
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: quintilian-headnote
+    pages: 197-198
+    author_name: Quintilian
+    author_slug: quintilian
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+
+  - id: quintilian-institutio-oratoria
+    pages: 199-212
+    author_name: Quintilian
+    author_slug: quintilian
+    work_title: Institutio Oratoria
+    work_slug: institutio-oratoria
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: plotinus-headnote
+    pages: 213-216
+    author_name: Plotinus
+    author_slug: plotinus
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+
+  - id: plotinus-fifth-ennead
+    pages: 217-226
+    author_name: Plotinus
+    author_slug: plotinus
+    work_title: Fifth Ennead
+    work_slug: fifth-ennead
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: augustine-headnote
+    pages: 227-230
+    author_name: Augustine of Hippo
+    author_slug: augustine-of-hippo
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: augustine-on-christian-doctrine
+    pages: 231-234
+    author_name: Augustine of Hippo
+    author_slug: augustine-of-hippo
+    work_title: On Christian Doctrine
+    work_slug: on-christian-doctrine
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: augustine-the-trinity
+    pages: 235-237
+    author_name: Augustine of Hippo
+    author_slug: augustine-of-hippo
+    work_title: The Trinity
+    work_slug: the-trinity
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: macrobius-headnote
+    pages: 238-240
+    author_name: Macrobius
+    author_slug: macrobius
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: macrobius-commentary-dream-scipio
+    pages: 241-242
+    author_name: Macrobius
+    author_slug: macrobius
+    work_title: Commentary on the Dream of Scipio
+    work_slug: commentary-on-the-dream-of-scipio
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: hugh-of-st-victor-headnote
+    pages: 243-246
+    author_name: Hugh of St. Victor
+    author_slug: hugh-of-st-victor
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: hugh-of-st-victor-didascalicon
+    pages: 247-252
+    author_name: Hugh of St. Victor
+    author_slug: hugh-of-st-victor
+    work_title: The Didascalicon
+    work_slug: the-didascalicon
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: moses-maimonides-headnote
+    pages: 253-256
+    author_name: Moses Maimonides
+    author_slug: moses-maimonides
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: moses-maimonides-guide-perplexed
+    pages: 257-267
+    author_name: Moses Maimonides
+    author_slug: moses-maimonides
+    work_title: The Guide of the Perplexed
+    work_slug: the-guide-of-the-perplexed
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: geoffrey-of-vinsauf-headnote
+    pages: 268-270
+    author_name: Geoffrey of Vinsauf
+    author_slug: geoffrey-of-vinsauf
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: geoffrey-of-vinsauf-poetria-nova
+    pages: 271-281
+    author_name: Geoffrey of Vinsauf
+    author_slug: geoffrey-of-vinsauf
+    work_title: Poetria Nova
+    work_slug: poetria-nova
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: thomas-aquinas-headnote
+    pages: 282-284
+    author_name: Thomas Aquinas
+    author_slug: thomas-aquinas
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: thomas-aquinas-summa-theologica-opening
+    pages: 285
+    author_name: Thomas Aquinas
+    author_slug: thomas-aquinas
+    work_title: Summa Theologica
+    work_slug: summa-theologica
+    page_kind: mixed_excerpt_bibliography
+    starts_new_author: false
+    continues_previous_author: true
+    contains_excerpt: true
+    contains_bibliography: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_excerpt_and_bibliography
+
+  - id: thomas-aquinas-summa-theologica
+    pages: 286-287
+    author_name: Thomas Aquinas
+    author_slug: thomas-aquinas
+    work_title: Summa Theologica
+    work_slug: summa-theologica
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: dante-alighieri-headnote
+    pages: 288-290
+    author_name: Dante Alighieri
+    author_slug: dante-alighieri
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: dante-alighieri-il-convivio
+    pages: 291-292
+    author_name: Dante Alighieri
+    author_slug: dante-alighieri
+    work_title: Il Convivio
+    work_slug: il-convivio
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: dante-alighieri-letter-can-grande
+    pages: 293-294
+    author_name: Dante Alighieri
+    author_slug: dante-alighieri
+    work_title: The Letter to Can Grande
+    work_slug: the-letter-to-can-grande
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: giovanni-boccaccio-headnote
+    pages: 295-296
+    author_name: Giovanni Boccaccio
+    author_slug: giovanni-boccaccio
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: giovanni-boccaccio-genealogy-opening
+    pages: 297
+    author_name: Giovanni Boccaccio
+    author_slug: giovanni-boccaccio
+    work_title: Genealogy of the Gentile Gods
+    work_slug: genealogy-of-the-gentile-gods
+    page_kind: mixed_excerpt_bibliography
+    starts_new_author: false
+    continues_previous_author: true
+    contains_excerpt: true
+    contains_bibliography: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_excerpt_and_bibliography
+
+  - id: giovanni-boccaccio-genealogy
+    pages: 298-304
+    author_name: Giovanni Boccaccio
+    author_slug: giovanni-boccaccio
+    work_title: Genealogy of the Gentile Gods
+    work_slug: genealogy-of-the-gentile-gods
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: christine-de-pizan-headnote
+    pages: 305-306
+    author_name: Christine de Pizan
+    author_slug: christine-de-pizan
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: christine-de-pizan-city-of-ladies
+    pages: 307-312
+    author_name: Christine de Pizan
+    author_slug: christine-de-pizan
+    work_title: The Book of the City of Ladies
+    work_slug: the-book-of-the-city-of-ladies
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: giambattista-giraldi-headnote
+    pages: 313-314
+    author_name: Giambattista Giraldi
+    author_slug: giambattista-giraldi
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: giambattista-giraldi-composition-romances
+    pages: 315-320
+    author_name: Giambattista Giraldi
+    author_slug: giambattista-giraldi
+    work_title: Discourse on the Composition of Romances
+    work_slug: discourse-on-the-composition-of-romances
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: joachim-du-bellay-headnote
+    pages: 321-323
+    author_name: Joachim du Bellay
+    author_slug: joachim-du-bellay
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: joachim-du-bellay-defense-french-language
+    pages: 324-332
+    author_name: Joachim du Bellay
+    author_slug: joachim-du-bellay
+    work_title: The Defence and Illustration of the French Language
+    work_slug: the-defence-and-illustration-of-the-french-language
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: pierre-de-ronsard-headnote
+    pages: 333-335
+    author_name: Pierre de Ronsard
+    author_slug: pierre-de-ronsard
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: pierre-de-ronsard-brief-art-french-poetry
+    pages: 336-341
+    author_name: Pierre de Ronsard
+    author_slug: pierre-de-ronsard
+    work_title: A Brief on the Art of French Poetry
+    work_slug: a-brief-on-the-art-of-french-poetry
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: giacopo-mazzoni-headnote
+    pages: 342-343
+    author_name: Giacopo Mazzoni
+    author_slug: giacopo-mazzoni
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: giacopo-mazzoni-defense-comedy-opening
+    pages: 344
+    author_name: Giacopo Mazzoni
+    author_slug: giacopo-mazzoni
+    work_title: On the Defense of the Comedy of Dante
+    work_slug: on-the-defense-of-the-comedy-of-dante
+    page_kind: mixed_excerpt_bibliography
+    starts_new_author: false
+    continues_previous_author: true
+    contains_excerpt: true
+    contains_bibliography: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_excerpt_and_bibliography
+
+  - id: giacopo-mazzoni-defense-comedy
+    pages: 345-364
+    author_name: Giacopo Mazzoni
+    author_slug: giacopo-mazzoni
+    work_title: On the Defense of the Comedy of Dante
+    work_slug: on-the-defense-of-the-comedy-of-dante
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: sir-philip-sidney-headnote
+    pages: 365-367
+    author_name: Sir Philip Sidney
+    author_slug: sir-philip-sidney
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: sir-philip-sidney-apology-opening
+    pages: 368
+    author_name: Sir Philip Sidney
+    author_slug: sir-philip-sidney
+    work_title: An Apology for Poetry
+    work_slug: an-apology-for-poetry
+    page_kind: mixed_excerpt_bibliography
+    starts_new_author: false
+    continues_previous_author: true
+    contains_excerpt: true
+    contains_bibliography: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_excerpt_and_bibliography
+
+  - id: sir-philip-sidney-apology
+    pages: 369-404
+    author_name: Sir Philip Sidney
+    author_slug: sir-philip-sidney
+    work_title: An Apology for Poetry
+    work_slug: an-apology-for-poetry
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: pierre-corneille-headnote
+    pages: 405-408
+    author_name: Pierre Corneille
+    author_slug: pierre-corneille
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: pierre-corneille-three-unities
+    pages: 409-420
+    author_name: Pierre Corneille
+    author_slug: pierre-corneille
+    work_title: Of the Three Unities of Action, Time, and Place
+    work_slug: of-the-three-unities-of-action-time-and-place
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: john-dryden-headnote
+    pages: 421-422
+    author_name: John Dryden
+    author_slug: john-dryden
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: john-dryden-essay-dramatic-poesy
+    pages: 423-424
+    author_name: John Dryden
+    author_slug: john-dryden
+    work_title: An Essay of Dramatic Poesy
+    work_slug: an-essay-of-dramatic-poesy
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: john-dryden-preface-troilus-cressida
+    pages: 425-426
+    author_name: John Dryden
+    author_slug: john-dryden
+    work_title: Preface to Troilus and Cressida
+    work_slug: preface-to-troilus-and-cressida
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: john-dryden-preface-sylvae
+    pages: 427-429
+    author_name: John Dryden
+    author_slug: john-dryden
+    work_title: Preface to Sylvae
+    work_slug: preface-to-sylvae
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: aphra-behn-headnote
+    pages: 430-432
+    author_name: Aphra Behn
+    author_slug: aphra-behn
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: aphra-behn-dutch-lover
+    pages: 433-436
+    author_name: Aphra Behn
+    author_slug: aphra-behn
+    work_title: The Dutch Lover
+    work_slug: the-dutch-lover
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: aphra-behn-lucky-chance
+    pages: 437-440
+    author_name: Aphra Behn
+    author_slug: aphra-behn
+    work_title: Preface to The Lucky Chance
+    work_slug: preface-to-the-lucky-chance
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: giambattista-vico-headnote
+    pages: 441-442
+    author_name: Giambattista Vico
+    author_slug: giambattista-vico
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: giambattista-vico-new-science-opening
+    pages: 443
+    author_name: Giambattista Vico
+    author_slug: giambattista-vico
+    work_title: The New Science
+    work_slug: the-new-science
+    page_kind: mixed_excerpt_bibliography
+    starts_new_author: false
+    continues_previous_author: true
+    contains_excerpt: true
+    contains_bibliography: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_excerpt_and_bibliography
+
+  - id: giambattista-vico-new-science
+    pages: 444-447
+    author_name: Giambattista Vico
+    author_slug: giambattista-vico
+    work_title: The New Science
+    work_slug: the-new-science
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: giambattista-vico-new-science-continuation
+    pages: 448-457
+    author_name: Giambattista Vico
+    author_slug: giambattista-vico
+    work_title: The New Science
+    work_slug: the-new-science
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: joseph-addison-headnote
+    pages: 458-460
+    author_name: Joseph Addison
+    author_slug: joseph-addison
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: joseph-addison-spectator-no-62
+    pages: 461-466
+    author_name: Joseph Addison
+    author_slug: joseph-addison
+    work_title: The Spectator, No. 62
+    work_slug: the-spectator-no-62
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: joseph-addison-spectator-no-412
+    pages: 467
+    author_name: Joseph Addison
+    author_slug: joseph-addison
+    work_title: The Spectator, No. 412
+    work_slug: the-spectator-no-412
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: edward-young-headnote
+    pages: 468
+    author_name: Edward Young
+    author_slug: edward-young
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: edward-young-conjectures-opening
+    pages: 469
+    author_name: Edward Young
+    author_slug: edward-young
+    work_title: Conjectures on Original Composition
+    work_slug: conjectures-on-original-composition
+    page_kind: mixed_excerpt_bibliography
+    starts_new_author: false
+    continues_previous_author: true
+    contains_excerpt: true
+    contains_bibliography: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_excerpt_and_bibliography
+
+  - id: edward-young-conjectures
+    pages: 470-479
+    author_name: Edward Young
+    author_slug: edward-young
+    work_title: Conjectures on Original Composition
+    work_slug: conjectures-on-original-composition
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: alexander-pope-headnote
+    pages: 480-482
+    author_name: Alexander Pope
+    author_slug: alexander-pope
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: alexander-pope-essay-on-criticism
+    pages: 483-499
+    author_name: Alexander Pope
+    author_slug: alexander-pope
+    work_title: An Essay on Criticism
+    work_slug: an-essay-on-criticism
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: samuel-johnson-headnote
+    pages: 500-506
+    author_name: Samuel Johnson
+    author_slug: samuel-johnson
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: samuel-johnson-rambler-no-4
+    pages: 507
+    author_name: Samuel Johnson
+    author_slug: samuel-johnson
+    work_title: The Rambler, No. 4
+    work_slug: the-rambler-no-4
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: samuel-johnson-rasselas
+    pages: 508-509
+    author_name: Samuel Johnson
+    author_slug: samuel-johnson
+    work_title: The History of Rasselas
+    work_slug: the-history-of-rasselas
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: samuel-johnson-preface-shakespeare
+    pages: 510-524
+    author_name: Samuel Johnson
+    author_slug: samuel-johnson
+    work_title: Preface to Shakespeare
+    work_slug: preface-to-shakespeare
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: david-hume-headnote
+    pages: 525-527
+    author_name: David Hume
+    author_slug: david-hume
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: david-hume-standard-of-taste
+    pages: 528-540
+    author_name: David Hume
+    author_slug: david-hume
+    work_title: Of the Standard of Taste
+    work_slug: of-the-standard-of-taste
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: immanuel-kant-headnote
+    pages: 541-545
+    author_name: Immanuel Kant
+    author_slug: immanuel-kant
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: immanuel-kant-critique-of-judgment
+    pages: 546-577
+    author_name: Immanuel Kant
+    author_slug: immanuel-kant
+    work_title: Critique of Judgment
+    work_slug: critique-of-judgment
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: edmund-burke-headnote
+    pages: 578-580
+    author_name: Edmund Burke
+    author_slug: edmund-burke
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: edmund-burke-sublime-beautiful
+    pages: 581-592
+    author_name: Edmund Burke
+    author_slug: edmund-burke
+    work_title: A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful
+    work_slug: a-philosophical-enquiry-into-the-origin-of-our-ideas-of-the-sublime-and-beautiful
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: gotthold-ephraim-lessing-headnote
+    pages: 593-595
+    author_name: Gotthold Ephraim Lessing
+    author_slug: gotthold-ephraim-lessing
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: gotthold-ephraim-lessing-laocoon
+    pages: 596-607
+    author_name: Gotthold Ephraim Lessing
+    author_slug: gotthold-ephraim-lessing
+    work_title: Laocoon
+    work_slug: laocoon
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: gotthold-ephraim-lessing-laocoon-continuation
+    pages: 608-612
+    author_name: Gotthold Ephraim Lessing
+    author_slug: gotthold-ephraim-lessing
+    work_title: Laocoon
+    work_slug: laocoon
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: friedrich-schiller-headnote
+    pages: 613-614
+    author_name: Friedrich Schiller
+    author_slug: friedrich-schiller
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: friedrich-schiller-aesthetic-education
+    pages: 615-623
+    author_name: Friedrich Schiller
+    author_slug: friedrich-schiller
+    work_title: On the Aesthetic Education of Man
+    work_slug: on-the-aesthetic-education-of-man
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: mary-wollstonecraft-headnote
+    pages: 624-627
+    author_name: Mary Wollstonecraft
+    author_slug: mary-wollstonecraft
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: mary-wollstonecraft-rights-woman
+    pages: 628-635
+    author_name: Mary Wollstonecraft
+    author_slug: mary-wollstonecraft
+    work_title: A Vindication of the Rights of Woman
+    work_slug: a-vindication-of-the-rights-of-woman
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: germaine-de-stael-headnote
+    pages: 636-638
+    author_name: Germaine de Stael
+    author_slug: germaine-de-stael
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: germaine-de-stael-essay-on-fictions
+    pages: 639-645
+    author_name: Germaine de Stael
+    author_slug: germaine-de-stael
+    work_title: Essay on Fictions
+    work_slug: essay-on-fictions
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: germaine-de-stael-literature-social-institutions
+    pages: 646-651
+    author_name: Germaine de Stael
+    author_slug: germaine-de-stael
+    work_title: On Literature Considered in Its Relationship to Social Institutions
+    work_slug: on-literature-considered-in-its-relationship-to-social-institutions
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: friedrich-schleiermacher-headnote
+    pages: 652-654
+    author_name: Friedrich Schleiermacher
+    author_slug: friedrich-schleiermacher
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: friedrich-schleiermacher-hermeneutics-opening
+    pages: 655
+    author_name: Friedrich Schleiermacher
+    author_slug: friedrich-schleiermacher
+    work_title: Hermeneutics
+    work_slug: hermeneutics
+    page_kind: mixed_excerpt_bibliography
+    starts_new_author: false
+    continues_previous_author: true
+    contains_excerpt: true
+    contains_bibliography: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_excerpt_and_bibliography
+
+  - id: friedrich-schleiermacher-hermeneutics
+    pages: 656-667
+    author_name: Friedrich Schleiermacher
+    author_slug: friedrich-schleiermacher
+    work_title: Hermeneutics
+    work_slug: hermeneutics
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: georg-wilhelm-friedrich-hegel-headnote
+    pages: 668-672
+    author_name: Georg Wilhelm Friedrich Hegel
+    author_slug: georg-wilhelm-friedrich-hegel
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: georg-wilhelm-friedrich-hegel-phenomenology
+    pages: 673-677
+    author_name: Georg Wilhelm Friedrich Hegel
+    author_slug: georg-wilhelm-friedrich-hegel
+    work_title: Phenomenology of Spirit
+    work_slug: phenomenology-of-spirit
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: georg-wilhelm-friedrich-hegel-lectures-fine-art
+    pages: 678-686
+    author_name: Georg Wilhelm Friedrich Hegel
+    author_slug: georg-wilhelm-friedrich-hegel
+    work_title: Lectures on Fine Art
+    work_slug: lectures-on-fine-art
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: william-wordsworth-headnote
+    pages: 687
+    author_name: William Wordsworth
+    author_slug: william-wordsworth
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: cleanup-mary-wollstonecraft-headnote-title
+    pages: 627
+    author_name: Mary Wollstonecraft
+    author_slug: mary-wollstonecraft
+    work_title: Headnote
+    work_slug: headnote
+    page_kind: author_intro
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - ocr_title_cleanup
+
+  - id: cleanup-germaine-de-stael-headnote-title
+    pages: 637
+    author_name: Germaine de Stael
+    author_slug: germaine-de-stael
+    work_title: Headnote
+    work_slug: headnote
+    page_kind: author_intro
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - ocr_title_cleanup
+
+  - id: william-wordsworth-headnote-continuation
+    pages: 688-689
+    author_name: William Wordsworth
+    author_slug: william-wordsworth
+    page_kind: author_intro
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: william-wordsworth-preface-bibliography-transition
+    pages: 690
+    author_name: William Wordsworth
+    author_slug: william-wordsworth
+    work_title: Preface to Lyrical Ballads
+    work_slug: preface-to-lyrical-ballads
+    page_kind: bibliography
+    starts_new_author: false
+    continues_previous_author: true
+    contains_bibliography: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: william-wordsworth-preface-lyrical-ballads
+    pages: 691-709
+    author_name: William Wordsworth
+    author_slug: william-wordsworth
+    work_title: Preface to Lyrical Ballads
+    work_slug: preface-to-lyrical-ballads
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: samuel-taylor-coleridge-headnote
+    pages: 710-714
+    author_name: Samuel Taylor Coleridge
+    author_slug: samuel-taylor-coleridge
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_transition_page
+
+  - id: samuel-taylor-coleridge-statesmans-manual
+    pages: 715-718
+    author_name: Samuel Taylor Coleridge
+    author_slug: samuel-taylor-coleridge
+    work_title: The Statesman's Manual
+    work_slug: the-statesmans-manual
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: samuel-taylor-coleridge-biographia-literaria
+    pages: 719-723
+    author_name: Samuel Taylor Coleridge
+    author_slug: samuel-taylor-coleridge
+    work_title: Biographia Literaria
+    work_slug: biographia-literaria
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: thomas-love-peacock-headnote
+    pages: 724-726
+    author_name: Thomas Love Peacock
+    author_slug: thomas-love-peacock
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_transition_page
+
+  - id: thomas-love-peacock-four-ages-poetry
+    pages: 727-737
+    author_name: Thomas Love Peacock
+    author_slug: thomas-love-peacock
+    work_title: The Four Ages of Poetry
+    work_slug: the-four-ages-of-poetry
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: percy-bysshe-shelley-headnote
+    pages: 738-740
+    author_name: Percy Bysshe Shelley
+    author_slug: percy-bysshe-shelley
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: percy-bysshe-shelley-defence-poetry
+    pages: 741-758
+    author_name: Percy Bysshe Shelley
+    author_slug: percy-bysshe-shelley
+    work_title: A Defence of Poetry
+    work_slug: a-defence-of-poetry
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: ralph-waldo-emerson-headnote
+    pages: 759-762
+    author_name: Ralph Waldo Emerson
+    author_slug: ralph-waldo-emerson
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_transition_page
+
+  - id: ralph-waldo-emerson-american-scholar
+    pages: 763-765
+    author_name: Ralph Waldo Emerson
+    author_slug: ralph-waldo-emerson
+    work_title: The American Scholar
+    work_slug: the-american-scholar
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: ralph-waldo-emerson-the-poet
+    pages: 766-780
+    author_name: Ralph Waldo Emerson
+    author_slug: ralph-waldo-emerson
+    work_title: The Poet
+    work_slug: the-poet
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: edgar-allan-poe-headnote
+    pages: 781-783
+    author_name: Edgar Allan Poe
+    author_slug: edgar-allan-poe
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_transition_page
+
+  - id: edgar-allan-poe-philosophy-composition
+    pages: 784-791
+    author_name: Edgar Allan Poe
+    author_slug: edgar-allan-poe
+    work_title: The Philosophy of Composition
+    work_slug: the-philosophy-of-composition
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: theophile-gautier-headnote
+    pages: 792-794
+    author_name: Theophile Gautier
+    author_slug: theophile-gautier
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_transition_page
+
+  - id: theophile-gautier-preface-mademoiselle-de-maupin
+    pages: 795-800
+    author_name: Theophile Gautier
+    author_slug: theophile-gautier
+    work_title: Preface to Mademoiselle de Maupin
+    work_slug: preface-to-mademoiselle-de-maupin
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: karl-marx-friedrich-engels-headnote
+    pages: 801-805
+    author_name: Karl Marx and Friedrich Engels
+    author_slug: karl-marx-and-friedrich-engels
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_transition_page
+
+  - id: karl-marx-economic-philosophic-manuscripts
+    pages: 806-809
+    author_name: Karl Marx and Friedrich Engels
+    author_slug: karl-marx-and-friedrich-engels
+    work_title: Economic and Philosophic Manuscripts of 1844
+    work_slug: economic-and-philosophic-manuscripts-of-1844
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: karl-marx-german-ideology
+    pages: 810-811
+    author_name: Karl Marx and Friedrich Engels
+    author_slug: karl-marx-and-friedrich-engels
+    work_title: The German Ideology
+    work_slug: the-german-ideology
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: karl-marx-communist-manifesto
+    pages: 812-815
+    author_name: Karl Marx and Friedrich Engels
+    author_slug: karl-marx-and-friedrich-engels
+    work_title: The Communist Manifesto
+    work_slug: the-communist-manifesto
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: karl-marx-grundrisse
+    pages: 816
+    author_name: Karl Marx and Friedrich Engels
+    author_slug: karl-marx-and-friedrich-engels
+    work_title: Grundrisse
+    work_slug: grundrisse
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: karl-marx-preface-critique-political-economy
+    pages: 817
+    author_name: Karl Marx and Friedrich Engels
+    author_slug: karl-marx-and-friedrich-engels
+    work_title: Preface to A Contribution to the Critique of Political Economy
+    work_slug: preface-to-a-contribution-to-the-critique-of-political-economy
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: karl-marx-capital-volume-one
+    pages: 818-829
+    author_name: Karl Marx and Friedrich Engels
+    author_slug: karl-marx-and-friedrich-engels
+    work_title: Capital, Volume 1
+    work_slug: capital-volume-1
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: friedrich-engels-letter-to-joseph-bloch
+    pages: 830
+    author_name: Karl Marx and Friedrich Engels
+    author_slug: karl-marx-and-friedrich-engels
+    work_title: Letter from Friedrich Engels to Joseph Bloch
+    work_slug: letter-from-friedrich-engels-to-joseph-bloch
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: charles-baudelaire-headnote
+    pages: 831-834
+    author_name: Charles Baudelaire
+    author_slug: charles-baudelaire
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: charles-baudelaire-painter-modern-life
+    pages: 835-843
+    author_name: Charles Baudelaire
+    author_slug: charles-baudelaire
+    work_title: The Painter of Modern Life
+    work_slug: the-painter-of-modern-life
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: matthew-arnold-headnote
+    pages: 844-847
+    author_name: Matthew Arnold
+    author_slug: matthew-arnold
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_transition_page
+
+  - id: matthew-arnold-function-criticism
+    pages: 848-867
+    author_name: Matthew Arnold
+    author_slug: matthew-arnold
+    work_title: The Function of Criticism at the Present Time
+    work_slug: the-function-of-criticism-at-the-present-time
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_work_transition_page
+
+  - id: matthew-arnold-culture-and-anarchy
+    pages: 867-874
+    author_name: Matthew Arnold
+    author_slug: matthew-arnold
+    work_title: Culture and Anarchy
+    work_slug: culture-and-anarchy
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: walter-pater-headnote
+    pages: 875-876
+    author_name: Walter Pater
+    author_slug: walter-pater
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: walter-pater-studies-history-renaissance
+    pages: 877-883
+    author_name: Walter Pater
+    author_slug: walter-pater
+    work_title: Studies in the History of the Renaissance
+    work_slug: studies-in-the-history-of-the-renaissance
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: stephane-mallarme-headnote
+    pages: 883-886
+    author_name: Stephane Mallarme
+    author_slug: stephane-mallarme
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_transition_page
+
+  - id: stephane-mallarme-crisis-in-poetry
+    pages: 887-893
+    author_name: Stephane Mallarme
+    author_slug: stephane-mallarme
+    work_title: Crisis in Poetry
+    work_slug: crisis-in-poetry
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: henry-james-headnote
+    pages: 893-896
+    author_name: Henry James
+    author_slug: henry-james
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_transition_page
+
+  - id: henry-james-art-of-fiction
+    pages: 897-911
+    author_name: Henry James
+    author_slug: henry-james
+    work_title: The Art of Fiction
+    work_slug: the-art-of-fiction
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: friedrich-nietzsche-headnote
+    pages: 912-916
+    author_name: Friedrich Nietzsche
+    author_slug: friedrich-nietzsche
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: friedrich-nietzsche-truth-and-lying
+    pages: 916-927
+    author_name: Friedrich Nietzsche
+    author_slug: friedrich-nietzsche
+    work_title: On Truth and Lying in a Non-Moral Sense
+    work_slug: on-truth-and-lying-in-a-non-moral-sense
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: friedrich-nietzsche-birth-of-tragedy
+    pages: 928-938
+    author_name: Friedrich Nietzsche
+    author_slug: friedrich-nietzsche
+    work_title: The Birth of Tragedy
+    work_slug: the-birth-of-tragedy
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: oscar-wilde-headnote
+    pages: 939-943
+    author_name: Oscar Wilde
+    author_slug: oscar-wilde
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_transition_page
+
+  - id: oscar-wilde-preface-dorian-gray
+    pages: 943
+    author_name: Oscar Wilde
+    author_slug: oscar-wilde
+    work_title: Preface to The Picture of Dorian Gray
+    work_slug: preface-to-the-picture-of-dorian-gray
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: oscar-wilde-critic-as-artist
+    pages: 944-956
+    author_name: Oscar Wilde
+    author_slug: oscar-wilde
+    work_title: The Critic as Artist
+    work_slug: the-critic-as-artist
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: sigmund-freud-headnote
+    pages: 957-963
+    author_name: Sigmund Freud
+    author_slug: sigmund-freud
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: sigmund-freud-interpretation-of-dreams
+    pages: 963-973
+    author_name: Sigmund Freud
+    author_slug: sigmund-freud
+    work_title: The Interpretation of Dreams
+    work_slug: the-interpretation-of-dreams
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: sigmund-freud-uncanny
+    pages: 973-996
+    author_name: Sigmund Freud
+    author_slug: sigmund-freud
+    work_title: The Uncanny
+    work_slug: the-uncanny
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: sigmund-freud-fetishism
+    pages: 997-999
+    author_name: Sigmund Freud
+    author_slug: sigmund-freud
+    work_title: Fetishism
+    work_slug: fetishism
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: ferdinand-de-saussure-headnote
+    pages: 1000-1004
+    author_name: Ferdinand de Saussure
+    author_slug: ferdinand-de-saussure
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_transition_page
+      - mixed_bibliography_and_work_title
+
+  - id: ferdinand-de-saussure-course-general-linguistics
+    pages: 1004-1021
+    author_name: Ferdinand de Saussure
+    author_slug: ferdinand-de-saussure
+    work_title: Course in General Linguistics
+    work_slug: course-in-general-linguistics
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: web-du-bois-headnote
+    pages: 1021-1024
+    author_name: W. E. B. Du Bois
+    author_slug: web-du-bois
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_transition_page
+      - mixed_bibliography_and_work_title
+
+  - id: web-du-bois-criteria-negro-art
+    pages: 1024-1031
+    author_name: W. E. B. Du Bois
+    author_slug: web-du-bois
+    work_title: Criteria of Negro Art
+    work_slug: criteria-of-negro-art
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: carl-gustav-jung-headnote
+    pages: 1031-1033
+    author_name: Carl Gustav Jung
+    author_slug: carl-gustav-jung
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_transition_page
+      - mixed_bibliography_and_work_title
+
+  - id: carl-gustav-jung-analytical-psychology-poetry
+    pages: 1034-1046
+    author_name: Carl Gustav Jung
+    author_slug: carl-gustav-jung
+    work_title: On the Relation of Analytical Psychology to Poetry
+    work_slug: on-the-relation-of-analytical-psychology-to-poetry
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: leon-trotsky-headnote
+    pages: 1046-1049
+    author_name: Leon Trotsky
+    author_slug: leon-trotsky
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_transition_page
+      - mixed_bibliography_and_work_title
+
+  - id: leon-trotsky-literature-and-revolution
+    pages: 1049-1061
+    author_name: Leon Trotsky
+    author_slug: leon-trotsky
+    work_title: Literature and Revolution
+    work_slug: literature-and-revolution
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: virginia-woolf-headnote
+    pages: 1061-1065
+    author_name: Virginia Woolf
+    author_slug: virginia-woolf
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_transition_page
+      - mixed_bibliography_and_work_title
+
+  - id: virginia-woolf-room-of-ones-own
+    pages: 1065-1073
+    author_name: Virginia Woolf
+    author_slug: virginia-woolf
+    work_title: A Room of One's Own
+    work_slug: a-room-of-ones-own
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: gyorgy-lukacs-headnote
+    pages: 1074-1077
+    author_name: Gyorgy Lukacs
+    author_slug: gyorgy-lukacs
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: gyorgy-lukacs-realism-in-the-balance
+    pages: 1077-1102
+    author_name: Gyorgy Lukacs
+    author_slug: gyorgy-lukacs
+    work_title: Realism in the Balance
+    work_slug: realism-in-the-balance
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: boris-eichenbaum-headnote
+    pages: 1102-1106
+    author_name: Boris Eichenbaum
+    author_slug: boris-eichenbaum
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_transition_page
+      - mixed_bibliography_and_work_title
+
+  - id: boris-eichenbaum-theory-formal-method
+    pages: 1106-1131
+    author_name: Boris Eichenbaum
+    author_slug: boris-eichenbaum
+    work_title: The Theory of the Formal Method
+    work_slug: the-theory-of-the-formal-method
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: ts-eliot-headnote
+    pages: 1132-1136
+    author_name: T. S. Eliot
+    author_slug: t-s-eliot
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: ts-eliot-tradition-individual-talent
+    pages: 1136-1141
+    author_name: T. S. Eliot
+    author_slug: t-s-eliot
+    work_title: Tradition and the Individual Talent
+    work_slug: tradition-and-the-individual-talent
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: ts-eliot-metaphysical-poets
+    pages: 1141-1149
+    author_name: T. S. Eliot
+    author_slug: t-s-eliot
+    work_title: The Metaphysical Poets
+    work_slug: the-metaphysical-poets
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: john-crowe-ransom-headnote
+    pages: 1149-1152
+    author_name: John Crowe Ransom
+    author_slug: john-crowe-ransom
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_transition_page
+      - mixed_bibliography_and_work_title
+
+  - id: john-crowe-ransom-criticism-inc
+    pages: 1152-1162
+    author_name: John Crowe Ransom
+    author_slug: john-crowe-ransom
+    work_title: Criticism, Inc.
+    work_slug: criticism-inc
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: martin-heidegger-headnote
+    pages: 1162-1165
+    author_name: Martin Heidegger
+    author_slug: martin-heidegger
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_transition_page
+      - mixed_bibliography_and_work_title
+
+  - id: martin-heidegger-language
+    pages: 1165-1178
+    author_name: Martin Heidegger
+    author_slug: martin-heidegger
+    work_title: Language
+    work_slug: language
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: antonio-gramsci-headnote
+    pages: 1179-1182
+    author_name: Antonio Gramsci
+    author_slug: antonio-gramsci
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: antonio-gramsci-formation-intellectuals
+    pages: 1182-1187
+    author_name: Antonio Gramsci
+    author_slug: antonio-gramsci
+    work_title: The Formation of the Intellectuals
+    work_slug: the-formation-of-the-intellectuals
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: zora-neale-hurston-headnote
+    pages: 1188-1190
+    author_name: Zora Neale Hurston
+    author_slug: zora-neale-hurston
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: zora-neale-hurston-characteristics-negro-expression
+    pages: 1190-1202
+    author_name: Zora Neale Hurston
+    author_slug: zora-neale-hurston
+    work_title: Characteristics of Negro Expression
+    work_slug: characteristics-of-negro-expression
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: zora-neale-hurston-what-white-publishers-wont-print
+    pages: 1203-1206
+    author_name: Zora Neale Hurston
+    author_slug: zora-neale-hurston
+    work_title: What White Publishers Won't Print
+    work_slug: what-white-publishers-wont-print
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: walter-benjamin-headnote
+    pages: 1207-1211
+    author_name: Walter Benjamin
+    author_slug: walter-benjamin
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: walter-benjamin-work-of-art-mechanical-reproduction
+    pages: 1211-1229
+    author_name: Walter Benjamin
+    author_slug: walter-benjamin
+    work_title: The Work of Art in the Age of Mechanical Reproduction
+    work_slug: the-work-of-art-in-the-age-of-mechanical-reproduction
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: mikhail-bakhtin-headnote
+    pages: 1230-1234
+    author_name: Mikhail M. Bakhtin
+    author_slug: mikhail-bakhtin
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: mikhail-bakhtin-discourse-in-the-novel
+    pages: 1234-1264
+    author_name: Mikhail M. Bakhtin
+    author_slug: mikhail-bakhtin
+    work_title: Discourse in the Novel
+    work_slug: discourse-in-the-novel
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: horkheimer-adorno-headnote
+    pages: 1264-1267
+    author_name: Max Horkheimer and Theodor W. Adorno
+    author_slug: max-horkheimer-and-theodor-w-adorno
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: horkheimer-adorno-culture-industry
+    pages: 1267-1284
+    author_name: Max Horkheimer and Theodor W. Adorno
+    author_slug: max-horkheimer-and-theodor-w-adorno
+    work_title: "The Culture Industry: Enlightenment as Mass Deception"
+    work_slug: the-culture-industry-enlightenment-as-mass-deception
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: edmund-wilson-headnote
+    pages: 1284-1287
+    author_name: Edmund Wilson
+    author_slug: edmund-wilson
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: edmund-wilson-marxism-and-literature
+    pages: 1287-1298
+    author_name: Edmund Wilson
+    author_slug: edmund-wilson
+    work_title: Marxism and Literature
+    work_slug: marxism-and-literature
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: roman-jakobson-headnote
+    pages: 1298-1302
+    author_name: Roman Jakobson
+    author_slug: roman-jakobson
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: roman-jakobson-linguistics-and-poetics
+    pages: 1302-1308
+    author_name: Roman Jakobson
+    author_slug: roman-jakobson
+    work_title: From Linguistics and Poetics
+    work_slug: from-linguistics-and-poetics
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: roman-jakobson-two-aspects-language-aphasia
+    pages: 1308-1313
+    author_name: Roman Jakobson
+    author_slug: roman-jakobson
+    work_title: "From Two Aspects of Language and Two Types of Aphasic Disturbances"
+    work_slug: from-two-aspects-of-language-and-two-types-of-aphasic-disturbances
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: kenneth-burke-headnote
+    pages: 1313-1316
+    author_name: Kenneth Burke
+    author_slug: kenneth-burke
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: kenneth-burke-kinds-of-criticism
+    pages: 1316-1322
+    author_name: Kenneth Burke
+    author_slug: kenneth-burke
+    work_title: Kinds of Criticism
+    work_slug: kinds-of-criticism
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: jacques-lacan-headnote
+    pages: 1322-1329
+    author_name: Jacques Lacan
+    author_slug: jacques-lacan
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: jacques-lacan-mirror-stage
+    pages: 1329-1334
+    author_name: Jacques Lacan
+    author_slug: jacques-lacan
+    work_title: The Mirror Stage as Formative of the Function of the I as Revealed in Psychoanalytic Experience
+    work_slug: the-mirror-stage-as-formative-of-the-function-of-the-i-as-revealed-in-psychoanalytic-experience
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: jacques-lacan-agency-letter
+    pages: 1334-1346
+    author_name: Jacques Lacan
+    author_slug: jacques-lacan
+    work_title: From The Agency of the Letter in the Unconscious
+    work_slug: from-the-agency-of-the-letter-in-the-unconscious
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: jacques-lacan-signification-phallus
+    pages: 1346-1355
+    author_name: Jacques Lacan
+    author_slug: jacques-lacan
+    work_title: The Signification of the Phallus
+    work_slug: the-signification-of-the-phallus
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: langston-hughes-headnote
+    pages: 1355-1358
+    author_name: Langston Hughes
+    author_slug: langston-hughes
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: langston-hughes-negro-artist-racial-mountain
+    pages: 1358-1361
+    author_name: Langston Hughes
+    author_slug: langston-hughes
+    work_title: The Negro Artist and the Racial Mountain
+    work_slug: the-negro-artist-and-the-racial-mountain
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: georges-poulet-headnote
+    pages: 1361-1364
+    author_name: Georges Poulet
+    author_slug: georges-poulet
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: georges-poulet-phenomenology-reading
+    pages: 1364-1377
+    author_name: Georges Poulet
+    author_slug: georges-poulet
+    work_title: Phenomenology of Reading
+    work_slug: phenomenology-of-reading
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: jean-paul-sartre-headnote
+    pages: 1377-1380
+    author_name: Jean-Paul Sartre
+    author_slug: jean-paul-sartre
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: jean-paul-sartre-what-is-literature
+    pages: 1380-1394
+    author_name: Jean-Paul Sartre
+    author_slug: jean-paul-sartre
+    work_title: "From What Is Literature?"
+    work_slug: from-what-is-literature
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: cleanth-brooks-headnote
+    pages: 1394-1398
+    author_name: Cleanth Brooks
+    author_slug: cleanth-brooks
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: cleanth-brooks-well-wrought-urn
+    pages: 1398-1415
+    author_name: Cleanth Brooks
+    author_slug: cleanth-brooks
+    work_title: From The Well Wrought Urn
+    work_slug: from-the-well-wrought-urn
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: wimsatt-beardsley-headnote
+    pages: 1415-1418
+    author_name: William K. Wimsatt Jr. and Monroe C. Beardsley
+    author_slug: william-k-wimsatt-jr-and-monroe-c-beardsley
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: wimsatt-beardsley-intentional-fallacy
+    pages: 1418-1431
+    author_name: William K. Wimsatt Jr. and Monroe C. Beardsley
+    author_slug: william-k-wimsatt-jr-and-monroe-c-beardsley
+    work_title: The Intentional Fallacy
+    work_slug: the-intentional-fallacy
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: wimsatt-beardsley-affective-fallacy
+    pages: 1431-1447
+    author_name: William K. Wimsatt Jr. and Monroe C. Beardsley
+    author_slug: william-k-wimsatt-jr-and-monroe-c-beardsley
+    work_title: The Affective Fallacy
+    work_slug: the-affective-fallacy
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: simone-de-beauvoir-headnote
+    pages: 1447-1450
+    author_name: Simone de Beauvoir
+    author_slug: simone-de-beauvoir
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: simone-de-beauvoir-second-sex
+    pages: 1450-1459
+    author_name: Simone de Beauvoir
+    author_slug: simone-de-beauvoir
+    work_title: From The Second Sex
+    work_slug: from-the-second-sex
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: claude-levi-strauss-headnote
+    pages: 1459-1463
+    author_name: Claude Levi-Strauss
+    author_slug: claude-levi-strauss
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: claude-levi-strauss-tristes-tropiques
+    pages: 1463-1471
+    author_name: Claude Levi-Strauss
+    author_slug: claude-levi-strauss
+    work_title: From Tristes Tropiques
+    work_slug: from-tristes-tropiques
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: j-l-austin-headnote
+    pages: 1471-1474
+    author_name: J. L. Austin
+    author_slug: j-l-austin
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: j-l-austin-performative-utterances
+    pages: 1474-1486
+    author_name: J. L. Austin
+    author_slug: j-l-austin
+    work_title: Performative Utterances
+    work_slug: performative-utterances
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: northrop-frye-headnote
+    pages: 1486-1489
+    author_name: Northrop Frye
+    author_slug: northrop-frye
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: northrop-frye-archetypes-literature
+    pages: 1489-1501
+    author_name: Northrop Frye
+    author_slug: northrop-frye
+    work_title: The Archetypes of Literature
+    work_slug: the-archetypes-of-literature
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: roland-barthes-headnote
+    pages: 1501-1505
+    author_name: Roland Barthes
+    author_slug: roland-barthes
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: roland-barthes-mythologies
+    pages: 1505-1509
+    author_name: Roland Barthes
+    author_slug: roland-barthes
+    work_title: From Mythologies
+    work_slug: from-mythologies
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: roland-barthes-death-author
+    pages: 1509-1512
+    author_name: Roland Barthes
+    author_slug: roland-barthes
+    work_title: The Death of the Author
+    work_slug: the-death-of-the-author
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: roland-barthes-work-to-text
+    pages: 1512-1519
+    author_name: Roland Barthes
+    author_slug: roland-barthes
+    work_title: From Work to Text
+    work_slug: from-work-to-text
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: louis-althusser-headnote
+    pages: 1519-1524
+    author_name: Louis Althusser
+    author_slug: louis-althusser
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: louis-althusser-letter-on-art
+    pages: 1524-1527
+    author_name: Louis Althusser
+    author_slug: louis-althusser
+    work_title: A Letter on Art in Reply to Andre Daspre
+    work_slug: a-letter-on-art-in-reply-to-andre-daspre
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: louis-althusser-ideology-state-apparatuses
+    pages: 1527-1552
+    author_name: Louis Althusser
+    author_slug: louis-althusser
+    work_title: Ideology and Ideological State Apparatuses
+    work_slug: ideology-and-ideological-state-apparatuses
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: paul-de-man-headnote
+    pages: 1552-1558
+    author_name: Paul de Man
+    author_slug: paul-de-man
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: paul-de-man-semiology-rhetoric
+    pages: 1558-1570
+    author_name: Paul de Man
+    author_slug: paul-de-man
+    work_title: Semiology and Rhetoric
+    work_slug: semiology-and-rhetoric
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: paul-de-man-return-to-philology
+    pages: 1571-1575
+    author_name: Paul de Man
+    author_slug: paul-de-man
+    work_title: The Return to Philology
+    work_slug: the-return-to-philology
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: irving-howe-headnote
+    pages: 1576-1579
+    author_name: Irving Howe
+    author_slug: irving-howe
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: irving-howe-history-novel
+    pages: 1579-1591
+    author_name: Irving Howe
+    author_slug: irving-howe
+    work_title: History and the Novel
+    work_slug: history-and-the-novel
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: hans-robert-jauss-headnote
+    pages: 1591-1594
+    author_name: Hans Robert Jauss
+    author_slug: hans-robert-jauss
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: hans-robert-jauss-literary-history-challenge
+    pages: 1594-1608
+    author_name: Hans Robert Jauss
+    author_slug: hans-robert-jauss
+    work_title: From Literary History as a Challenge to Literary Theory
+    work_slug: from-literary-history-as-a-challenge-to-literary-theory
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: raymond-williams-headnote
+    pages: 1609-1611
+    author_name: Raymond Williams
+    author_slug: raymond-williams
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: raymond-williams-marxism-literature
+    pages: 1611-1619
+    author_name: Raymond Williams
+    author_slug: raymond-williams
+    work_title: From Marxism and Literature
+    work_slug: from-marxism-and-literature
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: frantz-fanon-headnote
+    pages: 1619-1622
+    author_name: Frantz Fanon
+    author_slug: frantz-fanon
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: frantz-fanon-wretched-earth
+    pages: 1622-1637
+    author_name: Frantz Fanon
+    author_slug: frantz-fanon
+    work_title: From The Wretched of the Earth
+    work_slug: from-the-wretched-of-the-earth
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: deleuze-guattari-headnote
+    pages: 1637-1642
+    author_name: Gilles Deleuze and Felix Guattari
+    author_slug: gilles-deleuze-and-felix-guattari
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: deleuze-guattari-kafka-minor-literature
+    pages: 1642-1645
+    author_name: Gilles Deleuze and Felix Guattari
+    author_slug: gilles-deleuze-and-felix-guattari
+    work_title: "From Kafka: Toward a Minor Literature"
+    work_slug: from-kafka-toward-a-minor-literature
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_work_transition_page
+
+  - id: deleuze-guattari-thousand-plateaus
+    pages: 1645-1653
+    author_name: Gilles Deleuze and Felix Guattari
+    author_slug: gilles-deleuze-and-felix-guattari
+    work_title: "From A Thousand Plateaus: Capitalism and Schizophrenia"
+    work_slug: from-a-thousand-plateaus-capitalism-and-schizophrenia
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+      - mixed_author_transition_page
+
+  - id: jean-francois-lyotard-headnote
+    pages: 1653-1656
+    author_name: Jean-Francois Lyotard
+    author_slug: jean-francois-lyotard
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: jean-francois-lyotard-defining-postmodern
+    pages: 1656-1659
+    author_name: Jean-Francois Lyotard
+    author_slug: jean-francois-lyotard
+    work_title: Defining the Postmodern
+    work_slug: defining-the-postmodern
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: michel-foucault-headnote
+    pages: 1659-1666
+    author_name: Michel Foucault
+    author_slug: michel-foucault
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: michel-foucault-what-is-an-author
+    pages: 1666-1675
+    author_name: Michel Foucault
+    author_slug: michel-foucault
+    work_title: What Is an Author?
+    work_slug: what-is-an-author
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_work_transition_page
+
+  - id: michel-foucault-discipline-and-punish
+    pages: 1675-1691
+    author_name: Michel Foucault
+    author_slug: michel-foucault
+    work_title: "From Discipline and Punish: The Birth of the Prison"
+    work_slug: from-discipline-and-punish-the-birth-of-the-prison
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: michel-foucault-history-sexuality
+    pages: 1692-1710
+    author_name: Michel Foucault
+    author_slug: michel-foucault
+    work_title: From The History of Sexuality, Volume 1, An Introduction
+    work_slug: from-the-history-of-sexuality-volume-1-an-introduction
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: michel-foucault-truth-and-power
+    pages: 1711-1714
+    author_name: Michel Foucault
+    author_slug: michel-foucault
+    work_title: From Truth and Power
+    work_slug: from-truth-and-power
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_author_transition_page
+
+  - id: wolfgang-iser-headnote
+    pages: 1714-1717
+    author_name: Wolfgang Iser
+    author_slug: wolfgang-iser
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: wolfgang-iser-interaction-text-reader
+    pages: 1717-1726
+    author_name: Wolfgang Iser
+    author_slug: wolfgang-iser
+    work_title: Interaction between Text and Reader
+    work_slug: interaction-between-text-and-reader
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: e-d-hirsch-jr-headnote
+    pages: 1726-1728
+    author_name: E. D. Hirsch Jr.
+    author_slug: e-d-hirsch-jr
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: e-d-hirsch-jr-objective-interpretation
+    pages: 1728-1753
+    author_name: E. D. Hirsch Jr.
+    author_slug: e-d-hirsch-jr
+    work_title: Objective Interpretation
+    work_slug: objective-interpretation
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: hayden-white-headnote
+    pages: 1753-1756
+    author_name: Hayden White
+    author_slug: hayden-white
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: hayden-white-historical-text-literary-artifact
+    pages: 1756-1773
+    author_name: Hayden White
+    author_slug: hayden-white
+    work_title: The Historical Text as Literary Artifact
+    work_slug: the-historical-text-as-literary-artifact
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: jean-baudrillard-headnote
+    pages: 1773-1776
+    author_name: Jean Baudrillard
+    author_slug: jean-baudrillard
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: jean-baudrillard-precession-simulacra
+    pages: 1776-1785
+    author_name: Jean Baudrillard
+    author_slug: jean-baudrillard
+    work_title: The Precession of Simulacra
+    work_slug: the-precession-of-simulacra
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: jurgen-habermas-headnote
+    pages: 1785-1788
+    author_name: Jurgen Habermas
+    author_slug: jurgen-habermas
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: jurgen-habermas-public-sphere
+    pages: 1788-1793
+    author_name: Jurgen Habermas
+    author_slug: jurgen-habermas
+    work_title: From The Structural Transformation of the Public Sphere
+    work_slug: structural-transformation-public-sphere
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - selection_boundary_review
+
+  - id: jurgen-habermas-modernity-incomplete-project
+    pages: 1793-1803
+    author_name: Jurgen Habermas
+    author_slug: jurgen-habermas
+    work_title: Modernity - An Incomplete Project
+    work_slug: modernity-an-incomplete-project
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - selection_boundary_review
+      - mixed_author_transition_page
+
+  - id: adrienne-rich-headnote
+    pages: 1803-1806
+    author_name: Adrienne Rich
+    author_slug: adrienne-rich
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - continues_beyond_current_batch
+
+  - id: adrienne-rich-compulsory-heterosexuality
+    pages: 1806-1824
+    author_name: Adrienne Rich
+    author_slug: adrienne-rich
+    work_title: Compulsory Heterosexuality and Lesbian Existence
+    work_slug: compulsory-heterosexuality-and-lesbian-existence
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - selection_boundary_review
+
+  - id: chinua-achebe-headnote
+    pages: 1825-1827
+    author_name: Chinua Achebe
+    author_slug: chinua-achebe
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: chinua-achebe-image-of-africa
+    pages: 1827-1838
+    author_name: Chinua Achebe
+    author_slug: chinua-achebe
+    work_title: "An Image of Africa: Racism in Conrad's Heart of Darkness"
+    work_slug: an-image-of-africa-racism-in-conrads-heart-of-darkness
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: harold-bloom-headnote
+    pages: 1838-1841
+    author_name: Harold Bloom
+    author_slug: harold-bloom
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: harold-bloom-anxiety-of-influence
+    pages: 1841-1849
+    author_name: Harold Bloom
+    author_slug: harold-bloom
+    work_title: From The Anxiety of Influence
+    work_slug: the-anxiety-of-influence
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: pierre-bourdieu-headnote
+    pages: 1850-1853
+    author_name: Pierre Bourdieu
+    author_slug: pierre-bourdieu
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: pierre-bourdieu-distinction
+    pages: 1853-1858
+    author_name: Pierre Bourdieu
+    author_slug: pierre-bourdieu
+    work_title: From Distinction
+    work_slug: distinction
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: jacques-derrida-headnote
+    pages: 1859-1865
+    author_name: Jacques Derrida
+    author_slug: jacques-derrida
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: jacques-derrida-of-grammatology
+    pages: 1866-1874
+    author_name: Jacques Derrida
+    author_slug: jacques-derrida
+    work_title: From Of Grammatology
+    work_slug: of-grammatology
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_work_transition_page
+
+  - id: jacques-derrida-platos-pharmacy
+    pages: 1874-1920
+    author_name: Jacques Derrida
+    author_slug: jacques-derrida
+    work_title: From Dissemination / Plato's Pharmacy
+    work_slug: dissemination-platos-pharmacy
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: richard-ohmann-headnote
+    pages: 1921-1923
+    author_name: Richard Ohmann
+    author_slug: richard-ohmann
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: richard-ohmann-shaping-of-a-canon
+    pages: 1924-1938
+    author_name: Richard Ohmann
+    author_slug: richard-ohmann
+    work_title: "From The Shaping of a Canon: U.S. Fiction, 1960-1975"
+    work_slug: shaping-of-a-canon
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - bibliography_on_previous_page
+
+  - id: stuart-hall-headnote
+    pages: 1939-1942
+    author_name: Stuart Hall
+    author_slug: stuart-hall
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: stuart-hall-cultural-studies-theoretical-legacies
+    pages: 1942-1954
+    author_name: Stuart Hall
+    author_slug: stuart-hall
+    work_title: Cultural Studies and Its Theoretical Legacies
+    work_slug: cultural-studies-theoretical-legacies
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: barbara-herrnstein-smith-headnote
+    pages: 1954-1957
+    author_name: Barbara Herrnstein Smith
+    author_slug: barbara-herrnstein-smith
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: barbara-herrnstein-smith-contingencies-of-value
+    pages: 1957-1976
+    author_name: Barbara Herrnstein Smith
+    author_slug: barbara-herrnstein-smith
+    work_title: From Contingencies of Value
+    work_slug: contingencies-of-value
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: fredric-jameson-headnote
+    pages: 1976-1981
+    author_name: Fredric Jameson
+    author_slug: fredric-jameson
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: fredric-jameson-political-unconscious
+    pages: 1981-2004
+    author_name: Fredric Jameson
+    author_slug: fredric-jameson
+    work_title: "From The Political Unconscious: Narrative as a Socially Symbolic Act"
+    work_slug: political-unconscious
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_work_transition_page
+
+  - id: fredric-jameson-postmodernism-consumer-society
+    pages: 2004-2018
+    author_name: Fredric Jameson
+    author_slug: fredric-jameson
+    work_title: Postmodernism and Consumer Society
+    work_slug: postmodernism-consumer-society
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: gerald-vizenor-headnote
+    pages: 2019-2021
+    author_name: Gerald Vizenor
+    author_slug: gerald-vizenor
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: gerald-vizenor-postindian-warriors
+    pages: 2021-2030
+    author_name: Gerald Vizenor
+    author_slug: gerald-vizenor
+    work_title: "From Manifest Manners: Postindian Warriors of Survivance / Postindian Warriors"
+    work_slug: postindian-warriors
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: edward-w-said-headnote
+    pages: 2030-2035
+    author_name: Edward W. Said
+    author_slug: edward-w-said
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: edward-w-said-orientalism
+    pages: 2035-2056
+    author_name: Edward W. Said
+    author_slug: edward-w-said
+    work_title: From Orientalism
+    work_slug: orientalism
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: monique-wittig-headnote
+    pages: 2056-2058
+    author_name: Monique Wittig
+    author_slug: monique-wittig
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: monique-wittig-one-is-not-born-a-woman
+    pages: 2058-2064
+    author_name: Monique Wittig
+    author_slug: monique-wittig
+    work_title: One Is Not Born a Woman
+    work_slug: one-is-not-born-a-woman
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: sandra-m-gilbert-and-susan-gubar-headnote
+    pages: 2064-2067
+    author_name: Sandra M. Gilbert and Susan Gubar
+    author_slug: sandra-m-gilbert-and-susan-gubar
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: sandra-m-gilbert-and-susan-gubar-madwoman-in-the-attic
+    pages: 2067-2079
+    author_name: Sandra M. Gilbert and Susan Gubar
+    author_slug: sandra-m-gilbert-and-susan-gubar
+    work_title: "From The Madwoman in the Attic: The Woman Writer and the Nineteenth-Century Literary Imagination"
+    work_slug: madwoman-in-the-attic
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: helene-cixous-headnote
+    pages: 2079-2083
+    author_name: Helene Cixous
+    author_slug: helene-cixous
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: helene-cixous-laugh-of-the-medusa
+    pages: 2083-2100
+    author_name: Helene Cixous
+    author_slug: helene-cixous
+    work_title: The Laugh of the Medusa
+    work_slug: laugh-of-the-medusa
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: gerald-graff-headnote
+    pages: 2100-2103
+    author_name: Gerald Graff
+    author_slug: gerald-graff
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: gerald-graff-taking-cover-in-coverage
+    pages: 2103-2111
+    author_name: Gerald Graff
+    author_slug: gerald-graff
+    work_title: Taking Cover in Coverage
+    work_slug: taking-cover-in-coverage
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: stanley-e-fish-headnote
+    pages: 2111-2115
+    author_name: Stanley E. Fish
+    author_slug: stanley-e-fish
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: stanley-e-fish-interpreting-the-variorum
+    pages: 2115-2133
+    author_name: Stanley E. Fish
+    author_slug: stanley-e-fish
+    work_title: Interpreting the Variorum
+    work_slug: interpreting-the-variorum
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: ngugi-liyong-owuor-anyumba-headnote
+    pages: 2133-2136
+    author_name: Ngugi wa Thiong'o, Taban Lo Liyong, and Henry Owuor-Anyumba
+    author_slug: ngugi-liyong-and-owuor-anyumba
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: ngugi-liyong-owuor-anyumba-abolition-english-department
+    pages: 2136-2141
+    author_name: Ngugi wa Thiong'o, Taban Lo Liyong, and Henry Owuor-Anyumba
+    author_slug: ngugi-liyong-and-owuor-anyumba
+    work_title: On the Abolition of the English Department
+    work_slug: abolition-english-department
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: tzvetan-todorov-headnote
+    pages: 2141-2143
+    author_name: Tzvetan Todorov
+    author_slug: tzvetan-todorov
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: tzvetan-todorov-structural-analysis-narrative
+    pages: 2143-2163
+    author_name: Tzvetan Todorov
+    author_slug: tzvetan-todorov
+    work_title: Structural Analysis of Narrative
+    work_slug: structural-analysis-narrative
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: paula-gunn-allen-headnote
+    pages: 2163-2165
+    author_name: Paula Gunn Allen
+    author_slug: paula-gunn-allen
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: paula-gunn-allen-kochinnenako-in-academe
+    pages: 2165-2170
+    author_name: Paula Gunn Allen
+    author_slug: paula-gunn-allen
+    work_title: Kochinnenako in Academe
+    work_slug: kochinnenako-in-academe
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: jane-tompkins-headnote
+    pages: 2170-2173
+    author_name: Jane Tompkins
+    author_slug: jane-tompkins
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: jane-tompkins-me-and-my-shadow
+    pages: 2173-2187
+    author_name: Jane Tompkins
+    author_slug: jane-tompkins
+    work_title: Me and My Shadow
+    work_slug: me-and-my-shadow
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: annette-kolodny-headnote
+    pages: 2187-2190
+    author_name: Annette Kolodny
+    author_slug: annette-kolodny
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: annette-kolodny-dancing-through-the-minefield
+    pages: 2190-2209
+    author_name: Annette Kolodny
+    author_slug: annette-kolodny
+    work_title: Dancing through the Minefield
+    work_slug: dancing-through-the-minefield
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: julia-kristeva-headnote
+    pages: 2209-2213
+    author_name: Julia Kristeva
+    author_slug: julia-kristeva
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: julia-kristeva-revolution-in-poetic-language
+    pages: 2213-2223
+    author_name: Julia Kristeva
+    author_slug: julia-kristeva
+    work_title: Revolution in Poetic Language
+    work_slug: revolution-in-poetic-language
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: laura-mulvey-headnote
+    pages: 2223-2225
+    author_name: Laura Mulvey
+    author_slug: laura-mulvey
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: laura-mulvey-visual-pleasure-narrative-cinema
+    pages: 2225-2236
+    author_name: Laura Mulvey
+    author_slug: laura-mulvey
+    work_title: Visual Pleasure and Narrative Cinema
+    work_slug: visual-pleasure-narrative-cinema
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: gayatri-chakravorty-spivak-headnote
+    pages: 2237-2241
+    author_name: Gayatri Chakravorty Spivak
+    author_slug: gayatri-chakravorty-spivak
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: gayatri-chakravorty-spivak-critique-postcolonial-reason
+    pages: 2241-2252
+    author_name: Gayatri Chakravorty Spivak
+    author_slug: gayatri-chakravorty-spivak
+    work_title: A Critique of Postcolonial Reason
+    work_slug: critique-postcolonial-reason
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: gloria-anzaldua-headnote
+    pages: 2252-2255
+    author_name: Gloria Anzaldua
+    author_slug: gloria-anzaldua
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: gloria-anzaldua-borderlands-la-frontera
+    pages: 2255-2267
+    author_name: Gloria Anzaldua
+    author_slug: gloria-anzaldua
+    work_title: "Borderlands/La Frontera: The New Mestiza"
+    work_slug: borderlands-la-frontera
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: houston-a-baker-jr-headnote
+    pages: 2267-2271
+    author_name: Houston A. Baker Jr.
+    author_slug: houston-a-baker-jr
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: houston-a-baker-jr-blues-ideology-afro-american-literature
+    pages: 2271-2284
+    author_name: Houston A. Baker Jr.
+    author_slug: houston-a-baker-jr
+    work_title: Blues, Ideology, and Afro-American Literature
+    work_slug: blues-ideology-afro-american-literature
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: terry-eagleton-headnote
+    pages: 2284-2287
+    author_name: Terry Eagleton
+    author_slug: terry-eagleton
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: terry-eagleton-literary-theory-introduction
+    pages: 2287-2293
+    author_name: Terry Eagleton
+    author_slug: terry-eagleton
+    work_title: "Literary Theory: An Introduction"
+    work_slug: literary-theory-introduction
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: stephen-greenblatt-headnote
+    pages: 2294-2295
+    author_name: Stephen Greenblatt
+    author_slug: stephen-greenblatt
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: stephen-greenblatt-introduction-power-of-forms
+    pages: 2295-2298
+    author_name: Stephen Greenblatt
+    author_slug: stephen-greenblatt
+    work_title: Introduction to The Power of Forms in the English Renaissance
+    work_slug: introduction-power-of-forms
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: barbara-christian-headnote
+    pages: 2299-2300
+    author_name: Barbara Christian
+    author_slug: barbara-christian
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: barbara-christian-race-for-theory
+    pages: 2301-2310
+    author_name: Barbara Christian
+    author_slug: barbara-christian
+    work_title: The Race for Theory
+    work_slug: race-for-theory
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_author_transition_page
+
+  - id: donna-haraway-headnote
+    pages: 2310-2313
+    author_name: Donna Haraway
+    author_slug: donna-haraway
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: donna-haraway-manifesto-for-cyborgs
+    pages: 2313-2343
+    author_name: Donna Haraway
+    author_slug: donna-haraway
+    work_title: A Manifesto for Cyborgs
+    work_slug: manifesto-for-cyborgs
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: barbara-smith-headnote
+    pages: 2343-2346
+    author_name: Barbara Smith
+    author_slug: barbara-smith
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: barbara-smith-toward-black-feminist-criticism
+    pages: 2346-2359
+    author_name: Barbara Smith
+    author_slug: barbara-smith
+    work_title: Toward a Black Feminist Criticism
+    work_slug: toward-black-feminist-criticism
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: barbara-johnson-headnote
+    pages: 2360-2363
+    author_name: Barbara Johnson
+    author_slug: barbara-johnson
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: barbara-johnson-melvilles-fist-execution-billy-budd
+    pages: 2363-2381
+    author_name: Barbara Johnson
+    author_slug: barbara-johnson
+    work_title: "Melville's Fist: The Execution of Billy Budd"
+    work_slug: melvilles-fist-execution-billy-budd
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: bonnie-zimmerman-headnote
+    pages: 2382-2384
+    author_name: Bonnie Zimmerman
+    author_slug: bonnie-zimmerman
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: bonnie-zimmerman-what-has-never-been
+    pages: 2384-2403
+    author_name: Bonnie Zimmerman
+    author_slug: bonnie-zimmerman
+    work_title: "What Has Never Been: An Overview of Lesbian Feminist Literary Criticism"
+    work_slug: what-has-never-been
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: susan-bordo-headnote
+    pages: 2404-2406
+    author_name: Susan Bordo
+    author_slug: susan-bordo
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: susan-bordo-unbearable-weight
+    pages: 2406-2420
+    author_name: Susan Bordo
+    author_slug: susan-bordo
+    work_title: "Unbearable Weight: Feminism, Western Culture, and the Body"
+    work_slug: unbearable-weight
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: homi-k-bhabha-headnote
+    pages: 2421-2423
+    author_name: Homi K. Bhabha
+    author_slug: homi-k-bhabha
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: homi-k-bhabha-commitment-to-theory
+    pages: 2423-2441
+    author_name: Homi K. Bhabha
+    author_slug: homi-k-bhabha
+    work_title: The Commitment to Theory
+    work_slug: commitment-to-theory
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: lennard-j-davis-headnote
+    pages: 2442-2444
+    author_name: Lennard J. Davis
+    author_slug: lennard-j-davis
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: lennard-j-davis-enforcing-normalcy
+    pages: 2444-2465
+    author_name: Lennard J. Davis
+    author_slug: lennard-j-davis
+    work_title: "Enforcing Normalcy: Disability, Deafness, and the Body"
+    work_slug: enforcing-normalcy
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: henry-louis-gates-jr-headnote
+    pages: 2465-2468
+    author_name: Henry Louis Gates Jr.
+    author_slug: henry-louis-gates-jr
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: henry-louis-gates-jr-talking-black
+    pages: 2468-2476
+    author_name: Henry Louis Gates Jr.
+    author_slug: henry-louis-gates-jr
+    work_title: "Talking Black: Critical Signs of the Times"
+    work_slug: talking-black
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: eve-kosofsky-sedgwick-headnote
+    pages: 2476-2478
+    author_name: Eve Kosofsky Sedgwick
+    author_slug: eve-kosofsky-sedgwick
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: eve-kosofsky-sedgwick-between-men-epistemology-closet
+    pages: 2478-2489
+    author_name: Eve Kosofsky Sedgwick
+    author_slug: eve-kosofsky-sedgwick
+    work_title: "Between Men and Epistemology of the Closet"
+    work_slug: between-men-epistemology-closet
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: dick-hebdige-headnote
+    pages: 2489-2492
+    author_name: Dick Hebdige
+    author_slug: dick-hebdige
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: dick-hebdige-subculture-meaning-style
+    pages: 2492-2501
+    author_name: Dick Hebdige
+    author_slug: dick-hebdige
+    work_title: "Subculture: The Meaning of Style"
+    work_slug: subculture-meaning-style
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: steven-knapp-walter-benn-michaels-headnote
+    pages: 2502-2504
+    author_name: Steven Knapp and Walter Benn Michaels
+    author_slug: steven-knapp-and-walter-benn-michaels
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: steven-knapp-walter-benn-michaels-against-theory
+    pages: 2504-2519
+    author_name: Steven Knapp and Walter Benn Michaels
+    author_slug: steven-knapp-and-walter-benn-michaels
+    work_title: Against Theory
+    work_slug: against-theory
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: bell-hooks-headnote
+    pages: 2519-2522
+    author_name: bell hooks
+    author_slug: bell-hooks
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: bell-hooks-postmodern-blackness
+    pages: 2522-2528
+    author_name: bell hooks
+    author_slug: bell-hooks
+    work_title: Postmodern Blackness
+    work_slug: postmodern-blackness
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: judith-butler-headnote
+    pages: 2529-2532
+    author_name: Judith Butler
+    author_slug: judith-butler
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: judith-butler-gender-trouble
+    pages: 2532-2545
+    author_name: Judith Butler
+    author_slug: judith-butler
+    work_title: Gender Trouble
+    work_slug: gender-trouble
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: stuart-moulthrop-headnote
+    pages: 2546-2548
+    author_name: Stuart Moulthrop
+    author_slug: stuart-moulthrop
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: stuart-moulthrop-hypertext-laws-media
+    pages: 2548-2568
+    author_name: Stuart Moulthrop
+    author_slug: stuart-moulthrop
+    work_title: "You Say You Want a Revolution? Hypertext and the Laws of Media"
+    work_slug: hypertext-laws-media
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: selected-bibliography-and-index
+    pages: 2569-2608
+    page_kind: index_appendix
+    starts_new_author: false
+    continues_previous_author: false
+    include_in_author_assembly: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - selected_bibliography
+      - author_title_index
+      - back_matter
+
+  - id: subject-index
+    pages: 2609-2668
+    page_kind: index_appendix
+    starts_new_author: false
+    continues_previous_author: false
+    include_in_author_assembly: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - subject_index
+      - back_matter

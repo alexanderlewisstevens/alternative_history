@@ -1,0 +1,2762 @@
+# Structured source metadata for curated source selection.
+# Keep this in sync with docs/catalog/sources.md as the project grows.
+
+collection_policy:
+  scope: curated-theory-and-criticism-reader
+  out_of_scope:
+    - broad-scraping
+    - topic-crawling
+    - unsupervised-harvesting
+    - repository-dumps
+  selection_rule: "A source needs an editorial reason before extraction or public promotion."
+
+curated_texts:
+  - id: norton-theory-criticism
+    title: The Norton Anthology of Theory and Criticism
+    creator: Vincent B. Leitch et al.
+    role: restricted-extraction-testbed
+    themes:
+      - theory
+      - criticism
+      - anthology
+      - extraction-workflow
+    status: restricted
+    rights_note: "Do not publish copied text unless specific material is separately rights-cleared."
+  - id: gorgias-encomium-helen
+    title: Encomium of Helen
+    creator: Gorgias
+    role: core-text-candidate
+    themes:
+      - rhetoric
+      - persuasion
+      - speech
+    status: edition-review-needed
+  - id: plato-selected-dialogues
+    title: Selected dialogues
+    creator: Plato
+    role: core-text-candidate
+    themes:
+      - mimesis
+      - writing
+      - memory
+      - pedagogy
+    status: edition-review-needed
+  - id: aristotle-poetics-rhetoric
+    title: Poetics and Rhetoric
+    creator: Aristotle
+    role: core-text-candidate
+    themes:
+      - poetics
+      - rhetoric
+      - genre
+      - audience
+    status: edition-review-needed
+  - id: horace-ars-poetica
+    title: Ars Poetica
+    creator: Horace
+    role: core-text-candidate
+    themes:
+      - literary-judgment
+      - craft
+      - decorum
+    status: edition-review-needed
+  - id: longinus-on-sublimity
+    title: On Sublimity
+    creator: Longinus
+    role: core-text-candidate
+    themes:
+      - sublimity
+      - aesthetics
+      - authority
+    status: edition-review-needed
+  - id: quintilian-institutio-oratoria
+    title: Institutio Oratoria
+    creator: Quintilian
+    role: core-text-candidate
+    themes:
+      - rhetoric
+      - education
+      - civic-formation
+    status: edition-review-needed
+  - id: plotinus-enneads
+    title: Selected Enneads
+    creator: Plotinus
+    role: core-text-candidate
+    themes:
+      - beauty
+      - form
+      - metaphysics
+    status: edition-review-needed
+  - id: augustine-on-christian-doctrine-trinity
+    title: On Christian Doctrine and The Trinity
+    creator: Augustine of Hippo
+    role: core-text-candidate
+    themes:
+      - interpretation
+      - signs
+      - theology
+      - authority
+    status: edition-review-needed
+  - id: macrobius-dream-scipio
+    title: Commentary on the Dream of Scipio
+    creator: Macrobius
+    role: core-text-candidate
+    themes:
+      - commentary
+      - transmission
+      - allegory
+    status: edition-review-needed
+  - id: hugh-didascalicon
+    title: The Didascalicon
+    creator: Hugh of St. Victor
+    role: core-text-candidate
+    themes:
+      - reading
+      - pedagogy
+      - classification
+    status: edition-review-needed
+  - id: maimonides-guide-perplexed
+    title: The Guide of the Perplexed
+    creator: Moses Maimonides
+    role: core-text-candidate
+    themes:
+      - allegory
+      - reason
+      - revelation
+      - interpretation
+    status: edition-review-needed
+  - id: geoffrey-poetria-nova
+    title: Poetria Nova
+    creator: Geoffrey of Vinsauf
+    role: core-text-candidate
+    themes:
+      - poetics
+      - rhetoric
+      - craft
+      - pedagogy
+    status: edition-review-needed
+  - id: thomas-aquinas-summa-theologica
+    title: Summa Theologica
+    creator: Thomas Aquinas
+    role: core-text-candidate
+    themes:
+      - interpretation
+      - theology
+      - allegory
+      - education
+    status: edition-review-needed
+  - id: dante-il-convivio-letter-can-grande
+    title: Il Convivio and The Letter to Can Grande
+    creator: Dante Alighieri
+    role: core-text-candidate
+    themes:
+      - interpretation
+      - allegory
+      - vernacular
+      - commentary
+    status: edition-review-needed
+  - id: boccaccio-genealogy-gentile-gods
+    title: Genealogy of the Gentile Gods
+    creator: Giovanni Boccaccio
+    role: core-text-candidate
+    themes:
+      - poetics
+      - mythology
+      - defense-of-poetry
+      - humanism
+    status: edition-review-needed
+  - id: christine-de-pizan-city-of-ladies
+    title: The Book of the City of Ladies
+    creator: Christine de Pizan
+    role: core-text-candidate
+    themes:
+      - education
+      - gender
+      - authority
+      - civic-imagination
+    status: edition-review-needed
+  - id: giambattista-giraldi-composition-romances
+    title: Discourse on the Composition of Romances
+    creator: Giambattista Giraldi
+    role: core-text-candidate
+    themes:
+      - genre
+      - romance
+      - poetics
+      - vernacular
+    status: edition-review-needed
+  - id: joachim-du-bellay-defense-french-language
+    title: The Defence and Illustration of the French Language
+    creator: Joachim du Bellay
+    role: core-text-candidate
+    themes:
+      - vernacular
+      - language
+      - nation
+      - imitation
+    status: edition-review-needed
+  - id: pierre-de-ronsard-art-french-poetry
+    title: A Brief on the Art of French Poetry
+    creator: Pierre de Ronsard
+    role: core-text-candidate
+    themes:
+      - poetics
+      - craft
+      - vernacular
+      - education
+    status: edition-review-needed
+  - id: giacopo-mazzoni-defense-comedy-dante
+    title: On the Defense of the Comedy of Dante
+    creator: Giacopo Mazzoni
+    role: core-text-candidate
+    themes:
+      - mimesis
+      - poetics
+      - genre
+      - civic-formation
+    status: edition-review-needed
+  - id: sidney-defense-of-poesy
+    title: The Defense of Poesy
+    creator: Sir Philip Sidney
+    role: core-text-candidate
+    themes:
+      - poetry
+      - rhetoric
+      - education
+      - civic-formation
+    status: edition-review-needed
+  - id: corneille-three-unities
+    title: Of the Three Unities of Action, Time, and Place
+    creator: Pierre Corneille
+    role: core-text-candidate
+    themes:
+      - drama
+      - rules
+      - audience
+      - institutional-judgment
+    status: edition-review-needed
+  - id: dryden-selected-critical-prose
+    title: Selected Critical Prose
+    creator: John Dryden
+    role: core-text-candidate
+    themes:
+      - drama
+      - translation
+      - judgment
+      - modernity
+    status: edition-review-needed
+  - id: aphra-behn-dutch-lover-lucky-chance
+    title: The Dutch Lover and Preface to The Lucky Chance
+    creator: Aphra Behn
+    role: core-text-candidate
+    themes:
+      - authorship
+      - gender
+      - theater
+      - public-judgment
+    status: edition-review-needed
+  - id: vico-new-science
+    title: The New Science
+    creator: Giambattista Vico
+    role: core-text-candidate
+    themes:
+      - history
+      - language
+      - institutions
+      - civic-knowledge
+    status: edition-review-needed
+  - id: addison-spectator-essays
+    title: The Spectator, Nos. 62 and 412
+    creator: Joseph Addison
+    role: core-text-candidate
+    themes:
+      - wit
+      - imagination
+      - taste
+      - public-sphere
+    status: edition-review-needed
+  - id: young-conjectures-original-composition
+    title: Conjectures on Original Composition
+    creator: Edward Young
+    role: core-text-candidate
+    themes:
+      - originality
+      - imitation
+      - authorship
+      - genius
+    status: edition-review-needed
+  - id: pope-essay-on-criticism
+    title: An Essay on Criticism
+    creator: Alexander Pope
+    role: core-text-candidate
+    themes:
+      - criticism
+      - judgment
+      - wit
+      - neoclassicism
+    status: edition-review-needed
+  - id: johnson-selected-critical-prose
+    title: Selected Critical Prose
+    creator: Samuel Johnson
+    role: core-text-candidate
+    themes:
+      - fiction
+      - shakespeare
+      - criticism
+      - public-judgment
+    status: edition-review-needed
+  - id: hume-standard-of-taste
+    title: Of the Standard of Taste
+    creator: David Hume
+    role: core-text-candidate
+    themes:
+      - taste
+      - judgment
+      - empiricism
+      - consensus
+    status: edition-review-needed
+  - id: kant-critique-of-judgment
+    title: Critique of Judgment
+    creator: Immanuel Kant
+    role: core-text-candidate
+    themes:
+      - aesthetics
+      - judgment
+      - disinterestedness
+      - sublime
+    status: edition-review-needed
+  - id: burke-sublime-and-beautiful
+    title: A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful
+    creator: Edmund Burke
+    role: core-text-candidate
+    themes:
+      - sublime
+      - beauty
+      - affect
+      - terror
+    status: edition-review-needed
+  - id: lessing-laocoon
+    title: Laocoon
+    creator: Gotthold Ephraim Lessing
+    role: core-text-candidate
+    themes:
+      - media
+      - poetry
+      - painting
+      - representation
+    status: edition-review-needed
+  - id: schiller-aesthetic-education
+    title: On the Aesthetic Education of Man
+    creator: Friedrich Schiller
+    role: core-text-candidate
+    themes:
+      - aesthetic-education
+      - freedom
+      - play
+      - citizenship
+    status: edition-review-needed
+  - id: wollstonecraft-rights-woman
+    title: A Vindication of the Rights of Woman
+    creator: Mary Wollstonecraft
+    role: core-text-candidate
+    themes:
+      - education
+      - gender
+      - citizenship
+      - reason
+    status: edition-review-needed
+  - id: stael-fictions-literature-social-institutions
+    title: Essay on Fictions and On Literature Considered in Its Relationship to Social Institutions
+    creator: Germaine de Stael
+    role: core-text-candidate
+    themes:
+      - literature
+      - society
+      - institutions
+      - nation
+    status: edition-review-needed
+  - id: schleiermacher-hermeneutics
+    title: Hermeneutics
+    creator: Friedrich Schleiermacher
+    role: core-text-candidate
+    themes:
+      - hermeneutics
+      - interpretation
+      - language
+      - understanding
+    status: edition-review-needed
+  - id: hegel-phenomenology-fine-art
+    title: Phenomenology of Spirit and Lectures on Fine Art
+    creator: Georg Wilhelm Friedrich Hegel
+    role: core-text-candidate
+    themes:
+      - spirit
+      - aesthetics
+      - history
+      - recognition
+    status: edition-review-needed
+  - id: wordsworth-lyrical-ballads-preface
+    title: Preface to Lyrical Ballads
+    creator: William Wordsworth
+    role: core-text-candidate
+    themes:
+      - poetry
+      - common-life
+      - language
+      - imagination
+    status: edition-review-needed
+  - id: coleridge-statesmans-manual-biographia-literaria
+    title: The Statesman's Manual and Biographia Literaria
+    creator: Samuel Taylor Coleridge
+    role: core-text-candidate
+    themes:
+      - imagination
+      - symbol
+      - poetry
+      - philosophy
+    status: edition-review-needed
+  - id: peacock-four-ages-poetry
+    title: The Four Ages of Poetry
+    creator: Thomas Love Peacock
+    role: core-text-candidate
+    themes:
+      - poetry
+      - modernity
+      - satire
+      - utility
+    status: edition-review-needed
+  - id: shelley-defence-poetry
+    title: A Defence of Poetry
+    creator: Percy Bysshe Shelley
+    role: core-text-candidate
+    themes:
+      - poetry
+      - imagination
+      - social-change
+      - freedom
+    status: edition-review-needed
+  - id: emerson-american-scholar-poet
+    title: The American Scholar and The Poet
+    creator: Ralph Waldo Emerson
+    role: core-text-candidate
+    themes:
+      - scholarship
+      - self-reliance
+      - poetry
+      - nature
+    status: edition-review-needed
+  - id: poe-philosophy-composition
+    title: The Philosophy of Composition
+    creator: Edgar Allan Poe
+    role: core-text-candidate
+    themes:
+      - composition
+      - craft
+      - effect
+      - method
+    status: edition-review-needed
+  - id: gautier-preface-mademoiselle-de-maupin
+    title: Preface to Mademoiselle de Maupin
+    creator: Theophile Gautier
+    role: core-text-candidate
+    themes:
+      - aestheticism
+      - art-for-art
+      - utility
+      - modernity
+    status: edition-review-needed
+  - id: marx-engels-selected-cultural-writings
+    title: Selected Cultural and Historical Writings
+    creator: Karl Marx and Friedrich Engels
+    role: core-text-candidate
+    themes:
+      - ideology
+      - labor
+      - capitalism
+      - culture
+    status: edition-review-needed
+  - id: baudelaire-painter-modern-life
+    title: The Painter of Modern Life
+    creator: Charles Baudelaire
+    role: core-text-candidate
+    themes:
+      - modernity
+      - art
+      - fashion
+      - urban-life
+    status: edition-review-needed
+  - id: arnold-selected-critical-prose
+    title: Selected Critical Prose
+    creator: Matthew Arnold
+    role: core-text-candidate
+    themes:
+      - criticism
+      - culture
+      - education
+      - public-life
+    status: edition-review-needed
+  - id: pater-renaissance
+    title: Studies in the History of the Renaissance
+    creator: Walter Pater
+    role: core-text-candidate
+    themes:
+      - aestheticism
+      - perception
+      - criticism
+      - experience
+    status: edition-review-needed
+  - id: mallarme-crisis-poetry
+    title: Crisis in Poetry
+    creator: Stephane Mallarme
+    role: core-text-candidate
+    themes:
+      - poetry
+      - language
+      - modernity
+      - form
+    status: edition-review-needed
+  - id: henry-james-art-fiction
+    title: The Art of Fiction
+    creator: Henry James
+    role: core-text-candidate
+    themes:
+      - fiction
+      - realism
+      - craft
+      - representation
+    status: edition-review-needed
+  - id: nietzsche-truth-and-lying
+    title: On Truth and Lying in a Non-Moral Sense
+    creator: Friedrich Nietzsche
+    extraction_work_titles:
+      - On Truth and Lying in a Non-Moral Sense
+    role: core-text-candidate
+    themes:
+      - truth
+      - metaphor
+      - language
+      - critique
+    status: edition-review-needed
+  - id: nietzsche-birth-of-tragedy
+    title: The Birth of Tragedy
+    creator: Friedrich Nietzsche
+    extraction_work_titles:
+      - The Birth of Tragedy
+    role: core-text-candidate
+    themes:
+      - tragedy
+      - aesthetics
+      - myth
+      - art
+    status: edition-review-needed
+  - id: wilde-selected-critical-prose
+    title: Preface to The Picture of Dorian Gray and The Critic as Artist
+    creator: Oscar Wilde
+    extraction_work_titles:
+      - Preface to The Picture of Dorian Gray
+      - The Critic as Artist
+    role: core-text-candidate
+    themes:
+      - criticism
+      - aestheticism
+      - art-for-art
+      - style
+    status: edition-review-needed
+  - id: freud-dreams-uncanny-fetishism
+    title: The Interpretation of Dreams, The Uncanny, and Fetishism
+    creator: Sigmund Freud
+    extraction_work_titles:
+      - The Interpretation of Dreams
+      - The Uncanny
+      - Fetishism
+    role: core-text-candidate
+    themes:
+      - psychoanalysis
+      - dreams
+      - uncanny
+      - desire
+    status: edition-review-needed
+  - id: saussure-course-general-linguistics
+    title: Course in General Linguistics
+    creator: Ferdinand de Saussure
+    extraction_work_titles:
+      - Course in General Linguistics
+    role: core-text-candidate
+    themes:
+      - language
+      - signs
+      - structure
+      - semiology
+    status: edition-review-needed
+  - id: du-bois-criteria-of-negro-art
+    title: Criteria of Negro Art
+    creator: W. E. B. Du Bois
+    extraction_author_slugs:
+      - web-du-bois
+    extraction_work_titles:
+      - Criteria of Negro Art
+    role: core-text-candidate
+    themes:
+      - race
+      - art
+      - propaganda
+      - public-culture
+    status: edition-review-needed
+  - id: jung-analytical-psychology-poetry
+    title: On the Relation of Analytical Psychology to Poetry
+    creator: Carl Gustav Jung
+    extraction_work_titles:
+      - On the Relation of Analytical Psychology to Poetry
+    role: core-text-candidate
+    themes:
+      - psychology
+      - archetype
+      - myth
+      - poetry
+    status: edition-review-needed
+  - id: trotsky-literature-and-revolution
+    title: Literature and Revolution
+    creator: Leon Trotsky
+    extraction_work_titles:
+      - Literature and Revolution
+    role: core-text-candidate
+    themes:
+      - marxism
+      - revolution
+      - form
+      - literary-politics
+    status: edition-review-needed
+  - id: woolf-room-of-ones-own
+    title: A Room of One's Own
+    creator: Virginia Woolf
+    extraction_work_titles:
+      - A Room of One's Own
+    role: core-text-candidate
+    themes:
+      - feminism
+      - authorship
+      - education
+      - material-conditions
+    status: edition-review-needed
+  - id: lukacs-realism-in-the-balance
+    title: Realism in the Balance
+    creator: Gyorgy Lukacs
+    extraction_work_titles:
+      - Realism in the Balance
+    role: core-text-candidate
+    themes:
+      - realism
+      - marxism
+      - modernism
+      - totality
+    status: edition-review-needed
+  - id: eichenbaum-theory-formal-method
+    title: The Theory of the Formal Method
+    creator: Boris Eichenbaum
+    extraction_work_titles:
+      - The Theory of the Formal Method
+    role: core-text-candidate
+    themes:
+      - formalism
+      - literary-theory
+      - method
+      - technique
+    status: edition-review-needed
+  - id: eliot-tradition-individual-talent
+    title: Tradition and the Individual Talent
+    creator: T. S. Eliot
+    extraction_work_titles:
+      - Tradition and the Individual Talent
+    role: core-text-candidate
+    themes:
+      - tradition
+      - canon
+      - modernism
+      - impersonality
+    status: edition-review-needed
+  - id: eliot-metaphysical-poets
+    title: The Metaphysical Poets
+    creator: T. S. Eliot
+    extraction_work_titles:
+      - The Metaphysical Poets
+    role: core-text-candidate
+    themes:
+      - modernism
+      - poetry
+      - sensibility
+      - tradition
+    status: edition-review-needed
+  - id: ransom-criticism-inc
+    title: Criticism, Inc.
+    creator: John Crowe Ransom
+    extraction_work_titles:
+      - Criticism, Inc.
+    role: core-text-candidate
+    themes:
+      - new-criticism
+      - criticism
+      - close-reading
+      - university
+    status: edition-review-needed
+  - id: heidegger-language
+    title: Language
+    creator: Martin Heidegger
+    extraction_work_titles:
+      - Language
+    role: core-text-candidate
+    themes:
+      - language
+      - being
+      - poetry
+      - dwelling
+    status: edition-review-needed
+  - id: gramsci-formation-intellectuals
+    title: The Formation of the Intellectuals
+    creator: Antonio Gramsci
+    extraction_work_titles:
+      - The Formation of the Intellectuals
+    role: core-text-candidate
+    themes:
+      - hegemony
+      - intellectuals
+      - education
+      - institutions
+    status: edition-review-needed
+  - id: hurston-characteristics-negro-expression
+    title: Characteristics of Negro Expression
+    creator: Zora Neale Hurston
+    extraction_work_titles:
+      - Characteristics of Negro Expression
+    role: core-text-candidate
+    themes:
+      - vernacular
+      - performance
+      - race
+      - language
+    status: edition-review-needed
+  - id: hurston-what-white-publishers-wont-print
+    title: What White Publishers Won't Print
+    creator: Zora Neale Hurston
+    extraction_work_titles:
+      - What White Publishers Won't Print
+    role: core-text-candidate
+    themes:
+      - publishing
+      - race
+      - representation
+      - artistic-freedom
+    status: edition-review-needed
+  - id: benjamin-work-of-art-mechanical-reproduction
+    title: The Work of Art in the Age of Mechanical Reproduction
+    creator: Walter Benjamin
+    extraction_work_titles:
+      - The Work of Art in the Age of Mechanical Reproduction
+    role: core-text-candidate
+    themes:
+      - media
+      - technology
+      - aura
+      - politics
+    status: edition-review-needed
+  - id: bakhtin-discourse-in-the-novel
+    title: Discourse in the Novel
+    creator: Mikhail M. Bakhtin
+    extraction_author_slugs:
+      - mikhail-bakhtin
+    extraction_work_titles:
+      - Discourse in the Novel
+    role: core-text-candidate
+    themes:
+      - dialogism
+      - heteroglossia
+      - novel
+      - language
+    status: edition-review-needed
+  - id: horkheimer-adorno-culture-industry
+    title: "The Culture Industry: Enlightenment as Mass Deception"
+    creator: Max Horkheimer and Theodor W. Adorno
+    extraction_work_titles:
+      - "From The Culture Industry: Enlightenment as Mass Deception"
+      - "The Culture Industry: Enlightenment as Mass Deception"
+    role: core-text-candidate
+    themes:
+      - culture-industry
+      - mass-culture
+      - media
+      - capitalism
+    status: edition-review-needed
+  - id: wilson-marxism-and-literature
+    title: Marxism and Literature
+    creator: Edmund Wilson
+    extraction_work_titles:
+      - Marxism and Literature
+    role: core-text-candidate
+    themes:
+      - marxism
+      - literary-criticism
+      - politics
+      - revolution
+    status: edition-review-needed
+  - id: jakobson-linguistics-and-poetics
+    title: Linguistics and Poetics
+    creator: Roman Jakobson
+    extraction_work_titles:
+      - From Linguistics and Poetics
+      - Linguistics and Poetics
+    role: core-text-candidate
+    themes:
+      - poetics
+      - linguistics
+      - semiotics
+      - form
+    status: edition-review-needed
+  - id: jakobson-two-aspects-language-aphasia
+    title: Two Aspects of Language and Two Types of Aphasic Disturbances
+    creator: Roman Jakobson
+    extraction_work_titles:
+      - From Two Aspects of Language and Two Types of Aphasic Disturbances
+      - Two Aspects of Language and Two Types of Aphasic Disturbances
+    role: core-text-candidate
+    themes:
+      - metaphor
+      - metonymy
+      - language
+      - semiotics
+    status: edition-review-needed
+  - id: burke-kinds-of-criticism
+    title: Kinds of Criticism
+    creator: Kenneth Burke
+    extraction_work_titles:
+      - Kinds of Criticism
+    role: core-text-candidate
+    themes:
+      - rhetoric
+      - criticism
+      - method
+      - symbolic-action
+    status: edition-review-needed
+  - id: lacan-mirror-stage
+    title: The Mirror Stage as Formative of the Function of the I as Revealed in Psychoanalytic Experience
+    creator: Jacques Lacan
+    extraction_work_titles:
+      - The Mirror Stage as Formative of the Function of the I as Revealed in Psychoanalytic Experience
+    role: core-text-candidate
+    themes:
+      - psychoanalysis
+      - subjectivity
+      - identification
+      - image
+    status: edition-review-needed
+  - id: lacan-agency-letter
+    title: The Agency of the Letter in the Unconscious
+    creator: Jacques Lacan
+    extraction_work_titles:
+      - From The Agency of the Letter in the Unconscious
+      - The Agency of the Letter in the Unconscious
+    role: core-text-candidate
+    themes:
+      - psychoanalysis
+      - language
+      - unconscious
+      - signifier
+    status: edition-review-needed
+  - id: lacan-signification-phallus
+    title: The Signification of the Phallus
+    creator: Jacques Lacan
+    extraction_work_titles:
+      - The Signification of the Phallus
+    role: core-text-candidate
+    themes:
+      - psychoanalysis
+      - desire
+      - gender
+      - signifier
+    status: edition-review-needed
+  - id: hughes-negro-artist-racial-mountain
+    title: The Negro Artist and the Racial Mountain
+    creator: Langston Hughes
+    extraction_work_titles:
+      - The Negro Artist and the Racial Mountain
+    role: core-text-candidate
+    themes:
+      - race
+      - art
+      - vernacular
+      - cultural-politics
+    status: edition-review-needed
+  - id: poulet-phenomenology-reading
+    title: Phenomenology of Reading
+    creator: Georges Poulet
+    extraction_work_titles:
+      - Phenomenology of Reading
+    role: core-text-candidate
+    themes:
+      - reading
+      - phenomenology
+      - consciousness
+      - criticism
+    status: edition-review-needed
+  - id: sartre-what-is-literature
+    title: What Is Literature?
+    creator: Jean-Paul Sartre
+    extraction_work_titles:
+      - From What Is Literature?
+      - What Is Literature?
+    role: core-text-candidate
+    themes:
+      - literature
+      - freedom
+      - responsibility
+      - reader
+    status: edition-review-needed
+  - id: brooks-well-wrought-urn
+    title: The Well Wrought Urn
+    creator: Cleanth Brooks
+    extraction_work_titles:
+      - From The Well Wrought Urn
+      - The Well Wrought Urn
+    role: core-text-candidate
+    themes:
+      - new-criticism
+      - poetry
+      - irony
+      - paraphrase
+    status: edition-review-needed
+  - id: wimsatt-beardsley-intentional-fallacy
+    title: The Intentional Fallacy
+    creator: William K. Wimsatt Jr. and Monroe C. Beardsley
+    extraction_work_titles:
+      - The Intentional Fallacy
+    role: core-text-candidate
+    themes:
+      - intention
+      - authorship
+      - formalism
+      - interpretation
+    status: edition-review-needed
+  - id: wimsatt-beardsley-affective-fallacy
+    title: The Affective Fallacy
+    creator: William K. Wimsatt Jr. and Monroe C. Beardsley
+    extraction_work_titles:
+      - The Affective Fallacy
+    role: core-text-candidate
+    themes:
+      - affect
+      - reader-response
+      - formalism
+      - interpretation
+    status: edition-review-needed
+  - id: beauvoir-second-sex
+    title: The Second Sex
+    creator: Simone de Beauvoir
+    extraction_work_titles:
+      - From The Second Sex
+      - The Second Sex
+    role: core-text-candidate
+    themes:
+      - feminism
+      - gender
+      - myth
+      - freedom
+    status: edition-review-needed
+  - id: levi-strauss-tristes-tropiques
+    title: Tristes Tropiques
+    creator: Claude Levi-Strauss
+    extraction_author_slugs:
+      - claude-levi-strauss
+    extraction_work_titles:
+      - From Tristes Tropiques
+      - Tristes Tropiques
+    role: core-text-candidate
+    themes:
+      - anthropology
+      - structuralism
+      - writing
+      - colonialism
+    status: edition-review-needed
+  - id: austin-performative-utterances
+    title: Performative Utterances
+    creator: J. L. Austin
+    extraction_work_titles:
+      - Performative Utterances
+    role: core-text-candidate
+    themes:
+      - speech-acts
+      - ordinary-language
+      - performativity
+      - philosophy
+    status: edition-review-needed
+  - id: frye-archetypes-literature
+    title: The Archetypes of Literature
+    creator: Northrop Frye
+    extraction_work_titles:
+      - The Archetypes of Literature
+    role: core-text-candidate
+    themes:
+      - archetype
+      - myth
+      - criticism
+      - literary-system
+    status: edition-review-needed
+  - id: barthes-mythologies
+    title: Mythologies
+    creator: Roland Barthes
+    extraction_work_titles:
+      - From Mythologies
+      - Mythologies
+    role: core-text-candidate
+    themes:
+      - myth
+      - semiology
+      - mass-culture
+      - ideology
+    status: edition-review-needed
+  - id: barthes-death-author
+    title: The Death of the Author
+    creator: Roland Barthes
+    extraction_work_titles:
+      - The Death of the Author
+    role: core-text-candidate
+    themes:
+      - authorship
+      - reader
+      - poststructuralism
+      - writing
+    status: edition-review-needed
+  - id: barthes-work-to-text
+    title: Work to Text
+    creator: Roland Barthes
+    extraction_work_titles:
+      - From Work to Text
+      - Work to Text
+    role: core-text-candidate
+    themes:
+      - textuality
+      - intertextuality
+      - reader
+      - poststructuralism
+    status: edition-review-needed
+  - id: althusser-letter-on-art
+    title: A Letter on Art in Reply to Andre Daspre
+    creator: Louis Althusser
+    extraction_work_titles:
+      - A Letter on Art in Reply to Andre Daspre
+    role: core-text-candidate
+    themes:
+      - art
+      - ideology
+      - marxism
+      - aesthetics
+    status: edition-review-needed
+  - id: althusser-ideology-state-apparatuses
+    title: Ideology and Ideological State Apparatuses
+    creator: Louis Althusser
+    extraction_work_titles:
+      - Ideology and Ideological State Apparatuses
+    role: core-text-candidate
+    themes:
+      - ideology
+      - education
+      - state
+      - reproduction
+    status: edition-review-needed
+  - id: de-man-semiology-rhetoric
+    title: Semiology and Rhetoric
+    creator: Paul de Man
+    extraction_work_titles:
+      - Semiology and Rhetoric
+    role: core-text-candidate
+    themes:
+      - rhetoric
+      - deconstruction
+      - reading
+      - figuration
+    status: edition-review-needed
+  - id: de-man-return-to-philology
+    title: The Return to Philology
+    creator: Paul de Man
+    extraction_work_titles:
+      - The Return to Philology
+    role: core-text-candidate
+    themes:
+      - philology
+      - theory
+      - pedagogy
+      - rhetoric
+    status: edition-review-needed
+  - id: howe-history-novel
+    title: History and the Novel
+    creator: Irving Howe
+    extraction_work_titles:
+      - History and the Novel
+    role: core-text-candidate
+    themes:
+      - history
+      - novel
+      - politics
+      - realism
+    status: edition-review-needed
+  - id: jauss-literary-history-challenge
+    title: Literary History as a Challenge to Literary Theory
+    creator: Hans Robert Jauss
+    extraction_work_titles:
+      - From Literary History as a Challenge to Literary Theory
+      - Literary History as a Challenge to Literary Theory
+    role: core-text-candidate
+    themes:
+      - reception
+      - literary-history
+      - reader
+      - hermeneutics
+    status: edition-review-needed
+  - id: williams-marxism-literature
+    title: Marxism and Literature
+    creator: Raymond Williams
+    extraction_work_titles:
+      - From Marxism and Literature
+      - Marxism and Literature
+    role: core-text-candidate
+    themes:
+      - culture
+      - marxism
+      - literature
+      - materialism
+    status: edition-review-needed
+  - id: fanon-wretched-earth
+    title: The Wretched of the Earth
+    creator: Frantz Fanon
+    extraction_work_titles:
+      - From The Wretched of the Earth
+      - The Wretched of the Earth
+    role: core-text-candidate
+    themes:
+      - colonialism
+      - nationalism
+      - culture
+      - liberation
+    status: edition-review-needed
+  - id: deleuze-guattari-kafka-minor-literature
+    title: "Kafka: Toward a Minor Literature"
+    creator: Gilles Deleuze and Felix Guattari
+    extraction_work_titles:
+      - "From Kafka: Toward a Minor Literature"
+      - "Kafka: Toward a Minor Literature"
+    role: core-text-candidate
+    themes:
+      - minor-literature
+      - language
+      - politics
+      - collective-enunciation
+    status: edition-review-needed
+  - id: deleuze-guattari-thousand-plateaus
+    title: A Thousand Plateaus
+    creator: Gilles Deleuze and Felix Guattari
+    extraction_work_titles:
+      - "From A Thousand Plateaus: Capitalism and Schizophrenia"
+      - "A Thousand Plateaus: Capitalism and Schizophrenia"
+    role: core-text-candidate
+    themes:
+      - rhizome
+      - multiplicity
+      - mapping
+      - poststructuralism
+    status: edition-review-needed
+  - id: lyotard-defining-postmodern
+    title: Defining the Postmodern
+    creator: Jean-Francois Lyotard
+    extraction_work_titles:
+      - Defining the Postmodern
+    role: core-text-candidate
+    themes:
+      - postmodernism
+      - modernity
+      - sublime
+      - progress
+    status: edition-review-needed
+  - id: foucault-what-is-an-author
+    title: What Is an Author?
+    creator: Michel Foucault
+    extraction_work_titles:
+      - What Is an Author?
+    role: core-text-candidate
+    themes:
+      - authorship
+      - discourse
+      - institution
+      - interpretation
+    status: edition-review-needed
+  - id: foucault-discipline-and-punish
+    title: Discipline and Punish
+    creator: Michel Foucault
+    extraction_work_titles:
+      - "From Discipline and Punish: The Birth of the Prison"
+      - "Discipline and Punish: The Birth of the Prison"
+    role: core-text-candidate
+    themes:
+      - discipline
+      - institution
+      - power
+      - normalization
+    status: edition-review-needed
+  - id: foucault-history-sexuality
+    title: The History of Sexuality
+    creator: Michel Foucault
+    extraction_work_titles:
+      - From The History of Sexuality, Volume 1, An Introduction
+      - The History of Sexuality
+    role: core-text-candidate
+    themes:
+      - sexuality
+      - discourse
+      - power
+      - subject-formation
+    status: edition-review-needed
+  - id: foucault-truth-and-power
+    title: Truth and Power
+    creator: Michel Foucault
+    extraction_work_titles:
+      - From Truth and Power
+      - Truth and Power
+    role: core-text-candidate
+    themes:
+      - truth
+      - power
+      - institutions
+      - intellectuals
+    status: edition-review-needed
+  - id: iser-interaction-text-reader
+    title: Interaction Between Text and Reader
+    creator: Wolfgang Iser
+    extraction_work_titles:
+      - Interaction between Text and Reader
+      - Interaction Between Text and Reader
+    role: core-text-candidate
+    themes:
+      - reader-response
+      - interpretation
+      - gaps
+      - communication
+    status: edition-review-needed
+  - id: hirsch-objective-interpretation
+    title: Objective Interpretation
+    creator: E. D. Hirsch Jr.
+    extraction_work_titles:
+      - Objective Interpretation
+    role: core-text-candidate
+    themes:
+      - interpretation
+      - intention
+      - meaning
+      - education
+    status: edition-review-needed
+  - id: white-historical-text-literary-artifact
+    title: The Historical Text as Literary Artifact
+    creator: Hayden White
+    extraction_work_titles:
+      - The Historical Text as Literary Artifact
+    role: core-text-candidate
+    themes:
+      - historiography
+      - narrative
+      - emplotment
+      - historical-imagination
+    status: edition-review-needed
+  - id: baudrillard-precession-simulacra
+    title: The Precession of Simulacra
+    creator: Jean Baudrillard
+    extraction_work_titles:
+      - From The Precession of Simulacra
+      - The Precession of Simulacra
+    role: core-text-candidate
+    themes:
+      - simulation
+      - signs
+      - media
+      - hyperreality
+    status: edition-review-needed
+  - id: habermas-public-sphere
+    title: The Structural Transformation of the Public Sphere
+    creator: Jurgen Habermas
+    extraction_work_titles:
+      - From The Structural Transformation of the Public Sphere
+      - The Structural Transformation of the Public Sphere
+    role: core-text-candidate
+    themes:
+      - public-sphere
+      - citizenship
+      - reason
+      - institutions
+    status: edition-review-needed
+  - id: habermas-modernity-incomplete-project
+    title: Modernity - An Incomplete Project
+    creator: Jurgen Habermas
+    extraction_work_titles:
+      - Modernity - An Incomplete Project
+      - Modernity-An Incomplete Project
+    role: core-text-candidate
+    themes:
+      - modernity
+      - enlightenment
+      - culture
+      - public-reason
+    status: edition-review-needed
+  - id: rich-compulsory-heterosexuality
+    title: Compulsory Heterosexuality and Lesbian Existence
+    creator: Adrienne Rich
+    extraction_work_titles:
+      - Compulsory Heterosexuality and Lesbian Existence
+    role: core-text-candidate
+    themes:
+      - feminism
+      - sexuality
+      - institution
+      - power
+    status: edition-review-needed
+  - id: achebe-image-of-africa
+    title: "An Image of Africa: Racism in Conrad's Heart of Darkness"
+    creator: Chinua Achebe
+    extraction_work_titles:
+      - "An Image of Africa: Racism in Conrad's Heart of Darkness"
+    role: core-text-candidate
+    themes:
+      - postcolonialism
+      - canon
+      - race
+      - pedagogy
+    status: edition-review-needed
+  - id: bloom-anxiety-of-influence
+    title: The Anxiety of Influence
+    creator: Harold Bloom
+    extraction_work_titles:
+      - From The Anxiety of Influence
+      - The Anxiety of Influence
+    role: core-text-candidate
+    themes:
+      - influence
+      - canon
+      - poetry
+      - misreading
+    status: edition-review-needed
+  - id: bourdieu-distinction
+    title: Distinction
+    creator: Pierre Bourdieu
+    extraction_work_titles:
+      - From Distinction
+      - Distinction
+    role: core-text-candidate
+    themes:
+      - taste
+      - class
+      - cultural-capital
+      - institutions
+    status: edition-review-needed
+  - id: derrida-of-grammatology
+    title: Of Grammatology
+    creator: Jacques Derrida
+    extraction_work_titles:
+      - From Of Grammatology
+      - Of Grammatology
+    role: core-text-candidate
+    themes:
+      - writing
+      - logocentrism
+      - deconstruction
+      - method
+    status: edition-review-needed
+  - id: derrida-platos-pharmacy
+    title: "Dissemination / Plato's Pharmacy"
+    creator: Jacques Derrida
+    extraction_work_titles:
+      - From Dissemination / Plato's Pharmacy
+      - "Dissemination / Plato's Pharmacy"
+      - Plato's Pharmacy
+    role: core-text-candidate
+    themes:
+      - writing
+      - pharmakon
+      - deconstruction
+      - plato
+    status: edition-review-needed
+  - id: ohmann-shaping-of-a-canon
+    title: "The Shaping of a Canon: U.S. Fiction, 1960-1975"
+    creator: Richard Ohmann
+    extraction_work_titles:
+      - "From The Shaping of a Canon: U.S. Fiction, 1960-1975"
+      - "The Shaping of a Canon: U.S. Fiction, 1960-1975"
+    role: core-text-candidate
+    themes:
+      - canon
+      - publishing
+      - institutions
+      - class
+    status: edition-review-needed
+  - id: hall-cultural-studies-theoretical-legacies
+    title: Cultural Studies and Its Theoretical Legacies
+    creator: Stuart Hall
+    extraction_work_titles:
+      - Cultural Studies and Its Theoretical Legacies
+    role: core-text-candidate
+    themes:
+      - cultural-studies
+      - hegemony
+      - politics
+      - intellectual-work
+    status: edition-review-needed
+  - id: smith-contingencies-of-value
+    title: Contingencies of Value
+    creator: Barbara Herrnstein Smith
+    extraction_work_titles:
+      - From Contingencies of Value
+      - Contingencies of Value
+    role: core-text-candidate
+    themes:
+      - value
+      - taste
+      - contingency
+      - institutions
+    status: edition-review-needed
+  - id: jameson-political-unconscious
+    title: "The Political Unconscious: Narrative as a Socially Symbolic Act"
+    creator: Fredric Jameson
+    extraction_work_titles:
+      - "From The Political Unconscious: Narrative as a Socially Symbolic Act"
+      - The Political Unconscious
+    role: core-text-candidate
+    themes:
+      - marxism
+      - historicism
+      - ideology
+      - interpretation
+    status: edition-review-needed
+  - id: jameson-postmodernism-consumer-society
+    title: Postmodernism and Consumer Society
+    creator: Fredric Jameson
+    extraction_work_titles:
+      - Postmodernism and Consumer Society
+    role: core-text-candidate
+    themes:
+      - postmodernism
+      - consumer-society
+      - late-capitalism
+      - media
+    status: edition-review-needed
+  - id: vizenor-postindian-warriors
+    title: Postindian Warriors
+    creator: Gerald Vizenor
+    extraction_work_titles:
+      - "From Manifest Manners: Postindian Warriors of Survivance / Postindian Warriors"
+      - Postindian Warriors
+      - Manifest Manners
+    role: core-text-candidate
+    themes:
+      - survivance
+      - simulation
+      - native-studies
+      - representation
+    status: edition-review-needed
+  - id: said-orientalism
+    title: Orientalism
+    creator: Edward W. Said
+    extraction_work_titles:
+      - From Orientalism
+      - Orientalism
+    role: core-text-candidate
+    themes:
+      - orientalism
+      - imperialism
+      - postcolonialism
+      - representation
+    status: edition-review-needed
+  - id: wittig-one-is-not-born-a-woman
+    title: One Is Not Born a Woman
+    creator: Monique Wittig
+    extraction_work_titles:
+      - One Is Not Born a Woman
+    role: core-text-candidate
+    themes:
+      - feminism
+      - lesbian-theory
+      - gender
+      - materialism
+    status: edition-review-needed
+  - id: gilbert-gubar-madwoman-in-the-attic
+    title: The Madwoman in the Attic
+    creator: Sandra M. Gilbert and Susan Gubar
+    extraction_work_titles:
+      - "From The Madwoman in the Attic: The Woman Writer and the Nineteenth-Century Literary Imagination"
+      - The Madwoman in the Attic
+    role: core-text-candidate
+    themes:
+      - feminist-criticism
+      - authorship
+      - literary-history
+      - gender
+    status: edition-review-needed
+  - id: cixous-laugh-of-the-medusa
+    title: The Laugh of the Medusa
+    creator: Helene Cixous
+    extraction_work_titles:
+      - The Laugh of the Medusa
+    role: core-text-candidate
+    themes:
+      - ecriture-feminine
+      - writing
+      - feminism
+      - psychoanalysis
+    status: edition-review-needed
+  - id: graff-taking-cover-in-coverage
+    title: Taking Cover in Coverage
+    creator: Gerald Graff
+    extraction_work_titles:
+      - Taking Cover in Coverage
+    role: core-text-candidate
+    themes:
+      - pedagogy
+      - institutions
+      - literary-studies
+      - theory
+    status: edition-review-needed
+  - id: fish-interpreting-the-variorum
+    title: Interpreting the Variorum
+    creator: Stanley E. Fish
+    extraction_work_titles:
+      - Interpreting the Variorum
+    role: core-text-candidate
+    themes:
+      - reader-response
+      - interpretation
+      - institutions
+      - pragmatism
+    status: edition-review-needed
+  - id: ngugi-liyong-owuor-anyumba-abolition-english-department
+    title: On the Abolition of the English Department
+    creator: Ngugi wa Thiong'o, Taban Lo Liyong, and Henry Owuor-Anyumba
+    extraction_author_slugs:
+      - ngugi-liyong-and-owuor-anyumba
+    extraction_work_titles:
+      - On the Abolition of the English Department
+    role: core-text-candidate
+    themes:
+      - postcolonialism
+      - education
+      - curriculum
+      - language
+    status: edition-review-needed
+  - id: todorov-structural-analysis-narrative
+    title: Structural Analysis of Narrative
+    creator: Tzvetan Todorov
+    extraction_work_titles:
+      - Structural Analysis of Narrative
+    role: core-text-candidate
+    themes:
+      - structuralism
+      - narratology
+      - poetics
+      - method
+    status: edition-review-needed
+  - id: allen-kochinnenako-in-academe
+    title: Kochinnenako in Academe
+    creator: Paula Gunn Allen
+    extraction_work_titles:
+      - Kochinnenako in Academe
+    role: core-text-candidate
+    themes:
+      - native-studies
+      - feminism
+      - oral-tradition
+      - interpretation
+    status: edition-review-needed
+  - id: tompkins-me-and-my-shadow
+    title: Me and My Shadow
+    creator: Jane Tompkins
+    extraction_work_titles:
+      - Me and My Shadow
+    role: core-text-candidate
+    themes:
+      - feminist-criticism
+      - personal-criticism
+      - institutions
+      - theory
+    status: edition-review-needed
+  - id: kolodny-dancing-through-the-minefield
+    title: Dancing through the Minefield
+    creator: Annette Kolodny
+    extraction_work_titles:
+      - Dancing through the Minefield
+    role: core-text-candidate
+    themes:
+      - feminist-criticism
+      - canon
+      - interpretation
+      - ideology
+    status: edition-review-needed
+  - id: kristeva-revolution-in-poetic-language
+    title: Revolution in Poetic Language
+    creator: Julia Kristeva
+    extraction_work_titles:
+      - Revolution in Poetic Language
+    role: core-text-candidate
+    themes:
+      - semiotics
+      - psychoanalysis
+      - subjectivity
+      - avant-garde
+    status: edition-review-needed
+  - id: mulvey-visual-pleasure-narrative-cinema
+    title: Visual Pleasure and Narrative Cinema
+    creator: Laura Mulvey
+    extraction_work_titles:
+      - Visual Pleasure and Narrative Cinema
+    role: core-text-candidate
+    themes:
+      - film-theory
+      - feminism
+      - psychoanalysis
+      - spectatorship
+    status: edition-review-needed
+  - id: spivak-critique-postcolonial-reason
+    title: A Critique of Postcolonial Reason
+    creator: Gayatri Chakravorty Spivak
+    extraction_work_titles:
+      - A Critique of Postcolonial Reason
+    role: core-text-candidate
+    themes:
+      - postcolonialism
+      - subaltern-studies
+      - representation
+      - feminism
+    status: edition-review-needed
+  - id: anzaldua-borderlands-la-frontera
+    title: "Borderlands/La Frontera: The New Mestiza"
+    creator: Gloria Anzaldua
+    extraction_work_titles:
+      - "Borderlands/La Frontera: The New Mestiza"
+    role: core-text-candidate
+    themes:
+      - borderlands
+      - mestiza-consciousness
+      - chicana-feminism
+      - identity
+    status: edition-review-needed
+  - id: baker-blues-ideology-afro-american-literature
+    title: Blues, Ideology, and Afro-American Literature
+    creator: Houston A. Baker Jr.
+    extraction_work_titles:
+      - Blues, Ideology, and Afro-American Literature
+    role: core-text-candidate
+    themes:
+      - african-american-literature
+      - vernacular
+      - blues
+      - ideology
+    status: edition-review-needed
+  - id: eagleton-literary-theory-introduction
+    title: "Literary Theory: An Introduction"
+    creator: Terry Eagleton
+    extraction_work_titles:
+      - "Literary Theory: An Introduction"
+    role: core-text-candidate
+    themes:
+      - marxism
+      - ideology
+      - literary-studies
+      - education
+    status: edition-review-needed
+  - id: greenblatt-introduction-power-of-forms
+    title: Introduction to The Power of Forms in the English Renaissance
+    creator: Stephen Greenblatt
+    extraction_work_titles:
+      - Introduction to The Power of Forms in the English Renaissance
+    role: core-text-candidate
+    themes:
+      - new-historicism
+      - renaissance
+      - power
+      - cultural-poetics
+    status: edition-review-needed
+  - id: christian-race-for-theory
+    title: The Race for Theory
+    creator: Barbara Christian
+    extraction_work_titles:
+      - The Race for Theory
+    role: core-text-candidate
+    themes:
+      - black-feminism
+      - theory
+      - african-american-literature
+      - canon
+    status: edition-review-needed
+  - id: haraway-manifesto-for-cyborgs
+    title: A Manifesto for Cyborgs
+    creator: Donna Haraway
+    extraction_work_titles:
+      - A Manifesto for Cyborgs
+    role: core-text-candidate
+    themes:
+      - cyberfeminism
+      - technoscience
+      - feminism
+      - subjectivity
+    status: edition-review-needed
+  - id: smith-toward-black-feminist-criticism
+    title: Toward a Black Feminist Criticism
+    creator: Barbara Smith
+    extraction_work_titles:
+      - Toward a Black Feminist Criticism
+    role: core-text-candidate
+    themes:
+      - black-feminism
+      - lesbian-criticism
+      - canon
+      - literary-criticism
+    status: edition-review-needed
+  - id: johnson-melvilles-fist-execution-billy-budd
+    title: "Melville's Fist: The Execution of Billy Budd"
+    creator: Barbara Johnson
+    extraction_work_titles:
+      - "Melville's Fist: The Execution of Billy Budd"
+    role: core-text-candidate
+    themes:
+      - deconstruction
+      - law
+      - language
+      - pedagogy
+    status: edition-review-needed
+  - id: zimmerman-what-has-never-been
+    title: "What Has Never Been: An Overview of Lesbian Feminist Literary Criticism"
+    creator: Bonnie Zimmerman
+    extraction_work_titles:
+      - "What Has Never Been: An Overview of Lesbian Feminist Literary Criticism"
+    role: core-text-candidate
+    themes:
+      - lesbian-feminism
+      - feminist-criticism
+      - canon
+      - identity
+    status: edition-review-needed
+  - id: bordo-unbearable-weight
+    title: "Unbearable Weight: Feminism, Western Culture, and the Body"
+    creator: Susan Bordo
+    extraction_work_titles:
+      - "Unbearable Weight: Feminism, Western Culture, and the Body"
+    role: core-text-candidate
+    themes:
+      - body
+      - feminism
+      - culture
+      - discipline
+    status: edition-review-needed
+  - id: bhabha-commitment-to-theory
+    title: The Commitment to Theory
+    creator: Homi K. Bhabha
+    extraction_work_titles:
+      - The Commitment to Theory
+    role: core-text-candidate
+    themes:
+      - postcolonial-theory
+      - hybridity
+      - cultural-difference
+      - politics
+    status: edition-review-needed
+  - id: davis-enforcing-normalcy
+    title: "Enforcing Normalcy: Disability, Deafness, and the Body"
+    creator: Lennard J. Davis
+    extraction_work_titles:
+      - "Enforcing Normalcy: Disability, Deafness, and the Body"
+    role: core-text-candidate
+    themes:
+      - disability-studies
+      - normalcy
+      - body
+      - labor
+    status: edition-review-needed
+  - id: gates-talking-black
+    title: "Talking Black: Critical Signs of the Times"
+    creator: Henry Louis Gates Jr.
+    extraction_work_titles:
+      - "Talking Black: Critical Signs of the Times"
+    role: core-text-candidate
+    themes:
+      - african-american-literature
+      - vernacular
+      - canon
+      - theory
+    status: edition-review-needed
+  - id: sedgwick-between-men-epistemology-closet
+    title: "Between Men and Epistemology of the Closet"
+    creator: Eve Kosofsky Sedgwick
+    extraction_work_titles:
+      - "Between Men and Epistemology of the Closet"
+    role: core-text-candidate
+    themes:
+      - queer-theory
+      - sexuality
+      - gender
+      - epistemology
+    status: edition-review-needed
+  - id: hebdige-subculture-meaning-style
+    title: "Subculture: The Meaning of Style"
+    creator: Dick Hebdige
+    extraction_work_titles:
+      - "Subculture: The Meaning of Style"
+    role: core-text-candidate
+    themes:
+      - cultural-studies
+      - subculture
+      - style
+      - ideology
+    status: edition-review-needed
+  - id: knapp-michaels-against-theory
+    title: Against Theory
+    creator: Steven Knapp and Walter Benn Michaels
+    extraction_work_titles:
+      - Against Theory
+    role: core-text-candidate
+    themes:
+      - interpretation
+      - pragmatism
+      - intention
+      - theory
+    status: edition-review-needed
+  - id: hooks-postmodern-blackness
+    title: Postmodern Blackness
+    creator: bell hooks
+    extraction_work_titles:
+      - Postmodern Blackness
+    role: core-text-candidate
+    themes:
+      - black-feminism
+      - postmodernism
+      - identity
+      - public-intellectuals
+    status: edition-review-needed
+  - id: butler-gender-trouble
+    title: Gender Trouble
+    creator: Judith Butler
+    extraction_work_titles:
+      - Gender Trouble
+    role: core-text-candidate
+    themes:
+      - queer-theory
+      - gender
+      - performativity
+      - identity
+    status: edition-review-needed
+  - id: moulthrop-hypertext-laws-media
+    title: "You Say You Want a Revolution? Hypertext and the Laws of Media"
+    creator: Stuart Moulthrop
+    extraction_work_titles:
+      - "You Say You Want a Revolution? Hypertext and the Laws of Media"
+    role: core-text-candidate
+    themes:
+      - hypertext
+      - media-theory
+      - digital-culture
+      - literacy
+    status: edition-review-needed
+
+constellations:
+  - id: rhetoric-and-force
+    question: What can speech do?
+    texts:
+      - gorgias-encomium-helen
+      - plato-selected-dialogues
+      - aristotle-poetics-rhetoric
+      - quintilian-institutio-oratoria
+    relations:
+      - tension
+      - civic-discipline
+      - inheritance
+  - id: poetry-and-judgment
+    question: Who gets to judge art?
+    texts:
+      - plato-selected-dialogues
+      - aristotle-poetics-rhetoric
+      - horace-ars-poetica
+      - longinus-on-sublimity
+      - geoffrey-poetria-nova
+      - boccaccio-genealogy-gentile-gods
+      - pierre-de-ronsard-art-french-poetry
+      - sidney-defense-of-poesy
+      - corneille-three-unities
+      - dryden-selected-critical-prose
+      - aphra-behn-dutch-lover-lucky-chance
+      - addison-spectator-essays
+      - young-conjectures-original-composition
+      - pope-essay-on-criticism
+      - johnson-selected-critical-prose
+      - hume-standard-of-taste
+      - kant-critique-of-judgment
+      - burke-sublime-and-beautiful
+      - lessing-laocoon
+      - schiller-aesthetic-education
+      - wollstonecraft-rights-woman
+      - wordsworth-lyrical-ballads-preface
+      - coleridge-statesmans-manual-biographia-literaria
+      - peacock-four-ages-poetry
+      - shelley-defence-poetry
+      - emerson-american-scholar-poet
+      - poe-philosophy-composition
+      - gautier-preface-mademoiselle-de-maupin
+      - baudelaire-painter-modern-life
+      - arnold-selected-critical-prose
+      - pater-renaissance
+      - henry-james-art-fiction
+      - nietzsche-birth-of-tragedy
+      - wilde-selected-critical-prose
+      - du-bois-criteria-of-negro-art
+      - jung-analytical-psychology-poetry
+      - woolf-room-of-ones-own
+      - lukacs-realism-in-the-balance
+      - eichenbaum-theory-formal-method
+      - eliot-tradition-individual-talent
+      - eliot-metaphysical-poets
+      - ransom-criticism-inc
+      - hurston-characteristics-negro-expression
+      - hurston-what-white-publishers-wont-print
+      - benjamin-work-of-art-mechanical-reproduction
+    relations:
+      - tension
+      - craft
+      - excess
+  - id: signs-and-reading
+    question: How should difficult texts be read?
+    texts:
+      - plato-selected-dialogues
+      - augustine-on-christian-doctrine-trinity
+      - hugh-didascalicon
+      - maimonides-guide-perplexed
+      - thomas-aquinas-summa-theologica
+      - dante-il-convivio-letter-can-grande
+      - giacopo-mazzoni-defense-comedy-dante
+      - schleiermacher-hermeneutics
+      - hegel-phenomenology-fine-art
+      - coleridge-statesmans-manual-biographia-literaria
+      - marx-engels-selected-cultural-writings
+      - nietzsche-truth-and-lying
+      - freud-dreams-uncanny-fetishism
+      - saussure-course-general-linguistics
+      - jung-analytical-psychology-poetry
+      - eichenbaum-theory-formal-method
+      - heidegger-language
+      - hurston-characteristics-negro-expression
+      - bakhtin-discourse-in-the-novel
+      - jakobson-linguistics-and-poetics
+      - jakobson-two-aspects-language-aphasia
+      - lacan-agency-letter
+      - poulet-phenomenology-reading
+      - sartre-what-is-literature
+      - brooks-well-wrought-urn
+      - wimsatt-beardsley-intentional-fallacy
+      - levi-strauss-tristes-tropiques
+      - austin-performative-utterances
+      - frye-archetypes-literature
+      - barthes-work-to-text
+      - de-man-semiology-rhetoric
+      - de-man-return-to-philology
+      - jauss-literary-history-challenge
+      - deleuze-guattari-kafka-minor-literature
+      - deleuze-guattari-thousand-plateaus
+      - lyotard-defining-postmodern
+      - foucault-what-is-an-author
+      - foucault-truth-and-power
+      - iser-interaction-text-reader
+      - hirsch-objective-interpretation
+      - white-historical-text-literary-artifact
+      - baudrillard-precession-simulacra
+      - bloom-anxiety-of-influence
+      - derrida-of-grammatology
+      - derrida-platos-pharmacy
+      - ohmann-shaping-of-a-canon
+      - smith-contingencies-of-value
+      - jameson-political-unconscious
+      - said-orientalism
+      - cixous-laugh-of-the-medusa
+      - graff-taking-cover-in-coverage
+      - fish-interpreting-the-variorum
+      - todorov-structural-analysis-narrative
+      - allen-kochinnenako-in-academe
+      - tompkins-me-and-my-shadow
+      - kolodny-dancing-through-the-minefield
+      - kristeva-revolution-in-poetic-language
+      - mulvey-visual-pleasure-narrative-cinema
+      - spivak-critique-postcolonial-reason
+      - anzaldua-borderlands-la-frontera
+      - baker-blues-ideology-afro-american-literature
+      - eagleton-literary-theory-introduction
+      - greenblatt-introduction-power-of-forms
+      - christian-race-for-theory
+      - haraway-manifesto-for-cyborgs
+      - smith-toward-black-feminist-criticism
+      - johnson-melvilles-fist-execution-billy-budd
+      - zimmerman-what-has-never-been
+      - bordo-unbearable-weight
+      - bhabha-commitment-to-theory
+      - davis-enforcing-normalcy
+      - gates-talking-black
+      - sedgwick-between-men-epistemology-closet
+      - hebdige-subculture-meaning-style
+      - knapp-michaels-against-theory
+      - hooks-postmodern-blackness
+      - butler-gender-trouble
+      - moulthrop-hypertext-laws-media
+    relations:
+      - writing
+      - interpretation
+      - allegory
+  - id: beauty-and-ascent
+    question: When does beauty become a way of knowing?
+    texts:
+      - longinus-on-sublimity
+      - plotinus-enneads
+      - augustine-on-christian-doctrine-trinity
+      - kant-critique-of-judgment
+      - burke-sublime-and-beautiful
+      - schiller-aesthetic-education
+      - hegel-phenomenology-fine-art
+      - coleridge-statesmans-manual-biographia-literaria
+      - shelley-defence-poetry
+      - emerson-american-scholar-poet
+      - gautier-preface-mademoiselle-de-maupin
+      - baudelaire-painter-modern-life
+      - pater-renaissance
+      - nietzsche-truth-and-lying
+      - nietzsche-birth-of-tragedy
+      - wilde-selected-critical-prose
+      - jung-analytical-psychology-poetry
+      - heidegger-language
+    relations:
+      - sublimity
+      - ascent
+      - inward-reading
+  - id: commentary-and-afterlife
+    question: How do texts survive by being reread?
+    texts:
+      - macrobius-dream-scipio
+      - hugh-didascalicon
+      - maimonides-guide-perplexed
+      - geoffrey-poetria-nova
+      - thomas-aquinas-summa-theologica
+      - dante-il-convivio-letter-can-grande
+      - joachim-du-bellay-defense-french-language
+      - vico-new-science
+      - schleiermacher-hermeneutics
+      - hegel-phenomenology-fine-art
+      - coleridge-statesmans-manual-biographia-literaria
+      - baudelaire-painter-modern-life
+      - arnold-selected-critical-prose
+      - pater-renaissance
+      - nietzsche-truth-and-lying
+      - freud-dreams-uncanny-fetishism
+      - saussure-course-general-linguistics
+      - jung-analytical-psychology-poetry
+      - woolf-room-of-ones-own
+      - lukacs-realism-in-the-balance
+      - eichenbaum-theory-formal-method
+      - eliot-tradition-individual-talent
+      - eliot-metaphysical-poets
+      - ransom-criticism-inc
+      - heidegger-language
+      - gramsci-formation-intellectuals
+      - hurston-characteristics-negro-expression
+      - hurston-what-white-publishers-wont-print
+      - benjamin-work-of-art-mechanical-reproduction
+      - bakhtin-discourse-in-the-novel
+      - wilson-marxism-and-literature
+      - jakobson-linguistics-and-poetics
+      - jakobson-two-aspects-language-aphasia
+      - burke-kinds-of-criticism
+      - wimsatt-beardsley-intentional-fallacy
+      - wimsatt-beardsley-affective-fallacy
+      - frye-archetypes-literature
+      - barthes-death-author
+      - barthes-work-to-text
+      - de-man-semiology-rhetoric
+      - de-man-return-to-philology
+      - jauss-literary-history-challenge
+      - williams-marxism-literature
+      - deleuze-guattari-kafka-minor-literature
+      - foucault-what-is-an-author
+      - foucault-truth-and-power
+      - iser-interaction-text-reader
+      - hirsch-objective-interpretation
+      - white-historical-text-literary-artifact
+      - habermas-public-sphere
+      - habermas-modernity-incomplete-project
+      - rich-compulsory-heterosexuality
+      - achebe-image-of-africa
+      - bloom-anxiety-of-influence
+      - derrida-of-grammatology
+      - derrida-platos-pharmacy
+      - ohmann-shaping-of-a-canon
+      - hall-cultural-studies-theoretical-legacies
+      - smith-contingencies-of-value
+      - jameson-political-unconscious
+      - vizenor-postindian-warriors
+      - said-orientalism
+      - gilbert-gubar-madwoman-in-the-attic
+      - cixous-laugh-of-the-medusa
+      - fish-interpreting-the-variorum
+      - todorov-structural-analysis-narrative
+      - allen-kochinnenako-in-academe
+      - gates-talking-black
+      - sedgwick-between-men-epistemology-closet
+      - knapp-michaels-against-theory
+      - hooks-postmodern-blackness
+      - butler-gender-trouble
+      - moulthrop-hypertext-laws-media
+      - johnson-melvilles-fist-execution-billy-budd
+      - bhabha-commitment-to-theory
+      - davis-enforcing-normalcy
+      - gates-talking-black
+      - sedgwick-between-men-epistemology-closet
+      - knapp-michaels-against-theory
+      - hooks-postmodern-blackness
+      - tompkins-me-and-my-shadow
+      - kolodny-dancing-through-the-minefield
+      - kristeva-revolution-in-poetic-language
+      - spivak-critique-postcolonial-reason
+      - baker-blues-ideology-afro-american-literature
+      - eagleton-literary-theory-introduction
+      - greenblatt-introduction-power-of-forms
+      - johnson-melvilles-fist-execution-billy-budd
+      - bhabha-commitment-to-theory
+    relations:
+      - commentary
+      - transmission
+      - disciplined-reading
+  - id: education-and-civic-life
+    question: What should education make possible for citizens?
+    texts:
+      - plato-selected-dialogues
+      - aristotle-poetics-rhetoric
+      - quintilian-institutio-oratoria
+      - hugh-didascalicon
+      - christine-de-pizan-city-of-ladies
+      - sidney-defense-of-poesy
+      - vico-new-science
+      - addison-spectator-essays
+      - johnson-selected-critical-prose
+      - schiller-aesthetic-education
+      - wollstonecraft-rights-woman
+      - stael-fictions-literature-social-institutions
+      - wordsworth-lyrical-ballads-preface
+      - coleridge-statesmans-manual-biographia-literaria
+      - emerson-american-scholar-poet
+      - marx-engels-selected-cultural-writings
+      - arnold-selected-critical-prose
+      - henry-james-art-fiction
+      - nietzsche-truth-and-lying
+      - wilde-selected-critical-prose
+      - freud-dreams-uncanny-fetishism
+      - saussure-course-general-linguistics
+      - du-bois-criteria-of-negro-art
+      - trotsky-literature-and-revolution
+      - woolf-room-of-ones-own
+      - lukacs-realism-in-the-balance
+      - ransom-criticism-inc
+      - gramsci-formation-intellectuals
+      - hurston-what-white-publishers-wont-print
+      - wilson-marxism-and-literature
+      - burke-kinds-of-criticism
+      - hughes-negro-artist-racial-mountain
+      - sartre-what-is-literature
+      - wimsatt-beardsley-intentional-fallacy
+      - beauvoir-second-sex
+      - althusser-ideology-state-apparatuses
+      - de-man-return-to-philology
+      - jauss-literary-history-challenge
+      - williams-marxism-literature
+      - fanon-wretched-earth
+      - foucault-discipline-and-punish
+      - foucault-truth-and-power
+      - iser-interaction-text-reader
+      - hirsch-objective-interpretation
+      - white-historical-text-literary-artifact
+      - habermas-public-sphere
+      - habermas-modernity-incomplete-project
+      - rich-compulsory-heterosexuality
+      - achebe-image-of-africa
+      - bourdieu-distinction
+      - ohmann-shaping-of-a-canon
+      - hall-cultural-studies-theoretical-legacies
+      - smith-contingencies-of-value
+      - ngugi-liyong-owuor-anyumba-abolition-english-department
+      - tompkins-me-and-my-shadow
+      - kolodny-dancing-through-the-minefield
+      - spivak-critique-postcolonial-reason
+      - anzaldua-borderlands-la-frontera
+      - eagleton-literary-theory-introduction
+      - christian-race-for-theory
+      - smith-toward-black-feminist-criticism
+      - johnson-melvilles-fist-execution-billy-budd
+      - zimmerman-what-has-never-been
+      - bhabha-commitment-to-theory
+      - davis-enforcing-normalcy
+      - gates-talking-black
+      - sedgwick-between-men-epistemology-closet
+      - knapp-michaels-against-theory
+      - hooks-postmodern-blackness
+      - butler-gender-trouble
+      - moulthrop-hypertext-laws-media
+    relations:
+      - pedagogy
+      - civic-formation
+      - authority
+  - id: vernacular-and-institution
+    question: How do languages become institutions of thought?
+    texts:
+      - dante-il-convivio-letter-can-grande
+      - giambattista-giraldi-composition-romances
+      - joachim-du-bellay-defense-french-language
+      - pierre-de-ronsard-art-french-poetry
+      - sidney-defense-of-poesy
+      - vico-new-science
+      - stael-fictions-literature-social-institutions
+      - wordsworth-lyrical-ballads-preface
+      - emerson-american-scholar-poet
+      - baudelaire-painter-modern-life
+      - mallarme-crisis-poetry
+      - saussure-course-general-linguistics
+      - du-bois-criteria-of-negro-art
+      - trotsky-literature-and-revolution
+      - woolf-room-of-ones-own
+      - lukacs-realism-in-the-balance
+      - heidegger-language
+      - hurston-characteristics-negro-expression
+      - bakhtin-discourse-in-the-novel
+      - jakobson-linguistics-and-poetics
+      - jakobson-two-aspects-language-aphasia
+      - hughes-negro-artist-racial-mountain
+      - levi-strauss-tristes-tropiques
+      - austin-performative-utterances
+      - barthes-mythologies
+      - althusser-ideology-state-apparatuses
+      - williams-marxism-literature
+      - fanon-wretched-earth
+      - deleuze-guattari-kafka-minor-literature
+      - foucault-discipline-and-punish
+      - foucault-history-sexuality
+      - foucault-truth-and-power
+      - baudrillard-precession-simulacra
+      - habermas-public-sphere
+      - rich-compulsory-heterosexuality
+      - achebe-image-of-africa
+      - bourdieu-distinction
+      - derrida-of-grammatology
+      - vizenor-postindian-warriors
+      - said-orientalism
+      - ngugi-liyong-owuor-anyumba-abolition-english-department
+      - todorov-structural-analysis-narrative
+    relations:
+      - vernacular
+      - imitation
+      - nation
+  - id: theater-and-public-judgment
+    question: How does theater train or expose public judgment?
+    texts:
+      - aristotle-poetics-rhetoric
+      - giambattista-giraldi-composition-romances
+      - corneille-three-unities
+      - dryden-selected-critical-prose
+      - aphra-behn-dutch-lover-lucky-chance
+      - johnson-selected-critical-prose
+    relations:
+      - drama
+      - audience
+      - rules
+  - id: authorship-and-authority
+    question: Who is allowed to speak as an author?
+    texts:
+      - christine-de-pizan-city-of-ladies
+      - joachim-du-bellay-defense-french-language
+      - sidney-defense-of-poesy
+      - dryden-selected-critical-prose
+      - aphra-behn-dutch-lover-lucky-chance
+      - young-conjectures-original-composition
+      - pope-essay-on-criticism
+      - johnson-selected-critical-prose
+      - wollstonecraft-rights-woman
+      - stael-fictions-literature-social-institutions
+      - shelley-defence-poetry
+      - emerson-american-scholar-poet
+      - poe-philosophy-composition
+      - gautier-preface-mademoiselle-de-maupin
+      - baudelaire-painter-modern-life
+      - pater-renaissance
+      - mallarme-crisis-poetry
+      - henry-james-art-fiction
+      - nietzsche-truth-and-lying
+      - wilde-selected-critical-prose
+      - freud-dreams-uncanny-fetishism
+      - du-bois-criteria-of-negro-art
+      - woolf-room-of-ones-own
+      - eliot-tradition-individual-talent
+      - hurston-what-white-publishers-wont-print
+      - bakhtin-discourse-in-the-novel
+      - burke-kinds-of-criticism
+      - hughes-negro-artist-racial-mountain
+      - sartre-what-is-literature
+      - barthes-death-author
+      - barthes-work-to-text
+      - de-man-return-to-philology
+      - howe-history-novel
+      - deleuze-guattari-kafka-minor-literature
+      - foucault-what-is-an-author
+      - iser-interaction-text-reader
+      - hirsch-objective-interpretation
+      - white-historical-text-literary-artifact
+      - rich-compulsory-heterosexuality
+      - achebe-image-of-africa
+      - bloom-anxiety-of-influence
+      - derrida-of-grammatology
+      - derrida-platos-pharmacy
+      - ohmann-shaping-of-a-canon
+      - smith-contingencies-of-value
+      - allen-kochinnenako-in-academe
+      - tompkins-me-and-my-shadow
+      - kolodny-dancing-through-the-minefield
+      - spivak-critique-postcolonial-reason
+      - anzaldua-borderlands-la-frontera
+      - baker-blues-ideology-afro-american-literature
+      - eagleton-literary-theory-introduction
+      - christian-race-for-theory
+      - smith-toward-black-feminist-criticism
+      - johnson-melvilles-fist-execution-billy-budd
+      - zimmerman-what-has-never-been
+      - bordo-unbearable-weight
+    relations:
+      - authorship
+      - gender
+      - authority
+  - id: taste-and-standards
+    question: How do communities make judgments of taste?
+    texts:
+      - longinus-on-sublimity
+      - sidney-defense-of-poesy
+      - addison-spectator-essays
+      - pope-essay-on-criticism
+      - johnson-selected-critical-prose
+      - hume-standard-of-taste
+      - kant-critique-of-judgment
+      - burke-sublime-and-beautiful
+      - schiller-aesthetic-education
+      - wordsworth-lyrical-ballads-preface
+      - coleridge-statesmans-manual-biographia-literaria
+      - peacock-four-ages-poetry
+      - shelley-defence-poetry
+      - emerson-american-scholar-poet
+      - poe-philosophy-composition
+      - gautier-preface-mademoiselle-de-maupin
+      - baudelaire-painter-modern-life
+      - arnold-selected-critical-prose
+      - pater-renaissance
+      - henry-james-art-fiction
+      - wilde-selected-critical-prose
+      - du-bois-criteria-of-negro-art
+      - lukacs-realism-in-the-balance
+      - eliot-tradition-individual-talent
+      - eliot-metaphysical-poets
+      - ransom-criticism-inc
+      - hurston-characteristics-negro-expression
+      - benjamin-work-of-art-mechanical-reproduction
+      - wilson-marxism-and-literature
+      - burke-kinds-of-criticism
+      - brooks-well-wrought-urn
+      - wimsatt-beardsley-intentional-fallacy
+      - wimsatt-beardsley-affective-fallacy
+      - frye-archetypes-literature
+      - de-man-semiology-rhetoric
+      - de-man-return-to-philology
+      - jauss-literary-history-challenge
+      - williams-marxism-literature
+      - lyotard-defining-postmodern
+      - iser-interaction-text-reader
+      - bourdieu-distinction
+      - ohmann-shaping-of-a-canon
+      - smith-contingencies-of-value
+      - jameson-postmodernism-consumer-society
+      - tompkins-me-and-my-shadow
+      - kolodny-dancing-through-the-minefield
+      - mulvey-visual-pleasure-narrative-cinema
+      - baker-blues-ideology-afro-american-literature
+      - eagleton-literary-theory-introduction
+      - haraway-manifesto-for-cyborgs
+      - johnson-melvilles-fist-execution-billy-budd
+      - zimmerman-what-has-never-been
+      - bordo-unbearable-weight
+      - davis-enforcing-normalcy
+      - gates-talking-black
+      - sedgwick-between-men-epistemology-closet
+      - hebdige-subculture-meaning-style
+      - hooks-postmodern-blackness
+      - butler-gender-trouble
+    relations:
+      - taste
+      - criticism
+      - consensus
+  - id: sublime-and-limits
+    question: What happens when experience exceeds form?
+    texts:
+      - longinus-on-sublimity
+      - hume-standard-of-taste
+      - kant-critique-of-judgment
+      - burke-sublime-and-beautiful
+      - lessing-laocoon
+      - hegel-phenomenology-fine-art
+      - coleridge-statesmans-manual-biographia-literaria
+      - shelley-defence-poetry
+      - emerson-american-scholar-poet
+      - poe-philosophy-composition
+      - baudelaire-painter-modern-life
+      - nietzsche-truth-and-lying
+      - nietzsche-birth-of-tragedy
+      - freud-dreams-uncanny-fetishism
+      - jung-analytical-psychology-poetry
+    relations:
+      - sublimity
+      - affect
+      - limit
+  - id: media-and-form
+    question: How do media shape what thought can represent?
+    texts:
+      - aristotle-poetics-rhetoric
+      - horace-ars-poetica
+      - kant-critique-of-judgment
+      - lessing-laocoon
+      - wordsworth-lyrical-ballads-preface
+      - coleridge-statesmans-manual-biographia-literaria
+      - poe-philosophy-composition
+      - gautier-preface-mademoiselle-de-maupin
+      - baudelaire-painter-modern-life
+      - mallarme-crisis-poetry
+      - henry-james-art-fiction
+      - wilde-selected-critical-prose
+      - freud-dreams-uncanny-fetishism
+      - saussure-course-general-linguistics
+      - trotsky-literature-and-revolution
+      - woolf-room-of-ones-own
+      - lukacs-realism-in-the-balance
+      - eichenbaum-theory-formal-method
+      - eliot-tradition-individual-talent
+      - eliot-metaphysical-poets
+      - ransom-criticism-inc
+      - heidegger-language
+      - hurston-characteristics-negro-expression
+      - benjamin-work-of-art-mechanical-reproduction
+      - bakhtin-discourse-in-the-novel
+      - horkheimer-adorno-culture-industry
+      - bloom-anxiety-of-influence
+      - bourdieu-distinction
+      - jakobson-linguistics-and-poetics
+      - jakobson-two-aspects-language-aphasia
+      - lacan-agency-letter
+      - brooks-well-wrought-urn
+      - wimsatt-beardsley-affective-fallacy
+      - levi-strauss-tristes-tropiques
+      - austin-performative-utterances
+      - barthes-mythologies
+      - barthes-work-to-text
+      - de-man-semiology-rhetoric
+      - williams-marxism-literature
+      - deleuze-guattari-thousand-plateaus
+      - lyotard-defining-postmodern
+      - foucault-what-is-an-author
+      - iser-interaction-text-reader
+      - white-historical-text-literary-artifact
+      - baudrillard-precession-simulacra
+      - habermas-modernity-incomplete-project
+      - jameson-postmodernism-consumer-society
+      - vizenor-postindian-warriors
+      - mulvey-visual-pleasure-narrative-cinema
+      - baker-blues-ideology-afro-american-literature
+      - eagleton-literary-theory-introduction
+      - moulthrop-hypertext-laws-media
+    relations:
+      - medium
+      - form
+      - representation
+  - id: aesthetic-education-and-citizenship
+    question: What kind of citizen can education form?
+    texts:
+      - quintilian-institutio-oratoria
+      - christine-de-pizan-city-of-ladies
+      - sidney-defense-of-poesy
+      - schiller-aesthetic-education
+      - wollstonecraft-rights-woman
+      - stael-fictions-literature-social-institutions
+      - wordsworth-lyrical-ballads-preface
+      - coleridge-statesmans-manual-biographia-literaria
+      - emerson-american-scholar-poet
+      - marx-engels-selected-cultural-writings
+      - arnold-selected-critical-prose
+      - pater-renaissance
+      - wilde-selected-critical-prose
+      - du-bois-criteria-of-negro-art
+      - woolf-room-of-ones-own
+      - ransom-criticism-inc
+      - gramsci-formation-intellectuals
+      - hughes-negro-artist-racial-mountain
+      - sartre-what-is-literature
+      - beauvoir-second-sex
+      - althusser-letter-on-art
+      - althusser-ideology-state-apparatuses
+      - de-man-return-to-philology
+      - jauss-literary-history-challenge
+      - fanon-wretched-earth
+      - lyotard-defining-postmodern
+      - foucault-discipline-and-punish
+      - iser-interaction-text-reader
+      - hirsch-objective-interpretation
+      - habermas-public-sphere
+      - habermas-modernity-incomplete-project
+      - rich-compulsory-heterosexuality
+      - ohmann-shaping-of-a-canon
+      - hall-cultural-studies-theoretical-legacies
+      - smith-contingencies-of-value
+      - jameson-political-unconscious
+      - vizenor-postindian-warriors
+      - said-orientalism
+      - wittig-one-is-not-born-a-woman
+      - graff-taking-cover-in-coverage
+      - ngugi-liyong-owuor-anyumba-abolition-english-department
+      - tompkins-me-and-my-shadow
+      - kolodny-dancing-through-the-minefield
+      - fish-interpreting-the-variorum
+      - spivak-critique-postcolonial-reason
+      - anzaldua-borderlands-la-frontera
+      - eagleton-literary-theory-introduction
+      - christian-race-for-theory
+      - smith-toward-black-feminist-criticism
+      - johnson-melvilles-fist-execution-billy-budd
+      - zimmerman-what-has-never-been
+      - bhabha-commitment-to-theory
+      - davis-enforcing-normalcy
+      - gates-talking-black
+      - knapp-michaels-against-theory
+      - hooks-postmodern-blackness
+      - butler-gender-trouble
+      - moulthrop-hypertext-laws-media
+    relations:
+      - education
+      - freedom
+      - citizenship
+  - id: romantic-poetry-and-modernity
+    question: What can poetry do under modern social pressure?
+    texts:
+      - wordsworth-lyrical-ballads-preface
+      - coleridge-statesmans-manual-biographia-literaria
+      - peacock-four-ages-poetry
+      - shelley-defence-poetry
+      - emerson-american-scholar-poet
+      - poe-philosophy-composition
+      - gautier-preface-mademoiselle-de-maupin
+      - baudelaire-painter-modern-life
+      - pater-renaissance
+      - mallarme-crisis-poetry
+      - nietzsche-truth-and-lying
+      - nietzsche-birth-of-tragedy
+      - wilde-selected-critical-prose
+      - du-bois-criteria-of-negro-art
+      - jung-analytical-psychology-poetry
+      - woolf-room-of-ones-own
+      - lukacs-realism-in-the-balance
+      - eliot-tradition-individual-talent
+      - eliot-metaphysical-poets
+    relations:
+      - poetry
+      - modernity
+      - imagination
+  - id: art-utility-and-modern-life
+    question: What happens when art refuses usefulness?
+    texts:
+      - peacock-four-ages-poetry
+      - shelley-defence-poetry
+      - gautier-preface-mademoiselle-de-maupin
+      - baudelaire-painter-modern-life
+      - arnold-selected-critical-prose
+      - pater-renaissance
+      - wilde-selected-critical-prose
+      - du-bois-criteria-of-negro-art
+      - trotsky-literature-and-revolution
+      - woolf-room-of-ones-own
+      - lukacs-realism-in-the-balance
+      - eliot-tradition-individual-talent
+      - eliot-metaphysical-poets
+      - williams-marxism-literature
+      - fanon-wretched-earth
+      - ohmann-shaping-of-a-canon
+      - hall-cultural-studies-theoretical-legacies
+      - jameson-postmodernism-consumer-society
+    relations:
+      - utility
+      - aestheticism
+      - modernity
+  - id: labor-ideology-and-culture
+    question: How do work, institutions, and ideology shape culture?
+    texts:
+      - vico-new-science
+      - stael-fictions-literature-social-institutions
+      - marx-engels-selected-cultural-writings
+      - arnold-selected-critical-prose
+      - nietzsche-truth-and-lying
+      - freud-dreams-uncanny-fetishism
+      - saussure-course-general-linguistics
+      - du-bois-criteria-of-negro-art
+      - trotsky-literature-and-revolution
+      - woolf-room-of-ones-own
+      - lukacs-realism-in-the-balance
+      - eichenbaum-theory-formal-method
+      - ransom-criticism-inc
+      - gramsci-formation-intellectuals
+      - benjamin-work-of-art-mechanical-reproduction
+      - horkheimer-adorno-culture-industry
+      - wilson-marxism-and-literature
+      - bourdieu-distinction
+      - hughes-negro-artist-racial-mountain
+      - sartre-what-is-literature
+      - beauvoir-second-sex
+      - levi-strauss-tristes-tropiques
+      - barthes-mythologies
+      - althusser-letter-on-art
+      - althusser-ideology-state-apparatuses
+      - howe-history-novel
+      - williams-marxism-literature
+      - fanon-wretched-earth
+      - foucault-discipline-and-punish
+      - foucault-history-sexuality
+      - foucault-truth-and-power
+      - baudrillard-precession-simulacra
+      - habermas-public-sphere
+      - habermas-modernity-incomplete-project
+      - rich-compulsory-heterosexuality
+      - achebe-image-of-africa
+      - bourdieu-distinction
+      - ohmann-shaping-of-a-canon
+      - hall-cultural-studies-theoretical-legacies
+      - smith-contingencies-of-value
+      - jameson-political-unconscious
+      - jameson-postmodernism-consumer-society
+      - vizenor-postindian-warriors
+      - said-orientalism
+      - wittig-one-is-not-born-a-woman
+      - graff-taking-cover-in-coverage
+      - spivak-critique-postcolonial-reason
+      - anzaldua-borderlands-la-frontera
+      - baker-blues-ideology-afro-american-literature
+      - eagleton-literary-theory-introduction
+      - greenblatt-introduction-power-of-forms
+      - christian-race-for-theory
+      - haraway-manifesto-for-cyborgs
+      - smith-toward-black-feminist-criticism
+      - bordo-unbearable-weight
+      - bhabha-commitment-to-theory
+      - davis-enforcing-normalcy
+      - gates-talking-black
+      - sedgwick-between-men-epistemology-closet
+      - hebdige-subculture-meaning-style
+      - knapp-michaels-against-theory
+      - hooks-postmodern-blackness
+      - butler-gender-trouble
+      - moulthrop-hypertext-laws-media
+    relations:
+      - labor
+      - ideology
+      - institutions
+  - id: language-truth-and-fiction
+    question: How do language and form make worlds rather than merely report them?
+    texts:
+      - aristotle-poetics-rhetoric
+      - schleiermacher-hermeneutics
+      - poe-philosophy-composition
+      - mallarme-crisis-poetry
+      - henry-james-art-fiction
+      - nietzsche-truth-and-lying
+      - nietzsche-birth-of-tragedy
+      - wilde-selected-critical-prose
+      - freud-dreams-uncanny-fetishism
+      - saussure-course-general-linguistics
+      - du-bois-criteria-of-negro-art
+      - jung-analytical-psychology-poetry
+      - trotsky-literature-and-revolution
+      - woolf-room-of-ones-own
+      - lukacs-realism-in-the-balance
+      - eichenbaum-theory-formal-method
+      - eliot-tradition-individual-talent
+      - eliot-metaphysical-poets
+      - heidegger-language
+      - hurston-characteristics-negro-expression
+      - bakhtin-discourse-in-the-novel
+      - jakobson-linguistics-and-poetics
+      - jakobson-two-aspects-language-aphasia
+      - burke-kinds-of-criticism
+      - lacan-agency-letter
+      - lacan-signification-phallus
+      - brooks-well-wrought-urn
+      - wimsatt-beardsley-intentional-fallacy
+      - wimsatt-beardsley-affective-fallacy
+      - levi-strauss-tristes-tropiques
+      - austin-performative-utterances
+      - frye-archetypes-literature
+      - barthes-death-author
+      - barthes-work-to-text
+      - de-man-semiology-rhetoric
+      - de-man-return-to-philology
+      - jauss-literary-history-challenge
+      - deleuze-guattari-kafka-minor-literature
+      - deleuze-guattari-thousand-plateaus
+      - lyotard-defining-postmodern
+      - foucault-what-is-an-author
+      - foucault-truth-and-power
+      - iser-interaction-text-reader
+      - hirsch-objective-interpretation
+      - white-historical-text-literary-artifact
+      - baudrillard-precession-simulacra
+      - habermas-public-sphere
+      - habermas-modernity-incomplete-project
+      - rich-compulsory-heterosexuality
+      - achebe-image-of-africa
+      - bloom-anxiety-of-influence
+      - derrida-of-grammatology
+      - derrida-platos-pharmacy
+      - hall-cultural-studies-theoretical-legacies
+      - smith-contingencies-of-value
+      - jameson-political-unconscious
+      - vizenor-postindian-warriors
+      - said-orientalism
+      - cixous-laugh-of-the-medusa
+      - fish-interpreting-the-variorum
+      - todorov-structural-analysis-narrative
+      - allen-kochinnenako-in-academe
+      - butler-gender-trouble
+      - moulthrop-hypertext-laws-media
+    relations:
+      - language
+      - fiction
+      - truth
+
+research_tools:
+  - id: worldcat
+    name: WorldCat
+    url: https://www.worldcat.org/
+    use: edition-discovery
+  - id: internet-archive-texts
+    name: Internet Archive Texts
+    url: https://archive.org/details/texts
+    use: named-edition-inspection
+  - id: hathitrust
+    name: HathiTrust Digital Library
+    url: https://www.hathitrust.org/
+    use: named-edition-inspection
+  - id: project-gutenberg
+    name: Project Gutenberg
+    url: https://www.gutenberg.org/
+    use: public-domain-reading-copy-discovery
+  - id: standard-ebooks
+    name: Standard Ebooks
+    url: https://standardebooks.org/
+    use: public-domain-reading-copy-discovery
+  - id: wikisource
+    name: Wikisource
+    url: https://en.wikisource.org/
+    use: source-text-and-license-checking

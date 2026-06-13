@@ -1,0 +1,372 @@
+site_name: Alternative History
+site_description: A curated online reader in theory, criticism, historiography, and historical imagination.
+docs_dir: docs
+theme:
+  name: mkdocs
+extra_css:
+  - assets/stylesheets/alternative-history.css
+extra_javascript:
+  - assets/javascripts/workspace-search.js
+nav:
+  - Home: index.md
+  - Preface: preface.md
+  - Chapters:
+      - Start Here: chapters/00-start-here.md
+      - Methods: chapters/01-methods.md
+      - Rupture Points: chapters/02-rupture-points.md
+      - Erased Archives: chapters/03-erased-archives.md
+      - Counterfactual Method: chapters/04-counterfactual-method.md
+      - Memory and Myth: chapters/05-memory-and-myth.md
+  - Catalog:
+      - Texts: catalog/sources.md
+      - Thinkers: catalog/authors.md
+      - Constellations: catalog/constellations.md
+      - Historical Problems: catalog/events.md
+      - Excerpts: catalog/excerpts.md
+      - Bibliography: catalog/bibliography.md
+  - Workspace:
+      - Private Knowledge Base: workspace/index.md
+      - Workspace Search: workspace/search.md
+      - Reading Paths: workspace/reading-paths.md
+      - Norton Workspace Map: workspace/norton-map.md
+      - Norton Text Notes:
+          - Index: workspace/norton-texts/index.md
+          - Gorgias, Encomium of Helen: workspace/norton-texts/gorgias-encomium-helen.md
+          - Plato, Selected Dialogues: workspace/norton-texts/plato-selected-dialogues.md
+          - Aristotle, Poetics and Rhetoric: workspace/norton-texts/aristotle-poetics-rhetoric.md
+          - Horace, Ars Poetica: workspace/norton-texts/horace-ars-poetica.md
+          - Longinus, On Sublimity: workspace/norton-texts/longinus-on-sublimity.md
+          - Quintilian, Institutio Oratoria: workspace/norton-texts/quintilian-institutio-oratoria.md
+          - Plotinus, Selected Enneads: workspace/norton-texts/plotinus-enneads.md
+          - Augustine, On Christian Doctrine and The Trinity: workspace/norton-texts/augustine-on-christian-doctrine-trinity.md
+          - Macrobius, Commentary on the Dream of Scipio: workspace/norton-texts/macrobius-dream-scipio.md
+          - Hugh of St. Victor, The Didascalicon: workspace/norton-texts/hugh-didascalicon.md
+          - Maimonides, The Guide of the Perplexed: workspace/norton-texts/maimonides-guide-perplexed.md
+          - Geoffrey of Vinsauf, Poetria Nova: workspace/norton-texts/geoffrey-poetria-nova.md
+          - Thomas Aquinas, Summa Theologica: workspace/norton-texts/thomas-aquinas-summa-theologica.md
+          - Dante, Il Convivio and The Letter to Can Grande: workspace/norton-texts/dante-il-convivio-letter-can-grande.md
+          - Boccaccio, Genealogy of the Gentile Gods: workspace/norton-texts/boccaccio-genealogy-gentile-gods.md
+          - Christine de Pizan, The Book of the City of Ladies: workspace/norton-texts/christine-de-pizan-city-of-ladies.md
+          - Giraldi, Discourse on the Composition of Romances: workspace/norton-texts/giambattista-giraldi-composition-romances.md
+          - Du Bellay, The Defence and Illustration of the French Language: workspace/norton-texts/joachim-du-bellay-defense-french-language.md
+          - Ronsard, A Brief on the Art of French Poetry: workspace/norton-texts/pierre-de-ronsard-art-french-poetry.md
+          - Mazzoni, On the Defense of the Comedy of Dante: workspace/norton-texts/giacopo-mazzoni-defense-comedy-dante.md
+          - Sidney, The Defense of Poesy: workspace/norton-texts/sidney-defense-of-poesy.md
+          - Corneille, Of the Three Unities: workspace/norton-texts/corneille-three-unities.md
+          - Dryden, Selected Critical Prose: workspace/norton-texts/dryden-selected-critical-prose.md
+          - Behn, The Dutch Lover and The Lucky Chance: workspace/norton-texts/aphra-behn-dutch-lover-lucky-chance.md
+          - Vico, The New Science: workspace/norton-texts/vico-new-science.md
+          - Addison, The Spectator Essays: workspace/norton-texts/addison-spectator-essays.md
+          - Young, Conjectures on Original Composition: workspace/norton-texts/young-conjectures-original-composition.md
+          - Pope, An Essay on Criticism: workspace/norton-texts/pope-essay-on-criticism.md
+          - Johnson, Selected Critical Prose: workspace/norton-texts/johnson-selected-critical-prose.md
+          - Hume, Of the Standard of Taste: workspace/norton-texts/hume-standard-of-taste.md
+          - Kant, Critique of Judgment: workspace/norton-texts/kant-critique-of-judgment.md
+          - Burke, Sublime and Beautiful: workspace/norton-texts/burke-sublime-and-beautiful.md
+          - Lessing, Laocoon: workspace/norton-texts/lessing-laocoon.md
+          - Schiller, Aesthetic Education: workspace/norton-texts/schiller-aesthetic-education.md
+          - Wollstonecraft, Rights of Woman: workspace/norton-texts/wollstonecraft-rights-woman.md
+          - de Stael, Fictions and Literature: workspace/norton-texts/stael-fictions-literature-social-institutions.md
+          - Schleiermacher, Hermeneutics: workspace/norton-texts/schleiermacher-hermeneutics.md
+          - Hegel, Phenomenology and Fine Art: workspace/norton-texts/hegel-phenomenology-fine-art.md
+          - Wordsworth, Preface to Lyrical Ballads: workspace/norton-texts/wordsworth-lyrical-ballads-preface.md
+          - Coleridge, Statesman's Manual and Biographia: workspace/norton-texts/coleridge-statesmans-manual-biographia-literaria.md
+          - Peacock, Four Ages of Poetry: workspace/norton-texts/peacock-four-ages-poetry.md
+          - Shelley, Defence of Poetry: workspace/norton-texts/shelley-defence-poetry.md
+          - Emerson, American Scholar and The Poet: workspace/norton-texts/emerson-american-scholar-poet.md
+          - Poe, Philosophy of Composition: workspace/norton-texts/poe-philosophy-composition.md
+          - Gautier, Preface to Mademoiselle de Maupin: workspace/norton-texts/gautier-preface-mademoiselle-de-maupin.md
+          - Marx and Engels, Cultural and Historical Writings: workspace/norton-texts/marx-engels-selected-cultural-writings.md
+          - Baudelaire, Painter of Modern Life: workspace/norton-texts/baudelaire-painter-modern-life.md
+          - Arnold, Selected Critical Prose: workspace/norton-texts/arnold-selected-critical-prose.md
+          - Pater, Studies in the History of the Renaissance: workspace/norton-texts/pater-renaissance.md
+          - Mallarme, Crisis in Poetry: workspace/norton-texts/mallarme-crisis-poetry.md
+          - Henry James, The Art of Fiction: workspace/norton-texts/henry-james-art-fiction.md
+          - Nietzsche, On Truth and Lying: workspace/norton-texts/nietzsche-truth-and-lying.md
+          - Nietzsche, The Birth of Tragedy: workspace/norton-texts/nietzsche-birth-of-tragedy.md
+          - Wilde, Selected Critical Prose: workspace/norton-texts/wilde-selected-critical-prose.md
+          - Freud, Dreams, Uncanny, and Fetishism: workspace/norton-texts/freud-dreams-uncanny-fetishism.md
+          - Saussure, Course in General Linguistics: workspace/norton-texts/saussure-course-general-linguistics.md
+          - Du Bois, Criteria of Negro Art: workspace/norton-texts/du-bois-criteria-of-negro-art.md
+          - Jung, Analytical Psychology and Poetry: workspace/norton-texts/jung-analytical-psychology-poetry.md
+          - Trotsky, Literature and Revolution: workspace/norton-texts/trotsky-literature-and-revolution.md
+          - Woolf, A Room of One's Own: workspace/norton-texts/woolf-room-of-ones-own.md
+          - Lukacs, Realism in the Balance: workspace/norton-texts/lukacs-realism-in-the-balance.md
+          - Eichenbaum, The Theory of the Formal Method: workspace/norton-texts/eichenbaum-theory-formal-method.md
+          - Eliot, Tradition and the Individual Talent: workspace/norton-texts/eliot-tradition-individual-talent.md
+          - Eliot, The Metaphysical Poets: workspace/norton-texts/eliot-metaphysical-poets.md
+          - Ransom, Criticism, Inc.: workspace/norton-texts/ransom-criticism-inc.md
+          - Heidegger, Language: workspace/norton-texts/heidegger-language.md
+          - Gramsci, The Formation of the Intellectuals: workspace/norton-texts/gramsci-formation-intellectuals.md
+          - Hurston, Characteristics of Negro Expression: workspace/norton-texts/hurston-characteristics-negro-expression.md
+          - Hurston, What White Publishers Won't Print: workspace/norton-texts/hurston-what-white-publishers-wont-print.md
+          - Benjamin, The Work of Art in the Age of Mechanical Reproduction: workspace/norton-texts/benjamin-work-of-art-mechanical-reproduction.md
+          - Bakhtin, Discourse in the Novel: workspace/norton-texts/bakhtin-discourse-in-the-novel.md
+          - Horkheimer and Adorno, The Culture Industry: workspace/norton-texts/horkheimer-adorno-culture-industry.md
+          - Wilson, Marxism and Literature: workspace/norton-texts/wilson-marxism-and-literature.md
+          - Jakobson, Linguistics and Poetics: workspace/norton-texts/jakobson-linguistics-and-poetics.md
+          - Jakobson, Two Aspects of Language and Aphasia: workspace/norton-texts/jakobson-two-aspects-language-aphasia.md
+          - Burke, Kinds of Criticism: workspace/norton-texts/burke-kinds-of-criticism.md
+          - Lacan, The Mirror Stage: workspace/norton-texts/lacan-mirror-stage.md
+          - Lacan, The Agency of the Letter: workspace/norton-texts/lacan-agency-letter.md
+          - Lacan, The Signification of the Phallus: workspace/norton-texts/lacan-signification-phallus.md
+          - Hughes, The Negro Artist and the Racial Mountain: workspace/norton-texts/hughes-negro-artist-racial-mountain.md
+          - Poulet, Phenomenology of Reading: workspace/norton-texts/poulet-phenomenology-reading.md
+          - Sartre, What Is Literature?: workspace/norton-texts/sartre-what-is-literature.md
+          - Brooks, The Well Wrought Urn: workspace/norton-texts/brooks-well-wrought-urn.md
+          - Wimsatt and Beardsley, The Intentional Fallacy: workspace/norton-texts/wimsatt-beardsley-intentional-fallacy.md
+          - Wimsatt and Beardsley, The Affective Fallacy: workspace/norton-texts/wimsatt-beardsley-affective-fallacy.md
+          - Beauvoir, The Second Sex: workspace/norton-texts/beauvoir-second-sex.md
+          - Levi-Strauss, Tristes Tropiques: workspace/norton-texts/levi-strauss-tristes-tropiques.md
+          - Austin, Performative Utterances: workspace/norton-texts/austin-performative-utterances.md
+          - Frye, The Archetypes of Literature: workspace/norton-texts/frye-archetypes-literature.md
+          - Barthes, Mythologies: workspace/norton-texts/barthes-mythologies.md
+          - Barthes, The Death of the Author: workspace/norton-texts/barthes-death-author.md
+          - Barthes, Work to Text: workspace/norton-texts/barthes-work-to-text.md
+          - Althusser, A Letter on Art: workspace/norton-texts/althusser-letter-on-art.md
+          - Althusser, Ideology and Ideological State Apparatuses: workspace/norton-texts/althusser-ideology-state-apparatuses.md
+          - de Man, Semiology and Rhetoric: workspace/norton-texts/de-man-semiology-rhetoric.md
+          - de Man, The Return to Philology: workspace/norton-texts/de-man-return-to-philology.md
+          - Howe, History and the Novel: workspace/norton-texts/howe-history-novel.md
+          - Jauss, Literary History as a Challenge to Literary Theory: workspace/norton-texts/jauss-literary-history-challenge.md
+          - Williams, Marxism and Literature: workspace/norton-texts/williams-marxism-literature.md
+          - Fanon, The Wretched of the Earth: workspace/norton-texts/fanon-wretched-earth.md
+          - "Deleuze and Guattari, Kafka: Toward a Minor Literature": workspace/norton-texts/deleuze-guattari-kafka-minor-literature.md
+          - "Deleuze and Guattari, A Thousand Plateaus": workspace/norton-texts/deleuze-guattari-thousand-plateaus.md
+          - Lyotard, Defining the Postmodern: workspace/norton-texts/lyotard-defining-postmodern.md
+          - "Foucault, What Is an Author?": workspace/norton-texts/foucault-what-is-an-author.md
+          - Foucault, Discipline and Punish: workspace/norton-texts/foucault-discipline-and-punish.md
+          - Foucault, The History of Sexuality: workspace/norton-texts/foucault-history-sexuality.md
+          - Foucault, Truth and Power: workspace/norton-texts/foucault-truth-and-power.md
+          - Iser, Interaction Between Text and Reader: workspace/norton-texts/iser-interaction-text-reader.md
+          - Hirsch, Objective Interpretation: workspace/norton-texts/hirsch-objective-interpretation.md
+          - White, The Historical Text as Literary Artifact: workspace/norton-texts/white-historical-text-literary-artifact.md
+          - Baudrillard, The Precession of Simulacra: workspace/norton-texts/baudrillard-precession-simulacra.md
+          - Habermas, The Structural Transformation of the Public Sphere: workspace/norton-texts/habermas-public-sphere.md
+          - Habermas, Modernity - An Incomplete Project: workspace/norton-texts/habermas-modernity-incomplete-project.md
+          - Rich, Compulsory Heterosexuality and Lesbian Existence: workspace/norton-texts/rich-compulsory-heterosexuality.md
+          - Achebe, An Image of Africa: workspace/norton-texts/achebe-image-of-africa.md
+          - Bloom, The Anxiety of Influence: workspace/norton-texts/bloom-anxiety-of-influence.md
+          - Bourdieu, Distinction: workspace/norton-texts/bourdieu-distinction.md
+          - Derrida, Of Grammatology: workspace/norton-texts/derrida-of-grammatology.md
+          - "Derrida, Plato's Pharmacy": workspace/norton-texts/derrida-platos-pharmacy.md
+          - "Ohmann, The Shaping of a Canon": workspace/norton-texts/ohmann-shaping-of-a-canon.md
+          - Hall, Cultural Studies and Its Theoretical Legacies: workspace/norton-texts/hall-cultural-studies-theoretical-legacies.md
+          - Smith, Contingencies of Value: workspace/norton-texts/smith-contingencies-of-value.md
+          - "Jameson, The Political Unconscious": workspace/norton-texts/jameson-political-unconscious.md
+          - Jameson, Postmodernism and Consumer Society: workspace/norton-texts/jameson-postmodernism-consumer-society.md
+          - Vizenor, Postindian Warriors: workspace/norton-texts/vizenor-postindian-warriors.md
+          - Said, Orientalism: workspace/norton-texts/said-orientalism.md
+          - Wittig, One Is Not Born a Woman: workspace/norton-texts/wittig-one-is-not-born-a-woman.md
+          - "Gilbert and Gubar, The Madwoman in the Attic": workspace/norton-texts/gilbert-gubar-madwoman-in-the-attic.md
+          - Cixous, The Laugh of the Medusa: workspace/norton-texts/cixous-laugh-of-the-medusa.md
+          - Graff, Taking Cover in Coverage: workspace/norton-texts/graff-taking-cover-in-coverage.md
+          - Fish, Interpreting the Variorum: workspace/norton-texts/fish-interpreting-the-variorum.md
+          - "Ngugi, Liyong, and Owuor-Anyumba, On the Abolition of the English Department": workspace/norton-texts/ngugi-liyong-owuor-anyumba-abolition-english-department.md
+          - Todorov, Structural Analysis of Narrative: workspace/norton-texts/todorov-structural-analysis-narrative.md
+          - Allen, Kochinnenako in Academe: workspace/norton-texts/allen-kochinnenako-in-academe.md
+          - Tompkins, Me and My Shadow: workspace/norton-texts/tompkins-me-and-my-shadow.md
+          - Kolodny, Dancing through the Minefield: workspace/norton-texts/kolodny-dancing-through-the-minefield.md
+          - Kristeva, Revolution in Poetic Language: workspace/norton-texts/kristeva-revolution-in-poetic-language.md
+          - Mulvey, Visual Pleasure and Narrative Cinema: workspace/norton-texts/mulvey-visual-pleasure-narrative-cinema.md
+          - Spivak, A Critique of Postcolonial Reason: workspace/norton-texts/spivak-critique-postcolonial-reason.md
+          - "Anzaldua, Borderlands/La Frontera: The New Mestiza": workspace/norton-texts/anzaldua-borderlands-la-frontera.md
+          - Baker, Blues, Ideology, and Afro-American Literature: workspace/norton-texts/baker-blues-ideology-afro-american-literature.md
+          - "Eagleton, Literary Theory: An Introduction": workspace/norton-texts/eagleton-literary-theory-introduction.md
+          - Greenblatt, Introduction to The Power of Forms: workspace/norton-texts/greenblatt-introduction-power-of-forms.md
+          - Christian, The Race for Theory: workspace/norton-texts/christian-race-for-theory.md
+          - Haraway, A Manifesto for Cyborgs: workspace/norton-texts/haraway-manifesto-for-cyborgs.md
+          - Smith, Toward a Black Feminist Criticism: workspace/norton-texts/smith-toward-black-feminist-criticism.md
+          - "Johnson, Melville's Fist: The Execution of Billy Budd": workspace/norton-texts/johnson-melvilles-fist-execution-billy-budd.md
+          - "Zimmerman, What Has Never Been": workspace/norton-texts/zimmerman-what-has-never-been.md
+          - "Bordo, Unbearable Weight": workspace/norton-texts/bordo-unbearable-weight.md
+          - Bhabha, The Commitment to Theory: workspace/norton-texts/bhabha-commitment-to-theory.md
+          - "Davis, Enforcing Normalcy": workspace/norton-texts/davis-enforcing-normalcy.md
+          - Gates, Talking Black: workspace/norton-texts/gates-talking-black.md
+          - Sedgwick, Between Men and Epistemology of the Closet: workspace/norton-texts/sedgwick-between-men-epistemology-closet.md
+          - "Hebdige, Subculture: The Meaning of Style": workspace/norton-texts/hebdige-subculture-meaning-style.md
+          - Knapp and Michaels, Against Theory: workspace/norton-texts/knapp-michaels-against-theory.md
+          - hooks, Postmodern Blackness: workspace/norton-texts/hooks-postmodern-blackness.md
+          - Butler, Gender Trouble: workspace/norton-texts/butler-gender-trouble.md
+          - "Moulthrop, You Say You Want a Revolution?": workspace/norton-texts/moulthrop-hypertext-laws-media.md
+      - Thinker Notes:
+          - Index: workspace/thinkers/index.md
+          - Gorgias of Leontini: workspace/thinkers/gorgias-of-leontini.md
+          - Plato: workspace/thinkers/plato.md
+          - Aristotle: workspace/thinkers/aristotle.md
+          - Horace: workspace/thinkers/horace.md
+          - Longinus: workspace/thinkers/longinus.md
+          - Quintilian: workspace/thinkers/quintilian.md
+          - Plotinus: workspace/thinkers/plotinus.md
+          - Augustine of Hippo: workspace/thinkers/augustine-of-hippo.md
+          - Macrobius: workspace/thinkers/macrobius.md
+          - Hugh of St. Victor: workspace/thinkers/hugh-of-st-victor.md
+          - Moses Maimonides: workspace/thinkers/moses-maimonides.md
+          - Geoffrey of Vinsauf: workspace/thinkers/geoffrey-of-vinsauf.md
+          - Thomas Aquinas: workspace/thinkers/thomas-aquinas.md
+          - Dante Alighieri: workspace/thinkers/dante-alighieri.md
+          - Giovanni Boccaccio: workspace/thinkers/giovanni-boccaccio.md
+          - Christine de Pizan: workspace/thinkers/christine-de-pizan.md
+          - Giambattista Giraldi: workspace/thinkers/giambattista-giraldi.md
+          - Joachim du Bellay: workspace/thinkers/joachim-du-bellay.md
+          - Pierre de Ronsard: workspace/thinkers/pierre-de-ronsard.md
+          - Giacopo Mazzoni: workspace/thinkers/giacopo-mazzoni.md
+          - Sir Philip Sidney: workspace/thinkers/sir-philip-sidney.md
+          - Pierre Corneille: workspace/thinkers/pierre-corneille.md
+          - John Dryden: workspace/thinkers/john-dryden.md
+          - Aphra Behn: workspace/thinkers/aphra-behn.md
+          - Giambattista Vico: workspace/thinkers/giambattista-vico.md
+          - Joseph Addison: workspace/thinkers/joseph-addison.md
+          - Edward Young: workspace/thinkers/edward-young.md
+          - Alexander Pope: workspace/thinkers/alexander-pope.md
+          - Samuel Johnson: workspace/thinkers/samuel-johnson.md
+          - David Hume: workspace/thinkers/david-hume.md
+          - Immanuel Kant: workspace/thinkers/immanuel-kant.md
+          - Edmund Burke: workspace/thinkers/edmund-burke.md
+          - Gotthold Ephraim Lessing: workspace/thinkers/gotthold-ephraim-lessing.md
+          - Friedrich Schiller: workspace/thinkers/friedrich-schiller.md
+          - Mary Wollstonecraft: workspace/thinkers/mary-wollstonecraft.md
+          - Germaine de Stael: workspace/thinkers/germaine-de-stael.md
+          - Friedrich Schleiermacher: workspace/thinkers/friedrich-schleiermacher.md
+          - Georg Wilhelm Friedrich Hegel: workspace/thinkers/georg-wilhelm-friedrich-hegel.md
+          - William Wordsworth: workspace/thinkers/william-wordsworth.md
+          - Samuel Taylor Coleridge: workspace/thinkers/samuel-taylor-coleridge.md
+          - Thomas Love Peacock: workspace/thinkers/thomas-love-peacock.md
+          - Percy Bysshe Shelley: workspace/thinkers/percy-bysshe-shelley.md
+          - Ralph Waldo Emerson: workspace/thinkers/ralph-waldo-emerson.md
+          - Edgar Allan Poe: workspace/thinkers/edgar-allan-poe.md
+          - Theophile Gautier: workspace/thinkers/theophile-gautier.md
+          - Karl Marx and Friedrich Engels: workspace/thinkers/karl-marx-and-friedrich-engels.md
+          - Charles Baudelaire: workspace/thinkers/charles-baudelaire.md
+          - Matthew Arnold: workspace/thinkers/matthew-arnold.md
+          - Walter Pater: workspace/thinkers/walter-pater.md
+          - Stephane Mallarme: workspace/thinkers/stephane-mallarme.md
+          - Henry James: workspace/thinkers/henry-james.md
+          - Friedrich Nietzsche: workspace/thinkers/friedrich-nietzsche.md
+          - Oscar Wilde: workspace/thinkers/oscar-wilde.md
+          - Sigmund Freud: workspace/thinkers/sigmund-freud.md
+          - Ferdinand de Saussure: workspace/thinkers/ferdinand-de-saussure.md
+          - W. E. B. Du Bois: workspace/thinkers/web-du-bois.md
+          - Carl Gustav Jung: workspace/thinkers/carl-gustav-jung.md
+          - Leon Trotsky: workspace/thinkers/leon-trotsky.md
+          - Virginia Woolf: workspace/thinkers/virginia-woolf.md
+          - Gyorgy Lukacs: workspace/thinkers/gyorgy-lukacs.md
+          - Boris Eichenbaum: workspace/thinkers/boris-eichenbaum.md
+          - T. S. Eliot: workspace/thinkers/t-s-eliot.md
+          - John Crowe Ransom: workspace/thinkers/john-crowe-ransom.md
+          - Martin Heidegger: workspace/thinkers/martin-heidegger.md
+          - Antonio Gramsci: workspace/thinkers/antonio-gramsci.md
+          - Zora Neale Hurston: workspace/thinkers/zora-neale-hurston.md
+          - Walter Benjamin: workspace/thinkers/walter-benjamin.md
+          - Mikhail M. Bakhtin: workspace/thinkers/mikhail-bakhtin.md
+          - Max Horkheimer and Theodor W. Adorno: workspace/thinkers/max-horkheimer-and-theodor-w-adorno.md
+          - Edmund Wilson: workspace/thinkers/edmund-wilson.md
+          - Roman Jakobson: workspace/thinkers/roman-jakobson.md
+          - Kenneth Burke: workspace/thinkers/kenneth-burke.md
+          - Jacques Lacan: workspace/thinkers/jacques-lacan.md
+          - Langston Hughes: workspace/thinkers/langston-hughes.md
+          - Georges Poulet: workspace/thinkers/georges-poulet.md
+          - Jean-Paul Sartre: workspace/thinkers/jean-paul-sartre.md
+          - Cleanth Brooks: workspace/thinkers/cleanth-brooks.md
+          - William K. Wimsatt Jr. and Monroe C. Beardsley: workspace/thinkers/william-k-wimsatt-jr-and-monroe-c-beardsley.md
+          - Simone de Beauvoir: workspace/thinkers/simone-de-beauvoir.md
+          - Claude Levi-Strauss: workspace/thinkers/claude-levi-strauss.md
+          - J. L. Austin: workspace/thinkers/j-l-austin.md
+          - Northrop Frye: workspace/thinkers/northrop-frye.md
+          - Roland Barthes: workspace/thinkers/roland-barthes.md
+          - Louis Althusser: workspace/thinkers/louis-althusser.md
+          - Paul de Man: workspace/thinkers/paul-de-man.md
+          - Irving Howe: workspace/thinkers/irving-howe.md
+          - Hans Robert Jauss: workspace/thinkers/hans-robert-jauss.md
+          - Raymond Williams: workspace/thinkers/raymond-williams.md
+          - Frantz Fanon: workspace/thinkers/frantz-fanon.md
+          - Gilles Deleuze and Felix Guattari: workspace/thinkers/gilles-deleuze-and-felix-guattari.md
+          - Jean-Francois Lyotard: workspace/thinkers/jean-francois-lyotard.md
+          - Michel Foucault: workspace/thinkers/michel-foucault.md
+          - Wolfgang Iser: workspace/thinkers/wolfgang-iser.md
+          - E. D. Hirsch Jr.: workspace/thinkers/e-d-hirsch-jr.md
+          - Hayden White: workspace/thinkers/hayden-white.md
+          - Jean Baudrillard: workspace/thinkers/jean-baudrillard.md
+          - Jurgen Habermas: workspace/thinkers/jurgen-habermas.md
+          - Adrienne Rich: workspace/thinkers/adrienne-rich.md
+          - Chinua Achebe: workspace/thinkers/chinua-achebe.md
+          - Harold Bloom: workspace/thinkers/harold-bloom.md
+          - Pierre Bourdieu: workspace/thinkers/pierre-bourdieu.md
+          - Jacques Derrida: workspace/thinkers/jacques-derrida.md
+          - Richard Ohmann: workspace/thinkers/richard-ohmann.md
+          - Stuart Hall: workspace/thinkers/stuart-hall.md
+          - Barbara Herrnstein Smith: workspace/thinkers/barbara-herrnstein-smith.md
+          - Fredric Jameson: workspace/thinkers/fredric-jameson.md
+          - Gerald Vizenor: workspace/thinkers/gerald-vizenor.md
+          - Edward W. Said: workspace/thinkers/edward-w-said.md
+          - Monique Wittig: workspace/thinkers/monique-wittig.md
+          - Sandra M. Gilbert and Susan Gubar: workspace/thinkers/sandra-m-gilbert-and-susan-gubar.md
+          - Helene Cixous: workspace/thinkers/helene-cixous.md
+          - Gerald Graff: workspace/thinkers/gerald-graff.md
+          - Stanley E. Fish: workspace/thinkers/stanley-e-fish.md
+          - Ngugi wa Thiong'o, Taban Lo Liyong, and Henry Owuor-Anyumba: workspace/thinkers/ngugi-liyong-and-owuor-anyumba.md
+          - Tzvetan Todorov: workspace/thinkers/tzvetan-todorov.md
+          - Paula Gunn Allen: workspace/thinkers/paula-gunn-allen.md
+          - Jane Tompkins: workspace/thinkers/jane-tompkins.md
+          - Annette Kolodny: workspace/thinkers/annette-kolodny.md
+          - Julia Kristeva: workspace/thinkers/julia-kristeva.md
+          - Laura Mulvey: workspace/thinkers/laura-mulvey.md
+          - Gayatri Chakravorty Spivak: workspace/thinkers/gayatri-chakravorty-spivak.md
+          - Gloria Anzaldua: workspace/thinkers/gloria-anzaldua.md
+          - Houston A. Baker Jr.: workspace/thinkers/houston-a-baker-jr.md
+          - Terry Eagleton: workspace/thinkers/terry-eagleton.md
+          - Stephen Greenblatt: workspace/thinkers/stephen-greenblatt.md
+          - Barbara Christian: workspace/thinkers/barbara-christian.md
+          - Donna Haraway: workspace/thinkers/donna-haraway.md
+          - Barbara Smith: workspace/thinkers/barbara-smith.md
+          - Barbara Johnson: workspace/thinkers/barbara-johnson.md
+          - Bonnie Zimmerman: workspace/thinkers/bonnie-zimmerman.md
+          - Susan Bordo: workspace/thinkers/susan-bordo.md
+          - Homi K. Bhabha: workspace/thinkers/homi-k-bhabha.md
+          - Lennard J. Davis: workspace/thinkers/lennard-j-davis.md
+          - Henry Louis Gates Jr.: workspace/thinkers/henry-louis-gates-jr.md
+          - Eve Kosofsky Sedgwick: workspace/thinkers/eve-kosofsky-sedgwick.md
+          - Dick Hebdige: workspace/thinkers/dick-hebdige.md
+          - Steven Knapp and Walter Benn Michaels: workspace/thinkers/steven-knapp-and-walter-benn-michaels.md
+          - bell hooks: workspace/thinkers/bell-hooks.md
+          - Judith Butler: workspace/thinkers/judith-butler.md
+          - Stuart Moulthrop: workspace/thinkers/stuart-moulthrop.md
+      - Passage Notes:
+          - Index: workspace/passages/index.md
+          - Speech As Force: workspace/passages/gorgias-speech-as-force.md
+          - Helen And Blame: workspace/passages/gorgias-helen-and-blame.md
+          - Persuasion And Belief: workspace/passages/gorgias-persuasion-and-belief.md
+      - Rhetoric And Force: workspace/rhetoric-and-force.md
+      - Poetry And Judgment: workspace/poetry-and-judgment.md
+      - Signs And Reading: workspace/signs-and-reading.md
+      - Beauty And Ascent: workspace/beauty-and-ascent.md
+      - Commentary And Afterlife: workspace/commentary-and-afterlife.md
+      - Education And Civic Life: workspace/education-and-civic-life.md
+      - Vernacular And Institution: workspace/vernacular-and-institution.md
+      - Theater And Public Judgment: workspace/theater-and-public-judgment.md
+      - Authorship And Authority: workspace/authorship-and-authority.md
+      - Taste And Standards: workspace/taste-and-standards.md
+      - Sublime And Limits: workspace/sublime-and-limits.md
+      - Media And Form: workspace/media-and-form.md
+      - Aesthetic Education And Citizenship: workspace/aesthetic-education-and-citizenship.md
+      - Romantic Poetry And Modernity: workspace/romantic-poetry-and-modernity.md
+      - Art Utility And Modern Life: workspace/art-utility-and-modern-life.md
+      - Labor Ideology And Culture: workspace/labor-ideology-and-culture.md
+      - Language Truth And Fiction: workspace/language-truth-and-fiction.md
+      - Page Anatomy: workspace/page-anatomy.md
+      - Gorgias Text Note: workspace/gorgias-encomium-helen.md
+  - Project Notes:
+      - Editorial Policy: _meta/editorial-policy.md
+      - Rights and Sourcing: _meta/rights-and-sourcing.md
+      - Style Guide: _meta/style-guide.md
+      - Template Contract: _meta/template-contract.md
+      - PDF Workflow: _meta/pdf-to-author-markdown-workflow.md
+      - Extraction Status: _meta/extraction-status.md
+      - Review Dashboard: _meta/review-dashboard.md
+      - Research Queue: _meta/research-queue.md
+      - Publishing: _meta/publishing.md
+markdown_extensions:
+  - toc:
+      permalink: true
+  - tables
+  - footnotes
