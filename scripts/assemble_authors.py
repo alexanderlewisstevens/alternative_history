@@ -27,6 +27,7 @@ from validate_records import validate_file
 
 SCRIPT_VERSION = "2"
 CONFIDENCE_RANK = {"low": 0, "medium": 1, "high": 2}
+EXCLUDED_PAGE_KINDS = {"blank", "front_matter", "table_of_contents", "index_appendix"}
 
 
 def read_classifications(paths: dict[str, Path]) -> dict[int, dict[str, Any]]:
@@ -79,6 +80,11 @@ def assembly_group(record: dict[str, Any]) -> tuple[str, str]:
 def group_records(records: list[dict[str, Any]]) -> dict[str, list[dict[str, Any]]]:
     grouped: dict[str, list[dict[str, Any]]] = defaultdict(list)
     for record in records:
+        classification = record.get("classification", {})
+        if classification.get("include_in_author_assembly") is False:
+            continue
+        if classification.get("page_kind") in EXCLUDED_PAGE_KINDS:
+            continue
         author_slug, _author_name = assembly_group(record)
         grouped[author_slug].append(record)
     return dict(grouped)

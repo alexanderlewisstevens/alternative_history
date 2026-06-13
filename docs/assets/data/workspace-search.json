@@ -4587,9 +4587,9 @@
       "id": "text:sidney-defense-of-poesy",
       "kind": "text",
       "review_pressure": 39,
-      "search_text": "the defense of poesy sir philip sidney; core-text-candidate; pages 365-404; 39 review rows. sir philip sidney sidney-defense-of-poesy edition-review-needed aesthetic-education-and-citizenship authorship-and-authority civic-formation education education-and-civic-life poetry poetry-and-judgment rhetoric taste-and-standards vernacular-and-institution aesthetic-education-and-citizenship authorship-and-authority education-and-civic-life poetry-and-judgment taste-and-standards vernacular-and-institution",
+      "search_text": "the defense of poesy sir philip sidney; core-text-candidate; pages 365-403; 39 review rows. sir philip sidney sidney-defense-of-poesy edition-review-needed aesthetic-education-and-citizenship authorship-and-authority civic-formation education education-and-civic-life poetry poetry-and-judgment rhetoric taste-and-standards vernacular-and-institution aesthetic-education-and-citizenship authorship-and-authority education-and-civic-life poetry-and-judgment taste-and-standards vernacular-and-institution",
       "status": "edition-review-needed",
-      "summary": "Sir Philip Sidney; core-text-candidate; pages 365-404; 39 review rows.",
+      "summary": "Sir Philip Sidney; core-text-candidate; pages 365-403; 39 review rows.",
       "tags": [
         "aesthetic-education-and-citizenship",
         "authorship-and-authority",
@@ -5343,9 +5343,9 @@
       "id": "text:coleridge-statesmans-manual-biographia-literaria",
       "kind": "text",
       "review_pressure": 13,
-      "search_text": "the statesman's manual and biographia literaria samuel taylor coleridge; core-text-candidate; pages 710-723; 13 review rows. samuel taylor coleridge coleridge-statesmans-manual-biographia-literaria edition-review-needed aesthetic-education-and-citizenship beauty-and-ascent commentary-and-afterlife education-and-civic-life imagination media-and-form philosophy poetry poetry-and-judgment romantic-poetry-and-modernity signs-and-reading sublime-and-limits symbol taste-and-standards aesthetic-education-and-citizenship beauty-and-ascent commentary-and-afterlife education-and-civic-life media-and-form poetry-and-judgment romantic-poetry-and-modernity signs-and-reading sublime-and-limits taste-and-standards",
+      "search_text": "the statesman's manual and biographia literaria samuel taylor coleridge; core-text-candidate; pages 711-723; 13 review rows. samuel taylor coleridge coleridge-statesmans-manual-biographia-literaria edition-review-needed aesthetic-education-and-citizenship beauty-and-ascent commentary-and-afterlife education-and-civic-life imagination media-and-form philosophy poetry poetry-and-judgment romantic-poetry-and-modernity signs-and-reading sublime-and-limits symbol taste-and-standards aesthetic-education-and-citizenship beauty-and-ascent commentary-and-afterlife education-and-civic-life media-and-form poetry-and-judgment romantic-poetry-and-modernity signs-and-reading sublime-and-limits taste-and-standards",
       "status": "edition-review-needed",
-      "summary": "Samuel Taylor Coleridge; core-text-candidate; pages 710-723; 13 review rows.",
+      "summary": "Samuel Taylor Coleridge; core-text-candidate; pages 711-723; 13 review rows.",
       "tags": [
         "aesthetic-education-and-citizenship",
         "beauty-and-ascent",
@@ -5891,10 +5891,10 @@
       ],
       "id": "text:moulthrop-hypertext-laws-media",
       "kind": "text",
-      "review_pressure": 56,
-      "search_text": "you say you want a revolution? hypertext and the laws of media stuart moulthrop; core-text-candidate; pages 2546-2603; 56 review rows. stuart moulthrop moulthrop-hypertext-laws-media edition-review-needed aesthetic-education-and-citizenship commentary-and-afterlife digital-culture education-and-civic-life hypertext labor-ideology-and-culture language-truth-and-fiction literacy media-and-form media-theory signs-and-reading aesthetic-education-and-citizenship commentary-and-afterlife education-and-civic-life labor-ideology-and-culture language-truth-and-fiction media-and-form signs-and-reading",
+      "review_pressure": 109,
+      "search_text": "you say you want a revolution? hypertext and the laws of media stuart moulthrop; core-text-candidate; pages 2546-2568; 109 review rows. stuart moulthrop moulthrop-hypertext-laws-media edition-review-needed aesthetic-education-and-citizenship commentary-and-afterlife digital-culture education-and-civic-life hypertext labor-ideology-and-culture language-truth-and-fiction literacy media-and-form media-theory signs-and-reading aesthetic-education-and-citizenship commentary-and-afterlife education-and-civic-life labor-ideology-and-culture language-truth-and-fiction media-and-form signs-and-reading",
       "status": "edition-review-needed",
-      "summary": "Stuart Moulthrop; core-text-candidate; pages 2546-2603; 56 review rows.",
+      "summary": "Stuart Moulthrop; core-text-candidate; pages 2546-2568; 109 review rows.",
       "tags": [
         "aesthetic-education-and-citizenship",
         "commentary-and-afterlife",
@@ -9628,7 +9628,7 @@
       ],
       "id": "thinker:stuart-moulthrop",
       "kind": "thinker",
-      "review_pressure": 56,
+      "review_pressure": 109,
       "search_text": "stuart moulthrop 1 text node(s); moulthrop-hypertext-laws-media. stuart moulthrop  generated private workspace note aesthetic-education-and-citizenship commentary-and-afterlife digital-culture education-and-civic-life hypertext labor-ideology-and-culture language-truth-and-fiction literacy media-and-form media-theory signs-and-reading aesthetic-education-and-citizenship commentary-and-afterlife education-and-civic-life labor-ideology-and-culture language-truth-and-fiction media-and-form signs-and-reading",
       "status": "generated private workspace note",
       "summary": "1 text node(s); moulthrop-hypertext-laws-media.",
@@ -10815,8 +10815,8 @@
       "bell hooks": 2
     }
   },
-  "generated_at": "2026-06-13T07:19:10Z",
-  "git_commit": "e8608c4",
+  "generated_at": "2026-06-13T07:25:15Z",
+  "git_commit": "0a93b4d",
   "script_version": "1",
   "source_id": "norton-theory-criticism"
 }

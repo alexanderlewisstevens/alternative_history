@@ -40,9 +40,9 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Signal | Value |
 | --- | --- |
-| Page kinds | index_appendix: 33<br>excerpt: 21<br>author_intro: 2 |
-| Review rows | 56 |
-| Review reasons | back_matter: 33<br>running_head_differs_from_author_context: 33<br>selected_bibliography: 33<br>mixed_bibliography_and_work_title: 23<br>transition_from_previous_author: 2 |
+| Page kinds | index_appendix: 86<br>excerpt: 21<br>author_intro: 2 |
+| Review rows | 109 |
+| Review reasons | back_matter: 86<br>subject_index: 53<br>author_title_index: 33<br>selected_bibliography: 33<br>mixed_bibliography_and_work_title: 23 |
 
 ## Passage Queue
 
@@ -93,8 +93,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T07:19:00Z` |
-| Git commit | `e8608c4` |
+| Generated at | `2026-06-13T07:25:05Z` |
+| Git commit | `0a93b4d` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/stuart-moulthrop.md` |
 

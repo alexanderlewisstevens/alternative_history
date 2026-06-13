@@ -90,8 +90,8 @@ This note turns the current Norton chunk for Ngugi wa Thiong&#x27;o, Taban Lo Li
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/ngugi-liyong-and-owuor-anyumba.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T07:19:06Z` |
-| Git commit | `e8608c4` |
+| Generated at | `2026-06-13T07:25:11Z` |
+| Git commit | `0a93b4d` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/ngugi-liyong-owuor-anyumba-abolition-english-department.md` |
 

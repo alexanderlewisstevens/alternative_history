@@ -93,8 +93,8 @@ This note turns the current Norton chunk for Houston A. Baker Jr. into a navigab
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/houston-a-baker-jr.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T07:19:07Z` |
-| Git commit | `e8608c4` |
+| Generated at | `2026-06-13T07:25:11Z` |
+| Git commit | `0a93b4d` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/baker-blues-ideology-afro-american-literature.md` |
 

@@ -21,7 +21,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">General Review</div>
-  <div class="ah-metric-value">1426</div>
+  <div class="ah-metric-value">1554</div>
 </div>
 </div>
 
@@ -53,10 +53,10 @@ This is the editorial queue for restricted extraction work. It is generated from
   <p><strong>Start:</strong> <code>74</code>, <code>98</code>, <code>99</code>, <code>126</code>, <code>185</code>, <code>190</code>, <code>191</code>, <code>192</code>, <code>194</code>, <code>204</code>, <code>213</code>, <code>218</code> +60 more</p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">1426 pages</div>
+  <div class="ah-review-card-kicker">1554 pages</div>
   <h3>General Review</h3>
   <p>Resolve remaining template or classification questions.</p>
-  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +1414 more</p>
+  <p><strong>Start:</strong> <code>3</code>, <code>4</code>, <code>5</code>, <code>6</code>, <code>7</code>, <code>8</code>, <code>9</code>, <code>10</code>, <code>11</code>, <code>12</code>, <code>13</code>, <code>14</code> +1542 more</p>
 </section>
 </div>
 
@@ -72,11 +72,11 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Field | Value |
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
-| Classified source pages | `71-2607` |
-| Review queue rows | `2305` |
+| Classified source pages | `1-2668` |
+| Review queue rows | `2433` |
 | Review queue file | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
-| Generated at | `2026-06-13T07:18:56Z` |
-| Git commit | `e8608c4` |
+| Generated at | `2026-06-13T07:25:01Z` |
+| Git commit | `0a93b4d` |
 | Script version | `1` |
 | Output path | `docs/_meta/review-dashboard.md` |
 
@@ -90,16 +90,29 @@ This is the editorial queue for restricted extraction work. It is generated from
 | transition_from_previous_author | 432 |
 | multi_column_layout | 357 |
 | source_notes_detected | 314 |
+| back_matter | 100 |
 | mixed_transition_page | 68 |
-| back_matter | 39 |
-| selected_bibliography | 39 |
+| front_matter | 67 |
+| subject_index | 60 |
+| running_head_differs_from_author_context | 46 |
+| author_title_index | 40 |
+| selected_bibliography | 40 |
 | selection_boundary_review | 34 |
-| running_head_differs_from_author_context | 33 |
+| editorial_apparatus | 28 |
+| introduction | 28 |
 | layout_review_required | 23 |
 | author_boundary_without_life_dates | 20 |
 | bibliography_on_previous_page | 15 |
+| table_of_contents | 14 |
 | continues_beyond_current_batch | 14 |
+| alternative_table_of_contents | 11 |
 | mixed_excerpt_and_bibliography | 9 |
+| copyright_page | 4 |
+| title_page | 4 |
+| preface | 4 |
+| acknowledgments | 2 |
+| section_divider | 2 |
+| section_opener | 2 |
 | transition_from_previous_work | 2 |
 | ocr_title_cleanup | 2 |
 
@@ -107,8 +120,9 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 | Thinker | Pages |
 | --- | ---: |
+| Stuart Moulthrop | 109 |
 | Jacques Derrida | 62 |
-| Stuart Moulthrop | 56 |
+| Mary Jewett Gai~er Professor of Engush An~ American Studies | 49 |
 | Sigmund Freud | 43 |
 | Michel Foucault | 43 |
 | Fredric Jameson | 43 |
@@ -117,6 +131,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Jacques Lacan | 33 |
 | Louis Althusser | 33 |
 | Donna Haraway | 33 |
+| Unassigned | 32 |
 | William K. Wimsatt Jr. and Monroe C. Beardsley | 32 |
 | Matthew Arnold | 31 |
 | Plato | 29 |
@@ -241,7 +256,6 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Georg Wilhelm Friedrich Hegel | 6 |
 | Langston Hughes | 6 |
 | Jean-Francois Lyotard | 6 |
-| Unassigned | 6 |
 | Dante Alighieri | 5 |
 | Pierre de Ronsard | 5 |
 | Stephen Greenblatt | 5 |
@@ -1152,6 +1166,73 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 | Page | Thinker | Work | Reasons | Restricted page record |
 | ---: | --- | --- | --- | --- |
+| 3 |  |  | copyright_page;front_matter;title_page | work/page-records/norton-theory-criticism/page_0003.md |
+| 4 | Mary Jewett Gai~er Professor of Engush An~ American Studies |  | copyright_page;front_matter;title_page | work/page-records/norton-theory-criticism/page_0004.md |
+| 5 |  |  | copyright_page;front_matter;title_page | work/page-records/norton-theory-criticism/page_0005.md |
+| 6 |  |  | copyright_page;front_matter;title_page | work/page-records/norton-theory-criticism/page_0006.md |
+| 7 | Mary Jewett Gai~er Professor of Engush An~ American Studies | Encomium of Helen 30 | front_matter;running_head_differs_from_author_context;table_of_contents | work/page-records/norton-theory-criticism/page_0007.md |
+| 8 |  | Chapter 5 157 | front_matter;table_of_contents | work/page-records/norton-theory-criticism/page_0008.md |
+| 9 | Mary Jewett Gai~er Professor of Engush An~ American Studies | The' Letter to Can Grande 25 1 | front_matter;running_head_differs_from_author_context;table_of_contents | work/page-records/norton-theory-criticism/page_0009.md |
+| 10 | Mary Jewett Gai~er Professor of Engush An~ American Studies | The New Science 401 | front_matter;running_head_differs_from_author_context;table_of_contents | work/page-records/norton-theory-criticism/page_0010.md |
+| 11 | Mary Jewett Gai~er Professor of Engush An~ American Studies | Chapter II. The Prevailing Opinion of a' S'~jcual Character | front_matter;running_head_differs_from_author_context;table_of_contents | work/page-records/norton-theory-criticism/page_0011.md |
+| 12 | Mary Jewett Gai~er Professor of Engush An~ American Studies | Economic and Philosophic Manuscripts of 1844 764 | front_matter;running_head_differs_from_author_context;table_of_contents | work/page-records/norton-theory-criticism/page_0012.md |
+| 13 | Mary Jewett Gai~er Professor of Engush An~ American Studies | The Theory of the "Formal Method" 1062 | front_matter;running_head_differs_from_author_context;table_of_contents | work/page-records/norton-theory-criticism/page_0013.md |
+| 14 | Mary Jewett Gai~er Professor of Engush An~ American Studies | Discourse in the 'Novel' 1190 | front_matter;running_head_differs_from_author_context;table_of_contents | work/page-records/norton-theory-criticism/page_0014.md |
+| 15 | Mary Jewett Gai~er Professor of Engush An~ American Studies | Work to Text 14: 7Q | front_matter;running_head_differs_from_author_context;table_of_contents | work/page-records/norton-theory-criticism/page_0015.md |
+| 16 | Mary Jewett Gai~er Professor of Engush An~ American Studies | Gilles Deleuze and Felix Guatiari | front_matter;running_head_differs_from_author_context;table_of_contents | work/page-records/norton-theory-criticism/page_0016.md |
+| 17 | Mary Jewett Gai~er Professor of Engush An~ American Studies | 9. Play: From the Pharmakon to the Letter and from | front_matter;running_head_differs_from_author_context;table_of_contents | work/page-records/norton-theory-criticism/page_0017.md |
+| 18 | Mary Jewett Gai~er Professor of Engush An~ American Studies | Part I. The Semiotic and the Symbolic 21'69 | front_matter;running_head_differs_from_author_context;table_of_contents | work/page-records/norton-theory-criticism/page_0018.md |
+| 19 | Mary Jewett Gai~er Professor of Engush An~ American Studies | Chapter I. The Rise of English 2243 | front_matter;running_head_differs_from_author_context;table_of_contents | work/page-records/norton-theory-criticism/page_0019.md |
+| 20 | Mary Jewett Gai~er Professor of Engush An~ American Studies | Preface 2488 | front_matter;running_head_differs_from_author_context;table_of_contents | work/page-records/norton-theory-criticism/page_0020.md |
+| 21 |  |  | alternative_table_of_contents;front_matter | work/page-records/norton-theory-criticism/page_0021.md |
+| 22 | Mary Jewett Gai~er Professor of Engush An~ American Studies | Structuraltsm Anb Semibtics | alternative_table_of_contents;front_matter;running_head_differs_from_author_context | work/page-records/norton-theory-criticism/page_0022.md |
+| 23 |  | Alternative Table of Contents | alternative_table_of_contents;front_matter | work/page-records/norton-theory-criticism/page_0023.md |
+| 24 | Mary Jewett Gai~er Professor of Engush An~ American Studies | Xxii I Alternative Table of Contents | alternative_table_of_contents;front_matter;running_head_differs_from_author_context | work/page-records/norton-theory-criticism/page_0024.md |
+| 25 | Mary Jewett Gai~er Professor of Engush An~ American Studies | Alternative Table of Contents I Xxiii | alternative_table_of_contents;front_matter;running_head_differs_from_author_context | work/page-records/norton-theory-criticism/page_0025.md |
+| 26 | Mary Jewett Gai~er Professor of Engush An~ American Studies | Xxvi I Alternative Table of Contents | alternative_table_of_contents;front_matter;running_head_differs_from_author_context | work/page-records/norton-theory-criticism/page_0026.md |
+| 27 |  | Alternative Table of Contents | alternative_table_of_contents;front_matter | work/page-records/norton-theory-criticism/page_0027.md |
+| 28 | Mary Jewett Gai~er Professor of Engush An~ American Studies | Xxviii I Alternative Table of Contents | alternative_table_of_contents;front_matter;running_head_differs_from_author_context | work/page-records/norton-theory-criticism/page_0028.md |
+| 29 |  | Alternative Table of Contents | alternative_table_of_contents;front_matter | work/page-records/norton-theory-criticism/page_0029.md |
+| 30 | Mary Jewett Gai~er Professor of Engush An~ American Studies | Xxx I Alternative Table of Contents | alternative_table_of_contents;front_matter;running_head_differs_from_author_context | work/page-records/norton-theory-criticism/page_0030.md |
+| 31 | Mary Jewett Gai~er Professor of Engush An~ American Studies | Alternative Table of Contents I Xxxi | alternative_table_of_contents;front_matter;running_head_differs_from_author_context | work/page-records/norton-theory-criticism/page_0031.md |
+| 33 |  |  | front_matter;preface | work/page-records/norton-theory-criticism/page_0033.md |
+| 34 |  |  | front_matter;preface | work/page-records/norton-theory-criticism/page_0034.md |
+| 35 |  |  | front_matter;preface | work/page-records/norton-theory-criticism/page_0035.md |
+| 36 |  |  | front_matter;preface | work/page-records/norton-theory-criticism/page_0036.md |
+| 37 |  |  | acknowledgments;front_matter | work/page-records/norton-theory-criticism/page_0037.md |
+| 38 |  |  | acknowledgments;front_matter | work/page-records/norton-theory-criticism/page_0038.md |
+| 39 |  |  | front_matter;section_divider | work/page-records/norton-theory-criticism/page_0039.md |
+| 40 |  |  | front_matter;section_divider | work/page-records/norton-theory-criticism/page_0040.md |
+| 41 | Mary Jewett Gai~er Professor of Engush An~ American Studies |  | editorial_apparatus;front_matter;introduction | work/page-records/norton-theory-criticism/page_0041.md |
+| 42 | Mary Jewett Gai~er Professor of Engush An~ American Studies | Introduction To Theory and Criticism | editorial_apparatus;front_matter;introduction;running_head_differs_from_author_context | work/page-records/norton-theory-criticism/page_0042.md |
+| 43 | Mary Jewett Gai~er Professor of Engush An~ American Studies | Introduction To Theory And. Criticism | editorial_apparatus;front_matter;introduction;running_head_differs_from_author_context | work/page-records/norton-theory-criticism/page_0043.md |
+| 44 | Mary Jewett Gai~er Professor of Engush An~ American Studies | What Is Literaturei' | editorial_apparatus;front_matter;introduction;running_head_differs_from_author_context | work/page-records/norton-theory-criticism/page_0044.md |
+| 45 | Mary Jewett Gai~er Professor of Engush An~ American Studies | Introduction To Theory and Criticism | editorial_apparatus;front_matter;introduction;running_head_differs_from_author_context | work/page-records/norton-theory-criticism/page_0045.md |
+| 46 | Mary Jewett Gai~er Professor of Engush An~ American Studies | Introduction To Theory and Criticism | editorial_apparatus;front_matter;introduction;running_head_differs_from_author_context | work/page-records/norton-theory-criticism/page_0046.md |
+| 47 | Mary Jewett Gai~er Professor of Engush An~ American Studies | Introduction To Theory and Criticism | editorial_apparatus;front_matter;introduction;running_head_differs_from_author_context | work/page-records/norton-theory-criticism/page_0047.md |
+| 48 | Mary Jewett Gai~er Professor of Engush An~ American Studies | Introduction To Theory and Criticism | editorial_apparatus;front_matter;introduction;running_head_differs_from_author_context | work/page-records/norton-theory-criticism/page_0048.md |
+| 49 | Mary Jewett Gai~er Professor of Engush An~ American Studies | Introduction To Theory and Criticism | editorial_apparatus;front_matter;introduction;running_head_differs_from_author_context | work/page-records/norton-theory-criticism/page_0049.md |
+| 50 | Mary Jewett Gai~er Professor of Engush An~ American Studies | Introduction To Theory and Criticis'm | editorial_apparatus;front_matter;introduction;running_head_differs_from_author_context | work/page-records/norton-theory-criticism/page_0050.md |
+| 51 | Mary Jewett Gai~er Professor of Engush An~ American Studies | Introduction To Theory and Criticism | editorial_apparatus;front_matter;introduction | work/page-records/norton-theory-criticism/page_0051.md |
+| 52 | Mary Jewett Gai~er Professor of Engush An~ American Studies | Introduction To Theory and Criticism | editorial_apparatus;front_matter;introduction;running_head_differs_from_author_context | work/page-records/norton-theory-criticism/page_0052.md |
+| 53 | Mary Jewett Gai~er Professor of Engush An~ American Studies | ancient times, literature and the arts have portrayed, and criticism and | editorial_apparatus;front_matter;introduction;running_head_differs_from_author_context | work/page-records/norton-theory-criticism/page_0053.md |
+| 54 | Mary Jewett Gai~er Professor of Engush An~ American Studies | Introduction To Theory and Criticism | editorial_apparatus;front_matter;introduction;running_head_differs_from_author_context | work/page-records/norton-theory-criticism/page_0054.md |
+| 55 | Mary Jewett Gai~er Professor of Engush An~ American Studies | Introduction To Theory and Criticism I ] 5 | editorial_apparatus;front_matter;introduction;running_head_differs_from_author_context | work/page-records/norton-theory-criticism/page_0055.md |
+| 56 | Mary Jewett Gai~er Professor of Engush An~ American Studies | Introduction To Theory and Criticism | editorial_apparatus;front_matter;introduction;running_head_differs_from_author_context | work/page-records/norton-theory-criticism/page_0056.md |
+| 57 | Mary Jewett Gai~er Professor of Engush An~ American Studies | Introduction To Theory and Criticism | editorial_apparatus;front_matter;introduction;running_head_differs_from_author_context | work/page-records/norton-theory-criticism/page_0057.md |
+| 58 | Mary Jewett Gai~er Professor of Engush An~ American Studies | Introduction To Theory Ano Criticism | editorial_apparatus;front_matter;introduction;running_head_differs_from_author_context | work/page-records/norton-theory-criticism/page_0058.md |
+| 59 | Mary Jewett Gai~er Professor of Engush An~ American Studies | Introduction To Theory and Criticism | editorial_apparatus;front_matter;introduction;running_head_differs_from_author_context | work/page-records/norton-theory-criticism/page_0059.md |
+| 60 | Mary Jewett Gai~er Professor of Engush An~ American Studies | Introduction To Theory and Criticism | editorial_apparatus;front_matter;introduction;running_head_differs_from_author_context | work/page-records/norton-theory-criticism/page_0060.md |
+| 61 | Mary Jewett Gai~er Professor of Engush An~ American Studies | Introduction To Theory and Criticism | editorial_apparatus;front_matter;introduction;running_head_differs_from_author_context | work/page-records/norton-theory-criticism/page_0061.md |
+| 62 | Mary Jewett Gai~er Professor of Engush An~ American Studies | Introduction To Theory and Criticism | editorial_apparatus;front_matter;introduction;running_head_differs_from_author_context | work/page-records/norton-theory-criticism/page_0062.md |
+| 63 | Mary Jewett Gai~er Professor of Engush An~ American Studies | Introduction To Theory and Criticism | editorial_apparatus;front_matter;introduction;running_head_differs_from_author_context | work/page-records/norton-theory-criticism/page_0063.md |
+| 64 | Mary Jewett Gai~er Professor of Engush An~ American Studies | 24 J Introduction To Theory and Criticism | editorial_apparatus;front_matter;introduction;running_head_differs_from_author_context | work/page-records/norton-theory-criticism/page_0064.md |
+| 65 | Mary Jewett Gai~er Professor of Engush An~ American Studies | Introduction To Theory and Criticism | editorial_apparatus;front_matter;introduction;running_head_differs_from_author_context | work/page-records/norton-theory-criticism/page_0065.md |
+| 66 | Mary Jewett Gai~er Professor of Engush An~ American Studies | Introduction To Theory and Criticism | editorial_apparatus;front_matter;introduction;running_head_differs_from_author_context | work/page-records/norton-theory-criticism/page_0066.md |
+| 67 | Mary Jewett Gai~er Professor of Engush An~ American Studies | Introduction To Theory and Criticism | editorial_apparatus;front_matter;introduction;running_head_differs_from_author_context | work/page-records/norton-theory-criticism/page_0067.md |
+| 68 | Mary Jewett Gai~er Professor of Engush An~ American Studies | Introduction To Theory and Criticism | editorial_apparatus;front_matter;introduction;running_head_differs_from_author_context | work/page-records/norton-theory-criticism/page_0068.md |
+| 69 |  |  | front_matter;section_opener | work/page-records/norton-theory-criticism/page_0069.md |
+| 70 |  |  | front_matter;section_opener | work/page-records/norton-theory-criticism/page_0070.md |
 | 690 | William Wordsworth | Preface to Lyrical Ballads | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_0690.md |
 | 766 | Ralph Waldo Emerson | The Poet | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0766.md |
 | 767 | Ralph Waldo Emerson | The Poet | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0767.md |
@@ -2539,42 +2620,103 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 2566 | Stuart Moulthrop | You Say You Want a Revolution? Hypertext and the Laws of Media | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2566.md |
 | 2567 | Stuart Moulthrop | You Say You Want a Revolution? Hypertext and the Laws of Media | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2567.md |
 | 2568 | Stuart Moulthrop | You Say You Want a Revolution? Hypertext and the Laws of Media | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2568.md |
-| 2569 | Stuart Moulthrop | I. Theory and Criticism Bibliographies | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2569.md |
-| 2570 |  |  | back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2570.md |
-| 2571 | Stuart Moulthrop | Rom .... Uclsm through the Victori | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2571.md |
-| 2572 | Stuart Moulthrop | Ill. Histories of Criticism and Theory | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2572.md |
-| 2573 | Stuart Moulthrop | Histories | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2573.md |
-| 2574 |  |  | back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2574.md |
-| 2575 | Stuart Moulthrop | Histories | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2575.md |
-| 2576 | Stuart Moulthrop | Selected Bibliography of Theory and Criticism | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2576.md |
-| 2577 | Stuart Moulthrop | Schools and Movements | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2577.md |
-| 2578 | Stuart Moulthrop | Selected Bibliography of Theory and Criticism | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2578.md |
-| 2579 | Stuart Moulthrop | Schools and Movements | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2579.md |
-| 2580 | Stuart Moulthrop | Selected Bibliography of Theory and Criticism | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2580.md |
-| 2581 | Stuart Moulthrop | Schools and Movements | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2581.md |
-| 2582 | Stuart Moulthrop | Selected Bibliography of Theory and Criticism | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2582.md |
-| 2583 | Stuart Moulthrop | Schools and Movements | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2583.md |
-| 2584 | Stuart Moulthrop | Selected Bibliography of Theory and Criticism | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2584.md |
-| 2585 | Stuart Moulthrop | Schools and Movements | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2585.md |
-| 2586 | Stuart Moulthrop | Selected Bibliography' of Theory and Criticism | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2586.md |
-| 2587 | Stuart Moulthrop | Schools and Movements | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2587.md |
-| 2588 | Stuart Moulthrop | Selected Bibliography of Theory and Criticism | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2588.md |
-| 2589 | Stuart Moulthrop | Schools and Movements | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2589.md |
-| 2590 | Stuart Moulthrop | Selected Bibliography of Theory and Criticism | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2590.md |
-| 2591 | Stuart Moulthrop | Schools and Movements | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2591.md |
-| 2592 | Stuart Moulthrop | Selected Bibliography of Theory and Criticism | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2592.md |
-| 2593 | Stuart Moulthrop | Schools and Movements | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2593.md |
-| 2594 | Stuart Moulthrop | Selected Bibliography of Theory and Criticism | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2594.md |
-| 2595 | Stuart Moulthrop | Schools and Movements | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2595.md |
-| 2596 | Stuart Moulthrop | Selected Bibliography of Theory and Criticism | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2596.md |
-| 2597 | Stuart Moulthrop | Per!'1issjons Acknowledgments | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2597.md |
-| 2598 | Stuart Moulthrop | Permissions Acknowledgments | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2598.md |
-| 2599 | Stuart Moulthrop | Permissions Acknowledgments | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2599.md |
-| 2600 | Stuart Moulthrop | Permissions Acknowledgments | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2600.md |
-| 2601 | Stuart Moulthrop | Permissions Acknowledgments | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2601.md |
-| 2602 | Stuart Moulthrop | Permissions Acknowledgments | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2602.md |
-| 2603 | Stuart Moulthrop | Permissions Acknowledgments | back_matter;running_head_differs_from_author_context;selected_bibliography | work/page-records/norton-theory-criticism/page_2603.md |
-| 2604 |  |  | back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2604.md |
-| 2605 |  |  | back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2605.md |
-| 2606 |  |  | back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2606.md |
-| 2607 |  | Author | back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2607.md |
+| 2569 | Stuart Moulthrop | I. Theory and Criticism Bibliographies | author_title_index;back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2569.md |
+| 2570 |  |  | author_title_index;back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2570.md |
+| 2571 | Stuart Moulthrop | Rom .... Uclsm through the Victori | author_title_index;back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2571.md |
+| 2572 | Stuart Moulthrop | Ill. Histories of Criticism and Theory | author_title_index;back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2572.md |
+| 2573 | Stuart Moulthrop | Histories | author_title_index;back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2573.md |
+| 2574 |  |  | author_title_index;back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2574.md |
+| 2575 | Stuart Moulthrop | Histories | author_title_index;back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2575.md |
+| 2576 | Stuart Moulthrop | Selected Bibliography of Theory and Criticism | author_title_index;back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2576.md |
+| 2577 | Stuart Moulthrop | Schools and Movements | author_title_index;back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2577.md |
+| 2578 | Stuart Moulthrop | Selected Bibliography of Theory and Criticism | author_title_index;back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2578.md |
+| 2579 | Stuart Moulthrop | Schools and Movements | author_title_index;back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2579.md |
+| 2580 | Stuart Moulthrop | Selected Bibliography of Theory and Criticism | author_title_index;back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2580.md |
+| 2581 | Stuart Moulthrop | Schools and Movements | author_title_index;back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2581.md |
+| 2582 | Stuart Moulthrop | Selected Bibliography of Theory and Criticism | author_title_index;back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2582.md |
+| 2583 | Stuart Moulthrop | Schools and Movements | author_title_index;back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2583.md |
+| 2584 | Stuart Moulthrop | Selected Bibliography of Theory and Criticism | author_title_index;back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2584.md |
+| 2585 | Stuart Moulthrop | Schools and Movements | author_title_index;back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2585.md |
+| 2586 | Stuart Moulthrop | Selected Bibliography' of Theory and Criticism | author_title_index;back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2586.md |
+| 2587 | Stuart Moulthrop | Schools and Movements | author_title_index;back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2587.md |
+| 2588 | Stuart Moulthrop | Selected Bibliography of Theory and Criticism | author_title_index;back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2588.md |
+| 2589 | Stuart Moulthrop | Schools and Movements | author_title_index;back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2589.md |
+| 2590 | Stuart Moulthrop | Selected Bibliography of Theory and Criticism | author_title_index;back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2590.md |
+| 2591 | Stuart Moulthrop | Schools and Movements | author_title_index;back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2591.md |
+| 2592 | Stuart Moulthrop | Selected Bibliography of Theory and Criticism | author_title_index;back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2592.md |
+| 2593 | Stuart Moulthrop | Schools and Movements | author_title_index;back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2593.md |
+| 2594 | Stuart Moulthrop | Selected Bibliography of Theory and Criticism | author_title_index;back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2594.md |
+| 2595 | Stuart Moulthrop | Schools and Movements | author_title_index;back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2595.md |
+| 2596 | Stuart Moulthrop | Selected Bibliography of Theory and Criticism | author_title_index;back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2596.md |
+| 2597 | Stuart Moulthrop | Per!'1issjons Acknowledgments | author_title_index;back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2597.md |
+| 2598 | Stuart Moulthrop | Permissions Acknowledgments | author_title_index;back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2598.md |
+| 2599 | Stuart Moulthrop | Permissions Acknowledgments | author_title_index;back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2599.md |
+| 2600 | Stuart Moulthrop | Permissions Acknowledgments | author_title_index;back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2600.md |
+| 2601 | Stuart Moulthrop | Permissions Acknowledgments | author_title_index;back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2601.md |
+| 2602 | Stuart Moulthrop | Permissions Acknowledgments | author_title_index;back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2602.md |
+| 2603 | Stuart Moulthrop | Permissions Acknowledgments | author_title_index;back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2603.md |
+| 2604 |  |  | author_title_index;back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2604.md |
+| 2605 |  |  | author_title_index;back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2605.md |
+| 2606 |  |  | author_title_index;back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2606.md |
+| 2607 |  | Author | author_title_index;back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2607.md |
+| 2608 |  |  | author_title_index;back_matter;selected_bibliography | work/page-records/norton-theory-criticism/page_2608.md |
+| 2609 |  |  | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2609.md |
+| 2610 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2610.md |
+| 2611 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2611.md |
+| 2612 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2612.md |
+| 2613 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2613.md |
+| 2614 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2614.md |
+| 2615 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2615.md |
+| 2616 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2616.md |
+| 2617 |  |  | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2617.md |
+| 2618 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2618.md |
+| 2619 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2619.md |
+| 2620 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2620.md |
+| 2621 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2621.md |
+| 2622 |  |  | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2622.md |
+| 2623 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2623.md |
+| 2624 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2624.md |
+| 2625 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2625.md |
+| 2626 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2626.md |
+| 2627 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2627.md |
+| 2628 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2628.md |
+| 2629 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2629.md |
+| 2630 |  |  | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2630.md |
+| 2631 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2631.md |
+| 2632 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2632.md |
+| 2633 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2633.md |
+| 2634 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2634.md |
+| 2635 | Stuart Moulthrop | Subject Index I 259 I | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2635.md |
+| 2636 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2636.md |
+| 2637 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2637.md |
+| 2638 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2638.md |
+| 2639 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2639.md |
+| 2640 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2640.md |
+| 2641 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2641.md |
+| 2642 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2642.md |
+| 2643 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2643.md |
+| 2644 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2644.md |
+| 2645 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2645.md |
+| 2646 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2646.md |
+| 2647 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2647.md |
+| 2648 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2648.md |
+| 2649 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2649.md |
+| 2650 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2650.md |
+| 2651 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2651.md |
+| 2652 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2652.md |
+| 2653 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2653.md |
+| 2654 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2654.md |
+| 2655 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2655.md |
+| 2656 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2656.md |
+| 2657 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2657.md |
+| 2658 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2658.md |
+| 2659 |  | Sub)!;" Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2659.md |
+| 2660 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2660.md |
+| 2661 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2661.md |
+| 2662 |  |  | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2662.md |
+| 2663 |  | Sub!e.'t Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2663.md |
+| 2664 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2664.md |
+| 2665 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2665.md |
+| 2666 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2666.md |
+| 2667 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2667.md |
+| 2668 | Stuart Moulthrop | Subject Index | back_matter;subject_index | work/page-records/norton-theory-criticism/page_2668.md |

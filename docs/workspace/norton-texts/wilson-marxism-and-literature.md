@@ -91,8 +91,8 @@ This note turns the current Norton chunk for Edmund Wilson into a navigable work
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/edmund-wilson.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T07:19:05Z` |
-| Git commit | `e8608c4` |
+| Generated at | `2026-06-13T07:25:10Z` |
+| Git commit | `0a93b4d` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/wilson-marxism-and-literature.md` |
 

@@ -1,6 +1,122 @@
 source_id: norton-theory-criticism
 notes: "Manual page-range corrections for Norton pilot runs. These are restricted extraction controls, not public source text."
 overrides:
+  - id: opening-blank-pages
+    pages: 1-2
+    page_kind: blank
+    starts_new_author: false
+    continues_previous_author: false
+    include_in_author_assembly: false
+    confidence: high
+    review_required: false
+
+  - id: title-and-copyright-pages
+    pages: 3-6
+    page_kind: front_matter
+    starts_new_author: false
+    continues_previous_author: false
+    include_in_author_assembly: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - title_page
+      - copyright_page
+      - front_matter
+
+  - id: table-of-contents
+    pages: 7-20
+    page_kind: table_of_contents
+    starts_new_author: false
+    continues_previous_author: false
+    include_in_author_assembly: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - table_of_contents
+      - front_matter
+
+  - id: alternative-table-of-contents
+    pages: 21-31
+    page_kind: table_of_contents
+    starts_new_author: false
+    continues_previous_author: false
+    include_in_author_assembly: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - alternative_table_of_contents
+      - front_matter
+
+  - id: front-matter-blank-page
+    pages: 32
+    page_kind: blank
+    starts_new_author: false
+    continues_previous_author: false
+    include_in_author_assembly: false
+    confidence: high
+    review_required: false
+
+  - id: anthology-preface
+    pages: 33-36
+    page_kind: front_matter
+    starts_new_author: false
+    continues_previous_author: false
+    include_in_author_assembly: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - preface
+      - front_matter
+
+  - id: anthology-acknowledgments
+    pages: 37-38
+    page_kind: front_matter
+    starts_new_author: false
+    continues_previous_author: false
+    include_in_author_assembly: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - acknowledgments
+      - front_matter
+
+  - id: theory-and-criticism-divider
+    pages: 39-40
+    page_kind: front_matter
+    starts_new_author: false
+    continues_previous_author: false
+    include_in_author_assembly: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - section_divider
+      - front_matter
+
+  - id: introduction-to-theory-and-criticism
+    pages: 41-68
+    page_kind: editorial_apparatus
+    starts_new_author: false
+    continues_previous_author: false
+    include_in_author_assembly: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - introduction
+      - editorial_apparatus
+      - front_matter
+
+  - id: theory-and-criticism-section-opener
+    pages: 69-70
+    page_kind: front_matter
+    starts_new_author: false
+    continues_previous_author: false
+    include_in_author_assembly: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - section_opener
+      - front_matter
+
   - id: gorgias-headnote
     pages: 71
     author_name: Gorgias of Leontini
@@ -4407,7 +4523,7 @@ overrides:
       - mixed_bibliography_and_work_title
 
   - id: selected-bibliography-and-index
-    pages: 2569-2607
+    pages: 2569-2608
     page_kind: index_appendix
     starts_new_author: false
     continues_previous_author: false
@@ -4415,4 +4531,16 @@ overrides:
     review_required: true
     review_reasons:
       - selected_bibliography
+      - author_title_index
+      - back_matter
+
+  - id: subject-index
+    pages: 2609-2668
+    page_kind: index_appendix
+    starts_new_author: false
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - subject_index
       - back_matter

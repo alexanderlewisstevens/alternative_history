@@ -93,8 +93,8 @@ This note turns the current Norton chunk for Harold Bloom into a navigable works
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/harold-bloom.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T07:19:06Z` |
-| Git commit | `e8608c4` |
+| Generated at | `2026-06-13T07:25:11Z` |
+| Git commit | `0a93b4d` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/bloom-anxiety-of-influence.md` |
 
