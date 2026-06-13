@@ -58,20 +58,29 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 ## Provenance
 
-| Layer | Status |
-| --- | --- |
-| Source-derived metadata | Thinker name, text IDs, titles, themes, and source rights status come from tracked source metadata. |
-| Extraction-derived metadata | Page ranges, works, page kinds, and review rows come from local extraction audit artifacts. |
-| Generated scaffold | Working Use, Review Pressure, Passage Queue, and Open Questions are generated scaffolding. |
-| Human commentary | Not yet reviewed as interpretive commentary. |
-| Copied source prose | None. |
+<div class="ah-provenance-table">
+  <table>
+    <thead>
+      <tr><th>Layer</th><th>Status</th></tr>
+    </thead>
+    <tbody>
+    <tr><td>Source-derived metadata</td><td>Thinker name, text IDs, titles, themes, and source rights status come from tracked source metadata.</td></tr>
+    <tr><td>Extraction-derived metadata</td><td>Page ranges, works, page kinds, and review rows come from local extraction audit artifacts.</td></tr>
+    <tr><td>Generated scaffold</td><td>Working Use, Review Pressure, Passage Queue, and Open Questions are generated scaffolding.</td></tr>
+    <tr><td>Human commentary</td><td>Not yet reviewed as interpretive commentary.</td></tr>
+    <tr><td>Copied source prose</td><td>None.</td></tr>
+    </tbody>
+  </table>
+</div>
 
 ## Backlinks
 
-- [Private Knowledge Base](../index.md)
-- [Norton Workspace Map](../norton-map.md)
-- [Norton Text Notes](../norton-texts/index.md)
-- [Thinker Index](index.md)
+<ul class="ah-backlink-list">
+<li><a href="../../">Private Knowledge Base</a></li>
+<li><a href="../../norton-map/">Norton Workspace Map</a></li>
+<li><a href="../../norton-texts/">Norton Text Notes</a></li>
+<li><a href="../">Thinker Index</a></li>
+</ul>
 
 ## Audit Trail
 
@@ -81,8 +90,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T02:14:28Z` |
-| Git commit | `bac7e96` |
+| Generated at | `2026-06-13T02:27:07Z` |
+| Git commit | `345f50f` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/plato.md` |
 

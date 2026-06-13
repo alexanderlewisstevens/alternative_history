@@ -20,6 +20,7 @@ from lib.extraction_common import (
     slugify,
     write_csv,
 )
+from lib.workspace_components import backlink_list, link, note_meta, passage_card, private_banner, provenance_table
 from update_workspace_map import (
     author_display_names,
     author_matches_text,
@@ -68,6 +69,16 @@ def linked_thinker(text: dict[str, Any], author_row: dict[str, str] | None) -> s
     return html.escape(label)
 
 
+def thinker_backlink(text: dict[str, Any], author_row: dict[str, str] | None) -> str:
+    thinker_slug = thinker_slug_for_text(text, author_row)
+    label = str(text.get("creator", thinker_slug.replace("-", " ")))
+    return link(label, f"../../thinkers/{thinker_slug}/")
+
+
+def constellation_backlink(constellation_id: str) -> str:
+    return link(constellation_id, f"../../{constellation_id}/")
+
+
 def text_constellations(text_id: str, constellations: list[dict[str, Any]]) -> list[dict[str, Any]]:
     return [
         constellation
@@ -92,22 +103,26 @@ def review_reason_summary(counter: Counter[str]) -> str:
 
 def page_status_card(author_row: dict[str, str] | None, reviews: Counter[str], kinds: Counter[str]) -> str:
     if not author_row:
-        return """<section class="ah-passage-card">
-  <span class="ah-action-kicker">Chunk Status</span>
-  <h3>No Assembled Norton Chunk Yet</h3>
-  <p><strong>Source location:</strong> not currently assembled.</p>
-  <p><strong>Review pressure:</strong> no review rows available.</p>
-</section>"""
+        return passage_card(
+            "Chunk Status",
+            "No Assembled Norton Chunk Yet",
+            [
+                ("Source location", "not currently assembled."),
+                ("Review pressure", "no review rows available."),
+            ],
+        )
 
     pages = page_range(author_row.get("first_page", ""), author_row.get("last_page", ""))
-    return f"""<section class="ah-passage-card">
-  <span class="ah-action-kicker">Chunk Status</span>
-  <h3>Norton Pages {html.escape(pages)}</h3>
-  <p><strong>Page count:</strong> {html.escape(author_row.get("page_count", ""))}</p>
-  <p><strong>Restricted draft:</strong> <code>{html.escape(author_row.get("output_file", ""))}</code></p>
-  <p><strong>Page kinds:</strong> {counter_summary(kinds, limit=4) or "not classified"}</p>
-  <p><strong>Review pressure:</strong> {reviews.get("total", 0)} rows. {review_reason_summary(reviews)}</p>
-</section>"""
+    return passage_card(
+        "Chunk Status",
+        f"Norton Pages {pages}",
+        [
+            ("Page count", html.escape(author_row.get("page_count", ""))),
+            ("Restricted draft", f"<code>{html.escape(author_row.get('output_file', ''))}</code>"),
+            ("Page kinds", counter_summary(kinds, limit=4) or "not classified"),
+            ("Review pressure", f"{reviews.get('total', 0)} rows. {review_reason_summary(reviews)}"),
+        ],
+    )
 
 
 def constellation_table_rows(text_id: str, constellations: list[dict[str, Any]]) -> str:
@@ -149,20 +164,19 @@ def build_text_note(
     constellation_ids = [str(item.get("id", "")) for item in text_constellations(text_id, constellations)]
     themes = [str(value) for value in text.get("themes", [])]
     generated_at = now_utc()
+    source_location = html.escape(page_range(author_row.get("first_page", ""), author_row.get("last_page", "")) if author_row else "not assembled")
+    constellation_label = html.escape(", ".join(constellation_ids) or "the workspace")
 
     return f"""# {html.escape(author_name)}, {html.escape(str(text.get("title", "")))}
 
-<div class="ah-note-meta">
-  <span><strong>Type:</strong> Norton text node</span>
-  <span><strong>Status:</strong> generated private workspace note</span>
-  <span><strong>Source mode:</strong> restricted metadata only</span>
-  <span><strong>Tags:</strong> {html.escape(", ".join(themes) or "TBD")}</span>
-</div>
+{note_meta([
+    ("Type", "Norton text node"),
+    ("Status", "generated private workspace note"),
+    ("Source mode", "restricted metadata only"),
+    ("Tags", ", ".join(themes) or "TBD"),
+])}
 
-<div class="ah-private-banner">
-  <strong>Private Norton node</strong>
-  <span>This page is generated from extraction metadata and curated source-register entries. It contains no copied Norton source prose.</span>
-</div>
+{private_banner("Private Norton node", "This page is generated from extraction metadata and curated source-register entries. It contains no copied Norton source prose.")}
 
 ## Working Use
 
@@ -184,30 +198,26 @@ This note turns the current Norton chunk for {html.escape(author_name)} into a n
 
 ## Passage Queue
 
-<section class="ah-passage-card">
-  <span class="ah-action-kicker">Anchor Candidates</span>
-  <h3>Choose Passages After Review</h3>
-  <p><strong>Source location:</strong> Norton page range {html.escape(page_range(author_row.get("first_page", ""), author_row.get("last_page", "")) if author_row else "not assembled")}.</p>
-  <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
-  <p><strong>Use:</strong> Find the passages that make this text active inside {html.escape(", ".join(constellation_ids) or "the workspace")}.</p>
-</section>
+{passage_card("Anchor Candidates", "Choose Passages After Review", [
+    ("Source location", f"Norton page range {source_location}."),
+    ("Rights mode", "restricted private notes until a public-domain or otherwise usable reading copy is selected."),
+    ("Use", f"Find the passages that make this text active inside {constellation_label}."),
+])}
 
-<section class="ah-passage-card">
-  <span class="ah-action-kicker">Review Before Quoting</span>
-  <h3>Layout, Notes, And Bibliography</h3>
-  <p><strong>Review signal:</strong> {review_reason_summary(reviews)}</p>
-  <p><strong>Editorial rule:</strong> source notes belong in source-note fields, bibliography belongs in bibliography fields, and excerpt text stays separate.</p>
-</section>
+{passage_card("Review Before Quoting", "Layout, Notes, And Bibliography", [
+    ("Review signal", review_reason_summary(reviews)),
+    ("Editorial rule", "source notes belong in source-note fields, bibliography belongs in bibliography fields, and excerpt text stays separate."),
+])}
 
 ## Provenance
 
-| Layer | Status |
-| --- | --- |
-| Source-derived metadata | Curated text ID, creator, title, themes, register status, and source rights status come from `data/source-register.yml` and `data/extraction-sources.yml`. |
-| Extraction-derived metadata | Page range, restricted draft path, page kinds, and review pressure come from local audit artifacts. |
-| Generated scaffold | Working Use, Passage Queue, Backlinks, and Open Questions are generated workspace scaffolding. |
-| Human commentary | Not yet reviewed as interpretive commentary. |
-| Copied source prose | None. This generated note contains no copied Norton prose. |
+{provenance_table([
+    ("Source-derived metadata", "Curated text ID, creator, title, themes, register status, and source rights status come from `data/source-register.yml` and `data/extraction-sources.yml`."),
+    ("Extraction-derived metadata", "Page range, restricted draft path, page kinds, and review pressure come from local audit artifacts."),
+    ("Generated scaffold", "Working Use, Passage Queue, Backlinks, and Open Questions are generated workspace scaffolding."),
+    ("Human commentary", "Not yet reviewed as interpretive commentary."),
+    ("Copied source prose", "None. This generated note contains no copied Norton prose."),
+])}
 
 ## Source Trail
 
@@ -229,12 +239,14 @@ This note turns the current Norton chunk for {html.escape(author_name)} into a n
 
 ## Backlinks
 
-- [Norton Text Notes](index.md)
-- [Norton Workspace Map](../norton-map.md)
-- [Private Knowledge Base](../index.md)
-- [Text Catalog](../../catalog/sources.md)
-- Thinker: {linked_thinker(text, author_row)}
-{markdown_list([linked_constellation(value) for value in constellation_ids], "No constellation backlinks yet.")}
+{backlink_list([
+    link("Norton Text Notes", "../"),
+    link("Norton Workspace Map", "../../norton-map/"),
+    link("Private Knowledge Base", "../../"),
+    link("Text Catalog", "../../../catalog/sources/"),
+    f"Thinker: {thinker_backlink(text, author_row)}",
+    *([constellation_backlink(value) for value in constellation_ids] or ["No constellation backlinks yet."]),
+])}
 
 ## Open Questions
 
@@ -351,7 +363,7 @@ def clean_output_dir(output_dir: Path) -> None:
     if not output_dir.exists():
         return
     for path in output_dir.glob("*.md"):
-        path.unlink()
+        path.unlink(missing_ok=True)
 
 
 def main() -> int:

@@ -103,7 +103,7 @@ audit: setup validate-fixtures
 	$(VENV_PYTHON) scripts/audit_pipeline.py $(COMMON_ARGS) --strict
 
 ci: setup validate-fixtures
-	$(VENV_PYTHON) -m py_compile scripts/*.py
+	$(VENV_PYTHON) -m compileall -q scripts
 	$(VENV_PYTHON) -m mkdocs build --strict
 	@if [ -f "$(SOURCE_PDF)" ]; then \
 		$(MAKE) audit SOURCE_ID=$(SOURCE_ID); \

@@ -19,6 +19,7 @@ from lib.extraction_common import (
     sha256_file,
     write_csv,
 )
+from lib.workspace_components import backlink_list, link, note_meta, passage_card, private_banner, provenance_table
 from update_workspace_map import (
     counter_summary,
     load_source_register,
@@ -152,17 +153,14 @@ def build_constellation_page(
 
     return f"""# {html.escape(title)}
 
-<div class="ah-note-meta">
-  <span><strong>Type:</strong> constellation note</span>
-  <span><strong>Status:</strong> generated private workspace draft</span>
-  <span><strong>Source mode:</strong> restricted metadata only</span>
-  <span><strong>Tags:</strong> {html.escape(", ".join(relations) or "TBD")}</span>
-</div>
+{note_meta([
+    ("Type", "constellation note"),
+    ("Status", "generated private workspace draft"),
+    ("Source mode", "restricted metadata only"),
+    ("Tags", ", ".join(relations) or "TBD"),
+])}
 
-<div class="ah-private-banner">
-  <strong>Private constellation draft</strong>
-  <span>This page is generated from curated metadata and local extraction audits. It contains no copied Norton source prose.</span>
-</div>
+{private_banner("Private constellation draft", "This page is generated from curated metadata and local extraction audits. It contains no copied Norton source prose.")}
 
 ## Core Question
 
@@ -196,37 +194,35 @@ This is a scaffold for reading the configured texts together. It should become a
 
 ## Passage Queue
 
-<section class="ah-passage-card">
-  <span class="ah-action-kicker">Anchor Candidates</span>
-  <h3>Choose Passages After Review</h3>
-  <p><strong>Source location:</strong> use the linked Norton text nodes and restricted drafts.</p>
-  <p><strong>Rights mode:</strong> restricted private notes until public-domain or otherwise usable reading copies are selected.</p>
-  <p><strong>Use:</strong> Identify two or three passages that make the constellation question concrete.</p>
-</section>
+{passage_card("Anchor Candidates", "Choose Passages After Review", [
+    ("Source location", "use the linked Norton text nodes and restricted drafts."),
+    ("Rights mode", "restricted private notes until public-domain or otherwise usable reading copies are selected."),
+    ("Use", "Identify two or three passages that make the constellation question concrete."),
+])}
 
-<section class="ah-passage-card">
-  <span class="ah-action-kicker">Editorial Boundary</span>
-  <h3>Not Yet A Public Essay</h3>
-  <p><strong>Current state:</strong> metadata scaffold.</p>
-  <p><strong>Promotion rule:</strong> do not turn this into public-facing interpretation until the selected passages and editions are reviewed.</p>
-</section>
+{passage_card("Editorial Boundary", "Not Yet A Public Essay", [
+    ("Current state", "metadata scaffold."),
+    ("Promotion rule", "do not turn this into public-facing interpretation until the selected passages and editions are reviewed."),
+])}
 
 ## Provenance
 
-| Layer | Status |
-| --- | --- |
-| Source-derived metadata | Constellation ID, question, text IDs, relations, source title, and rights status come from tracked source metadata. |
-| Extraction-derived metadata | Page ranges, review rows, and page-kind summaries come from local extraction audit artifacts. |
-| Generated scaffold | Working Claim, Relationship Map, Passage Queue, Review Pressure, and Open Questions are generated scaffolding. |
-| Human commentary | Not yet reviewed as interpretive commentary. |
-| Copied source prose | None. This generated page contains no copied Norton prose. |
+{provenance_table([
+    ("Source-derived metadata", "Constellation ID, question, text IDs, relations, source title, and rights status come from tracked source metadata."),
+    ("Extraction-derived metadata", "Page ranges, review rows, and page-kind summaries come from local extraction audit artifacts."),
+    ("Generated scaffold", "Working Claim, Relationship Map, Passage Queue, Review Pressure, and Open Questions are generated scaffolding."),
+    ("Human commentary", "Not yet reviewed as interpretive commentary."),
+    ("Copied source prose", "None. This generated page contains no copied Norton prose."),
+])}
 
 ## Backlinks
 
-- [Private Knowledge Base](index.md)
-- [Norton Workspace Map](norton-map.md)
-- [Norton Text Notes](norton-texts/index.md)
-- [Constellation Catalog](../catalog/constellations.md)
+{backlink_list([
+    link("Private Knowledge Base", "../"),
+    link("Norton Workspace Map", "../norton-map/"),
+    link("Norton Text Notes", "../norton-texts/"),
+    link("Constellation Catalog", "../../catalog/constellations/"),
+])}
 
 ## Audit Trail
 

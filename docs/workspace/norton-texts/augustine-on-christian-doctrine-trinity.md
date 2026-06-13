@@ -60,13 +60,20 @@ This note turns the current Norton chunk for Augustine of Hippo into a navigable
 
 ## Provenance
 
-| Layer | Status |
-| --- | --- |
-| Source-derived metadata | Curated text ID, creator, title, themes, register status, and source rights status come from `data/source-register.yml` and `data/extraction-sources.yml`. |
-| Extraction-derived metadata | Page range, restricted draft path, page kinds, and review pressure come from local audit artifacts. |
-| Generated scaffold | Working Use, Passage Queue, Backlinks, and Open Questions are generated workspace scaffolding. |
-| Human commentary | Not yet reviewed as interpretive commentary. |
-| Copied source prose | None. This generated note contains no copied Norton prose. |
+<div class="ah-provenance-table">
+  <table>
+    <thead>
+      <tr><th>Layer</th><th>Status</th></tr>
+    </thead>
+    <tbody>
+    <tr><td>Source-derived metadata</td><td>Curated text ID, creator, title, themes, register status, and source rights status come from `data/source-register.yml` and `data/extraction-sources.yml`.</td></tr>
+    <tr><td>Extraction-derived metadata</td><td>Page range, restricted draft path, page kinds, and review pressure come from local audit artifacts.</td></tr>
+    <tr><td>Generated scaffold</td><td>Working Use, Passage Queue, Backlinks, and Open Questions are generated workspace scaffolding.</td></tr>
+    <tr><td>Human commentary</td><td>Not yet reviewed as interpretive commentary.</td></tr>
+    <tr><td>Copied source prose</td><td>None. This generated note contains no copied Norton prose.</td></tr>
+    </tbody>
+  </table>
+</div>
 
 ## Source Trail
 
@@ -81,20 +88,22 @@ This note turns the current Norton chunk for Augustine of Hippo into a navigable
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/augustine-of-hippo.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T02:14:29Z` |
-| Git commit | `bac7e96` |
+| Generated at | `2026-06-13T02:27:08Z` |
+| Git commit | `345f50f` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/augustine-on-christian-doctrine-trinity.md` |
 
 ## Backlinks
 
-- [Norton Text Notes](index.md)
-- [Norton Workspace Map](../norton-map.md)
-- [Private Knowledge Base](../index.md)
-- [Text Catalog](../../catalog/sources.md)
-- Thinker: [Augustine of Hippo](../thinkers/augustine-of-hippo.md)
-- [signs-and-reading](../signs-and-reading.md)
-- [beauty-and-ascent](../beauty-and-ascent.md)
+<ul class="ah-backlink-list">
+<li><a href="../">Norton Text Notes</a></li>
+<li><a href="../../norton-map/">Norton Workspace Map</a></li>
+<li><a href="../../">Private Knowledge Base</a></li>
+<li><a href="../../../catalog/sources/">Text Catalog</a></li>
+<li>Thinker: <a href="../../thinkers/augustine-of-hippo/">Augustine of Hippo</a></li>
+<li><a href="../../signs-and-reading/">signs-and-reading</a></li>
+<li><a href="../../beauty-and-ascent/">beauty-and-ascent</a></li>
+</ul>
 
 ## Open Questions
 
