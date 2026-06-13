@@ -1979,11 +1979,133 @@ overrides:
       - mixed_bibliography_and_work_title
 
   - id: gyorgy-lukacs-realism-in-the-balance
-    pages: 1077-1087
+    pages: 1077-1102
     author_name: Gyorgy Lukacs
     author_slug: gyorgy-lukacs
     work_title: Realism in the Balance
     work_slug: realism-in-the-balance
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: boris-eichenbaum-headnote
+    pages: 1102-1106
+    author_name: Boris Eichenbaum
+    author_slug: boris-eichenbaum
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_transition_page
+      - mixed_bibliography_and_work_title
+
+  - id: boris-eichenbaum-theory-formal-method
+    pages: 1106-1131
+    author_name: Boris Eichenbaum
+    author_slug: boris-eichenbaum
+    work_title: The Theory of the Formal Method
+    work_slug: the-theory-of-the-formal-method
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: ts-eliot-headnote
+    pages: 1132-1136
+    author_name: T. S. Eliot
+    author_slug: t-s-eliot
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: ts-eliot-tradition-individual-talent
+    pages: 1136-1141
+    author_name: T. S. Eliot
+    author_slug: t-s-eliot
+    work_title: Tradition and the Individual Talent
+    work_slug: tradition-and-the-individual-talent
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: ts-eliot-metaphysical-poets
+    pages: 1141-1149
+    author_name: T. S. Eliot
+    author_slug: t-s-eliot
+    work_title: The Metaphysical Poets
+    work_slug: the-metaphysical-poets
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: john-crowe-ransom-headnote
+    pages: 1149-1152
+    author_name: John Crowe Ransom
+    author_slug: john-crowe-ransom
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_transition_page
+      - mixed_bibliography_and_work_title
+
+  - id: john-crowe-ransom-criticism-inc
+    pages: 1152-1162
+    author_name: John Crowe Ransom
+    author_slug: john-crowe-ransom
+    work_title: Criticism, Inc.
+    work_slug: criticism-inc
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: martin-heidegger-headnote
+    pages: 1162-1165
+    author_name: Martin Heidegger
+    author_slug: martin-heidegger
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_transition_page
+      - mixed_bibliography_and_work_title
+
+  - id: martin-heidegger-language
+    pages: 1165-1167
+    author_name: Martin Heidegger
+    author_slug: martin-heidegger
+    work_title: Language
+    work_slug: language
     page_kind: excerpt
     starts_new_author: false
     continues_previous_author: true

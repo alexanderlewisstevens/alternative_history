@@ -650,6 +650,66 @@ curated_texts:
       - modernism
       - totality
     status: edition-review-needed
+  - id: eichenbaum-theory-formal-method
+    title: The Theory of the Formal Method
+    creator: Boris Eichenbaum
+    extraction_work_titles:
+      - The Theory of the Formal Method
+    role: core-text-candidate
+    themes:
+      - formalism
+      - literary-theory
+      - method
+      - technique
+    status: edition-review-needed
+  - id: eliot-tradition-individual-talent
+    title: Tradition and the Individual Talent
+    creator: T. S. Eliot
+    extraction_work_titles:
+      - Tradition and the Individual Talent
+    role: core-text-candidate
+    themes:
+      - tradition
+      - canon
+      - modernism
+      - impersonality
+    status: edition-review-needed
+  - id: eliot-metaphysical-poets
+    title: The Metaphysical Poets
+    creator: T. S. Eliot
+    extraction_work_titles:
+      - The Metaphysical Poets
+    role: core-text-candidate
+    themes:
+      - modernism
+      - poetry
+      - sensibility
+      - tradition
+    status: edition-review-needed
+  - id: ransom-criticism-inc
+    title: Criticism, Inc.
+    creator: John Crowe Ransom
+    extraction_work_titles:
+      - Criticism, Inc.
+    role: core-text-candidate
+    themes:
+      - new-criticism
+      - criticism
+      - close-reading
+      - university
+    status: edition-review-needed
+  - id: heidegger-language
+    title: Language
+    creator: Martin Heidegger
+    extraction_work_titles:
+      - Language
+    role: core-text-candidate
+    themes:
+      - language
+      - being
+      - poetry
+      - dwelling
+    status: edition-review-needed
 
 constellations:
   - id: rhetoric-and-force
@@ -704,6 +764,10 @@ constellations:
       - jung-analytical-psychology-poetry
       - woolf-room-of-ones-own
       - lukacs-realism-in-the-balance
+      - eichenbaum-theory-formal-method
+      - eliot-tradition-individual-talent
+      - eliot-metaphysical-poets
+      - ransom-criticism-inc
     relations:
       - tension
       - craft
@@ -726,6 +790,8 @@ constellations:
       - freud-dreams-uncanny-fetishism
       - saussure-course-general-linguistics
       - jung-analytical-psychology-poetry
+      - eichenbaum-theory-formal-method
+      - heidegger-language
     relations:
       - writing
       - interpretation
@@ -750,6 +816,7 @@ constellations:
       - nietzsche-birth-of-tragedy
       - wilde-selected-critical-prose
       - jung-analytical-psychology-poetry
+      - heidegger-language
     relations:
       - sublimity
       - ascent
@@ -777,6 +844,11 @@ constellations:
       - jung-analytical-psychology-poetry
       - woolf-room-of-ones-own
       - lukacs-realism-in-the-balance
+      - eichenbaum-theory-formal-method
+      - eliot-tradition-individual-talent
+      - eliot-metaphysical-poets
+      - ransom-criticism-inc
+      - heidegger-language
     relations:
       - commentary
       - transmission
@@ -810,6 +882,7 @@ constellations:
       - trotsky-literature-and-revolution
       - woolf-room-of-ones-own
       - lukacs-realism-in-the-balance
+      - ransom-criticism-inc
     relations:
       - pedagogy
       - civic-formation
@@ -833,6 +906,7 @@ constellations:
       - trotsky-literature-and-revolution
       - woolf-room-of-ones-own
       - lukacs-realism-in-the-balance
+      - heidegger-language
     relations:
       - vernacular
       - imitation
@@ -876,6 +950,7 @@ constellations:
       - freud-dreams-uncanny-fetishism
       - du-bois-criteria-of-negro-art
       - woolf-room-of-ones-own
+      - eliot-tradition-individual-talent
     relations:
       - authorship
       - gender
@@ -906,6 +981,9 @@ constellations:
       - wilde-selected-critical-prose
       - du-bois-criteria-of-negro-art
       - lukacs-realism-in-the-balance
+      - eliot-tradition-individual-talent
+      - eliot-metaphysical-poets
+      - ransom-criticism-inc
     relations:
       - taste
       - criticism
@@ -952,6 +1030,11 @@ constellations:
       - trotsky-literature-and-revolution
       - woolf-room-of-ones-own
       - lukacs-realism-in-the-balance
+      - eichenbaum-theory-formal-method
+      - eliot-tradition-individual-talent
+      - eliot-metaphysical-poets
+      - ransom-criticism-inc
+      - heidegger-language
     relations:
       - medium
       - form
@@ -974,6 +1057,7 @@ constellations:
       - wilde-selected-critical-prose
       - du-bois-criteria-of-negro-art
       - woolf-room-of-ones-own
+      - ransom-criticism-inc
     relations:
       - education
       - freedom
@@ -998,6 +1082,8 @@ constellations:
       - jung-analytical-psychology-poetry
       - woolf-room-of-ones-own
       - lukacs-realism-in-the-balance
+      - eliot-tradition-individual-talent
+      - eliot-metaphysical-poets
     relations:
       - poetry
       - modernity
@@ -1016,6 +1102,8 @@ constellations:
       - trotsky-literature-and-revolution
       - woolf-room-of-ones-own
       - lukacs-realism-in-the-balance
+      - eliot-tradition-individual-talent
+      - eliot-metaphysical-poets
     relations:
       - utility
       - aestheticism
@@ -1034,6 +1122,8 @@ constellations:
       - trotsky-literature-and-revolution
       - woolf-room-of-ones-own
       - lukacs-realism-in-the-balance
+      - eichenbaum-theory-formal-method
+      - ransom-criticism-inc
     relations:
       - labor
       - ideology
@@ -1056,6 +1146,10 @@ constellations:
       - trotsky-literature-and-revolution
       - woolf-room-of-ones-own
       - lukacs-realism-in-the-balance
+      - eichenbaum-theory-formal-method
+      - eliot-tradition-individual-talent
+      - eliot-metaphysical-poets
+      - heidegger-language
     relations:
       - language
       - fiction

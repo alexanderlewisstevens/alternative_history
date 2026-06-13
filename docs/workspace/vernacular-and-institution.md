@@ -38,7 +38,8 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/du-bois-criteria-of-negro-art/"><strong>W. E. B. Du Bois, Criteria of Negro Art</strong><span>race, art, propaganda; pages 1024-1030; 7 review rows</span></a>
   <a href="../norton-texts/trotsky-literature-and-revolution/"><strong>Leon Trotsky, Literature and Revolution</strong><span>marxism, revolution, form; pages 1049-1060; 12 review rows</span></a>
   <a href="../norton-texts/woolf-room-of-ones-own/"><strong>Virginia Woolf, A Room of One&#x27;s Own</strong><span>feminism, authorship, education; pages 1065-1073; 9 review rows</span></a>
-  <a href="../norton-texts/lukacs-realism-in-the-balance/"><strong>Gyorgy Lukacs, Realism in the Balance</strong><span>realism, marxism, modernism; pages 1077-1087; 11 review rows</span></a>
+  <a href="../norton-texts/lukacs-realism-in-the-balance/"><strong>Gyorgy Lukacs, Realism in the Balance</strong><span>realism, marxism, modernism; pages 1077-1101; 25 review rows</span></a>
+  <a href="../norton-texts/heidegger-language/"><strong>Martin Heidegger, Language</strong><span>language, being, poetry; pages 1165-1167; 3 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -67,6 +68,7 @@ This is a scaffold for reading the configured texts together. It should become a
 14. [Leon Trotsky, Literature and Revolution](norton-texts/trotsky-literature-and-revolution.md)
 15. [Virginia Woolf, A Room of One&#x27;s Own](norton-texts/woolf-room-of-ones-own.md)
 16. [Gyorgy Lukacs, Realism in the Balance](norton-texts/lukacs-realism-in-the-balance.md)
+17. [Martin Heidegger, Language](norton-texts/heidegger-language.md)
 
 ## Review Pressure
 
@@ -87,7 +89,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Criteria of Negro Art](norton-texts/du-bois-criteria-of-negro-art.md) | 1024-1030 | 7 | excerpt: 7 |
 | [Literature and Revolution](norton-texts/trotsky-literature-and-revolution.md) | 1049-1060 | 12 | excerpt: 12 |
 | [A Room of One&#x27;s Own](norton-texts/woolf-room-of-ones-own.md) | 1065-1073 | 9 | excerpt: 9 |
-| [Realism in the Balance](norton-texts/lukacs-realism-in-the-balance.md) | 1077-1087 | 11 | excerpt: 11 |
+| [Realism in the Balance](norton-texts/lukacs-realism-in-the-balance.md) | 1077-1101 | 25 | excerpt: 25 |
+| [Language](norton-texts/heidegger-language.md) | 1165-1167 | 3 | excerpt: 3 |
 
 ## Passage Queue
 
@@ -141,8 +144,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:15:32Z` |
-| Git commit | `72bf05e` |
+| Generated at | `2026-06-13T05:23:17Z` |
+| Git commit | `752b0b4` |
 | Script version | `2` |
 | Output path | `docs/workspace/vernacular-and-institution.md` |
 

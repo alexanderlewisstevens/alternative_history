@@ -30,8 +30,6 @@ This note turns the current Norton chunk for Samuel Taylor Coleridge into a navi
 ## Works And Excerpt Blocks
 
 - The Statesman&#x27;s Manual and Biographia Literaria
-- Biographia Literaria
-- The Statesman&#x27;s Manual
 
 ## Constellations
 
@@ -99,8 +97,8 @@ This note turns the current Norton chunk for Samuel Taylor Coleridge into a navi
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/samuel-taylor-coleridge.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T05:15:38Z` |
-| Git commit | `72bf05e` |
+| Generated at | `2026-06-13T05:23:34Z` |
+| Git commit | `752b0b4` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/coleridge-statesmans-manual-biographia-literaria.md` |
 

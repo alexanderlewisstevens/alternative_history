@@ -30,7 +30,6 @@ This note turns the current Norton chunk for Giambattista Giraldi into a navigab
 ## Works And Excerpt Blocks
 
 - Discourse on the Composition of Romances
-- a contemporary perspective, one jarring aspect of Giraldi&#x27;s theory of decorum
 
 ## Constellations
 
@@ -90,8 +89,8 @@ This note turns the current Norton chunk for Giambattista Giraldi into a navigab
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/giambattista-giraldi.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T05:15:38Z` |
-| Git commit | `72bf05e` |
+| Generated at | `2026-06-13T05:23:34Z` |
+| Git commit | `752b0b4` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/giambattista-giraldi-composition-romances.md` |
 

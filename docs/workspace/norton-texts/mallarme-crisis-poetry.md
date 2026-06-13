@@ -30,8 +30,6 @@ This note turns the current Norton chunk for Stephane Mallarme into a navigable 
 ## Works And Excerpt Blocks
 
 - Crisis in Poetry
-- Studies in the History of the Renaissance
-- St~pi-iane Mallarme
 
 ## Constellations
 
@@ -94,8 +92,8 @@ This note turns the current Norton chunk for Stephane Mallarme into a navigable 
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/stephane-mallarme.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T05:15:38Z` |
-| Git commit | `72bf05e` |
+| Generated at | `2026-06-13T05:23:35Z` |
+| Git commit | `752b0b4` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/mallarme-crisis-poetry.md` |
 

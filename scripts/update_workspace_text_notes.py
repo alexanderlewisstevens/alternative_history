@@ -114,6 +114,18 @@ def author_row_for_text(text: dict[str, Any], author_assembly: list[dict[str, st
     return None
 
 
+def registered_work_titles(text: dict[str, Any]) -> list[str]:
+    titles: list[str] = []
+    title = str(text.get("title", "")).strip()
+    if title:
+        titles.append(title)
+    for value in text.get("extraction_work_titles", []):
+        clean = str(value).strip()
+        if clean and clean not in titles:
+            titles.append(clean)
+    return titles
+
+
 def review_reason_summary(counter: Counter[str]) -> str:
     if not counter or counter.get("total", 0) == 0:
         return "No review rows currently flagged."
@@ -180,7 +192,7 @@ def build_text_note(
     text_id = str(text["id"])
     author_slug = author_row.get("author_slug", "") if author_row else ""
     author_name = names.get(author_slug, str(text.get("creator", "")))
-    author_works = works.get(author_slug, [])
+    work_titles = registered_work_titles(text) or works.get(author_slug, [])
     kinds = page_kinds_for_records(text_records) or page_kinds.get(author_slug, Counter())
     reviews = review_counts_for_records(text_records) or review_counts.get(author_slug, Counter())
     constellation_ids = [str(item.get("id", "")) for item in text_constellations(text_id, constellations)]
@@ -216,7 +228,7 @@ This note turns the current Norton chunk for {html.escape(author_name)} into a n
 
 ## Works And Excerpt Blocks
 
-{markdown_list([html.escape(value) for value in author_works], "No work titles detected yet.")}
+{markdown_list([html.escape(value) for value in work_titles], "No work titles detected yet.")}
 
 ## Constellations
 

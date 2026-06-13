@@ -13,6 +13,7 @@ This private index is generated from curated source metadata and local extractio
 | [Aphra Behn](aphra-behn.md) | 1 | The Dutch Lover and Preface to The Lucky Chance |
 | [Aristotle](aristotle.md) | 1 | Poetics and Rhetoric |
 | [Augustine of Hippo](augustine-of-hippo.md) | 1 | On Christian Doctrine and The Trinity |
+| [Boris Eichenbaum](boris-eichenbaum.md) | 1 | The Theory of the Formal Method |
 | [Carl Gustav Jung](carl-gustav-jung.md) | 1 | On the Relation of Analytical Psychology to Poetry |
 | [Charles Baudelaire](charles-baudelaire.md) | 1 | The Painter of Modern Life |
 | [Christine de Pizan](christine-de-pizan.md) | 1 | The Book of the City of Ladies |
@@ -40,12 +41,14 @@ This private index is generated from curated source metadata and local extractio
 | [Hugh of St. Victor](hugh-of-st-victor.md) | 1 | The Didascalicon |
 | [Immanuel Kant](immanuel-kant.md) | 1 | Critique of Judgment |
 | [Joachim du Bellay](joachim-du-bellay.md) | 1 | The Defence and Illustration of the French Language |
+| [John Crowe Ransom](john-crowe-ransom.md) | 1 | Criticism, Inc. |
 | [John Dryden](john-dryden.md) | 1 | Selected Critical Prose |
 | [Joseph Addison](joseph-addison.md) | 1 | The Spectator, Nos. 62 and 412 |
 | [Karl Marx and Friedrich Engels](karl-marx-and-friedrich-engels.md) | 1 | Selected Cultural and Historical Writings |
 | [Leon Trotsky](leon-trotsky.md) | 1 | Literature and Revolution |
 | [Longinus](longinus.md) | 1 | On Sublimity |
 | [Macrobius](macrobius.md) | 1 | Commentary on the Dream of Scipio |
+| [Martin Heidegger](martin-heidegger.md) | 1 | Language |
 | [Mary Wollstonecraft](mary-wollstonecraft.md) | 1 | A Vindication of the Rights of Woman |
 | [Matthew Arnold](matthew-arnold.md) | 1 | Selected Critical Prose |
 | [Moses Maimonides](moses-maimonides.md) | 1 | The Guide of the Perplexed |
@@ -62,6 +65,7 @@ This private index is generated from curated source metadata and local extractio
 | [Sigmund Freud](sigmund-freud.md) | 1 | The Interpretation of Dreams, The Uncanny, and Fetishism |
 | [Sir Philip Sidney](sir-philip-sidney.md) | 1 | The Defense of Poesy |
 | [Stephane Mallarme](stephane-mallarme.md) | 1 | Crisis in Poetry |
+| [T. S. Eliot](t-s-eliot.md) | 2 | Tradition and the Individual Talent, The Metaphysical Poets |
 | [Theophile Gautier](theophile-gautier.md) | 1 | Preface to Mademoiselle de Maupin |
 | [Thomas Aquinas](thomas-aquinas.md) | 1 | Summa Theologica |
 | [Thomas Love Peacock](thomas-love-peacock.md) | 1 | The Four Ages of Poetry |
@@ -91,7 +95,7 @@ This private index is generated from curated source metadata and local extractio
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
-| Generated at | `2026-06-13T05:15:35Z` |
-| Git commit | `72bf05e` |
+| Generated at | `2026-06-13T05:23:31Z` |
+| Git commit | `752b0b4` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/index.md` |

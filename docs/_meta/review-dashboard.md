@@ -5,7 +5,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Boundary Review</div>
-  <div class="ah-metric-value">204</div>
+  <div class="ah-metric-value">219</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Content Separation</div>
@@ -13,15 +13,15 @@ This is the editorial queue for restricted extraction work. It is generated from
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Layout Review</div>
-  <div class="ah-metric-value">317</div>
+  <div class="ah-metric-value">329</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Source Notes</div>
-  <div class="ah-metric-value">64</div>
+  <div class="ah-metric-value">69</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">General Review</div>
-  <div class="ah-metric-value">221</div>
+  <div class="ah-metric-value">261</div>
 </div>
 </div>
 
@@ -29,10 +29,10 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 <div class="ah-review-grid">
 <section class="ah-review-card warn">
-  <div class="ah-review-card-kicker">204 pages</div>
+  <div class="ah-review-card-kicker">219 pages</div>
   <h3>Boundary Review</h3>
   <p>Confirm thinker and work boundaries before assembling public-facing drafts.</p>
-  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +192 more</p>
+  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +207 more</p>
 </section>
 <section class="ah-review-card warn">
   <div class="ah-review-card-kicker">9 pages</div>
@@ -41,22 +41,22 @@ This is the editorial queue for restricted extraction work. It is generated from
   <p><strong>Start:</strong> <code>72</code>, <code>199</code>, <code>285</code>, <code>297</code>, <code>344</code>, <code>368</code>, <code>443</code>, <code>469</code>, <code>655</code></p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">317 pages</div>
+  <div class="ah-review-card-kicker">329 pages</div>
   <h3>Layout Review</h3>
   <p>Confirm multi-column reading order before any summary or excerpt curation.</p>
-  <p><strong>Start:</strong> <code>73</code>, <code>79</code>, <code>80</code>, <code>82</code>, <code>83</code>, <code>84</code>, <code>86</code>, <code>90</code>, <code>91</code>, <code>92</code>, <code>93</code>, <code>94</code> +305 more</p>
+  <p><strong>Start:</strong> <code>73</code>, <code>79</code>, <code>80</code>, <code>82</code>, <code>83</code>, <code>84</code>, <code>86</code>, <code>90</code>, <code>91</code>, <code>92</code>, <code>93</code>, <code>94</code> +317 more</p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">64 pages</div>
+  <div class="ah-review-card-kicker">69 pages</div>
   <h3>Source Notes</h3>
   <p>Move source footnotes into Source Notes without converting them into Markdown footnotes.</p>
-  <p><strong>Start:</strong> <code>74</code>, <code>98</code>, <code>99</code>, <code>126</code>, <code>185</code>, <code>190</code>, <code>191</code>, <code>192</code>, <code>194</code>, <code>204</code>, <code>213</code>, <code>218</code> +52 more</p>
+  <p><strong>Start:</strong> <code>74</code>, <code>98</code>, <code>99</code>, <code>126</code>, <code>185</code>, <code>190</code>, <code>191</code>, <code>192</code>, <code>194</code>, <code>204</code>, <code>213</code>, <code>218</code> +57 more</p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">221 pages</div>
+  <div class="ah-review-card-kicker">261 pages</div>
   <h3>General Review</h3>
   <p>Resolve remaining template or classification questions.</p>
-  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +209 more</p>
+  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +249 more</p>
 </section>
 </div>
 
@@ -72,11 +72,11 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Field | Value |
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
-| Classified source pages | `71-1087` |
-| Review queue rows | `815` |
+| Classified source pages | `71-1167` |
+| Review queue rows | `887` |
 | Review queue file | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
-| Generated at | `2026-06-13T05:15:34Z` |
-| Git commit | `72bf05e` |
+| Generated at | `2026-06-13T05:23:30Z` |
+| Git commit | `752b0b4` |
 | Script version | `1` |
 | Output path | `docs/_meta/review-dashboard.md` |
 
@@ -84,16 +84,16 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 | Reason | Pages |
 | --- | ---: |
-| multi_column_layout | 330 |
-| source_notes_detected | 291 |
-| transition_from_previous_author | 184 |
-| mixed_work_transition_page | 182 |
-| mixed_bibliography_and_work_title | 77 |
-| mixed_transition_page | 56 |
+| multi_column_layout | 342 |
+| source_notes_detected | 305 |
+| mixed_work_transition_page | 230 |
+| transition_from_previous_author | 199 |
+| mixed_bibliography_and_work_title | 92 |
+| mixed_transition_page | 67 |
 | layout_review_required | 23 |
 | author_boundary_without_life_dates | 18 |
-| continues_beyond_current_batch | 11 |
 | mixed_excerpt_and_bibliography | 9 |
+| continues_beyond_current_batch | 3 |
 | transition_from_previous_work | 2 |
 | ocr_title_cleanup | 2 |
 
@@ -106,14 +106,17 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Matthew Arnold | 31 |
 | Plato | 29 |
 | Karl Marx and Friedrich Engels | 29 |
+| Gyorgy Lukacs | 28 |
 | Friedrich Nietzsche | 27 |
 | Aristotle | 23 |
+| Boris Eichenbaum | 22 |
 | Samuel Johnson | 21 |
 | Ralph Waldo Emerson | 21 |
 | Ferdinand de Saussure | 21 |
 | Alexander Pope | 20 |
 | Longinus | 19 |
 | Percy Bysshe Shelley | 19 |
+| T. S. Eliot | 17 |
 | Oscar Wilde | 16 |
 | Moses Maimonides | 15 |
 | Giacopo Mazzoni | 15 |
@@ -124,9 +127,9 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Immanuel Kant | 14 |
 | Friedrich Schleiermacher | 14 |
 | Thomas Love Peacock | 14 |
-| Gyorgy Lukacs | 14 |
 | Samuel Taylor Coleridge | 13 |
 | Virginia Woolf | 13 |
+| John Crowe Ransom | 13 |
 | Geoffrey of Vinsauf | 12 |
 | Joachim du Bellay | 11 |
 | Pierre Corneille | 11 |
@@ -156,6 +159,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Thomas Aquinas | 6 |
 | Edmund Burke | 6 |
 | Georg Wilhelm Friedrich Hegel | 6 |
+| Martin Heidegger | 6 |
 | Dante Alighieri | 5 |
 | Pierre de Ronsard | 5 |
 | Macrobius | 4 |
@@ -370,6 +374,21 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 1074 | Gyorgy Lukacs |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1074.md |
 | 1075 | Gyorgy Lukacs | the 1930s onward, Lukacs directed considerable effort toward the construc- | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1075.md |
 | 1076 | Gyorgy Lukacs |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1076.md |
+| 1102 | Boris Eichenbaum | Realism in the Balance | mixed_bibliography_and_work_title;mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1102.md |
+| 1103 | Boris Eichenbaum |  | mixed_bibliography_and_work_title;mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1103.md |
+| 1104 | Boris Eichenbaum |  | mixed_bibliography_and_work_title;mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1104.md |
+| 1105 | Boris Eichenbaum | Boris Eichenbaum | mixed_bibliography_and_work_title;mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1105.md |
+| 1106 | Boris Eichenbaum | The Theory of the Formal Method | mixed_bibliography_and_work_title;mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1106.md |
+| 1132 | T. S. Eliot |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1132.md |
+| 1133 | T. S. Eliot |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1133.md |
+| 1134 | T. S. Eliot |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1134.md |
+| 1135 | T. S. Eliot |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1135.md |
+| 1149 | John Crowe Ransom | The Metaphysical Poets | mixed_bibliography_and_work_title;mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1149.md |
+| 1150 | John Crowe Ransom |  | mixed_bibliography_and_work_title;mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1150.md |
+| 1151 | John Crowe Ransom |  | mixed_bibliography_and_work_title;mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1151.md |
+| 1162 | Martin Heidegger | Criticism, Inc. | mixed_bibliography_and_work_title;mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1162.md |
+| 1163 | Martin Heidegger | Martin Heidegger | mixed_bibliography_and_work_title;mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1163.md |
+| 1164 | Martin Heidegger |  | mixed_bibliography_and_work_title;mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1164.md |
 
 ## Content Separation
 
@@ -706,6 +725,18 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 953 | Oscar Wilde | The Critic as Artist | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0953.md |
 | 954 | Oscar Wilde | The Critic as Artist | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0954.md |
 | 956 | Oscar Wilde | The Critic as Artist | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0956.md |
+| 1108 | Boris Eichenbaum | The Theory of the Formal Method | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_1108.md |
+| 1109 | Boris Eichenbaum | The Theory of the Formal Method | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_1109.md |
+| 1110 | Boris Eichenbaum | The Theory of the Formal Method | multi_column_layout | work/page-records/norton-theory-criticism/page_1110.md |
+| 1111 | Boris Eichenbaum | The Theory of the Formal Method | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_1111.md |
+| 1112 | Boris Eichenbaum | The Theory of the Formal Method | multi_column_layout | work/page-records/norton-theory-criticism/page_1112.md |
+| 1114 | Boris Eichenbaum | The Theory of the Formal Method | multi_column_layout | work/page-records/norton-theory-criticism/page_1114.md |
+| 1116 | Boris Eichenbaum | The Theory of the Formal Method | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_1116.md |
+| 1118 | Boris Eichenbaum | The Theory of the Formal Method | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_1118.md |
+| 1119 | Boris Eichenbaum | The Theory of the Formal Method | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_1119.md |
+| 1120 | Boris Eichenbaum | The Theory of the Formal Method | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_1120.md |
+| 1122 | Boris Eichenbaum | The Theory of the Formal Method | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_1122.md |
+| 1129 | Boris Eichenbaum | The Theory of the Formal Method | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_1129.md |
 
 ## Source Notes
 
@@ -775,6 +806,11 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 737 | Thomas Love Peacock | The Four Ages of Poetry | source_notes_detected | work/page-records/norton-theory-criticism/page_0737.md |
 | 749 | Percy Bysshe Shelley | A Defence of Poetry | source_notes_detected | work/page-records/norton-theory-criticism/page_0749.md |
 | 911 | Henry James | The Art of Fiction | source_notes_detected | work/page-records/norton-theory-criticism/page_0911.md |
+| 1115 | Boris Eichenbaum | The Theory of the Formal Method | source_notes_detected | work/page-records/norton-theory-criticism/page_1115.md |
+| 1117 | Boris Eichenbaum | The Theory of the Formal Method | source_notes_detected | work/page-records/norton-theory-criticism/page_1117.md |
+| 1123 | Boris Eichenbaum | The Theory of the Formal Method | source_notes_detected | work/page-records/norton-theory-criticism/page_1123.md |
+| 1124 | Boris Eichenbaum | The Theory of the Formal Method | source_notes_detected | work/page-records/norton-theory-criticism/page_1124.md |
+| 1128 | Boris Eichenbaum | The Theory of the Formal Method | source_notes_detected | work/page-records/norton-theory-criticism/page_1128.md |
 
 ## General Review
 
@@ -990,14 +1026,54 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 1071 | Virginia Woolf | A Room of One's Own | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1071.md |
 | 1072 | Virginia Woolf | A Room of One's Own | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1072.md |
 | 1073 | Virginia Woolf | A Room of One's Own | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1073.md |
-| 1077 | Gyorgy Lukacs | Realism in the Balance | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1077.md |
-| 1078 | Gyorgy Lukacs | Realism in the Balance | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1078.md |
-| 1079 | Gyorgy Lukacs | Realism in the Balance | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1079.md |
-| 1080 | Gyorgy Lukacs | Realism in the Balance | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1080.md |
-| 1081 | Gyorgy Lukacs | Realism in the Balance | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1081.md |
-| 1082 | Gyorgy Lukacs | Realism in the Balance | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1082.md |
-| 1083 | Gyorgy Lukacs | Realism in the Balance | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1083.md |
-| 1084 | Gyorgy Lukacs | Realism in the Balance | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1084.md |
-| 1085 | Gyorgy Lukacs | Realism in the Balance | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1085.md |
-| 1086 | Gyorgy Lukacs | Realism in the Balance | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1086.md |
-| 1087 | Gyorgy Lukacs | Realism in the Balance | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1087.md |
+| 1077 | Gyorgy Lukacs | Realism in the Balance | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1077.md |
+| 1078 | Gyorgy Lukacs | Realism in the Balance | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1078.md |
+| 1079 | Gyorgy Lukacs | Realism in the Balance | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1079.md |
+| 1080 | Gyorgy Lukacs | Realism in the Balance | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1080.md |
+| 1081 | Gyorgy Lukacs | Realism in the Balance | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1081.md |
+| 1082 | Gyorgy Lukacs | Realism in the Balance | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1082.md |
+| 1083 | Gyorgy Lukacs | Realism in the Balance | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1083.md |
+| 1084 | Gyorgy Lukacs | Realism in the Balance | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1084.md |
+| 1085 | Gyorgy Lukacs | Realism in the Balance | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1085.md |
+| 1086 | Gyorgy Lukacs | Realism in the Balance | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1086.md |
+| 1087 | Gyorgy Lukacs | Realism in the Balance | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1087.md |
+| 1088 | Gyorgy Lukacs | Realism in the Balance | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1088.md |
+| 1089 | Gyorgy Lukacs | Realism in the Balance | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1089.md |
+| 1090 | Gyorgy Lukacs | Realism in the Balance | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1090.md |
+| 1091 | Gyorgy Lukacs | Realism in the Balance | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1091.md |
+| 1092 | Gyorgy Lukacs | Realism in the Balance | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1092.md |
+| 1093 | Gyorgy Lukacs | Realism in the Balance | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1093.md |
+| 1094 | Gyorgy Lukacs | Realism in the Balance | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1094.md |
+| 1095 | Gyorgy Lukacs | Realism in the Balance | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1095.md |
+| 1096 | Gyorgy Lukacs | Realism in the Balance | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1096.md |
+| 1097 | Gyorgy Lukacs | Realism in the Balance | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1097.md |
+| 1098 | Gyorgy Lukacs | Realism in the Balance | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1098.md |
+| 1099 | Gyorgy Lukacs | Realism in the Balance | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1099.md |
+| 1100 | Gyorgy Lukacs | Realism in the Balance | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1100.md |
+| 1101 | Gyorgy Lukacs | Realism in the Balance | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1101.md |
+| 1136 | T. S. Eliot | Tradition and the Individual Talent | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1136.md |
+| 1137 | T. S. Eliot | Tradition and the Individual Talent | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1137.md |
+| 1138 | T. S. Eliot | Tradition and the Individual Talent | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1138.md |
+| 1139 | T. S. Eliot | Tradition and the Individual Talent | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1139.md |
+| 1140 | T. S. Eliot | Tradition and the Individual Talent | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1140.md |
+| 1141 | T. S. Eliot | The Metaphysical Poets | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1141.md |
+| 1142 | T. S. Eliot | The Metaphysical Poets | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1142.md |
+| 1143 | T. S. Eliot | The Metaphysical Poets | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1143.md |
+| 1144 | T. S. Eliot | The Metaphysical Poets | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1144.md |
+| 1145 | T. S. Eliot | The Metaphysical Poets | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1145.md |
+| 1146 | T. S. Eliot | The Metaphysical Poets | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1146.md |
+| 1147 | T. S. Eliot | The Metaphysical Poets | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1147.md |
+| 1148 | T. S. Eliot | The Metaphysical Poets | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1148.md |
+| 1152 | John Crowe Ransom | Criticism, Inc. | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1152.md |
+| 1153 | John Crowe Ransom | Criticism, Inc. | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1153.md |
+| 1154 | John Crowe Ransom | Criticism, Inc. | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1154.md |
+| 1155 | John Crowe Ransom | Criticism, Inc. | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1155.md |
+| 1156 | John Crowe Ransom | Criticism, Inc. | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1156.md |
+| 1157 | John Crowe Ransom | Criticism, Inc. | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1157.md |
+| 1158 | John Crowe Ransom | Criticism, Inc. | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1158.md |
+| 1159 | John Crowe Ransom | Criticism, Inc. | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1159.md |
+| 1160 | John Crowe Ransom | Criticism, Inc. | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1160.md |
+| 1161 | John Crowe Ransom | Criticism, Inc. | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1161.md |
+| 1165 | Martin Heidegger | Language | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1165.md |
+| 1166 | Martin Heidegger | Language | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1166.md |
+| 1167 | Martin Heidegger | Language | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1167.md |

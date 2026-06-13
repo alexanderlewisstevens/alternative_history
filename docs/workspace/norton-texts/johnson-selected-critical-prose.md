@@ -30,9 +30,6 @@ This note turns the current Norton chunk for Samuel Johnson into a navigable wor
 ## Works And Excerpt Blocks
 
 - Selected Critical Prose
-- Preface to Shakespeare
-- The History of Rasselas
-- The Rambler, No
 
 ## Constellations
 
@@ -95,8 +92,8 @@ This note turns the current Norton chunk for Samuel Johnson into a navigable wor
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/samuel-johnson.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T05:15:38Z` |
-| Git commit | `72bf05e` |
+| Generated at | `2026-06-13T05:23:34Z` |
+| Git commit | `752b0b4` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/johnson-selected-critical-prose.md` |
 

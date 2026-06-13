@@ -25,9 +25,6 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 ## Works And Excerpt Blocks
 
 - Essay on Fictions and On Literature Considered in Its Relationship to Social Institutions
-- Essay on Fictions
-- Headnote
-- On Literature Considered in Its Relationship to Social Institutions
 
 ## Constellation Backlinks
 
@@ -94,8 +91,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T05:15:35Z` |
-| Git commit | `72bf05e` |
+| Generated at | `2026-06-13T05:23:31Z` |
+| Git commit | `752b0b4` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/germaine-de-stael.md` |
 

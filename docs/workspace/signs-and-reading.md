@@ -38,6 +38,8 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/freud-dreams-uncanny-fetishism/"><strong>Sigmund Freud, The Interpretation of Dreams, The Uncanny, and Fetishism</strong><span>psychoanalysis, dreams, uncanny; pages 963-999; 37 review rows</span></a>
   <a href="../norton-texts/saussure-course-general-linguistics/"><strong>Ferdinand de Saussure, Course in General Linguistics</strong><span>language, signs, structure; pages 1004-1020; 17 review rows</span></a>
   <a href="../norton-texts/jung-analytical-psychology-poetry/"><strong>Carl Gustav Jung, On the Relation of Analytical Psychology to Poetry</strong><span>psychology, archetype, myth; pages 1034-1045; 12 review rows</span></a>
+  <a href="../norton-texts/eichenbaum-theory-formal-method/"><strong>Boris Eichenbaum, The Theory of the Formal Method</strong><span>formalism, literary-theory, method; pages 1106-1131; 18 review rows</span></a>
+  <a href="../norton-texts/heidegger-language/"><strong>Martin Heidegger, Language</strong><span>language, being, poetry; pages 1165-1167; 3 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -65,6 +67,8 @@ This is a scaffold for reading the configured texts together. It should become a
 13. [Sigmund Freud, The Interpretation of Dreams, The Uncanny, and Fetishism](norton-texts/freud-dreams-uncanny-fetishism.md)
 14. [Ferdinand de Saussure, Course in General Linguistics](norton-texts/saussure-course-general-linguistics.md)
 15. [Carl Gustav Jung, On the Relation of Analytical Psychology to Poetry](norton-texts/jung-analytical-psychology-poetry.md)
+16. [Boris Eichenbaum, The Theory of the Formal Method](norton-texts/eichenbaum-theory-formal-method.md)
+17. [Martin Heidegger, Language](norton-texts/heidegger-language.md)
 
 ## Review Pressure
 
@@ -85,6 +89,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | [The Interpretation of Dreams, The Uncanny, and Fetishism](norton-texts/freud-dreams-uncanny-fetishism.md) | 963-999 | 37 | excerpt: 37 |
 | [Course in General Linguistics](norton-texts/saussure-course-general-linguistics.md) | 1004-1020 | 17 | excerpt: 17 |
 | [On the Relation of Analytical Psychology to Poetry](norton-texts/jung-analytical-psychology-poetry.md) | 1034-1045 | 12 | excerpt: 12 |
+| [The Theory of the Formal Method](norton-texts/eichenbaum-theory-formal-method.md) | 1106-1131 | 18 | excerpt: 26 |
+| [Language](norton-texts/heidegger-language.md) | 1165-1167 | 3 | excerpt: 3 |
 
 ## Passage Queue
 
@@ -138,8 +144,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:15:32Z` |
-| Git commit | `72bf05e` |
+| Generated at | `2026-06-13T05:23:16Z` |
+| Git commit | `752b0b4` |
 | Script version | `2` |
 | Output path | `docs/workspace/signs-and-reading.md` |
 

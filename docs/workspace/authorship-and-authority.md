@@ -46,6 +46,7 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/freud-dreams-uncanny-fetishism/"><strong>Sigmund Freud, The Interpretation of Dreams, The Uncanny, and Fetishism</strong><span>psychoanalysis, dreams, uncanny; pages 963-999; 37 review rows</span></a>
   <a href="../norton-texts/du-bois-criteria-of-negro-art/"><strong>W. E. B. Du Bois, Criteria of Negro Art</strong><span>race, art, propaganda; pages 1024-1030; 7 review rows</span></a>
   <a href="../norton-texts/woolf-room-of-ones-own/"><strong>Virginia Woolf, A Room of One&#x27;s Own</strong><span>feminism, authorship, education; pages 1065-1073; 9 review rows</span></a>
+  <a href="../norton-texts/eliot-tradition-individual-talent/"><strong>T. S. Eliot, Tradition and the Individual Talent</strong><span>tradition, canon, modernism; pages 1136-1140; 5 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -81,6 +82,7 @@ This is a scaffold for reading the configured texts together. It should become a
 21. [Sigmund Freud, The Interpretation of Dreams, The Uncanny, and Fetishism](norton-texts/freud-dreams-uncanny-fetishism.md)
 22. [W. E. B. Du Bois, Criteria of Negro Art](norton-texts/du-bois-criteria-of-negro-art.md)
 23. [Virginia Woolf, A Room of One&#x27;s Own](norton-texts/woolf-room-of-ones-own.md)
+24. [T. S. Eliot, Tradition and the Individual Talent](norton-texts/eliot-tradition-individual-talent.md)
 
 ## Review Pressure
 
@@ -109,6 +111,7 @@ This is a scaffold for reading the configured texts together. It should become a
 | [The Interpretation of Dreams, The Uncanny, and Fetishism](norton-texts/freud-dreams-uncanny-fetishism.md) | 963-999 | 37 | excerpt: 37 |
 | [Criteria of Negro Art](norton-texts/du-bois-criteria-of-negro-art.md) | 1024-1030 | 7 | excerpt: 7 |
 | [A Room of One&#x27;s Own](norton-texts/woolf-room-of-ones-own.md) | 1065-1073 | 9 | excerpt: 9 |
+| [Tradition and the Individual Talent](norton-texts/eliot-tradition-individual-talent.md) | 1136-1140 | 5 | excerpt: 5 |
 
 ## Passage Queue
 
@@ -162,8 +165,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:15:32Z` |
-| Git commit | `72bf05e` |
+| Generated at | `2026-06-13T05:23:17Z` |
+| Git commit | `752b0b4` |
 | Script version | `2` |
 | Output path | `docs/workspace/authorship-and-authority.md` |
 

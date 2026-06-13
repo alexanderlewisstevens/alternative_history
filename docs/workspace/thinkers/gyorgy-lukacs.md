@@ -20,12 +20,11 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [Realism in the Balance](../norton-texts/lukacs-realism-in-the-balance.md) | 1074-1087 | 14 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[media-and-form](../media-and-form.md)<br>[romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md)<br>[art-utility-and-modern-life](../art-utility-and-modern-life.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
+| [Realism in the Balance](../norton-texts/lukacs-realism-in-the-balance.md) | 1074-1101 | 28 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[media-and-form](../media-and-form.md)<br>[romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md)<br>[art-utility-and-modern-life](../art-utility-and-modern-life.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
 - Realism in the Balance
-- the 1930s onward, Lukacs directed considerable effort toward the construc-
 
 ## Constellation Backlinks
 
@@ -44,9 +43,9 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Signal | Value |
 | --- | --- |
-| Page kinds | excerpt: 11<br>author_intro: 3 |
-| Review rows | 14 |
-| Review reasons | continues_beyond_current_batch: 11<br>mixed_bibliography_and_work_title: 3<br>transition_from_previous_author: 3 |
+| Page kinds | excerpt: 25<br>author_intro: 3 |
+| Review rows | 28 |
+| Review reasons | mixed_work_transition_page: 25<br>mixed_bibliography_and_work_title: 3<br>transition_from_previous_author: 3 |
 
 ## Passage Queue
 
@@ -97,8 +96,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T05:15:36Z` |
-| Git commit | `72bf05e` |
+| Generated at | `2026-06-13T05:23:31Z` |
+| Git commit | `752b0b4` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/gyorgy-lukacs.md` |
 

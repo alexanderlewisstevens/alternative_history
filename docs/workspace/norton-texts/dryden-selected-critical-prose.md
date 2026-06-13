@@ -30,9 +30,6 @@ This note turns the current Norton chunk for John Dryden into a navigable worksp
 ## Works And Excerpt Blocks
 
 - Selected Critical Prose
-- An Essay of Dramatic Poesy
-- Preface to Sylvae
-- Preface to Troilus and Cressida
 
 ## Constellations
 
@@ -93,8 +90,8 @@ This note turns the current Norton chunk for John Dryden into a navigable worksp
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/john-dryden.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T05:15:38Z` |
-| Git commit | `72bf05e` |
+| Generated at | `2026-06-13T05:23:34Z` |
+| Git commit | `752b0b4` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/dryden-selected-critical-prose.md` |
 

@@ -25,9 +25,6 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 ## Works And Excerpt Blocks
 
 - Criteria of Negro Art
-- 1910 to 1934 Du Bois was the editor of the NAACP&#x27;s monthly magaZine
-- Course in General Linguistics
-- the 1930s until his death in 1963, Du Bois remained an activist and a prolific
 
 ## Constellation Backlinks
 
@@ -99,8 +96,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T05:15:36Z` |
-| Git commit | `72bf05e` |
+| Generated at | `2026-06-13T05:23:32Z` |
+| Git commit | `752b0b4` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/web-du-bois.md` |
 

@@ -20,17 +20,16 @@ This note turns the current Norton chunk for Gyorgy Lukacs into a navigable work
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Chunk Status</span>
-  <h3>Norton Pages 1077-1087</h3>
-  <p><strong>Page count:</strong> 11</p>
+  <h3>Norton Pages 1077-1101</h3>
+  <p><strong>Page count:</strong> 25</p>
   <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/gyorgy-lukacs.md</code></p>
-  <p><strong>Page kinds:</strong> excerpt: 11</p>
-  <p><strong>Review pressure:</strong> 11 rows. continues_beyond_current_batch: 11</p>
+  <p><strong>Page kinds:</strong> excerpt: 25</p>
+  <p><strong>Review pressure:</strong> 25 rows. mixed_work_transition_page: 25</p>
 </section>
 
 ## Works And Excerpt Blocks
 
 - Realism in the Balance
-- the 1930s onward, Lukacs directed considerable effort toward the construc-
 
 ## Constellations
 
@@ -52,7 +51,7 @@ This note turns the current Norton chunk for Gyorgy Lukacs into a navigable work
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Anchor Candidates</span>
   <h3>Choose Passages After Review</h3>
-  <p><strong>Source location:</strong> Norton page range 1077-1087.</p>
+  <p><strong>Source location:</strong> Norton page range 1077-1101.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
   <p><strong>Use:</strong> Find the passages that make this text active inside poetry-and-judgment, commentary-and-afterlife, education-and-civic-life, vernacular-and-institution, taste-and-standards, media-and-form, romantic-poetry-and-modernity, art-utility-and-modern-life, labor-ideology-and-culture, language-truth-and-fiction.</p>
 </section>
@@ -60,7 +59,7 @@ This note turns the current Norton chunk for Gyorgy Lukacs into a navigable work
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Review Before Quoting</span>
   <h3>Layout, Notes, And Bibliography</h3>
-  <p><strong>Review signal:</strong> continues_beyond_current_batch: 11</p>
+  <p><strong>Review signal:</strong> mixed_work_transition_page: 25</p>
   <p><strong>Editorial rule:</strong> source notes belong in source-note fields, bibliography belongs in bibliography fields, and excerpt text stays separate.</p>
 </section>
 
@@ -98,8 +97,8 @@ This note turns the current Norton chunk for Gyorgy Lukacs into a navigable work
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/gyorgy-lukacs.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T05:15:38Z` |
-| Git commit | `72bf05e` |
+| Generated at | `2026-06-13T05:23:35Z` |
+| Git commit | `752b0b4` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/lukacs-realism-in-the-balance.md` |
 

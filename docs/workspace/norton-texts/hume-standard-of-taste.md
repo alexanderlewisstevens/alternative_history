@@ -30,7 +30,6 @@ This note turns the current Norton chunk for David Hume into a navigable workspa
 ## Works And Excerpt Blocks
 
 - Of the Standard of Taste
-- the early 1750s to the mid-1760s, Hume spent most of his time in Edinburgh
 
 ## Constellations
 
@@ -91,8 +90,8 @@ This note turns the current Norton chunk for David Hume into a navigable workspa
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/david-hume.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T05:15:38Z` |
-| Git commit | `72bf05e` |
+| Generated at | `2026-06-13T05:23:34Z` |
+| Git commit | `752b0b4` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/hume-standard-of-taste.md` |
 

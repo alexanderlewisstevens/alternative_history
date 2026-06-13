@@ -30,7 +30,6 @@ This note turns the current Norton chunk for Carl Gustav Jung into a navigable w
 ## Works And Excerpt Blocks
 
 - On the Relation of Analytical Psychology to Poetry
-- Criteria of Negro Art
 
 ## Constellations
 
@@ -95,8 +94,8 @@ This note turns the current Norton chunk for Carl Gustav Jung into a navigable w
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/carl-gustav-jung.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T05:15:38Z` |
-| Git commit | `72bf05e` |
+| Generated at | `2026-06-13T05:23:35Z` |
+| Git commit | `752b0b4` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/jung-analytical-psychology-poetry.md` |
 

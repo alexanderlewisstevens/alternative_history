@@ -25,8 +25,6 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 ## Works And Excerpt Blocks
 
 - The Statesman&#x27;s Manual and Biographia Literaria
-- Biographia Literaria
-- The Statesman&#x27;s Manual
 
 ## Constellation Backlinks
 
@@ -98,8 +96,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T05:15:36Z` |
-| Git commit | `72bf05e` |
+| Generated at | `2026-06-13T05:23:32Z` |
+| Git commit | `752b0b4` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/samuel-taylor-coleridge.md` |
 

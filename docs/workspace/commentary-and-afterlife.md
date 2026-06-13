@@ -42,7 +42,12 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/saussure-course-general-linguistics/"><strong>Ferdinand de Saussure, Course in General Linguistics</strong><span>language, signs, structure; pages 1004-1020; 17 review rows</span></a>
   <a href="../norton-texts/jung-analytical-psychology-poetry/"><strong>Carl Gustav Jung, On the Relation of Analytical Psychology to Poetry</strong><span>psychology, archetype, myth; pages 1034-1045; 12 review rows</span></a>
   <a href="../norton-texts/woolf-room-of-ones-own/"><strong>Virginia Woolf, A Room of One&#x27;s Own</strong><span>feminism, authorship, education; pages 1065-1073; 9 review rows</span></a>
-  <a href="../norton-texts/lukacs-realism-in-the-balance/"><strong>Gyorgy Lukacs, Realism in the Balance</strong><span>realism, marxism, modernism; pages 1077-1087; 11 review rows</span></a>
+  <a href="../norton-texts/lukacs-realism-in-the-balance/"><strong>Gyorgy Lukacs, Realism in the Balance</strong><span>realism, marxism, modernism; pages 1077-1101; 25 review rows</span></a>
+  <a href="../norton-texts/eichenbaum-theory-formal-method/"><strong>Boris Eichenbaum, The Theory of the Formal Method</strong><span>formalism, literary-theory, method; pages 1106-1131; 18 review rows</span></a>
+  <a href="../norton-texts/eliot-tradition-individual-talent/"><strong>T. S. Eliot, Tradition and the Individual Talent</strong><span>tradition, canon, modernism; pages 1136-1140; 5 review rows</span></a>
+  <a href="../norton-texts/eliot-metaphysical-poets/"><strong>T. S. Eliot, The Metaphysical Poets</strong><span>modernism, poetry, sensibility; pages 1141-1148; 8 review rows</span></a>
+  <a href="../norton-texts/ransom-criticism-inc/"><strong>John Crowe Ransom, Criticism, Inc.</strong><span>new-criticism, criticism, close-reading; pages 1152-1161; 10 review rows</span></a>
+  <a href="../norton-texts/heidegger-language/"><strong>Martin Heidegger, Language</strong><span>language, being, poetry; pages 1165-1167; 3 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -75,6 +80,11 @@ This is a scaffold for reading the configured texts together. It should become a
 18. [Carl Gustav Jung, On the Relation of Analytical Psychology to Poetry](norton-texts/jung-analytical-psychology-poetry.md)
 19. [Virginia Woolf, A Room of One&#x27;s Own](norton-texts/woolf-room-of-ones-own.md)
 20. [Gyorgy Lukacs, Realism in the Balance](norton-texts/lukacs-realism-in-the-balance.md)
+21. [Boris Eichenbaum, The Theory of the Formal Method](norton-texts/eichenbaum-theory-formal-method.md)
+22. [T. S. Eliot, Tradition and the Individual Talent](norton-texts/eliot-tradition-individual-talent.md)
+23. [T. S. Eliot, The Metaphysical Poets](norton-texts/eliot-metaphysical-poets.md)
+24. [John Crowe Ransom, Criticism, Inc.](norton-texts/ransom-criticism-inc.md)
+25. [Martin Heidegger, Language](norton-texts/heidegger-language.md)
 
 ## Review Pressure
 
@@ -99,7 +109,12 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Course in General Linguistics](norton-texts/saussure-course-general-linguistics.md) | 1004-1020 | 17 | excerpt: 17 |
 | [On the Relation of Analytical Psychology to Poetry](norton-texts/jung-analytical-psychology-poetry.md) | 1034-1045 | 12 | excerpt: 12 |
 | [A Room of One&#x27;s Own](norton-texts/woolf-room-of-ones-own.md) | 1065-1073 | 9 | excerpt: 9 |
-| [Realism in the Balance](norton-texts/lukacs-realism-in-the-balance.md) | 1077-1087 | 11 | excerpt: 11 |
+| [Realism in the Balance](norton-texts/lukacs-realism-in-the-balance.md) | 1077-1101 | 25 | excerpt: 25 |
+| [The Theory of the Formal Method](norton-texts/eichenbaum-theory-formal-method.md) | 1106-1131 | 18 | excerpt: 26 |
+| [Tradition and the Individual Talent](norton-texts/eliot-tradition-individual-talent.md) | 1136-1140 | 5 | excerpt: 5 |
+| [The Metaphysical Poets](norton-texts/eliot-metaphysical-poets.md) | 1141-1148 | 8 | excerpt: 8 |
+| [Criticism, Inc.](norton-texts/ransom-criticism-inc.md) | 1152-1161 | 10 | excerpt: 10 |
+| [Language](norton-texts/heidegger-language.md) | 1165-1167 | 3 | excerpt: 3 |
 
 ## Passage Queue
 
@@ -153,8 +168,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:15:32Z` |
-| Git commit | `72bf05e` |
+| Generated at | `2026-06-13T05:23:16Z` |
+| Git commit | `752b0b4` |
 | Script version | `2` |
 | Output path | `docs/workspace/commentary-and-afterlife.md` |
 

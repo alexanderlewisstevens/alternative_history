@@ -10,11 +10,11 @@ This index is generated from curated source metadata and local extraction audit 
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Curated Text Nodes</div>
-  <div class="ah-metric-value">61</div>
+  <div class="ah-metric-value">66</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Assembled Chunks</div>
-  <div class="ah-metric-value">61</div>
+  <div class="ah-metric-value">66</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Constellations</div>
@@ -86,7 +86,12 @@ This index is generated from curated source metadata and local extraction audit 
 | [On the Relation of Analytical Psychology to Poetry](jung-analytical-psychology-poetry.md) | Carl Gustav Jung | 1031-1045 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[signs-and-reading](../signs-and-reading.md)<br>[beauty-and-ascent](../beauty-and-ascent.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[sublime-and-limits](../sublime-and-limits.md)<br>[romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 15 | `edition-review-needed` |
 | [Literature and Revolution](trotsky-literature-and-revolution.md) | Leon Trotsky | 1046-1060 | [education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[media-and-form](../media-and-form.md)<br>[art-utility-and-modern-life](../art-utility-and-modern-life.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 15 | `edition-review-needed` |
 | [A Room of One&#x27;s Own](woolf-room-of-ones-own.md) | Virginia Woolf | 1061-1073 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[media-and-form](../media-and-form.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md)<br>[art-utility-and-modern-life](../art-utility-and-modern-life.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 13 | `edition-review-needed` |
-| [Realism in the Balance](lukacs-realism-in-the-balance.md) | Gyorgy Lukacs | 1074-1087 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[media-and-form](../media-and-form.md)<br>[romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md)<br>[art-utility-and-modern-life](../art-utility-and-modern-life.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 14 | `edition-review-needed` |
+| [Realism in the Balance](lukacs-realism-in-the-balance.md) | Gyorgy Lukacs | 1074-1101 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[media-and-form](../media-and-form.md)<br>[romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md)<br>[art-utility-and-modern-life](../art-utility-and-modern-life.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 28 | `edition-review-needed` |
+| [The Theory of the Formal Method](eichenbaum-theory-formal-method.md) | Boris Eichenbaum | 1102-1131 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[media-and-form](../media-and-form.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 22 | `edition-review-needed` |
+| [Tradition and the Individual Talent](eliot-tradition-individual-talent.md) | T. S. Eliot | 1132-1148 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[media-and-form](../media-and-form.md)<br>[romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md)<br>[art-utility-and-modern-life](../art-utility-and-modern-life.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 17 | `edition-review-needed` |
+| [The Metaphysical Poets](eliot-metaphysical-poets.md) | T. S. Eliot | 1132-1148 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[media-and-form](../media-and-form.md)<br>[romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md)<br>[art-utility-and-modern-life](../art-utility-and-modern-life.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 17 | `edition-review-needed` |
+| [Criticism, Inc.](ransom-criticism-inc.md) | John Crowe Ransom | 1149-1161 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[media-and-form](../media-and-form.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 13 | `edition-review-needed` |
+| [Language](heidegger-language.md) | Martin Heidegger | 1162-1167 | [signs-and-reading](../signs-and-reading.md)<br>[beauty-and-ascent](../beauty-and-ascent.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[media-and-form](../media-and-form.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 6 | `edition-review-needed` |
 
 ## How To Use This Index
 
@@ -113,7 +118,7 @@ This index is generated from curated source metadata and local extraction audit 
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T05:15:38Z` |
-| Git commit | `72bf05e` |
+| Generated at | `2026-06-13T05:23:35Z` |
+| Git commit | `752b0b4` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/index.md` |

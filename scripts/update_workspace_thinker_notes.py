@@ -33,7 +33,7 @@ from update_workspace_map import (
     works_by_author,
 )
 from update_workspace_passage_notes import load_passage_notes
-from update_workspace_text_notes import author_row_for_text, linked_constellation, text_constellations
+from update_workspace_text_notes import author_row_for_text, linked_constellation, registered_work_titles, text_constellations
 
 
 SCRIPT_VERSION = "1"
@@ -71,6 +71,15 @@ def thinker_passage_note_links(text_ids: list[str], passage_notes: list[dict[str
         f"- [{html.escape(str(note.get('title', note.get('id', 'Untitled Passage'))))}](../passages/{html.escape(str(note.get('id', '')))}.md)"
         for note in notes
     )
+
+
+def registered_work_titles_for_texts(texts: list[dict[str, Any]]) -> list[str]:
+    titles: list[str] = []
+    for text in texts:
+        for title in registered_work_titles(text):
+            if title not in titles:
+                titles.append(title)
+    return titles
 
 
 def text_rows_for_thinker(
@@ -123,6 +132,7 @@ def build_thinker_page(
     first_author_row = next((author_rows.get(text_id) for text_id in text_ids if author_rows.get(text_id)), None)
     author_slug = first_author_row.get("author_slug", thinker_slug) if first_author_row else thinker_slug
     themes = sorted({str(theme) for text in texts for theme in text.get("themes", [])})
+    work_titles = registered_work_titles_for_texts(texts) or works.get(author_slug, [])
 
     return f"""# {html.escape(thinker_name)}
 
@@ -147,7 +157,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 ## Works And Excerpt Blocks
 
-{chr(10).join(f"- {html.escape(value)}" for value in works.get(author_slug, [])) or "- No work titles detected yet."}
+{chr(10).join(f"- {html.escape(value)}" for value in work_titles) or "- No work titles detected yet."}
 
 ## Constellation Backlinks
 

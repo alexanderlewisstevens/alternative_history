@@ -30,12 +30,6 @@ This note turns the current Norton chunk for Plato into a navigable workspace no
 ## Works And Excerpt Blocks
 
 - Selected dialogues
-- Ion
-- Phaedrus
-- Republic, Book II
-- Republic, Book III
-- Republic, Book VII
-- Republic, Book X
 
 ## Constellations
 
@@ -97,8 +91,8 @@ This note turns the current Norton chunk for Plato into a navigable workspace no
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/plato.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T05:15:37Z` |
-| Git commit | `72bf05e` |
+| Generated at | `2026-06-13T05:23:33Z` |
+| Git commit | `752b0b4` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/plato-selected-dialogues.md` |
 

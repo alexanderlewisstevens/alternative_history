@@ -30,8 +30,6 @@ This note turns the current Norton chunk for Ralph Waldo Emerson into a navigabl
 ## Works And Excerpt Blocks
 
 - The American Scholar and The Poet
-- The American Scholar
-- The Poet
 
 ## Constellations
 
@@ -98,8 +96,8 @@ This note turns the current Norton chunk for Ralph Waldo Emerson into a navigabl
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/ralph-waldo-emerson.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T05:15:38Z` |
-| Git commit | `72bf05e` |
+| Generated at | `2026-06-13T05:23:34Z` |
+| Git commit | `752b0b4` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/emerson-american-scholar-poet.md` |
 

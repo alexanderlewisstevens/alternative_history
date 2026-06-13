@@ -45,7 +45,10 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/henry-james-art-fiction/"><strong>Henry James, The Art of Fiction</strong><span>fiction, realism, craft; pages 897-911; 4 review rows</span></a>
   <a href="../norton-texts/wilde-selected-critical-prose/"><strong>Oscar Wilde, Preface to The Picture of Dorian Gray and The Critic as Artist</strong><span>criticism, aestheticism, art-for-art; pages 943-956; 12 review rows</span></a>
   <a href="../norton-texts/du-bois-criteria-of-negro-art/"><strong>W. E. B. Du Bois, Criteria of Negro Art</strong><span>race, art, propaganda; pages 1024-1030; 7 review rows</span></a>
-  <a href="../norton-texts/lukacs-realism-in-the-balance/"><strong>Gyorgy Lukacs, Realism in the Balance</strong><span>realism, marxism, modernism; pages 1077-1087; 11 review rows</span></a>
+  <a href="../norton-texts/lukacs-realism-in-the-balance/"><strong>Gyorgy Lukacs, Realism in the Balance</strong><span>realism, marxism, modernism; pages 1077-1101; 25 review rows</span></a>
+  <a href="../norton-texts/eliot-tradition-individual-talent/"><strong>T. S. Eliot, Tradition and the Individual Talent</strong><span>tradition, canon, modernism; pages 1136-1140; 5 review rows</span></a>
+  <a href="../norton-texts/eliot-metaphysical-poets/"><strong>T. S. Eliot, The Metaphysical Poets</strong><span>modernism, poetry, sensibility; pages 1141-1148; 8 review rows</span></a>
+  <a href="../norton-texts/ransom-criticism-inc/"><strong>John Crowe Ransom, Criticism, Inc.</strong><span>new-criticism, criticism, close-reading; pages 1152-1161; 10 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -81,6 +84,9 @@ This is a scaffold for reading the configured texts together. It should become a
 21. [Oscar Wilde, Preface to The Picture of Dorian Gray and The Critic as Artist](norton-texts/wilde-selected-critical-prose.md)
 22. [W. E. B. Du Bois, Criteria of Negro Art](norton-texts/du-bois-criteria-of-negro-art.md)
 23. [Gyorgy Lukacs, Realism in the Balance](norton-texts/lukacs-realism-in-the-balance.md)
+24. [T. S. Eliot, Tradition and the Individual Talent](norton-texts/eliot-tradition-individual-talent.md)
+25. [T. S. Eliot, The Metaphysical Poets](norton-texts/eliot-metaphysical-poets.md)
+26. [John Crowe Ransom, Criticism, Inc.](norton-texts/ransom-criticism-inc.md)
 
 ## Review Pressure
 
@@ -108,7 +114,10 @@ This is a scaffold for reading the configured texts together. It should become a
 | [The Art of Fiction](norton-texts/henry-james-art-fiction.md) | 897-911 | 4 | excerpt: 15 |
 | [Preface to The Picture of Dorian Gray and The Critic as Artist](norton-texts/wilde-selected-critical-prose.md) | 943-956 | 12 | excerpt: 14 |
 | [Criteria of Negro Art](norton-texts/du-bois-criteria-of-negro-art.md) | 1024-1030 | 7 | excerpt: 7 |
-| [Realism in the Balance](norton-texts/lukacs-realism-in-the-balance.md) | 1077-1087 | 11 | excerpt: 11 |
+| [Realism in the Balance](norton-texts/lukacs-realism-in-the-balance.md) | 1077-1101 | 25 | excerpt: 25 |
+| [Tradition and the Individual Talent](norton-texts/eliot-tradition-individual-talent.md) | 1136-1140 | 5 | excerpt: 5 |
+| [The Metaphysical Poets](norton-texts/eliot-metaphysical-poets.md) | 1141-1148 | 8 | excerpt: 8 |
+| [Criticism, Inc.](norton-texts/ransom-criticism-inc.md) | 1152-1161 | 10 | excerpt: 10 |
 
 ## Passage Queue
 
@@ -162,8 +171,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:15:32Z` |
-| Git commit | `72bf05e` |
+| Generated at | `2026-06-13T05:23:17Z` |
+| Git commit | `752b0b4` |
 | Script version | `2` |
 | Output path | `docs/workspace/taste-and-standards.md` |
 
