@@ -1,0 +1,896 @@
+{
+  "entries": [
+    {
+      "constellations": [],
+      "id": "chapter:chapters/04-counterfactual-method/",
+      "kind": "chapter",
+      "review_pressure": 0,
+      "search_text": "counterfactual method counterfactual reading and historical possibility.   chapter draft counterfactual method ",
+      "status": "chapter draft",
+      "summary": "Counterfactual reading and historical possibility.",
+      "tags": [
+        "counterfactual",
+        "method"
+      ],
+      "text_id": "",
+      "thinker": "",
+      "title": "Counterfactual Method",
+      "url": "/chapters/04-counterfactual-method/"
+    },
+    {
+      "constellations": [],
+      "id": "chapter:chapters/03-erased-archives/",
+      "kind": "chapter",
+      "review_pressure": 0,
+      "search_text": "erased archives silence, loss, archive, and recovery.   chapter draft archive memory ",
+      "status": "chapter draft",
+      "summary": "Silence, loss, archive, and recovery.",
+      "tags": [
+        "archive",
+        "memory"
+      ],
+      "text_id": "",
+      "thinker": "",
+      "title": "Erased Archives",
+      "url": "/chapters/03-erased-archives/"
+    },
+    {
+      "constellations": [],
+      "id": "chapter:chapters/05-memory-and-myth/",
+      "kind": "chapter",
+      "review_pressure": 0,
+      "search_text": "memory and myth memory, myth, and narrative inheritance.   chapter draft memory myth ",
+      "status": "chapter draft",
+      "summary": "Memory, myth, and narrative inheritance.",
+      "tags": [
+        "memory",
+        "myth"
+      ],
+      "text_id": "",
+      "thinker": "",
+      "title": "Memory And Myth",
+      "url": "/chapters/05-memory-and-myth/"
+    },
+    {
+      "constellations": [],
+      "id": "chapter:chapters/01-methods/",
+      "kind": "chapter",
+      "review_pressure": 0,
+      "search_text": "methods method notes for reading curated theory and criticism.   chapter draft method theory ",
+      "status": "chapter draft",
+      "summary": "Method notes for reading curated theory and criticism.",
+      "tags": [
+        "method",
+        "theory"
+      ],
+      "text_id": "",
+      "thinker": "",
+      "title": "Methods",
+      "url": "/chapters/01-methods/"
+    },
+    {
+      "constellations": [],
+      "id": "chapter:chapters/02-rupture-points/",
+      "kind": "chapter",
+      "review_pressure": 0,
+      "search_text": "rupture points historical breaks, force, and discontinuity.   chapter draft history rupture ",
+      "status": "chapter draft",
+      "summary": "Historical breaks, force, and discontinuity.",
+      "tags": [
+        "history",
+        "rupture"
+      ],
+      "text_id": "",
+      "thinker": "",
+      "title": "Rupture Points",
+      "url": "/chapters/02-rupture-points/"
+    },
+    {
+      "constellations": [],
+      "id": "chapter:chapters/00-start-here/",
+      "kind": "chapter",
+      "review_pressure": 0,
+      "search_text": "start here project orientation and reading protocol.   chapter draft method orientation ",
+      "status": "chapter draft",
+      "summary": "Project orientation and reading protocol.",
+      "tags": [
+        "method",
+        "orientation"
+      ],
+      "text_id": "",
+      "thinker": "",
+      "title": "Start Here",
+      "url": "/chapters/00-start-here/"
+    },
+    {
+      "constellations": [
+        "beauty-and-ascent"
+      ],
+      "id": "constellation:beauty-and-ascent",
+      "kind": "constellation",
+      "review_pressure": 0,
+      "search_text": "beauty and ascent when does beauty become a way of knowing?   private constellation draft ascent augustine-on-christian-doctrine-trinity inward-reading longinus-on-sublimity plotinus-enneads sublimity beauty-and-ascent",
+      "status": "private constellation draft",
+      "summary": "When does beauty become a way of knowing?",
+      "tags": [
+        "ascent",
+        "augustine-on-christian-doctrine-trinity",
+        "inward-reading",
+        "longinus-on-sublimity",
+        "plotinus-enneads",
+        "sublimity"
+      ],
+      "text_id": "",
+      "thinker": "",
+      "title": "Beauty And Ascent",
+      "url": "/workspace/beauty-and-ascent/"
+    },
+    {
+      "constellations": [
+        "commentary-and-afterlife"
+      ],
+      "id": "constellation:commentary-and-afterlife",
+      "kind": "constellation",
+      "review_pressure": 0,
+      "search_text": "commentary and afterlife how do texts survive by being reread?   private constellation draft commentary disciplined-reading hugh-didascalicon macrobius-dream-scipio maimonides-guide-perplexed transmission commentary-and-afterlife",
+      "status": "private constellation draft",
+      "summary": "How do texts survive by being reread?",
+      "tags": [
+        "commentary",
+        "disciplined-reading",
+        "hugh-didascalicon",
+        "macrobius-dream-scipio",
+        "maimonides-guide-perplexed",
+        "transmission"
+      ],
+      "text_id": "",
+      "thinker": "",
+      "title": "Commentary And Afterlife",
+      "url": "/workspace/commentary-and-afterlife/"
+    },
+    {
+      "constellations": [
+        "poetry-and-judgment"
+      ],
+      "id": "constellation:poetry-and-judgment",
+      "kind": "constellation",
+      "review_pressure": 0,
+      "search_text": "poetry and judgment who gets to judge art?   private constellation draft aristotle-poetics-rhetoric craft excess horace-ars-poetica longinus-on-sublimity plato-selected-dialogues tension poetry-and-judgment",
+      "status": "private constellation draft",
+      "summary": "Who gets to judge art?",
+      "tags": [
+        "aristotle-poetics-rhetoric",
+        "craft",
+        "excess",
+        "horace-ars-poetica",
+        "longinus-on-sublimity",
+        "plato-selected-dialogues",
+        "tension"
+      ],
+      "text_id": "",
+      "thinker": "",
+      "title": "Poetry And Judgment",
+      "url": "/workspace/poetry-and-judgment/"
+    },
+    {
+      "constellations": [
+        "rhetoric-and-force"
+      ],
+      "id": "constellation:rhetoric-and-force",
+      "kind": "constellation",
+      "review_pressure": 0,
+      "search_text": "rhetoric and force what can speech do?   private constellation draft aristotle-poetics-rhetoric civic-discipline gorgias-encomium-helen inheritance plato-selected-dialogues quintilian-institutio-oratoria tension rhetoric-and-force",
+      "status": "private constellation draft",
+      "summary": "What can speech do?",
+      "tags": [
+        "aristotle-poetics-rhetoric",
+        "civic-discipline",
+        "gorgias-encomium-helen",
+        "inheritance",
+        "plato-selected-dialogues",
+        "quintilian-institutio-oratoria",
+        "tension"
+      ],
+      "text_id": "",
+      "thinker": "",
+      "title": "Rhetoric And Force",
+      "url": "/workspace/rhetoric-and-force/"
+    },
+    {
+      "constellations": [
+        "signs-and-reading"
+      ],
+      "id": "constellation:signs-and-reading",
+      "kind": "constellation",
+      "review_pressure": 0,
+      "search_text": "signs and reading how should difficult texts be read?   private constellation draft allegory augustine-on-christian-doctrine-trinity hugh-didascalicon interpretation maimonides-guide-perplexed plato-selected-dialogues writing signs-and-reading",
+      "status": "private constellation draft",
+      "summary": "How should difficult texts be read?",
+      "tags": [
+        "allegory",
+        "augustine-on-christian-doctrine-trinity",
+        "hugh-didascalicon",
+        "interpretation",
+        "maimonides-guide-perplexed",
+        "plato-selected-dialogues",
+        "writing"
+      ],
+      "text_id": "",
+      "thinker": "",
+      "title": "Signs And Reading",
+      "url": "/workspace/signs-and-reading/"
+    },
+    {
+      "constellations": [
+        "rhetoric-and-force"
+      ],
+      "id": "passage:gorgias-helen-and-blame",
+      "kind": "passage",
+      "review_pressure": 0,
+      "search_text": "helen and blame helen becomes a test case for how stories distribute responsibility. the passage asks whether blame changes when action is shaped by force, divine pressure, erotic compulsion, or persuasive speech. gorgias of leontini gorgias-encomium-helen private restricted note; public quotation pending edition review agency blame rhetoric rhetoric-and-force rhetoric-and-force",
+      "status": "private restricted note; public quotation pending edition review",
+      "summary": "Helen becomes a test case for how stories distribute responsibility. The passage asks whether blame changes when action is shaped by force, divine pressure, erotic compulsion, or persuasive speech.",
+      "tags": [
+        "agency",
+        "blame",
+        "rhetoric",
+        "rhetoric-and-force"
+      ],
+      "text_id": "gorgias-encomium-helen",
+      "thinker": "Gorgias of Leontini",
+      "title": "Helen And Blame",
+      "url": "/workspace/passages/gorgias-helen-and-blame/"
+    },
+    {
+      "constellations": [
+        "rhetoric-and-force"
+      ],
+      "id": "passage:gorgias-persuasion-and-belief",
+      "kind": "passage",
+      "review_pressure": 0,
+      "search_text": "persuasion and belief persuasion appears as a technology of belief: it can make one version of reality feel compelling enough to govern judgment and action. gorgias of leontini gorgias-encomium-helen private restricted note; public quotation pending edition review belief judgment rhetoric rhetoric-and-force rhetoric-and-force",
+      "status": "private restricted note; public quotation pending edition review",
+      "summary": "Persuasion appears as a technology of belief: it can make one version of reality feel compelling enough to govern judgment and action.",
+      "tags": [
+        "belief",
+        "judgment",
+        "rhetoric",
+        "rhetoric-and-force"
+      ],
+      "text_id": "gorgias-encomium-helen",
+      "thinker": "Gorgias of Leontini",
+      "title": "Persuasion And Belief",
+      "url": "/workspace/passages/gorgias-persuasion-and-belief/"
+    },
+    {
+      "constellations": [
+        "rhetoric-and-force"
+      ],
+      "id": "passage:gorgias-speech-as-force",
+      "kind": "passage",
+      "review_pressure": 0,
+      "search_text": "speech as force speech is treated as an active force: it can alter judgment, affect bodies, and redirect how an event is understood after the fact. gorgias of leontini gorgias-encomium-helen private restricted note; public quotation pending edition review force persuasion rhetoric rhetoric-and-force rhetoric-and-force",
+      "status": "private restricted note; public quotation pending edition review",
+      "summary": "Speech is treated as an active force: it can alter judgment, affect bodies, and redirect how an event is understood after the fact.",
+      "tags": [
+        "force",
+        "persuasion",
+        "rhetoric",
+        "rhetoric-and-force"
+      ],
+      "text_id": "gorgias-encomium-helen",
+      "thinker": "Gorgias of Leontini",
+      "title": "Speech As Force",
+      "url": "/workspace/passages/gorgias-speech-as-force/"
+    },
+    {
+      "constellations": [
+        "poetry-and-judgment"
+      ],
+      "id": "text:horace-ars-poetica",
+      "kind": "text",
+      "review_pressure": 14,
+      "search_text": "ars poetica horace; core-text-candidate; pages 163-176; 14 review rows. horace horace-ars-poetica edition-review-needed craft decorum literary-judgment poetry-and-judgment poetry-and-judgment",
+      "status": "edition-review-needed",
+      "summary": "Horace; core-text-candidate; pages 163-176; 14 review rows.",
+      "tags": [
+        "craft",
+        "decorum",
+        "literary-judgment",
+        "poetry-and-judgment"
+      ],
+      "text_id": "horace-ars-poetica",
+      "thinker": "Horace",
+      "title": "Ars Poetica",
+      "url": "/workspace/norton-texts/horace-ars-poetica/"
+    },
+    {
+      "constellations": [
+        "commentary-and-afterlife"
+      ],
+      "id": "text:macrobius-dream-scipio",
+      "kind": "text",
+      "review_pressure": 4,
+      "search_text": "commentary on the dream of scipio macrobius; core-text-candidate; pages 238-242; 4 review rows. macrobius macrobius-dream-scipio edition-review-needed allegory commentary commentary-and-afterlife transmission commentary-and-afterlife",
+      "status": "edition-review-needed",
+      "summary": "Macrobius; core-text-candidate; pages 238-242; 4 review rows.",
+      "tags": [
+        "allegory",
+        "commentary",
+        "commentary-and-afterlife",
+        "transmission"
+      ],
+      "text_id": "macrobius-dream-scipio",
+      "thinker": "Macrobius",
+      "title": "Commentary on the Dream of Scipio",
+      "url": "/workspace/norton-texts/macrobius-dream-scipio/"
+    },
+    {
+      "constellations": [
+        "rhetoric-and-force"
+      ],
+      "id": "text:gorgias-encomium-helen",
+      "kind": "text",
+      "review_pressure": 3,
+      "search_text": "encomium of helen gorgias; core-text-candidate; pages 71-74; 3 review rows. gorgias gorgias-encomium-helen edition-review-needed persuasion rhetoric rhetoric-and-force speech rhetoric-and-force",
+      "status": "edition-review-needed",
+      "summary": "Gorgias; core-text-candidate; pages 71-74; 3 review rows.",
+      "tags": [
+        "persuasion",
+        "rhetoric",
+        "rhetoric-and-force",
+        "speech"
+      ],
+      "text_id": "gorgias-encomium-helen",
+      "thinker": "Gorgias",
+      "title": "Encomium of Helen",
+      "url": "/workspace/norton-texts/gorgias-encomium-helen/"
+    },
+    {
+      "constellations": [
+        "rhetoric-and-force"
+      ],
+      "id": "text:quintilian-institutio-oratoria",
+      "kind": "text",
+      "review_pressure": 10,
+      "search_text": "institutio oratoria quintilian; core-text-candidate; pages 197-212; 10 review rows. quintilian quintilian-institutio-oratoria edition-review-needed civic-formation education rhetoric rhetoric-and-force rhetoric-and-force",
+      "status": "edition-review-needed",
+      "summary": "Quintilian; core-text-candidate; pages 197-212; 10 review rows.",
+      "tags": [
+        "civic-formation",
+        "education",
+        "rhetoric",
+        "rhetoric-and-force"
+      ],
+      "text_id": "quintilian-institutio-oratoria",
+      "thinker": "Quintilian",
+      "title": "Institutio Oratoria",
+      "url": "/workspace/norton-texts/quintilian-institutio-oratoria/"
+    },
+    {
+      "constellations": [
+        "beauty-and-ascent",
+        "signs-and-reading"
+      ],
+      "id": "text:augustine-on-christian-doctrine-trinity",
+      "kind": "text",
+      "review_pressure": 9,
+      "search_text": "on christian doctrine and the trinity augustine of hippo; core-text-candidate; pages 227-237; 9 review rows. augustine of hippo augustine-on-christian-doctrine-trinity edition-review-needed authority beauty-and-ascent interpretation signs signs-and-reading theology beauty-and-ascent signs-and-reading",
+      "status": "edition-review-needed",
+      "summary": "Augustine of Hippo; core-text-candidate; pages 227-237; 9 review rows.",
+      "tags": [
+        "authority",
+        "beauty-and-ascent",
+        "interpretation",
+        "signs",
+        "signs-and-reading",
+        "theology"
+      ],
+      "text_id": "augustine-on-christian-doctrine-trinity",
+      "thinker": "Augustine of Hippo",
+      "title": "On Christian Doctrine and The Trinity",
+      "url": "/workspace/norton-texts/augustine-on-christian-doctrine-trinity/"
+    },
+    {
+      "constellations": [
+        "beauty-and-ascent",
+        "poetry-and-judgment"
+      ],
+      "id": "text:longinus-on-sublimity",
+      "kind": "text",
+      "review_pressure": 19,
+      "search_text": "on sublimity longinus; core-text-candidate; pages 177-196; 19 review rows. longinus longinus-on-sublimity edition-review-needed aesthetics authority beauty-and-ascent poetry-and-judgment sublimity beauty-and-ascent poetry-and-judgment",
+      "status": "edition-review-needed",
+      "summary": "Longinus; core-text-candidate; pages 177-196; 19 review rows.",
+      "tags": [
+        "aesthetics",
+        "authority",
+        "beauty-and-ascent",
+        "poetry-and-judgment",
+        "sublimity"
+      ],
+      "text_id": "longinus-on-sublimity",
+      "thinker": "Longinus",
+      "title": "On Sublimity",
+      "url": "/workspace/norton-texts/longinus-on-sublimity/"
+    },
+    {
+      "constellations": [
+        "poetry-and-judgment",
+        "rhetoric-and-force"
+      ],
+      "id": "text:aristotle-poetics-rhetoric",
+      "kind": "text",
+      "review_pressure": 23,
+      "search_text": "poetics and rhetoric aristotle; core-text-candidate; pages 128-162; 23 review rows. aristotle aristotle-poetics-rhetoric edition-review-needed audience genre poetics poetry-and-judgment rhetoric rhetoric-and-force poetry-and-judgment rhetoric-and-force",
+      "status": "edition-review-needed",
+      "summary": "Aristotle; core-text-candidate; pages 128-162; 23 review rows.",
+      "tags": [
+        "audience",
+        "genre",
+        "poetics",
+        "poetry-and-judgment",
+        "rhetoric",
+        "rhetoric-and-force"
+      ],
+      "text_id": "aristotle-poetics-rhetoric",
+      "thinker": "Aristotle",
+      "title": "Poetics and Rhetoric",
+      "url": "/workspace/norton-texts/aristotle-poetics-rhetoric/"
+    },
+    {
+      "constellations": [
+        "poetry-and-judgment",
+        "rhetoric-and-force",
+        "signs-and-reading"
+      ],
+      "id": "text:plato-selected-dialogues",
+      "kind": "text",
+      "review_pressure": 29,
+      "search_text": "selected dialogues plato; core-text-candidate; pages 75-127; 29 review rows. plato plato-selected-dialogues edition-review-needed memory mimesis pedagogy poetry-and-judgment rhetoric-and-force signs-and-reading writing poetry-and-judgment rhetoric-and-force signs-and-reading",
+      "status": "edition-review-needed",
+      "summary": "Plato; core-text-candidate; pages 75-127; 29 review rows.",
+      "tags": [
+        "memory",
+        "mimesis",
+        "pedagogy",
+        "poetry-and-judgment",
+        "rhetoric-and-force",
+        "signs-and-reading",
+        "writing"
+      ],
+      "text_id": "plato-selected-dialogues",
+      "thinker": "Plato",
+      "title": "Selected dialogues",
+      "url": "/workspace/norton-texts/plato-selected-dialogues/"
+    },
+    {
+      "constellations": [
+        "beauty-and-ascent"
+      ],
+      "id": "text:plotinus-enneads",
+      "kind": "text",
+      "review_pressure": 7,
+      "search_text": "selected enneads plotinus; core-text-candidate; pages 213-226; 7 review rows. plotinus plotinus-enneads edition-review-needed beauty beauty-and-ascent form metaphysics beauty-and-ascent",
+      "status": "edition-review-needed",
+      "summary": "Plotinus; core-text-candidate; pages 213-226; 7 review rows.",
+      "tags": [
+        "beauty",
+        "beauty-and-ascent",
+        "form",
+        "metaphysics"
+      ],
+      "text_id": "plotinus-enneads",
+      "thinker": "Plotinus",
+      "title": "Selected Enneads",
+      "url": "/workspace/norton-texts/plotinus-enneads/"
+    },
+    {
+      "constellations": [
+        "commentary-and-afterlife",
+        "signs-and-reading"
+      ],
+      "id": "text:hugh-didascalicon",
+      "kind": "text",
+      "review_pressure": 10,
+      "search_text": "the didascalicon hugh of st. victor; core-text-candidate; pages 243-252; 10 review rows. hugh of st. victor hugh-didascalicon edition-review-needed classification commentary-and-afterlife pedagogy reading signs-and-reading commentary-and-afterlife signs-and-reading",
+      "status": "edition-review-needed",
+      "summary": "Hugh of St. Victor; core-text-candidate; pages 243-252; 10 review rows.",
+      "tags": [
+        "classification",
+        "commentary-and-afterlife",
+        "pedagogy",
+        "reading",
+        "signs-and-reading"
+      ],
+      "text_id": "hugh-didascalicon",
+      "thinker": "Hugh of St. Victor",
+      "title": "The Didascalicon",
+      "url": "/workspace/norton-texts/hugh-didascalicon/"
+    },
+    {
+      "constellations": [
+        "commentary-and-afterlife",
+        "signs-and-reading"
+      ],
+      "id": "text:maimonides-guide-perplexed",
+      "kind": "text",
+      "review_pressure": 15,
+      "search_text": "the guide of the perplexed moses maimonides; core-text-candidate; pages 253-267; 15 review rows. moses maimonides maimonides-guide-perplexed edition-review-needed allegory commentary-and-afterlife interpretation reason revelation signs-and-reading commentary-and-afterlife signs-and-reading",
+      "status": "edition-review-needed",
+      "summary": "Moses Maimonides; core-text-candidate; pages 253-267; 15 review rows.",
+      "tags": [
+        "allegory",
+        "commentary-and-afterlife",
+        "interpretation",
+        "reason",
+        "revelation",
+        "signs-and-reading"
+      ],
+      "text_id": "maimonides-guide-perplexed",
+      "thinker": "Moses Maimonides",
+      "title": "The Guide of the Perplexed",
+      "url": "/workspace/norton-texts/maimonides-guide-perplexed/"
+    },
+    {
+      "constellations": [
+        "poetry-and-judgment",
+        "rhetoric-and-force"
+      ],
+      "id": "thinker:aristotle",
+      "kind": "thinker",
+      "review_pressure": 23,
+      "search_text": "aristotle 1 text node(s); aristotle-poetics-rhetoric. aristotle  generated private workspace note audience genre poetics poetry-and-judgment rhetoric rhetoric-and-force poetry-and-judgment rhetoric-and-force",
+      "status": "generated private workspace note",
+      "summary": "1 text node(s); aristotle-poetics-rhetoric.",
+      "tags": [
+        "audience",
+        "genre",
+        "poetics",
+        "poetry-and-judgment",
+        "rhetoric",
+        "rhetoric-and-force"
+      ],
+      "text_id": "",
+      "thinker": "Aristotle",
+      "title": "Aristotle",
+      "url": "/workspace/thinkers/aristotle/"
+    },
+    {
+      "constellations": [
+        "beauty-and-ascent",
+        "signs-and-reading"
+      ],
+      "id": "thinker:augustine-of-hippo",
+      "kind": "thinker",
+      "review_pressure": 9,
+      "search_text": "augustine of hippo 1 text node(s); augustine-on-christian-doctrine-trinity. augustine of hippo  generated private workspace note authority beauty-and-ascent interpretation signs signs-and-reading theology beauty-and-ascent signs-and-reading",
+      "status": "generated private workspace note",
+      "summary": "1 text node(s); augustine-on-christian-doctrine-trinity.",
+      "tags": [
+        "authority",
+        "beauty-and-ascent",
+        "interpretation",
+        "signs",
+        "signs-and-reading",
+        "theology"
+      ],
+      "text_id": "",
+      "thinker": "Augustine of Hippo",
+      "title": "Augustine of Hippo",
+      "url": "/workspace/thinkers/augustine-of-hippo/"
+    },
+    {
+      "constellations": [
+        "rhetoric-and-force"
+      ],
+      "id": "thinker:gorgias-of-leontini",
+      "kind": "thinker",
+      "review_pressure": 3,
+      "search_text": "gorgias 1 text node(s); gorgias-encomium-helen. gorgias  generated private workspace note persuasion rhetoric rhetoric-and-force speech rhetoric-and-force",
+      "status": "generated private workspace note",
+      "summary": "1 text node(s); gorgias-encomium-helen.",
+      "tags": [
+        "persuasion",
+        "rhetoric",
+        "rhetoric-and-force",
+        "speech"
+      ],
+      "text_id": "",
+      "thinker": "Gorgias",
+      "title": "Gorgias",
+      "url": "/workspace/thinkers/gorgias-of-leontini/"
+    },
+    {
+      "constellations": [
+        "poetry-and-judgment"
+      ],
+      "id": "thinker:horace",
+      "kind": "thinker",
+      "review_pressure": 14,
+      "search_text": "horace 1 text node(s); horace-ars-poetica. horace  generated private workspace note craft decorum literary-judgment poetry-and-judgment poetry-and-judgment",
+      "status": "generated private workspace note",
+      "summary": "1 text node(s); horace-ars-poetica.",
+      "tags": [
+        "craft",
+        "decorum",
+        "literary-judgment",
+        "poetry-and-judgment"
+      ],
+      "text_id": "",
+      "thinker": "Horace",
+      "title": "Horace",
+      "url": "/workspace/thinkers/horace/"
+    },
+    {
+      "constellations": [
+        "commentary-and-afterlife",
+        "signs-and-reading"
+      ],
+      "id": "thinker:hugh-of-st-victor",
+      "kind": "thinker",
+      "review_pressure": 10,
+      "search_text": "hugh of st. victor 1 text node(s); hugh-didascalicon. hugh of st. victor  generated private workspace note classification commentary-and-afterlife pedagogy reading signs-and-reading commentary-and-afterlife signs-and-reading",
+      "status": "generated private workspace note",
+      "summary": "1 text node(s); hugh-didascalicon.",
+      "tags": [
+        "classification",
+        "commentary-and-afterlife",
+        "pedagogy",
+        "reading",
+        "signs-and-reading"
+      ],
+      "text_id": "",
+      "thinker": "Hugh of St. Victor",
+      "title": "Hugh of St. Victor",
+      "url": "/workspace/thinkers/hugh-of-st-victor/"
+    },
+    {
+      "constellations": [
+        "beauty-and-ascent",
+        "poetry-and-judgment"
+      ],
+      "id": "thinker:longinus",
+      "kind": "thinker",
+      "review_pressure": 19,
+      "search_text": "longinus 1 text node(s); longinus-on-sublimity. longinus  generated private workspace note aesthetics authority beauty-and-ascent poetry-and-judgment sublimity beauty-and-ascent poetry-and-judgment",
+      "status": "generated private workspace note",
+      "summary": "1 text node(s); longinus-on-sublimity.",
+      "tags": [
+        "aesthetics",
+        "authority",
+        "beauty-and-ascent",
+        "poetry-and-judgment",
+        "sublimity"
+      ],
+      "text_id": "",
+      "thinker": "Longinus",
+      "title": "Longinus",
+      "url": "/workspace/thinkers/longinus/"
+    },
+    {
+      "constellations": [
+        "commentary-and-afterlife"
+      ],
+      "id": "thinker:macrobius",
+      "kind": "thinker",
+      "review_pressure": 4,
+      "search_text": "macrobius 1 text node(s); macrobius-dream-scipio. macrobius  generated private workspace note allegory commentary commentary-and-afterlife transmission commentary-and-afterlife",
+      "status": "generated private workspace note",
+      "summary": "1 text node(s); macrobius-dream-scipio.",
+      "tags": [
+        "allegory",
+        "commentary",
+        "commentary-and-afterlife",
+        "transmission"
+      ],
+      "text_id": "",
+      "thinker": "Macrobius",
+      "title": "Macrobius",
+      "url": "/workspace/thinkers/macrobius/"
+    },
+    {
+      "constellations": [
+        "commentary-and-afterlife",
+        "signs-and-reading"
+      ],
+      "id": "thinker:moses-maimonides",
+      "kind": "thinker",
+      "review_pressure": 15,
+      "search_text": "moses maimonides 1 text node(s); maimonides-guide-perplexed. moses maimonides  generated private workspace note allegory commentary-and-afterlife interpretation reason revelation signs-and-reading commentary-and-afterlife signs-and-reading",
+      "status": "generated private workspace note",
+      "summary": "1 text node(s); maimonides-guide-perplexed.",
+      "tags": [
+        "allegory",
+        "commentary-and-afterlife",
+        "interpretation",
+        "reason",
+        "revelation",
+        "signs-and-reading"
+      ],
+      "text_id": "",
+      "thinker": "Moses Maimonides",
+      "title": "Moses Maimonides",
+      "url": "/workspace/thinkers/moses-maimonides/"
+    },
+    {
+      "constellations": [
+        "poetry-and-judgment",
+        "rhetoric-and-force",
+        "signs-and-reading"
+      ],
+      "id": "thinker:plato",
+      "kind": "thinker",
+      "review_pressure": 29,
+      "search_text": "plato 1 text node(s); plato-selected-dialogues. plato  generated private workspace note memory mimesis pedagogy poetry-and-judgment rhetoric-and-force signs-and-reading writing poetry-and-judgment rhetoric-and-force signs-and-reading",
+      "status": "generated private workspace note",
+      "summary": "1 text node(s); plato-selected-dialogues.",
+      "tags": [
+        "memory",
+        "mimesis",
+        "pedagogy",
+        "poetry-and-judgment",
+        "rhetoric-and-force",
+        "signs-and-reading",
+        "writing"
+      ],
+      "text_id": "",
+      "thinker": "Plato",
+      "title": "Plato",
+      "url": "/workspace/thinkers/plato/"
+    },
+    {
+      "constellations": [
+        "beauty-and-ascent"
+      ],
+      "id": "thinker:plotinus",
+      "kind": "thinker",
+      "review_pressure": 7,
+      "search_text": "plotinus 1 text node(s); plotinus-enneads. plotinus  generated private workspace note beauty beauty-and-ascent form metaphysics beauty-and-ascent",
+      "status": "generated private workspace note",
+      "summary": "1 text node(s); plotinus-enneads.",
+      "tags": [
+        "beauty",
+        "beauty-and-ascent",
+        "form",
+        "metaphysics"
+      ],
+      "text_id": "",
+      "thinker": "Plotinus",
+      "title": "Plotinus",
+      "url": "/workspace/thinkers/plotinus/"
+    },
+    {
+      "constellations": [
+        "rhetoric-and-force"
+      ],
+      "id": "thinker:quintilian",
+      "kind": "thinker",
+      "review_pressure": 10,
+      "search_text": "quintilian 1 text node(s); quintilian-institutio-oratoria. quintilian  generated private workspace note civic-formation education rhetoric rhetoric-and-force rhetoric-and-force",
+      "status": "generated private workspace note",
+      "summary": "1 text node(s); quintilian-institutio-oratoria.",
+      "tags": [
+        "civic-formation",
+        "education",
+        "rhetoric",
+        "rhetoric-and-force"
+      ],
+      "text_id": "",
+      "thinker": "Quintilian",
+      "title": "Quintilian",
+      "url": "/workspace/thinkers/quintilian/"
+    }
+  ],
+  "entry_count": 36,
+  "filters": {
+    "constellations": {
+      "beauty-and-ascent": 7,
+      "commentary-and-afterlife": 7,
+      "poetry-and-judgment": 9,
+      "rhetoric-and-force": 12,
+      "signs-and-reading": 9
+    },
+    "kinds": {
+      "chapter": 6,
+      "constellation": 5,
+      "passage": 3,
+      "text": 11,
+      "thinker": 11
+    },
+    "statuses": {
+      "chapter draft": 6,
+      "edition-review-needed": 11,
+      "generated private workspace note": 11,
+      "private constellation draft": 5,
+      "private restricted note; public quotation pending edition review": 3
+    },
+    "tags": {
+      "aesthetics": 2,
+      "agency": 1,
+      "allegory": 5,
+      "archive": 1,
+      "aristotle-poetics-rhetoric": 2,
+      "ascent": 1,
+      "audience": 2,
+      "augustine-on-christian-doctrine-trinity": 2,
+      "authority": 4,
+      "beauty": 2,
+      "beauty-and-ascent": 6,
+      "belief": 1,
+      "blame": 1,
+      "civic-discipline": 1,
+      "civic-formation": 2,
+      "classification": 2,
+      "commentary": 3,
+      "commentary-and-afterlife": 6,
+      "counterfactual": 1,
+      "craft": 3,
+      "decorum": 2,
+      "disciplined-reading": 1,
+      "education": 2,
+      "excess": 1,
+      "force": 1,
+      "form": 2,
+      "genre": 2,
+      "gorgias-encomium-helen": 1,
+      "history": 1,
+      "horace-ars-poetica": 1,
+      "hugh-didascalicon": 2,
+      "inheritance": 1,
+      "interpretation": 5,
+      "inward-reading": 1,
+      "judgment": 1,
+      "literary-judgment": 2,
+      "longinus-on-sublimity": 2,
+      "macrobius-dream-scipio": 1,
+      "maimonides-guide-perplexed": 2,
+      "memory": 4,
+      "metaphysics": 2,
+      "method": 3,
+      "mimesis": 2,
+      "myth": 1,
+      "orientation": 1,
+      "pedagogy": 4,
+      "persuasion": 3,
+      "plato-selected-dialogues": 3,
+      "plotinus-enneads": 1,
+      "poetics": 2,
+      "poetry-and-judgment": 8,
+      "quintilian-institutio-oratoria": 1,
+      "reading": 2,
+      "reason": 2,
+      "revelation": 2,
+      "rhetoric": 9,
+      "rhetoric-and-force": 11,
+      "rupture": 1,
+      "signs": 2,
+      "signs-and-reading": 8,
+      "speech": 2,
+      "sublimity": 3,
+      "tension": 2,
+      "theology": 2,
+      "theory": 1,
+      "transmission": 3,
+      "writing": 3
+    },
+    "thinkers": {
+      "Aristotle": 2,
+      "Augustine of Hippo": 2,
+      "Gorgias": 2,
+      "Gorgias of Leontini": 3,
+      "Horace": 2,
+      "Hugh of St. Victor": 2,
+      "Longinus": 2,
+      "Macrobius": 2,
+      "Moses Maimonides": 2,
+      "Plato": 2,
+      "Plotinus": 2,
+      "Quintilian": 2
+    }
+  },
+  "generated_at": "2026-06-13T02:46:15Z",
+  "git_commit": "4e87a11",
+  "script_version": "1",
+  "source_id": "norton-theory-criticism"
+}

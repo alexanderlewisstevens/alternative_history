@@ -14,6 +14,7 @@ from pathlib import Path
 DEFAULT_PATHS = [
     "/",
     "/workspace/",
+    "/workspace/search/",
     "/workspace/norton-map/",
     "/workspace/norton-texts/",
     "/workspace/norton-texts/gorgias-encomium-helen/",
@@ -25,6 +26,7 @@ DEFAULT_PATHS = [
 EXPECTED_TEXT = {
     "/": "Alternative History",
     "/workspace/": "Private Knowledge Base",
+    "/workspace/search/": "Workspace Search",
     "/workspace/norton-map/": "Norton Workspace Map",
     "/workspace/norton-texts/": "Norton Text Notes",
     "/workspace/norton-texts/gorgias-encomium-helen/": "Encomium of Helen",

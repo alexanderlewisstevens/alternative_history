@@ -70,8 +70,8 @@ This page is generated from local extraction metadata. It is a private map for s
 | Review queue | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
 | Author assembly audit | `work/audit/norton-theory-criticism/author-assembly.csv` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T02:33:21Z` |
-| Git commit | `de009a1` |
+| Generated at | `2026-06-13T02:46:14Z` |
+| Git commit | `4e87a11` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-map.md` |
 

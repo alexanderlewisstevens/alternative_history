@@ -27,6 +27,11 @@ DEFAULT_CHECKS = [
         "text": "Private Knowledge Base",
     },
     {
+        "path": "/workspace/search/",
+        "title": "Workspace Search",
+        "text": "Workspace Search",
+    },
+    {
         "path": "/workspace/norton-texts/",
         "title": "",
         "text": "Norton Text Notes",

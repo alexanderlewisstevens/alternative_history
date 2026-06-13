@@ -25,6 +25,12 @@ The page should not feel like a static encyclopedia entry. It should feel like a
 
 <div class="ah-note-grid">
   <section class="ah-note-panel">
+    <span class="ah-action-kicker">Search</span>
+    <h3>Find The Working Node</h3>
+    <p>A generated search surface filters texts, thinkers, passages, constellations, tags, and chapter drafts.</p>
+    <p><a href="search/">Open workspace search</a></p>
+  </section>
+  <section class="ah-note-panel">
     <span class="ah-action-kicker">Source Map</span>
     <h3>Norton Chunks</h3>
     <p>A generated private map of page ranges, thinker drafts, review pressure, and constellation coverage.</p>
