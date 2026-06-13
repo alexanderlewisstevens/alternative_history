@@ -20,11 +20,11 @@ This note turns the current Norton chunk for Charles Baudelaire into a navigable
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Chunk Status</span>
-  <h3>Norton Pages 831-843</h3>
-  <p><strong>Page count:</strong> 13</p>
+  <h3>Norton Pages 834-843</h3>
+  <p><strong>Page count:</strong> 10</p>
   <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/charles-baudelaire.md</code></p>
-  <p><strong>Page kinds:</strong> excerpt: 9<br>author_intro: 4</p>
-  <p><strong>Review pressure:</strong> 9 rows. multi_column_layout: 5<br>transition_from_previous_author: 4<br>source_notes_detected: 3<br>author_boundary_without_life_dates: 1</p>
+  <p><strong>Page kinds:</strong> excerpt: 9<br>author_intro: 1</p>
+  <p><strong>Review pressure:</strong> 6 rows. multi_column_layout: 5<br>source_notes_detected: 3<br>transition_from_previous_author: 1<br>author_boundary_without_life_dates: 1</p>
 </section>
 
 ## Works And Excerpt Blocks
@@ -51,7 +51,7 @@ This note turns the current Norton chunk for Charles Baudelaire into a navigable
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Anchor Candidates</span>
   <h3>Choose Passages After Review</h3>
-  <p><strong>Source location:</strong> Norton page range 831-843.</p>
+  <p><strong>Source location:</strong> Norton page range 834-843.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
   <p><strong>Use:</strong> Find the passages that make this text active inside poetry-and-judgment, beauty-and-ascent, commentary-and-afterlife, vernacular-and-institution, authorship-and-authority, taste-and-standards, sublime-and-limits, media-and-form, romantic-poetry-and-modernity, art-utility-and-modern-life.</p>
 </section>
@@ -59,7 +59,7 @@ This note turns the current Norton chunk for Charles Baudelaire into a navigable
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Review Before Quoting</span>
   <h3>Layout, Notes, And Bibliography</h3>
-  <p><strong>Review signal:</strong> multi_column_layout: 5<br>transition_from_previous_author: 4<br>source_notes_detected: 3<br>author_boundary_without_life_dates: 1</p>
+  <p><strong>Review signal:</strong> multi_column_layout: 5<br>source_notes_detected: 3<br>transition_from_previous_author: 1<br>author_boundary_without_life_dates: 1</p>
   <p><strong>Editorial rule:</strong> source notes belong in source-note fields, bibliography belongs in bibliography fields, and excerpt text stays separate.</p>
 </section>
 
@@ -97,8 +97,8 @@ This note turns the current Norton chunk for Charles Baudelaire into a navigable
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/charles-baudelaire.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T05:01:21Z` |
-| Git commit | `3678a16` |
+| Generated at | `2026-06-13T05:09:17Z` |
+| Git commit | `9fa32c5` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/baudelaire-painter-modern-life.md` |
 

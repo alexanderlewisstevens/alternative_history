@@ -24,11 +24,15 @@ This is a scaffold for reading the configured texts together. It should become a
 
 <div class="ah-graph-list">
   <a href="../norton-texts/aristotle-poetics-rhetoric/"><strong>Aristotle, Poetics and Rhetoric</strong><span>poetics, rhetoric, genre; pages 128-162; 23 review rows</span></a>
-  <a href="../norton-texts/schleiermacher-hermeneutics/"><strong>Friedrich Schleiermacher, Hermeneutics</strong><span>hermeneutics, interpretation, language; pages 652-667; 14 review rows</span></a>
-  <a href="../norton-texts/poe-philosophy-composition/"><strong>Edgar Allan Poe, The Philosophy of Composition</strong><span>composition, craft, effect; pages 781-791; 11 review rows</span></a>
-  <a href="../norton-texts/mallarme-crisis-poetry/"><strong>Stephane Mallarme, Crisis in Poetry</strong><span>poetry, language, modernity; pages 883-892; 10 review rows</span></a>
-  <a href="../norton-texts/henry-james-art-fiction/"><strong>Henry James, The Art of Fiction</strong><span>fiction, realism, craft; pages 893-911; 8 review rows</span></a>
-  <a href="../norton-texts/nietzsche-truth-and-lying/"><strong>Friedrich Nietzsche, On Truth and Lying in a Non-Moral Sense</strong><span>truth, metaphor, language; pages 912-927; 16 review rows</span></a>
+  <a href="../norton-texts/schleiermacher-hermeneutics/"><strong>Friedrich Schleiermacher, Hermeneutics</strong><span>hermeneutics, interpretation, language; pages 655-667; 11 review rows</span></a>
+  <a href="../norton-texts/poe-philosophy-composition/"><strong>Edgar Allan Poe, The Philosophy of Composition</strong><span>composition, craft, effect; pages 784-791; 8 review rows</span></a>
+  <a href="../norton-texts/mallarme-crisis-poetry/"><strong>Stephane Mallarme, Crisis in Poetry</strong><span>poetry, language, modernity; pages 887-892; 6 review rows</span></a>
+  <a href="../norton-texts/henry-james-art-fiction/"><strong>Henry James, The Art of Fiction</strong><span>fiction, realism, craft; pages 897-911; 4 review rows</span></a>
+  <a href="../norton-texts/nietzsche-truth-and-lying/"><strong>Friedrich Nietzsche, On Truth and Lying in a Non-Moral Sense</strong><span>truth, metaphor, language; pages 916-927; 12 review rows</span></a>
+  <a href="../norton-texts/nietzsche-birth-of-tragedy/"><strong>Friedrich Nietzsche, The Birth of Tragedy</strong><span>tragedy, aesthetics, myth; pages 928-938; 11 review rows</span></a>
+  <a href="../norton-texts/wilde-selected-critical-prose/"><strong>Oscar Wilde, Preface to The Picture of Dorian Gray and The Critic as Artist</strong><span>criticism, aestheticism, art-for-art; pages 943-956; 12 review rows</span></a>
+  <a href="../norton-texts/freud-dreams-uncanny-fetishism/"><strong>Sigmund Freud, The Interpretation of Dreams, The Uncanny, and Fetishism</strong><span>psychoanalysis, dreams, uncanny; pages 963-999; 37 review rows</span></a>
+  <a href="../norton-texts/saussure-course-general-linguistics/"><strong>Ferdinand de Saussure, Course in General Linguistics</strong><span>language, signs, structure; pages 1004-1007; 4 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -47,17 +51,25 @@ This is a scaffold for reading the configured texts together. It should become a
 4. [Stephane Mallarme, Crisis in Poetry](norton-texts/mallarme-crisis-poetry.md)
 5. [Henry James, The Art of Fiction](norton-texts/henry-james-art-fiction.md)
 6. [Friedrich Nietzsche, On Truth and Lying in a Non-Moral Sense](norton-texts/nietzsche-truth-and-lying.md)
+7. [Friedrich Nietzsche, The Birth of Tragedy](norton-texts/nietzsche-birth-of-tragedy.md)
+8. [Oscar Wilde, Preface to The Picture of Dorian Gray and The Critic as Artist](norton-texts/wilde-selected-critical-prose.md)
+9. [Sigmund Freud, The Interpretation of Dreams, The Uncanny, and Fetishism](norton-texts/freud-dreams-uncanny-fetishism.md)
+10. [Ferdinand de Saussure, Course in General Linguistics](norton-texts/saussure-course-general-linguistics.md)
 
 ## Review Pressure
 
 | Text | Norton Pages | Review Rows | Page Kinds |
 | --- | --- | ---: | --- |
 | [Poetics and Rhetoric](norton-texts/aristotle-poetics-rhetoric.md) | 128-162 | 23 | excerpt: 30<br>author_intro: 5 |
-| [Hermeneutics](norton-texts/schleiermacher-hermeneutics.md) | 652-667 | 14 | excerpt: 12<br>author_intro: 3<br>mixed_excerpt_bibliography: 1 |
-| [The Philosophy of Composition](norton-texts/poe-philosophy-composition.md) | 781-791 | 11 | excerpt: 8<br>author_intro: 3 |
-| [Crisis in Poetry](norton-texts/mallarme-crisis-poetry.md) | 883-892 | 10 | excerpt: 6<br>author_intro: 4 |
-| [The Art of Fiction](norton-texts/henry-james-art-fiction.md) | 893-911 | 8 | excerpt: 15<br>author_intro: 4 |
-| [On Truth and Lying in a Non-Moral Sense](norton-texts/nietzsche-truth-and-lying.md) | 912-927 | 16 | excerpt: 12<br>author_intro: 4 |
+| [Hermeneutics](norton-texts/schleiermacher-hermeneutics.md) | 655-667 | 11 | excerpt: 12<br>mixed_excerpt_bibliography: 1 |
+| [The Philosophy of Composition](norton-texts/poe-philosophy-composition.md) | 784-791 | 8 | excerpt: 8 |
+| [Crisis in Poetry](norton-texts/mallarme-crisis-poetry.md) | 887-892 | 6 | excerpt: 6 |
+| [The Art of Fiction](norton-texts/henry-james-art-fiction.md) | 897-911 | 4 | excerpt: 15 |
+| [On Truth and Lying in a Non-Moral Sense](norton-texts/nietzsche-truth-and-lying.md) | 916-927 | 12 | excerpt: 12 |
+| [The Birth of Tragedy](norton-texts/nietzsche-birth-of-tragedy.md) | 928-938 | 11 | excerpt: 11 |
+| [Preface to The Picture of Dorian Gray and The Critic as Artist](norton-texts/wilde-selected-critical-prose.md) | 943-956 | 12 | excerpt: 14 |
+| [The Interpretation of Dreams, The Uncanny, and Fetishism](norton-texts/freud-dreams-uncanny-fetishism.md) | 963-999 | 37 | excerpt: 37 |
+| [Course in General Linguistics](norton-texts/saussure-course-general-linguistics.md) | 1004-1007 | 4 | excerpt: 4 |
 
 ## Passage Queue
 
@@ -111,8 +123,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:00:49Z` |
-| Git commit | `3678a16` |
+| Generated at | `2026-06-13T05:09:12Z` |
+| Git commit | `9fa32c5` |
 | Script version | `2` |
 | Output path | `docs/workspace/language-truth-and-fiction.md` |
 

@@ -1717,3 +1717,138 @@ overrides:
     review_required: true
     review_reasons:
       - mixed_bibliography_and_work_title
+
+  - id: friedrich-nietzsche-birth-of-tragedy
+    pages: 928-938
+    author_name: Friedrich Nietzsche
+    author_slug: friedrich-nietzsche
+    work_title: The Birth of Tragedy
+    work_slug: the-birth-of-tragedy
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: oscar-wilde-headnote
+    pages: 939-943
+    author_name: Oscar Wilde
+    author_slug: oscar-wilde
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_transition_page
+
+  - id: oscar-wilde-preface-dorian-gray
+    pages: 943
+    author_name: Oscar Wilde
+    author_slug: oscar-wilde
+    work_title: Preface to The Picture of Dorian Gray
+    work_slug: preface-to-the-picture-of-dorian-gray
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: oscar-wilde-critic-as-artist
+    pages: 944-956
+    author_name: Oscar Wilde
+    author_slug: oscar-wilde
+    work_title: The Critic as Artist
+    work_slug: the-critic-as-artist
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: sigmund-freud-headnote
+    pages: 957-963
+    author_name: Sigmund Freud
+    author_slug: sigmund-freud
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: sigmund-freud-interpretation-of-dreams
+    pages: 963-973
+    author_name: Sigmund Freud
+    author_slug: sigmund-freud
+    work_title: The Interpretation of Dreams
+    work_slug: the-interpretation-of-dreams
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: sigmund-freud-uncanny
+    pages: 973-996
+    author_name: Sigmund Freud
+    author_slug: sigmund-freud
+    work_title: The Uncanny
+    work_slug: the-uncanny
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: sigmund-freud-fetishism
+    pages: 997-999
+    author_name: Sigmund Freud
+    author_slug: sigmund-freud
+    work_title: Fetishism
+    work_slug: fetishism
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: ferdinand-de-saussure-headnote
+    pages: 1000-1004
+    author_name: Ferdinand de Saussure
+    author_slug: ferdinand-de-saussure
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_transition_page
+      - mixed_bibliography_and_work_title
+
+  - id: ferdinand-de-saussure-course-general-linguistics
+    pages: 1004-1007
+    author_name: Ferdinand de Saussure
+    author_slug: ferdinand-de-saussure
+    work_title: Course in General Linguistics
+    work_slug: course-in-general-linguistics
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - continues_beyond_current_batch

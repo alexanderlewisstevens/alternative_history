@@ -20,11 +20,11 @@ This note turns the current Norton chunk for Christine de Pizan into a navigable
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Chunk Status</span>
-  <h3>Norton Pages 305-312</h3>
-  <p><strong>Page count:</strong> 8</p>
+  <h3>Norton Pages 307-312</h3>
+  <p><strong>Page count:</strong> 6</p>
   <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/christine-de-pizan.md</code></p>
-  <p><strong>Page kinds:</strong> excerpt: 6<br>author_intro: 2</p>
-  <p><strong>Review pressure:</strong> 3 rows. transition_from_previous_author: 2<br>source_notes_detected: 1</p>
+  <p><strong>Page kinds:</strong> excerpt: 6</p>
+  <p><strong>Review pressure:</strong> 1 rows. source_notes_detected: 1</p>
 </section>
 
 ## Works And Excerpt Blocks
@@ -45,7 +45,7 @@ This note turns the current Norton chunk for Christine de Pizan into a navigable
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Anchor Candidates</span>
   <h3>Choose Passages After Review</h3>
-  <p><strong>Source location:</strong> Norton page range 305-312.</p>
+  <p><strong>Source location:</strong> Norton page range 307-312.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
   <p><strong>Use:</strong> Find the passages that make this text active inside education-and-civic-life, authorship-and-authority, aesthetic-education-and-citizenship.</p>
 </section>
@@ -53,7 +53,7 @@ This note turns the current Norton chunk for Christine de Pizan into a navigable
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Review Before Quoting</span>
   <h3>Layout, Notes, And Bibliography</h3>
-  <p><strong>Review signal:</strong> transition_from_previous_author: 2<br>source_notes_detected: 1</p>
+  <p><strong>Review signal:</strong> source_notes_detected: 1</p>
   <p><strong>Editorial rule:</strong> source notes belong in source-note fields, bibliography belongs in bibliography fields, and excerpt text stays separate.</p>
 </section>
 
@@ -91,8 +91,8 @@ This note turns the current Norton chunk for Christine de Pizan into a navigable
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/christine-de-pizan.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T05:01:21Z` |
-| Git commit | `3678a16` |
+| Generated at | `2026-06-13T05:09:17Z` |
+| Git commit | `9fa32c5` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/christine-de-pizan-city-of-ladies.md` |
 

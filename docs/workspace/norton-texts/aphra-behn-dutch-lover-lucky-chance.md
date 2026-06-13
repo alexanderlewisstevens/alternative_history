@@ -92,8 +92,8 @@ This note turns the current Norton chunk for Aphra Behn into a navigable workspa
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/aphra-behn.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T05:01:21Z` |
-| Git commit | `3678a16` |
+| Generated at | `2026-06-13T05:09:17Z` |
+| Git commit | `9fa32c5` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/aphra-behn-dutch-lover-lucky-chance.md` |
 

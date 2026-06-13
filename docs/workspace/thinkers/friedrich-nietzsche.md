@@ -4,7 +4,7 @@
   <span><strong>Type:</strong> thinker node</span>
   <span><strong>Status:</strong> generated private workspace note</span>
   <span><strong>Source mode:</strong> restricted metadata only</span>
-  <span><strong>Tags:</strong> critique, language, metaphor, truth</span>
+  <span><strong>Tags:</strong> aesthetics, art, critique, language, metaphor, myth, tragedy, truth</span>
 </div>
 
 <div class="ah-private-banner">
@@ -20,11 +20,13 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [On Truth and Lying in a Non-Moral Sense](../norton-texts/nietzsche-truth-and-lying.md) | 912-927 | 16 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[beauty-and-ascent](../beauty-and-ascent.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[sublime-and-limits](../sublime-and-limits.md)<br>[romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
+| [On Truth and Lying in a Non-Moral Sense](../norton-texts/nietzsche-truth-and-lying.md) | 912-938 | 27 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[beauty-and-ascent](../beauty-and-ascent.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[sublime-and-limits](../sublime-and-limits.md)<br>[romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
+| [The Birth of Tragedy](../norton-texts/nietzsche-birth-of-tragedy.md) | 912-938 | 27 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[beauty-and-ascent](../beauty-and-ascent.md)<br>[sublime-and-limits](../sublime-and-limits.md)<br>[romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
 - On Truth and Lying in a Non-Moral Sense
+- The Birth of Tragedy
 
 ## Constellation Backlinks
 
@@ -34,6 +36,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 - [education-and-civic-life](../education-and-civic-life.md)
 - [labor-ideology-and-culture](../labor-ideology-and-culture.md)
 - [language-truth-and-fiction](../language-truth-and-fiction.md)
+- [poetry-and-judgment](../poetry-and-judgment.md)
 - [romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md)
 - [signs-and-reading](../signs-and-reading.md)
 - [sublime-and-limits](../sublime-and-limits.md)
@@ -42,9 +45,9 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Signal | Value |
 | --- | --- |
-| Page kinds | excerpt: 12<br>author_intro: 4 |
-| Review rows | 16 |
-| Review reasons | mixed_bibliography_and_work_title: 16<br>transition_from_previous_author: 4 |
+| Page kinds | excerpt: 23<br>author_intro: 4 |
+| Review rows | 27 |
+| Review reasons | mixed_bibliography_and_work_title: 16<br>mixed_work_transition_page: 11<br>transition_from_previous_author: 4 |
 
 ## Passage Queue
 
@@ -95,8 +98,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T05:01:19Z` |
-| Git commit | `3678a16` |
+| Generated at | `2026-06-13T05:09:15Z` |
+| Git commit | `9fa32c5` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/friedrich-nietzsche.md` |
 

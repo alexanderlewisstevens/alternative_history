@@ -82,6 +82,10 @@ nav:
           - Mallarme, Crisis in Poetry: workspace/norton-texts/mallarme-crisis-poetry.md
           - Henry James, The Art of Fiction: workspace/norton-texts/henry-james-art-fiction.md
           - Nietzsche, On Truth and Lying: workspace/norton-texts/nietzsche-truth-and-lying.md
+          - Nietzsche, The Birth of Tragedy: workspace/norton-texts/nietzsche-birth-of-tragedy.md
+          - Wilde, Selected Critical Prose: workspace/norton-texts/wilde-selected-critical-prose.md
+          - Freud, Dreams, Uncanny, and Fetishism: workspace/norton-texts/freud-dreams-uncanny-fetishism.md
+          - Saussure, Course in General Linguistics: workspace/norton-texts/saussure-course-general-linguistics.md
       - Thinker Notes:
           - Index: workspace/thinkers/index.md
           - Gorgias of Leontini: workspace/thinkers/gorgias-of-leontini.md
@@ -136,6 +140,9 @@ nav:
           - Stephane Mallarme: workspace/thinkers/stephane-mallarme.md
           - Henry James: workspace/thinkers/henry-james.md
           - Friedrich Nietzsche: workspace/thinkers/friedrich-nietzsche.md
+          - Oscar Wilde: workspace/thinkers/oscar-wilde.md
+          - Sigmund Freud: workspace/thinkers/sigmund-freud.md
+          - Ferdinand de Saussure: workspace/thinkers/ferdinand-de-saussure.md
       - Passage Notes:
           - Index: workspace/passages/index.md
           - Speech As Force: workspace/passages/gorgias-speech-as-force.md

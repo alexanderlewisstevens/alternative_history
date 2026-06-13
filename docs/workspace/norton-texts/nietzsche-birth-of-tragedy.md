@@ -1,10 +1,10 @@
-# Horace, Ars Poetica
+# Friedrich Nietzsche, The Birth of Tragedy
 
 <div class="ah-note-meta">
   <span><strong>Type:</strong> Norton text node</span>
   <span><strong>Status:</strong> generated private workspace note</span>
   <span><strong>Source mode:</strong> restricted metadata only</span>
-  <span><strong>Tags:</strong> literary-judgment, craft, decorum</span>
+  <span><strong>Tags:</strong> tragedy, aesthetics, myth, art</span>
 </div>
 
 <div class="ah-private-banner">
@@ -14,44 +14,48 @@
 
 ## Working Use
 
-This note turns the current Norton chunk for Horace into a navigable workspace node. Use it to move between the restricted draft, the curated text spine, the first constellations, and the review queue before writing public-facing commentary.
+This note turns the current Norton chunk for Friedrich Nietzsche into a navigable workspace node. Use it to move between the restricted draft, the curated text spine, the first constellations, and the review queue before writing public-facing commentary.
 
 ## Current Chunk
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Chunk Status</span>
-  <h3>Norton Pages 167-176</h3>
-  <p><strong>Page count:</strong> 10</p>
-  <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/horace.md</code></p>
-  <p><strong>Page kinds:</strong> excerpt: 10</p>
-  <p><strong>Review pressure:</strong> 10 rows. multi_column_layout: 10<br>source_notes_detected: 9</p>
+  <h3>Norton Pages 928-938</h3>
+  <p><strong>Page count:</strong> 11</p>
+  <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/friedrich-nietzsche.md</code></p>
+  <p><strong>Page kinds:</strong> excerpt: 11</p>
+  <p><strong>Review pressure:</strong> 11 rows. mixed_work_transition_page: 11</p>
 </section>
 
 ## Works And Excerpt Blocks
 
-- Ars Poetica
+- On Truth and Lying in a Non-Moral Sense
+- The Birth of Tragedy
 
 ## Constellations
 
 | Constellation | Core Question | Relations |
 | --- | --- | --- |
 | [poetry-and-judgment](../poetry-and-judgment.md) | Who gets to judge art? | tension, craft, excess |
-| [media-and-form](../media-and-form.md) | How do media shape what thought can represent? | medium, form, representation |
+| [beauty-and-ascent](../beauty-and-ascent.md) | When does beauty become a way of knowing? | sublimity, ascent, inward-reading |
+| [sublime-and-limits](../sublime-and-limits.md) | What happens when experience exceeds form? | sublimity, affect, limit |
+| [romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md) | What can poetry do under modern social pressure? | poetry, modernity, imagination |
+| [language-truth-and-fiction](../language-truth-and-fiction.md) | How do language and form make worlds rather than merely report them? | language, fiction, truth |
 
 ## Passage Queue
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Anchor Candidates</span>
   <h3>Choose Passages After Review</h3>
-  <p><strong>Source location:</strong> Norton page range 167-176.</p>
+  <p><strong>Source location:</strong> Norton page range 928-938.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
-  <p><strong>Use:</strong> Find the passages that make this text active inside poetry-and-judgment, media-and-form.</p>
+  <p><strong>Use:</strong> Find the passages that make this text active inside poetry-and-judgment, beauty-and-ascent, sublime-and-limits, romantic-poetry-and-modernity, language-truth-and-fiction.</p>
 </section>
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Review Before Quoting</span>
   <h3>Layout, Notes, And Bibliography</h3>
-  <p><strong>Review signal:</strong> multi_column_layout: 10<br>source_notes_detected: 9</p>
+  <p><strong>Review signal:</strong> mixed_work_transition_page: 11</p>
   <p><strong>Editorial rule:</strong> source notes belong in source-note fields, bibliography belongs in bibliography fields, and excerpt text stays separate.</p>
 </section>
 
@@ -80,19 +84,19 @@ This note turns the current Norton chunk for Horace into a navigable workspace n
 
 | Field | Value |
 | --- | --- |
-| Text ID | `horace-ars-poetica` |
-| Curated title | Ars Poetica |
-| Creator | Horace |
-| Thinker note | [Horace](../thinkers/horace.md) |
+| Text ID | `nietzsche-birth-of-tragedy` |
+| Curated title | The Birth of Tragedy |
+| Creator | Friedrich Nietzsche |
+| Thinker note | [Friedrich Nietzsche](../thinkers/friedrich-nietzsche.md) |
 | Register status | `edition-review-needed` |
 | Source anthology | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Restricted draft | `generated/authors/norton-theory-criticism/horace.md` |
+| Restricted draft | `generated/authors/norton-theory-criticism/friedrich-nietzsche.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
 | Generated at | `2026-06-13T05:09:17Z` |
 | Git commit | `9fa32c5` |
 | Script version | `2` |
-| Output path | `docs/workspace/norton-texts/horace-ars-poetica.md` |
+| Output path | `docs/workspace/norton-texts/nietzsche-birth-of-tragedy.md` |
 
 ## Backlinks
 
@@ -101,10 +105,13 @@ This note turns the current Norton chunk for Horace into a navigable workspace n
 <li><a href="../../norton-map/">Norton Workspace Map</a></li>
 <li><a href="../../">Private Knowledge Base</a></li>
 <li><a href="../../../catalog/sources/">Text Catalog</a></li>
-<li>Thinker: <a href="../../thinkers/horace/">Horace</a></li>
+<li>Thinker: <a href="../../thinkers/friedrich-nietzsche/">Friedrich Nietzsche</a></li>
 <li><a href="../../passages/">Passage Notes</a></li>
 <li><a href="../../poetry-and-judgment/">poetry-and-judgment</a></li>
-<li><a href="../../media-and-form/">media-and-form</a></li>
+<li><a href="../../beauty-and-ascent/">beauty-and-ascent</a></li>
+<li><a href="../../sublime-and-limits/">sublime-and-limits</a></li>
+<li><a href="../../romantic-poetry-and-modernity/">romantic-poetry-and-modernity</a></li>
+<li><a href="../../language-truth-and-fiction/">language-truth-and-fiction</a></li>
 </ul>
 
 ## Open Questions

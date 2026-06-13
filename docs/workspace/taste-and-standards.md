@@ -23,26 +23,27 @@ This is a scaffold for reading the configured texts together. It should become a
 ## Texts In Play
 
 <div class="ah-graph-list">
-  <a href="../norton-texts/longinus-on-sublimity/"><strong>Longinus, On Sublimity</strong><span>sublimity, aesthetics, authority; pages 177-196; 19 review rows</span></a>
+  <a href="../norton-texts/longinus-on-sublimity/"><strong>Longinus, On Sublimity</strong><span>sublimity, aesthetics, authority; pages 180-196; 16 review rows</span></a>
   <a href="../norton-texts/sidney-defense-of-poesy/"><strong>Sir Philip Sidney, The Defense of Poesy</strong><span>poetry, rhetoric, education; pages 365-404; 39 review rows</span></a>
   <a href="../norton-texts/addison-spectator-essays/"><strong>Joseph Addison, The Spectator, Nos. 62 and 412</strong><span>wit, imagination, taste; pages 458-467; 10 review rows</span></a>
-  <a href="../norton-texts/pope-essay-on-criticism/"><strong>Alexander Pope, An Essay on Criticism</strong><span>criticism, judgment, wit; pages 480-499; 20 review rows</span></a>
+  <a href="../norton-texts/pope-essay-on-criticism/"><strong>Alexander Pope, An Essay on Criticism</strong><span>criticism, judgment, wit; pages 483-499; 17 review rows</span></a>
   <a href="../norton-texts/johnson-selected-critical-prose/"><strong>Samuel Johnson, Selected Critical Prose</strong><span>fiction, shakespeare, criticism; pages 500-524; 21 review rows</span></a>
-  <a href="../norton-texts/hume-standard-of-taste/"><strong>David Hume, Of the Standard of Taste</strong><span>taste, judgment, empiricism; pages 525-540; 7 review rows</span></a>
-  <a href="../norton-texts/kant-critique-of-judgment/"><strong>Immanuel Kant, Critique of Judgment</strong><span>aesthetics, judgment, disinterestedness; pages 541-577; 14 review rows</span></a>
-  <a href="../norton-texts/burke-sublime-and-beautiful/"><strong>Edmund Burke, A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful</strong><span>sublime, beauty, affect; pages 578-592; 6 review rows</span></a>
-  <a href="../norton-texts/schiller-aesthetic-education/"><strong>Friedrich Schiller, On the Aesthetic Education of Man</strong><span>aesthetic-education, freedom, play; pages 613-623; 10 review rows</span></a>
-  <a href="../norton-texts/wordsworth-lyrical-ballads-preface/"><strong>William Wordsworth, Preface to Lyrical Ballads</strong><span>poetry, common-life, language; pages 687-709; 9 review rows</span></a>
+  <a href="../norton-texts/hume-standard-of-taste/"><strong>David Hume, Of the Standard of Taste</strong><span>taste, judgment, empiricism; pages 528-540; 4 review rows</span></a>
+  <a href="../norton-texts/kant-critique-of-judgment/"><strong>Immanuel Kant, Critique of Judgment</strong><span>aesthetics, judgment, disinterestedness; pages 546-577; 9 review rows</span></a>
+  <a href="../norton-texts/burke-sublime-and-beautiful/"><strong>Edmund Burke, A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful</strong><span>sublime, beauty, affect; pages 581-592; 3 review rows</span></a>
+  <a href="../norton-texts/schiller-aesthetic-education/"><strong>Friedrich Schiller, On the Aesthetic Education of Man</strong><span>aesthetic-education, freedom, play; pages 615-623; 8 review rows</span></a>
+  <a href="../norton-texts/wordsworth-lyrical-ballads-preface/"><strong>William Wordsworth, Preface to Lyrical Ballads</strong><span>poetry, common-life, language; pages 690-709; 8 review rows</span></a>
   <a href="../norton-texts/coleridge-statesmans-manual-biographia-literaria/"><strong>Samuel Taylor Coleridge, The Statesman&#x27;s Manual and Biographia Literaria</strong><span>imagination, symbol, poetry; pages 710-723; 13 review rows</span></a>
-  <a href="../norton-texts/peacock-four-ages-poetry/"><strong>Thomas Love Peacock, The Four Ages of Poetry</strong><span>poetry, modernity, satire; pages 724-737; 14 review rows</span></a>
-  <a href="../norton-texts/shelley-defence-poetry/"><strong>Percy Bysshe Shelley, A Defence of Poetry</strong><span>poetry, imagination, social-change; pages 738-758; 19 review rows</span></a>
+  <a href="../norton-texts/peacock-four-ages-poetry/"><strong>Thomas Love Peacock, The Four Ages of Poetry</strong><span>poetry, modernity, satire; pages 727-737; 11 review rows</span></a>
+  <a href="../norton-texts/shelley-defence-poetry/"><strong>Percy Bysshe Shelley, A Defence of Poetry</strong><span>poetry, imagination, social-change; pages 741-758; 16 review rows</span></a>
   <a href="../norton-texts/emerson-american-scholar-poet/"><strong>Ralph Waldo Emerson, The American Scholar and The Poet</strong><span>scholarship, self-reliance, poetry; pages 759-780; 21 review rows</span></a>
-  <a href="../norton-texts/poe-philosophy-composition/"><strong>Edgar Allan Poe, The Philosophy of Composition</strong><span>composition, craft, effect; pages 781-791; 11 review rows</span></a>
-  <a href="../norton-texts/gautier-preface-mademoiselle-de-maupin/"><strong>Theophile Gautier, Preface to Mademoiselle de Maupin</strong><span>aestheticism, art-for-art, utility; pages 792-800; 9 review rows</span></a>
-  <a href="../norton-texts/baudelaire-painter-modern-life/"><strong>Charles Baudelaire, The Painter of Modern Life</strong><span>modernity, art, fashion; pages 831-843; 9 review rows</span></a>
+  <a href="../norton-texts/poe-philosophy-composition/"><strong>Edgar Allan Poe, The Philosophy of Composition</strong><span>composition, craft, effect; pages 784-791; 8 review rows</span></a>
+  <a href="../norton-texts/gautier-preface-mademoiselle-de-maupin/"><strong>Theophile Gautier, Preface to Mademoiselle de Maupin</strong><span>aestheticism, art-for-art, utility; pages 795-800; 6 review rows</span></a>
+  <a href="../norton-texts/baudelaire-painter-modern-life/"><strong>Charles Baudelaire, The Painter of Modern Life</strong><span>modernity, art, fashion; pages 834-843; 6 review rows</span></a>
   <a href="../norton-texts/arnold-selected-critical-prose/"><strong>Matthew Arnold, Selected Critical Prose</strong><span>criticism, culture, education; pages 844-874; 31 review rows</span></a>
-  <a href="../norton-texts/pater-renaissance/"><strong>Walter Pater, Studies in the History of the Renaissance</strong><span>aestheticism, perception, criticism; pages 875-882; 8 review rows</span></a>
-  <a href="../norton-texts/henry-james-art-fiction/"><strong>Henry James, The Art of Fiction</strong><span>fiction, realism, craft; pages 893-911; 8 review rows</span></a>
+  <a href="../norton-texts/pater-renaissance/"><strong>Walter Pater, Studies in the History of the Renaissance</strong><span>aestheticism, perception, criticism; pages 877-882; 6 review rows</span></a>
+  <a href="../norton-texts/henry-james-art-fiction/"><strong>Henry James, The Art of Fiction</strong><span>fiction, realism, craft; pages 897-911; 4 review rows</span></a>
+  <a href="../norton-texts/wilde-selected-critical-prose/"><strong>Oscar Wilde, Preface to The Picture of Dorian Gray and The Critic as Artist</strong><span>criticism, aestheticism, art-for-art; pages 943-956; 12 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -75,31 +76,33 @@ This is a scaffold for reading the configured texts together. It should become a
 18. [Matthew Arnold, Selected Critical Prose](norton-texts/arnold-selected-critical-prose.md)
 19. [Walter Pater, Studies in the History of the Renaissance](norton-texts/pater-renaissance.md)
 20. [Henry James, The Art of Fiction](norton-texts/henry-james-art-fiction.md)
+21. [Oscar Wilde, Preface to The Picture of Dorian Gray and The Critic as Artist](norton-texts/wilde-selected-critical-prose.md)
 
 ## Review Pressure
 
 | Text | Norton Pages | Review Rows | Page Kinds |
 | --- | --- | ---: | --- |
-| [On Sublimity](norton-texts/longinus-on-sublimity.md) | 177-196 | 19 | excerpt: 16<br>author_intro: 4 |
+| [On Sublimity](norton-texts/longinus-on-sublimity.md) | 180-196 | 16 | excerpt: 16<br>author_intro: 1 |
 | [The Defense of Poesy](norton-texts/sidney-defense-of-poesy.md) | 365-404 | 39 | excerpt: 36<br>author_intro: 3<br>mixed_excerpt_bibliography: 1 |
 | [The Spectator, Nos. 62 and 412](norton-texts/addison-spectator-essays.md) | 458-467 | 10 | excerpt: 7<br>author_intro: 3 |
-| [An Essay on Criticism](norton-texts/pope-essay-on-criticism.md) | 480-499 | 20 | excerpt: 17<br>author_intro: 3 |
+| [An Essay on Criticism](norton-texts/pope-essay-on-criticism.md) | 483-499 | 17 | excerpt: 17 |
 | [Selected Critical Prose](norton-texts/johnson-selected-critical-prose.md) | 500-524 | 21 | excerpt: 18<br>author_intro: 7 |
-| [Of the Standard of Taste](norton-texts/hume-standard-of-taste.md) | 525-540 | 7 | excerpt: 13<br>author_intro: 3 |
-| [Critique of Judgment](norton-texts/kant-critique-of-judgment.md) | 541-577 | 14 | excerpt: 32<br>author_intro: 5 |
-| [A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful](norton-texts/burke-sublime-and-beautiful.md) | 578-592 | 6 | excerpt: 12<br>author_intro: 3 |
-| [On the Aesthetic Education of Man](norton-texts/schiller-aesthetic-education.md) | 613-623 | 10 | excerpt: 9<br>author_intro: 2 |
-| [Preface to Lyrical Ballads](norton-texts/wordsworth-lyrical-ballads-preface.md) | 687-709 | 9 | excerpt: 19<br>author_intro: 3<br>bibliography: 1 |
+| [Of the Standard of Taste](norton-texts/hume-standard-of-taste.md) | 528-540 | 4 | excerpt: 13 |
+| [Critique of Judgment](norton-texts/kant-critique-of-judgment.md) | 546-577 | 9 | excerpt: 32 |
+| [A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful](norton-texts/burke-sublime-and-beautiful.md) | 581-592 | 3 | excerpt: 12 |
+| [On the Aesthetic Education of Man](norton-texts/schiller-aesthetic-education.md) | 615-623 | 8 | excerpt: 9 |
+| [Preface to Lyrical Ballads](norton-texts/wordsworth-lyrical-ballads-preface.md) | 690-709 | 8 | excerpt: 19<br>bibliography: 1 |
 | [The Statesman&#x27;s Manual and Biographia Literaria](norton-texts/coleridge-statesmans-manual-biographia-literaria.md) | 710-723 | 13 | excerpt: 9<br>author_intro: 5 |
-| [The Four Ages of Poetry](norton-texts/peacock-four-ages-poetry.md) | 724-737 | 14 | excerpt: 11<br>author_intro: 3 |
-| [A Defence of Poetry](norton-texts/shelley-defence-poetry.md) | 738-758 | 19 | excerpt: 18<br>author_intro: 3 |
+| [The Four Ages of Poetry](norton-texts/peacock-four-ages-poetry.md) | 727-737 | 11 | excerpt: 11 |
+| [A Defence of Poetry](norton-texts/shelley-defence-poetry.md) | 741-758 | 16 | excerpt: 18 |
 | [The American Scholar and The Poet](norton-texts/emerson-american-scholar-poet.md) | 759-780 | 21 | excerpt: 18<br>author_intro: 4 |
-| [The Philosophy of Composition](norton-texts/poe-philosophy-composition.md) | 781-791 | 11 | excerpt: 8<br>author_intro: 3 |
-| [Preface to Mademoiselle de Maupin](norton-texts/gautier-preface-mademoiselle-de-maupin.md) | 792-800 | 9 | excerpt: 6<br>author_intro: 3 |
-| [The Painter of Modern Life](norton-texts/baudelaire-painter-modern-life.md) | 831-843 | 9 | excerpt: 9<br>author_intro: 4 |
+| [The Philosophy of Composition](norton-texts/poe-philosophy-composition.md) | 784-791 | 8 | excerpt: 8 |
+| [Preface to Mademoiselle de Maupin](norton-texts/gautier-preface-mademoiselle-de-maupin.md) | 795-800 | 6 | excerpt: 6 |
+| [The Painter of Modern Life](norton-texts/baudelaire-painter-modern-life.md) | 834-843 | 6 | excerpt: 9<br>author_intro: 1 |
 | [Selected Critical Prose](norton-texts/arnold-selected-critical-prose.md) | 844-874 | 31 | excerpt: 27<br>author_intro: 4 |
-| [Studies in the History of the Renaissance](norton-texts/pater-renaissance.md) | 875-882 | 8 | excerpt: 6<br>author_intro: 2 |
-| [The Art of Fiction](norton-texts/henry-james-art-fiction.md) | 893-911 | 8 | excerpt: 15<br>author_intro: 4 |
+| [Studies in the History of the Renaissance](norton-texts/pater-renaissance.md) | 877-882 | 6 | excerpt: 6 |
+| [The Art of Fiction](norton-texts/henry-james-art-fiction.md) | 897-911 | 4 | excerpt: 15 |
+| [Preface to The Picture of Dorian Gray and The Critic as Artist](norton-texts/wilde-selected-critical-prose.md) | 943-956 | 12 | excerpt: 14 |
 
 ## Passage Queue
 
@@ -153,8 +156,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:00:49Z` |
-| Git commit | `3678a16` |
+| Generated at | `2026-06-13T05:09:12Z` |
+| Git commit | `9fa32c5` |
 | Script version | `2` |
 | Output path | `docs/workspace/taste-and-standards.md` |
 

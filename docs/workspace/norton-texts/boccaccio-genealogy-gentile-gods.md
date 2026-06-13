@@ -20,11 +20,11 @@ This note turns the current Norton chunk for Giovanni Boccaccio into a navigable
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Chunk Status</span>
-  <h3>Norton Pages 295-304</h3>
-  <p><strong>Page count:</strong> 10</p>
+  <h3>Norton Pages 297-304</h3>
+  <p><strong>Page count:</strong> 8</p>
   <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/giovanni-boccaccio.md</code></p>
-  <p><strong>Page kinds:</strong> excerpt: 7<br>author_intro: 2<br>mixed_excerpt_bibliography: 1</p>
-  <p><strong>Review pressure:</strong> 9 rows. multi_column_layout: 6<br>source_notes_detected: 4<br>transition_from_previous_author: 2<br>mixed_excerpt_and_bibliography: 1<br>author_boundary_without_life_dates: 1</p>
+  <p><strong>Page kinds:</strong> excerpt: 7<br>mixed_excerpt_bibliography: 1</p>
+  <p><strong>Review pressure:</strong> 7 rows. multi_column_layout: 6<br>source_notes_detected: 4<br>mixed_excerpt_and_bibliography: 1<br>author_boundary_without_life_dates: 1</p>
 </section>
 
 ## Works And Excerpt Blocks
@@ -42,7 +42,7 @@ This note turns the current Norton chunk for Giovanni Boccaccio into a navigable
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Anchor Candidates</span>
   <h3>Choose Passages After Review</h3>
-  <p><strong>Source location:</strong> Norton page range 295-304.</p>
+  <p><strong>Source location:</strong> Norton page range 297-304.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
   <p><strong>Use:</strong> Find the passages that make this text active inside poetry-and-judgment.</p>
 </section>
@@ -50,7 +50,7 @@ This note turns the current Norton chunk for Giovanni Boccaccio into a navigable
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Review Before Quoting</span>
   <h3>Layout, Notes, And Bibliography</h3>
-  <p><strong>Review signal:</strong> multi_column_layout: 6<br>source_notes_detected: 4<br>transition_from_previous_author: 2<br>mixed_excerpt_and_bibliography: 1<br>author_boundary_without_life_dates: 1</p>
+  <p><strong>Review signal:</strong> multi_column_layout: 6<br>source_notes_detected: 4<br>mixed_excerpt_and_bibliography: 1<br>author_boundary_without_life_dates: 1</p>
   <p><strong>Editorial rule:</strong> source notes belong in source-note fields, bibliography belongs in bibliography fields, and excerpt text stays separate.</p>
 </section>
 
@@ -88,8 +88,8 @@ This note turns the current Norton chunk for Giovanni Boccaccio into a navigable
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/giovanni-boccaccio.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T05:01:21Z` |
-| Git commit | `3678a16` |
+| Generated at | `2026-06-13T05:09:17Z` |
+| Git commit | `9fa32c5` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/boccaccio-genealogy-gentile-gods.md` |
 

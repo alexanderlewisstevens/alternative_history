@@ -21,12 +21,16 @@ from lib.extraction_common import (
 )
 from lib.workspace_components import backlink_list, link, note_meta, passage_card, private_banner, provenance_table
 from update_workspace_map import (
+    classification_records_for_text,
     counter_summary,
     load_source_register,
     page_kinds_by_author,
+    page_kinds_for_records,
     page_range,
+    page_range_for_records,
     read_csv_rows,
     review_counts_by_author,
+    review_counts_for_records,
 )
 from update_workspace_text_notes import author_row_for_text
 
@@ -59,14 +63,16 @@ def text_cards(
     texts: dict[str, dict[str, Any]],
     author_rows: dict[str, dict[str, str] | None],
     review_counts: dict[str, Counter[str]],
+    classification_records: list[dict[str, Any]],
 ) -> str:
     cards = []
     for index, text_id in enumerate([str(value) for value in constellation.get("texts", [])]):
         text = texts.get(text_id, {})
         author_row = author_rows.get(text_id)
         author_slug = author_row.get("author_slug", "") if author_row else ""
-        pages = page_range(author_row.get("first_page", ""), author_row.get("last_page", "")) if author_row else "not assembled"
-        review_count = review_counts.get(author_slug, Counter()).get("total", 0)
+        text_records = classification_records_for_text(classification_records, text)
+        pages = page_range_for_records(text_records) or (page_range(author_row.get("first_page", ""), author_row.get("last_page", "")) if author_row else "not assembled")
+        review_count = (review_counts_for_records(text_records) or review_counts.get(author_slug, Counter())).get("total", 0)
         label = f"{text.get('creator', 'Unknown')}, {text.get('title', text_id)}"
         cards.append(
             f"""  <a href="{text_note_href(text_id)}"><strong>{html.escape(str(label))}</strong><span>{html.escape(text_role(text, index))}; pages {html.escape(pages)}; {review_count} review rows</span></a>"""
@@ -115,20 +121,25 @@ def review_summary_rows(
     author_rows: dict[str, dict[str, str] | None],
     page_kinds: dict[str, Counter[str]],
     review_counts: dict[str, Counter[str]],
+    classification_records: list[dict[str, Any]],
 ) -> str:
     rows = []
     for text_id in [str(value) for value in constellation.get("texts", [])]:
         text = texts.get(text_id, {})
         author_row = author_rows.get(text_id)
         author_slug = author_row.get("author_slug", "") if author_row else ""
+        text_records = classification_records_for_text(classification_records, text)
+        text_pages = page_range_for_records(text_records) or (page_range(author_row.get("first_page", ""), author_row.get("last_page", "")) if author_row else "")
+        text_reviews = review_counts_for_records(text_records) or review_counts.get(author_slug, Counter())
+        text_kinds = page_kinds_for_records(text_records) or page_kinds.get(author_slug, Counter())
         rows.append(
             "| "
             + " | ".join(
                 [
                     f"[{html.escape(str(text.get('title', text_id)))}]({text_note_path(text_id)})",
-                    html.escape(page_range(author_row.get("first_page", ""), author_row.get("last_page", "")) if author_row else ""),
-                    str(review_counts.get(author_slug, Counter()).get("total", 0)),
-                    counter_summary(page_kinds.get(author_slug, Counter()), limit=3) or "",
+                    html.escape(text_pages),
+                    str(text_reviews.get("total", 0)),
+                    counter_summary(text_kinds, limit=3) or "",
                 ]
             )
             + " |"
@@ -143,6 +154,7 @@ def build_constellation_page(
     author_rows: dict[str, dict[str, str] | None],
     page_kinds: dict[str, Counter[str]],
     review_counts: dict[str, Counter[str]],
+    classification_records: list[dict[str, Any]],
     output_path: Path,
 ) -> str:
     constellation_id = str(constellation.get("id", "unknown"))
@@ -173,7 +185,7 @@ This is a scaffold for reading the configured texts together. It should become a
 ## Texts In Play
 
 <div class="ah-graph-list">
-{text_cards(constellation, texts, author_rows, review_counts)}
+{text_cards(constellation, texts, author_rows, review_counts, classification_records)}
 </div>
 
 ## Relationship Map
@@ -190,7 +202,7 @@ This is a scaffold for reading the configured texts together. It should become a
 
 | Text | Norton Pages | Review Rows | Page Kinds |
 | --- | --- | ---: | --- |
-{review_summary_rows(constellation, texts, author_rows, page_kinds, review_counts)}
+{review_summary_rows(constellation, texts, author_rows, page_kinds, review_counts, classification_records)}
 
 ## Passage Queue
 
@@ -315,6 +327,7 @@ def main() -> int:
             author_rows=author_rows,
             page_kinds=page_kinds,
             review_counts=review_counts,
+            classification_records=classification_records,
             output_path=output_path,
         )
         planned_outputs.append(

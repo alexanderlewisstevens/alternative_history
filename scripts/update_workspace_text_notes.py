@@ -26,12 +26,16 @@ from update_workspace_map import (
     author_matches_text,
     constellations_for_text_ids,
     counter_summary,
+    classification_records_for_text,
     load_source_register,
     metric_cards,
     page_kinds_by_author,
+    page_kinds_for_records,
     page_range,
+    page_range_for_records,
     read_csv_rows,
     review_counts_by_author,
+    review_counts_for_records,
     text_ids_for_author,
     works_by_author,
 )
@@ -164,6 +168,7 @@ def build_text_note(
     text: dict[str, Any],
     source: dict[str, Any],
     author_row: dict[str, str] | None,
+    text_records: list[dict[str, Any]],
     names: dict[str, str],
     works: dict[str, list[str]],
     page_kinds: dict[str, Counter[str]],
@@ -176,12 +181,13 @@ def build_text_note(
     author_slug = author_row.get("author_slug", "") if author_row else ""
     author_name = names.get(author_slug, str(text.get("creator", "")))
     author_works = works.get(author_slug, [])
-    kinds = page_kinds.get(author_slug, Counter())
-    reviews = review_counts.get(author_slug, Counter())
+    kinds = page_kinds_for_records(text_records) or page_kinds.get(author_slug, Counter())
+    reviews = review_counts_for_records(text_records) or review_counts.get(author_slug, Counter())
     constellation_ids = [str(item.get("id", "")) for item in text_constellations(text_id, constellations)]
     themes = [str(value) for value in text.get("themes", [])]
     generated_at = now_utc()
-    source_location = html.escape(page_range(author_row.get("first_page", ""), author_row.get("last_page", "")) if author_row else "not assembled")
+    text_page_range = page_range_for_records(text_records) or (page_range(author_row.get("first_page", ""), author_row.get("last_page", "")) if author_row else "not assembled")
+    source_location = html.escape(text_page_range)
     constellation_label = html.escape(", ".join(constellation_ids) or "the workspace")
 
     return f"""# {html.escape(author_name)}, {html.escape(str(text.get("title", "")))}
@@ -201,7 +207,12 @@ This note turns the current Norton chunk for {html.escape(author_name)} into a n
 
 ## Current Chunk
 
-{page_status_card(author_row, reviews, kinds)}
+{page_status_card({
+    **author_row,
+    "first_page": text_page_range.split("-")[0] if "-" in text_page_range else text_page_range,
+    "last_page": text_page_range.split("-")[-1] if "-" in text_page_range else text_page_range,
+    "page_count": str(len(text_records) or author_row.get("page_count", "")),
+} if author_row else None, reviews, kinds)}
 
 ## Works And Excerpt Blocks
 
@@ -426,10 +437,13 @@ def main() -> int:
         text_id = str(text["id"])
         output_path = output_dir / f"{text_id}.md"
         author_row = author_row_for_text(text, author_assembly)
+        text_records = classification_records_for_text(classification_records, text)
+        text_page_range = page_range_for_records(text_records)
         markdown = build_text_note(
             text=text,
             source=source,
             author_row=author_row,
+            text_records=text_records,
             names=names,
             works=works,
             page_kinds=page_kinds,
@@ -445,7 +459,7 @@ def main() -> int:
                 {
                     "text_id": text_id,
                     "author_slug": author_row.get("author_slug", "") if author_row else "",
-                    "page_range": page_range(author_row.get("first_page", ""), author_row.get("last_page", "")) if author_row else "",
+                    "page_range": text_page_range or (page_range(author_row.get("first_page", ""), author_row.get("last_page", "")) if author_row else ""),
                     "constellations": ",".join(constellations_for_text_ids(text_ids_for_author(author_row.get("author_slug", ""), curated_texts), constellations)) if author_row else "",
                 },
             )

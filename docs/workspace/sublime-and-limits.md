@@ -23,18 +23,20 @@ This is a scaffold for reading the configured texts together. It should become a
 ## Texts In Play
 
 <div class="ah-graph-list">
-  <a href="../norton-texts/longinus-on-sublimity/"><strong>Longinus, On Sublimity</strong><span>sublimity, aesthetics, authority; pages 177-196; 19 review rows</span></a>
-  <a href="../norton-texts/hume-standard-of-taste/"><strong>David Hume, Of the Standard of Taste</strong><span>taste, judgment, empiricism; pages 525-540; 7 review rows</span></a>
-  <a href="../norton-texts/kant-critique-of-judgment/"><strong>Immanuel Kant, Critique of Judgment</strong><span>aesthetics, judgment, disinterestedness; pages 541-577; 14 review rows</span></a>
-  <a href="../norton-texts/burke-sublime-and-beautiful/"><strong>Edmund Burke, A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful</strong><span>sublime, beauty, affect; pages 578-592; 6 review rows</span></a>
-  <a href="../norton-texts/lessing-laocoon/"><strong>Gotthold Ephraim Lessing, Laocoon</strong><span>media, poetry, painting; pages 593-612; 15 review rows</span></a>
+  <a href="../norton-texts/longinus-on-sublimity/"><strong>Longinus, On Sublimity</strong><span>sublimity, aesthetics, authority; pages 180-196; 16 review rows</span></a>
+  <a href="../norton-texts/hume-standard-of-taste/"><strong>David Hume, Of the Standard of Taste</strong><span>taste, judgment, empiricism; pages 528-540; 4 review rows</span></a>
+  <a href="../norton-texts/kant-critique-of-judgment/"><strong>Immanuel Kant, Critique of Judgment</strong><span>aesthetics, judgment, disinterestedness; pages 546-577; 9 review rows</span></a>
+  <a href="../norton-texts/burke-sublime-and-beautiful/"><strong>Edmund Burke, A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful</strong><span>sublime, beauty, affect; pages 581-592; 3 review rows</span></a>
+  <a href="../norton-texts/lessing-laocoon/"><strong>Gotthold Ephraim Lessing, Laocoon</strong><span>media, poetry, painting; pages 596-612; 12 review rows</span></a>
   <a href="../norton-texts/hegel-phenomenology-fine-art/"><strong>Georg Wilhelm Friedrich Hegel, Phenomenology of Spirit and Lectures on Fine Art</strong><span>spirit, aesthetics, history; pages 668-686; 6 review rows</span></a>
   <a href="../norton-texts/coleridge-statesmans-manual-biographia-literaria/"><strong>Samuel Taylor Coleridge, The Statesman&#x27;s Manual and Biographia Literaria</strong><span>imagination, symbol, poetry; pages 710-723; 13 review rows</span></a>
-  <a href="../norton-texts/shelley-defence-poetry/"><strong>Percy Bysshe Shelley, A Defence of Poetry</strong><span>poetry, imagination, social-change; pages 738-758; 19 review rows</span></a>
+  <a href="../norton-texts/shelley-defence-poetry/"><strong>Percy Bysshe Shelley, A Defence of Poetry</strong><span>poetry, imagination, social-change; pages 741-758; 16 review rows</span></a>
   <a href="../norton-texts/emerson-american-scholar-poet/"><strong>Ralph Waldo Emerson, The American Scholar and The Poet</strong><span>scholarship, self-reliance, poetry; pages 759-780; 21 review rows</span></a>
-  <a href="../norton-texts/poe-philosophy-composition/"><strong>Edgar Allan Poe, The Philosophy of Composition</strong><span>composition, craft, effect; pages 781-791; 11 review rows</span></a>
-  <a href="../norton-texts/baudelaire-painter-modern-life/"><strong>Charles Baudelaire, The Painter of Modern Life</strong><span>modernity, art, fashion; pages 831-843; 9 review rows</span></a>
-  <a href="../norton-texts/nietzsche-truth-and-lying/"><strong>Friedrich Nietzsche, On Truth and Lying in a Non-Moral Sense</strong><span>truth, metaphor, language; pages 912-927; 16 review rows</span></a>
+  <a href="../norton-texts/poe-philosophy-composition/"><strong>Edgar Allan Poe, The Philosophy of Composition</strong><span>composition, craft, effect; pages 784-791; 8 review rows</span></a>
+  <a href="../norton-texts/baudelaire-painter-modern-life/"><strong>Charles Baudelaire, The Painter of Modern Life</strong><span>modernity, art, fashion; pages 834-843; 6 review rows</span></a>
+  <a href="../norton-texts/nietzsche-truth-and-lying/"><strong>Friedrich Nietzsche, On Truth and Lying in a Non-Moral Sense</strong><span>truth, metaphor, language; pages 916-927; 12 review rows</span></a>
+  <a href="../norton-texts/nietzsche-birth-of-tragedy/"><strong>Friedrich Nietzsche, The Birth of Tragedy</strong><span>tragedy, aesthetics, myth; pages 928-938; 11 review rows</span></a>
+  <a href="../norton-texts/freud-dreams-uncanny-fetishism/"><strong>Sigmund Freud, The Interpretation of Dreams, The Uncanny, and Fetishism</strong><span>psychoanalysis, dreams, uncanny; pages 963-999; 37 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -59,23 +61,27 @@ This is a scaffold for reading the configured texts together. It should become a
 10. [Edgar Allan Poe, The Philosophy of Composition](norton-texts/poe-philosophy-composition.md)
 11. [Charles Baudelaire, The Painter of Modern Life](norton-texts/baudelaire-painter-modern-life.md)
 12. [Friedrich Nietzsche, On Truth and Lying in a Non-Moral Sense](norton-texts/nietzsche-truth-and-lying.md)
+13. [Friedrich Nietzsche, The Birth of Tragedy](norton-texts/nietzsche-birth-of-tragedy.md)
+14. [Sigmund Freud, The Interpretation of Dreams, The Uncanny, and Fetishism](norton-texts/freud-dreams-uncanny-fetishism.md)
 
 ## Review Pressure
 
 | Text | Norton Pages | Review Rows | Page Kinds |
 | --- | --- | ---: | --- |
-| [On Sublimity](norton-texts/longinus-on-sublimity.md) | 177-196 | 19 | excerpt: 16<br>author_intro: 4 |
-| [Of the Standard of Taste](norton-texts/hume-standard-of-taste.md) | 525-540 | 7 | excerpt: 13<br>author_intro: 3 |
-| [Critique of Judgment](norton-texts/kant-critique-of-judgment.md) | 541-577 | 14 | excerpt: 32<br>author_intro: 5 |
-| [A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful](norton-texts/burke-sublime-and-beautiful.md) | 578-592 | 6 | excerpt: 12<br>author_intro: 3 |
-| [Laocoon](norton-texts/lessing-laocoon.md) | 593-612 | 15 | excerpt: 17<br>author_intro: 3 |
+| [On Sublimity](norton-texts/longinus-on-sublimity.md) | 180-196 | 16 | excerpt: 16<br>author_intro: 1 |
+| [Of the Standard of Taste](norton-texts/hume-standard-of-taste.md) | 528-540 | 4 | excerpt: 13 |
+| [Critique of Judgment](norton-texts/kant-critique-of-judgment.md) | 546-577 | 9 | excerpt: 32 |
+| [A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful](norton-texts/burke-sublime-and-beautiful.md) | 581-592 | 3 | excerpt: 12 |
+| [Laocoon](norton-texts/lessing-laocoon.md) | 596-612 | 12 | excerpt: 17 |
 | [Phenomenology of Spirit and Lectures on Fine Art](norton-texts/hegel-phenomenology-fine-art.md) | 668-686 | 6 | excerpt: 14<br>author_intro: 5 |
 | [The Statesman&#x27;s Manual and Biographia Literaria](norton-texts/coleridge-statesmans-manual-biographia-literaria.md) | 710-723 | 13 | excerpt: 9<br>author_intro: 5 |
-| [A Defence of Poetry](norton-texts/shelley-defence-poetry.md) | 738-758 | 19 | excerpt: 18<br>author_intro: 3 |
+| [A Defence of Poetry](norton-texts/shelley-defence-poetry.md) | 741-758 | 16 | excerpt: 18 |
 | [The American Scholar and The Poet](norton-texts/emerson-american-scholar-poet.md) | 759-780 | 21 | excerpt: 18<br>author_intro: 4 |
-| [The Philosophy of Composition](norton-texts/poe-philosophy-composition.md) | 781-791 | 11 | excerpt: 8<br>author_intro: 3 |
-| [The Painter of Modern Life](norton-texts/baudelaire-painter-modern-life.md) | 831-843 | 9 | excerpt: 9<br>author_intro: 4 |
-| [On Truth and Lying in a Non-Moral Sense](norton-texts/nietzsche-truth-and-lying.md) | 912-927 | 16 | excerpt: 12<br>author_intro: 4 |
+| [The Philosophy of Composition](norton-texts/poe-philosophy-composition.md) | 784-791 | 8 | excerpt: 8 |
+| [The Painter of Modern Life](norton-texts/baudelaire-painter-modern-life.md) | 834-843 | 6 | excerpt: 9<br>author_intro: 1 |
+| [On Truth and Lying in a Non-Moral Sense](norton-texts/nietzsche-truth-and-lying.md) | 916-927 | 12 | excerpt: 12 |
+| [The Birth of Tragedy](norton-texts/nietzsche-birth-of-tragedy.md) | 928-938 | 11 | excerpt: 11 |
+| [The Interpretation of Dreams, The Uncanny, and Fetishism](norton-texts/freud-dreams-uncanny-fetishism.md) | 963-999 | 37 | excerpt: 37 |
 
 ## Passage Queue
 
@@ -129,8 +135,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:00:49Z` |
-| Git commit | `3678a16` |
+| Generated at | `2026-06-13T05:09:12Z` |
+| Git commit | `9fa32c5` |
 | Script version | `2` |
 | Output path | `docs/workspace/sublime-and-limits.md` |
 

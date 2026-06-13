@@ -20,11 +20,11 @@ This note turns the current Norton chunk for Gotthold Ephraim Lessing into a nav
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Chunk Status</span>
-  <h3>Norton Pages 593-612</h3>
-  <p><strong>Page count:</strong> 20</p>
+  <h3>Norton Pages 596-612</h3>
+  <p><strong>Page count:</strong> 17</p>
   <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/gotthold-ephraim-lessing.md</code></p>
-  <p><strong>Page kinds:</strong> excerpt: 17<br>author_intro: 3</p>
-  <p><strong>Review pressure:</strong> 15 rows. multi_column_layout: 12<br>source_notes_detected: 9<br>transition_from_previous_author: 3</p>
+  <p><strong>Page kinds:</strong> excerpt: 17</p>
+  <p><strong>Review pressure:</strong> 12 rows. multi_column_layout: 12<br>source_notes_detected: 9</p>
 </section>
 
 ## Works And Excerpt Blocks
@@ -44,7 +44,7 @@ This note turns the current Norton chunk for Gotthold Ephraim Lessing into a nav
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Anchor Candidates</span>
   <h3>Choose Passages After Review</h3>
-  <p><strong>Source location:</strong> Norton page range 593-612.</p>
+  <p><strong>Source location:</strong> Norton page range 596-612.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
   <p><strong>Use:</strong> Find the passages that make this text active inside poetry-and-judgment, sublime-and-limits, media-and-form.</p>
 </section>
@@ -52,7 +52,7 @@ This note turns the current Norton chunk for Gotthold Ephraim Lessing into a nav
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Review Before Quoting</span>
   <h3>Layout, Notes, And Bibliography</h3>
-  <p><strong>Review signal:</strong> multi_column_layout: 12<br>source_notes_detected: 9<br>transition_from_previous_author: 3</p>
+  <p><strong>Review signal:</strong> multi_column_layout: 12<br>source_notes_detected: 9</p>
   <p><strong>Editorial rule:</strong> source notes belong in source-note fields, bibliography belongs in bibliography fields, and excerpt text stays separate.</p>
 </section>
 
@@ -90,8 +90,8 @@ This note turns the current Norton chunk for Gotthold Ephraim Lessing into a nav
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/gotthold-ephraim-lessing.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T05:01:21Z` |
-| Git commit | `3678a16` |
+| Generated at | `2026-06-13T05:09:17Z` |
+| Git commit | `9fa32c5` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/lessing-laocoon.md` |
 

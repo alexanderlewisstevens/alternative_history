@@ -20,7 +20,8 @@ This private index is generated from curated source metadata and local extractio
 | [Edgar Allan Poe](edgar-allan-poe.md) | 1 | The Philosophy of Composition |
 | [Edmund Burke](edmund-burke.md) | 1 | A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful |
 | [Edward Young](edward-young.md) | 1 | Conjectures on Original Composition |
-| [Friedrich Nietzsche](friedrich-nietzsche.md) | 1 | On Truth and Lying in a Non-Moral Sense |
+| [Ferdinand de Saussure](ferdinand-de-saussure.md) | 1 | Course in General Linguistics |
+| [Friedrich Nietzsche](friedrich-nietzsche.md) | 2 | On Truth and Lying in a Non-Moral Sense, The Birth of Tragedy |
 | [Friedrich Schiller](friedrich-schiller.md) | 1 | On the Aesthetic Education of Man |
 | [Friedrich Schleiermacher](friedrich-schleiermacher.md) | 1 | Hermeneutics |
 | [Geoffrey of Vinsauf](geoffrey-of-vinsauf.md) | 1 | Poetria Nova |
@@ -45,6 +46,7 @@ This private index is generated from curated source metadata and local extractio
 | [Mary Wollstonecraft](mary-wollstonecraft.md) | 1 | A Vindication of the Rights of Woman |
 | [Matthew Arnold](matthew-arnold.md) | 1 | Selected Critical Prose |
 | [Moses Maimonides](moses-maimonides.md) | 1 | The Guide of the Perplexed |
+| [Oscar Wilde](oscar-wilde.md) | 1 | Preface to The Picture of Dorian Gray and The Critic as Artist |
 | [Percy Bysshe Shelley](percy-bysshe-shelley.md) | 1 | A Defence of Poetry |
 | [Pierre Corneille](pierre-corneille.md) | 1 | Of the Three Unities of Action, Time, and Place |
 | [Pierre de Ronsard](pierre-de-ronsard.md) | 1 | A Brief on the Art of French Poetry |
@@ -54,6 +56,7 @@ This private index is generated from curated source metadata and local extractio
 | [Ralph Waldo Emerson](ralph-waldo-emerson.md) | 1 | The American Scholar and The Poet |
 | [Samuel Johnson](samuel-johnson.md) | 1 | Selected Critical Prose |
 | [Samuel Taylor Coleridge](samuel-taylor-coleridge.md) | 1 | The Statesman&#x27;s Manual and Biographia Literaria |
+| [Sigmund Freud](sigmund-freud.md) | 1 | The Interpretation of Dreams, The Uncanny, and Fetishism |
 | [Sir Philip Sidney](sir-philip-sidney.md) | 1 | The Defense of Poesy |
 | [Stephane Mallarme](stephane-mallarme.md) | 1 | Crisis in Poetry |
 | [Theophile Gautier](theophile-gautier.md) | 1 | Preface to Mademoiselle de Maupin |
@@ -83,7 +86,7 @@ This private index is generated from curated source metadata and local extractio
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
-| Generated at | `2026-06-13T05:01:19Z` |
-| Git commit | `3678a16` |
+| Generated at | `2026-06-13T05:09:15Z` |
+| Git commit | `9fa32c5` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/index.md` |

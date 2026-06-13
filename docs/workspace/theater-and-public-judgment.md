@@ -24,8 +24,8 @@ This is a scaffold for reading the configured texts together. It should become a
 
 <div class="ah-graph-list">
   <a href="../norton-texts/aristotle-poetics-rhetoric/"><strong>Aristotle, Poetics and Rhetoric</strong><span>poetics, rhetoric, genre; pages 128-162; 23 review rows</span></a>
-  <a href="../norton-texts/giambattista-giraldi-composition-romances/"><strong>Giambattista Giraldi, Discourse on the Composition of Romances</strong><span>genre, romance, poetics; pages 313-320; 7 review rows</span></a>
-  <a href="../norton-texts/corneille-three-unities/"><strong>Pierre Corneille, Of the Three Unities of Action, Time, and Place</strong><span>drama, rules, audience; pages 405-420; 11 review rows</span></a>
+  <a href="../norton-texts/giambattista-giraldi-composition-romances/"><strong>Giambattista Giraldi, Discourse on the Composition of Romances</strong><span>genre, romance, poetics; pages 315-320; 5 review rows</span></a>
+  <a href="../norton-texts/corneille-three-unities/"><strong>Pierre Corneille, Of the Three Unities of Action, Time, and Place</strong><span>drama, rules, audience; pages 409-420; 7 review rows</span></a>
   <a href="../norton-texts/dryden-selected-critical-prose/"><strong>John Dryden, Selected Critical Prose</strong><span>drama, translation, judgment; pages 421-429; 9 review rows</span></a>
   <a href="../norton-texts/aphra-behn-dutch-lover-lucky-chance/"><strong>Aphra Behn, The Dutch Lover and Preface to The Lucky Chance</strong><span>authorship, gender, theater; pages 430-440; 11 review rows</span></a>
   <a href="../norton-texts/johnson-selected-critical-prose/"><strong>Samuel Johnson, Selected Critical Prose</strong><span>fiction, shakespeare, criticism; pages 500-524; 21 review rows</span></a>
@@ -53,8 +53,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Text | Norton Pages | Review Rows | Page Kinds |
 | --- | --- | ---: | --- |
 | [Poetics and Rhetoric](norton-texts/aristotle-poetics-rhetoric.md) | 128-162 | 23 | excerpt: 30<br>author_intro: 5 |
-| [Discourse on the Composition of Romances](norton-texts/giambattista-giraldi-composition-romances.md) | 313-320 | 7 | excerpt: 6<br>author_intro: 2 |
-| [Of the Three Unities of Action, Time, and Place](norton-texts/corneille-three-unities.md) | 405-420 | 11 | excerpt: 12<br>author_intro: 4 |
+| [Discourse on the Composition of Romances](norton-texts/giambattista-giraldi-composition-romances.md) | 315-320 | 5 | excerpt: 6 |
+| [Of the Three Unities of Action, Time, and Place](norton-texts/corneille-three-unities.md) | 409-420 | 7 | excerpt: 12 |
 | [Selected Critical Prose](norton-texts/dryden-selected-critical-prose.md) | 421-429 | 9 | excerpt: 7<br>author_intro: 2 |
 | [The Dutch Lover and Preface to The Lucky Chance](norton-texts/aphra-behn-dutch-lover-lucky-chance.md) | 430-440 | 11 | excerpt: 8<br>author_intro: 3 |
 | [Selected Critical Prose](norton-texts/johnson-selected-critical-prose.md) | 500-524 | 21 | excerpt: 18<br>author_intro: 7 |
@@ -111,8 +111,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:00:48Z` |
-| Git commit | `3678a16` |
+| Generated at | `2026-06-13T05:09:11Z` |
+| Git commit | `9fa32c5` |
 | Script version | `2` |
 | Output path | `docs/workspace/theater-and-public-judgment.md` |
 

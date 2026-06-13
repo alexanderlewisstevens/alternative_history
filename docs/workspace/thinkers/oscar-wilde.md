@@ -1,10 +1,10 @@
-# Friedrich Schiller
+# Oscar Wilde
 
 <div class="ah-note-meta">
   <span><strong>Type:</strong> thinker node</span>
   <span><strong>Status:</strong> generated private workspace note</span>
   <span><strong>Source mode:</strong> restricted metadata only</span>
-  <span><strong>Tags:</strong> aesthetic-education, citizenship, freedom, play</span>
+  <span><strong>Tags:</strong> aestheticism, art-for-art, criticism, style</span>
 </div>
 
 <div class="ah-private-banner">
@@ -20,27 +20,34 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [On the Aesthetic Education of Man](../norton-texts/schiller-aesthetic-education.md) | 613-623 | 10 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[beauty-and-ascent](../beauty-and-ascent.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md) | `edition-review-needed` |
+| [Preface to The Picture of Dorian Gray and The Critic as Artist](../norton-texts/wilde-selected-critical-prose.md) | 939-956 | 16 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[beauty-and-ascent](../beauty-and-ascent.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[media-and-form](../media-and-form.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md)<br>[art-utility-and-modern-life](../art-utility-and-modern-life.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
-- On the Aesthetic Education of Man
+- Preface to The Picture of Dorian Gray and The Critic as Artist
+- Preface to The Picture of Dorian Gray
+- The Critic as Artist
 
 ## Constellation Backlinks
 
 - [aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)
+- [art-utility-and-modern-life](../art-utility-and-modern-life.md)
+- [authorship-and-authority](../authorship-and-authority.md)
 - [beauty-and-ascent](../beauty-and-ascent.md)
 - [education-and-civic-life](../education-and-civic-life.md)
+- [language-truth-and-fiction](../language-truth-and-fiction.md)
+- [media-and-form](../media-and-form.md)
 - [poetry-and-judgment](../poetry-and-judgment.md)
+- [romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md)
 - [taste-and-standards](../taste-and-standards.md)
 
 ## Review Pressure
 
 | Signal | Value |
 | --- | --- |
-| Page kinds | excerpt: 9<br>author_intro: 2 |
-| Review rows | 10 |
-| Review reasons | source_notes_detected: 7<br>transition_from_previous_author: 2<br>multi_column_layout: 1 |
+| Page kinds | excerpt: 14<br>author_intro: 4 |
+| Review rows | 16 |
+| Review reasons | multi_column_layout: 10<br>source_notes_detected: 5<br>mixed_transition_page: 4<br>transition_from_previous_author: 4<br>author_boundary_without_life_dates: 2 |
 
 ## Passage Queue
 
@@ -87,14 +94,14 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Field | Value |
 | --- | --- |
-| Thinker slug | `friedrich-schiller` |
+| Thinker slug | `oscar-wilde` |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Generated at | `2026-06-13T05:09:15Z` |
 | Git commit | `9fa32c5` |
 | Script version | `1` |
-| Output path | `docs/workspace/thinkers/friedrich-schiller.md` |
+| Output path | `docs/workspace/thinkers/oscar-wilde.md` |
 
 ## Open Questions
 

@@ -5,19 +5,19 @@ This page is generated from audit artifacts. It intentionally contains metadata 
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Classified Pages</div>
-  <div class="ah-metric-value">71-927</div>
+  <div class="ah-metric-value">71-1007</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Page Records</div>
-  <div class="ah-metric-value">857</div>
+  <div class="ah-metric-value">937</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Thinker Drafts</div>
-  <div class="ah-metric-value">52</div>
+  <div class="ah-metric-value">55</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Review Rows</div>
-  <div class="ah-metric-value">657</div>
+  <div class="ah-metric-value">735</div>
 </div>
 </div>
 
@@ -45,21 +45,21 @@ This page is generated from audit artifacts. It intentionally contains metadata 
 | Artifact | Count | Location |
 | --- | ---: | --- |
 | Sliced PDFs | 2668 | `Norton_Anthology_Sliced_Author` |
-| Layout records | 857 | `work/layout/norton-theory-criticism/layout.jsonl` |
-| Classification records | 857 | `work/classification/norton-theory-criticism/page-classifications.jsonl` |
-| Review queue rows | 657 | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
-| Page records | 857 | `work/page-records/norton-theory-criticism` |
-| Page-generation audit rows | 857 | `work/audit/norton-theory-criticism/page-record-generation.csv` |
-| Thinker drafts | 52 | `generated/authors/norton-theory-criticism` |
-| Thinker-assembly audit rows | 52 | `work/audit/norton-theory-criticism/author-assembly.csv` |
+| Layout records | 937 | `work/layout/norton-theory-criticism/layout.jsonl` |
+| Classification records | 937 | `work/classification/norton-theory-criticism/page-classifications.jsonl` |
+| Review queue rows | 735 | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
+| Page records | 937 | `work/page-records/norton-theory-criticism` |
+| Page-generation audit rows | 937 | `work/audit/norton-theory-criticism/page-record-generation.csv` |
+| Thinker drafts | 55 | `generated/authors/norton-theory-criticism` |
+| Thinker-assembly audit rows | 55 | `work/audit/norton-theory-criticism/author-assembly.csv` |
 
 ## Classified Range
 
 | Field | Value |
 | --- | --- |
-| Classified source pages | `71-927` |
-| Status page generated at | `2026-06-13T05:01:18Z` |
-| Git commit | `3678a16` |
+| Classified source pages | `71-1007` |
+| Status page generated at | `2026-06-13T05:09:14Z` |
+| Git commit | `9fa32c5` |
 | Script version | `1` |
 | Output path | `docs/_meta/extraction-status.md` |
 
@@ -78,7 +78,8 @@ This page is generated from audit artifacts. It intentionally contains metadata 
 | edgar-allan-poe | 11 | 781-791 | ok | generated/authors/norton-theory-criticism/edgar-allan-poe.md |
 | edmund-burke | 15 | 578-592 | ok | generated/authors/norton-theory-criticism/edmund-burke.md |
 | edward-young | 12 | 468-479 | ok | generated/authors/norton-theory-criticism/edward-young.md |
-| friedrich-nietzsche | 16 | 912-927 | ok | generated/authors/norton-theory-criticism/friedrich-nietzsche.md |
+| ferdinand-de-saussure | 8 | 1000-1007 | ok | generated/authors/norton-theory-criticism/ferdinand-de-saussure.md |
+| friedrich-nietzsche | 27 | 912-938 | ok | generated/authors/norton-theory-criticism/friedrich-nietzsche.md |
 | friedrich-schiller | 11 | 613-623 | ok | generated/authors/norton-theory-criticism/friedrich-schiller.md |
 | friedrich-schleiermacher | 16 | 652-667 | ok | generated/authors/norton-theory-criticism/friedrich-schleiermacher.md |
 | geoffrey-of-vinsauf | 14 | 268-281 | ok | generated/authors/norton-theory-criticism/geoffrey-of-vinsauf.md |
@@ -103,6 +104,7 @@ This page is generated from audit artifacts. It intentionally contains metadata 
 | mary-wollstonecraft | 12 | 624-635 | ok | generated/authors/norton-theory-criticism/mary-wollstonecraft.md |
 | matthew-arnold | 31 | 844-874 | ok | generated/authors/norton-theory-criticism/matthew-arnold.md |
 | moses-maimonides | 15 | 253-267 | ok | generated/authors/norton-theory-criticism/moses-maimonides.md |
+| oscar-wilde | 18 | 939-956 | ok | generated/authors/norton-theory-criticism/oscar-wilde.md |
 | percy-bysshe-shelley | 21 | 738-758 | ok | generated/authors/norton-theory-criticism/percy-bysshe-shelley.md |
 | pierre-corneille | 16 | 405-420 | ok | generated/authors/norton-theory-criticism/pierre-corneille.md |
 | pierre-de-ronsard | 9 | 333-341 | ok | generated/authors/norton-theory-criticism/pierre-de-ronsard.md |
@@ -112,6 +114,7 @@ This page is generated from audit artifacts. It intentionally contains metadata 
 | ralph-waldo-emerson | 22 | 759-780 | ok | generated/authors/norton-theory-criticism/ralph-waldo-emerson.md |
 | samuel-johnson | 25 | 500-524 | ok | generated/authors/norton-theory-criticism/samuel-johnson.md |
 | samuel-taylor-coleridge | 14 | 710-723 | ok | generated/authors/norton-theory-criticism/samuel-taylor-coleridge.md |
+| sigmund-freud | 43 | 957-999 | ok | generated/authors/norton-theory-criticism/sigmund-freud.md |
 | sir-philip-sidney | 40 | 365-404 | ok | generated/authors/norton-theory-criticism/sir-philip-sidney.md |
 | stephane-mallarme | 10 | 883-892 | ok | generated/authors/norton-theory-criticism/stephane-mallarme.md |
 | theophile-gautier | 9 | 792-800 | ok | generated/authors/norton-theory-criticism/theophile-gautier.md |
@@ -124,15 +127,16 @@ This page is generated from audit artifacts. It intentionally contains metadata 
 
 | Review reason | Pages |
 | --- | ---: |
-| multi_column_layout | 320 |
-| source_notes_detected | 286 |
-| transition_from_previous_author | 154 |
-| mixed_work_transition_page | 77 |
-| mixed_bibliography_and_work_title | 50 |
-| mixed_transition_page | 35 |
+| multi_column_layout | 330 |
+| source_notes_detected | 291 |
+| transition_from_previous_author | 168 |
+| mixed_work_transition_page | 125 |
+| mixed_bibliography_and_work_title | 61 |
+| mixed_transition_page | 43 |
 | layout_review_required | 23 |
-| author_boundary_without_life_dates | 16 |
+| author_boundary_without_life_dates | 18 |
 | mixed_excerpt_and_bibliography | 9 |
+| continues_beyond_current_batch | 4 |
 | ocr_title_cleanup | 2 |
 | transition_from_previous_work | 2 |
 

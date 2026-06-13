@@ -98,8 +98,8 @@ This note turns the current Norton chunk for Karl Marx and Friedrich Engels into
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/karl-marx-and-friedrich-engels.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T05:01:21Z` |
-| Git commit | `3678a16` |
+| Generated at | `2026-06-13T05:09:17Z` |
+| Git commit | `9fa32c5` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/marx-engels-selected-cultural-writings.md` |
 

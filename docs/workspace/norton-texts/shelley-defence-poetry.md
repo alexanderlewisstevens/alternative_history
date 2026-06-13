@@ -20,11 +20,11 @@ This note turns the current Norton chunk for Percy Bysshe Shelley into a navigab
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Chunk Status</span>
-  <h3>Norton Pages 738-758</h3>
-  <p><strong>Page count:</strong> 21</p>
+  <h3>Norton Pages 741-758</h3>
+  <p><strong>Page count:</strong> 18</p>
   <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/percy-bysshe-shelley.md</code></p>
-  <p><strong>Page kinds:</strong> excerpt: 18<br>author_intro: 3</p>
-  <p><strong>Review pressure:</strong> 19 rows. multi_column_layout: 15<br>source_notes_detected: 11<br>transition_from_previous_author: 3<br>author_boundary_without_life_dates: 1</p>
+  <p><strong>Page kinds:</strong> excerpt: 18</p>
+  <p><strong>Review pressure:</strong> 16 rows. multi_column_layout: 15<br>source_notes_detected: 11<br>author_boundary_without_life_dates: 1</p>
 </section>
 
 ## Works And Excerpt Blocks
@@ -48,7 +48,7 @@ This note turns the current Norton chunk for Percy Bysshe Shelley into a navigab
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Anchor Candidates</span>
   <h3>Choose Passages After Review</h3>
-  <p><strong>Source location:</strong> Norton page range 738-758.</p>
+  <p><strong>Source location:</strong> Norton page range 741-758.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
   <p><strong>Use:</strong> Find the passages that make this text active inside poetry-and-judgment, beauty-and-ascent, authorship-and-authority, taste-and-standards, sublime-and-limits, romantic-poetry-and-modernity, art-utility-and-modern-life.</p>
 </section>
@@ -56,7 +56,7 @@ This note turns the current Norton chunk for Percy Bysshe Shelley into a navigab
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Review Before Quoting</span>
   <h3>Layout, Notes, And Bibliography</h3>
-  <p><strong>Review signal:</strong> multi_column_layout: 15<br>source_notes_detected: 11<br>transition_from_previous_author: 3<br>author_boundary_without_life_dates: 1</p>
+  <p><strong>Review signal:</strong> multi_column_layout: 15<br>source_notes_detected: 11<br>author_boundary_without_life_dates: 1</p>
   <p><strong>Editorial rule:</strong> source notes belong in source-note fields, bibliography belongs in bibliography fields, and excerpt text stays separate.</p>
 </section>
 
@@ -94,8 +94,8 @@ This note turns the current Norton chunk for Percy Bysshe Shelley into a navigab
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/percy-bysshe-shelley.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T05:01:21Z` |
-| Git commit | `3678a16` |
+| Generated at | `2026-06-13T05:09:17Z` |
+| Git commit | `9fa32c5` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/shelley-defence-poetry.md` |
 

@@ -20,11 +20,11 @@ This note turns the current Norton chunk for Friedrich Schleiermacher into a nav
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Chunk Status</span>
-  <h3>Norton Pages 652-667</h3>
-  <p><strong>Page count:</strong> 16</p>
+  <h3>Norton Pages 655-667</h3>
+  <p><strong>Page count:</strong> 13</p>
   <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/friedrich-schleiermacher.md</code></p>
-  <p><strong>Page kinds:</strong> excerpt: 12<br>author_intro: 3<br>mixed_excerpt_bibliography: 1</p>
-  <p><strong>Review pressure:</strong> 14 rows. source_notes_detected: 9<br>transition_from_previous_author: 3<br>multi_column_layout: 2<br>mixed_excerpt_and_bibliography: 1</p>
+  <p><strong>Page kinds:</strong> excerpt: 12<br>mixed_excerpt_bibliography: 1</p>
+  <p><strong>Review pressure:</strong> 11 rows. source_notes_detected: 9<br>multi_column_layout: 2<br>mixed_excerpt_and_bibliography: 1</p>
 </section>
 
 ## Works And Excerpt Blocks
@@ -44,7 +44,7 @@ This note turns the current Norton chunk for Friedrich Schleiermacher into a nav
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Anchor Candidates</span>
   <h3>Choose Passages After Review</h3>
-  <p><strong>Source location:</strong> Norton page range 652-667.</p>
+  <p><strong>Source location:</strong> Norton page range 655-667.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
   <p><strong>Use:</strong> Find the passages that make this text active inside signs-and-reading, commentary-and-afterlife, language-truth-and-fiction.</p>
 </section>
@@ -52,7 +52,7 @@ This note turns the current Norton chunk for Friedrich Schleiermacher into a nav
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Review Before Quoting</span>
   <h3>Layout, Notes, And Bibliography</h3>
-  <p><strong>Review signal:</strong> source_notes_detected: 9<br>transition_from_previous_author: 3<br>multi_column_layout: 2<br>mixed_excerpt_and_bibliography: 1</p>
+  <p><strong>Review signal:</strong> source_notes_detected: 9<br>multi_column_layout: 2<br>mixed_excerpt_and_bibliography: 1</p>
   <p><strong>Editorial rule:</strong> source notes belong in source-note fields, bibliography belongs in bibliography fields, and excerpt text stays separate.</p>
 </section>
 
@@ -90,8 +90,8 @@ This note turns the current Norton chunk for Friedrich Schleiermacher into a nav
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/friedrich-schleiermacher.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T05:01:21Z` |
-| Git commit | `3678a16` |
+| Generated at | `2026-06-13T05:09:17Z` |
+| Git commit | `9fa32c5` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/schleiermacher-hermeneutics.md` |
 

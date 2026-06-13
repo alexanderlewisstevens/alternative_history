@@ -1,10 +1,10 @@
-# Friedrich Schiller
+# Sigmund Freud
 
 <div class="ah-note-meta">
   <span><strong>Type:</strong> thinker node</span>
   <span><strong>Status:</strong> generated private workspace note</span>
   <span><strong>Source mode:</strong> restricted metadata only</span>
-  <span><strong>Tags:</strong> aesthetic-education, citizenship, freedom, play</span>
+  <span><strong>Tags:</strong> desire, dreams, psychoanalysis, uncanny</span>
 </div>
 
 <div class="ah-private-banner">
@@ -20,27 +20,33 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [On the Aesthetic Education of Man](../norton-texts/schiller-aesthetic-education.md) | 613-623 | 10 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[beauty-and-ascent](../beauty-and-ascent.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md) | `edition-review-needed` |
+| [The Interpretation of Dreams, The Uncanny, and Fetishism](../norton-texts/freud-dreams-uncanny-fetishism.md) | 957-999 | 43 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[sublime-and-limits](../sublime-and-limits.md)<br>[media-and-form](../media-and-form.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
-- On the Aesthetic Education of Man
+- The Interpretation of Dreams, The Uncanny, and Fetishism
+- Fetishism
+- The Interpretation of Dreams
+- The Uncanny
 
 ## Constellation Backlinks
 
-- [aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)
-- [beauty-and-ascent](../beauty-and-ascent.md)
+- [authorship-and-authority](../authorship-and-authority.md)
+- [commentary-and-afterlife](../commentary-and-afterlife.md)
 - [education-and-civic-life](../education-and-civic-life.md)
-- [poetry-and-judgment](../poetry-and-judgment.md)
-- [taste-and-standards](../taste-and-standards.md)
+- [labor-ideology-and-culture](../labor-ideology-and-culture.md)
+- [language-truth-and-fiction](../language-truth-and-fiction.md)
+- [media-and-form](../media-and-form.md)
+- [signs-and-reading](../signs-and-reading.md)
+- [sublime-and-limits](../sublime-and-limits.md)
 
 ## Review Pressure
 
 | Signal | Value |
 | --- | --- |
-| Page kinds | excerpt: 9<br>author_intro: 2 |
-| Review rows | 10 |
-| Review reasons | source_notes_detected: 7<br>transition_from_previous_author: 2<br>multi_column_layout: 1 |
+| Page kinds | excerpt: 37<br>author_intro: 6 |
+| Review rows | 43 |
+| Review reasons | mixed_work_transition_page: 37<br>mixed_bibliography_and_work_title: 6<br>transition_from_previous_author: 6 |
 
 ## Passage Queue
 
@@ -87,14 +93,14 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Field | Value |
 | --- | --- |
-| Thinker slug | `friedrich-schiller` |
+| Thinker slug | `sigmund-freud` |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Generated at | `2026-06-13T05:09:15Z` |
 | Git commit | `9fa32c5` |
 | Script version | `1` |
-| Output path | `docs/workspace/thinkers/friedrich-schiller.md` |
+| Output path | `docs/workspace/thinkers/sigmund-freud.md` |
 
 ## Open Questions
 

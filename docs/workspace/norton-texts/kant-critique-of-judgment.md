@@ -20,11 +20,11 @@ This note turns the current Norton chunk for Immanuel Kant into a navigable work
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Chunk Status</span>
-  <h3>Norton Pages 541-577</h3>
-  <p><strong>Page count:</strong> 37</p>
+  <h3>Norton Pages 546-577</h3>
+  <p><strong>Page count:</strong> 32</p>
   <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/immanuel-kant.md</code></p>
-  <p><strong>Page kinds:</strong> excerpt: 32<br>author_intro: 5</p>
-  <p><strong>Review pressure:</strong> 14 rows. multi_column_layout: 7<br>transition_from_previous_author: 5<br>author_boundary_without_life_dates: 3<br>layout_review_required: 1</p>
+  <p><strong>Page kinds:</strong> excerpt: 32</p>
+  <p><strong>Review pressure:</strong> 9 rows. multi_column_layout: 7<br>author_boundary_without_life_dates: 3<br>layout_review_required: 1</p>
 </section>
 
 ## Works And Excerpt Blocks
@@ -46,7 +46,7 @@ This note turns the current Norton chunk for Immanuel Kant into a navigable work
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Anchor Candidates</span>
   <h3>Choose Passages After Review</h3>
-  <p><strong>Source location:</strong> Norton page range 541-577.</p>
+  <p><strong>Source location:</strong> Norton page range 546-577.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
   <p><strong>Use:</strong> Find the passages that make this text active inside poetry-and-judgment, beauty-and-ascent, taste-and-standards, sublime-and-limits, media-and-form.</p>
 </section>
@@ -54,7 +54,7 @@ This note turns the current Norton chunk for Immanuel Kant into a navigable work
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Review Before Quoting</span>
   <h3>Layout, Notes, And Bibliography</h3>
-  <p><strong>Review signal:</strong> multi_column_layout: 7<br>transition_from_previous_author: 5<br>author_boundary_without_life_dates: 3<br>layout_review_required: 1</p>
+  <p><strong>Review signal:</strong> multi_column_layout: 7<br>author_boundary_without_life_dates: 3<br>layout_review_required: 1</p>
   <p><strong>Editorial rule:</strong> source notes belong in source-note fields, bibliography belongs in bibliography fields, and excerpt text stays separate.</p>
 </section>
 
@@ -92,8 +92,8 @@ This note turns the current Norton chunk for Immanuel Kant into a navigable work
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/immanuel-kant.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T05:01:21Z` |
-| Git commit | `3678a16` |
+| Generated at | `2026-06-13T05:09:17Z` |
+| Git commit | `9fa32c5` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/kant-critique-of-judgment.md` |
 

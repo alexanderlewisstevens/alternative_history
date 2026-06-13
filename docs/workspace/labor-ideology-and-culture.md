@@ -23,11 +23,13 @@ This is a scaffold for reading the configured texts together. It should become a
 ## Texts In Play
 
 <div class="ah-graph-list">
-  <a href="../norton-texts/vico-new-science/"><strong>Giambattista Vico, The New Science</strong><span>history, language, institutions; pages 441-457; 11 review rows</span></a>
+  <a href="../norton-texts/vico-new-science/"><strong>Giambattista Vico, The New Science</strong><span>history, language, institutions; pages 443-457; 9 review rows</span></a>
   <a href="../norton-texts/stael-fictions-literature-social-institutions/"><strong>Germaine de Stael, Essay on Fictions and On Literature Considered in Its Relationship to Social Institutions</strong><span>literature, society, institutions; pages 636-651; 10 review rows</span></a>
   <a href="../norton-texts/marx-engels-selected-cultural-writings/"><strong>Karl Marx and Friedrich Engels, Selected Cultural and Historical Writings</strong><span>ideology, labor, capitalism; pages 801-830; 29 review rows</span></a>
   <a href="../norton-texts/arnold-selected-critical-prose/"><strong>Matthew Arnold, Selected Critical Prose</strong><span>criticism, culture, education; pages 844-874; 31 review rows</span></a>
-  <a href="../norton-texts/nietzsche-truth-and-lying/"><strong>Friedrich Nietzsche, On Truth and Lying in a Non-Moral Sense</strong><span>truth, metaphor, language; pages 912-927; 16 review rows</span></a>
+  <a href="../norton-texts/nietzsche-truth-and-lying/"><strong>Friedrich Nietzsche, On Truth and Lying in a Non-Moral Sense</strong><span>truth, metaphor, language; pages 916-927; 12 review rows</span></a>
+  <a href="../norton-texts/freud-dreams-uncanny-fetishism/"><strong>Sigmund Freud, The Interpretation of Dreams, The Uncanny, and Fetishism</strong><span>psychoanalysis, dreams, uncanny; pages 963-999; 37 review rows</span></a>
+  <a href="../norton-texts/saussure-course-general-linguistics/"><strong>Ferdinand de Saussure, Course in General Linguistics</strong><span>language, signs, structure; pages 1004-1007; 4 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -45,16 +47,20 @@ This is a scaffold for reading the configured texts together. It should become a
 3. [Karl Marx and Friedrich Engels, Selected Cultural and Historical Writings](norton-texts/marx-engels-selected-cultural-writings.md)
 4. [Matthew Arnold, Selected Critical Prose](norton-texts/arnold-selected-critical-prose.md)
 5. [Friedrich Nietzsche, On Truth and Lying in a Non-Moral Sense](norton-texts/nietzsche-truth-and-lying.md)
+6. [Sigmund Freud, The Interpretation of Dreams, The Uncanny, and Fetishism](norton-texts/freud-dreams-uncanny-fetishism.md)
+7. [Ferdinand de Saussure, Course in General Linguistics](norton-texts/saussure-course-general-linguistics.md)
 
 ## Review Pressure
 
 | Text | Norton Pages | Review Rows | Page Kinds |
 | --- | --- | ---: | --- |
-| [The New Science](norton-texts/vico-new-science.md) | 441-457 | 11 | excerpt: 14<br>author_intro: 2<br>mixed_excerpt_bibliography: 1 |
+| [The New Science](norton-texts/vico-new-science.md) | 443-457 | 9 | excerpt: 14<br>mixed_excerpt_bibliography: 1 |
 | [Essay on Fictions and On Literature Considered in Its Relationship to Social Institutions](norton-texts/stael-fictions-literature-social-institutions.md) | 636-651 | 10 | excerpt: 13<br>author_intro: 3 |
 | [Selected Cultural and Historical Writings](norton-texts/marx-engels-selected-cultural-writings.md) | 801-830 | 29 | excerpt: 25<br>author_intro: 5 |
 | [Selected Critical Prose](norton-texts/arnold-selected-critical-prose.md) | 844-874 | 31 | excerpt: 27<br>author_intro: 4 |
-| [On Truth and Lying in a Non-Moral Sense](norton-texts/nietzsche-truth-and-lying.md) | 912-927 | 16 | excerpt: 12<br>author_intro: 4 |
+| [On Truth and Lying in a Non-Moral Sense](norton-texts/nietzsche-truth-and-lying.md) | 916-927 | 12 | excerpt: 12 |
+| [The Interpretation of Dreams, The Uncanny, and Fetishism](norton-texts/freud-dreams-uncanny-fetishism.md) | 963-999 | 37 | excerpt: 37 |
+| [Course in General Linguistics](norton-texts/saussure-course-general-linguistics.md) | 1004-1007 | 4 | excerpt: 4 |
 
 ## Passage Queue
 
@@ -108,8 +114,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:00:49Z` |
-| Git commit | `3678a16` |
+| Generated at | `2026-06-13T05:09:12Z` |
+| Git commit | `9fa32c5` |
 | Script version | `2` |
 | Output path | `docs/workspace/labor-ideology-and-culture.md` |
 

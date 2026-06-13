@@ -528,12 +528,65 @@ curated_texts:
   - id: nietzsche-truth-and-lying
     title: On Truth and Lying in a Non-Moral Sense
     creator: Friedrich Nietzsche
+    extraction_work_titles:
+      - On Truth and Lying in a Non-Moral Sense
     role: core-text-candidate
     themes:
       - truth
       - metaphor
       - language
       - critique
+    status: edition-review-needed
+  - id: nietzsche-birth-of-tragedy
+    title: The Birth of Tragedy
+    creator: Friedrich Nietzsche
+    extraction_work_titles:
+      - The Birth of Tragedy
+    role: core-text-candidate
+    themes:
+      - tragedy
+      - aesthetics
+      - myth
+      - art
+    status: edition-review-needed
+  - id: wilde-selected-critical-prose
+    title: Preface to The Picture of Dorian Gray and The Critic as Artist
+    creator: Oscar Wilde
+    extraction_work_titles:
+      - Preface to The Picture of Dorian Gray
+      - The Critic as Artist
+    role: core-text-candidate
+    themes:
+      - criticism
+      - aestheticism
+      - art-for-art
+      - style
+    status: edition-review-needed
+  - id: freud-dreams-uncanny-fetishism
+    title: The Interpretation of Dreams, The Uncanny, and Fetishism
+    creator: Sigmund Freud
+    extraction_work_titles:
+      - The Interpretation of Dreams
+      - The Uncanny
+      - Fetishism
+    role: core-text-candidate
+    themes:
+      - psychoanalysis
+      - dreams
+      - uncanny
+      - desire
+    status: edition-review-needed
+  - id: saussure-course-general-linguistics
+    title: Course in General Linguistics
+    creator: Ferdinand de Saussure
+    extraction_work_titles:
+      - Course in General Linguistics
+    role: core-text-candidate
+    themes:
+      - language
+      - signs
+      - structure
+      - semiology
     status: edition-review-needed
 
 constellations:
@@ -583,6 +636,8 @@ constellations:
       - arnold-selected-critical-prose
       - pater-renaissance
       - henry-james-art-fiction
+      - nietzsche-birth-of-tragedy
+      - wilde-selected-critical-prose
     relations:
       - tension
       - craft
@@ -602,6 +657,8 @@ constellations:
       - coleridge-statesmans-manual-biographia-literaria
       - marx-engels-selected-cultural-writings
       - nietzsche-truth-and-lying
+      - freud-dreams-uncanny-fetishism
+      - saussure-course-general-linguistics
     relations:
       - writing
       - interpretation
@@ -623,6 +680,8 @@ constellations:
       - baudelaire-painter-modern-life
       - pater-renaissance
       - nietzsche-truth-and-lying
+      - nietzsche-birth-of-tragedy
+      - wilde-selected-critical-prose
     relations:
       - sublimity
       - ascent
@@ -645,6 +704,8 @@ constellations:
       - arnold-selected-critical-prose
       - pater-renaissance
       - nietzsche-truth-and-lying
+      - freud-dreams-uncanny-fetishism
+      - saussure-course-general-linguistics
     relations:
       - commentary
       - transmission
@@ -671,6 +732,9 @@ constellations:
       - arnold-selected-critical-prose
       - henry-james-art-fiction
       - nietzsche-truth-and-lying
+      - wilde-selected-critical-prose
+      - freud-dreams-uncanny-fetishism
+      - saussure-course-general-linguistics
     relations:
       - pedagogy
       - civic-formation
@@ -689,6 +753,7 @@ constellations:
       - emerson-american-scholar-poet
       - baudelaire-painter-modern-life
       - mallarme-crisis-poetry
+      - saussure-course-general-linguistics
     relations:
       - vernacular
       - imitation
@@ -728,6 +793,8 @@ constellations:
       - mallarme-crisis-poetry
       - henry-james-art-fiction
       - nietzsche-truth-and-lying
+      - wilde-selected-critical-prose
+      - freud-dreams-uncanny-fetishism
     relations:
       - authorship
       - gender
@@ -755,6 +822,7 @@ constellations:
       - arnold-selected-critical-prose
       - pater-renaissance
       - henry-james-art-fiction
+      - wilde-selected-critical-prose
     relations:
       - taste
       - criticism
@@ -774,6 +842,8 @@ constellations:
       - poe-philosophy-composition
       - baudelaire-painter-modern-life
       - nietzsche-truth-and-lying
+      - nietzsche-birth-of-tragedy
+      - freud-dreams-uncanny-fetishism
     relations:
       - sublimity
       - affect
@@ -792,6 +862,9 @@ constellations:
       - baudelaire-painter-modern-life
       - mallarme-crisis-poetry
       - henry-james-art-fiction
+      - wilde-selected-critical-prose
+      - freud-dreams-uncanny-fetishism
+      - saussure-course-general-linguistics
     relations:
       - medium
       - form
@@ -811,6 +884,7 @@ constellations:
       - marx-engels-selected-cultural-writings
       - arnold-selected-critical-prose
       - pater-renaissance
+      - wilde-selected-critical-prose
     relations:
       - education
       - freedom
@@ -829,6 +903,8 @@ constellations:
       - pater-renaissance
       - mallarme-crisis-poetry
       - nietzsche-truth-and-lying
+      - nietzsche-birth-of-tragedy
+      - wilde-selected-critical-prose
     relations:
       - poetry
       - modernity
@@ -842,6 +918,7 @@ constellations:
       - baudelaire-painter-modern-life
       - arnold-selected-critical-prose
       - pater-renaissance
+      - wilde-selected-critical-prose
     relations:
       - utility
       - aestheticism
@@ -854,6 +931,8 @@ constellations:
       - marx-engels-selected-cultural-writings
       - arnold-selected-critical-prose
       - nietzsche-truth-and-lying
+      - freud-dreams-uncanny-fetishism
+      - saussure-course-general-linguistics
     relations:
       - labor
       - ideology
@@ -867,6 +946,10 @@ constellations:
       - mallarme-crisis-poetry
       - henry-james-art-fiction
       - nietzsche-truth-and-lying
+      - nietzsche-birth-of-tragedy
+      - wilde-selected-critical-prose
+      - freud-dreams-uncanny-fetishism
+      - saussure-course-general-linguistics
     relations:
       - language
       - fiction

@@ -1,10 +1,10 @@
-# Alexander Pope, An Essay on Criticism
+# Oscar Wilde, Preface to The Picture of Dorian Gray and The Critic as Artist
 
 <div class="ah-note-meta">
   <span><strong>Type:</strong> Norton text node</span>
   <span><strong>Status:</strong> generated private workspace note</span>
   <span><strong>Source mode:</strong> restricted metadata only</span>
-  <span><strong>Tags:</strong> criticism, judgment, wit, neoclassicism</span>
+  <span><strong>Tags:</strong> criticism, aestheticism, art-for-art, style</span>
 </div>
 
 <div class="ah-private-banner">
@@ -14,45 +14,54 @@
 
 ## Working Use
 
-This note turns the current Norton chunk for Alexander Pope into a navigable workspace node. Use it to move between the restricted draft, the curated text spine, the first constellations, and the review queue before writing public-facing commentary.
+This note turns the current Norton chunk for Oscar Wilde into a navigable workspace node. Use it to move between the restricted draft, the curated text spine, the first constellations, and the review queue before writing public-facing commentary.
 
 ## Current Chunk
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Chunk Status</span>
-  <h3>Norton Pages 483-499</h3>
-  <p><strong>Page count:</strong> 17</p>
-  <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/alexander-pope.md</code></p>
-  <p><strong>Page kinds:</strong> excerpt: 17</p>
-  <p><strong>Review pressure:</strong> 17 rows. multi_column_layout: 16<br>source_notes_detected: 16<br>layout_review_required: 15<br>author_boundary_without_life_dates: 1</p>
+  <h3>Norton Pages 943-956</h3>
+  <p><strong>Page count:</strong> 14</p>
+  <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/oscar-wilde.md</code></p>
+  <p><strong>Page kinds:</strong> excerpt: 14</p>
+  <p><strong>Review pressure:</strong> 12 rows. multi_column_layout: 10<br>source_notes_detected: 5<br>author_boundary_without_life_dates: 2<br>mixed_bibliography_and_work_title: 1</p>
 </section>
 
 ## Works And Excerpt Blocks
 
-- An Essay on Criticism
+- Preface to The Picture of Dorian Gray and The Critic as Artist
+- Preface to The Picture of Dorian Gray
+- The Critic as Artist
 
 ## Constellations
 
 | Constellation | Core Question | Relations |
 | --- | --- | --- |
 | [poetry-and-judgment](../poetry-and-judgment.md) | Who gets to judge art? | tension, craft, excess |
+| [beauty-and-ascent](../beauty-and-ascent.md) | When does beauty become a way of knowing? | sublimity, ascent, inward-reading |
+| [education-and-civic-life](../education-and-civic-life.md) | What should education make possible for citizens? | pedagogy, civic-formation, authority |
 | [authorship-and-authority](../authorship-and-authority.md) | Who is allowed to speak as an author? | authorship, gender, authority |
 | [taste-and-standards](../taste-and-standards.md) | How do communities make judgments of taste? | taste, criticism, consensus |
+| [media-and-form](../media-and-form.md) | How do media shape what thought can represent? | medium, form, representation |
+| [aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md) | What kind of citizen can education form? | education, freedom, citizenship |
+| [romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md) | What can poetry do under modern social pressure? | poetry, modernity, imagination |
+| [art-utility-and-modern-life](../art-utility-and-modern-life.md) | What happens when art refuses usefulness? | utility, aestheticism, modernity |
+| [language-truth-and-fiction](../language-truth-and-fiction.md) | How do language and form make worlds rather than merely report them? | language, fiction, truth |
 
 ## Passage Queue
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Anchor Candidates</span>
   <h3>Choose Passages After Review</h3>
-  <p><strong>Source location:</strong> Norton page range 483-499.</p>
+  <p><strong>Source location:</strong> Norton page range 943-956.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
-  <p><strong>Use:</strong> Find the passages that make this text active inside poetry-and-judgment, authorship-and-authority, taste-and-standards.</p>
+  <p><strong>Use:</strong> Find the passages that make this text active inside poetry-and-judgment, beauty-and-ascent, education-and-civic-life, authorship-and-authority, taste-and-standards, media-and-form, aesthetic-education-and-citizenship, romantic-poetry-and-modernity, art-utility-and-modern-life, language-truth-and-fiction.</p>
 </section>
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Review Before Quoting</span>
   <h3>Layout, Notes, And Bibliography</h3>
-  <p><strong>Review signal:</strong> multi_column_layout: 16<br>source_notes_detected: 16<br>layout_review_required: 15<br>author_boundary_without_life_dates: 1</p>
+  <p><strong>Review signal:</strong> multi_column_layout: 10<br>source_notes_detected: 5<br>author_boundary_without_life_dates: 2<br>mixed_bibliography_and_work_title: 1</p>
   <p><strong>Editorial rule:</strong> source notes belong in source-note fields, bibliography belongs in bibliography fields, and excerpt text stays separate.</p>
 </section>
 
@@ -81,19 +90,19 @@ This note turns the current Norton chunk for Alexander Pope into a navigable wor
 
 | Field | Value |
 | --- | --- |
-| Text ID | `pope-essay-on-criticism` |
-| Curated title | An Essay on Criticism |
-| Creator | Alexander Pope |
-| Thinker note | [Alexander Pope](../thinkers/alexander-pope.md) |
+| Text ID | `wilde-selected-critical-prose` |
+| Curated title | Preface to The Picture of Dorian Gray and The Critic as Artist |
+| Creator | Oscar Wilde |
+| Thinker note | [Oscar Wilde](../thinkers/oscar-wilde.md) |
 | Register status | `edition-review-needed` |
 | Source anthology | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Restricted draft | `generated/authors/norton-theory-criticism/alexander-pope.md` |
+| Restricted draft | `generated/authors/norton-theory-criticism/oscar-wilde.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T05:09:17Z` |
+| Generated at | `2026-06-13T05:09:18Z` |
 | Git commit | `9fa32c5` |
 | Script version | `2` |
-| Output path | `docs/workspace/norton-texts/pope-essay-on-criticism.md` |
+| Output path | `docs/workspace/norton-texts/wilde-selected-critical-prose.md` |
 
 ## Backlinks
 
@@ -102,11 +111,18 @@ This note turns the current Norton chunk for Alexander Pope into a navigable wor
 <li><a href="../../norton-map/">Norton Workspace Map</a></li>
 <li><a href="../../">Private Knowledge Base</a></li>
 <li><a href="../../../catalog/sources/">Text Catalog</a></li>
-<li>Thinker: <a href="../../thinkers/alexander-pope/">Alexander Pope</a></li>
+<li>Thinker: <a href="../../thinkers/oscar-wilde/">Oscar Wilde</a></li>
 <li><a href="../../passages/">Passage Notes</a></li>
 <li><a href="../../poetry-and-judgment/">poetry-and-judgment</a></li>
+<li><a href="../../beauty-and-ascent/">beauty-and-ascent</a></li>
+<li><a href="../../education-and-civic-life/">education-and-civic-life</a></li>
 <li><a href="../../authorship-and-authority/">authorship-and-authority</a></li>
 <li><a href="../../taste-and-standards/">taste-and-standards</a></li>
+<li><a href="../../media-and-form/">media-and-form</a></li>
+<li><a href="../../aesthetic-education-and-citizenship/">aesthetic-education-and-citizenship</a></li>
+<li><a href="../../romantic-poetry-and-modernity/">romantic-poetry-and-modernity</a></li>
+<li><a href="../../art-utility-and-modern-life/">art-utility-and-modern-life</a></li>
+<li><a href="../../language-truth-and-fiction/">language-truth-and-fiction</a></li>
 </ul>
 
 ## Open Questions

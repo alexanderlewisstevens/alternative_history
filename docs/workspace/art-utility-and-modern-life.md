@@ -23,12 +23,13 @@ This is a scaffold for reading the configured texts together. It should become a
 ## Texts In Play
 
 <div class="ah-graph-list">
-  <a href="../norton-texts/peacock-four-ages-poetry/"><strong>Thomas Love Peacock, The Four Ages of Poetry</strong><span>poetry, modernity, satire; pages 724-737; 14 review rows</span></a>
-  <a href="../norton-texts/shelley-defence-poetry/"><strong>Percy Bysshe Shelley, A Defence of Poetry</strong><span>poetry, imagination, social-change; pages 738-758; 19 review rows</span></a>
-  <a href="../norton-texts/gautier-preface-mademoiselle-de-maupin/"><strong>Theophile Gautier, Preface to Mademoiselle de Maupin</strong><span>aestheticism, art-for-art, utility; pages 792-800; 9 review rows</span></a>
-  <a href="../norton-texts/baudelaire-painter-modern-life/"><strong>Charles Baudelaire, The Painter of Modern Life</strong><span>modernity, art, fashion; pages 831-843; 9 review rows</span></a>
+  <a href="../norton-texts/peacock-four-ages-poetry/"><strong>Thomas Love Peacock, The Four Ages of Poetry</strong><span>poetry, modernity, satire; pages 727-737; 11 review rows</span></a>
+  <a href="../norton-texts/shelley-defence-poetry/"><strong>Percy Bysshe Shelley, A Defence of Poetry</strong><span>poetry, imagination, social-change; pages 741-758; 16 review rows</span></a>
+  <a href="../norton-texts/gautier-preface-mademoiselle-de-maupin/"><strong>Theophile Gautier, Preface to Mademoiselle de Maupin</strong><span>aestheticism, art-for-art, utility; pages 795-800; 6 review rows</span></a>
+  <a href="../norton-texts/baudelaire-painter-modern-life/"><strong>Charles Baudelaire, The Painter of Modern Life</strong><span>modernity, art, fashion; pages 834-843; 6 review rows</span></a>
   <a href="../norton-texts/arnold-selected-critical-prose/"><strong>Matthew Arnold, Selected Critical Prose</strong><span>criticism, culture, education; pages 844-874; 31 review rows</span></a>
-  <a href="../norton-texts/pater-renaissance/"><strong>Walter Pater, Studies in the History of the Renaissance</strong><span>aestheticism, perception, criticism; pages 875-882; 8 review rows</span></a>
+  <a href="../norton-texts/pater-renaissance/"><strong>Walter Pater, Studies in the History of the Renaissance</strong><span>aestheticism, perception, criticism; pages 877-882; 6 review rows</span></a>
+  <a href="../norton-texts/wilde-selected-critical-prose/"><strong>Oscar Wilde, Preface to The Picture of Dorian Gray and The Critic as Artist</strong><span>criticism, aestheticism, art-for-art; pages 943-956; 12 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -47,17 +48,19 @@ This is a scaffold for reading the configured texts together. It should become a
 4. [Charles Baudelaire, The Painter of Modern Life](norton-texts/baudelaire-painter-modern-life.md)
 5. [Matthew Arnold, Selected Critical Prose](norton-texts/arnold-selected-critical-prose.md)
 6. [Walter Pater, Studies in the History of the Renaissance](norton-texts/pater-renaissance.md)
+7. [Oscar Wilde, Preface to The Picture of Dorian Gray and The Critic as Artist](norton-texts/wilde-selected-critical-prose.md)
 
 ## Review Pressure
 
 | Text | Norton Pages | Review Rows | Page Kinds |
 | --- | --- | ---: | --- |
-| [The Four Ages of Poetry](norton-texts/peacock-four-ages-poetry.md) | 724-737 | 14 | excerpt: 11<br>author_intro: 3 |
-| [A Defence of Poetry](norton-texts/shelley-defence-poetry.md) | 738-758 | 19 | excerpt: 18<br>author_intro: 3 |
-| [Preface to Mademoiselle de Maupin](norton-texts/gautier-preface-mademoiselle-de-maupin.md) | 792-800 | 9 | excerpt: 6<br>author_intro: 3 |
-| [The Painter of Modern Life](norton-texts/baudelaire-painter-modern-life.md) | 831-843 | 9 | excerpt: 9<br>author_intro: 4 |
+| [The Four Ages of Poetry](norton-texts/peacock-four-ages-poetry.md) | 727-737 | 11 | excerpt: 11 |
+| [A Defence of Poetry](norton-texts/shelley-defence-poetry.md) | 741-758 | 16 | excerpt: 18 |
+| [Preface to Mademoiselle de Maupin](norton-texts/gautier-preface-mademoiselle-de-maupin.md) | 795-800 | 6 | excerpt: 6 |
+| [The Painter of Modern Life](norton-texts/baudelaire-painter-modern-life.md) | 834-843 | 6 | excerpt: 9<br>author_intro: 1 |
 | [Selected Critical Prose](norton-texts/arnold-selected-critical-prose.md) | 844-874 | 31 | excerpt: 27<br>author_intro: 4 |
-| [Studies in the History of the Renaissance](norton-texts/pater-renaissance.md) | 875-882 | 8 | excerpt: 6<br>author_intro: 2 |
+| [Studies in the History of the Renaissance](norton-texts/pater-renaissance.md) | 877-882 | 6 | excerpt: 6 |
+| [Preface to The Picture of Dorian Gray and The Critic as Artist](norton-texts/wilde-selected-critical-prose.md) | 943-956 | 12 | excerpt: 14 |
 
 ## Passage Queue
 
@@ -111,8 +114,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:00:49Z` |
-| Git commit | `3678a16` |
+| Generated at | `2026-06-13T05:09:12Z` |
+| Git commit | `9fa32c5` |
 | Script version | `2` |
 | Output path | `docs/workspace/art-utility-and-modern-life.md` |
 

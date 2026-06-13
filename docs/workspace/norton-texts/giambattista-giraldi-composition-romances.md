@@ -20,11 +20,11 @@ This note turns the current Norton chunk for Giambattista Giraldi into a navigab
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Chunk Status</span>
-  <h3>Norton Pages 313-320</h3>
-  <p><strong>Page count:</strong> 8</p>
+  <h3>Norton Pages 315-320</h3>
+  <p><strong>Page count:</strong> 6</p>
   <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/giambattista-giraldi.md</code></p>
-  <p><strong>Page kinds:</strong> excerpt: 6<br>author_intro: 2</p>
-  <p><strong>Review pressure:</strong> 7 rows. multi_column_layout: 4<br>transition_from_previous_author: 2<br>source_notes_detected: 2</p>
+  <p><strong>Page kinds:</strong> excerpt: 6</p>
+  <p><strong>Review pressure:</strong> 5 rows. multi_column_layout: 4<br>source_notes_detected: 2</p>
 </section>
 
 ## Works And Excerpt Blocks
@@ -44,7 +44,7 @@ This note turns the current Norton chunk for Giambattista Giraldi into a navigab
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Anchor Candidates</span>
   <h3>Choose Passages After Review</h3>
-  <p><strong>Source location:</strong> Norton page range 313-320.</p>
+  <p><strong>Source location:</strong> Norton page range 315-320.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
   <p><strong>Use:</strong> Find the passages that make this text active inside vernacular-and-institution, theater-and-public-judgment.</p>
 </section>
@@ -52,7 +52,7 @@ This note turns the current Norton chunk for Giambattista Giraldi into a navigab
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Review Before Quoting</span>
   <h3>Layout, Notes, And Bibliography</h3>
-  <p><strong>Review signal:</strong> multi_column_layout: 4<br>transition_from_previous_author: 2<br>source_notes_detected: 2</p>
+  <p><strong>Review signal:</strong> multi_column_layout: 4<br>source_notes_detected: 2</p>
   <p><strong>Editorial rule:</strong> source notes belong in source-note fields, bibliography belongs in bibliography fields, and excerpt text stays separate.</p>
 </section>
 
@@ -90,8 +90,8 @@ This note turns the current Norton chunk for Giambattista Giraldi into a navigab
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/giambattista-giraldi.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T05:01:21Z` |
-| Git commit | `3678a16` |
+| Generated at | `2026-06-13T05:09:17Z` |
+| Git commit | `9fa32c5` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/giambattista-giraldi-composition-romances.md` |
 

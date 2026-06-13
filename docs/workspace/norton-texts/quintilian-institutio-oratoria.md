@@ -20,10 +20,10 @@ This note turns the current Norton chunk for Quintilian into a navigable workspa
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Chunk Status</span>
-  <h3>Norton Pages 197-212</h3>
-  <p><strong>Page count:</strong> 16</p>
+  <h3>Norton Pages 199-212</h3>
+  <p><strong>Page count:</strong> 14</p>
   <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/quintilian.md</code></p>
-  <p><strong>Page kinds:</strong> excerpt: 14<br>author_intro: 2</p>
+  <p><strong>Page kinds:</strong> excerpt: 14</p>
   <p><strong>Review pressure:</strong> 10 rows. multi_column_layout: 8<br>source_notes_detected: 7<br>mixed_excerpt_and_bibliography: 1</p>
 </section>
 
@@ -44,7 +44,7 @@ This note turns the current Norton chunk for Quintilian into a navigable workspa
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Anchor Candidates</span>
   <h3>Choose Passages After Review</h3>
-  <p><strong>Source location:</strong> Norton page range 197-212.</p>
+  <p><strong>Source location:</strong> Norton page range 199-212.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
   <p><strong>Use:</strong> Find the passages that make this text active inside rhetoric-and-force, education-and-civic-life, aesthetic-education-and-citizenship.</p>
 </section>
@@ -90,8 +90,8 @@ This note turns the current Norton chunk for Quintilian into a navigable workspa
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/quintilian.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T05:01:21Z` |
-| Git commit | `3678a16` |
+| Generated at | `2026-06-13T05:09:17Z` |
+| Git commit | `9fa32c5` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/quintilian-institutio-oratoria.md` |
 

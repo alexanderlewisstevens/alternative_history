@@ -23,10 +23,10 @@ This is a scaffold for reading the configured texts together. It should become a
 ## Texts In Play
 
 <div class="ah-graph-list">
-  <a href="../norton-texts/gorgias-encomium-helen/"><strong>Gorgias, Encomium of Helen</strong><span>rhetoric, persuasion, speech; pages 71-74; 3 review rows</span></a>
+  <a href="../norton-texts/gorgias-encomium-helen/"><strong>Gorgias, Encomium of Helen</strong><span>rhetoric, persuasion, speech; pages 72-74; 3 review rows</span></a>
   <a href="../norton-texts/plato-selected-dialogues/"><strong>Plato, Selected dialogues</strong><span>mimesis, writing, memory; pages 75-127; 29 review rows</span></a>
   <a href="../norton-texts/aristotle-poetics-rhetoric/"><strong>Aristotle, Poetics and Rhetoric</strong><span>poetics, rhetoric, genre; pages 128-162; 23 review rows</span></a>
-  <a href="../norton-texts/quintilian-institutio-oratoria/"><strong>Quintilian, Institutio Oratoria</strong><span>rhetoric, education, civic-formation; pages 197-212; 10 review rows</span></a>
+  <a href="../norton-texts/quintilian-institutio-oratoria/"><strong>Quintilian, Institutio Oratoria</strong><span>rhetoric, education, civic-formation; pages 199-212; 10 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -48,10 +48,10 @@ This is a scaffold for reading the configured texts together. It should become a
 
 | Text | Norton Pages | Review Rows | Page Kinds |
 | --- | --- | ---: | --- |
-| [Encomium of Helen](norton-texts/gorgias-encomium-helen.md) | 71-74 | 3 | excerpt: 3<br>author_intro: 1 |
+| [Encomium of Helen](norton-texts/gorgias-encomium-helen.md) | 72-74 | 3 | excerpt: 3 |
 | [Selected dialogues](norton-texts/plato-selected-dialogues.md) | 75-127 | 29 | excerpt: 49<br>author_intro: 4 |
 | [Poetics and Rhetoric](norton-texts/aristotle-poetics-rhetoric.md) | 128-162 | 23 | excerpt: 30<br>author_intro: 5 |
-| [Institutio Oratoria](norton-texts/quintilian-institutio-oratoria.md) | 197-212 | 10 | excerpt: 14<br>author_intro: 2 |
+| [Institutio Oratoria](norton-texts/quintilian-institutio-oratoria.md) | 199-212 | 10 | excerpt: 14 |
 
 ## Passage Queue
 
@@ -105,8 +105,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:00:48Z` |
-| Git commit | `3678a16` |
+| Generated at | `2026-06-13T05:09:11Z` |
+| Git commit | `9fa32c5` |
 | Script version | `2` |
 | Output path | `docs/workspace/rhetoric-and-force.md` |
 

@@ -25,16 +25,18 @@ This is a scaffold for reading the configured texts together. It should become a
 <div class="ah-graph-list">
   <a href="../norton-texts/plato-selected-dialogues/"><strong>Plato, Selected dialogues</strong><span>mimesis, writing, memory; pages 75-127; 29 review rows</span></a>
   <a href="../norton-texts/augustine-on-christian-doctrine-trinity/"><strong>Augustine of Hippo, On Christian Doctrine and The Trinity</strong><span>interpretation, signs, theology; pages 227-237; 9 review rows</span></a>
-  <a href="../norton-texts/hugh-didascalicon/"><strong>Hugh of St. Victor, The Didascalicon</strong><span>reading, pedagogy, classification; pages 243-252; 10 review rows</span></a>
-  <a href="../norton-texts/maimonides-guide-perplexed/"><strong>Moses Maimonides, The Guide of the Perplexed</strong><span>allegory, reason, revelation; pages 253-267; 15 review rows</span></a>
-  <a href="../norton-texts/thomas-aquinas-summa-theologica/"><strong>Thomas Aquinas, Summa Theologica</strong><span>interpretation, theology, allegory; pages 282-287; 6 review rows</span></a>
+  <a href="../norton-texts/hugh-didascalicon/"><strong>Hugh of St. Victor, The Didascalicon</strong><span>reading, pedagogy, classification; pages 246-252; 7 review rows</span></a>
+  <a href="../norton-texts/maimonides-guide-perplexed/"><strong>Moses Maimonides, The Guide of the Perplexed</strong><span>allegory, reason, revelation; pages 256-267; 12 review rows</span></a>
+  <a href="../norton-texts/thomas-aquinas-summa-theologica/"><strong>Thomas Aquinas, Summa Theologica</strong><span>interpretation, theology, allegory; pages 285-287; 3 review rows</span></a>
   <a href="../norton-texts/dante-il-convivio-letter-can-grande/"><strong>Dante Alighieri, Il Convivio and The Letter to Can Grande</strong><span>interpretation, allegory, vernacular; pages 288-294; 5 review rows</span></a>
-  <a href="../norton-texts/giacopo-mazzoni-defense-comedy-dante/"><strong>Giacopo Mazzoni, On the Defense of the Comedy of Dante</strong><span>mimesis, poetics, genre; pages 342-364; 15 review rows</span></a>
-  <a href="../norton-texts/schleiermacher-hermeneutics/"><strong>Friedrich Schleiermacher, Hermeneutics</strong><span>hermeneutics, interpretation, language; pages 652-667; 14 review rows</span></a>
+  <a href="../norton-texts/giacopo-mazzoni-defense-comedy-dante/"><strong>Giacopo Mazzoni, On the Defense of the Comedy of Dante</strong><span>mimesis, poetics, genre; pages 344-364; 13 review rows</span></a>
+  <a href="../norton-texts/schleiermacher-hermeneutics/"><strong>Friedrich Schleiermacher, Hermeneutics</strong><span>hermeneutics, interpretation, language; pages 655-667; 11 review rows</span></a>
   <a href="../norton-texts/hegel-phenomenology-fine-art/"><strong>Georg Wilhelm Friedrich Hegel, Phenomenology of Spirit and Lectures on Fine Art</strong><span>spirit, aesthetics, history; pages 668-686; 6 review rows</span></a>
   <a href="../norton-texts/coleridge-statesmans-manual-biographia-literaria/"><strong>Samuel Taylor Coleridge, The Statesman&#x27;s Manual and Biographia Literaria</strong><span>imagination, symbol, poetry; pages 710-723; 13 review rows</span></a>
   <a href="../norton-texts/marx-engels-selected-cultural-writings/"><strong>Karl Marx and Friedrich Engels, Selected Cultural and Historical Writings</strong><span>ideology, labor, capitalism; pages 801-830; 29 review rows</span></a>
-  <a href="../norton-texts/nietzsche-truth-and-lying/"><strong>Friedrich Nietzsche, On Truth and Lying in a Non-Moral Sense</strong><span>truth, metaphor, language; pages 912-927; 16 review rows</span></a>
+  <a href="../norton-texts/nietzsche-truth-and-lying/"><strong>Friedrich Nietzsche, On Truth and Lying in a Non-Moral Sense</strong><span>truth, metaphor, language; pages 916-927; 12 review rows</span></a>
+  <a href="../norton-texts/freud-dreams-uncanny-fetishism/"><strong>Sigmund Freud, The Interpretation of Dreams, The Uncanny, and Fetishism</strong><span>psychoanalysis, dreams, uncanny; pages 963-999; 37 review rows</span></a>
+  <a href="../norton-texts/saussure-course-general-linguistics/"><strong>Ferdinand de Saussure, Course in General Linguistics</strong><span>language, signs, structure; pages 1004-1007; 4 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -59,6 +61,8 @@ This is a scaffold for reading the configured texts together. It should become a
 10. [Samuel Taylor Coleridge, The Statesman&#x27;s Manual and Biographia Literaria](norton-texts/coleridge-statesmans-manual-biographia-literaria.md)
 11. [Karl Marx and Friedrich Engels, Selected Cultural and Historical Writings](norton-texts/marx-engels-selected-cultural-writings.md)
 12. [Friedrich Nietzsche, On Truth and Lying in a Non-Moral Sense](norton-texts/nietzsche-truth-and-lying.md)
+13. [Sigmund Freud, The Interpretation of Dreams, The Uncanny, and Fetishism](norton-texts/freud-dreams-uncanny-fetishism.md)
+14. [Ferdinand de Saussure, Course in General Linguistics](norton-texts/saussure-course-general-linguistics.md)
 
 ## Review Pressure
 
@@ -66,16 +70,18 @@ This is a scaffold for reading the configured texts together. It should become a
 | --- | --- | ---: | --- |
 | [Selected dialogues](norton-texts/plato-selected-dialogues.md) | 75-127 | 29 | excerpt: 49<br>author_intro: 4 |
 | [On Christian Doctrine and The Trinity](norton-texts/augustine-on-christian-doctrine-trinity.md) | 227-237 | 9 | excerpt: 7<br>author_intro: 4 |
-| [The Didascalicon](norton-texts/hugh-didascalicon.md) | 243-252 | 10 | excerpt: 6<br>author_intro: 4 |
-| [The Guide of the Perplexed](norton-texts/maimonides-guide-perplexed.md) | 253-267 | 15 | excerpt: 11<br>author_intro: 4 |
-| [Summa Theologica](norton-texts/thomas-aquinas-summa-theologica.md) | 282-287 | 6 | author_intro: 3<br>excerpt: 2<br>mixed_excerpt_bibliography: 1 |
+| [The Didascalicon](norton-texts/hugh-didascalicon.md) | 246-252 | 7 | excerpt: 6<br>author_intro: 1 |
+| [The Guide of the Perplexed](norton-texts/maimonides-guide-perplexed.md) | 256-267 | 12 | excerpt: 11<br>author_intro: 1 |
+| [Summa Theologica](norton-texts/thomas-aquinas-summa-theologica.md) | 285-287 | 3 | excerpt: 2<br>mixed_excerpt_bibliography: 1 |
 | [Il Convivio and The Letter to Can Grande](norton-texts/dante-il-convivio-letter-can-grande.md) | 288-294 | 5 | excerpt: 4<br>author_intro: 3 |
-| [On the Defense of the Comedy of Dante](norton-texts/giacopo-mazzoni-defense-comedy-dante.md) | 342-364 | 15 | excerpt: 20<br>author_intro: 2<br>mixed_excerpt_bibliography: 1 |
-| [Hermeneutics](norton-texts/schleiermacher-hermeneutics.md) | 652-667 | 14 | excerpt: 12<br>author_intro: 3<br>mixed_excerpt_bibliography: 1 |
+| [On the Defense of the Comedy of Dante](norton-texts/giacopo-mazzoni-defense-comedy-dante.md) | 344-364 | 13 | excerpt: 20<br>mixed_excerpt_bibliography: 1 |
+| [Hermeneutics](norton-texts/schleiermacher-hermeneutics.md) | 655-667 | 11 | excerpt: 12<br>mixed_excerpt_bibliography: 1 |
 | [Phenomenology of Spirit and Lectures on Fine Art](norton-texts/hegel-phenomenology-fine-art.md) | 668-686 | 6 | excerpt: 14<br>author_intro: 5 |
 | [The Statesman&#x27;s Manual and Biographia Literaria](norton-texts/coleridge-statesmans-manual-biographia-literaria.md) | 710-723 | 13 | excerpt: 9<br>author_intro: 5 |
 | [Selected Cultural and Historical Writings](norton-texts/marx-engels-selected-cultural-writings.md) | 801-830 | 29 | excerpt: 25<br>author_intro: 5 |
-| [On Truth and Lying in a Non-Moral Sense](norton-texts/nietzsche-truth-and-lying.md) | 912-927 | 16 | excerpt: 12<br>author_intro: 4 |
+| [On Truth and Lying in a Non-Moral Sense](norton-texts/nietzsche-truth-and-lying.md) | 916-927 | 12 | excerpt: 12 |
+| [The Interpretation of Dreams, The Uncanny, and Fetishism](norton-texts/freud-dreams-uncanny-fetishism.md) | 963-999 | 37 | excerpt: 37 |
+| [Course in General Linguistics](norton-texts/saussure-course-general-linguistics.md) | 1004-1007 | 4 | excerpt: 4 |
 
 ## Passage Queue
 
@@ -129,8 +135,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:00:48Z` |
-| Git commit | `3678a16` |
+| Generated at | `2026-06-13T05:09:11Z` |
+| Git commit | `9fa32c5` |
 | Script version | `2` |
 | Output path | `docs/workspace/signs-and-reading.md` |
 

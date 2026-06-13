@@ -23,25 +23,27 @@ This is a scaffold for reading the configured texts together. It should become a
 ## Texts In Play
 
 <div class="ah-graph-list">
-  <a href="../norton-texts/christine-de-pizan-city-of-ladies/"><strong>Christine de Pizan, The Book of the City of Ladies</strong><span>education, gender, authority; pages 305-312; 3 review rows</span></a>
-  <a href="../norton-texts/joachim-du-bellay-defense-french-language/"><strong>Joachim du Bellay, The Defence and Illustration of the French Language</strong><span>vernacular, language, nation; pages 321-332; 11 review rows</span></a>
+  <a href="../norton-texts/christine-de-pizan-city-of-ladies/"><strong>Christine de Pizan, The Book of the City of Ladies</strong><span>education, gender, authority; pages 307-312; 1 review rows</span></a>
+  <a href="../norton-texts/joachim-du-bellay-defense-french-language/"><strong>Joachim du Bellay, The Defence and Illustration of the French Language</strong><span>vernacular, language, nation; pages 323-332; 9 review rows</span></a>
   <a href="../norton-texts/sidney-defense-of-poesy/"><strong>Sir Philip Sidney, The Defense of Poesy</strong><span>poetry, rhetoric, education; pages 365-404; 39 review rows</span></a>
   <a href="../norton-texts/dryden-selected-critical-prose/"><strong>John Dryden, Selected Critical Prose</strong><span>drama, translation, judgment; pages 421-429; 9 review rows</span></a>
   <a href="../norton-texts/aphra-behn-dutch-lover-lucky-chance/"><strong>Aphra Behn, The Dutch Lover and Preface to The Lucky Chance</strong><span>authorship, gender, theater; pages 430-440; 11 review rows</span></a>
-  <a href="../norton-texts/young-conjectures-original-composition/"><strong>Edward Young, Conjectures on Original Composition</strong><span>originality, imitation, authorship; pages 468-479; 11 review rows</span></a>
-  <a href="../norton-texts/pope-essay-on-criticism/"><strong>Alexander Pope, An Essay on Criticism</strong><span>criticism, judgment, wit; pages 480-499; 20 review rows</span></a>
+  <a href="../norton-texts/young-conjectures-original-composition/"><strong>Edward Young, Conjectures on Original Composition</strong><span>originality, imitation, authorship; pages 469-479; 10 review rows</span></a>
+  <a href="../norton-texts/pope-essay-on-criticism/"><strong>Alexander Pope, An Essay on Criticism</strong><span>criticism, judgment, wit; pages 483-499; 17 review rows</span></a>
   <a href="../norton-texts/johnson-selected-critical-prose/"><strong>Samuel Johnson, Selected Critical Prose</strong><span>fiction, shakespeare, criticism; pages 500-524; 21 review rows</span></a>
-  <a href="../norton-texts/wollstonecraft-rights-woman/"><strong>Mary Wollstonecraft, A Vindication of the Rights of Woman</strong><span>education, gender, citizenship; pages 624-635; 9 review rows</span></a>
+  <a href="../norton-texts/wollstonecraft-rights-woman/"><strong>Mary Wollstonecraft, A Vindication of the Rights of Woman</strong><span>education, gender, citizenship; pages 628-635; 5 review rows</span></a>
   <a href="../norton-texts/stael-fictions-literature-social-institutions/"><strong>Germaine de Stael, Essay on Fictions and On Literature Considered in Its Relationship to Social Institutions</strong><span>literature, society, institutions; pages 636-651; 10 review rows</span></a>
-  <a href="../norton-texts/shelley-defence-poetry/"><strong>Percy Bysshe Shelley, A Defence of Poetry</strong><span>poetry, imagination, social-change; pages 738-758; 19 review rows</span></a>
+  <a href="../norton-texts/shelley-defence-poetry/"><strong>Percy Bysshe Shelley, A Defence of Poetry</strong><span>poetry, imagination, social-change; pages 741-758; 16 review rows</span></a>
   <a href="../norton-texts/emerson-american-scholar-poet/"><strong>Ralph Waldo Emerson, The American Scholar and The Poet</strong><span>scholarship, self-reliance, poetry; pages 759-780; 21 review rows</span></a>
-  <a href="../norton-texts/poe-philosophy-composition/"><strong>Edgar Allan Poe, The Philosophy of Composition</strong><span>composition, craft, effect; pages 781-791; 11 review rows</span></a>
-  <a href="../norton-texts/gautier-preface-mademoiselle-de-maupin/"><strong>Theophile Gautier, Preface to Mademoiselle de Maupin</strong><span>aestheticism, art-for-art, utility; pages 792-800; 9 review rows</span></a>
-  <a href="../norton-texts/baudelaire-painter-modern-life/"><strong>Charles Baudelaire, The Painter of Modern Life</strong><span>modernity, art, fashion; pages 831-843; 9 review rows</span></a>
-  <a href="../norton-texts/pater-renaissance/"><strong>Walter Pater, Studies in the History of the Renaissance</strong><span>aestheticism, perception, criticism; pages 875-882; 8 review rows</span></a>
-  <a href="../norton-texts/mallarme-crisis-poetry/"><strong>Stephane Mallarme, Crisis in Poetry</strong><span>poetry, language, modernity; pages 883-892; 10 review rows</span></a>
-  <a href="../norton-texts/henry-james-art-fiction/"><strong>Henry James, The Art of Fiction</strong><span>fiction, realism, craft; pages 893-911; 8 review rows</span></a>
-  <a href="../norton-texts/nietzsche-truth-and-lying/"><strong>Friedrich Nietzsche, On Truth and Lying in a Non-Moral Sense</strong><span>truth, metaphor, language; pages 912-927; 16 review rows</span></a>
+  <a href="../norton-texts/poe-philosophy-composition/"><strong>Edgar Allan Poe, The Philosophy of Composition</strong><span>composition, craft, effect; pages 784-791; 8 review rows</span></a>
+  <a href="../norton-texts/gautier-preface-mademoiselle-de-maupin/"><strong>Theophile Gautier, Preface to Mademoiselle de Maupin</strong><span>aestheticism, art-for-art, utility; pages 795-800; 6 review rows</span></a>
+  <a href="../norton-texts/baudelaire-painter-modern-life/"><strong>Charles Baudelaire, The Painter of Modern Life</strong><span>modernity, art, fashion; pages 834-843; 6 review rows</span></a>
+  <a href="../norton-texts/pater-renaissance/"><strong>Walter Pater, Studies in the History of the Renaissance</strong><span>aestheticism, perception, criticism; pages 877-882; 6 review rows</span></a>
+  <a href="../norton-texts/mallarme-crisis-poetry/"><strong>Stephane Mallarme, Crisis in Poetry</strong><span>poetry, language, modernity; pages 887-892; 6 review rows</span></a>
+  <a href="../norton-texts/henry-james-art-fiction/"><strong>Henry James, The Art of Fiction</strong><span>fiction, realism, craft; pages 897-911; 4 review rows</span></a>
+  <a href="../norton-texts/nietzsche-truth-and-lying/"><strong>Friedrich Nietzsche, On Truth and Lying in a Non-Moral Sense</strong><span>truth, metaphor, language; pages 916-927; 12 review rows</span></a>
+  <a href="../norton-texts/wilde-selected-critical-prose/"><strong>Oscar Wilde, Preface to The Picture of Dorian Gray and The Critic as Artist</strong><span>criticism, aestheticism, art-for-art; pages 943-956; 12 review rows</span></a>
+  <a href="../norton-texts/freud-dreams-uncanny-fetishism/"><strong>Sigmund Freud, The Interpretation of Dreams, The Uncanny, and Fetishism</strong><span>psychoanalysis, dreams, uncanny; pages 963-999; 37 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -73,30 +75,34 @@ This is a scaffold for reading the configured texts together. It should become a
 17. [Stephane Mallarme, Crisis in Poetry](norton-texts/mallarme-crisis-poetry.md)
 18. [Henry James, The Art of Fiction](norton-texts/henry-james-art-fiction.md)
 19. [Friedrich Nietzsche, On Truth and Lying in a Non-Moral Sense](norton-texts/nietzsche-truth-and-lying.md)
+20. [Oscar Wilde, Preface to The Picture of Dorian Gray and The Critic as Artist](norton-texts/wilde-selected-critical-prose.md)
+21. [Sigmund Freud, The Interpretation of Dreams, The Uncanny, and Fetishism](norton-texts/freud-dreams-uncanny-fetishism.md)
 
 ## Review Pressure
 
 | Text | Norton Pages | Review Rows | Page Kinds |
 | --- | --- | ---: | --- |
-| [The Book of the City of Ladies](norton-texts/christine-de-pizan-city-of-ladies.md) | 305-312 | 3 | excerpt: 6<br>author_intro: 2 |
-| [The Defence and Illustration of the French Language](norton-texts/joachim-du-bellay-defense-french-language.md) | 321-332 | 11 | excerpt: 9<br>author_intro: 3 |
+| [The Book of the City of Ladies](norton-texts/christine-de-pizan-city-of-ladies.md) | 307-312 | 1 | excerpt: 6 |
+| [The Defence and Illustration of the French Language](norton-texts/joachim-du-bellay-defense-french-language.md) | 323-332 | 9 | excerpt: 9<br>author_intro: 1 |
 | [The Defense of Poesy](norton-texts/sidney-defense-of-poesy.md) | 365-404 | 39 | excerpt: 36<br>author_intro: 3<br>mixed_excerpt_bibliography: 1 |
 | [Selected Critical Prose](norton-texts/dryden-selected-critical-prose.md) | 421-429 | 9 | excerpt: 7<br>author_intro: 2 |
 | [The Dutch Lover and Preface to The Lucky Chance](norton-texts/aphra-behn-dutch-lover-lucky-chance.md) | 430-440 | 11 | excerpt: 8<br>author_intro: 3 |
-| [Conjectures on Original Composition](norton-texts/young-conjectures-original-composition.md) | 468-479 | 11 | excerpt: 10<br>author_intro: 1<br>mixed_excerpt_bibliography: 1 |
-| [An Essay on Criticism](norton-texts/pope-essay-on-criticism.md) | 480-499 | 20 | excerpt: 17<br>author_intro: 3 |
+| [Conjectures on Original Composition](norton-texts/young-conjectures-original-composition.md) | 469-479 | 10 | excerpt: 10<br>mixed_excerpt_bibliography: 1 |
+| [An Essay on Criticism](norton-texts/pope-essay-on-criticism.md) | 483-499 | 17 | excerpt: 17 |
 | [Selected Critical Prose](norton-texts/johnson-selected-critical-prose.md) | 500-524 | 21 | excerpt: 18<br>author_intro: 7 |
-| [A Vindication of the Rights of Woman](norton-texts/wollstonecraft-rights-woman.md) | 624-635 | 9 | excerpt: 8<br>author_intro: 4 |
+| [A Vindication of the Rights of Woman](norton-texts/wollstonecraft-rights-woman.md) | 628-635 | 5 | excerpt: 8 |
 | [Essay on Fictions and On Literature Considered in Its Relationship to Social Institutions](norton-texts/stael-fictions-literature-social-institutions.md) | 636-651 | 10 | excerpt: 13<br>author_intro: 3 |
-| [A Defence of Poetry](norton-texts/shelley-defence-poetry.md) | 738-758 | 19 | excerpt: 18<br>author_intro: 3 |
+| [A Defence of Poetry](norton-texts/shelley-defence-poetry.md) | 741-758 | 16 | excerpt: 18 |
 | [The American Scholar and The Poet](norton-texts/emerson-american-scholar-poet.md) | 759-780 | 21 | excerpt: 18<br>author_intro: 4 |
-| [The Philosophy of Composition](norton-texts/poe-philosophy-composition.md) | 781-791 | 11 | excerpt: 8<br>author_intro: 3 |
-| [Preface to Mademoiselle de Maupin](norton-texts/gautier-preface-mademoiselle-de-maupin.md) | 792-800 | 9 | excerpt: 6<br>author_intro: 3 |
-| [The Painter of Modern Life](norton-texts/baudelaire-painter-modern-life.md) | 831-843 | 9 | excerpt: 9<br>author_intro: 4 |
-| [Studies in the History of the Renaissance](norton-texts/pater-renaissance.md) | 875-882 | 8 | excerpt: 6<br>author_intro: 2 |
-| [Crisis in Poetry](norton-texts/mallarme-crisis-poetry.md) | 883-892 | 10 | excerpt: 6<br>author_intro: 4 |
-| [The Art of Fiction](norton-texts/henry-james-art-fiction.md) | 893-911 | 8 | excerpt: 15<br>author_intro: 4 |
-| [On Truth and Lying in a Non-Moral Sense](norton-texts/nietzsche-truth-and-lying.md) | 912-927 | 16 | excerpt: 12<br>author_intro: 4 |
+| [The Philosophy of Composition](norton-texts/poe-philosophy-composition.md) | 784-791 | 8 | excerpt: 8 |
+| [Preface to Mademoiselle de Maupin](norton-texts/gautier-preface-mademoiselle-de-maupin.md) | 795-800 | 6 | excerpt: 6 |
+| [The Painter of Modern Life](norton-texts/baudelaire-painter-modern-life.md) | 834-843 | 6 | excerpt: 9<br>author_intro: 1 |
+| [Studies in the History of the Renaissance](norton-texts/pater-renaissance.md) | 877-882 | 6 | excerpt: 6 |
+| [Crisis in Poetry](norton-texts/mallarme-crisis-poetry.md) | 887-892 | 6 | excerpt: 6 |
+| [The Art of Fiction](norton-texts/henry-james-art-fiction.md) | 897-911 | 4 | excerpt: 15 |
+| [On Truth and Lying in a Non-Moral Sense](norton-texts/nietzsche-truth-and-lying.md) | 916-927 | 12 | excerpt: 12 |
+| [Preface to The Picture of Dorian Gray and The Critic as Artist](norton-texts/wilde-selected-critical-prose.md) | 943-956 | 12 | excerpt: 14 |
+| [The Interpretation of Dreams, The Uncanny, and Fetishism](norton-texts/freud-dreams-uncanny-fetishism.md) | 963-999 | 37 | excerpt: 37 |
 
 ## Passage Queue
 
@@ -150,8 +156,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:00:49Z` |
-| Git commit | `3678a16` |
+| Generated at | `2026-06-13T05:09:12Z` |
+| Git commit | `9fa32c5` |
 | Script version | `2` |
 | Output path | `docs/workspace/authorship-and-authority.md` |
 

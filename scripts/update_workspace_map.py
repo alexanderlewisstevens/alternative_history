@@ -103,6 +103,73 @@ def similar_title(left: str, right: str) -> bool:
     return SequenceMatcher(None, left_key, right_key).ratio() >= 0.92
 
 
+def extraction_work_titles(text: dict[str, Any]) -> list[str]:
+    configured = text.get("extraction_work_titles")
+    if isinstance(configured, list):
+        titles = [str(value) for value in configured if str(value).strip()]
+        if titles:
+            return titles
+    title = str(text.get("title", "")).strip()
+    return [title] if title else []
+
+
+def classification_record_matches_text(record: dict[str, Any], text: dict[str, Any]) -> bool:
+    classification = record.get("classification", {})
+    author_slug = str(classification.get("assembly_group_slug", ""))
+    if not author_matches_text(author_slug, text):
+        return False
+    work_title = str(classification.get("work_title") or "")
+    titles = extraction_work_titles(text)
+    if not titles:
+        return True
+    return bool(work_title) and any(similar_title(work_title, title) for title in titles)
+
+
+def classification_records_for_text(
+    classification_records: list[dict[str, Any]],
+    text: dict[str, Any],
+) -> list[dict[str, Any]]:
+    matched = [record for record in classification_records if classification_record_matches_text(record, text)]
+    if matched:
+        return matched
+    return [
+        record
+        for record in classification_records
+        if author_matches_text(str(record.get("classification", {}).get("assembly_group_slug", "")), text)
+    ]
+
+
+def page_range_for_records(records: list[dict[str, Any]]) -> str:
+    pages = sorted(
+        int(record.get("page_number", 0))
+        for record in records
+        if str(record.get("page_number", "")).isdigit() or isinstance(record.get("page_number"), int)
+    )
+    if not pages:
+        return ""
+    return page_range(str(pages[0]), str(pages[-1]))
+
+
+def page_kinds_for_records(records: list[dict[str, Any]]) -> Counter[str]:
+    counter: Counter[str] = Counter()
+    for record in records:
+        page_kind = record.get("classification", {}).get("page_kind") or "unknown"
+        counter[str(page_kind)] += 1
+    return counter
+
+
+def review_counts_for_records(records: list[dict[str, Any]]) -> Counter[str]:
+    counter: Counter[str] = Counter()
+    for record in records:
+        classification = record.get("classification", {})
+        if not classification.get("review_required"):
+            continue
+        counter["total"] += 1
+        for reason in classification.get("review_reasons", []) or []:
+            counter[str(reason)] += 1
+    return counter
+
+
 def texts_for_author(author_slug: str, curated_texts: list[dict[str, Any]]) -> list[dict[str, Any]]:
     return [
         text

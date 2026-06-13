@@ -5,7 +5,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Boundary Review</div>
-  <div class="ah-metric-value">172</div>
+  <div class="ah-metric-value">188</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Content Separation</div>
@@ -13,7 +13,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Layout Review</div>
-  <div class="ah-metric-value">308</div>
+  <div class="ah-metric-value">317</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Source Notes</div>
@@ -21,7 +21,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">General Review</div>
-  <div class="ah-metric-value">104</div>
+  <div class="ah-metric-value">157</div>
 </div>
 </div>
 
@@ -29,10 +29,10 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 <div class="ah-review-grid">
 <section class="ah-review-card warn">
-  <div class="ah-review-card-kicker">172 pages</div>
+  <div class="ah-review-card-kicker">188 pages</div>
   <h3>Boundary Review</h3>
   <p>Confirm thinker and work boundaries before assembling public-facing drafts.</p>
-  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +160 more</p>
+  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +176 more</p>
 </section>
 <section class="ah-review-card warn">
   <div class="ah-review-card-kicker">9 pages</div>
@@ -41,10 +41,10 @@ This is the editorial queue for restricted extraction work. It is generated from
   <p><strong>Start:</strong> <code>72</code>, <code>199</code>, <code>285</code>, <code>297</code>, <code>344</code>, <code>368</code>, <code>443</code>, <code>469</code>, <code>655</code></p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">308 pages</div>
+  <div class="ah-review-card-kicker">317 pages</div>
   <h3>Layout Review</h3>
   <p>Confirm multi-column reading order before any summary or excerpt curation.</p>
-  <p><strong>Start:</strong> <code>73</code>, <code>79</code>, <code>80</code>, <code>82</code>, <code>83</code>, <code>84</code>, <code>86</code>, <code>90</code>, <code>91</code>, <code>92</code>, <code>93</code>, <code>94</code> +296 more</p>
+  <p><strong>Start:</strong> <code>73</code>, <code>79</code>, <code>80</code>, <code>82</code>, <code>83</code>, <code>84</code>, <code>86</code>, <code>90</code>, <code>91</code>, <code>92</code>, <code>93</code>, <code>94</code> +305 more</p>
 </section>
 <section class="ah-review-card neutral">
   <div class="ah-review-card-kicker">64 pages</div>
@@ -53,10 +53,10 @@ This is the editorial queue for restricted extraction work. It is generated from
   <p><strong>Start:</strong> <code>74</code>, <code>98</code>, <code>99</code>, <code>126</code>, <code>185</code>, <code>190</code>, <code>191</code>, <code>192</code>, <code>194</code>, <code>204</code>, <code>213</code>, <code>218</code> +52 more</p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">104 pages</div>
+  <div class="ah-review-card-kicker">157 pages</div>
   <h3>General Review</h3>
   <p>Resolve remaining template or classification questions.</p>
-  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +92 more</p>
+  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +145 more</p>
 </section>
 </div>
 
@@ -72,11 +72,11 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Field | Value |
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
-| Classified source pages | `71-927` |
-| Review queue rows | `657` |
+| Classified source pages | `71-1007` |
+| Review queue rows | `735` |
 | Review queue file | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
-| Generated at | `2026-06-13T05:01:18Z` |
-| Git commit | `3678a16` |
+| Generated at | `2026-06-13T05:09:14Z` |
+| Git commit | `9fa32c5` |
 | Script version | `1` |
 | Output path | `docs/_meta/review-dashboard.md` |
 
@@ -84,15 +84,16 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 | Reason | Pages |
 | --- | ---: |
-| multi_column_layout | 320 |
-| source_notes_detected | 286 |
-| transition_from_previous_author | 154 |
-| mixed_work_transition_page | 77 |
-| mixed_bibliography_and_work_title | 50 |
-| mixed_transition_page | 35 |
+| multi_column_layout | 330 |
+| source_notes_detected | 291 |
+| transition_from_previous_author | 168 |
+| mixed_work_transition_page | 125 |
+| mixed_bibliography_and_work_title | 61 |
+| mixed_transition_page | 43 |
 | layout_review_required | 23 |
-| author_boundary_without_life_dates | 16 |
+| author_boundary_without_life_dates | 18 |
 | mixed_excerpt_and_bibliography | 9 |
+| continues_beyond_current_batch | 4 |
 | transition_from_previous_work | 2 |
 | ocr_title_cleanup | 2 |
 
@@ -100,17 +101,19 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 | Thinker | Pages |
 | --- | ---: |
+| Sigmund Freud | 43 |
 | Sir Philip Sidney | 39 |
 | Matthew Arnold | 31 |
 | Plato | 29 |
 | Karl Marx and Friedrich Engels | 29 |
+| Friedrich Nietzsche | 27 |
 | Aristotle | 23 |
 | Samuel Johnson | 21 |
 | Ralph Waldo Emerson | 21 |
 | Alexander Pope | 20 |
 | Longinus | 19 |
 | Percy Bysshe Shelley | 19 |
-| Friedrich Nietzsche | 16 |
+| Oscar Wilde | 16 |
 | Moses Maimonides | 15 |
 | Giacopo Mazzoni | 15 |
 | Gotthold Ephraim Lessing | 15 |
@@ -141,6 +144,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Charles Baudelaire | 9 |
 | Walter Pater | 8 |
 | Henry James | 8 |
+| Ferdinand de Saussure | 8 |
 | Plotinus | 7 |
 | Giambattista Giraldi | 7 |
 | David Hume | 7 |
@@ -329,6 +333,22 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 913 | Friedrich Nietzsche | Friedrich Nietzsche | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0913.md |
 | 914 | Friedrich Nietzsche |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0914.md |
 | 915 | Friedrich Nietzsche |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0915.md |
+| 939 | Oscar Wilde | Oscar Wilde | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0939.md |
+| 940 | Oscar Wilde |  | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0940.md |
+| 941 | Oscar Wilde |  | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0941.md |
+| 942 | Oscar Wilde |  | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0942.md |
+| 948 | Oscar Wilde | The Critic as Artist | author_boundary_without_life_dates;multi_column_layout | work/page-records/norton-theory-criticism/page_0948.md |
+| 952 | Oscar Wilde | The Critic as Artist | author_boundary_without_life_dates | work/page-records/norton-theory-criticism/page_0952.md |
+| 957 | Sigmund Freud |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0957.md |
+| 958 | Sigmund Freud |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0958.md |
+| 959 | Sigmund Freud | Sigmund Freud | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0959.md |
+| 960 | Sigmund Freud |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0960.md |
+| 961 | Sigmund Freud | Sigmund Freud | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0961.md |
+| 962 | Sigmund Freud |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0962.md |
+| 1000 | Ferdinand de Saussure |  | mixed_bibliography_and_work_title;mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1000.md |
+| 1001 | Ferdinand de Saussure | Ferdinand de Saussure | mixed_bibliography_and_work_title;mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1001.md |
+| 1002 | Ferdinand de Saussure |  | mixed_bibliography_and_work_title;mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1002.md |
+| 1003 | Ferdinand de Saussure | Ferdinand de Saussure | mixed_bibliography_and_work_title;mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1003.md |
 
 ## Content Separation
 
@@ -656,6 +676,15 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 898 | Henry James | The Art of Fiction | multi_column_layout | work/page-records/norton-theory-criticism/page_0898.md |
 | 908 | Henry James | The Art of Fiction | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0908.md |
 | 909 | Henry James | The Art of Fiction | multi_column_layout | work/page-records/norton-theory-criticism/page_0909.md |
+| 944 | Oscar Wilde | The Critic as Artist | multi_column_layout | work/page-records/norton-theory-criticism/page_0944.md |
+| 945 | Oscar Wilde | The Critic as Artist | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0945.md |
+| 946 | Oscar Wilde | The Critic as Artist | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0946.md |
+| 949 | Oscar Wilde | The Critic as Artist | multi_column_layout | work/page-records/norton-theory-criticism/page_0949.md |
+| 950 | Oscar Wilde | The Critic as Artist | multi_column_layout | work/page-records/norton-theory-criticism/page_0950.md |
+| 951 | Oscar Wilde | The Critic as Artist | multi_column_layout | work/page-records/norton-theory-criticism/page_0951.md |
+| 953 | Oscar Wilde | The Critic as Artist | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0953.md |
+| 954 | Oscar Wilde | The Critic as Artist | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0954.md |
+| 956 | Oscar Wilde | The Critic as Artist | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0956.md |
 
 ## Source Notes
 
@@ -834,3 +863,56 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 925 | Friedrich Nietzsche | On Truth and Lying in a Non-Moral Sense | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_0925.md |
 | 926 | Friedrich Nietzsche | On Truth and Lying in a Non-Moral Sense | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_0926.md |
 | 927 | Friedrich Nietzsche | On Truth and Lying in a Non-Moral Sense | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_0927.md |
+| 928 | Friedrich Nietzsche | The Birth of Tragedy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0928.md |
+| 929 | Friedrich Nietzsche | The Birth of Tragedy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0929.md |
+| 930 | Friedrich Nietzsche | The Birth of Tragedy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0930.md |
+| 931 | Friedrich Nietzsche | The Birth of Tragedy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0931.md |
+| 932 | Friedrich Nietzsche | The Birth of Tragedy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0932.md |
+| 933 | Friedrich Nietzsche | The Birth of Tragedy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0933.md |
+| 934 | Friedrich Nietzsche | The Birth of Tragedy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0934.md |
+| 935 | Friedrich Nietzsche | The Birth of Tragedy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0935.md |
+| 936 | Friedrich Nietzsche | The Birth of Tragedy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0936.md |
+| 937 | Friedrich Nietzsche | The Birth of Tragedy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0937.md |
+| 938 | Friedrich Nietzsche | The Birth of Tragedy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0938.md |
+| 943 | Oscar Wilde | Preface to The Picture of Dorian Gray | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_0943.md |
+| 963 | Sigmund Freud | The Interpretation of Dreams | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0963.md |
+| 964 | Sigmund Freud | The Interpretation of Dreams | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0964.md |
+| 965 | Sigmund Freud | The Interpretation of Dreams | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0965.md |
+| 966 | Sigmund Freud | The Interpretation of Dreams | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0966.md |
+| 967 | Sigmund Freud | The Interpretation of Dreams | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0967.md |
+| 968 | Sigmund Freud | The Interpretation of Dreams | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0968.md |
+| 969 | Sigmund Freud | The Interpretation of Dreams | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0969.md |
+| 970 | Sigmund Freud | The Interpretation of Dreams | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0970.md |
+| 971 | Sigmund Freud | The Interpretation of Dreams | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0971.md |
+| 972 | Sigmund Freud | The Interpretation of Dreams | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0972.md |
+| 973 | Sigmund Freud | The Uncanny | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0973.md |
+| 974 | Sigmund Freud | The Uncanny | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0974.md |
+| 975 | Sigmund Freud | The Uncanny | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0975.md |
+| 976 | Sigmund Freud | The Uncanny | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0976.md |
+| 977 | Sigmund Freud | The Uncanny | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0977.md |
+| 978 | Sigmund Freud | The Uncanny | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0978.md |
+| 979 | Sigmund Freud | The Uncanny | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0979.md |
+| 980 | Sigmund Freud | The Uncanny | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0980.md |
+| 981 | Sigmund Freud | The Uncanny | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0981.md |
+| 982 | Sigmund Freud | The Uncanny | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0982.md |
+| 983 | Sigmund Freud | The Uncanny | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0983.md |
+| 984 | Sigmund Freud | The Uncanny | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0984.md |
+| 985 | Sigmund Freud | The Uncanny | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0985.md |
+| 986 | Sigmund Freud | The Uncanny | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0986.md |
+| 987 | Sigmund Freud | The Uncanny | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0987.md |
+| 988 | Sigmund Freud | The Uncanny | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0988.md |
+| 989 | Sigmund Freud | The Uncanny | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0989.md |
+| 990 | Sigmund Freud | The Uncanny | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0990.md |
+| 991 | Sigmund Freud | The Uncanny | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0991.md |
+| 992 | Sigmund Freud | The Uncanny | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0992.md |
+| 993 | Sigmund Freud | The Uncanny | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0993.md |
+| 994 | Sigmund Freud | The Uncanny | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0994.md |
+| 995 | Sigmund Freud | The Uncanny | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0995.md |
+| 996 | Sigmund Freud | The Uncanny | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0996.md |
+| 997 | Sigmund Freud | Fetishism | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0997.md |
+| 998 | Sigmund Freud | Fetishism | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0998.md |
+| 999 | Sigmund Freud | Fetishism | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0999.md |
+| 1004 | Ferdinand de Saussure | Course in General Linguistics | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1004.md |
+| 1005 | Ferdinand de Saussure | Course in General Linguistics | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1005.md |
+| 1006 | Ferdinand de Saussure | Course in General Linguistics | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1006.md |
+| 1007 | Ferdinand de Saussure | Course in General Linguistics | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1007.md |
