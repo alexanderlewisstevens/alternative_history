@@ -45,6 +45,8 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/jakobson-linguistics-and-poetics/"><strong>Roman Jakobson, Linguistics and Poetics</strong><span>poetics, linguistics, semiotics; pages 1302-1307; 6 review rows</span></a>
   <a href="../norton-texts/jakobson-two-aspects-language-aphasia/"><strong>Roman Jakobson, Two Aspects of Language and Two Types of Aphasic Disturbances</strong><span>metaphor, metonymy, language; pages 1308-1312; 5 review rows</span></a>
   <a href="../norton-texts/hughes-negro-artist-racial-mountain/"><strong>Langston Hughes, The Negro Artist and the Racial Mountain</strong><span>race, art, vernacular; pages 1357-1360; 4 review rows</span></a>
+  <a href="../norton-texts/levi-strauss-tristes-tropiques/"><strong>Claude Levi-Strauss, Tristes Tropiques</strong><span>anthropology, structuralism, writing; pages 1463-1470; 8 review rows</span></a>
+  <a href="../norton-texts/austin-performative-utterances/"><strong>J. L. Austin, Performative Utterances</strong><span>speech-acts, ordinary-language, performativity; pages 1474-1485; 12 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -79,6 +81,8 @@ This is a scaffold for reading the configured texts together. It should become a
 20. [Roman Jakobson, Linguistics and Poetics](norton-texts/jakobson-linguistics-and-poetics.md)
 21. [Roman Jakobson, Two Aspects of Language and Two Types of Aphasic Disturbances](norton-texts/jakobson-two-aspects-language-aphasia.md)
 22. [Langston Hughes, The Negro Artist and the Racial Mountain](norton-texts/hughes-negro-artist-racial-mountain.md)
+23. [Claude Levi-Strauss, Tristes Tropiques](norton-texts/levi-strauss-tristes-tropiques.md)
+24. [J. L. Austin, Performative Utterances](norton-texts/austin-performative-utterances.md)
 
 ## Review Pressure
 
@@ -106,6 +110,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Linguistics and Poetics](norton-texts/jakobson-linguistics-and-poetics.md) | 1302-1307 | 6 | excerpt: 6 |
 | [Two Aspects of Language and Two Types of Aphasic Disturbances](norton-texts/jakobson-two-aspects-language-aphasia.md) | 1308-1312 | 5 | excerpt: 5 |
 | [The Negro Artist and the Racial Mountain](norton-texts/hughes-negro-artist-racial-mountain.md) | 1357-1360 | 4 | excerpt: 3<br>author_intro: 1 |
+| [Tristes Tropiques](norton-texts/levi-strauss-tristes-tropiques.md) | 1463-1470 | 8 | excerpt: 8 |
+| [Performative Utterances](norton-texts/austin-performative-utterances.md) | 1474-1485 | 12 | excerpt: 12 |
 
 ## Passage Queue
 
@@ -159,8 +165,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:45:26Z` |
-| Git commit | `d54dce7` |
+| Generated at | `2026-06-13T05:51:25Z` |
+| Git commit | `1dc0dd5` |
 | Script version | `2` |
 | Output path | `docs/workspace/vernacular-and-institution.md` |
 

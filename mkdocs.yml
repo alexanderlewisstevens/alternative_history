@@ -113,6 +113,11 @@ nav:
           - Poulet, Phenomenology of Reading: workspace/norton-texts/poulet-phenomenology-reading.md
           - Sartre, What Is Literature?: workspace/norton-texts/sartre-what-is-literature.md
           - Brooks, The Well Wrought Urn: workspace/norton-texts/brooks-well-wrought-urn.md
+          - Wimsatt and Beardsley, The Intentional Fallacy: workspace/norton-texts/wimsatt-beardsley-intentional-fallacy.md
+          - Wimsatt and Beardsley, The Affective Fallacy: workspace/norton-texts/wimsatt-beardsley-affective-fallacy.md
+          - Beauvoir, The Second Sex: workspace/norton-texts/beauvoir-second-sex.md
+          - Levi-Strauss, Tristes Tropiques: workspace/norton-texts/levi-strauss-tristes-tropiques.md
+          - Austin, Performative Utterances: workspace/norton-texts/austin-performative-utterances.md
       - Thinker Notes:
           - Index: workspace/thinkers/index.md
           - Gorgias of Leontini: workspace/thinkers/gorgias-of-leontini.md
@@ -192,6 +197,10 @@ nav:
           - Georges Poulet: workspace/thinkers/georges-poulet.md
           - Jean-Paul Sartre: workspace/thinkers/jean-paul-sartre.md
           - Cleanth Brooks: workspace/thinkers/cleanth-brooks.md
+          - William K. Wimsatt Jr. and Monroe C. Beardsley: workspace/thinkers/william-k-wimsatt-jr-and-monroe-c-beardsley.md
+          - Simone de Beauvoir: workspace/thinkers/simone-de-beauvoir.md
+          - Claude Levi-Strauss: workspace/thinkers/claude-levi-strauss.md
+          - J. L. Austin: workspace/thinkers/j-l-austin.md
       - Passage Notes:
           - Index: workspace/passages/index.md
           - Speech As Force: workspace/passages/gorgias-speech-as-force.md

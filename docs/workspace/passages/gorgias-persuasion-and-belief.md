@@ -86,7 +86,7 @@ This passage note should become a bridge between classical rhetoric and the proj
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T05:45:39Z` |
-| Git commit | `d54dce7` |
+| Generated at | `2026-06-13T05:51:53Z` |
+| Git commit | `1dc0dd5` |
 | Script version | `1` |
 | Output path | `docs/workspace/passages/gorgias-persuasion-and-belief.md` |

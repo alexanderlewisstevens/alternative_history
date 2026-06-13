@@ -18,6 +18,7 @@ This private index is generated from curated source metadata and local extractio
 | [Carl Gustav Jung](carl-gustav-jung.md) | 1 | On the Relation of Analytical Psychology to Poetry |
 | [Charles Baudelaire](charles-baudelaire.md) | 1 | The Painter of Modern Life |
 | [Christine de Pizan](christine-de-pizan.md) | 1 | The Book of the City of Ladies |
+| [Claude Levi-Strauss](claude-levi-strauss.md) | 1 | Tristes Tropiques |
 | [Cleanth Brooks](cleanth-brooks.md) | 1 | The Well Wrought Urn |
 | [Dante Alighieri](dante-alighieri.md) | 1 | Il Convivio and The Letter to Can Grande |
 | [David Hume](david-hume.md) | 1 | Of the Standard of Taste |
@@ -44,6 +45,7 @@ This private index is generated from curated source metadata and local extractio
 | [Horace](horace.md) | 1 | Ars Poetica |
 | [Hugh of St. Victor](hugh-of-st-victor.md) | 1 | The Didascalicon |
 | [Immanuel Kant](immanuel-kant.md) | 1 | Critique of Judgment |
+| [J. L. Austin](j-l-austin.md) | 1 | Performative Utterances |
 | [Jacques Lacan](jacques-lacan.md) | 3 | The Mirror Stage as Formative of the Function of the I as Revealed in Psychoanalytic Experience, The Agency of the Letter in the Unconscious, The Signification of the Phallus |
 | [Jean-Paul Sartre](jean-paul-sartre.md) | 1 | What Is Literature? |
 | [Joachim du Bellay](joachim-du-bellay.md) | 1 | The Defence and Illustration of the French Language |
@@ -74,6 +76,7 @@ This private index is generated from curated source metadata and local extractio
 | [Samuel Johnson](samuel-johnson.md) | 1 | Selected Critical Prose |
 | [Samuel Taylor Coleridge](samuel-taylor-coleridge.md) | 1 | The Statesman&#x27;s Manual and Biographia Literaria |
 | [Sigmund Freud](sigmund-freud.md) | 1 | The Interpretation of Dreams, The Uncanny, and Fetishism |
+| [Simone de Beauvoir](simone-de-beauvoir.md) | 1 | The Second Sex |
 | [Sir Philip Sidney](sir-philip-sidney.md) | 1 | The Defense of Poesy |
 | [Stephane Mallarme](stephane-mallarme.md) | 1 | Crisis in Poetry |
 | [T. S. Eliot](t-s-eliot.md) | 2 | Tradition and the Individual Talent, The Metaphysical Poets |
@@ -84,6 +87,7 @@ This private index is generated from curated source metadata and local extractio
 | [Walter Benjamin](walter-benjamin.md) | 1 | The Work of Art in the Age of Mechanical Reproduction |
 | [Walter Pater](walter-pater.md) | 1 | Studies in the History of the Renaissance |
 | [W. E. B. Du Bois](web-du-bois.md) | 1 | Criteria of Negro Art |
+| [William K. Wimsatt Jr. and Monroe C. Beardsley](william-k-wimsatt-jr-and-monroe-c-beardsley.md) | 2 | The Intentional Fallacy, The Affective Fallacy |
 | [William Wordsworth](william-wordsworth.md) | 1 | Preface to Lyrical Ballads |
 | [Zora Neale Hurston](zora-neale-hurston.md) | 2 | Characteristics of Negro Expression, What White Publishers Won&#x27;t Print |
 
@@ -108,7 +112,7 @@ This private index is generated from curated source metadata and local extractio
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
-| Generated at | `2026-06-13T05:45:39Z` |
-| Git commit | `d54dce7` |
+| Generated at | `2026-06-13T05:51:53Z` |
+| Git commit | `1dc0dd5` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/index.md` |

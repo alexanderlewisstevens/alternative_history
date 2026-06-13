@@ -49,7 +49,11 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/burke-kinds-of-criticism/"><strong>Kenneth Burke, Kinds of Criticism</strong><span>rhetoric, criticism, method; pages 1316-1321; 6 review rows</span></a>
   <a href="../norton-texts/lacan-agency-letter/"><strong>Jacques Lacan, The Agency of the Letter in the Unconscious</strong><span>psychoanalysis, language, unconscious; pages 1334-1345; 12 review rows</span></a>
   <a href="../norton-texts/lacan-signification-phallus/"><strong>Jacques Lacan, The Signification of the Phallus</strong><span>psychoanalysis, desire, gender; pages 1346-1354; 9 review rows</span></a>
-  <a href="../norton-texts/brooks-well-wrought-urn/"><strong>Cleanth Brooks, The Well Wrought Urn</strong><span>new-criticism, poetry, irony; pages 1397-1407; 11 review rows</span></a>
+  <a href="../norton-texts/brooks-well-wrought-urn/"><strong>Cleanth Brooks, The Well Wrought Urn</strong><span>new-criticism, poetry, irony; pages 1397-1414; 18 review rows</span></a>
+  <a href="../norton-texts/wimsatt-beardsley-intentional-fallacy/"><strong>William K. Wimsatt Jr. and Monroe C. Beardsley, The Intentional Fallacy</strong><span>intention, authorship, formalism; pages 1418-1430; 13 review rows</span></a>
+  <a href="../norton-texts/wimsatt-beardsley-affective-fallacy/"><strong>William K. Wimsatt Jr. and Monroe C. Beardsley, The Affective Fallacy</strong><span>affect, reader-response, formalism; pages 1431-1446; 16 review rows</span></a>
+  <a href="../norton-texts/levi-strauss-tristes-tropiques/"><strong>Claude Levi-Strauss, Tristes Tropiques</strong><span>anthropology, structuralism, writing; pages 1463-1470; 8 review rows</span></a>
+  <a href="../norton-texts/austin-performative-utterances/"><strong>J. L. Austin, Performative Utterances</strong><span>speech-acts, ordinary-language, performativity; pages 1474-1485; 12 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -89,6 +93,10 @@ This is a scaffold for reading the configured texts together. It should become a
 25. [Jacques Lacan, The Agency of the Letter in the Unconscious](norton-texts/lacan-agency-letter.md)
 26. [Jacques Lacan, The Signification of the Phallus](norton-texts/lacan-signification-phallus.md)
 27. [Cleanth Brooks, The Well Wrought Urn](norton-texts/brooks-well-wrought-urn.md)
+28. [William K. Wimsatt Jr. and Monroe C. Beardsley, The Intentional Fallacy](norton-texts/wimsatt-beardsley-intentional-fallacy.md)
+29. [William K. Wimsatt Jr. and Monroe C. Beardsley, The Affective Fallacy](norton-texts/wimsatt-beardsley-affective-fallacy.md)
+30. [Claude Levi-Strauss, Tristes Tropiques](norton-texts/levi-strauss-tristes-tropiques.md)
+31. [J. L. Austin, Performative Utterances](norton-texts/austin-performative-utterances.md)
 
 ## Review Pressure
 
@@ -120,7 +128,11 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Kinds of Criticism](norton-texts/burke-kinds-of-criticism.md) | 1316-1321 | 6 | excerpt: 6 |
 | [The Agency of the Letter in the Unconscious](norton-texts/lacan-agency-letter.md) | 1334-1345 | 12 | excerpt: 12 |
 | [The Signification of the Phallus](norton-texts/lacan-signification-phallus.md) | 1346-1354 | 9 | excerpt: 9 |
-| [The Well Wrought Urn](norton-texts/brooks-well-wrought-urn.md) | 1397-1407 | 11 | excerpt: 10<br>author_intro: 1 |
+| [The Well Wrought Urn](norton-texts/brooks-well-wrought-urn.md) | 1397-1414 | 18 | excerpt: 17<br>author_intro: 1 |
+| [The Intentional Fallacy](norton-texts/wimsatt-beardsley-intentional-fallacy.md) | 1418-1430 | 13 | excerpt: 13 |
+| [The Affective Fallacy](norton-texts/wimsatt-beardsley-affective-fallacy.md) | 1431-1446 | 16 | excerpt: 16 |
+| [Tristes Tropiques](norton-texts/levi-strauss-tristes-tropiques.md) | 1463-1470 | 8 | excerpt: 8 |
+| [Performative Utterances](norton-texts/austin-performative-utterances.md) | 1474-1485 | 12 | excerpt: 12 |
 
 ## Passage Queue
 
@@ -174,8 +186,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:45:27Z` |
-| Git commit | `d54dce7` |
+| Generated at | `2026-06-13T05:51:26Z` |
+| Git commit | `1dc0dd5` |
 | Script version | `2` |
 | Output path | `docs/workspace/language-truth-and-fiction.md` |
 

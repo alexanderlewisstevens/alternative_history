@@ -10,11 +10,11 @@ This index is generated from curated source metadata and local extraction audit 
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Curated Text Nodes</div>
-  <div class="ah-metric-value">83</div>
+  <div class="ah-metric-value">88</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Assembled Chunks</div>
-  <div class="ah-metric-value">83</div>
+  <div class="ah-metric-value">88</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Constellations</div>
@@ -108,7 +108,12 @@ This index is generated from curated source metadata and local extraction audit 
 | [The Negro Artist and the Racial Mountain](hughes-negro-artist-racial-mountain.md) | Langston Hughes | 1355-1360 | [education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 6 | `edition-review-needed` |
 | [Phenomenology of Reading](poulet-phenomenology-reading.md) | Georges Poulet | 1361-1376 | [signs-and-reading](../signs-and-reading.md) | 0 | 16 | `edition-review-needed` |
 | [What Is Literature?](sartre-what-is-literature.md) | Jean-Paul Sartre | 1377-1393 | [signs-and-reading](../signs-and-reading.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 17 | `edition-review-needed` |
-| [The Well Wrought Urn](brooks-well-wrought-urn.md) | Cleanth Brooks | 1394-1407 | [signs-and-reading](../signs-and-reading.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[media-and-form](../media-and-form.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 14 | `edition-review-needed` |
+| [The Well Wrought Urn](brooks-well-wrought-urn.md) | Cleanth Brooks | 1394-1414 | [signs-and-reading](../signs-and-reading.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[media-and-form](../media-and-form.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 21 | `edition-review-needed` |
+| [The Intentional Fallacy](wimsatt-beardsley-intentional-fallacy.md) | William K. Wimsatt Jr. and Monroe C. Beardsley | 1415-1446 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 32 | `edition-review-needed` |
+| [The Affective Fallacy](wimsatt-beardsley-affective-fallacy.md) | William K. Wimsatt Jr. and Monroe C. Beardsley | 1415-1446 | [commentary-and-afterlife](../commentary-and-afterlife.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[media-and-form](../media-and-form.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 32 | `edition-review-needed` |
+| [The Second Sex](beauvoir-second-sex.md) | Simone de Beauvoir | 1447-1458 | [education-and-civic-life](../education-and-civic-life.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 12 | `edition-review-needed` |
+| [Tristes Tropiques](levi-strauss-tristes-tropiques.md) | Claude Levi-Strauss | 1459-1470 | [signs-and-reading](../signs-and-reading.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[media-and-form](../media-and-form.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 12 | `edition-review-needed` |
+| [Performative Utterances](austin-performative-utterances.md) | J. L. Austin | 1471-1485 | [signs-and-reading](../signs-and-reading.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[media-and-form](../media-and-form.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 15 | `edition-review-needed` |
 
 ## How To Use This Index
 
@@ -135,7 +140,7 @@ This index is generated from curated source metadata and local extraction audit 
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T05:45:43Z` |
-| Git commit | `d54dce7` |
+| Generated at | `2026-06-13T05:51:58Z` |
+| Git commit | `1dc0dd5` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/index.md` |

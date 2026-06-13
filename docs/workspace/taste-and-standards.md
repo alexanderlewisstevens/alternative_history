@@ -53,7 +53,9 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/benjamin-work-of-art-mechanical-reproduction/"><strong>Walter Benjamin, The Work of Art in the Age of Mechanical Reproduction</strong><span>media, technology, aura; pages 1211-1229; 19 review rows</span></a>
   <a href="../norton-texts/wilson-marxism-and-literature/"><strong>Edmund Wilson, Marxism and Literature</strong><span>marxism, literary-criticism, politics; pages 1287-1297; 11 review rows</span></a>
   <a href="../norton-texts/burke-kinds-of-criticism/"><strong>Kenneth Burke, Kinds of Criticism</strong><span>rhetoric, criticism, method; pages 1316-1321; 6 review rows</span></a>
-  <a href="../norton-texts/brooks-well-wrought-urn/"><strong>Cleanth Brooks, The Well Wrought Urn</strong><span>new-criticism, poetry, irony; pages 1397-1407; 11 review rows</span></a>
+  <a href="../norton-texts/brooks-well-wrought-urn/"><strong>Cleanth Brooks, The Well Wrought Urn</strong><span>new-criticism, poetry, irony; pages 1397-1414; 18 review rows</span></a>
+  <a href="../norton-texts/wimsatt-beardsley-intentional-fallacy/"><strong>William K. Wimsatt Jr. and Monroe C. Beardsley, The Intentional Fallacy</strong><span>intention, authorship, formalism; pages 1418-1430; 13 review rows</span></a>
+  <a href="../norton-texts/wimsatt-beardsley-affective-fallacy/"><strong>William K. Wimsatt Jr. and Monroe C. Beardsley, The Affective Fallacy</strong><span>affect, reader-response, formalism; pages 1431-1446; 16 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -97,6 +99,8 @@ This is a scaffold for reading the configured texts together. It should become a
 29. [Edmund Wilson, Marxism and Literature](norton-texts/wilson-marxism-and-literature.md)
 30. [Kenneth Burke, Kinds of Criticism](norton-texts/burke-kinds-of-criticism.md)
 31. [Cleanth Brooks, The Well Wrought Urn](norton-texts/brooks-well-wrought-urn.md)
+32. [William K. Wimsatt Jr. and Monroe C. Beardsley, The Intentional Fallacy](norton-texts/wimsatt-beardsley-intentional-fallacy.md)
+33. [William K. Wimsatt Jr. and Monroe C. Beardsley, The Affective Fallacy](norton-texts/wimsatt-beardsley-affective-fallacy.md)
 
 ## Review Pressure
 
@@ -132,7 +136,9 @@ This is a scaffold for reading the configured texts together. It should become a
 | [The Work of Art in the Age of Mechanical Reproduction](norton-texts/benjamin-work-of-art-mechanical-reproduction.md) | 1211-1229 | 19 | excerpt: 19 |
 | [Marxism and Literature](norton-texts/wilson-marxism-and-literature.md) | 1287-1297 | 11 | excerpt: 11 |
 | [Kinds of Criticism](norton-texts/burke-kinds-of-criticism.md) | 1316-1321 | 6 | excerpt: 6 |
-| [The Well Wrought Urn](norton-texts/brooks-well-wrought-urn.md) | 1397-1407 | 11 | excerpt: 10<br>author_intro: 1 |
+| [The Well Wrought Urn](norton-texts/brooks-well-wrought-urn.md) | 1397-1414 | 18 | excerpt: 17<br>author_intro: 1 |
+| [The Intentional Fallacy](norton-texts/wimsatt-beardsley-intentional-fallacy.md) | 1418-1430 | 13 | excerpt: 13 |
+| [The Affective Fallacy](norton-texts/wimsatt-beardsley-affective-fallacy.md) | 1431-1446 | 16 | excerpt: 16 |
 
 ## Passage Queue
 
@@ -186,8 +192,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:45:26Z` |
-| Git commit | `d54dce7` |
+| Generated at | `2026-06-13T05:51:25Z` |
+| Git commit | `1dc0dd5` |
 | Script version | `2` |
 | Output path | `docs/workspace/taste-and-standards.md` |
 

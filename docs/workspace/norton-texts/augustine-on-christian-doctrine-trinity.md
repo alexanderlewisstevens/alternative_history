@@ -89,8 +89,8 @@ This note turns the current Norton chunk for Augustine of Hippo into a navigable
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/augustine-of-hippo.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T05:45:42Z` |
-| Git commit | `d54dce7` |
+| Generated at | `2026-06-13T05:51:56Z` |
+| Git commit | `1dc0dd5` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/augustine-on-christian-doctrine-trinity.md` |
 

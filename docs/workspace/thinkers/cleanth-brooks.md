@@ -20,7 +20,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [The Well Wrought Urn](../norton-texts/brooks-well-wrought-urn.md) | 1394-1407 | 14 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[media-and-form](../media-and-form.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
+| [The Well Wrought Urn](../norton-texts/brooks-well-wrought-urn.md) | 1394-1414 | 21 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[media-and-form](../media-and-form.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -38,9 +38,9 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Signal | Value |
 | --- | --- |
-| Page kinds | excerpt: 10<br>author_intro: 4 |
-| Review rows | 14 |
-| Review reasons | continues_beyond_current_batch: 10<br>mixed_work_transition_page: 10<br>mixed_bibliography_and_work_title: 4<br>transition_from_previous_author: 4 |
+| Page kinds | excerpt: 17<br>author_intro: 4 |
+| Review rows | 21 |
+| Review reasons | mixed_work_transition_page: 17<br>mixed_bibliography_and_work_title: 4<br>transition_from_previous_author: 4 |
 
 ## Passage Queue
 
@@ -91,8 +91,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T05:45:39Z` |
-| Git commit | `d54dce7` |
+| Generated at | `2026-06-13T05:51:53Z` |
+| Git commit | `1dc0dd5` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/cleanth-brooks.md` |
 

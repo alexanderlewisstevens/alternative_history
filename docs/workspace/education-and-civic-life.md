@@ -56,6 +56,8 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/burke-kinds-of-criticism/"><strong>Kenneth Burke, Kinds of Criticism</strong><span>rhetoric, criticism, method; pages 1316-1321; 6 review rows</span></a>
   <a href="../norton-texts/hughes-negro-artist-racial-mountain/"><strong>Langston Hughes, The Negro Artist and the Racial Mountain</strong><span>race, art, vernacular; pages 1357-1360; 4 review rows</span></a>
   <a href="../norton-texts/sartre-what-is-literature/"><strong>Jean-Paul Sartre, What Is Literature?</strong><span>literature, freedom, responsibility; pages 1380-1393; 14 review rows</span></a>
+  <a href="../norton-texts/wimsatt-beardsley-intentional-fallacy/"><strong>William K. Wimsatt Jr. and Monroe C. Beardsley, The Intentional Fallacy</strong><span>intention, authorship, formalism; pages 1418-1430; 13 review rows</span></a>
+  <a href="../norton-texts/beauvoir-second-sex/"><strong>Simone de Beauvoir, The Second Sex</strong><span>feminism, gender, myth; pages 1450-1458; 9 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -101,6 +103,8 @@ This is a scaffold for reading the configured texts together. It should become a
 31. [Kenneth Burke, Kinds of Criticism](norton-texts/burke-kinds-of-criticism.md)
 32. [Langston Hughes, The Negro Artist and the Racial Mountain](norton-texts/hughes-negro-artist-racial-mountain.md)
 33. [Jean-Paul Sartre, What Is Literature?](norton-texts/sartre-what-is-literature.md)
+34. [William K. Wimsatt Jr. and Monroe C. Beardsley, The Intentional Fallacy](norton-texts/wimsatt-beardsley-intentional-fallacy.md)
+35. [Simone de Beauvoir, The Second Sex](norton-texts/beauvoir-second-sex.md)
 
 ## Review Pressure
 
@@ -139,6 +143,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Kinds of Criticism](norton-texts/burke-kinds-of-criticism.md) | 1316-1321 | 6 | excerpt: 6 |
 | [The Negro Artist and the Racial Mountain](norton-texts/hughes-negro-artist-racial-mountain.md) | 1357-1360 | 4 | excerpt: 3<br>author_intro: 1 |
 | [What Is Literature?](norton-texts/sartre-what-is-literature.md) | 1380-1393 | 14 | excerpt: 14 |
+| [The Intentional Fallacy](norton-texts/wimsatt-beardsley-intentional-fallacy.md) | 1418-1430 | 13 | excerpt: 13 |
+| [The Second Sex](norton-texts/beauvoir-second-sex.md) | 1450-1458 | 9 | excerpt: 9 |
 
 ## Passage Queue
 
@@ -192,8 +198,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:45:26Z` |
-| Git commit | `d54dce7` |
+| Generated at | `2026-06-13T05:51:25Z` |
+| Git commit | `1dc0dd5` |
 | Script version | `2` |
 | Output path | `docs/workspace/education-and-civic-life.md` |
 

@@ -47,7 +47,10 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/lacan-agency-letter/"><strong>Jacques Lacan, The Agency of the Letter in the Unconscious</strong><span>psychoanalysis, language, unconscious; pages 1334-1345; 12 review rows</span></a>
   <a href="../norton-texts/poulet-phenomenology-reading/"><strong>Georges Poulet, Phenomenology of Reading</strong><span>reading, phenomenology, consciousness; pages 1364-1376; 13 review rows</span></a>
   <a href="../norton-texts/sartre-what-is-literature/"><strong>Jean-Paul Sartre, What Is Literature?</strong><span>literature, freedom, responsibility; pages 1380-1393; 14 review rows</span></a>
-  <a href="../norton-texts/brooks-well-wrought-urn/"><strong>Cleanth Brooks, The Well Wrought Urn</strong><span>new-criticism, poetry, irony; pages 1397-1407; 11 review rows</span></a>
+  <a href="../norton-texts/brooks-well-wrought-urn/"><strong>Cleanth Brooks, The Well Wrought Urn</strong><span>new-criticism, poetry, irony; pages 1397-1414; 18 review rows</span></a>
+  <a href="../norton-texts/wimsatt-beardsley-intentional-fallacy/"><strong>William K. Wimsatt Jr. and Monroe C. Beardsley, The Intentional Fallacy</strong><span>intention, authorship, formalism; pages 1418-1430; 13 review rows</span></a>
+  <a href="../norton-texts/levi-strauss-tristes-tropiques/"><strong>Claude Levi-Strauss, Tristes Tropiques</strong><span>anthropology, structuralism, writing; pages 1463-1470; 8 review rows</span></a>
+  <a href="../norton-texts/austin-performative-utterances/"><strong>J. L. Austin, Performative Utterances</strong><span>speech-acts, ordinary-language, performativity; pages 1474-1485; 12 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -85,6 +88,9 @@ This is a scaffold for reading the configured texts together. It should become a
 23. [Georges Poulet, Phenomenology of Reading](norton-texts/poulet-phenomenology-reading.md)
 24. [Jean-Paul Sartre, What Is Literature?](norton-texts/sartre-what-is-literature.md)
 25. [Cleanth Brooks, The Well Wrought Urn](norton-texts/brooks-well-wrought-urn.md)
+26. [William K. Wimsatt Jr. and Monroe C. Beardsley, The Intentional Fallacy](norton-texts/wimsatt-beardsley-intentional-fallacy.md)
+27. [Claude Levi-Strauss, Tristes Tropiques](norton-texts/levi-strauss-tristes-tropiques.md)
+28. [J. L. Austin, Performative Utterances](norton-texts/austin-performative-utterances.md)
 
 ## Review Pressure
 
@@ -114,7 +120,10 @@ This is a scaffold for reading the configured texts together. It should become a
 | [The Agency of the Letter in the Unconscious](norton-texts/lacan-agency-letter.md) | 1334-1345 | 12 | excerpt: 12 |
 | [Phenomenology of Reading](norton-texts/poulet-phenomenology-reading.md) | 1364-1376 | 13 | excerpt: 13 |
 | [What Is Literature?](norton-texts/sartre-what-is-literature.md) | 1380-1393 | 14 | excerpt: 14 |
-| [The Well Wrought Urn](norton-texts/brooks-well-wrought-urn.md) | 1397-1407 | 11 | excerpt: 10<br>author_intro: 1 |
+| [The Well Wrought Urn](norton-texts/brooks-well-wrought-urn.md) | 1397-1414 | 18 | excerpt: 17<br>author_intro: 1 |
+| [The Intentional Fallacy](norton-texts/wimsatt-beardsley-intentional-fallacy.md) | 1418-1430 | 13 | excerpt: 13 |
+| [Tristes Tropiques](norton-texts/levi-strauss-tristes-tropiques.md) | 1463-1470 | 8 | excerpt: 8 |
+| [Performative Utterances](norton-texts/austin-performative-utterances.md) | 1474-1485 | 12 | excerpt: 12 |
 
 ## Passage Queue
 
@@ -168,8 +177,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:45:25Z` |
-| Git commit | `d54dce7` |
+| Generated at | `2026-06-13T05:51:24Z` |
+| Git commit | `1dc0dd5` |
 | Script version | `2` |
 | Output path | `docs/workspace/signs-and-reading.md` |
 

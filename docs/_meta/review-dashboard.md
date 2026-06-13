@@ -5,7 +5,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Boundary Review</div>
-  <div class="ah-metric-value">267</div>
+  <div class="ah-metric-value">282</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Content Separation</div>
@@ -21,7 +21,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">General Review</div>
-  <div class="ah-metric-value">439</div>
+  <div class="ah-metric-value">504</div>
 </div>
 </div>
 
@@ -29,10 +29,10 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 <div class="ah-review-grid">
 <section class="ah-review-card warn">
-  <div class="ah-review-card-kicker">267 pages</div>
+  <div class="ah-review-card-kicker">282 pages</div>
   <h3>Boundary Review</h3>
   <p>Confirm thinker and work boundaries before assembling public-facing drafts.</p>
-  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +255 more</p>
+  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +270 more</p>
 </section>
 <section class="ah-review-card warn">
   <div class="ah-review-card-kicker">9 pages</div>
@@ -53,10 +53,10 @@ This is the editorial queue for restricted extraction work. It is generated from
   <p><strong>Start:</strong> <code>74</code>, <code>98</code>, <code>99</code>, <code>126</code>, <code>185</code>, <code>190</code>, <code>191</code>, <code>192</code>, <code>194</code>, <code>204</code>, <code>213</code>, <code>218</code> +57 more</p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">439 pages</div>
+  <div class="ah-review-card-kicker">504 pages</div>
   <h3>General Review</h3>
   <p>Resolve remaining template or classification questions.</p>
-  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +427 more</p>
+  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +492 more</p>
 </section>
 </div>
 
@@ -72,11 +72,11 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Field | Value |
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
-| Classified source pages | `71-1407` |
-| Review queue rows | `1118` |
+| Classified source pages | `71-1487` |
+| Review queue rows | `1198` |
 | Review queue file | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
-| Generated at | `2026-06-13T05:45:38Z` |
-| Git commit | `d54dce7` |
+| Generated at | `2026-06-13T05:51:52Z` |
+| Git commit | `1dc0dd5` |
 | Script version | `1` |
 | Output path | `docs/_meta/review-dashboard.md` |
 
@@ -84,16 +84,16 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 | Reason | Pages |
 | --- | ---: |
-| mixed_work_transition_page | 409 |
+| mixed_work_transition_page | 474 |
 | multi_column_layout | 347 |
 | source_notes_detected | 306 |
-| transition_from_previous_author | 246 |
-| mixed_bibliography_and_work_title | 139 |
+| transition_from_previous_author | 261 |
+| mixed_bibliography_and_work_title | 152 |
 | mixed_transition_page | 68 |
 | layout_review_required | 23 |
 | author_boundary_without_life_dates | 19 |
-| continues_beyond_current_batch | 12 |
 | mixed_excerpt_and_bibliography | 9 |
+| continues_beyond_current_batch | 4 |
 | transition_from_previous_work | 2 |
 | ocr_title_cleanup | 2 |
 
@@ -105,6 +105,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Sir Philip Sidney | 39 |
 | Mikhail M. Bakhtin | 34 |
 | Jacques Lacan | 33 |
+| William K. Wimsatt Jr. and Monroe C. Beardsley | 32 |
 | Matthew Arnold | 31 |
 | Plato | 29 |
 | Karl Marx and Friedrich Engels | 29 |
@@ -116,6 +117,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Samuel Johnson | 21 |
 | Ralph Waldo Emerson | 21 |
 | Ferdinand de Saussure | 21 |
+| Cleanth Brooks | 21 |
 | Alexander Pope | 20 |
 | Max Horkheimer and Theodor W. Adorno | 20 |
 | Longinus | 19 |
@@ -131,16 +133,18 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Carl Gustav Jung | 15 |
 | Leon Trotsky | 15 |
 | Roman Jakobson | 15 |
+| J. L. Austin | 15 |
 | Horace | 14 |
 | Immanuel Kant | 14 |
 | Friedrich Schleiermacher | 14 |
 | Thomas Love Peacock | 14 |
 | Edmund Wilson | 14 |
-| Cleanth Brooks | 14 |
 | Samuel Taylor Coleridge | 13 |
 | Virginia Woolf | 13 |
 | John Crowe Ransom | 13 |
 | Geoffrey of Vinsauf | 12 |
+| Simone de Beauvoir | 12 |
+| Claude Levi-Strauss | 12 |
 | Joachim du Bellay | 11 |
 | Pierre Corneille | 11 |
 | Aphra Behn | 11 |
@@ -178,6 +182,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Macrobius | 4 |
 | Gorgias of Leontini | 3 |
 | Christine de Pizan | 3 |
+| Northrop Frye | 2 |
 
 ## Boundary Review
 
@@ -450,6 +455,21 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 1395 | Cleanth Brooks | Cleanthbrooks | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1395.md |
 | 1396 | Cleanth Brooks |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1396.md |
 | 1397 | Cleanth Brooks | The Well Wrought Urn | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1397.md |
+| 1415 | William K. Wimsatt Jr. and Monroe C. Beardsley | From The Well Wrought Urn | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1415.md |
+| 1416 | William K. Wimsatt Jr. and Monroe C. Beardsley |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1416.md |
+| 1417 | William K. Wimsatt Jr. and Monroe C. Beardsley |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1417.md |
+| 1447 | Simone de Beauvoir | The Affective Fallacy | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1447.md |
+| 1448 | Simone de Beauvoir |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1448.md |
+| 1449 | Simone de Beauvoir |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1449.md |
+| 1459 | Claude Levi-Strauss | From The Second Sex | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1459.md |
+| 1460 | Claude Levi-Strauss |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1460.md |
+| 1461 | Claude Levi-Strauss |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1461.md |
+| 1462 | Claude Levi-Strauss | Symbolism to Structuralism: Levi-Strauss in a Literary Tradition (1972). In "The | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1462.md |
+| 1471 | J. L. Austin | From Tristes Tropiques | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1471.md |
+| 1472 | J. L. Austin |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1472.md |
+| 1473 | J. L. Austin | J. L. Austin | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1473.md |
+| 1486 | Northrop Frye | Performative Utterances | continues_beyond_current_batch;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1486.md |
+| 1487 | Northrop Frye |  | continues_beyond_current_batch;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1487.md |
 
 ## Content Separation
 
@@ -1311,13 +1331,78 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 1391 | Jean-Paul Sartre | From What Is Literature? | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1391.md |
 | 1392 | Jean-Paul Sartre | From What Is Literature? | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1392.md |
 | 1393 | Jean-Paul Sartre | From What Is Literature? | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1393.md |
-| 1398 | Cleanth Brooks | From The Well Wrought Urn | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1398.md |
-| 1399 | Cleanth Brooks | From The Well Wrought Urn | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1399.md |
-| 1400 | Cleanth Brooks | From The Well Wrought Urn | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1400.md |
-| 1401 | Cleanth Brooks | From The Well Wrought Urn | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1401.md |
-| 1402 | Cleanth Brooks | From The Well Wrought Urn | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1402.md |
-| 1403 | Cleanth Brooks | From The Well Wrought Urn | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1403.md |
-| 1404 | Cleanth Brooks | From The Well Wrought Urn | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1404.md |
-| 1405 | Cleanth Brooks | From The Well Wrought Urn | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1405.md |
-| 1406 | Cleanth Brooks | From The Well Wrought Urn | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1406.md |
-| 1407 | Cleanth Brooks | From The Well Wrought Urn | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1407.md |
+| 1398 | Cleanth Brooks | From The Well Wrought Urn | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1398.md |
+| 1399 | Cleanth Brooks | From The Well Wrought Urn | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1399.md |
+| 1400 | Cleanth Brooks | From The Well Wrought Urn | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1400.md |
+| 1401 | Cleanth Brooks | From The Well Wrought Urn | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1401.md |
+| 1402 | Cleanth Brooks | From The Well Wrought Urn | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1402.md |
+| 1403 | Cleanth Brooks | From The Well Wrought Urn | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1403.md |
+| 1404 | Cleanth Brooks | From The Well Wrought Urn | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1404.md |
+| 1405 | Cleanth Brooks | From The Well Wrought Urn | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1405.md |
+| 1406 | Cleanth Brooks | From The Well Wrought Urn | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1406.md |
+| 1407 | Cleanth Brooks | From The Well Wrought Urn | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1407.md |
+| 1408 | Cleanth Brooks | From The Well Wrought Urn | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1408.md |
+| 1409 | Cleanth Brooks | From The Well Wrought Urn | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1409.md |
+| 1410 | Cleanth Brooks | From The Well Wrought Urn | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1410.md |
+| 1411 | Cleanth Brooks | From The Well Wrought Urn | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1411.md |
+| 1412 | Cleanth Brooks | From The Well Wrought Urn | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1412.md |
+| 1413 | Cleanth Brooks | From The Well Wrought Urn | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1413.md |
+| 1414 | Cleanth Brooks | From The Well Wrought Urn | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1414.md |
+| 1418 | William K. Wimsatt Jr. and Monroe C. Beardsley | The Intentional Fallacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1418.md |
+| 1419 | William K. Wimsatt Jr. and Monroe C. Beardsley | The Intentional Fallacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1419.md |
+| 1420 | William K. Wimsatt Jr. and Monroe C. Beardsley | The Intentional Fallacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1420.md |
+| 1421 | William K. Wimsatt Jr. and Monroe C. Beardsley | The Intentional Fallacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1421.md |
+| 1422 | William K. Wimsatt Jr. and Monroe C. Beardsley | The Intentional Fallacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1422.md |
+| 1423 | William K. Wimsatt Jr. and Monroe C. Beardsley | The Intentional Fallacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1423.md |
+| 1424 | William K. Wimsatt Jr. and Monroe C. Beardsley | The Intentional Fallacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1424.md |
+| 1425 | William K. Wimsatt Jr. and Monroe C. Beardsley | The Intentional Fallacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1425.md |
+| 1426 | William K. Wimsatt Jr. and Monroe C. Beardsley | The Intentional Fallacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1426.md |
+| 1427 | William K. Wimsatt Jr. and Monroe C. Beardsley | The Intentional Fallacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1427.md |
+| 1428 | William K. Wimsatt Jr. and Monroe C. Beardsley | The Intentional Fallacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1428.md |
+| 1429 | William K. Wimsatt Jr. and Monroe C. Beardsley | The Intentional Fallacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1429.md |
+| 1430 | William K. Wimsatt Jr. and Monroe C. Beardsley | The Intentional Fallacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1430.md |
+| 1431 | William K. Wimsatt Jr. and Monroe C. Beardsley | The Affective Fallacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1431.md |
+| 1432 | William K. Wimsatt Jr. and Monroe C. Beardsley | The Affective Fallacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1432.md |
+| 1433 | William K. Wimsatt Jr. and Monroe C. Beardsley | The Affective Fallacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1433.md |
+| 1434 | William K. Wimsatt Jr. and Monroe C. Beardsley | The Affective Fallacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1434.md |
+| 1435 | William K. Wimsatt Jr. and Monroe C. Beardsley | The Affective Fallacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1435.md |
+| 1436 | William K. Wimsatt Jr. and Monroe C. Beardsley | The Affective Fallacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1436.md |
+| 1437 | William K. Wimsatt Jr. and Monroe C. Beardsley | The Affective Fallacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1437.md |
+| 1438 | William K. Wimsatt Jr. and Monroe C. Beardsley | The Affective Fallacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1438.md |
+| 1439 | William K. Wimsatt Jr. and Monroe C. Beardsley | The Affective Fallacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1439.md |
+| 1440 | William K. Wimsatt Jr. and Monroe C. Beardsley | The Affective Fallacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1440.md |
+| 1441 | William K. Wimsatt Jr. and Monroe C. Beardsley | The Affective Fallacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1441.md |
+| 1442 | William K. Wimsatt Jr. and Monroe C. Beardsley | The Affective Fallacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1442.md |
+| 1443 | William K. Wimsatt Jr. and Monroe C. Beardsley | The Affective Fallacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1443.md |
+| 1444 | William K. Wimsatt Jr. and Monroe C. Beardsley | The Affective Fallacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1444.md |
+| 1445 | William K. Wimsatt Jr. and Monroe C. Beardsley | The Affective Fallacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1445.md |
+| 1446 | William K. Wimsatt Jr. and Monroe C. Beardsley | The Affective Fallacy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1446.md |
+| 1450 | Simone de Beauvoir | From The Second Sex | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1450.md |
+| 1451 | Simone de Beauvoir | From The Second Sex | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1451.md |
+| 1452 | Simone de Beauvoir | From The Second Sex | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1452.md |
+| 1453 | Simone de Beauvoir | From The Second Sex | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1453.md |
+| 1454 | Simone de Beauvoir | From The Second Sex | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1454.md |
+| 1455 | Simone de Beauvoir | From The Second Sex | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1455.md |
+| 1456 | Simone de Beauvoir | From The Second Sex | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1456.md |
+| 1457 | Simone de Beauvoir | From The Second Sex | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1457.md |
+| 1458 | Simone de Beauvoir | From The Second Sex | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1458.md |
+| 1463 | Claude Levi-Strauss | From Tristes Tropiques | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1463.md |
+| 1464 | Claude Levi-Strauss | From Tristes Tropiques | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1464.md |
+| 1465 | Claude Levi-Strauss | From Tristes Tropiques | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1465.md |
+| 1466 | Claude Levi-Strauss | From Tristes Tropiques | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1466.md |
+| 1467 | Claude Levi-Strauss | From Tristes Tropiques | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1467.md |
+| 1468 | Claude Levi-Strauss | From Tristes Tropiques | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1468.md |
+| 1469 | Claude Levi-Strauss | From Tristes Tropiques | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1469.md |
+| 1470 | Claude Levi-Strauss | From Tristes Tropiques | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1470.md |
+| 1474 | J. L. Austin | Performative Utterances | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1474.md |
+| 1475 | J. L. Austin | Performative Utterances | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1475.md |
+| 1476 | J. L. Austin | Performative Utterances | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1476.md |
+| 1477 | J. L. Austin | Performative Utterances | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1477.md |
+| 1478 | J. L. Austin | Performative Utterances | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1478.md |
+| 1479 | J. L. Austin | Performative Utterances | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1479.md |
+| 1480 | J. L. Austin | Performative Utterances | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1480.md |
+| 1481 | J. L. Austin | Performative Utterances | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1481.md |
+| 1482 | J. L. Austin | Performative Utterances | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1482.md |
+| 1483 | J. L. Austin | Performative Utterances | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1483.md |
+| 1484 | J. L. Austin | Performative Utterances | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1484.md |
+| 1485 | J. L. Austin | Performative Utterances | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1485.md |

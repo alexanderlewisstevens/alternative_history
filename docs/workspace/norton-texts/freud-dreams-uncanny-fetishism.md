@@ -98,8 +98,8 @@ This note turns the current Norton chunk for Sigmund Freud into a navigable work
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/sigmund-freud.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T05:45:43Z` |
-| Git commit | `d54dce7` |
+| Generated at | `2026-06-13T05:51:57Z` |
+| Git commit | `1dc0dd5` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/freud-dreams-uncanny-fetishism.md` |
 

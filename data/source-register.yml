@@ -922,6 +922,70 @@ curated_texts:
       - irony
       - paraphrase
     status: edition-review-needed
+  - id: wimsatt-beardsley-intentional-fallacy
+    title: The Intentional Fallacy
+    creator: William K. Wimsatt Jr. and Monroe C. Beardsley
+    extraction_work_titles:
+      - The Intentional Fallacy
+    role: core-text-candidate
+    themes:
+      - intention
+      - authorship
+      - formalism
+      - interpretation
+    status: edition-review-needed
+  - id: wimsatt-beardsley-affective-fallacy
+    title: The Affective Fallacy
+    creator: William K. Wimsatt Jr. and Monroe C. Beardsley
+    extraction_work_titles:
+      - The Affective Fallacy
+    role: core-text-candidate
+    themes:
+      - affect
+      - reader-response
+      - formalism
+      - interpretation
+    status: edition-review-needed
+  - id: beauvoir-second-sex
+    title: The Second Sex
+    creator: Simone de Beauvoir
+    extraction_work_titles:
+      - From The Second Sex
+      - The Second Sex
+    role: core-text-candidate
+    themes:
+      - feminism
+      - gender
+      - myth
+      - freedom
+    status: edition-review-needed
+  - id: levi-strauss-tristes-tropiques
+    title: Tristes Tropiques
+    creator: Claude Levi-Strauss
+    extraction_author_slugs:
+      - claude-levi-strauss
+    extraction_work_titles:
+      - From Tristes Tropiques
+      - Tristes Tropiques
+    role: core-text-candidate
+    themes:
+      - anthropology
+      - structuralism
+      - writing
+      - colonialism
+    status: edition-review-needed
+  - id: austin-performative-utterances
+    title: Performative Utterances
+    creator: J. L. Austin
+    extraction_work_titles:
+      - Performative Utterances
+    role: core-text-candidate
+    themes:
+      - speech-acts
+      - ordinary-language
+      - performativity
+      - philosophy
+    status: edition-review-needed
 
 constellations:
   - id: rhetoric-and-force
@@ -1015,6 +1079,9 @@ constellations:
       - poulet-phenomenology-reading
       - sartre-what-is-literature
       - brooks-well-wrought-urn
+      - wimsatt-beardsley-intentional-fallacy
+      - levi-strauss-tristes-tropiques
+      - austin-performative-utterances
     relations:
       - writing
       - interpretation
@@ -1081,6 +1148,8 @@ constellations:
       - jakobson-linguistics-and-poetics
       - jakobson-two-aspects-language-aphasia
       - burke-kinds-of-criticism
+      - wimsatt-beardsley-intentional-fallacy
+      - wimsatt-beardsley-affective-fallacy
     relations:
       - commentary
       - transmission
@@ -1121,6 +1190,8 @@ constellations:
       - burke-kinds-of-criticism
       - hughes-negro-artist-racial-mountain
       - sartre-what-is-literature
+      - wimsatt-beardsley-intentional-fallacy
+      - beauvoir-second-sex
     relations:
       - pedagogy
       - civic-formation
@@ -1150,6 +1221,8 @@ constellations:
       - jakobson-linguistics-and-poetics
       - jakobson-two-aspects-language-aphasia
       - hughes-negro-artist-racial-mountain
+      - levi-strauss-tristes-tropiques
+      - austin-performative-utterances
     relations:
       - vernacular
       - imitation
@@ -1237,6 +1310,8 @@ constellations:
       - wilson-marxism-and-literature
       - burke-kinds-of-criticism
       - brooks-well-wrought-urn
+      - wimsatt-beardsley-intentional-fallacy
+      - wimsatt-beardsley-affective-fallacy
     relations:
       - taste
       - criticism
@@ -1296,6 +1371,9 @@ constellations:
       - jakobson-two-aspects-language-aphasia
       - lacan-agency-letter
       - brooks-well-wrought-urn
+      - wimsatt-beardsley-affective-fallacy
+      - levi-strauss-tristes-tropiques
+      - austin-performative-utterances
     relations:
       - medium
       - form
@@ -1322,6 +1400,7 @@ constellations:
       - gramsci-formation-intellectuals
       - hughes-negro-artist-racial-mountain
       - sartre-what-is-literature
+      - beauvoir-second-sex
     relations:
       - education
       - freedom
@@ -1394,6 +1473,8 @@ constellations:
       - wilson-marxism-and-literature
       - hughes-negro-artist-racial-mountain
       - sartre-what-is-literature
+      - beauvoir-second-sex
+      - levi-strauss-tristes-tropiques
     relations:
       - labor
       - ideology
@@ -1428,6 +1509,10 @@ constellations:
       - lacan-agency-letter
       - lacan-signification-phallus
       - brooks-well-wrought-urn
+      - wimsatt-beardsley-intentional-fallacy
+      - wimsatt-beardsley-affective-fallacy
+      - levi-strauss-tristes-tropiques
+      - austin-performative-utterances
     relations:
       - language
       - fiction

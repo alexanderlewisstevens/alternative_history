@@ -2502,7 +2502,7 @@ overrides:
       - mixed_bibliography_and_work_title
 
   - id: cleanth-brooks-well-wrought-urn
-    pages: 1398-1407
+    pages: 1398-1415
     author_name: Cleanth Brooks
     author_slug: cleanth-brooks
     work_title: From The Well Wrought Urn
@@ -2514,4 +2514,138 @@ overrides:
     review_required: true
     review_reasons:
       - mixed_work_transition_page
+
+  - id: wimsatt-beardsley-headnote
+    pages: 1415-1418
+    author_name: William K. Wimsatt Jr. and Monroe C. Beardsley
+    author_slug: william-k-wimsatt-jr-and-monroe-c-beardsley
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: wimsatt-beardsley-intentional-fallacy
+    pages: 1418-1431
+    author_name: William K. Wimsatt Jr. and Monroe C. Beardsley
+    author_slug: william-k-wimsatt-jr-and-monroe-c-beardsley
+    work_title: The Intentional Fallacy
+    work_slug: the-intentional-fallacy
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: wimsatt-beardsley-affective-fallacy
+    pages: 1431-1447
+    author_name: William K. Wimsatt Jr. and Monroe C. Beardsley
+    author_slug: william-k-wimsatt-jr-and-monroe-c-beardsley
+    work_title: The Affective Fallacy
+    work_slug: the-affective-fallacy
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: simone-de-beauvoir-headnote
+    pages: 1447-1450
+    author_name: Simone de Beauvoir
+    author_slug: simone-de-beauvoir
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: simone-de-beauvoir-second-sex
+    pages: 1450-1459
+    author_name: Simone de Beauvoir
+    author_slug: simone-de-beauvoir
+    work_title: From The Second Sex
+    work_slug: from-the-second-sex
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: claude-levi-strauss-headnote
+    pages: 1459-1463
+    author_name: Claude Levi-Strauss
+    author_slug: claude-levi-strauss
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: claude-levi-strauss-tristes-tropiques
+    pages: 1463-1471
+    author_name: Claude Levi-Strauss
+    author_slug: claude-levi-strauss
+    work_title: From Tristes Tropiques
+    work_slug: from-tristes-tropiques
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: j-l-austin-headnote
+    pages: 1471-1474
+    author_name: J. L. Austin
+    author_slug: j-l-austin
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: j-l-austin-performative-utterances
+    pages: 1474-1486
+    author_name: J. L. Austin
+    author_slug: j-l-austin
+    work_title: Performative Utterances
+    work_slug: performative-utterances
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: northrop-frye-headnote
+    pages: 1486-1487
+    author_name: Northrop Frye
+    author_slug: northrop-frye
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
       - continues_beyond_current_batch
