@@ -76,6 +76,9 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/ohmann-shaping-of-a-canon/"><strong>Richard Ohmann, The Shaping of a Canon: U.S. Fiction, 1960-1975</strong><span>canon, publishing, institutions; pages 1924-1938; 15 review rows</span></a>
   <a href="../norton-texts/hall-cultural-studies-theoretical-legacies/"><strong>Stuart Hall, Cultural Studies and Its Theoretical Legacies</strong><span>cultural-studies, hegemony, politics; pages 1942-1953; 12 review rows</span></a>
   <a href="../norton-texts/smith-contingencies-of-value/"><strong>Barbara Herrnstein Smith, Contingencies of Value</strong><span>value, taste, contingency; pages 1957-1975; 19 review rows</span></a>
+  <a href="../norton-texts/ngugi-liyong-owuor-anyumba-abolition-english-department/"><strong>Ngugi wa Thiong&#x27;o, Taban Lo Liyong, and Henry Owuor-Anyumba, On the Abolition of the English Department</strong><span>postcolonialism, education, curriculum; pages 2136-2140; 5 review rows</span></a>
+  <a href="../norton-texts/tompkins-me-and-my-shadow/"><strong>Jane Tompkins, Me and My Shadow</strong><span>feminist-criticism, personal-criticism, institutions; pages 2173-2186; 14 review rows</span></a>
+  <a href="../norton-texts/kolodny-dancing-through-the-minefield/"><strong>Annette Kolodny, Dancing through the Minefield</strong><span>feminist-criticism, canon, interpretation; pages 2190-2207; 18 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -141,6 +144,9 @@ This is a scaffold for reading the configured texts together. It should become a
 51. [Richard Ohmann, The Shaping of a Canon: U.S. Fiction, 1960-1975](norton-texts/ohmann-shaping-of-a-canon.md)
 52. [Stuart Hall, Cultural Studies and Its Theoretical Legacies](norton-texts/hall-cultural-studies-theoretical-legacies.md)
 53. [Barbara Herrnstein Smith, Contingencies of Value](norton-texts/smith-contingencies-of-value.md)
+54. [Ngugi wa Thiong&#x27;o, Taban Lo Liyong, and Henry Owuor-Anyumba, On the Abolition of the English Department](norton-texts/ngugi-liyong-owuor-anyumba-abolition-english-department.md)
+55. [Jane Tompkins, Me and My Shadow](norton-texts/tompkins-me-and-my-shadow.md)
+56. [Annette Kolodny, Dancing through the Minefield](norton-texts/kolodny-dancing-through-the-minefield.md)
 
 ## Review Pressure
 
@@ -199,6 +205,9 @@ This is a scaffold for reading the configured texts together. It should become a
 | [The Shaping of a Canon: U.S. Fiction, 1960-1975](norton-texts/ohmann-shaping-of-a-canon.md) | 1924-1938 | 15 | excerpt: 15 |
 | [Cultural Studies and Its Theoretical Legacies](norton-texts/hall-cultural-studies-theoretical-legacies.md) | 1942-1953 | 12 | excerpt: 12 |
 | [Contingencies of Value](norton-texts/smith-contingencies-of-value.md) | 1957-1975 | 19 | excerpt: 19 |
+| [On the Abolition of the English Department](norton-texts/ngugi-liyong-owuor-anyumba-abolition-english-department.md) | 2136-2140 | 5 | excerpt: 5 |
+| [Me and My Shadow](norton-texts/tompkins-me-and-my-shadow.md) | 2173-2186 | 14 | excerpt: 14 |
+| [Dancing through the Minefield](norton-texts/kolodny-dancing-through-the-minefield.md) | 2190-2207 | 18 | excerpt: 18 |
 
 ## Passage Queue
 
@@ -252,8 +261,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T06:43:07Z` |
-| Git commit | `1be04e7` |
+| Generated at | `2026-06-13T06:51:19Z` |
+| Git commit | `9ddb58b` |
 | Script version | `2` |
 | Output path | `docs/workspace/education-and-civic-life.md` |
 

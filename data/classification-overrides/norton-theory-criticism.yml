@@ -3656,11 +3656,151 @@ overrides:
       - mixed_bibliography_and_work_title
 
   - id: stanley-e-fish-interpreting-the-variorum
-    pages: 2115-2127
+    pages: 2115-2133
     author_name: Stanley E. Fish
     author_slug: stanley-e-fish
     work_title: Interpreting the Variorum
     work_slug: interpreting-the-variorum
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: ngugi-liyong-owuor-anyumba-headnote
+    pages: 2133-2136
+    author_name: Ngugi wa Thiong'o, Taban Lo Liyong, and Henry Owuor-Anyumba
+    author_slug: ngugi-liyong-and-owuor-anyumba
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: ngugi-liyong-owuor-anyumba-abolition-english-department
+    pages: 2136-2141
+    author_name: Ngugi wa Thiong'o, Taban Lo Liyong, and Henry Owuor-Anyumba
+    author_slug: ngugi-liyong-and-owuor-anyumba
+    work_title: On the Abolition of the English Department
+    work_slug: abolition-english-department
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: tzvetan-todorov-headnote
+    pages: 2141-2143
+    author_name: Tzvetan Todorov
+    author_slug: tzvetan-todorov
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: tzvetan-todorov-structural-analysis-narrative
+    pages: 2143-2163
+    author_name: Tzvetan Todorov
+    author_slug: tzvetan-todorov
+    work_title: Structural Analysis of Narrative
+    work_slug: structural-analysis-narrative
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: paula-gunn-allen-headnote
+    pages: 2163-2165
+    author_name: Paula Gunn Allen
+    author_slug: paula-gunn-allen
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: paula-gunn-allen-kochinnenako-in-academe
+    pages: 2165-2170
+    author_name: Paula Gunn Allen
+    author_slug: paula-gunn-allen
+    work_title: Kochinnenako in Academe
+    work_slug: kochinnenako-in-academe
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: jane-tompkins-headnote
+    pages: 2170-2173
+    author_name: Jane Tompkins
+    author_slug: jane-tompkins
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: jane-tompkins-me-and-my-shadow
+    pages: 2173-2187
+    author_name: Jane Tompkins
+    author_slug: jane-tompkins
+    work_title: Me and My Shadow
+    work_slug: me-and-my-shadow
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: annette-kolodny-headnote
+    pages: 2187-2190
+    author_name: Annette Kolodny
+    author_slug: annette-kolodny
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: annette-kolodny-dancing-through-the-minefield
+    pages: 2190-2207
+    author_name: Annette Kolodny
+    author_slug: annette-kolodny
+    work_title: Dancing through the Minefield
+    work_slug: dancing-through-the-minefield
     page_kind: excerpt
     starts_new_author: false
     continues_previous_author: true

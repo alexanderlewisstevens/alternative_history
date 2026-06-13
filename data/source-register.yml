@@ -1528,6 +1528,68 @@ curated_texts:
       - institutions
       - pragmatism
     status: edition-review-needed
+  - id: ngugi-liyong-owuor-anyumba-abolition-english-department
+    title: On the Abolition of the English Department
+    creator: Ngugi wa Thiong'o, Taban Lo Liyong, and Henry Owuor-Anyumba
+    extraction_author_slugs:
+      - ngugi-liyong-and-owuor-anyumba
+    extraction_work_titles:
+      - On the Abolition of the English Department
+    role: core-text-candidate
+    themes:
+      - postcolonialism
+      - education
+      - curriculum
+      - language
+    status: edition-review-needed
+  - id: todorov-structural-analysis-narrative
+    title: Structural Analysis of Narrative
+    creator: Tzvetan Todorov
+    extraction_work_titles:
+      - Structural Analysis of Narrative
+    role: core-text-candidate
+    themes:
+      - structuralism
+      - narratology
+      - poetics
+      - method
+    status: edition-review-needed
+  - id: allen-kochinnenako-in-academe
+    title: Kochinnenako in Academe
+    creator: Paula Gunn Allen
+    extraction_work_titles:
+      - Kochinnenako in Academe
+    role: core-text-candidate
+    themes:
+      - native-studies
+      - feminism
+      - oral-tradition
+      - interpretation
+    status: edition-review-needed
+  - id: tompkins-me-and-my-shadow
+    title: Me and My Shadow
+    creator: Jane Tompkins
+    extraction_work_titles:
+      - Me and My Shadow
+    role: core-text-candidate
+    themes:
+      - feminist-criticism
+      - personal-criticism
+      - institutions
+      - theory
+    status: edition-review-needed
+  - id: kolodny-dancing-through-the-minefield
+    title: Dancing through the Minefield
+    creator: Annette Kolodny
+    extraction_work_titles:
+      - Dancing through the Minefield
+    role: core-text-candidate
+    themes:
+      - feminist-criticism
+      - canon
+      - interpretation
+      - ideology
+    status: edition-review-needed
 
 constellations:
   - id: rhetoric-and-force
@@ -1648,6 +1710,10 @@ constellations:
       - cixous-laugh-of-the-medusa
       - graff-taking-cover-in-coverage
       - fish-interpreting-the-variorum
+      - todorov-structural-analysis-narrative
+      - allen-kochinnenako-in-academe
+      - tompkins-me-and-my-shadow
+      - kolodny-dancing-through-the-minefield
     relations:
       - writing
       - interpretation
@@ -1745,6 +1811,10 @@ constellations:
       - gilbert-gubar-madwoman-in-the-attic
       - cixous-laugh-of-the-medusa
       - fish-interpreting-the-variorum
+      - todorov-structural-analysis-narrative
+      - allen-kochinnenako-in-academe
+      - tompkins-me-and-my-shadow
+      - kolodny-dancing-through-the-minefield
     relations:
       - commentary
       - transmission
@@ -1805,6 +1875,9 @@ constellations:
       - ohmann-shaping-of-a-canon
       - hall-cultural-studies-theoretical-legacies
       - smith-contingencies-of-value
+      - ngugi-liyong-owuor-anyumba-abolition-english-department
+      - tompkins-me-and-my-shadow
+      - kolodny-dancing-through-the-minefield
     relations:
       - pedagogy
       - civic-formation
@@ -1852,6 +1925,8 @@ constellations:
       - derrida-of-grammatology
       - vizenor-postindian-warriors
       - said-orientalism
+      - ngugi-liyong-owuor-anyumba-abolition-english-department
+      - todorov-structural-analysis-narrative
     relations:
       - vernacular
       - imitation
@@ -1917,6 +1992,9 @@ constellations:
       - derrida-platos-pharmacy
       - ohmann-shaping-of-a-canon
       - smith-contingencies-of-value
+      - allen-kochinnenako-in-academe
+      - tompkins-me-and-my-shadow
+      - kolodny-dancing-through-the-minefield
     relations:
       - authorship
       - gender
@@ -1968,6 +2046,8 @@ constellations:
       - ohmann-shaping-of-a-canon
       - smith-contingencies-of-value
       - jameson-postmodernism-consumer-society
+      - tompkins-me-and-my-shadow
+      - kolodny-dancing-through-the-minefield
     relations:
       - taste
       - criticism
@@ -2092,6 +2172,9 @@ constellations:
       - said-orientalism
       - wittig-one-is-not-born-a-woman
       - graff-taking-cover-in-coverage
+      - ngugi-liyong-owuor-anyumba-abolition-english-department
+      - tompkins-me-and-my-shadow
+      - kolodny-dancing-through-the-minefield
       - fish-interpreting-the-variorum
     relations:
       - education
@@ -2264,6 +2347,8 @@ constellations:
       - said-orientalism
       - cixous-laugh-of-the-medusa
       - fish-interpreting-the-variorum
+      - todorov-structural-analysis-narrative
+      - allen-kochinnenako-in-academe
     relations:
       - language
       - fiction

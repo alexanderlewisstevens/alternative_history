@@ -89,8 +89,8 @@ This note turns the current Norton chunk for Irving Howe into a navigable worksp
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/irving-howe.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T06:43:24Z` |
-| Git commit | `1be04e7` |
+| Generated at | `2026-06-13T06:52:12Z` |
+| Git commit | `9ddb58b` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/howe-history-novel.md` |
 

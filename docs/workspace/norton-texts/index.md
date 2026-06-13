@@ -10,11 +10,11 @@ This index is generated from curated source metadata and local extraction audit 
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Curated Text Nodes</div>
-  <div class="ah-metric-value">131</div>
+  <div class="ah-metric-value">136</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Assembled Chunks</div>
-  <div class="ah-metric-value">131</div>
+  <div class="ah-metric-value">136</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Constellations</div>
@@ -156,7 +156,12 @@ This index is generated from curated source metadata and local extraction audit 
 | [The Madwoman in the Attic](gilbert-gubar-madwoman-in-the-attic.md) | Sandra M. Gilbert and Susan Gubar | 2067-2078 | [commentary-and-afterlife](../commentary-and-afterlife.md) | 0 | 12 | `edition-review-needed` |
 | [The Laugh of the Medusa](cixous-laugh-of-the-medusa.md) | Helene Cixous | 2083-2099 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 17 | `edition-review-needed` |
 | [Taking Cover in Coverage](graff-taking-cover-in-coverage.md) | Gerald Graff | 2103-2110 | [signs-and-reading](../signs-and-reading.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 8 | `edition-review-needed` |
-| [Interpreting the Variorum](fish-interpreting-the-variorum.md) | Stanley E. Fish | 2115-2127 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 13 | `edition-review-needed` |
+| [Interpreting the Variorum](fish-interpreting-the-variorum.md) | Stanley E. Fish | 2115-2132 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 18 | `edition-review-needed` |
+| [On the Abolition of the English Department](ngugi-liyong-owuor-anyumba-abolition-english-department.md) | Ngugi wa Thiong&#x27;o, Taban Lo Liyong, and Henry Owuor-Anyumba | 2136-2140 | [education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md) | 0 | 5 | `edition-review-needed` |
+| [Structural Analysis of Narrative](todorov-structural-analysis-narrative.md) | Tzvetan Todorov | 2143-2162 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 20 | `edition-review-needed` |
+| [Kochinnenako in Academe](allen-kochinnenako-in-academe.md) | Paula Gunn Allen | 2165-2169 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 5 | `edition-review-needed` |
+| [Me and My Shadow](tompkins-me-and-my-shadow.md) | Jane Tompkins | 2173-2186 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md) | 0 | 14 | `edition-review-needed` |
+| [Dancing through the Minefield](kolodny-dancing-through-the-minefield.md) | Annette Kolodny | 2190-2207 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md) | 0 | 18 | `edition-review-needed` |
 
 ## How To Use This Index
 
@@ -183,7 +188,7 @@ This index is generated from curated source metadata and local extraction audit 
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T06:43:25Z` |
-| Git commit | `1be04e7` |
+| Generated at | `2026-06-13T06:52:14Z` |
+| Git commit | `9ddb58b` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/index.md` |

@@ -94,8 +94,8 @@ This note turns the current Norton chunk for Michel Foucault into a navigable wo
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/michel-foucault.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T06:43:25Z` |
-| Git commit | `1be04e7` |
+| Generated at | `2026-06-13T06:52:13Z` |
+| Git commit | `9ddb58b` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/foucault-truth-and-power.md` |
 

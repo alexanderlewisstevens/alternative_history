@@ -11,6 +11,7 @@ This private index is generated from curated source metadata and local extractio
 | --- | ---: | --- |
 | [Adrienne Rich](adrienne-rich.md) | 1 | Compulsory Heterosexuality and Lesbian Existence |
 | [Alexander Pope](alexander-pope.md) | 1 | An Essay on Criticism |
+| [Annette Kolodny](annette-kolodny.md) | 1 | Dancing through the Minefield |
 | [Antonio Gramsci](antonio-gramsci.md) | 1 | The Formation of the Intellectuals |
 | [Aphra Behn](aphra-behn.md) | 1 | The Dutch Lover and Preface to The Lucky Chance |
 | [Aristotle](aristotle.md) | 1 | Poetics and Rhetoric |
@@ -63,6 +64,7 @@ This private index is generated from curated source metadata and local extractio
 | [J. L. Austin](j-l-austin.md) | 1 | Performative Utterances |
 | [Jacques Derrida](jacques-derrida.md) | 2 | Of Grammatology, Dissemination / Plato&#x27;s Pharmacy |
 | [Jacques Lacan](jacques-lacan.md) | 3 | The Mirror Stage as Formative of the Function of the I as Revealed in Psychoanalytic Experience, The Agency of the Letter in the Unconscious, The Signification of the Phallus |
+| [Jane Tompkins](jane-tompkins.md) | 1 | Me and My Shadow |
 | [Jean Baudrillard](jean-baudrillard.md) | 1 | The Precession of Simulacra |
 | [Jean-Francois Lyotard](jean-francois-lyotard.md) | 1 | Defining the Postmodern |
 | [Jean-Paul Sartre](jean-paul-sartre.md) | 1 | What Is Literature? |
@@ -86,9 +88,11 @@ This private index is generated from curated source metadata and local extractio
 | [Mikhail M. Bakhtin](mikhail-bakhtin.md) | 1 | Discourse in the Novel |
 | [Monique Wittig](monique-wittig.md) | 1 | One Is Not Born a Woman |
 | [Moses Maimonides](moses-maimonides.md) | 1 | The Guide of the Perplexed |
+| [Ngugi wa Thiong&#x27;o, Taban Lo Liyong, and Henry Owuor-Anyumba](ngugi-liyong-and-owuor-anyumba.md) | 1 | On the Abolition of the English Department |
 | [Northrop Frye](northrop-frye.md) | 1 | The Archetypes of Literature |
 | [Oscar Wilde](oscar-wilde.md) | 1 | Preface to The Picture of Dorian Gray and The Critic as Artist |
 | [Paul de Man](paul-de-man.md) | 2 | Semiology and Rhetoric, The Return to Philology |
+| [Paula Gunn Allen](paula-gunn-allen.md) | 1 | Kochinnenako in Academe |
 | [Percy Bysshe Shelley](percy-bysshe-shelley.md) | 1 | A Defence of Poetry |
 | [Pierre Bourdieu](pierre-bourdieu.md) | 1 | Distinction |
 | [Pierre Corneille](pierre-corneille.md) | 1 | Of the Three Unities of Action, Time, and Place |
@@ -114,6 +118,7 @@ This private index is generated from curated source metadata and local extractio
 | [Theophile Gautier](theophile-gautier.md) | 1 | Preface to Mademoiselle de Maupin |
 | [Thomas Aquinas](thomas-aquinas.md) | 1 | Summa Theologica |
 | [Thomas Love Peacock](thomas-love-peacock.md) | 1 | The Four Ages of Poetry |
+| [Tzvetan Todorov](tzvetan-todorov.md) | 1 | Structural Analysis of Narrative |
 | [Virginia Woolf](virginia-woolf.md) | 1 | A Room of One&#x27;s Own |
 | [Walter Benjamin](walter-benjamin.md) | 1 | The Work of Art in the Age of Mechanical Reproduction |
 | [Walter Pater](walter-pater.md) | 1 | Studies in the History of the Renaissance |
@@ -144,7 +149,7 @@ This private index is generated from curated source metadata and local extractio
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
-| Generated at | `2026-06-13T06:43:18Z` |
-| Git commit | `1be04e7` |
+| Generated at | `2026-06-13T06:52:05Z` |
+| Git commit | `9ddb58b` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/index.md` |

@@ -91,8 +91,8 @@ This note turns the current Norton chunk for Longinus into a navigable workspace
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/longinus.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T06:43:22Z` |
-| Git commit | `1be04e7` |
+| Generated at | `2026-06-13T06:52:10Z` |
+| Git commit | `9ddb58b` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/longinus-on-sublimity.md` |
 

@@ -63,6 +63,8 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/derrida-of-grammatology/"><strong>Jacques Derrida, Of Grammatology</strong><span>writing, logocentrism, deconstruction; pages 1866-1873; 8 review rows</span></a>
   <a href="../norton-texts/vizenor-postindian-warriors/"><strong>Gerald Vizenor, Postindian Warriors</strong><span>survivance, simulation, native-studies; pages 2021-2029; 9 review rows</span></a>
   <a href="../norton-texts/said-orientalism/"><strong>Edward W. Said, Orientalism</strong><span>orientalism, imperialism, postcolonialism; pages 2035-2055; 21 review rows</span></a>
+  <a href="../norton-texts/ngugi-liyong-owuor-anyumba-abolition-english-department/"><strong>Ngugi wa Thiong&#x27;o, Taban Lo Liyong, and Henry Owuor-Anyumba, On the Abolition of the English Department</strong><span>postcolonialism, education, curriculum; pages 2136-2140; 5 review rows</span></a>
+  <a href="../norton-texts/todorov-structural-analysis-narrative/"><strong>Tzvetan Todorov, Structural Analysis of Narrative</strong><span>structuralism, narratology, poetics; pages 2143-2162; 20 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -115,6 +117,8 @@ This is a scaffold for reading the configured texts together. It should become a
 38. [Jacques Derrida, Of Grammatology](norton-texts/derrida-of-grammatology.md)
 39. [Gerald Vizenor, Postindian Warriors](norton-texts/vizenor-postindian-warriors.md)
 40. [Edward W. Said, Orientalism](norton-texts/said-orientalism.md)
+41. [Ngugi wa Thiong&#x27;o, Taban Lo Liyong, and Henry Owuor-Anyumba, On the Abolition of the English Department](norton-texts/ngugi-liyong-owuor-anyumba-abolition-english-department.md)
+42. [Tzvetan Todorov, Structural Analysis of Narrative](norton-texts/todorov-structural-analysis-narrative.md)
 
 ## Review Pressure
 
@@ -160,6 +164,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Of Grammatology](norton-texts/derrida-of-grammatology.md) | 1866-1873 | 8 | excerpt: 8 |
 | [Postindian Warriors](norton-texts/vizenor-postindian-warriors.md) | 2021-2029 | 9 | excerpt: 9 |
 | [Orientalism](norton-texts/said-orientalism.md) | 2035-2055 | 21 | excerpt: 21 |
+| [On the Abolition of the English Department](norton-texts/ngugi-liyong-owuor-anyumba-abolition-english-department.md) | 2136-2140 | 5 | excerpt: 5 |
+| [Structural Analysis of Narrative](norton-texts/todorov-structural-analysis-narrative.md) | 2143-2162 | 20 | excerpt: 20 |
 
 ## Passage Queue
 
@@ -213,8 +219,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T06:43:07Z` |
-| Git commit | `1be04e7` |
+| Generated at | `2026-06-13T06:51:20Z` |
+| Git commit | `9ddb58b` |
 | Script version | `2` |
 | Output path | `docs/workspace/vernacular-and-institution.md` |
 

@@ -82,7 +82,9 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/vizenor-postindian-warriors/"><strong>Gerald Vizenor, Postindian Warriors</strong><span>survivance, simulation, native-studies; pages 2021-2029; 9 review rows</span></a>
   <a href="../norton-texts/said-orientalism/"><strong>Edward W. Said, Orientalism</strong><span>orientalism, imperialism, postcolonialism; pages 2035-2055; 21 review rows</span></a>
   <a href="../norton-texts/cixous-laugh-of-the-medusa/"><strong>Helene Cixous, The Laugh of the Medusa</strong><span>ecriture-feminine, writing, feminism; pages 2083-2099; 17 review rows</span></a>
-  <a href="../norton-texts/fish-interpreting-the-variorum/"><strong>Stanley E. Fish, Interpreting the Variorum</strong><span>reader-response, interpretation, institutions; pages 2115-2127; 13 review rows</span></a>
+  <a href="../norton-texts/fish-interpreting-the-variorum/"><strong>Stanley E. Fish, Interpreting the Variorum</strong><span>reader-response, interpretation, institutions; pages 2115-2132; 18 review rows</span></a>
+  <a href="../norton-texts/todorov-structural-analysis-narrative/"><strong>Tzvetan Todorov, Structural Analysis of Narrative</strong><span>structuralism, narratology, poetics; pages 2143-2162; 20 review rows</span></a>
+  <a href="../norton-texts/allen-kochinnenako-in-academe/"><strong>Paula Gunn Allen, Kochinnenako in Academe</strong><span>native-studies, feminism, oral-tradition; pages 2165-2169; 5 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -155,6 +157,8 @@ This is a scaffold for reading the configured texts together. It should become a
 58. [Edward W. Said, Orientalism](norton-texts/said-orientalism.md)
 59. [Helene Cixous, The Laugh of the Medusa](norton-texts/cixous-laugh-of-the-medusa.md)
 60. [Stanley E. Fish, Interpreting the Variorum](norton-texts/fish-interpreting-the-variorum.md)
+61. [Tzvetan Todorov, Structural Analysis of Narrative](norton-texts/todorov-structural-analysis-narrative.md)
+62. [Paula Gunn Allen, Kochinnenako in Academe](norton-texts/allen-kochinnenako-in-academe.md)
 
 ## Review Pressure
 
@@ -219,7 +223,9 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Postindian Warriors](norton-texts/vizenor-postindian-warriors.md) | 2021-2029 | 9 | excerpt: 9 |
 | [Orientalism](norton-texts/said-orientalism.md) | 2035-2055 | 21 | excerpt: 21 |
 | [The Laugh of the Medusa](norton-texts/cixous-laugh-of-the-medusa.md) | 2083-2099 | 17 | excerpt: 17 |
-| [Interpreting the Variorum](norton-texts/fish-interpreting-the-variorum.md) | 2115-2127 | 13 | excerpt: 13 |
+| [Interpreting the Variorum](norton-texts/fish-interpreting-the-variorum.md) | 2115-2132 | 18 | excerpt: 18 |
+| [Structural Analysis of Narrative](norton-texts/todorov-structural-analysis-narrative.md) | 2143-2162 | 20 | excerpt: 20 |
+| [Kochinnenako in Academe](norton-texts/allen-kochinnenako-in-academe.md) | 2165-2169 | 5 | excerpt: 5 |
 
 ## Passage Queue
 
@@ -273,8 +279,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T06:43:10Z` |
-| Git commit | `1be04e7` |
+| Generated at | `2026-06-13T06:51:22Z` |
+| Git commit | `9ddb58b` |
 | Script version | `2` |
 | Output path | `docs/workspace/language-truth-and-fiction.md` |
 

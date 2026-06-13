@@ -63,7 +63,10 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/said-orientalism/"><strong>Edward W. Said, Orientalism</strong><span>orientalism, imperialism, postcolonialism; pages 2035-2055; 21 review rows</span></a>
   <a href="../norton-texts/wittig-one-is-not-born-a-woman/"><strong>Monique Wittig, One Is Not Born a Woman</strong><span>feminism, lesbian-theory, gender; pages 2058-2063; 6 review rows</span></a>
   <a href="../norton-texts/graff-taking-cover-in-coverage/"><strong>Gerald Graff, Taking Cover in Coverage</strong><span>pedagogy, institutions, literary-studies; pages 2103-2110; 8 review rows</span></a>
-  <a href="../norton-texts/fish-interpreting-the-variorum/"><strong>Stanley E. Fish, Interpreting the Variorum</strong><span>reader-response, interpretation, institutions; pages 2115-2127; 13 review rows</span></a>
+  <a href="../norton-texts/ngugi-liyong-owuor-anyumba-abolition-english-department/"><strong>Ngugi wa Thiong&#x27;o, Taban Lo Liyong, and Henry Owuor-Anyumba, On the Abolition of the English Department</strong><span>postcolonialism, education, curriculum; pages 2136-2140; 5 review rows</span></a>
+  <a href="../norton-texts/tompkins-me-and-my-shadow/"><strong>Jane Tompkins, Me and My Shadow</strong><span>feminist-criticism, personal-criticism, institutions; pages 2173-2186; 14 review rows</span></a>
+  <a href="../norton-texts/kolodny-dancing-through-the-minefield/"><strong>Annette Kolodny, Dancing through the Minefield</strong><span>feminist-criticism, canon, interpretation; pages 2190-2207; 18 review rows</span></a>
+  <a href="../norton-texts/fish-interpreting-the-variorum/"><strong>Stanley E. Fish, Interpreting the Variorum</strong><span>reader-response, interpretation, institutions; pages 2115-2132; 18 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -116,7 +119,10 @@ This is a scaffold for reading the configured texts together. It should become a
 38. [Edward W. Said, Orientalism](norton-texts/said-orientalism.md)
 39. [Monique Wittig, One Is Not Born a Woman](norton-texts/wittig-one-is-not-born-a-woman.md)
 40. [Gerald Graff, Taking Cover in Coverage](norton-texts/graff-taking-cover-in-coverage.md)
-41. [Stanley E. Fish, Interpreting the Variorum](norton-texts/fish-interpreting-the-variorum.md)
+41. [Ngugi wa Thiong&#x27;o, Taban Lo Liyong, and Henry Owuor-Anyumba, On the Abolition of the English Department](norton-texts/ngugi-liyong-owuor-anyumba-abolition-english-department.md)
+42. [Jane Tompkins, Me and My Shadow](norton-texts/tompkins-me-and-my-shadow.md)
+43. [Annette Kolodny, Dancing through the Minefield](norton-texts/kolodny-dancing-through-the-minefield.md)
+44. [Stanley E. Fish, Interpreting the Variorum](norton-texts/fish-interpreting-the-variorum.md)
 
 ## Review Pressure
 
@@ -162,7 +168,10 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Orientalism](norton-texts/said-orientalism.md) | 2035-2055 | 21 | excerpt: 21 |
 | [One Is Not Born a Woman](norton-texts/wittig-one-is-not-born-a-woman.md) | 2058-2063 | 6 | excerpt: 6 |
 | [Taking Cover in Coverage](norton-texts/graff-taking-cover-in-coverage.md) | 2103-2110 | 8 | excerpt: 8 |
-| [Interpreting the Variorum](norton-texts/fish-interpreting-the-variorum.md) | 2115-2127 | 13 | excerpt: 13 |
+| [On the Abolition of the English Department](norton-texts/ngugi-liyong-owuor-anyumba-abolition-english-department.md) | 2136-2140 | 5 | excerpt: 5 |
+| [Me and My Shadow](norton-texts/tompkins-me-and-my-shadow.md) | 2173-2186 | 14 | excerpt: 14 |
+| [Dancing through the Minefield](norton-texts/kolodny-dancing-through-the-minefield.md) | 2190-2207 | 18 | excerpt: 18 |
+| [Interpreting the Variorum](norton-texts/fish-interpreting-the-variorum.md) | 2115-2132 | 18 | excerpt: 18 |
 
 ## Passage Queue
 
@@ -216,8 +225,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T06:43:09Z` |
-| Git commit | `1be04e7` |
+| Generated at | `2026-06-13T06:51:21Z` |
+| Git commit | `9ddb58b` |
 | Script version | `2` |
 | Output path | `docs/workspace/aesthetic-education-and-citizenship.md` |
 

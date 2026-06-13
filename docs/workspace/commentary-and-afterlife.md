@@ -87,7 +87,11 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/said-orientalism/"><strong>Edward W. Said, Orientalism</strong><span>orientalism, imperialism, postcolonialism; pages 2035-2055; 21 review rows</span></a>
   <a href="../norton-texts/gilbert-gubar-madwoman-in-the-attic/"><strong>Sandra M. Gilbert and Susan Gubar, The Madwoman in the Attic</strong><span>feminist-criticism, authorship, literary-history; pages 2067-2078; 12 review rows</span></a>
   <a href="../norton-texts/cixous-laugh-of-the-medusa/"><strong>Helene Cixous, The Laugh of the Medusa</strong><span>ecriture-feminine, writing, feminism; pages 2083-2099; 17 review rows</span></a>
-  <a href="../norton-texts/fish-interpreting-the-variorum/"><strong>Stanley E. Fish, Interpreting the Variorum</strong><span>reader-response, interpretation, institutions; pages 2115-2127; 13 review rows</span></a>
+  <a href="../norton-texts/fish-interpreting-the-variorum/"><strong>Stanley E. Fish, Interpreting the Variorum</strong><span>reader-response, interpretation, institutions; pages 2115-2132; 18 review rows</span></a>
+  <a href="../norton-texts/todorov-structural-analysis-narrative/"><strong>Tzvetan Todorov, Structural Analysis of Narrative</strong><span>structuralism, narratology, poetics; pages 2143-2162; 20 review rows</span></a>
+  <a href="../norton-texts/allen-kochinnenako-in-academe/"><strong>Paula Gunn Allen, Kochinnenako in Academe</strong><span>native-studies, feminism, oral-tradition; pages 2165-2169; 5 review rows</span></a>
+  <a href="../norton-texts/tompkins-me-and-my-shadow/"><strong>Jane Tompkins, Me and My Shadow</strong><span>feminist-criticism, personal-criticism, institutions; pages 2173-2186; 14 review rows</span></a>
+  <a href="../norton-texts/kolodny-dancing-through-the-minefield/"><strong>Annette Kolodny, Dancing through the Minefield</strong><span>feminist-criticism, canon, interpretation; pages 2190-2207; 18 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -165,6 +169,10 @@ This is a scaffold for reading the configured texts together. It should become a
 63. [Sandra M. Gilbert and Susan Gubar, The Madwoman in the Attic](norton-texts/gilbert-gubar-madwoman-in-the-attic.md)
 64. [Helene Cixous, The Laugh of the Medusa](norton-texts/cixous-laugh-of-the-medusa.md)
 65. [Stanley E. Fish, Interpreting the Variorum](norton-texts/fish-interpreting-the-variorum.md)
+66. [Tzvetan Todorov, Structural Analysis of Narrative](norton-texts/todorov-structural-analysis-narrative.md)
+67. [Paula Gunn Allen, Kochinnenako in Academe](norton-texts/allen-kochinnenako-in-academe.md)
+68. [Jane Tompkins, Me and My Shadow](norton-texts/tompkins-me-and-my-shadow.md)
+69. [Annette Kolodny, Dancing through the Minefield](norton-texts/kolodny-dancing-through-the-minefield.md)
 
 ## Review Pressure
 
@@ -234,7 +242,11 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Orientalism](norton-texts/said-orientalism.md) | 2035-2055 | 21 | excerpt: 21 |
 | [The Madwoman in the Attic](norton-texts/gilbert-gubar-madwoman-in-the-attic.md) | 2067-2078 | 12 | excerpt: 12 |
 | [The Laugh of the Medusa](norton-texts/cixous-laugh-of-the-medusa.md) | 2083-2099 | 17 | excerpt: 17 |
-| [Interpreting the Variorum](norton-texts/fish-interpreting-the-variorum.md) | 2115-2127 | 13 | excerpt: 13 |
+| [Interpreting the Variorum](norton-texts/fish-interpreting-the-variorum.md) | 2115-2132 | 18 | excerpt: 18 |
+| [Structural Analysis of Narrative](norton-texts/todorov-structural-analysis-narrative.md) | 2143-2162 | 20 | excerpt: 20 |
+| [Kochinnenako in Academe](norton-texts/allen-kochinnenako-in-academe.md) | 2165-2169 | 5 | excerpt: 5 |
+| [Me and My Shadow](norton-texts/tompkins-me-and-my-shadow.md) | 2173-2186 | 14 | excerpt: 14 |
+| [Dancing through the Minefield](norton-texts/kolodny-dancing-through-the-minefield.md) | 2190-2207 | 18 | excerpt: 18 |
 
 ## Passage Queue
 
@@ -288,8 +300,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T06:43:06Z` |
-| Git commit | `1be04e7` |
+| Generated at | `2026-06-13T06:51:19Z` |
+| Git commit | `9ddb58b` |
 | Script version | `2` |
 | Output path | `docs/workspace/commentary-and-afterlife.md` |
 

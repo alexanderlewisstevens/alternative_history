@@ -20,7 +20,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [Interpreting the Variorum](../norton-texts/fish-interpreting-the-variorum.md) | 2115-2127 | 13 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
+| [Interpreting the Variorum](../norton-texts/fish-interpreting-the-variorum.md) | 2115-2132 | 18 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -37,9 +37,9 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Signal | Value |
 | --- | --- |
-| Page kinds | excerpt: 13<br>author_intro: 4 |
-| Review rows | 17 |
-| Review reasons | mixed_bibliography_and_work_title: 17<br>continues_beyond_current_batch: 13<br>transition_from_previous_author: 4 |
+| Page kinds | excerpt: 18<br>author_intro: 4 |
+| Review rows | 22 |
+| Review reasons | mixed_bibliography_and_work_title: 22<br>mixed_author_transition_page: 18<br>transition_from_previous_author: 4 |
 
 ## Passage Queue
 
@@ -90,8 +90,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T06:43:20Z` |
-| Git commit | `1be04e7` |
+| Generated at | `2026-06-13T06:52:07Z` |
+| Git commit | `9ddb58b` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/stanley-e-fish.md` |
 

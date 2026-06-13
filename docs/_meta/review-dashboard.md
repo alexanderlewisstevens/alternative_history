@@ -5,7 +5,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Boundary Review</div>
-  <div class="ah-metric-value">395</div>
+  <div class="ah-metric-value">408</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Content Separation</div>
@@ -21,7 +21,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">General Review</div>
-  <div class="ah-metric-value">1005</div>
+  <div class="ah-metric-value">1072</div>
 </div>
 </div>
 
@@ -29,10 +29,10 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 <div class="ah-review-grid">
 <section class="ah-review-card warn">
-  <div class="ah-review-card-kicker">395 pages</div>
+  <div class="ah-review-card-kicker">408 pages</div>
   <h3>Boundary Review</h3>
   <p>Confirm thinker and work boundaries before assembling public-facing drafts.</p>
-  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +383 more</p>
+  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +396 more</p>
 </section>
 <section class="ah-review-card warn">
   <div class="ah-review-card-kicker">9 pages</div>
@@ -53,10 +53,10 @@ This is the editorial queue for restricted extraction work. It is generated from
   <p><strong>Start:</strong> <code>74</code>, <code>98</code>, <code>99</code>, <code>126</code>, <code>185</code>, <code>190</code>, <code>191</code>, <code>192</code>, <code>194</code>, <code>204</code>, <code>213</code>, <code>218</code> +60 more</p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">1005 pages</div>
+  <div class="ah-review-card-kicker">1072 pages</div>
   <h3>General Review</h3>
   <p>Resolve remaining template or classification questions.</p>
-  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +993 more</p>
+  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +1060 more</p>
 </section>
 </div>
 
@@ -72,11 +72,11 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Field | Value |
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
-| Classified source pages | `71-2127` |
-| Review queue rows | `1825` |
+| Classified source pages | `71-2207` |
+| Review queue rows | `1905` |
 | Review queue file | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
-| Generated at | `2026-06-13T06:43:16Z` |
-| Git commit | `1be04e7` |
+| Generated at | `2026-06-13T06:52:04Z` |
+| Git commit | `9ddb58b` |
 | Script version | `1` |
 | Output path | `docs/_meta/review-dashboard.md` |
 
@@ -85,14 +85,14 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Reason | Pages |
 | --- | ---: |
 | mixed_work_transition_page | 658 |
-| mixed_bibliography_and_work_title | 560 |
-| transition_from_previous_author | 373 |
+| mixed_bibliography_and_work_title | 640 |
+| transition_from_previous_author | 386 |
 | multi_column_layout | 357 |
 | source_notes_detected | 314 |
-| mixed_author_transition_page | 234 |
+| mixed_author_transition_page | 296 |
 | mixed_transition_page | 68 |
 | selection_boundary_review | 34 |
-| continues_beyond_current_batch | 27 |
+| continues_beyond_current_batch | 32 |
 | layout_review_required | 23 |
 | author_boundary_without_life_dates | 20 |
 | bibliography_on_previous_page | 15 |
@@ -126,11 +126,14 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Boris Eichenbaum | 22 |
 | Adrienne Rich | 22 |
 | Barbara Herrnstein Smith | 22 |
+| Stanley E. Fish | 22 |
+| Tzvetan Todorov | 22 |
 | Samuel Johnson | 21 |
 | Ralph Waldo Emerson | 21 |
 | Ferdinand de Saussure | 21 |
 | Cleanth Brooks | 21 |
 | Helene Cixous | 21 |
+| Annette Kolodny | 21 |
 | Alexander Pope | 20 |
 | Max Horkheimer and Theodor W. Adorno | 20 |
 | Hayden White | 20 |
@@ -144,7 +147,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | T. S. Eliot | 17 |
 | Zora Neale Hurston | 17 |
 | Jean-Paul Sartre | 17 |
-| Stanley E. Fish | 17 |
+| Jane Tompkins | 17 |
 | Oscar Wilde | 16 |
 | Georges Poulet | 16 |
 | Gilles Deleuze and Felix Guattari | 16 |
@@ -204,9 +207,11 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Walter Pater | 8 |
 | Henry James | 8 |
 | Monique Wittig | 8 |
+| Ngugi wa Thiong'o, Taban Lo Liyong, and Henry Owuor-Anyumba | 8 |
 | Plotinus | 7 |
 | Giambattista Giraldi | 7 |
 | David Hume | 7 |
+| Paula Gunn Allen | 7 |
 | Thomas Aquinas | 6 |
 | Edmund Burke | 6 |
 | Georg Wilhelm Friedrich Hegel | 6 |
@@ -617,6 +622,19 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 2112 | Stanley E. Fish |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2112.md |
 | 2113 | Stanley E. Fish | Stanley E. Fish | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2113.md |
 | 2114 | Stanley E. Fish |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2114.md |
+| 2133 | Ngugi wa Thiong'o, Taban Lo Liyong, and Henry Owuor-Anyumba | Interpreting the Variorum | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2133.md |
+| 2134 | Ngugi wa Thiong'o, Taban Lo Liyong, and Henry Owuor-Anyumba |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2134.md |
+| 2135 | Ngugi wa Thiong'o, Taban Lo Liyong, and Henry Owuor-Anyumba |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2135.md |
+| 2141 | Tzvetan Todorov | On the Abolition of the English Department | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2141.md |
+| 2142 | Tzvetan Todorov |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2142.md |
+| 2163 | Paula Gunn Allen | Structural Analysis of Narrative | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2163.md |
+| 2164 | Paula Gunn Allen |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2164.md |
+| 2170 | Jane Tompkins | Kochinnenako in Academe | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2170.md |
+| 2171 | Jane Tompkins |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2171.md |
+| 2172 | Jane Tompkins |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2172.md |
+| 2187 | Annette Kolodny | Me and My Shadow | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2187.md |
+| 2188 | Annette Kolodny |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2188.md |
+| 2189 | Annette Kolodny | Annette Kolodny | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2189.md |
 
 ## Content Separation
 
@@ -2054,16 +2072,83 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 2108 | Gerald Graff | Taking Cover in Coverage | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2108.md |
 | 2109 | Gerald Graff | Taking Cover in Coverage | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2109.md |
 | 2110 | Gerald Graff | Taking Cover in Coverage | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2110.md |
-| 2115 | Stanley E. Fish | Interpreting the Variorum | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2115.md |
-| 2116 | Stanley E. Fish | Interpreting the Variorum | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2116.md |
-| 2117 | Stanley E. Fish | Interpreting the Variorum | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2117.md |
-| 2118 | Stanley E. Fish | Interpreting the Variorum | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2118.md |
-| 2119 | Stanley E. Fish | Interpreting the Variorum | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2119.md |
-| 2120 | Stanley E. Fish | Interpreting the Variorum | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2120.md |
-| 2121 | Stanley E. Fish | Interpreting the Variorum | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2121.md |
-| 2122 | Stanley E. Fish | Interpreting the Variorum | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2122.md |
-| 2123 | Stanley E. Fish | Interpreting the Variorum | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2123.md |
-| 2124 | Stanley E. Fish | Interpreting the Variorum | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2124.md |
-| 2125 | Stanley E. Fish | Interpreting the Variorum | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2125.md |
-| 2126 | Stanley E. Fish | Interpreting the Variorum | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2126.md |
-| 2127 | Stanley E. Fish | Interpreting the Variorum | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2127.md |
+| 2115 | Stanley E. Fish | Interpreting the Variorum | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2115.md |
+| 2116 | Stanley E. Fish | Interpreting the Variorum | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2116.md |
+| 2117 | Stanley E. Fish | Interpreting the Variorum | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2117.md |
+| 2118 | Stanley E. Fish | Interpreting the Variorum | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2118.md |
+| 2119 | Stanley E. Fish | Interpreting the Variorum | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2119.md |
+| 2120 | Stanley E. Fish | Interpreting the Variorum | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2120.md |
+| 2121 | Stanley E. Fish | Interpreting the Variorum | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2121.md |
+| 2122 | Stanley E. Fish | Interpreting the Variorum | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2122.md |
+| 2123 | Stanley E. Fish | Interpreting the Variorum | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2123.md |
+| 2124 | Stanley E. Fish | Interpreting the Variorum | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2124.md |
+| 2125 | Stanley E. Fish | Interpreting the Variorum | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2125.md |
+| 2126 | Stanley E. Fish | Interpreting the Variorum | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2126.md |
+| 2127 | Stanley E. Fish | Interpreting the Variorum | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2127.md |
+| 2128 | Stanley E. Fish | Interpreting the Variorum | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2128.md |
+| 2129 | Stanley E. Fish | Interpreting the Variorum | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2129.md |
+| 2130 | Stanley E. Fish | Interpreting the Variorum | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2130.md |
+| 2131 | Stanley E. Fish | Interpreting the Variorum | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2131.md |
+| 2132 | Stanley E. Fish | Interpreting the Variorum | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2132.md |
+| 2136 | Ngugi wa Thiong'o, Taban Lo Liyong, and Henry Owuor-Anyumba | On the Abolition of the English Department | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2136.md |
+| 2137 | Ngugi wa Thiong'o, Taban Lo Liyong, and Henry Owuor-Anyumba | On the Abolition of the English Department | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2137.md |
+| 2138 | Ngugi wa Thiong'o, Taban Lo Liyong, and Henry Owuor-Anyumba | On the Abolition of the English Department | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2138.md |
+| 2139 | Ngugi wa Thiong'o, Taban Lo Liyong, and Henry Owuor-Anyumba | On the Abolition of the English Department | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2139.md |
+| 2140 | Ngugi wa Thiong'o, Taban Lo Liyong, and Henry Owuor-Anyumba | On the Abolition of the English Department | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2140.md |
+| 2143 | Tzvetan Todorov | Structural Analysis of Narrative | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2143.md |
+| 2144 | Tzvetan Todorov | Structural Analysis of Narrative | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2144.md |
+| 2145 | Tzvetan Todorov | Structural Analysis of Narrative | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2145.md |
+| 2146 | Tzvetan Todorov | Structural Analysis of Narrative | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2146.md |
+| 2147 | Tzvetan Todorov | Structural Analysis of Narrative | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2147.md |
+| 2148 | Tzvetan Todorov | Structural Analysis of Narrative | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2148.md |
+| 2149 | Tzvetan Todorov | Structural Analysis of Narrative | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2149.md |
+| 2150 | Tzvetan Todorov | Structural Analysis of Narrative | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2150.md |
+| 2151 | Tzvetan Todorov | Structural Analysis of Narrative | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2151.md |
+| 2152 | Tzvetan Todorov | Structural Analysis of Narrative | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2152.md |
+| 2153 | Tzvetan Todorov | Structural Analysis of Narrative | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2153.md |
+| 2154 | Tzvetan Todorov | Structural Analysis of Narrative | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2154.md |
+| 2155 | Tzvetan Todorov | Structural Analysis of Narrative | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2155.md |
+| 2156 | Tzvetan Todorov | Structural Analysis of Narrative | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2156.md |
+| 2157 | Tzvetan Todorov | Structural Analysis of Narrative | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2157.md |
+| 2158 | Tzvetan Todorov | Structural Analysis of Narrative | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2158.md |
+| 2159 | Tzvetan Todorov | Structural Analysis of Narrative | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2159.md |
+| 2160 | Tzvetan Todorov | Structural Analysis of Narrative | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2160.md |
+| 2161 | Tzvetan Todorov | Structural Analysis of Narrative | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2161.md |
+| 2162 | Tzvetan Todorov | Structural Analysis of Narrative | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2162.md |
+| 2165 | Paula Gunn Allen | Kochinnenako in Academe | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2165.md |
+| 2166 | Paula Gunn Allen | Kochinnenako in Academe | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2166.md |
+| 2167 | Paula Gunn Allen | Kochinnenako in Academe | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2167.md |
+| 2168 | Paula Gunn Allen | Kochinnenako in Academe | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2168.md |
+| 2169 | Paula Gunn Allen | Kochinnenako in Academe | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2169.md |
+| 2173 | Jane Tompkins | Me and My Shadow | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2173.md |
+| 2174 | Jane Tompkins | Me and My Shadow | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2174.md |
+| 2175 | Jane Tompkins | Me and My Shadow | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2175.md |
+| 2176 | Jane Tompkins | Me and My Shadow | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2176.md |
+| 2177 | Jane Tompkins | Me and My Shadow | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2177.md |
+| 2178 | Jane Tompkins | Me and My Shadow | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2178.md |
+| 2179 | Jane Tompkins | Me and My Shadow | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2179.md |
+| 2180 | Jane Tompkins | Me and My Shadow | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2180.md |
+| 2181 | Jane Tompkins | Me and My Shadow | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2181.md |
+| 2182 | Jane Tompkins | Me and My Shadow | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2182.md |
+| 2183 | Jane Tompkins | Me and My Shadow | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2183.md |
+| 2184 | Jane Tompkins | Me and My Shadow | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2184.md |
+| 2185 | Jane Tompkins | Me and My Shadow | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2185.md |
+| 2186 | Jane Tompkins | Me and My Shadow | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2186.md |
+| 2190 | Annette Kolodny | Dancing through the Minefield | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2190.md |
+| 2191 | Annette Kolodny | Dancing through the Minefield | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2191.md |
+| 2192 | Annette Kolodny | Dancing through the Minefield | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2192.md |
+| 2193 | Annette Kolodny | Dancing through the Minefield | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2193.md |
+| 2194 | Annette Kolodny | Dancing through the Minefield | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2194.md |
+| 2195 | Annette Kolodny | Dancing through the Minefield | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2195.md |
+| 2196 | Annette Kolodny | Dancing through the Minefield | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2196.md |
+| 2197 | Annette Kolodny | Dancing through the Minefield | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2197.md |
+| 2198 | Annette Kolodny | Dancing through the Minefield | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2198.md |
+| 2199 | Annette Kolodny | Dancing through the Minefield | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2199.md |
+| 2200 | Annette Kolodny | Dancing through the Minefield | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2200.md |
+| 2201 | Annette Kolodny | Dancing through the Minefield | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2201.md |
+| 2202 | Annette Kolodny | Dancing through the Minefield | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2202.md |
+| 2203 | Annette Kolodny | Dancing through the Minefield | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2203.md |
+| 2204 | Annette Kolodny | Dancing through the Minefield | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2204.md |
+| 2205 | Annette Kolodny | Dancing through the Minefield | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2205.md |
+| 2206 | Annette Kolodny | Dancing through the Minefield | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2206.md |
+| 2207 | Annette Kolodny | Dancing through the Minefield | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2207.md |
