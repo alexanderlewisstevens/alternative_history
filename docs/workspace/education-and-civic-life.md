@@ -75,7 +75,7 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/bourdieu-distinction/"><strong>Pierre Bourdieu, Distinction</strong><span>taste, class, cultural-capital; pages 1853-1858; 6 review rows</span></a>
   <a href="../norton-texts/ohmann-shaping-of-a-canon/"><strong>Richard Ohmann, The Shaping of a Canon: U.S. Fiction, 1960-1975</strong><span>canon, publishing, institutions; pages 1924-1938; 15 review rows</span></a>
   <a href="../norton-texts/hall-cultural-studies-theoretical-legacies/"><strong>Stuart Hall, Cultural Studies and Its Theoretical Legacies</strong><span>cultural-studies, hegemony, politics; pages 1942-1953; 12 review rows</span></a>
-  <a href="../norton-texts/smith-contingencies-of-value/"><strong>Barbara Herrnstein Smith, Contingencies of Value</strong><span>value, taste, contingency; pages 1957-1967; 11 review rows</span></a>
+  <a href="../norton-texts/smith-contingencies-of-value/"><strong>Barbara Herrnstein Smith, Contingencies of Value</strong><span>value, taste, contingency; pages 1957-1975; 19 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -198,7 +198,7 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Distinction](norton-texts/bourdieu-distinction.md) | 1853-1858 | 6 | excerpt: 6 |
 | [The Shaping of a Canon: U.S. Fiction, 1960-1975](norton-texts/ohmann-shaping-of-a-canon.md) | 1924-1938 | 15 | excerpt: 15 |
 | [Cultural Studies and Its Theoretical Legacies](norton-texts/hall-cultural-studies-theoretical-legacies.md) | 1942-1953 | 12 | excerpt: 12 |
-| [Contingencies of Value](norton-texts/smith-contingencies-of-value.md) | 1957-1967 | 11 | excerpt: 11 |
+| [Contingencies of Value](norton-texts/smith-contingencies-of-value.md) | 1957-1975 | 19 | excerpt: 19 |
 
 ## Passage Queue
 
@@ -252,8 +252,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T06:31:53Z` |
-| Git commit | `90b00be` |
+| Generated at | `2026-06-13T06:37:08Z` |
+| Git commit | `5771067` |
 | Script version | `2` |
 | Output path | `docs/workspace/education-and-civic-life.md` |
 

@@ -20,11 +20,11 @@ This note turns the current Norton chunk for Barbara Herrnstein Smith into a nav
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Chunk Status</span>
-  <h3>Norton Pages 1957-1967</h3>
-  <p><strong>Page count:</strong> 11</p>
+  <h3>Norton Pages 1957-1975</h3>
+  <p><strong>Page count:</strong> 19</p>
   <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/barbara-herrnstein-smith.md</code></p>
-  <p><strong>Page kinds:</strong> excerpt: 11</p>
-  <p><strong>Review pressure:</strong> 11 rows. continues_beyond_current_batch: 11<br>mixed_bibliography_and_work_title: 11</p>
+  <p><strong>Page kinds:</strong> excerpt: 19</p>
+  <p><strong>Review pressure:</strong> 19 rows. mixed_author_transition_page: 19<br>mixed_bibliography_and_work_title: 19</p>
 </section>
 
 ## Works And Excerpt Blocks
@@ -50,7 +50,7 @@ This note turns the current Norton chunk for Barbara Herrnstein Smith into a nav
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Anchor Candidates</span>
   <h3>Choose Passages After Review</h3>
-  <p><strong>Source location:</strong> Norton page range 1957-1967.</p>
+  <p><strong>Source location:</strong> Norton page range 1957-1975.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
   <p><strong>Use:</strong> Find the passages that make this text active inside signs-and-reading, commentary-and-afterlife, education-and-civic-life, authorship-and-authority, taste-and-standards, aesthetic-education-and-citizenship, labor-ideology-and-culture, language-truth-and-fiction.</p>
 </section>
@@ -58,7 +58,7 @@ This note turns the current Norton chunk for Barbara Herrnstein Smith into a nav
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Review Before Quoting</span>
   <h3>Layout, Notes, And Bibliography</h3>
-  <p><strong>Review signal:</strong> continues_beyond_current_batch: 11<br>mixed_bibliography_and_work_title: 11</p>
+  <p><strong>Review signal:</strong> mixed_author_transition_page: 19<br>mixed_bibliography_and_work_title: 19</p>
   <p><strong>Editorial rule:</strong> source notes belong in source-note fields, bibliography belongs in bibliography fields, and excerpt text stays separate.</p>
 </section>
 
@@ -96,8 +96,8 @@ This note turns the current Norton chunk for Barbara Herrnstein Smith into a nav
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/barbara-herrnstein-smith.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T06:32:05Z` |
-| Git commit | `90b00be` |
+| Generated at | `2026-06-13T06:37:24Z` |
+| Git commit | `5771067` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/smith-contingencies-of-value.md` |
 

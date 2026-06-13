@@ -97,8 +97,8 @@ This note turns the current Norton chunk for W. E. B. Du Bois into a navigable w
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/web-du-bois.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T06:32:04Z` |
-| Git commit | `90b00be` |
+| Generated at | `2026-06-13T06:37:22Z` |
+| Git commit | `5771067` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/du-bois-criteria-of-negro-art.md` |
 

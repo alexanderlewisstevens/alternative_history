@@ -61,6 +61,8 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/achebe-image-of-africa/"><strong>Chinua Achebe, An Image of Africa: Racism in Conrad&#x27;s Heart of Darkness</strong><span>postcolonialism, canon, race; pages 1827-1837; 11 review rows</span></a>
   <a href="../norton-texts/bourdieu-distinction/"><strong>Pierre Bourdieu, Distinction</strong><span>taste, class, cultural-capital; pages 1853-1858; 6 review rows</span></a>
   <a href="../norton-texts/derrida-of-grammatology/"><strong>Jacques Derrida, Of Grammatology</strong><span>writing, logocentrism, deconstruction; pages 1866-1873; 8 review rows</span></a>
+  <a href="../norton-texts/vizenor-postindian-warriors/"><strong>Gerald Vizenor, Postindian Warriors</strong><span>survivance, simulation, native-studies; pages 2021-2029; 9 review rows</span></a>
+  <a href="../norton-texts/said-orientalism/"><strong>Edward W. Said, Orientalism</strong><span>orientalism, imperialism, postcolonialism; pages 2035-2047; 13 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -111,6 +113,8 @@ This is a scaffold for reading the configured texts together. It should become a
 36. [Chinua Achebe, An Image of Africa: Racism in Conrad&#x27;s Heart of Darkness](norton-texts/achebe-image-of-africa.md)
 37. [Pierre Bourdieu, Distinction](norton-texts/bourdieu-distinction.md)
 38. [Jacques Derrida, Of Grammatology](norton-texts/derrida-of-grammatology.md)
+39. [Gerald Vizenor, Postindian Warriors](norton-texts/vizenor-postindian-warriors.md)
+40. [Edward W. Said, Orientalism](norton-texts/said-orientalism.md)
 
 ## Review Pressure
 
@@ -154,6 +158,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | [An Image of Africa: Racism in Conrad&#x27;s Heart of Darkness](norton-texts/achebe-image-of-africa.md) | 1827-1837 | 11 | excerpt: 11 |
 | [Distinction](norton-texts/bourdieu-distinction.md) | 1853-1858 | 6 | excerpt: 6 |
 | [Of Grammatology](norton-texts/derrida-of-grammatology.md) | 1866-1873 | 8 | excerpt: 8 |
+| [Postindian Warriors](norton-texts/vizenor-postindian-warriors.md) | 2021-2029 | 9 | excerpt: 9 |
+| [Orientalism](norton-texts/said-orientalism.md) | 2035-2047 | 13 | excerpt: 13 |
 
 ## Passage Queue
 
@@ -207,8 +213,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T06:31:54Z` |
-| Git commit | `90b00be` |
+| Generated at | `2026-06-13T06:37:09Z` |
+| Git commit | `5771067` |
 | Script version | `2` |
 | Output path | `docs/workspace/vernacular-and-institution.md` |
 

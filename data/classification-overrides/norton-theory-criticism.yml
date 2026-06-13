@@ -3418,11 +3418,109 @@ overrides:
       - mixed_bibliography_and_work_title
 
   - id: barbara-herrnstein-smith-contingencies-of-value
-    pages: 1957-1967
+    pages: 1957-1976
     author_name: Barbara Herrnstein Smith
     author_slug: barbara-herrnstein-smith
     work_title: From Contingencies of Value
     work_slug: contingencies-of-value
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: fredric-jameson-headnote
+    pages: 1976-1981
+    author_name: Fredric Jameson
+    author_slug: fredric-jameson
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: fredric-jameson-political-unconscious
+    pages: 1981-2004
+    author_name: Fredric Jameson
+    author_slug: fredric-jameson
+    work_title: "From The Political Unconscious: Narrative as a Socially Symbolic Act"
+    work_slug: political-unconscious
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_work_transition_page
+
+  - id: fredric-jameson-postmodernism-consumer-society
+    pages: 2004-2018
+    author_name: Fredric Jameson
+    author_slug: fredric-jameson
+    work_title: Postmodernism and Consumer Society
+    work_slug: postmodernism-consumer-society
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: gerald-vizenor-headnote
+    pages: 2019-2021
+    author_name: Gerald Vizenor
+    author_slug: gerald-vizenor
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: gerald-vizenor-postindian-warriors
+    pages: 2021-2030
+    author_name: Gerald Vizenor
+    author_slug: gerald-vizenor
+    work_title: "From Manifest Manners: Postindian Warriors of Survivance / Postindian Warriors"
+    work_slug: postindian-warriors
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: edward-w-said-headnote
+    pages: 2030-2035
+    author_name: Edward W. Said
+    author_slug: edward-w-said
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: edward-w-said-orientalism
+    pages: 2035-2047
+    author_name: Edward W. Said
+    author_slug: edward-w-said
+    work_title: From Orientalism
+    work_slug: orientalism
     page_kind: excerpt
     starts_new_author: false
     continues_previous_author: true

@@ -1415,6 +1415,58 @@ curated_texts:
       - contingency
       - institutions
     status: edition-review-needed
+  - id: jameson-political-unconscious
+    title: "The Political Unconscious: Narrative as a Socially Symbolic Act"
+    creator: Fredric Jameson
+    extraction_work_titles:
+      - "From The Political Unconscious: Narrative as a Socially Symbolic Act"
+      - The Political Unconscious
+    role: core-text-candidate
+    themes:
+      - marxism
+      - historicism
+      - ideology
+      - interpretation
+    status: edition-review-needed
+  - id: jameson-postmodernism-consumer-society
+    title: Postmodernism and Consumer Society
+    creator: Fredric Jameson
+    extraction_work_titles:
+      - Postmodernism and Consumer Society
+    role: core-text-candidate
+    themes:
+      - postmodernism
+      - consumer-society
+      - late-capitalism
+      - media
+    status: edition-review-needed
+  - id: vizenor-postindian-warriors
+    title: Postindian Warriors
+    creator: Gerald Vizenor
+    extraction_work_titles:
+      - "From Manifest Manners: Postindian Warriors of Survivance / Postindian Warriors"
+      - Postindian Warriors
+      - Manifest Manners
+    role: core-text-candidate
+    themes:
+      - survivance
+      - simulation
+      - native-studies
+      - representation
+    status: edition-review-needed
+  - id: said-orientalism
+    title: Orientalism
+    creator: Edward W. Said
+    extraction_work_titles:
+      - From Orientalism
+      - Orientalism
+    role: core-text-candidate
+    themes:
+      - orientalism
+      - imperialism
+      - postcolonialism
+      - representation
+    status: edition-review-needed
 
 constellations:
   - id: rhetoric-and-force
@@ -1530,6 +1582,8 @@ constellations:
       - derrida-platos-pharmacy
       - ohmann-shaping-of-a-canon
       - smith-contingencies-of-value
+      - jameson-political-unconscious
+      - said-orientalism
     relations:
       - writing
       - interpretation
@@ -1621,6 +1675,9 @@ constellations:
       - ohmann-shaping-of-a-canon
       - hall-cultural-studies-theoretical-legacies
       - smith-contingencies-of-value
+      - jameson-political-unconscious
+      - vizenor-postindian-warriors
+      - said-orientalism
     relations:
       - commentary
       - transmission
@@ -1726,6 +1783,8 @@ constellations:
       - achebe-image-of-africa
       - bourdieu-distinction
       - derrida-of-grammatology
+      - vizenor-postindian-warriors
+      - said-orientalism
     relations:
       - vernacular
       - imitation
@@ -1841,6 +1900,7 @@ constellations:
       - bourdieu-distinction
       - ohmann-shaping-of-a-canon
       - smith-contingencies-of-value
+      - jameson-postmodernism-consumer-society
     relations:
       - taste
       - criticism
@@ -1916,6 +1976,8 @@ constellations:
       - white-historical-text-literary-artifact
       - baudrillard-precession-simulacra
       - habermas-modernity-incomplete-project
+      - jameson-postmodernism-consumer-society
+      - vizenor-postindian-warriors
     relations:
       - medium
       - form
@@ -1958,6 +2020,9 @@ constellations:
       - ohmann-shaping-of-a-canon
       - hall-cultural-studies-theoretical-legacies
       - smith-contingencies-of-value
+      - jameson-political-unconscious
+      - vizenor-postindian-warriors
+      - said-orientalism
     relations:
       - education
       - freedom
@@ -2008,6 +2073,7 @@ constellations:
       - fanon-wretched-earth
       - ohmann-shaping-of-a-canon
       - hall-cultural-studies-theoretical-legacies
+      - jameson-postmodernism-consumer-society
     relations:
       - utility
       - aestheticism
@@ -2055,6 +2121,10 @@ constellations:
       - ohmann-shaping-of-a-canon
       - hall-cultural-studies-theoretical-legacies
       - smith-contingencies-of-value
+      - jameson-political-unconscious
+      - jameson-postmodernism-consumer-society
+      - vizenor-postindian-warriors
+      - said-orientalism
     relations:
       - labor
       - ideology
@@ -2117,6 +2187,9 @@ constellations:
       - derrida-platos-pharmacy
       - hall-cultural-studies-theoretical-legacies
       - smith-contingencies-of-value
+      - jameson-political-unconscious
+      - vizenor-postindian-warriors
+      - said-orientalism
     relations:
       - language
       - fiction

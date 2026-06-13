@@ -67,7 +67,7 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/derrida-of-grammatology/"><strong>Jacques Derrida, Of Grammatology</strong><span>writing, logocentrism, deconstruction; pages 1866-1873; 8 review rows</span></a>
   <a href="../norton-texts/derrida-platos-pharmacy/"><strong>Jacques Derrida, Dissemination / Plato&#x27;s Pharmacy</strong><span>writing, pharmakon, deconstruction; pages 1874-1920; 47 review rows</span></a>
   <a href="../norton-texts/ohmann-shaping-of-a-canon/"><strong>Richard Ohmann, The Shaping of a Canon: U.S. Fiction, 1960-1975</strong><span>canon, publishing, institutions; pages 1924-1938; 15 review rows</span></a>
-  <a href="../norton-texts/smith-contingencies-of-value/"><strong>Barbara Herrnstein Smith, Contingencies of Value</strong><span>value, taste, contingency; pages 1957-1967; 11 review rows</span></a>
+  <a href="../norton-texts/smith-contingencies-of-value/"><strong>Barbara Herrnstein Smith, Contingencies of Value</strong><span>value, taste, contingency; pages 1957-1975; 19 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -174,7 +174,7 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Of Grammatology](norton-texts/derrida-of-grammatology.md) | 1866-1873 | 8 | excerpt: 8 |
 | [Dissemination / Plato&#x27;s Pharmacy](norton-texts/derrida-platos-pharmacy.md) | 1874-1920 | 47 | excerpt: 47 |
 | [The Shaping of a Canon: U.S. Fiction, 1960-1975](norton-texts/ohmann-shaping-of-a-canon.md) | 1924-1938 | 15 | excerpt: 15 |
-| [Contingencies of Value](norton-texts/smith-contingencies-of-value.md) | 1957-1967 | 11 | excerpt: 11 |
+| [Contingencies of Value](norton-texts/smith-contingencies-of-value.md) | 1957-1975 | 19 | excerpt: 19 |
 
 ## Passage Queue
 
@@ -228,8 +228,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T06:31:54Z` |
-| Git commit | `90b00be` |
+| Generated at | `2026-06-13T06:37:09Z` |
+| Git commit | `5771067` |
 | Script version | `2` |
 | Output path | `docs/workspace/authorship-and-authority.md` |
 

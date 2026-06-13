@@ -20,7 +20,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [Contingencies of Value](../norton-texts/smith-contingencies-of-value.md) | 1957-1967 | 11 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
+| [Contingencies of Value](../norton-texts/smith-contingencies-of-value.md) | 1957-1975 | 19 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -42,9 +42,9 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Signal | Value |
 | --- | --- |
-| Page kinds | excerpt: 11<br>author_intro: 3 |
-| Review rows | 14 |
-| Review reasons | mixed_bibliography_and_work_title: 14<br>continues_beyond_current_batch: 11<br>transition_from_previous_author: 3 |
+| Page kinds | excerpt: 19<br>author_intro: 3 |
+| Review rows | 22 |
+| Review reasons | mixed_bibliography_and_work_title: 22<br>mixed_author_transition_page: 19<br>transition_from_previous_author: 3 |
 
 ## Passage Queue
 
@@ -95,8 +95,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T06:31:58Z` |
-| Git commit | `90b00be` |
+| Generated at | `2026-06-13T06:37:17Z` |
+| Git commit | `5771067` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/barbara-herrnstein-smith.md` |
 

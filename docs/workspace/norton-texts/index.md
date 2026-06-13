@@ -10,11 +10,11 @@ This index is generated from curated source metadata and local extraction audit 
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Curated Text Nodes</div>
-  <div class="ah-metric-value">122</div>
+  <div class="ah-metric-value">126</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Assembled Chunks</div>
-  <div class="ah-metric-value">122</div>
+  <div class="ah-metric-value">126</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Constellations</div>
@@ -147,7 +147,11 @@ This index is generated from curated source metadata and local extraction audit 
 | [Dissemination / Plato&#x27;s Pharmacy](derrida-platos-pharmacy.md) | Jacques Derrida | 1874-1920 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 47 | `edition-review-needed` |
 | [The Shaping of a Canon: U.S. Fiction, 1960-1975](ohmann-shaping-of-a-canon.md) | Richard Ohmann | 1924-1938 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[art-utility-and-modern-life](../art-utility-and-modern-life.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 15 | `edition-review-needed` |
 | [Cultural Studies and Its Theoretical Legacies](hall-cultural-studies-theoretical-legacies.md) | Stuart Hall | 1942-1953 | [commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[art-utility-and-modern-life](../art-utility-and-modern-life.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 12 | `edition-review-needed` |
-| [Contingencies of Value](smith-contingencies-of-value.md) | Barbara Herrnstein Smith | 1957-1967 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 11 | `edition-review-needed` |
+| [Contingencies of Value](smith-contingencies-of-value.md) | Barbara Herrnstein Smith | 1957-1975 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 19 | `edition-review-needed` |
+| [The Political Unconscious: Narrative as a Socially Symbolic Act](jameson-political-unconscious.md) | Fredric Jameson | 1981-2003 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 23 | `edition-review-needed` |
+| [Postmodernism and Consumer Society](jameson-postmodernism-consumer-society.md) | Fredric Jameson | 2004-2018 | [taste-and-standards](../taste-and-standards.md)<br>[media-and-form](../media-and-form.md)<br>[art-utility-and-modern-life](../art-utility-and-modern-life.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 15 | `edition-review-needed` |
+| [Postindian Warriors](vizenor-postindian-warriors.md) | Gerald Vizenor | 2021-2029 | [commentary-and-afterlife](../commentary-and-afterlife.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[media-and-form](../media-and-form.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 9 | `edition-review-needed` |
+| [Orientalism](said-orientalism.md) | Edward W. Said | 2035-2047 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 13 | `edition-review-needed` |
 
 ## How To Use This Index
 
@@ -174,7 +178,7 @@ This index is generated from curated source metadata and local extraction audit 
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T06:32:06Z` |
-| Git commit | `90b00be` |
+| Generated at | `2026-06-13T06:37:24Z` |
+| Git commit | `5771067` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/index.md` |

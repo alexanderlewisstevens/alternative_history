@@ -65,7 +65,8 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/iser-interaction-text-reader/"><strong>Wolfgang Iser, Interaction Between Text and Reader</strong><span>reader-response, interpretation, gaps; pages 1717-1725; 9 review rows</span></a>
   <a href="../norton-texts/bourdieu-distinction/"><strong>Pierre Bourdieu, Distinction</strong><span>taste, class, cultural-capital; pages 1853-1858; 6 review rows</span></a>
   <a href="../norton-texts/ohmann-shaping-of-a-canon/"><strong>Richard Ohmann, The Shaping of a Canon: U.S. Fiction, 1960-1975</strong><span>canon, publishing, institutions; pages 1924-1938; 15 review rows</span></a>
-  <a href="../norton-texts/smith-contingencies-of-value/"><strong>Barbara Herrnstein Smith, Contingencies of Value</strong><span>value, taste, contingency; pages 1957-1967; 11 review rows</span></a>
+  <a href="../norton-texts/smith-contingencies-of-value/"><strong>Barbara Herrnstein Smith, Contingencies of Value</strong><span>value, taste, contingency; pages 1957-1975; 19 review rows</span></a>
+  <a href="../norton-texts/jameson-postmodernism-consumer-society/"><strong>Fredric Jameson, Postmodernism and Consumer Society</strong><span>postmodernism, consumer-society, late-capitalism; pages 2004-2018; 15 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -121,6 +122,7 @@ This is a scaffold for reading the configured texts together. It should become a
 41. [Pierre Bourdieu, Distinction](norton-texts/bourdieu-distinction.md)
 42. [Richard Ohmann, The Shaping of a Canon: U.S. Fiction, 1960-1975](norton-texts/ohmann-shaping-of-a-canon.md)
 43. [Barbara Herrnstein Smith, Contingencies of Value](norton-texts/smith-contingencies-of-value.md)
+44. [Fredric Jameson, Postmodernism and Consumer Society](norton-texts/jameson-postmodernism-consumer-society.md)
 
 ## Review Pressure
 
@@ -168,7 +170,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Interaction Between Text and Reader](norton-texts/iser-interaction-text-reader.md) | 1717-1725 | 9 | excerpt: 9 |
 | [Distinction](norton-texts/bourdieu-distinction.md) | 1853-1858 | 6 | excerpt: 6 |
 | [The Shaping of a Canon: U.S. Fiction, 1960-1975](norton-texts/ohmann-shaping-of-a-canon.md) | 1924-1938 | 15 | excerpt: 15 |
-| [Contingencies of Value](norton-texts/smith-contingencies-of-value.md) | 1957-1967 | 11 | excerpt: 11 |
+| [Contingencies of Value](norton-texts/smith-contingencies-of-value.md) | 1957-1975 | 19 | excerpt: 19 |
+| [Postmodernism and Consumer Society](norton-texts/jameson-postmodernism-consumer-society.md) | 2004-2018 | 15 | excerpt: 15 |
 
 ## Passage Queue
 
@@ -222,8 +225,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T06:31:54Z` |
-| Git commit | `90b00be` |
+| Generated at | `2026-06-13T06:37:09Z` |
+| Git commit | `5771067` |
 | Script version | `2` |
 | Output path | `docs/workspace/taste-and-standards.md` |
 

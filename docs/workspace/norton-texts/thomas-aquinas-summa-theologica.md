@@ -89,8 +89,8 @@ This note turns the current Norton chunk for Thomas Aquinas into a navigable wor
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/thomas-aquinas.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T06:32:03Z` |
-| Git commit | `90b00be` |
+| Generated at | `2026-06-13T06:37:21Z` |
+| Git commit | `5771067` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/thomas-aquinas-summa-theologica.md` |
 

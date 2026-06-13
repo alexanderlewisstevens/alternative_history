@@ -5,7 +5,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Boundary Review</div>
-  <div class="ah-metric-value">367</div>
+  <div class="ah-metric-value">379</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Content Separation</div>
@@ -21,7 +21,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">General Review</div>
-  <div class="ah-metric-value">873</div>
+  <div class="ah-metric-value">941</div>
 </div>
 </div>
 
@@ -29,10 +29,10 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 <div class="ah-review-grid">
 <section class="ah-review-card warn">
-  <div class="ah-review-card-kicker">367 pages</div>
+  <div class="ah-review-card-kicker">379 pages</div>
   <h3>Boundary Review</h3>
   <p>Confirm thinker and work boundaries before assembling public-facing drafts.</p>
-  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +355 more</p>
+  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +367 more</p>
 </section>
 <section class="ah-review-card warn">
   <div class="ah-review-card-kicker">9 pages</div>
@@ -53,10 +53,10 @@ This is the editorial queue for restricted extraction work. It is generated from
   <p><strong>Start:</strong> <code>74</code>, <code>98</code>, <code>99</code>, <code>126</code>, <code>185</code>, <code>190</code>, <code>191</code>, <code>192</code>, <code>194</code>, <code>204</code>, <code>213</code>, <code>218</code> +60 more</p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">873 pages</div>
+  <div class="ah-review-card-kicker">941 pages</div>
   <h3>General Review</h3>
   <p>Resolve remaining template or classification questions.</p>
-  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +861 more</p>
+  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +929 more</p>
 </section>
 </div>
 
@@ -72,11 +72,11 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Field | Value |
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
-| Classified source pages | `71-1967` |
-| Review queue rows | `1665` |
+| Classified source pages | `71-2047` |
+| Review queue rows | `1745` |
 | Review queue file | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
-| Generated at | `2026-06-13T06:31:57Z` |
-| Git commit | `90b00be` |
+| Generated at | `2026-06-13T06:37:15Z` |
+| Git commit | `5771067` |
 | Script version | `1` |
 | Output path | `docs/_meta/review-dashboard.md` |
 
@@ -84,15 +84,15 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 | Reason | Pages |
 | --- | ---: |
-| mixed_work_transition_page | 620 |
-| mixed_bibliography_and_work_title | 415 |
+| mixed_work_transition_page | 658 |
+| mixed_bibliography_and_work_title | 480 |
 | multi_column_layout | 357 |
-| transition_from_previous_author | 345 |
+| transition_from_previous_author | 357 |
 | source_notes_detected | 314 |
-| mixed_author_transition_page | 142 |
+| mixed_author_transition_page | 170 |
 | mixed_transition_page | 68 |
 | selection_boundary_review | 34 |
-| continues_beyond_current_batch | 25 |
+| continues_beyond_current_batch | 27 |
 | layout_review_required | 23 |
 | author_boundary_without_life_dates | 20 |
 | bibliography_on_previous_page | 15 |
@@ -107,6 +107,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Jacques Derrida | 62 |
 | Sigmund Freud | 43 |
 | Michel Foucault | 43 |
+| Fredric Jameson | 43 |
 | Sir Philip Sidney | 39 |
 | Mikhail M. Bakhtin | 34 |
 | Jacques Lacan | 33 |
@@ -123,6 +124,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Paul de Man | 23 |
 | Boris Eichenbaum | 22 |
 | Adrienne Rich | 22 |
+| Barbara Herrnstein Smith | 22 |
 | Samuel Johnson | 21 |
 | Ralph Waldo Emerson | 21 |
 | Ferdinand de Saussure | 21 |
@@ -137,6 +139,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Frantz Fanon | 18 |
 | Jurgen Habermas | 18 |
 | Richard Ohmann | 18 |
+| Edward W. Said | 18 |
 | T. S. Eliot | 17 |
 | Zora Neale Hurston | 17 |
 | Jean-Paul Sartre | 17 |
@@ -158,7 +161,6 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Friedrich Schleiermacher | 14 |
 | Thomas Love Peacock | 14 |
 | Edmund Wilson | 14 |
-| Barbara Herrnstein Smith | 14 |
 | Samuel Taylor Coleridge | 13 |
 | Virginia Woolf | 13 |
 | John Crowe Ransom | 13 |
@@ -175,6 +177,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Giambattista Vico | 11 |
 | Edward Young | 11 |
 | Edgar Allan Poe | 11 |
+| Gerald Vizenor | 11 |
 | Quintilian | 10 |
 | Hugh of St. Victor | 10 |
 | Joseph Addison | 10 |
@@ -581,6 +584,18 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 1954 | Barbara Herrnstein Smith | Cultural Studies and Its Theoretical Legacies | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1954.md |
 | 1955 | Barbara Herrnstein Smith |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1955.md |
 | 1956 | Barbara Herrnstein Smith |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1956.md |
+| 1976 | Fredric Jameson | From Contingencies of Value | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1976.md |
+| 1977 | Fredric Jameson | Fredric Jameson | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1977.md |
+| 1978 | Fredric Jameson |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1978.md |
+| 1979 | Fredric Jameson | Fredric Jameson | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1979.md |
+| 1980 | Fredric Jameson |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1980.md |
+| 2019 | Gerald Vizenor |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2019.md |
+| 2020 | Gerald Vizenor |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2020.md |
+| 2030 | Edward W. Said | From Manifest Manners: Postindian Warriors of Survivance / Postindian Warriors | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2030.md |
+| 2031 | Edward W. Said |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2031.md |
+| 2032 | Edward W. Said |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2032.md |
+| 2033 | Edward W. Said |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2033.md |
+| 2034 | Edward W. Said | almost the beginning of his' c4teef, Said has attracted a large body of criticism | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2034.md |
 
 ## Content Separation
 
@@ -1888,14 +1903,82 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 1951 | Stuart Hall | Cultural Studies and Its Theoretical Legacies | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1951.md |
 | 1952 | Stuart Hall | Cultural Studies and Its Theoretical Legacies | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1952.md |
 | 1953 | Stuart Hall | Cultural Studies and Its Theoretical Legacies | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1953.md |
-| 1957 | Barbara Herrnstein Smith | From Contingencies of Value | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1957.md |
-| 1958 | Barbara Herrnstein Smith | From Contingencies of Value | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1958.md |
-| 1959 | Barbara Herrnstein Smith | From Contingencies of Value | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1959.md |
-| 1960 | Barbara Herrnstein Smith | From Contingencies of Value | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1960.md |
-| 1961 | Barbara Herrnstein Smith | From Contingencies of Value | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1961.md |
-| 1962 | Barbara Herrnstein Smith | From Contingencies of Value | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1962.md |
-| 1963 | Barbara Herrnstein Smith | From Contingencies of Value | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1963.md |
-| 1964 | Barbara Herrnstein Smith | From Contingencies of Value | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1964.md |
-| 1965 | Barbara Herrnstein Smith | From Contingencies of Value | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1965.md |
-| 1966 | Barbara Herrnstein Smith | From Contingencies of Value | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1966.md |
-| 1967 | Barbara Herrnstein Smith | From Contingencies of Value | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1967.md |
+| 1957 | Barbara Herrnstein Smith | From Contingencies of Value | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1957.md |
+| 1958 | Barbara Herrnstein Smith | From Contingencies of Value | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1958.md |
+| 1959 | Barbara Herrnstein Smith | From Contingencies of Value | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1959.md |
+| 1960 | Barbara Herrnstein Smith | From Contingencies of Value | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1960.md |
+| 1961 | Barbara Herrnstein Smith | From Contingencies of Value | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1961.md |
+| 1962 | Barbara Herrnstein Smith | From Contingencies of Value | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1962.md |
+| 1963 | Barbara Herrnstein Smith | From Contingencies of Value | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1963.md |
+| 1964 | Barbara Herrnstein Smith | From Contingencies of Value | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1964.md |
+| 1965 | Barbara Herrnstein Smith | From Contingencies of Value | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1965.md |
+| 1966 | Barbara Herrnstein Smith | From Contingencies of Value | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1966.md |
+| 1967 | Barbara Herrnstein Smith | From Contingencies of Value | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1967.md |
+| 1968 | Barbara Herrnstein Smith | From Contingencies of Value | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1968.md |
+| 1969 | Barbara Herrnstein Smith | From Contingencies of Value | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1969.md |
+| 1970 | Barbara Herrnstein Smith | From Contingencies of Value | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1970.md |
+| 1971 | Barbara Herrnstein Smith | From Contingencies of Value | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1971.md |
+| 1972 | Barbara Herrnstein Smith | From Contingencies of Value | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1972.md |
+| 1973 | Barbara Herrnstein Smith | From Contingencies of Value | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1973.md |
+| 1974 | Barbara Herrnstein Smith | From Contingencies of Value | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1974.md |
+| 1975 | Barbara Herrnstein Smith | From Contingencies of Value | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1975.md |
+| 1981 | Fredric Jameson | From The Political Unconscious: Narrative as a Socially Symbolic Act | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1981.md |
+| 1982 | Fredric Jameson | From The Political Unconscious: Narrative as a Socially Symbolic Act | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1982.md |
+| 1983 | Fredric Jameson | From The Political Unconscious: Narrative as a Socially Symbolic Act | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1983.md |
+| 1984 | Fredric Jameson | From The Political Unconscious: Narrative as a Socially Symbolic Act | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1984.md |
+| 1985 | Fredric Jameson | From The Political Unconscious: Narrative as a Socially Symbolic Act | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1985.md |
+| 1986 | Fredric Jameson | From The Political Unconscious: Narrative as a Socially Symbolic Act | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1986.md |
+| 1987 | Fredric Jameson | From The Political Unconscious: Narrative as a Socially Symbolic Act | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1987.md |
+| 1988 | Fredric Jameson | From The Political Unconscious: Narrative as a Socially Symbolic Act | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1988.md |
+| 1989 | Fredric Jameson | From The Political Unconscious: Narrative as a Socially Symbolic Act | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1989.md |
+| 1990 | Fredric Jameson | From The Political Unconscious: Narrative as a Socially Symbolic Act | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1990.md |
+| 1991 | Fredric Jameson | From The Political Unconscious: Narrative as a Socially Symbolic Act | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1991.md |
+| 1992 | Fredric Jameson | From The Political Unconscious: Narrative as a Socially Symbolic Act | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1992.md |
+| 1993 | Fredric Jameson | From The Political Unconscious: Narrative as a Socially Symbolic Act | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1993.md |
+| 1994 | Fredric Jameson | From The Political Unconscious: Narrative as a Socially Symbolic Act | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1994.md |
+| 1995 | Fredric Jameson | From The Political Unconscious: Narrative as a Socially Symbolic Act | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1995.md |
+| 1996 | Fredric Jameson | From The Political Unconscious: Narrative as a Socially Symbolic Act | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1996.md |
+| 1997 | Fredric Jameson | From The Political Unconscious: Narrative as a Socially Symbolic Act | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1997.md |
+| 1998 | Fredric Jameson | From The Political Unconscious: Narrative as a Socially Symbolic Act | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1998.md |
+| 1999 | Fredric Jameson | From The Political Unconscious: Narrative as a Socially Symbolic Act | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1999.md |
+| 2000 | Fredric Jameson | From The Political Unconscious: Narrative as a Socially Symbolic Act | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_2000.md |
+| 2001 | Fredric Jameson | From The Political Unconscious: Narrative as a Socially Symbolic Act | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_2001.md |
+| 2002 | Fredric Jameson | From The Political Unconscious: Narrative as a Socially Symbolic Act | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_2002.md |
+| 2003 | Fredric Jameson | From The Political Unconscious: Narrative as a Socially Symbolic Act | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_2003.md |
+| 2004 | Fredric Jameson | Postmodernism and Consumer Society | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_2004.md |
+| 2005 | Fredric Jameson | Postmodernism and Consumer Society | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_2005.md |
+| 2006 | Fredric Jameson | Postmodernism and Consumer Society | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_2006.md |
+| 2007 | Fredric Jameson | Postmodernism and Consumer Society | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_2007.md |
+| 2008 | Fredric Jameson | Postmodernism and Consumer Society | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_2008.md |
+| 2009 | Fredric Jameson | Postmodernism and Consumer Society | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_2009.md |
+| 2010 | Fredric Jameson | Postmodernism and Consumer Society | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_2010.md |
+| 2011 | Fredric Jameson | Postmodernism and Consumer Society | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_2011.md |
+| 2012 | Fredric Jameson | Postmodernism and Consumer Society | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_2012.md |
+| 2013 | Fredric Jameson | Postmodernism and Consumer Society | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_2013.md |
+| 2014 | Fredric Jameson | Postmodernism and Consumer Society | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_2014.md |
+| 2015 | Fredric Jameson | Postmodernism and Consumer Society | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_2015.md |
+| 2016 | Fredric Jameson | Postmodernism and Consumer Society | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_2016.md |
+| 2017 | Fredric Jameson | Postmodernism and Consumer Society | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_2017.md |
+| 2018 | Fredric Jameson | Postmodernism and Consumer Society | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_2018.md |
+| 2021 | Gerald Vizenor | From Manifest Manners: Postindian Warriors of Survivance / Postindian Warriors | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2021.md |
+| 2022 | Gerald Vizenor | From Manifest Manners: Postindian Warriors of Survivance / Postindian Warriors | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2022.md |
+| 2023 | Gerald Vizenor | From Manifest Manners: Postindian Warriors of Survivance / Postindian Warriors | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2023.md |
+| 2024 | Gerald Vizenor | From Manifest Manners: Postindian Warriors of Survivance / Postindian Warriors | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2024.md |
+| 2025 | Gerald Vizenor | From Manifest Manners: Postindian Warriors of Survivance / Postindian Warriors | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2025.md |
+| 2026 | Gerald Vizenor | From Manifest Manners: Postindian Warriors of Survivance / Postindian Warriors | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2026.md |
+| 2027 | Gerald Vizenor | From Manifest Manners: Postindian Warriors of Survivance / Postindian Warriors | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2027.md |
+| 2028 | Gerald Vizenor | From Manifest Manners: Postindian Warriors of Survivance / Postindian Warriors | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2028.md |
+| 2029 | Gerald Vizenor | From Manifest Manners: Postindian Warriors of Survivance / Postindian Warriors | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2029.md |
+| 2035 | Edward W. Said | From Orientalism | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2035.md |
+| 2036 | Edward W. Said | From Orientalism | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2036.md |
+| 2037 | Edward W. Said | From Orientalism | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2037.md |
+| 2038 | Edward W. Said | From Orientalism | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2038.md |
+| 2039 | Edward W. Said | From Orientalism | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2039.md |
+| 2040 | Edward W. Said | From Orientalism | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2040.md |
+| 2041 | Edward W. Said | From Orientalism | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2041.md |
+| 2042 | Edward W. Said | From Orientalism | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2042.md |
+| 2043 | Edward W. Said | From Orientalism | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2043.md |
+| 2044 | Edward W. Said | From Orientalism | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2044.md |
+| 2045 | Edward W. Said | From Orientalism | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2045.md |
+| 2046 | Edward W. Said | From Orientalism | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2046.md |
+| 2047 | Edward W. Said | From Orientalism | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2047.md |

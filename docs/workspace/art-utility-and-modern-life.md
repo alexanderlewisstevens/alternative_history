@@ -40,6 +40,7 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/fanon-wretched-earth/"><strong>Frantz Fanon, The Wretched of the Earth</strong><span>colonialism, nationalism, culture; pages 1622-1636; 15 review rows</span></a>
   <a href="../norton-texts/ohmann-shaping-of-a-canon/"><strong>Richard Ohmann, The Shaping of a Canon: U.S. Fiction, 1960-1975</strong><span>canon, publishing, institutions; pages 1924-1938; 15 review rows</span></a>
   <a href="../norton-texts/hall-cultural-studies-theoretical-legacies/"><strong>Stuart Hall, Cultural Studies and Its Theoretical Legacies</strong><span>cultural-studies, hegemony, politics; pages 1942-1953; 12 review rows</span></a>
+  <a href="../norton-texts/jameson-postmodernism-consumer-society/"><strong>Fredric Jameson, Postmodernism and Consumer Society</strong><span>postmodernism, consumer-society, late-capitalism; pages 2004-2018; 15 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -69,6 +70,7 @@ This is a scaffold for reading the configured texts together. It should become a
 15. [Frantz Fanon, The Wretched of the Earth](norton-texts/fanon-wretched-earth.md)
 16. [Richard Ohmann, The Shaping of a Canon: U.S. Fiction, 1960-1975](norton-texts/ohmann-shaping-of-a-canon.md)
 17. [Stuart Hall, Cultural Studies and Its Theoretical Legacies](norton-texts/hall-cultural-studies-theoretical-legacies.md)
+18. [Fredric Jameson, Postmodernism and Consumer Society](norton-texts/jameson-postmodernism-consumer-society.md)
 
 ## Review Pressure
 
@@ -91,6 +93,7 @@ This is a scaffold for reading the configured texts together. It should become a
 | [The Wretched of the Earth](norton-texts/fanon-wretched-earth.md) | 1622-1636 | 15 | excerpt: 15 |
 | [The Shaping of a Canon: U.S. Fiction, 1960-1975](norton-texts/ohmann-shaping-of-a-canon.md) | 1924-1938 | 15 | excerpt: 15 |
 | [Cultural Studies and Its Theoretical Legacies](norton-texts/hall-cultural-studies-theoretical-legacies.md) | 1942-1953 | 12 | excerpt: 12 |
+| [Postmodernism and Consumer Society](norton-texts/jameson-postmodernism-consumer-society.md) | 2004-2018 | 15 | excerpt: 15 |
 
 ## Passage Queue
 
@@ -144,8 +147,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T06:31:55Z` |
-| Git commit | `90b00be` |
+| Generated at | `2026-06-13T06:37:11Z` |
+| Git commit | `5771067` |
 | Script version | `2` |
 | Output path | `docs/workspace/art-utility-and-modern-life.md` |
 

@@ -29,15 +29,18 @@ This private index is generated from curated source metadata and local extractio
 | [Edgar Allan Poe](edgar-allan-poe.md) | 1 | The Philosophy of Composition |
 | [Edmund Burke](edmund-burke.md) | 1 | A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful |
 | [Edmund Wilson](edmund-wilson.md) | 1 | Marxism and Literature |
+| [Edward W. Said](edward-w-said.md) | 1 | Orientalism |
 | [Edward Young](edward-young.md) | 1 | Conjectures on Original Composition |
 | [Ferdinand de Saussure](ferdinand-de-saussure.md) | 1 | Course in General Linguistics |
 | [Frantz Fanon](frantz-fanon.md) | 1 | The Wretched of the Earth |
+| [Fredric Jameson](fredric-jameson.md) | 2 | The Political Unconscious: Narrative as a Socially Symbolic Act, Postmodernism and Consumer Society |
 | [Friedrich Nietzsche](friedrich-nietzsche.md) | 2 | On Truth and Lying in a Non-Moral Sense, The Birth of Tragedy |
 | [Friedrich Schiller](friedrich-schiller.md) | 1 | On the Aesthetic Education of Man |
 | [Friedrich Schleiermacher](friedrich-schleiermacher.md) | 1 | Hermeneutics |
 | [Geoffrey of Vinsauf](geoffrey-of-vinsauf.md) | 1 | Poetria Nova |
 | [Georg Wilhelm Friedrich Hegel](georg-wilhelm-friedrich-hegel.md) | 1 | Phenomenology of Spirit and Lectures on Fine Art |
 | [Georges Poulet](georges-poulet.md) | 1 | Phenomenology of Reading |
+| [Gerald Vizenor](gerald-vizenor.md) | 1 | Postindian Warriors |
 | [Germaine de Stael](germaine-de-stael.md) | 1 | Essay on Fictions and On Literature Considered in Its Relationship to Social Institutions |
 | [Giacopo Mazzoni](giacopo-mazzoni.md) | 1 | On the Defense of the Comedy of Dante |
 | [Giambattista Giraldi](giambattista-giraldi.md) | 1 | Discourse on the Composition of Romances |
@@ -136,7 +139,7 @@ This private index is generated from curated source metadata and local extractio
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
-| Generated at | `2026-06-13T06:31:58Z` |
-| Git commit | `90b00be` |
+| Generated at | `2026-06-13T06:37:16Z` |
+| Git commit | `5771067` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/index.md` |

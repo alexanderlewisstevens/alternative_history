@@ -94,8 +94,8 @@ This note turns the current Norton chunk for Paul de Man into a navigable worksp
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/paul-de-man.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T06:32:05Z` |
-| Git commit | `90b00be` |
+| Generated at | `2026-06-13T06:37:23Z` |
+| Git commit | `5771067` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/de-man-return-to-philology.md` |
 

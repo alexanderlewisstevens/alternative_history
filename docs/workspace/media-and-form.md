@@ -69,6 +69,8 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/white-historical-text-literary-artifact/"><strong>Hayden White, The Historical Text as Literary Artifact</strong><span>historiography, narrative, emplotment; pages 1756-1772; 17 review rows</span></a>
   <a href="../norton-texts/baudrillard-precession-simulacra/"><strong>Jean Baudrillard, The Precession of Simulacra</strong><span>simulation, signs, media; pages 1776-1784; 9 review rows</span></a>
   <a href="../norton-texts/habermas-modernity-incomplete-project/"><strong>Jurgen Habermas, Modernity - An Incomplete Project</strong><span>modernity, enlightenment, culture; pages 1793-1802; 10 review rows</span></a>
+  <a href="../norton-texts/jameson-postmodernism-consumer-society/"><strong>Fredric Jameson, Postmodernism and Consumer Society</strong><span>postmodernism, consumer-society, late-capitalism; pages 2004-2018; 15 review rows</span></a>
+  <a href="../norton-texts/vizenor-postindian-warriors/"><strong>Gerald Vizenor, Postindian Warriors</strong><span>survivance, simulation, native-studies; pages 2021-2029; 9 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -127,6 +129,8 @@ This is a scaffold for reading the configured texts together. It should become a
 44. [Hayden White, The Historical Text as Literary Artifact](norton-texts/white-historical-text-literary-artifact.md)
 45. [Jean Baudrillard, The Precession of Simulacra](norton-texts/baudrillard-precession-simulacra.md)
 46. [Jurgen Habermas, Modernity - An Incomplete Project](norton-texts/habermas-modernity-incomplete-project.md)
+47. [Fredric Jameson, Postmodernism and Consumer Society](norton-texts/jameson-postmodernism-consumer-society.md)
+48. [Gerald Vizenor, Postindian Warriors](norton-texts/vizenor-postindian-warriors.md)
 
 ## Review Pressure
 
@@ -178,6 +182,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | [The Historical Text as Literary Artifact](norton-texts/white-historical-text-literary-artifact.md) | 1756-1772 | 17 | excerpt: 17 |
 | [The Precession of Simulacra](norton-texts/baudrillard-precession-simulacra.md) | 1776-1784 | 9 | excerpt: 9 |
 | [Modernity - An Incomplete Project](norton-texts/habermas-modernity-incomplete-project.md) | 1793-1802 | 10 | excerpt: 10 |
+| [Postmodernism and Consumer Society](norton-texts/jameson-postmodernism-consumer-society.md) | 2004-2018 | 15 | excerpt: 15 |
+| [Postindian Warriors](norton-texts/vizenor-postindian-warriors.md) | 2021-2029 | 9 | excerpt: 9 |
 
 ## Passage Queue
 
@@ -231,8 +237,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T06:31:55Z` |
-| Git commit | `90b00be` |
+| Generated at | `2026-06-13T06:37:10Z` |
+| Git commit | `5771067` |
 | Script version | `2` |
 | Output path | `docs/workspace/media-and-form.md` |
 
