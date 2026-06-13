@@ -20,7 +20,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [The American Scholar and The Poet](../norton-texts/emerson-american-scholar-poet.md) | 759-767 | 8 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[beauty-and-ascent](../beauty-and-ascent.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[sublime-and-limits](../sublime-and-limits.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md) | `edition-review-needed` |
+| [The American Scholar and The Poet](../norton-texts/emerson-american-scholar-poet.md) | 759-780 | 21 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[beauty-and-ascent](../beauty-and-ascent.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[sublime-and-limits](../sublime-and-limits.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -44,9 +44,9 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Signal | Value |
 | --- | --- |
-| Page kinds | excerpt: 5<br>author_intro: 4 |
-| Review rows | 8 |
-| Review reasons | mixed_transition_page: 4<br>transition_from_previous_author: 4<br>multi_column_layout: 2<br>mixed_work_transition_page: 2<br>source_notes_detected: 1 |
+| Page kinds | excerpt: 18<br>author_intro: 4 |
+| Review rows | 21 |
+| Review reasons | mixed_work_transition_page: 15<br>mixed_transition_page: 4<br>transition_from_previous_author: 4<br>multi_column_layout: 2<br>source_notes_detected: 1 |
 
 ## Passage Queue
 
@@ -97,8 +97,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T04:47:48Z` |
-| Git commit | `1935a63` |
+| Generated at | `2026-06-13T04:56:01Z` |
+| Git commit | `96d61b9` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/ralph-waldo-emerson.md` |
 

@@ -20,7 +20,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [A Defence of Poetry](../norton-texts/shelley-defence-poetry.md) | 738-758 | 19 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[beauty-and-ascent](../beauty-and-ascent.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[sublime-and-limits](../sublime-and-limits.md)<br>[romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md) | `edition-review-needed` |
+| [A Defence of Poetry](../norton-texts/shelley-defence-poetry.md) | 738-758 | 19 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[beauty-and-ascent](../beauty-and-ascent.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[sublime-and-limits](../sublime-and-limits.md)<br>[romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md)<br>[art-utility-and-modern-life](../art-utility-and-modern-life.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -28,6 +28,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 ## Constellation Backlinks
 
+- [art-utility-and-modern-life](../art-utility-and-modern-life.md)
 - [authorship-and-authority](../authorship-and-authority.md)
 - [beauty-and-ascent](../beauty-and-ascent.md)
 - [poetry-and-judgment](../poetry-and-judgment.md)
@@ -92,8 +93,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T04:47:48Z` |
-| Git commit | `1935a63` |
+| Generated at | `2026-06-13T04:56:01Z` |
+| Git commit | `96d61b9` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/percy-bysshe-shelley.md` |
 

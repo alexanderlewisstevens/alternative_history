@@ -41,6 +41,7 @@ This note turns the current Norton chunk for Percy Bysshe Shelley into a navigab
 | [taste-and-standards](../taste-and-standards.md) | How do communities make judgments of taste? | taste, criticism, consensus |
 | [sublime-and-limits](../sublime-and-limits.md) | What happens when experience exceeds form? | sublimity, affect, limit |
 | [romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md) | What can poetry do under modern social pressure? | poetry, modernity, imagination |
+| [art-utility-and-modern-life](../art-utility-and-modern-life.md) | What happens when art refuses usefulness? | utility, aestheticism, modernity |
 
 ## Passage Queue
 
@@ -49,7 +50,7 @@ This note turns the current Norton chunk for Percy Bysshe Shelley into a navigab
   <h3>Choose Passages After Review</h3>
   <p><strong>Source location:</strong> Norton page range 738-758.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
-  <p><strong>Use:</strong> Find the passages that make this text active inside poetry-and-judgment, beauty-and-ascent, authorship-and-authority, taste-and-standards, sublime-and-limits, romantic-poetry-and-modernity.</p>
+  <p><strong>Use:</strong> Find the passages that make this text active inside poetry-and-judgment, beauty-and-ascent, authorship-and-authority, taste-and-standards, sublime-and-limits, romantic-poetry-and-modernity, art-utility-and-modern-life.</p>
 </section>
 
 <section class="ah-passage-card">
@@ -93,8 +94,8 @@ This note turns the current Norton chunk for Percy Bysshe Shelley into a navigab
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/percy-bysshe-shelley.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T04:47:52Z` |
-| Git commit | `1935a63` |
+| Generated at | `2026-06-13T04:56:03Z` |
+| Git commit | `96d61b9` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/shelley-defence-poetry.md` |
 
@@ -113,6 +114,7 @@ This note turns the current Norton chunk for Percy Bysshe Shelley into a navigab
 <li><a href="../../taste-and-standards/">taste-and-standards</a></li>
 <li><a href="../../sublime-and-limits/">sublime-and-limits</a></li>
 <li><a href="../../romantic-poetry-and-modernity/">romantic-poetry-and-modernity</a></li>
+<li><a href="../../art-utility-and-modern-life/">art-utility-and-modern-life</a></li>
 </ul>
 
 ## Open Questions

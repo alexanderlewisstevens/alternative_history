@@ -42,6 +42,7 @@ This note turns the current Norton chunk for Germaine de Stael into a navigable 
 | [vernacular-and-institution](../vernacular-and-institution.md) | How do languages become institutions of thought? | vernacular, imitation, nation |
 | [authorship-and-authority](../authorship-and-authority.md) | Who is allowed to speak as an author? | authorship, gender, authority |
 | [aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md) | What kind of citizen can education form? | education, freedom, citizenship |
+| [labor-ideology-and-culture](../labor-ideology-and-culture.md) | How do work, institutions, and ideology shape culture? | labor, ideology, institutions |
 
 ## Passage Queue
 
@@ -50,7 +51,7 @@ This note turns the current Norton chunk for Germaine de Stael into a navigable 
   <h3>Choose Passages After Review</h3>
   <p><strong>Source location:</strong> Norton page range 636-651.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
-  <p><strong>Use:</strong> Find the passages that make this text active inside education-and-civic-life, vernacular-and-institution, authorship-and-authority, aesthetic-education-and-citizenship.</p>
+  <p><strong>Use:</strong> Find the passages that make this text active inside education-and-civic-life, vernacular-and-institution, authorship-and-authority, aesthetic-education-and-citizenship, labor-ideology-and-culture.</p>
 </section>
 
 <section class="ah-passage-card">
@@ -94,8 +95,8 @@ This note turns the current Norton chunk for Germaine de Stael into a navigable 
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/germaine-de-stael.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T04:47:52Z` |
-| Git commit | `1935a63` |
+| Generated at | `2026-06-13T04:56:03Z` |
+| Git commit | `96d61b9` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/stael-fictions-literature-social-institutions.md` |
 
@@ -112,6 +113,7 @@ This note turns the current Norton chunk for Germaine de Stael into a navigable 
 <li><a href="../../vernacular-and-institution/">vernacular-and-institution</a></li>
 <li><a href="../../authorship-and-authority/">authorship-and-authority</a></li>
 <li><a href="../../aesthetic-education-and-citizenship/">aesthetic-education-and-citizenship</a></li>
+<li><a href="../../labor-ideology-and-culture/">labor-ideology-and-culture</a></li>
 </ul>
 
 ## Open Questions

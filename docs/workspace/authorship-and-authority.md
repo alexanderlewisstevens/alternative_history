@@ -34,7 +34,10 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/wollstonecraft-rights-woman/"><strong>Mary Wollstonecraft, A Vindication of the Rights of Woman</strong><span>education, gender, citizenship; pages 624-635; 9 review rows</span></a>
   <a href="../norton-texts/stael-fictions-literature-social-institutions/"><strong>Germaine de Stael, Essay on Fictions and On Literature Considered in Its Relationship to Social Institutions</strong><span>literature, society, institutions; pages 636-651; 10 review rows</span></a>
   <a href="../norton-texts/shelley-defence-poetry/"><strong>Percy Bysshe Shelley, A Defence of Poetry</strong><span>poetry, imagination, social-change; pages 738-758; 19 review rows</span></a>
-  <a href="../norton-texts/emerson-american-scholar-poet/"><strong>Ralph Waldo Emerson, The American Scholar and The Poet</strong><span>scholarship, self-reliance, poetry; pages 759-767; 8 review rows</span></a>
+  <a href="../norton-texts/emerson-american-scholar-poet/"><strong>Ralph Waldo Emerson, The American Scholar and The Poet</strong><span>scholarship, self-reliance, poetry; pages 759-780; 21 review rows</span></a>
+  <a href="../norton-texts/poe-philosophy-composition/"><strong>Edgar Allan Poe, The Philosophy of Composition</strong><span>composition, craft, effect; pages 781-791; 11 review rows</span></a>
+  <a href="../norton-texts/gautier-preface-mademoiselle-de-maupin/"><strong>Theophile Gautier, Preface to Mademoiselle de Maupin</strong><span>aestheticism, art-for-art, utility; pages 792-800; 9 review rows</span></a>
+  <a href="../norton-texts/baudelaire-painter-modern-life/"><strong>Charles Baudelaire, The Painter of Modern Life</strong><span>modernity, art, fashion; pages 831-843; 9 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -59,6 +62,9 @@ This is a scaffold for reading the configured texts together. It should become a
 10. [Germaine de Stael, Essay on Fictions and On Literature Considered in Its Relationship to Social Institutions](norton-texts/stael-fictions-literature-social-institutions.md)
 11. [Percy Bysshe Shelley, A Defence of Poetry](norton-texts/shelley-defence-poetry.md)
 12. [Ralph Waldo Emerson, The American Scholar and The Poet](norton-texts/emerson-american-scholar-poet.md)
+13. [Edgar Allan Poe, The Philosophy of Composition](norton-texts/poe-philosophy-composition.md)
+14. [Theophile Gautier, Preface to Mademoiselle de Maupin](norton-texts/gautier-preface-mademoiselle-de-maupin.md)
+15. [Charles Baudelaire, The Painter of Modern Life](norton-texts/baudelaire-painter-modern-life.md)
 
 ## Review Pressure
 
@@ -75,7 +81,10 @@ This is a scaffold for reading the configured texts together. It should become a
 | [A Vindication of the Rights of Woman](norton-texts/wollstonecraft-rights-woman.md) | 624-635 | 9 | excerpt: 8<br>author_intro: 4 |
 | [Essay on Fictions and On Literature Considered in Its Relationship to Social Institutions](norton-texts/stael-fictions-literature-social-institutions.md) | 636-651 | 10 | excerpt: 13<br>author_intro: 3 |
 | [A Defence of Poetry](norton-texts/shelley-defence-poetry.md) | 738-758 | 19 | excerpt: 18<br>author_intro: 3 |
-| [The American Scholar and The Poet](norton-texts/emerson-american-scholar-poet.md) | 759-767 | 8 | excerpt: 5<br>author_intro: 4 |
+| [The American Scholar and The Poet](norton-texts/emerson-american-scholar-poet.md) | 759-780 | 21 | excerpt: 18<br>author_intro: 4 |
+| [The Philosophy of Composition](norton-texts/poe-philosophy-composition.md) | 781-791 | 11 | excerpt: 8<br>author_intro: 3 |
+| [Preface to Mademoiselle de Maupin](norton-texts/gautier-preface-mademoiselle-de-maupin.md) | 792-800 | 9 | excerpt: 6<br>author_intro: 3 |
+| [The Painter of Modern Life](norton-texts/baudelaire-painter-modern-life.md) | 831-843 | 9 | excerpt: 9<br>author_intro: 4 |
 
 ## Passage Queue
 
@@ -129,8 +138,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T04:47:13Z` |
-| Git commit | `1935a63` |
+| Generated at | `2026-06-13T04:55:22Z` |
+| Git commit | `96d61b9` |
 | Script version | `2` |
 | Output path | `docs/workspace/authorship-and-authority.md` |
 

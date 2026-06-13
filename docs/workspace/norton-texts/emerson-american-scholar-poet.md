@@ -20,11 +20,11 @@ This note turns the current Norton chunk for Ralph Waldo Emerson into a navigabl
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Chunk Status</span>
-  <h3>Norton Pages 759-767</h3>
-  <p><strong>Page count:</strong> 9</p>
+  <h3>Norton Pages 759-780</h3>
+  <p><strong>Page count:</strong> 22</p>
   <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/ralph-waldo-emerson.md</code></p>
-  <p><strong>Page kinds:</strong> excerpt: 5<br>author_intro: 4</p>
-  <p><strong>Review pressure:</strong> 8 rows. mixed_transition_page: 4<br>transition_from_previous_author: 4<br>multi_column_layout: 2<br>mixed_work_transition_page: 2<br>source_notes_detected: 1</p>
+  <p><strong>Page kinds:</strong> excerpt: 18<br>author_intro: 4</p>
+  <p><strong>Review pressure:</strong> 21 rows. mixed_work_transition_page: 15<br>mixed_transition_page: 4<br>transition_from_previous_author: 4<br>multi_column_layout: 2<br>source_notes_detected: 1</p>
 </section>
 
 ## Works And Excerpt Blocks
@@ -52,7 +52,7 @@ This note turns the current Norton chunk for Ralph Waldo Emerson into a navigabl
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Anchor Candidates</span>
   <h3>Choose Passages After Review</h3>
-  <p><strong>Source location:</strong> Norton page range 759-767.</p>
+  <p><strong>Source location:</strong> Norton page range 759-780.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
   <p><strong>Use:</strong> Find the passages that make this text active inside poetry-and-judgment, beauty-and-ascent, education-and-civic-life, vernacular-and-institution, authorship-and-authority, taste-and-standards, sublime-and-limits, aesthetic-education-and-citizenship, romantic-poetry-and-modernity.</p>
 </section>
@@ -60,7 +60,7 @@ This note turns the current Norton chunk for Ralph Waldo Emerson into a navigabl
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Review Before Quoting</span>
   <h3>Layout, Notes, And Bibliography</h3>
-  <p><strong>Review signal:</strong> mixed_transition_page: 4<br>transition_from_previous_author: 4<br>multi_column_layout: 2<br>mixed_work_transition_page: 2<br>source_notes_detected: 1</p>
+  <p><strong>Review signal:</strong> mixed_work_transition_page: 15<br>mixed_transition_page: 4<br>transition_from_previous_author: 4<br>multi_column_layout: 2<br>source_notes_detected: 1</p>
   <p><strong>Editorial rule:</strong> source notes belong in source-note fields, bibliography belongs in bibliography fields, and excerpt text stays separate.</p>
 </section>
 
@@ -98,8 +98,8 @@ This note turns the current Norton chunk for Ralph Waldo Emerson into a navigabl
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/ralph-waldo-emerson.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T04:47:52Z` |
-| Git commit | `1935a63` |
+| Generated at | `2026-06-13T04:56:03Z` |
+| Git commit | `96d61b9` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/emerson-american-scholar-poet.md` |
 

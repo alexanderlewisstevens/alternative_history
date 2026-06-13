@@ -445,6 +445,56 @@ curated_texts:
       - poetry
       - nature
     status: edition-review-needed
+  - id: poe-philosophy-composition
+    title: The Philosophy of Composition
+    creator: Edgar Allan Poe
+    role: core-text-candidate
+    themes:
+      - composition
+      - craft
+      - effect
+      - method
+    status: edition-review-needed
+  - id: gautier-preface-mademoiselle-de-maupin
+    title: Preface to Mademoiselle de Maupin
+    creator: Theophile Gautier
+    role: core-text-candidate
+    themes:
+      - aestheticism
+      - art-for-art
+      - utility
+      - modernity
+    status: edition-review-needed
+  - id: marx-engels-selected-cultural-writings
+    title: Selected Cultural and Historical Writings
+    creator: Karl Marx and Friedrich Engels
+    role: core-text-candidate
+    themes:
+      - ideology
+      - labor
+      - capitalism
+      - culture
+    status: edition-review-needed
+  - id: baudelaire-painter-modern-life
+    title: The Painter of Modern Life
+    creator: Charles Baudelaire
+    role: core-text-candidate
+    themes:
+      - modernity
+      - art
+      - fashion
+      - urban-life
+    status: edition-review-needed
+  - id: arnold-selected-critical-prose
+    title: Selected Critical Prose
+    creator: Matthew Arnold
+    role: core-text-candidate
+    themes:
+      - criticism
+      - culture
+      - education
+      - public-life
+    status: edition-review-needed
 
 constellations:
   - id: rhetoric-and-force
@@ -487,6 +537,10 @@ constellations:
       - peacock-four-ages-poetry
       - shelley-defence-poetry
       - emerson-american-scholar-poet
+      - poe-philosophy-composition
+      - gautier-preface-mademoiselle-de-maupin
+      - baudelaire-painter-modern-life
+      - arnold-selected-critical-prose
     relations:
       - tension
       - craft
@@ -504,6 +558,7 @@ constellations:
       - schleiermacher-hermeneutics
       - hegel-phenomenology-fine-art
       - coleridge-statesmans-manual-biographia-literaria
+      - marx-engels-selected-cultural-writings
     relations:
       - writing
       - interpretation
@@ -521,6 +576,8 @@ constellations:
       - coleridge-statesmans-manual-biographia-literaria
       - shelley-defence-poetry
       - emerson-american-scholar-poet
+      - gautier-preface-mademoiselle-de-maupin
+      - baudelaire-painter-modern-life
     relations:
       - sublimity
       - ascent
@@ -539,6 +596,8 @@ constellations:
       - schleiermacher-hermeneutics
       - hegel-phenomenology-fine-art
       - coleridge-statesmans-manual-biographia-literaria
+      - baudelaire-painter-modern-life
+      - arnold-selected-critical-prose
     relations:
       - commentary
       - transmission
@@ -561,6 +620,8 @@ constellations:
       - wordsworth-lyrical-ballads-preface
       - coleridge-statesmans-manual-biographia-literaria
       - emerson-american-scholar-poet
+      - marx-engels-selected-cultural-writings
+      - arnold-selected-critical-prose
     relations:
       - pedagogy
       - civic-formation
@@ -577,6 +638,7 @@ constellations:
       - stael-fictions-literature-social-institutions
       - wordsworth-lyrical-ballads-preface
       - emerson-american-scholar-poet
+      - baudelaire-painter-modern-life
     relations:
       - vernacular
       - imitation
@@ -609,6 +671,9 @@ constellations:
       - stael-fictions-literature-social-institutions
       - shelley-defence-poetry
       - emerson-american-scholar-poet
+      - poe-philosophy-composition
+      - gautier-preface-mademoiselle-de-maupin
+      - baudelaire-painter-modern-life
     relations:
       - authorship
       - gender
@@ -630,6 +695,10 @@ constellations:
       - peacock-four-ages-poetry
       - shelley-defence-poetry
       - emerson-american-scholar-poet
+      - poe-philosophy-composition
+      - gautier-preface-mademoiselle-de-maupin
+      - baudelaire-painter-modern-life
+      - arnold-selected-critical-prose
     relations:
       - taste
       - criticism
@@ -646,6 +715,8 @@ constellations:
       - coleridge-statesmans-manual-biographia-literaria
       - shelley-defence-poetry
       - emerson-american-scholar-poet
+      - poe-philosophy-composition
+      - baudelaire-painter-modern-life
     relations:
       - sublimity
       - affect
@@ -659,6 +730,9 @@ constellations:
       - lessing-laocoon
       - wordsworth-lyrical-ballads-preface
       - coleridge-statesmans-manual-biographia-literaria
+      - poe-philosophy-composition
+      - gautier-preface-mademoiselle-de-maupin
+      - baudelaire-painter-modern-life
     relations:
       - medium
       - form
@@ -675,6 +749,8 @@ constellations:
       - wordsworth-lyrical-ballads-preface
       - coleridge-statesmans-manual-biographia-literaria
       - emerson-american-scholar-poet
+      - marx-engels-selected-cultural-writings
+      - arnold-selected-critical-prose
     relations:
       - education
       - freedom
@@ -687,10 +763,36 @@ constellations:
       - peacock-four-ages-poetry
       - shelley-defence-poetry
       - emerson-american-scholar-poet
+      - poe-philosophy-composition
+      - gautier-preface-mademoiselle-de-maupin
+      - baudelaire-painter-modern-life
     relations:
       - poetry
       - modernity
       - imagination
+  - id: art-utility-and-modern-life
+    question: What happens when art refuses usefulness?
+    texts:
+      - peacock-four-ages-poetry
+      - shelley-defence-poetry
+      - gautier-preface-mademoiselle-de-maupin
+      - baudelaire-painter-modern-life
+      - arnold-selected-critical-prose
+    relations:
+      - utility
+      - aestheticism
+      - modernity
+  - id: labor-ideology-and-culture
+    question: How do work, institutions, and ideology shape culture?
+    texts:
+      - vico-new-science
+      - stael-fictions-literature-social-institutions
+      - marx-engels-selected-cultural-writings
+      - arnold-selected-critical-prose
+    relations:
+      - labor
+      - ideology
+      - institutions
 
 research_tools:
   - id: worldcat

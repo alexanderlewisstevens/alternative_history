@@ -5,7 +5,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Boundary Review</div>
-  <div class="ah-metric-value">138</div>
+  <div class="ah-metric-value">158</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Content Separation</div>
@@ -13,7 +13,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Layout Review</div>
-  <div class="ah-metric-value">300</div>
+  <div class="ah-metric-value">305</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Source Notes</div>
@@ -21,7 +21,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">General Review</div>
-  <div class="ah-metric-value">3</div>
+  <div class="ah-metric-value">53</div>
 </div>
 </div>
 
@@ -29,10 +29,10 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 <div class="ah-review-grid">
 <section class="ah-review-card warn">
-  <div class="ah-review-card-kicker">138 pages</div>
+  <div class="ah-review-card-kicker">158 pages</div>
   <h3>Boundary Review</h3>
   <p>Confirm thinker and work boundaries before assembling public-facing drafts.</p>
-  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +126 more</p>
+  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +146 more</p>
 </section>
 <section class="ah-review-card warn">
   <div class="ah-review-card-kicker">9 pages</div>
@@ -41,10 +41,10 @@ This is the editorial queue for restricted extraction work. It is generated from
   <p><strong>Start:</strong> <code>72</code>, <code>199</code>, <code>285</code>, <code>297</code>, <code>344</code>, <code>368</code>, <code>443</code>, <code>469</code>, <code>655</code></p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">300 pages</div>
+  <div class="ah-review-card-kicker">305 pages</div>
   <h3>Layout Review</h3>
   <p>Confirm multi-column reading order before any summary or excerpt curation.</p>
-  <p><strong>Start:</strong> <code>73</code>, <code>79</code>, <code>80</code>, <code>82</code>, <code>83</code>, <code>84</code>, <code>86</code>, <code>90</code>, <code>91</code>, <code>92</code>, <code>93</code>, <code>94</code> +288 more</p>
+  <p><strong>Start:</strong> <code>73</code>, <code>79</code>, <code>80</code>, <code>82</code>, <code>83</code>, <code>84</code>, <code>86</code>, <code>90</code>, <code>91</code>, <code>92</code>, <code>93</code>, <code>94</code> +293 more</p>
 </section>
 <section class="ah-review-card neutral">
   <div class="ah-review-card-kicker">63 pages</div>
@@ -53,10 +53,10 @@ This is the editorial queue for restricted extraction work. It is generated from
   <p><strong>Start:</strong> <code>74</code>, <code>98</code>, <code>99</code>, <code>126</code>, <code>185</code>, <code>190</code>, <code>191</code>, <code>192</code>, <code>194</code>, <code>204</code>, <code>213</code>, <code>218</code> +51 more</p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">3 pages</div>
+  <div class="ah-review-card-kicker">53 pages</div>
   <h3>General Review</h3>
   <p>Resolve remaining template or classification questions.</p>
-  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code></p>
+  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +41 more</p>
 </section>
 </div>
 
@@ -72,11 +72,11 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Field | Value |
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
-| Classified source pages | `71-767` |
-| Review queue rows | `513` |
+| Classified source pages | `71-847` |
+| Review queue rows | `588` |
 | Review queue file | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
-| Generated at | `2026-06-13T04:47:45Z` |
-| Git commit | `1935a63` |
+| Generated at | `2026-06-13T04:56:00Z` |
+| Git commit | `96d61b9` |
 | Script version | `1` |
 | Output path | `docs/_meta/review-dashboard.md` |
 
@@ -84,17 +84,17 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 | Reason | Pages |
 | --- | ---: |
-| multi_column_layout | 311 |
-| source_notes_detected | 281 |
-| transition_from_previous_author | 121 |
+| multi_column_layout | 317 |
+| source_notes_detected | 284 |
+| transition_from_previous_author | 140 |
+| mixed_work_transition_page | 38 |
+| mixed_transition_page | 27 |
 | layout_review_required | 23 |
-| author_boundary_without_life_dates | 15 |
-| mixed_transition_page | 12 |
+| author_boundary_without_life_dates | 16 |
+| mixed_bibliography_and_work_title | 15 |
 | mixed_excerpt_and_bibliography | 9 |
 | transition_from_previous_work | 2 |
 | ocr_title_cleanup | 2 |
-| mixed_work_transition_page | 2 |
-| mixed_bibliography_and_work_title | 1 |
 
 ## Thinkers Needing Review
 
@@ -102,8 +102,10 @@ This is the editorial queue for restricted extraction work. It is generated from
 | --- | ---: |
 | Sir Philip Sidney | 39 |
 | Plato | 29 |
+| Karl Marx and Friedrich Engels | 29 |
 | Aristotle | 23 |
 | Samuel Johnson | 21 |
+| Ralph Waldo Emerson | 21 |
 | Alexander Pope | 20 |
 | Longinus | 19 |
 | Percy Bysshe Shelley | 19 |
@@ -121,6 +123,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Aphra Behn | 11 |
 | Giambattista Vico | 11 |
 | Edward Young | 11 |
+| Edgar Allan Poe | 11 |
 | Quintilian | 10 |
 | Hugh of St. Victor | 10 |
 | Joseph Addison | 10 |
@@ -131,7 +134,8 @@ This is the editorial queue for restricted extraction work. It is generated from
 | John Dryden | 9 |
 | Mary Wollstonecraft | 9 |
 | William Wordsworth | 9 |
-| Ralph Waldo Emerson | 8 |
+| Theophile Gautier | 9 |
+| Charles Baudelaire | 9 |
 | Plotinus | 7 |
 | Giambattista Giraldi | 7 |
 | David Hume | 7 |
@@ -141,6 +145,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Dante Alighieri | 5 |
 | Pierre de Ronsard | 5 |
 | Macrobius | 4 |
+| Matthew Arnold | 4 |
 | Gorgias of Leontini | 3 |
 | Christine de Pizan | 3 |
 
@@ -286,6 +291,26 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 760 | Ralph Waldo Emerson |  | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0760.md |
 | 761 | Ralph Waldo Emerson |  | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0761.md |
 | 762 | Ralph Waldo Emerson |  | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0762.md |
+| 781 | Edgar Allan Poe | Edgar Allan Poe | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0781.md |
+| 782 | Edgar Allan Poe |  | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0782.md |
+| 783 | Edgar Allan Poe | Edgar Allan Poe | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0783.md |
+| 792 | Theophile Gautier |  | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0792.md |
+| 793 | Theophile Gautier | Ti-i£ophile Gautier | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0793.md |
+| 794 | Theophile Gautier |  | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0794.md |
+| 801 | Karl Marx and Friedrich Engels | Karl Marx and Friedrich Engels | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0801.md |
+| 802 | Karl Marx and Friedrich Engels |  | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0802.md |
+| 803 | Karl Marx and Friedrich Engels | Karl Marx and Friedrich Engels | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0803.md |
+| 804 | Karl Marx and Friedrich Engels |  | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0804.md |
+| 805 | Karl Marx and Friedrich Engels |  | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0805.md |
+| 831 | Charles Baudelaire |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0831.md |
+| 832 | Charles Baudelaire |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0832.md |
+| 833 | Charles Baudelaire |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0833.md |
+| 834 | Charles Baudelaire | The Painter of Modern Life l | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0834.md |
+| 843 | Charles Baudelaire | The Painter of Modern Life | author_boundary_without_life_dates;multi_column_layout | work/page-records/norton-theory-criticism/page_0843.md |
+| 844 | Matthew Arnold |  | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0844.md |
+| 845 | Matthew Arnold |  | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0845.md |
+| 846 | Matthew Arnold |  | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0846.md |
+| 847 | Matthew Arnold |  | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0847.md |
 
 ## Content Separation
 
@@ -605,6 +630,11 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 758 | Percy Bysshe Shelley | A Defence of Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0758.md |
 | 764 | Ralph Waldo Emerson | The American Scholar | multi_column_layout | work/page-records/norton-theory-criticism/page_0764.md |
 | 765 | Ralph Waldo Emerson | The American Scholar | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0765.md |
+| 830 | Karl Marx and Friedrich Engels | Letter from Friedrich Engels to Joseph Bloch | multi_column_layout | work/page-records/norton-theory-criticism/page_0830.md |
+| 836 | Charles Baudelaire | The Painter of Modern Life | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0836.md |
+| 839 | Charles Baudelaire | The Painter of Modern Life | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0839.md |
+| 840 | Charles Baudelaire | The Painter of Modern Life | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0840.md |
+| 841 | Charles Baudelaire | The Painter of Modern Life | multi_column_layout | work/page-records/norton-theory-criticism/page_0841.md |
 
 ## Source Notes
 
@@ -681,3 +711,53 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 690 | William Wordsworth | Preface to Lyrical Ballads | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_0690.md |
 | 766 | Ralph Waldo Emerson | The Poet | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0766.md |
 | 767 | Ralph Waldo Emerson | The Poet | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0767.md |
+| 768 | Ralph Waldo Emerson | The Poet | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0768.md |
+| 769 | Ralph Waldo Emerson | The Poet | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0769.md |
+| 770 | Ralph Waldo Emerson | The Poet | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0770.md |
+| 771 | Ralph Waldo Emerson | The Poet | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0771.md |
+| 772 | Ralph Waldo Emerson | The Poet | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0772.md |
+| 773 | Ralph Waldo Emerson | The Poet | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0773.md |
+| 774 | Ralph Waldo Emerson | The Poet | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0774.md |
+| 775 | Ralph Waldo Emerson | The Poet | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0775.md |
+| 776 | Ralph Waldo Emerson | The Poet | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0776.md |
+| 777 | Ralph Waldo Emerson | The Poet | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0777.md |
+| 778 | Ralph Waldo Emerson | The Poet | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0778.md |
+| 779 | Ralph Waldo Emerson | The Poet | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0779.md |
+| 780 | Ralph Waldo Emerson | The Poet | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0780.md |
+| 784 | Edgar Allan Poe | The Philosophy of Composition | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_0784.md |
+| 785 | Edgar Allan Poe | The Philosophy of Composition | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_0785.md |
+| 786 | Edgar Allan Poe | The Philosophy of Composition | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_0786.md |
+| 787 | Edgar Allan Poe | The Philosophy of Composition | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_0787.md |
+| 788 | Edgar Allan Poe | The Philosophy of Composition | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_0788.md |
+| 789 | Edgar Allan Poe | The Philosophy of Composition | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_0789.md |
+| 790 | Edgar Allan Poe | The Philosophy of Composition | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_0790.md |
+| 791 | Edgar Allan Poe | The Philosophy of Composition | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_0791.md |
+| 795 | Theophile Gautier | Preface to Mademoiselle de Maupin | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_0795.md |
+| 796 | Theophile Gautier | Preface to Mademoiselle de Maupin | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_0796.md |
+| 797 | Theophile Gautier | Preface to Mademoiselle de Maupin | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_0797.md |
+| 798 | Theophile Gautier | Preface to Mademoiselle de Maupin | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_0798.md |
+| 799 | Theophile Gautier | Preface to Mademoiselle de Maupin | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_0799.md |
+| 800 | Theophile Gautier | Preface to Mademoiselle de Maupin | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_0800.md |
+| 806 | Karl Marx and Friedrich Engels | Economic and Philosophic Manuscripts of 1844 | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0806.md |
+| 807 | Karl Marx and Friedrich Engels | Economic and Philosophic Manuscripts of 1844 | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0807.md |
+| 808 | Karl Marx and Friedrich Engels | Economic and Philosophic Manuscripts of 1844 | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0808.md |
+| 809 | Karl Marx and Friedrich Engels | Economic and Philosophic Manuscripts of 1844 | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0809.md |
+| 810 | Karl Marx and Friedrich Engels | The German Ideology | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0810.md |
+| 811 | Karl Marx and Friedrich Engels | The German Ideology | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0811.md |
+| 812 | Karl Marx and Friedrich Engels | The Communist Manifesto | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0812.md |
+| 813 | Karl Marx and Friedrich Engels | The Communist Manifesto | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0813.md |
+| 814 | Karl Marx and Friedrich Engels | The Communist Manifesto | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0814.md |
+| 815 | Karl Marx and Friedrich Engels | The Communist Manifesto | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0815.md |
+| 816 | Karl Marx and Friedrich Engels | Grundrisse | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0816.md |
+| 818 | Karl Marx and Friedrich Engels | Capital, Volume 1 | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0818.md |
+| 819 | Karl Marx and Friedrich Engels | Capital, Volume 1 | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0819.md |
+| 820 | Karl Marx and Friedrich Engels | Capital, Volume 1 | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0820.md |
+| 821 | Karl Marx and Friedrich Engels | Capital, Volume 1 | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0821.md |
+| 822 | Karl Marx and Friedrich Engels | Capital, Volume 1 | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0822.md |
+| 823 | Karl Marx and Friedrich Engels | Capital, Volume 1 | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0823.md |
+| 824 | Karl Marx and Friedrich Engels | Capital, Volume 1 | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0824.md |
+| 825 | Karl Marx and Friedrich Engels | Capital, Volume 1 | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0825.md |
+| 826 | Karl Marx and Friedrich Engels | Capital, Volume 1 | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0826.md |
+| 827 | Karl Marx and Friedrich Engels | Capital, Volume 1 | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0827.md |
+| 828 | Karl Marx and Friedrich Engels | Capital, Volume 1 | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0828.md |
+| 829 | Karl Marx and Friedrich Engels | Capital, Volume 1 | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0829.md |

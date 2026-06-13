@@ -20,7 +20,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [Essay on Fictions and On Literature Considered in Its Relationship to Social Institutions](../norton-texts/stael-fictions-literature-social-institutions.md) | 636-651 | 10 | 0 | [education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md) | `edition-review-needed` |
+| [Essay on Fictions and On Literature Considered in Its Relationship to Social Institutions](../norton-texts/stael-fictions-literature-social-institutions.md) | 636-651 | 10 | 0 | [education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -34,6 +34,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 - [aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)
 - [authorship-and-authority](../authorship-and-authority.md)
 - [education-and-civic-life](../education-and-civic-life.md)
+- [labor-ideology-and-culture](../labor-ideology-and-culture.md)
 - [vernacular-and-institution](../vernacular-and-institution.md)
 
 ## Review Pressure
@@ -93,8 +94,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T04:47:47Z` |
-| Git commit | `1935a63` |
+| Generated at | `2026-06-13T04:56:01Z` |
+| Git commit | `96d61b9` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/germaine-de-stael.md` |
 

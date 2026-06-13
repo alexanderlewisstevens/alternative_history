@@ -29,6 +29,9 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/lessing-laocoon/"><strong>Gotthold Ephraim Lessing, Laocoon</strong><span>media, poetry, painting; pages 593-612; 15 review rows</span></a>
   <a href="../norton-texts/wordsworth-lyrical-ballads-preface/"><strong>William Wordsworth, Preface to Lyrical Ballads</strong><span>poetry, common-life, language; pages 687-709; 9 review rows</span></a>
   <a href="../norton-texts/coleridge-statesmans-manual-biographia-literaria/"><strong>Samuel Taylor Coleridge, The Statesman&#x27;s Manual and Biographia Literaria</strong><span>imagination, symbol, poetry; pages 710-723; 13 review rows</span></a>
+  <a href="../norton-texts/poe-philosophy-composition/"><strong>Edgar Allan Poe, The Philosophy of Composition</strong><span>composition, craft, effect; pages 781-791; 11 review rows</span></a>
+  <a href="../norton-texts/gautier-preface-mademoiselle-de-maupin/"><strong>Theophile Gautier, Preface to Mademoiselle de Maupin</strong><span>aestheticism, art-for-art, utility; pages 792-800; 9 review rows</span></a>
+  <a href="../norton-texts/baudelaire-painter-modern-life/"><strong>Charles Baudelaire, The Painter of Modern Life</strong><span>modernity, art, fashion; pages 831-843; 9 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -47,6 +50,9 @@ This is a scaffold for reading the configured texts together. It should become a
 4. [Gotthold Ephraim Lessing, Laocoon](norton-texts/lessing-laocoon.md)
 5. [William Wordsworth, Preface to Lyrical Ballads](norton-texts/wordsworth-lyrical-ballads-preface.md)
 6. [Samuel Taylor Coleridge, The Statesman&#x27;s Manual and Biographia Literaria](norton-texts/coleridge-statesmans-manual-biographia-literaria.md)
+7. [Edgar Allan Poe, The Philosophy of Composition](norton-texts/poe-philosophy-composition.md)
+8. [Theophile Gautier, Preface to Mademoiselle de Maupin](norton-texts/gautier-preface-mademoiselle-de-maupin.md)
+9. [Charles Baudelaire, The Painter of Modern Life](norton-texts/baudelaire-painter-modern-life.md)
 
 ## Review Pressure
 
@@ -58,6 +64,9 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Laocoon](norton-texts/lessing-laocoon.md) | 593-612 | 15 | excerpt: 17<br>author_intro: 3 |
 | [Preface to Lyrical Ballads](norton-texts/wordsworth-lyrical-ballads-preface.md) | 687-709 | 9 | excerpt: 19<br>author_intro: 3<br>bibliography: 1 |
 | [The Statesman&#x27;s Manual and Biographia Literaria](norton-texts/coleridge-statesmans-manual-biographia-literaria.md) | 710-723 | 13 | excerpt: 9<br>author_intro: 5 |
+| [The Philosophy of Composition](norton-texts/poe-philosophy-composition.md) | 781-791 | 11 | excerpt: 8<br>author_intro: 3 |
+| [Preface to Mademoiselle de Maupin](norton-texts/gautier-preface-mademoiselle-de-maupin.md) | 792-800 | 9 | excerpt: 6<br>author_intro: 3 |
+| [The Painter of Modern Life](norton-texts/baudelaire-painter-modern-life.md) | 831-843 | 9 | excerpt: 9<br>author_intro: 4 |
 
 ## Passage Queue
 
@@ -111,8 +120,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T04:47:13Z` |
-| Git commit | `1935a63` |
+| Generated at | `2026-06-13T04:55:22Z` |
+| Git commit | `96d61b9` |
 | Script version | `2` |
 | Output path | `docs/workspace/media-and-form.md` |
 

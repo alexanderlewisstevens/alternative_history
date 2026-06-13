@@ -1377,7 +1377,7 @@ overrides:
     confidence: high
 
   - id: ralph-waldo-emerson-the-poet
-    pages: 766-767
+    pages: 766-780
     author_name: Ralph Waldo Emerson
     author_slug: ralph-waldo-emerson
     work_title: The Poet
@@ -1389,3 +1389,198 @@ overrides:
     review_required: true
     review_reasons:
       - mixed_work_transition_page
+
+  - id: edgar-allan-poe-headnote
+    pages: 781-783
+    author_name: Edgar Allan Poe
+    author_slug: edgar-allan-poe
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_transition_page
+
+  - id: edgar-allan-poe-philosophy-composition
+    pages: 784-791
+    author_name: Edgar Allan Poe
+    author_slug: edgar-allan-poe
+    work_title: The Philosophy of Composition
+    work_slug: the-philosophy-of-composition
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: theophile-gautier-headnote
+    pages: 792-794
+    author_name: Theophile Gautier
+    author_slug: theophile-gautier
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_transition_page
+
+  - id: theophile-gautier-preface-mademoiselle-de-maupin
+    pages: 795-800
+    author_name: Theophile Gautier
+    author_slug: theophile-gautier
+    work_title: Preface to Mademoiselle de Maupin
+    work_slug: preface-to-mademoiselle-de-maupin
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: karl-marx-friedrich-engels-headnote
+    pages: 801-805
+    author_name: Karl Marx and Friedrich Engels
+    author_slug: karl-marx-and-friedrich-engels
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_transition_page
+
+  - id: karl-marx-economic-philosophic-manuscripts
+    pages: 806-809
+    author_name: Karl Marx and Friedrich Engels
+    author_slug: karl-marx-and-friedrich-engels
+    work_title: Economic and Philosophic Manuscripts of 1844
+    work_slug: economic-and-philosophic-manuscripts-of-1844
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: karl-marx-german-ideology
+    pages: 810-811
+    author_name: Karl Marx and Friedrich Engels
+    author_slug: karl-marx-and-friedrich-engels
+    work_title: The German Ideology
+    work_slug: the-german-ideology
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: karl-marx-communist-manifesto
+    pages: 812-815
+    author_name: Karl Marx and Friedrich Engels
+    author_slug: karl-marx-and-friedrich-engels
+    work_title: The Communist Manifesto
+    work_slug: the-communist-manifesto
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: karl-marx-grundrisse
+    pages: 816
+    author_name: Karl Marx and Friedrich Engels
+    author_slug: karl-marx-and-friedrich-engels
+    work_title: Grundrisse
+    work_slug: grundrisse
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: karl-marx-preface-critique-political-economy
+    pages: 817
+    author_name: Karl Marx and Friedrich Engels
+    author_slug: karl-marx-and-friedrich-engels
+    work_title: Preface to A Contribution to the Critique of Political Economy
+    work_slug: preface-to-a-contribution-to-the-critique-of-political-economy
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: karl-marx-capital-volume-one
+    pages: 818-829
+    author_name: Karl Marx and Friedrich Engels
+    author_slug: karl-marx-and-friedrich-engels
+    work_title: Capital, Volume 1
+    work_slug: capital-volume-1
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: friedrich-engels-letter-to-joseph-bloch
+    pages: 830
+    author_name: Karl Marx and Friedrich Engels
+    author_slug: karl-marx-and-friedrich-engels
+    work_title: Letter from Friedrich Engels to Joseph Bloch
+    work_slug: letter-from-friedrich-engels-to-joseph-bloch
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: charles-baudelaire-headnote
+    pages: 831-834
+    author_name: Charles Baudelaire
+    author_slug: charles-baudelaire
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: charles-baudelaire-painter-modern-life
+    pages: 835-843
+    author_name: Charles Baudelaire
+    author_slug: charles-baudelaire
+    work_title: The Painter of Modern Life
+    work_slug: the-painter-of-modern-life
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: matthew-arnold-headnote
+    pages: 844-847
+    author_name: Matthew Arnold
+    author_slug: matthew-arnold
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_transition_page

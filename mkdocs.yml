@@ -73,6 +73,11 @@ nav:
           - Peacock, Four Ages of Poetry: workspace/norton-texts/peacock-four-ages-poetry.md
           - Shelley, Defence of Poetry: workspace/norton-texts/shelley-defence-poetry.md
           - Emerson, American Scholar and The Poet: workspace/norton-texts/emerson-american-scholar-poet.md
+          - Poe, Philosophy of Composition: workspace/norton-texts/poe-philosophy-composition.md
+          - Gautier, Preface to Mademoiselle de Maupin: workspace/norton-texts/gautier-preface-mademoiselle-de-maupin.md
+          - Marx and Engels, Cultural and Historical Writings: workspace/norton-texts/marx-engels-selected-cultural-writings.md
+          - Baudelaire, Painter of Modern Life: workspace/norton-texts/baudelaire-painter-modern-life.md
+          - Arnold, Selected Critical Prose: workspace/norton-texts/arnold-selected-critical-prose.md
       - Thinker Notes:
           - Index: workspace/thinkers/index.md
           - Gorgias of Leontini: workspace/thinkers/gorgias-of-leontini.md
@@ -118,6 +123,11 @@ nav:
           - Thomas Love Peacock: workspace/thinkers/thomas-love-peacock.md
           - Percy Bysshe Shelley: workspace/thinkers/percy-bysshe-shelley.md
           - Ralph Waldo Emerson: workspace/thinkers/ralph-waldo-emerson.md
+          - Edgar Allan Poe: workspace/thinkers/edgar-allan-poe.md
+          - Theophile Gautier: workspace/thinkers/theophile-gautier.md
+          - Karl Marx and Friedrich Engels: workspace/thinkers/karl-marx-and-friedrich-engels.md
+          - Charles Baudelaire: workspace/thinkers/charles-baudelaire.md
+          - Matthew Arnold: workspace/thinkers/matthew-arnold.md
       - Passage Notes:
           - Index: workspace/passages/index.md
           - Speech As Force: workspace/passages/gorgias-speech-as-force.md
@@ -137,6 +147,8 @@ nav:
       - Media And Form: workspace/media-and-form.md
       - Aesthetic Education And Citizenship: workspace/aesthetic-education-and-citizenship.md
       - Romantic Poetry And Modernity: workspace/romantic-poetry-and-modernity.md
+      - Art Utility And Modern Life: workspace/art-utility-and-modern-life.md
+      - Labor Ideology And Culture: workspace/labor-ideology-and-culture.md
       - Page Anatomy: workspace/page-anatomy.md
       - Gorgias Text Note: workspace/gorgias-encomium-helen.md
   - Project Notes:

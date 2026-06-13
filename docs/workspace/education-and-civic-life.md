@@ -37,7 +37,9 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/stael-fictions-literature-social-institutions/"><strong>Germaine de Stael, Essay on Fictions and On Literature Considered in Its Relationship to Social Institutions</strong><span>literature, society, institutions; pages 636-651; 10 review rows</span></a>
   <a href="../norton-texts/wordsworth-lyrical-ballads-preface/"><strong>William Wordsworth, Preface to Lyrical Ballads</strong><span>poetry, common-life, language; pages 687-709; 9 review rows</span></a>
   <a href="../norton-texts/coleridge-statesmans-manual-biographia-literaria/"><strong>Samuel Taylor Coleridge, The Statesman&#x27;s Manual and Biographia Literaria</strong><span>imagination, symbol, poetry; pages 710-723; 13 review rows</span></a>
-  <a href="../norton-texts/emerson-american-scholar-poet/"><strong>Ralph Waldo Emerson, The American Scholar and The Poet</strong><span>scholarship, self-reliance, poetry; pages 759-767; 8 review rows</span></a>
+  <a href="../norton-texts/emerson-american-scholar-poet/"><strong>Ralph Waldo Emerson, The American Scholar and The Poet</strong><span>scholarship, self-reliance, poetry; pages 759-780; 21 review rows</span></a>
+  <a href="../norton-texts/marx-engels-selected-cultural-writings/"><strong>Karl Marx and Friedrich Engels, Selected Cultural and Historical Writings</strong><span>ideology, labor, capitalism; pages 801-830; 29 review rows</span></a>
+  <a href="../norton-texts/arnold-selected-critical-prose/"><strong>Matthew Arnold, Selected Critical Prose</strong><span>criticism, culture, education; pages 844-847; 4 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -65,6 +67,8 @@ This is a scaffold for reading the configured texts together. It should become a
 13. [William Wordsworth, Preface to Lyrical Ballads](norton-texts/wordsworth-lyrical-ballads-preface.md)
 14. [Samuel Taylor Coleridge, The Statesman&#x27;s Manual and Biographia Literaria](norton-texts/coleridge-statesmans-manual-biographia-literaria.md)
 15. [Ralph Waldo Emerson, The American Scholar and The Poet](norton-texts/emerson-american-scholar-poet.md)
+16. [Karl Marx and Friedrich Engels, Selected Cultural and Historical Writings](norton-texts/marx-engels-selected-cultural-writings.md)
+17. [Matthew Arnold, Selected Critical Prose](norton-texts/arnold-selected-critical-prose.md)
 
 ## Review Pressure
 
@@ -84,7 +88,9 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Essay on Fictions and On Literature Considered in Its Relationship to Social Institutions](norton-texts/stael-fictions-literature-social-institutions.md) | 636-651 | 10 | excerpt: 13<br>author_intro: 3 |
 | [Preface to Lyrical Ballads](norton-texts/wordsworth-lyrical-ballads-preface.md) | 687-709 | 9 | excerpt: 19<br>author_intro: 3<br>bibliography: 1 |
 | [The Statesman&#x27;s Manual and Biographia Literaria](norton-texts/coleridge-statesmans-manual-biographia-literaria.md) | 710-723 | 13 | excerpt: 9<br>author_intro: 5 |
-| [The American Scholar and The Poet](norton-texts/emerson-american-scholar-poet.md) | 759-767 | 8 | excerpt: 5<br>author_intro: 4 |
+| [The American Scholar and The Poet](norton-texts/emerson-american-scholar-poet.md) | 759-780 | 21 | excerpt: 18<br>author_intro: 4 |
+| [Selected Cultural and Historical Writings](norton-texts/marx-engels-selected-cultural-writings.md) | 801-830 | 29 | excerpt: 25<br>author_intro: 5 |
+| [Selected Critical Prose](norton-texts/arnold-selected-critical-prose.md) | 844-847 | 4 | author_intro: 4 |
 
 ## Passage Queue
 
@@ -138,8 +144,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T04:47:13Z` |
-| Git commit | `1935a63` |
+| Generated at | `2026-06-13T04:55:22Z` |
+| Git commit | `96d61b9` |
 | Script version | `2` |
 | Output path | `docs/workspace/education-and-civic-life.md` |
 
