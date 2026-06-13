@@ -20,7 +20,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [Compulsory Heterosexuality and Lesbian Existence](../norton-texts/rich-compulsory-heterosexuality.md) | 1806-1807 | 2 | 0 | [commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
+| [Compulsory Heterosexuality and Lesbian Existence](../norton-texts/rich-compulsory-heterosexuality.md) | 1806-1824 | 19 | 0 | [commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -40,9 +40,9 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Signal | Value |
 | --- | --- |
-| Page kinds | author_intro: 3<br>excerpt: 2 |
-| Review rows | 5 |
-| Review reasons | continues_beyond_current_batch: 5<br>transition_from_previous_author: 3 |
+| Page kinds | excerpt: 19<br>author_intro: 3 |
+| Review rows | 22 |
+| Review reasons | selection_boundary_review: 19<br>continues_beyond_current_batch: 3<br>transition_from_previous_author: 3 |
 
 ## Passage Queue
 
@@ -93,8 +93,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T06:21:47Z` |
-| Git commit | `37412ef` |
+| Generated at | `2026-06-13T06:27:04Z` |
+| Git commit | `e688291` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/adrienne-rich.md` |
 

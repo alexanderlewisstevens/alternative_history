@@ -1312,6 +1312,71 @@ curated_texts:
       - institution
       - power
     status: edition-review-needed
+  - id: achebe-image-of-africa
+    title: "An Image of Africa: Racism in Conrad's Heart of Darkness"
+    creator: Chinua Achebe
+    extraction_work_titles:
+      - "An Image of Africa: Racism in Conrad's Heart of Darkness"
+    role: core-text-candidate
+    themes:
+      - postcolonialism
+      - canon
+      - race
+      - pedagogy
+    status: edition-review-needed
+  - id: bloom-anxiety-of-influence
+    title: The Anxiety of Influence
+    creator: Harold Bloom
+    extraction_work_titles:
+      - From The Anxiety of Influence
+      - The Anxiety of Influence
+    role: core-text-candidate
+    themes:
+      - influence
+      - canon
+      - poetry
+      - misreading
+    status: edition-review-needed
+  - id: bourdieu-distinction
+    title: Distinction
+    creator: Pierre Bourdieu
+    extraction_work_titles:
+      - From Distinction
+      - Distinction
+    role: core-text-candidate
+    themes:
+      - taste
+      - class
+      - cultural-capital
+      - institutions
+    status: edition-review-needed
+  - id: derrida-of-grammatology
+    title: Of Grammatology
+    creator: Jacques Derrida
+    extraction_work_titles:
+      - From Of Grammatology
+      - Of Grammatology
+    role: core-text-candidate
+    themes:
+      - writing
+      - logocentrism
+      - deconstruction
+      - method
+    status: edition-review-needed
+  - id: derrida-platos-pharmacy
+    title: "Dissemination / Plato's Pharmacy"
+    creator: Jacques Derrida
+    extraction_work_titles:
+      - From Dissemination / Plato's Pharmacy
+      - "Dissemination / Plato's Pharmacy"
+      - Plato's Pharmacy
+    role: core-text-candidate
+    themes:
+      - writing
+      - pharmakon
+      - deconstruction
+      - plato
+    status: edition-review-needed
 
 constellations:
   - id: rhetoric-and-force
@@ -1422,6 +1487,9 @@ constellations:
       - hirsch-objective-interpretation
       - white-historical-text-literary-artifact
       - baudrillard-precession-simulacra
+      - bloom-anxiety-of-influence
+      - derrida-of-grammatology
+      - derrida-platos-pharmacy
     relations:
       - writing
       - interpretation
@@ -1506,6 +1574,10 @@ constellations:
       - habermas-public-sphere
       - habermas-modernity-incomplete-project
       - rich-compulsory-heterosexuality
+      - achebe-image-of-africa
+      - bloom-anxiety-of-influence
+      - derrida-of-grammatology
+      - derrida-platos-pharmacy
     relations:
       - commentary
       - transmission
@@ -1561,6 +1633,8 @@ constellations:
       - habermas-public-sphere
       - habermas-modernity-incomplete-project
       - rich-compulsory-heterosexuality
+      - achebe-image-of-africa
+      - bourdieu-distinction
     relations:
       - pedagogy
       - civic-formation
@@ -1603,6 +1677,9 @@ constellations:
       - baudrillard-precession-simulacra
       - habermas-public-sphere
       - rich-compulsory-heterosexuality
+      - achebe-image-of-africa
+      - bourdieu-distinction
+      - derrida-of-grammatology
     relations:
       - vernacular
       - imitation
@@ -1662,6 +1739,10 @@ constellations:
       - hirsch-objective-interpretation
       - white-historical-text-literary-artifact
       - rich-compulsory-heterosexuality
+      - achebe-image-of-africa
+      - bloom-anxiety-of-influence
+      - derrida-of-grammatology
+      - derrida-platos-pharmacy
     relations:
       - authorship
       - gender
@@ -1764,6 +1845,8 @@ constellations:
       - benjamin-work-of-art-mechanical-reproduction
       - bakhtin-discourse-in-the-novel
       - horkheimer-adorno-culture-industry
+      - bloom-anxiety-of-influence
+      - bourdieu-distinction
       - jakobson-linguistics-and-poetics
       - jakobson-two-aspects-language-aphasia
       - lacan-agency-letter
@@ -1893,6 +1976,7 @@ constellations:
       - benjamin-work-of-art-mechanical-reproduction
       - horkheimer-adorno-culture-industry
       - wilson-marxism-and-literature
+      - bourdieu-distinction
       - hughes-negro-artist-racial-mountain
       - sartre-what-is-literature
       - beauvoir-second-sex
@@ -1910,6 +1994,8 @@ constellations:
       - habermas-public-sphere
       - habermas-modernity-incomplete-project
       - rich-compulsory-heterosexuality
+      - achebe-image-of-africa
+      - bourdieu-distinction
     relations:
       - labor
       - ideology
@@ -1966,6 +2052,10 @@ constellations:
       - habermas-public-sphere
       - habermas-modernity-incomplete-project
       - rich-compulsory-heterosexuality
+      - achebe-image-of-africa
+      - bloom-anxiety-of-influence
+      - derrida-of-grammatology
+      - derrida-platos-pharmacy
     relations:
       - language
       - fiction

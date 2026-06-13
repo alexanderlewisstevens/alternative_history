@@ -94,8 +94,8 @@ This note turns the current Norton chunk for Edgar Allan Poe into a navigable wo
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/edgar-allan-poe.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T06:21:52Z` |
-| Git commit | `37412ef` |
+| Generated at | `2026-06-13T06:27:09Z` |
+| Git commit | `e688291` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/poe-philosophy-composition.md` |
 

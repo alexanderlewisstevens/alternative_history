@@ -57,7 +57,10 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/foucault-truth-and-power/"><strong>Michel Foucault, Truth and Power</strong><span>truth, power, institutions; pages 1711-1713; 3 review rows</span></a>
   <a href="../norton-texts/baudrillard-precession-simulacra/"><strong>Jean Baudrillard, The Precession of Simulacra</strong><span>simulation, signs, media; pages 1776-1784; 9 review rows</span></a>
   <a href="../norton-texts/habermas-public-sphere/"><strong>Jurgen Habermas, The Structural Transformation of the Public Sphere</strong><span>public-sphere, citizenship, reason; pages 1788-1792; 5 review rows</span></a>
-  <a href="../norton-texts/rich-compulsory-heterosexuality/"><strong>Adrienne Rich, Compulsory Heterosexuality and Lesbian Existence</strong><span>feminism, sexuality, institution; pages 1806-1807; 2 review rows</span></a>
+  <a href="../norton-texts/rich-compulsory-heterosexuality/"><strong>Adrienne Rich, Compulsory Heterosexuality and Lesbian Existence</strong><span>feminism, sexuality, institution; pages 1806-1824; 19 review rows</span></a>
+  <a href="../norton-texts/achebe-image-of-africa/"><strong>Chinua Achebe, An Image of Africa: Racism in Conrad&#x27;s Heart of Darkness</strong><span>postcolonialism, canon, race; pages 1827-1837; 11 review rows</span></a>
+  <a href="../norton-texts/bourdieu-distinction/"><strong>Pierre Bourdieu, Distinction</strong><span>taste, class, cultural-capital; pages 1853-1858; 6 review rows</span></a>
+  <a href="../norton-texts/derrida-of-grammatology/"><strong>Jacques Derrida, Of Grammatology</strong><span>writing, logocentrism, deconstruction; pages 1866-1873; 8 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -105,6 +108,9 @@ This is a scaffold for reading the configured texts together. It should become a
 33. [Jean Baudrillard, The Precession of Simulacra](norton-texts/baudrillard-precession-simulacra.md)
 34. [Jurgen Habermas, The Structural Transformation of the Public Sphere](norton-texts/habermas-public-sphere.md)
 35. [Adrienne Rich, Compulsory Heterosexuality and Lesbian Existence](norton-texts/rich-compulsory-heterosexuality.md)
+36. [Chinua Achebe, An Image of Africa: Racism in Conrad&#x27;s Heart of Darkness](norton-texts/achebe-image-of-africa.md)
+37. [Pierre Bourdieu, Distinction](norton-texts/bourdieu-distinction.md)
+38. [Jacques Derrida, Of Grammatology](norton-texts/derrida-of-grammatology.md)
 
 ## Review Pressure
 
@@ -144,7 +150,10 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Truth and Power](norton-texts/foucault-truth-and-power.md) | 1711-1713 | 3 | excerpt: 3 |
 | [The Precession of Simulacra](norton-texts/baudrillard-precession-simulacra.md) | 1776-1784 | 9 | excerpt: 9 |
 | [The Structural Transformation of the Public Sphere](norton-texts/habermas-public-sphere.md) | 1788-1792 | 5 | excerpt: 5 |
-| [Compulsory Heterosexuality and Lesbian Existence](norton-texts/rich-compulsory-heterosexuality.md) | 1806-1807 | 2 | excerpt: 2 |
+| [Compulsory Heterosexuality and Lesbian Existence](norton-texts/rich-compulsory-heterosexuality.md) | 1806-1824 | 19 | excerpt: 19 |
+| [An Image of Africa: Racism in Conrad&#x27;s Heart of Darkness](norton-texts/achebe-image-of-africa.md) | 1827-1837 | 11 | excerpt: 11 |
+| [Distinction](norton-texts/bourdieu-distinction.md) | 1853-1858 | 6 | excerpt: 6 |
+| [Of Grammatology](norton-texts/derrida-of-grammatology.md) | 1866-1873 | 8 | excerpt: 8 |
 
 ## Passage Queue
 
@@ -198,8 +207,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T06:20:07Z` |
-| Git commit | `37412ef` |
+| Generated at | `2026-06-13T06:26:59Z` |
+| Git commit | `e688291` |
 | Script version | `2` |
 | Output path | `docs/workspace/vernacular-and-institution.md` |
 

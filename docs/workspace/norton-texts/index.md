@@ -10,11 +10,11 @@ This index is generated from curated source metadata and local extraction audit 
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Curated Text Nodes</div>
-  <div class="ah-metric-value">114</div>
+  <div class="ah-metric-value">119</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Assembled Chunks</div>
-  <div class="ah-metric-value">114</div>
+  <div class="ah-metric-value">119</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Constellations</div>
@@ -139,7 +139,12 @@ This index is generated from curated source metadata and local extraction audit 
 | [The Precession of Simulacra](baudrillard-precession-simulacra.md) | Jean Baudrillard | 1776-1784 | [signs-and-reading](../signs-and-reading.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[media-and-form](../media-and-form.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 9 | `edition-review-needed` |
 | [The Structural Transformation of the Public Sphere](habermas-public-sphere.md) | Jurgen Habermas | 1788-1792 | [commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 5 | `edition-review-needed` |
 | [Modernity - An Incomplete Project](habermas-modernity-incomplete-project.md) | Jurgen Habermas | 1793-1802 | [commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[media-and-form](../media-and-form.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 10 | `edition-review-needed` |
-| [Compulsory Heterosexuality and Lesbian Existence](rich-compulsory-heterosexuality.md) | Adrienne Rich | 1806-1807 | [commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 2 | `edition-review-needed` |
+| [Compulsory Heterosexuality and Lesbian Existence](rich-compulsory-heterosexuality.md) | Adrienne Rich | 1806-1824 | [commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 19 | `edition-review-needed` |
+| [An Image of Africa: Racism in Conrad&#x27;s Heart of Darkness](achebe-image-of-africa.md) | Chinua Achebe | 1827-1837 | [commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 11 | `edition-review-needed` |
+| [The Anxiety of Influence](bloom-anxiety-of-influence.md) | Harold Bloom | 1841-1849 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[media-and-form](../media-and-form.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 9 | `edition-review-needed` |
+| [Distinction](bourdieu-distinction.md) | Pierre Bourdieu | 1853-1858 | [education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[media-and-form](../media-and-form.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | 0 | 6 | `edition-review-needed` |
+| [Of Grammatology](derrida-of-grammatology.md) | Jacques Derrida | 1866-1873 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 8 | `edition-review-needed` |
+| [Dissemination / Plato&#x27;s Pharmacy](derrida-platos-pharmacy.md) | Jacques Derrida | 1874-1887 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | 0 | 14 | `edition-review-needed` |
 
 ## How To Use This Index
 
@@ -166,7 +171,7 @@ This index is generated from curated source metadata and local extraction audit 
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T06:21:54Z` |
-| Git commit | `37412ef` |
+| Generated at | `2026-06-13T06:27:11Z` |
+| Git commit | `e688291` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/index.md` |

@@ -71,7 +71,11 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/baudrillard-precession-simulacra/"><strong>Jean Baudrillard, The Precession of Simulacra</strong><span>simulation, signs, media; pages 1776-1784; 9 review rows</span></a>
   <a href="../norton-texts/habermas-public-sphere/"><strong>Jurgen Habermas, The Structural Transformation of the Public Sphere</strong><span>public-sphere, citizenship, reason; pages 1788-1792; 5 review rows</span></a>
   <a href="../norton-texts/habermas-modernity-incomplete-project/"><strong>Jurgen Habermas, Modernity - An Incomplete Project</strong><span>modernity, enlightenment, culture; pages 1793-1802; 10 review rows</span></a>
-  <a href="../norton-texts/rich-compulsory-heterosexuality/"><strong>Adrienne Rich, Compulsory Heterosexuality and Lesbian Existence</strong><span>feminism, sexuality, institution; pages 1806-1807; 2 review rows</span></a>
+  <a href="../norton-texts/rich-compulsory-heterosexuality/"><strong>Adrienne Rich, Compulsory Heterosexuality and Lesbian Existence</strong><span>feminism, sexuality, institution; pages 1806-1824; 19 review rows</span></a>
+  <a href="../norton-texts/achebe-image-of-africa/"><strong>Chinua Achebe, An Image of Africa: Racism in Conrad&#x27;s Heart of Darkness</strong><span>postcolonialism, canon, race; pages 1827-1837; 11 review rows</span></a>
+  <a href="../norton-texts/bloom-anxiety-of-influence/"><strong>Harold Bloom, The Anxiety of Influence</strong><span>influence, canon, poetry; pages 1841-1849; 9 review rows</span></a>
+  <a href="../norton-texts/derrida-of-grammatology/"><strong>Jacques Derrida, Of Grammatology</strong><span>writing, logocentrism, deconstruction; pages 1866-1873; 8 review rows</span></a>
+  <a href="../norton-texts/derrida-platos-pharmacy/"><strong>Jacques Derrida, Dissemination / Plato&#x27;s Pharmacy</strong><span>writing, pharmakon, deconstruction; pages 1874-1887; 14 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -133,6 +137,10 @@ This is a scaffold for reading the configured texts together. It should become a
 47. [Jurgen Habermas, The Structural Transformation of the Public Sphere](norton-texts/habermas-public-sphere.md)
 48. [Jurgen Habermas, Modernity - An Incomplete Project](norton-texts/habermas-modernity-incomplete-project.md)
 49. [Adrienne Rich, Compulsory Heterosexuality and Lesbian Existence](norton-texts/rich-compulsory-heterosexuality.md)
+50. [Chinua Achebe, An Image of Africa: Racism in Conrad&#x27;s Heart of Darkness](norton-texts/achebe-image-of-africa.md)
+51. [Harold Bloom, The Anxiety of Influence](norton-texts/bloom-anxiety-of-influence.md)
+52. [Jacques Derrida, Of Grammatology](norton-texts/derrida-of-grammatology.md)
+53. [Jacques Derrida, Dissemination / Plato&#x27;s Pharmacy](norton-texts/derrida-platos-pharmacy.md)
 
 ## Review Pressure
 
@@ -186,7 +194,11 @@ This is a scaffold for reading the configured texts together. It should become a
 | [The Precession of Simulacra](norton-texts/baudrillard-precession-simulacra.md) | 1776-1784 | 9 | excerpt: 9 |
 | [The Structural Transformation of the Public Sphere](norton-texts/habermas-public-sphere.md) | 1788-1792 | 5 | excerpt: 5 |
 | [Modernity - An Incomplete Project](norton-texts/habermas-modernity-incomplete-project.md) | 1793-1802 | 10 | excerpt: 10 |
-| [Compulsory Heterosexuality and Lesbian Existence](norton-texts/rich-compulsory-heterosexuality.md) | 1806-1807 | 2 | excerpt: 2 |
+| [Compulsory Heterosexuality and Lesbian Existence](norton-texts/rich-compulsory-heterosexuality.md) | 1806-1824 | 19 | excerpt: 19 |
+| [An Image of Africa: Racism in Conrad&#x27;s Heart of Darkness](norton-texts/achebe-image-of-africa.md) | 1827-1837 | 11 | excerpt: 11 |
+| [The Anxiety of Influence](norton-texts/bloom-anxiety-of-influence.md) | 1841-1849 | 9 | excerpt: 9 |
+| [Of Grammatology](norton-texts/derrida-of-grammatology.md) | 1866-1873 | 8 | excerpt: 8 |
+| [Dissemination / Plato&#x27;s Pharmacy](norton-texts/derrida-platos-pharmacy.md) | 1874-1887 | 14 | excerpt: 14 |
 
 ## Passage Queue
 
@@ -240,8 +252,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T06:20:10Z` |
-| Git commit | `37412ef` |
+| Generated at | `2026-06-13T06:27:01Z` |
+| Git commit | `e688291` |
 | Script version | `2` |
 | Output path | `docs/workspace/language-truth-and-fiction.md` |
 

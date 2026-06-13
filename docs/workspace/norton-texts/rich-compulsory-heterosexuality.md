@@ -20,11 +20,11 @@ This note turns the current Norton chunk for Adrienne Rich into a navigable work
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Chunk Status</span>
-  <h3>Norton Pages 1806-1807</h3>
-  <p><strong>Page count:</strong> 2</p>
+  <h3>Norton Pages 1806-1824</h3>
+  <p><strong>Page count:</strong> 19</p>
   <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/adrienne-rich.md</code></p>
-  <p><strong>Page kinds:</strong> excerpt: 2</p>
-  <p><strong>Review pressure:</strong> 2 rows. continues_beyond_current_batch: 2</p>
+  <p><strong>Page kinds:</strong> excerpt: 19</p>
+  <p><strong>Review pressure:</strong> 19 rows. selection_boundary_review: 19</p>
 </section>
 
 ## Works And Excerpt Blocks
@@ -48,7 +48,7 @@ This note turns the current Norton chunk for Adrienne Rich into a navigable work
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Anchor Candidates</span>
   <h3>Choose Passages After Review</h3>
-  <p><strong>Source location:</strong> Norton page range 1806-1807.</p>
+  <p><strong>Source location:</strong> Norton page range 1806-1824.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
   <p><strong>Use:</strong> Find the passages that make this text active inside commentary-and-afterlife, education-and-civic-life, vernacular-and-institution, authorship-and-authority, aesthetic-education-and-citizenship, labor-ideology-and-culture, language-truth-and-fiction.</p>
 </section>
@@ -56,7 +56,7 @@ This note turns the current Norton chunk for Adrienne Rich into a navigable work
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Review Before Quoting</span>
   <h3>Layout, Notes, And Bibliography</h3>
-  <p><strong>Review signal:</strong> continues_beyond_current_batch: 2</p>
+  <p><strong>Review signal:</strong> selection_boundary_review: 19</p>
   <p><strong>Editorial rule:</strong> source notes belong in source-note fields, bibliography belongs in bibliography fields, and excerpt text stays separate.</p>
 </section>
 
@@ -94,8 +94,8 @@ This note turns the current Norton chunk for Adrienne Rich into a navigable work
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/adrienne-rich.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T06:21:53Z` |
-| Git commit | `37412ef` |
+| Generated at | `2026-06-13T06:27:10Z` |
+| Git commit | `e688291` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/rich-compulsory-heterosexuality.md` |
 

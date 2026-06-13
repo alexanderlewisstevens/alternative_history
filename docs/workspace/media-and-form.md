@@ -49,6 +49,8 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/benjamin-work-of-art-mechanical-reproduction/"><strong>Walter Benjamin, The Work of Art in the Age of Mechanical Reproduction</strong><span>media, technology, aura; pages 1211-1229; 19 review rows</span></a>
   <a href="../norton-texts/bakhtin-discourse-in-the-novel/"><strong>Mikhail M. Bakhtin, Discourse in the Novel</strong><span>dialogism, heteroglossia, novel; pages 1234-1263; 30 review rows</span></a>
   <a href="../norton-texts/horkheimer-adorno-culture-industry/"><strong>Max Horkheimer and Theodor W. Adorno, The Culture Industry: Enlightenment as Mass Deception</strong><span>culture-industry, mass-culture, media; pages 1267-1283; 17 review rows</span></a>
+  <a href="../norton-texts/bloom-anxiety-of-influence/"><strong>Harold Bloom, The Anxiety of Influence</strong><span>influence, canon, poetry; pages 1841-1849; 9 review rows</span></a>
+  <a href="../norton-texts/bourdieu-distinction/"><strong>Pierre Bourdieu, Distinction</strong><span>taste, class, cultural-capital; pages 1853-1858; 6 review rows</span></a>
   <a href="../norton-texts/jakobson-linguistics-and-poetics/"><strong>Roman Jakobson, Linguistics and Poetics</strong><span>poetics, linguistics, semiotics; pages 1302-1307; 6 review rows</span></a>
   <a href="../norton-texts/jakobson-two-aspects-language-aphasia/"><strong>Roman Jakobson, Two Aspects of Language and Two Types of Aphasic Disturbances</strong><span>metaphor, metonymy, language; pages 1308-1312; 5 review rows</span></a>
   <a href="../norton-texts/lacan-agency-letter/"><strong>Jacques Lacan, The Agency of the Letter in the Unconscious</strong><span>psychoanalysis, language, unconscious; pages 1334-1345; 12 review rows</span></a>
@@ -105,24 +107,26 @@ This is a scaffold for reading the configured texts together. It should become a
 24. [Walter Benjamin, The Work of Art in the Age of Mechanical Reproduction](norton-texts/benjamin-work-of-art-mechanical-reproduction.md)
 25. [Mikhail M. Bakhtin, Discourse in the Novel](norton-texts/bakhtin-discourse-in-the-novel.md)
 26. [Max Horkheimer and Theodor W. Adorno, The Culture Industry: Enlightenment as Mass Deception](norton-texts/horkheimer-adorno-culture-industry.md)
-27. [Roman Jakobson, Linguistics and Poetics](norton-texts/jakobson-linguistics-and-poetics.md)
-28. [Roman Jakobson, Two Aspects of Language and Two Types of Aphasic Disturbances](norton-texts/jakobson-two-aspects-language-aphasia.md)
-29. [Jacques Lacan, The Agency of the Letter in the Unconscious](norton-texts/lacan-agency-letter.md)
-30. [Cleanth Brooks, The Well Wrought Urn](norton-texts/brooks-well-wrought-urn.md)
-31. [William K. Wimsatt Jr. and Monroe C. Beardsley, The Affective Fallacy](norton-texts/wimsatt-beardsley-affective-fallacy.md)
-32. [Claude Levi-Strauss, Tristes Tropiques](norton-texts/levi-strauss-tristes-tropiques.md)
-33. [J. L. Austin, Performative Utterances](norton-texts/austin-performative-utterances.md)
-34. [Roland Barthes, Mythologies](norton-texts/barthes-mythologies.md)
-35. [Roland Barthes, Work to Text](norton-texts/barthes-work-to-text.md)
-36. [Paul de Man, Semiology and Rhetoric](norton-texts/de-man-semiology-rhetoric.md)
-37. [Raymond Williams, Marxism and Literature](norton-texts/williams-marxism-literature.md)
-38. [Gilles Deleuze and Felix Guattari, A Thousand Plateaus](norton-texts/deleuze-guattari-thousand-plateaus.md)
-39. [Jean-Francois Lyotard, Defining the Postmodern](norton-texts/lyotard-defining-postmodern.md)
-40. [Michel Foucault, What Is an Author?](norton-texts/foucault-what-is-an-author.md)
-41. [Wolfgang Iser, Interaction Between Text and Reader](norton-texts/iser-interaction-text-reader.md)
-42. [Hayden White, The Historical Text as Literary Artifact](norton-texts/white-historical-text-literary-artifact.md)
-43. [Jean Baudrillard, The Precession of Simulacra](norton-texts/baudrillard-precession-simulacra.md)
-44. [Jurgen Habermas, Modernity - An Incomplete Project](norton-texts/habermas-modernity-incomplete-project.md)
+27. [Harold Bloom, The Anxiety of Influence](norton-texts/bloom-anxiety-of-influence.md)
+28. [Pierre Bourdieu, Distinction](norton-texts/bourdieu-distinction.md)
+29. [Roman Jakobson, Linguistics and Poetics](norton-texts/jakobson-linguistics-and-poetics.md)
+30. [Roman Jakobson, Two Aspects of Language and Two Types of Aphasic Disturbances](norton-texts/jakobson-two-aspects-language-aphasia.md)
+31. [Jacques Lacan, The Agency of the Letter in the Unconscious](norton-texts/lacan-agency-letter.md)
+32. [Cleanth Brooks, The Well Wrought Urn](norton-texts/brooks-well-wrought-urn.md)
+33. [William K. Wimsatt Jr. and Monroe C. Beardsley, The Affective Fallacy](norton-texts/wimsatt-beardsley-affective-fallacy.md)
+34. [Claude Levi-Strauss, Tristes Tropiques](norton-texts/levi-strauss-tristes-tropiques.md)
+35. [J. L. Austin, Performative Utterances](norton-texts/austin-performative-utterances.md)
+36. [Roland Barthes, Mythologies](norton-texts/barthes-mythologies.md)
+37. [Roland Barthes, Work to Text](norton-texts/barthes-work-to-text.md)
+38. [Paul de Man, Semiology and Rhetoric](norton-texts/de-man-semiology-rhetoric.md)
+39. [Raymond Williams, Marxism and Literature](norton-texts/williams-marxism-literature.md)
+40. [Gilles Deleuze and Felix Guattari, A Thousand Plateaus](norton-texts/deleuze-guattari-thousand-plateaus.md)
+41. [Jean-Francois Lyotard, Defining the Postmodern](norton-texts/lyotard-defining-postmodern.md)
+42. [Michel Foucault, What Is an Author?](norton-texts/foucault-what-is-an-author.md)
+43. [Wolfgang Iser, Interaction Between Text and Reader](norton-texts/iser-interaction-text-reader.md)
+44. [Hayden White, The Historical Text as Literary Artifact](norton-texts/white-historical-text-literary-artifact.md)
+45. [Jean Baudrillard, The Precession of Simulacra](norton-texts/baudrillard-precession-simulacra.md)
+46. [Jurgen Habermas, Modernity - An Incomplete Project](norton-texts/habermas-modernity-incomplete-project.md)
 
 ## Review Pressure
 
@@ -154,6 +158,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | [The Work of Art in the Age of Mechanical Reproduction](norton-texts/benjamin-work-of-art-mechanical-reproduction.md) | 1211-1229 | 19 | excerpt: 19 |
 | [Discourse in the Novel](norton-texts/bakhtin-discourse-in-the-novel.md) | 1234-1263 | 30 | excerpt: 30 |
 | [The Culture Industry: Enlightenment as Mass Deception](norton-texts/horkheimer-adorno-culture-industry.md) | 1267-1283 | 17 | excerpt: 17 |
+| [The Anxiety of Influence](norton-texts/bloom-anxiety-of-influence.md) | 1841-1849 | 9 | excerpt: 9 |
+| [Distinction](norton-texts/bourdieu-distinction.md) | 1853-1858 | 6 | excerpt: 6 |
 | [Linguistics and Poetics](norton-texts/jakobson-linguistics-and-poetics.md) | 1302-1307 | 6 | excerpt: 6 |
 | [Two Aspects of Language and Two Types of Aphasic Disturbances](norton-texts/jakobson-two-aspects-language-aphasia.md) | 1308-1312 | 5 | excerpt: 5 |
 | [The Agency of the Letter in the Unconscious](norton-texts/lacan-agency-letter.md) | 1334-1345 | 12 | excerpt: 12 |
@@ -225,8 +231,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T06:20:08Z` |
-| Git commit | `37412ef` |
+| Generated at | `2026-06-13T06:27:00Z` |
+| Git commit | `e688291` |
 | Script version | `2` |
 | Output path | `docs/workspace/media-and-form.md` |
 

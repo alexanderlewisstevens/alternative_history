@@ -18,6 +18,7 @@ This private index is generated from curated source metadata and local extractio
 | [Boris Eichenbaum](boris-eichenbaum.md) | 1 | The Theory of the Formal Method |
 | [Carl Gustav Jung](carl-gustav-jung.md) | 1 | On the Relation of Analytical Psychology to Poetry |
 | [Charles Baudelaire](charles-baudelaire.md) | 1 | The Painter of Modern Life |
+| [Chinua Achebe](chinua-achebe.md) | 1 | An Image of Africa: Racism in Conrad&#x27;s Heart of Darkness |
 | [Christine de Pizan](christine-de-pizan.md) | 1 | The Book of the City of Ladies |
 | [Claude Levi-Strauss](claude-levi-strauss.md) | 1 | Tristes Tropiques |
 | [Cleanth Brooks](cleanth-brooks.md) | 1 | The Well Wrought Urn |
@@ -46,6 +47,7 @@ This private index is generated from curated source metadata and local extractio
 | [Gotthold Ephraim Lessing](gotthold-ephraim-lessing.md) | 1 | Laocoon |
 | [Gyorgy Lukacs](gyorgy-lukacs.md) | 1 | Realism in the Balance |
 | [Hans Robert Jauss](hans-robert-jauss.md) | 1 | Literary History as a Challenge to Literary Theory |
+| [Harold Bloom](harold-bloom.md) | 1 | The Anxiety of Influence |
 | [Hayden White](hayden-white.md) | 1 | The Historical Text as Literary Artifact |
 | [Henry James](henry-james.md) | 1 | The Art of Fiction |
 | [Horace](horace.md) | 1 | Ars Poetica |
@@ -53,6 +55,7 @@ This private index is generated from curated source metadata and local extractio
 | [Immanuel Kant](immanuel-kant.md) | 1 | Critique of Judgment |
 | [Irving Howe](irving-howe.md) | 1 | History and the Novel |
 | [J. L. Austin](j-l-austin.md) | 1 | Performative Utterances |
+| [Jacques Derrida](jacques-derrida.md) | 2 | Of Grammatology, Dissemination / Plato&#x27;s Pharmacy |
 | [Jacques Lacan](jacques-lacan.md) | 3 | The Mirror Stage as Formative of the Function of the I as Revealed in Psychoanalytic Experience, The Agency of the Letter in the Unconscious, The Signification of the Phallus |
 | [Jean Baudrillard](jean-baudrillard.md) | 1 | The Precession of Simulacra |
 | [Jean-Francois Lyotard](jean-francois-lyotard.md) | 1 | Defining the Postmodern |
@@ -80,6 +83,7 @@ This private index is generated from curated source metadata and local extractio
 | [Oscar Wilde](oscar-wilde.md) | 1 | Preface to The Picture of Dorian Gray and The Critic as Artist |
 | [Paul de Man](paul-de-man.md) | 2 | Semiology and Rhetoric, The Return to Philology |
 | [Percy Bysshe Shelley](percy-bysshe-shelley.md) | 1 | A Defence of Poetry |
+| [Pierre Bourdieu](pierre-bourdieu.md) | 1 | Distinction |
 | [Pierre Corneille](pierre-corneille.md) | 1 | Of the Three Unities of Action, Time, and Place |
 | [Pierre de Ronsard](pierre-de-ronsard.md) | 1 | A Brief on the Art of French Poetry |
 | [Plato](plato.md) | 1 | Selected dialogues |
@@ -129,7 +133,7 @@ This private index is generated from curated source metadata and local extractio
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
-| Generated at | `2026-06-13T06:21:47Z` |
-| Git commit | `37412ef` |
+| Generated at | `2026-06-13T06:27:04Z` |
+| Git commit | `e688291` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/index.md` |

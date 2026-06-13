@@ -61,7 +61,11 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/iser-interaction-text-reader/"><strong>Wolfgang Iser, Interaction Between Text and Reader</strong><span>reader-response, interpretation, gaps; pages 1717-1725; 9 review rows</span></a>
   <a href="../norton-texts/hirsch-objective-interpretation/"><strong>E. D. Hirsch Jr., Objective Interpretation</strong><span>interpretation, intention, meaning; pages 1728-1752; 25 review rows</span></a>
   <a href="../norton-texts/white-historical-text-literary-artifact/"><strong>Hayden White, The Historical Text as Literary Artifact</strong><span>historiography, narrative, emplotment; pages 1756-1772; 17 review rows</span></a>
-  <a href="../norton-texts/rich-compulsory-heterosexuality/"><strong>Adrienne Rich, Compulsory Heterosexuality and Lesbian Existence</strong><span>feminism, sexuality, institution; pages 1806-1807; 2 review rows</span></a>
+  <a href="../norton-texts/rich-compulsory-heterosexuality/"><strong>Adrienne Rich, Compulsory Heterosexuality and Lesbian Existence</strong><span>feminism, sexuality, institution; pages 1806-1824; 19 review rows</span></a>
+  <a href="../norton-texts/achebe-image-of-africa/"><strong>Chinua Achebe, An Image of Africa: Racism in Conrad&#x27;s Heart of Darkness</strong><span>postcolonialism, canon, race; pages 1827-1837; 11 review rows</span></a>
+  <a href="../norton-texts/bloom-anxiety-of-influence/"><strong>Harold Bloom, The Anxiety of Influence</strong><span>influence, canon, poetry; pages 1841-1849; 9 review rows</span></a>
+  <a href="../norton-texts/derrida-of-grammatology/"><strong>Jacques Derrida, Of Grammatology</strong><span>writing, logocentrism, deconstruction; pages 1866-1873; 8 review rows</span></a>
+  <a href="../norton-texts/derrida-platos-pharmacy/"><strong>Jacques Derrida, Dissemination / Plato&#x27;s Pharmacy</strong><span>writing, pharmakon, deconstruction; pages 1874-1887; 14 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -113,6 +117,10 @@ This is a scaffold for reading the configured texts together. It should become a
 37. [E. D. Hirsch Jr., Objective Interpretation](norton-texts/hirsch-objective-interpretation.md)
 38. [Hayden White, The Historical Text as Literary Artifact](norton-texts/white-historical-text-literary-artifact.md)
 39. [Adrienne Rich, Compulsory Heterosexuality and Lesbian Existence](norton-texts/rich-compulsory-heterosexuality.md)
+40. [Chinua Achebe, An Image of Africa: Racism in Conrad&#x27;s Heart of Darkness](norton-texts/achebe-image-of-africa.md)
+41. [Harold Bloom, The Anxiety of Influence](norton-texts/bloom-anxiety-of-influence.md)
+42. [Jacques Derrida, Of Grammatology](norton-texts/derrida-of-grammatology.md)
+43. [Jacques Derrida, Dissemination / Plato&#x27;s Pharmacy](norton-texts/derrida-platos-pharmacy.md)
 
 ## Review Pressure
 
@@ -156,7 +164,11 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Interaction Between Text and Reader](norton-texts/iser-interaction-text-reader.md) | 1717-1725 | 9 | excerpt: 9 |
 | [Objective Interpretation](norton-texts/hirsch-objective-interpretation.md) | 1728-1752 | 25 | excerpt: 25 |
 | [The Historical Text as Literary Artifact](norton-texts/white-historical-text-literary-artifact.md) | 1756-1772 | 17 | excerpt: 17 |
-| [Compulsory Heterosexuality and Lesbian Existence](norton-texts/rich-compulsory-heterosexuality.md) | 1806-1807 | 2 | excerpt: 2 |
+| [Compulsory Heterosexuality and Lesbian Existence](norton-texts/rich-compulsory-heterosexuality.md) | 1806-1824 | 19 | excerpt: 19 |
+| [An Image of Africa: Racism in Conrad&#x27;s Heart of Darkness](norton-texts/achebe-image-of-africa.md) | 1827-1837 | 11 | excerpt: 11 |
+| [The Anxiety of Influence](norton-texts/bloom-anxiety-of-influence.md) | 1841-1849 | 9 | excerpt: 9 |
+| [Of Grammatology](norton-texts/derrida-of-grammatology.md) | 1866-1873 | 8 | excerpt: 8 |
+| [Dissemination / Plato&#x27;s Pharmacy](norton-texts/derrida-platos-pharmacy.md) | 1874-1887 | 14 | excerpt: 14 |
 
 ## Passage Queue
 
@@ -210,8 +222,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T06:20:08Z` |
-| Git commit | `37412ef` |
+| Generated at | `2026-06-13T06:27:00Z` |
+| Git commit | `e688291` |
 | Script version | `2` |
 | Output path | `docs/workspace/authorship-and-authority.md` |
 

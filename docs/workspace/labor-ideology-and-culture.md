@@ -40,6 +40,7 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/benjamin-work-of-art-mechanical-reproduction/"><strong>Walter Benjamin, The Work of Art in the Age of Mechanical Reproduction</strong><span>media, technology, aura; pages 1211-1229; 19 review rows</span></a>
   <a href="../norton-texts/horkheimer-adorno-culture-industry/"><strong>Max Horkheimer and Theodor W. Adorno, The Culture Industry: Enlightenment as Mass Deception</strong><span>culture-industry, mass-culture, media; pages 1267-1283; 17 review rows</span></a>
   <a href="../norton-texts/wilson-marxism-and-literature/"><strong>Edmund Wilson, Marxism and Literature</strong><span>marxism, literary-criticism, politics; pages 1287-1297; 11 review rows</span></a>
+  <a href="../norton-texts/bourdieu-distinction/"><strong>Pierre Bourdieu, Distinction</strong><span>taste, class, cultural-capital; pages 1853-1858; 6 review rows</span></a>
   <a href="../norton-texts/hughes-negro-artist-racial-mountain/"><strong>Langston Hughes, The Negro Artist and the Racial Mountain</strong><span>race, art, vernacular; pages 1357-1360; 4 review rows</span></a>
   <a href="../norton-texts/sartre-what-is-literature/"><strong>Jean-Paul Sartre, What Is Literature?</strong><span>literature, freedom, responsibility; pages 1380-1393; 14 review rows</span></a>
   <a href="../norton-texts/beauvoir-second-sex/"><strong>Simone de Beauvoir, The Second Sex</strong><span>feminism, gender, myth; pages 1450-1458; 9 review rows</span></a>
@@ -56,7 +57,9 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/baudrillard-precession-simulacra/"><strong>Jean Baudrillard, The Precession of Simulacra</strong><span>simulation, signs, media; pages 1776-1784; 9 review rows</span></a>
   <a href="../norton-texts/habermas-public-sphere/"><strong>Jurgen Habermas, The Structural Transformation of the Public Sphere</strong><span>public-sphere, citizenship, reason; pages 1788-1792; 5 review rows</span></a>
   <a href="../norton-texts/habermas-modernity-incomplete-project/"><strong>Jurgen Habermas, Modernity - An Incomplete Project</strong><span>modernity, enlightenment, culture; pages 1793-1802; 10 review rows</span></a>
-  <a href="../norton-texts/rich-compulsory-heterosexuality/"><strong>Adrienne Rich, Compulsory Heterosexuality and Lesbian Existence</strong><span>feminism, sexuality, institution; pages 1806-1807; 2 review rows</span></a>
+  <a href="../norton-texts/rich-compulsory-heterosexuality/"><strong>Adrienne Rich, Compulsory Heterosexuality and Lesbian Existence</strong><span>feminism, sexuality, institution; pages 1806-1824; 19 review rows</span></a>
+  <a href="../norton-texts/achebe-image-of-africa/"><strong>Chinua Achebe, An Image of Africa: Racism in Conrad&#x27;s Heart of Darkness</strong><span>postcolonialism, canon, race; pages 1827-1837; 11 review rows</span></a>
+  <a href="../norton-texts/bourdieu-distinction/"><strong>Pierre Bourdieu, Distinction</strong><span>taste, class, cultural-capital; pages 1853-1858; 6 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -86,23 +89,26 @@ This is a scaffold for reading the configured texts together. It should become a
 15. [Walter Benjamin, The Work of Art in the Age of Mechanical Reproduction](norton-texts/benjamin-work-of-art-mechanical-reproduction.md)
 16. [Max Horkheimer and Theodor W. Adorno, The Culture Industry: Enlightenment as Mass Deception](norton-texts/horkheimer-adorno-culture-industry.md)
 17. [Edmund Wilson, Marxism and Literature](norton-texts/wilson-marxism-and-literature.md)
-18. [Langston Hughes, The Negro Artist and the Racial Mountain](norton-texts/hughes-negro-artist-racial-mountain.md)
-19. [Jean-Paul Sartre, What Is Literature?](norton-texts/sartre-what-is-literature.md)
-20. [Simone de Beauvoir, The Second Sex](norton-texts/beauvoir-second-sex.md)
-21. [Claude Levi-Strauss, Tristes Tropiques](norton-texts/levi-strauss-tristes-tropiques.md)
-22. [Roland Barthes, Mythologies](norton-texts/barthes-mythologies.md)
-23. [Louis Althusser, A Letter on Art in Reply to Andre Daspre](norton-texts/althusser-letter-on-art.md)
-24. [Louis Althusser, Ideology and Ideological State Apparatuses](norton-texts/althusser-ideology-state-apparatuses.md)
-25. [Irving Howe, History and the Novel](norton-texts/howe-history-novel.md)
-26. [Raymond Williams, Marxism and Literature](norton-texts/williams-marxism-literature.md)
-27. [Frantz Fanon, The Wretched of the Earth](norton-texts/fanon-wretched-earth.md)
-28. [Michel Foucault, Discipline and Punish](norton-texts/foucault-discipline-and-punish.md)
-29. [Michel Foucault, The History of Sexuality](norton-texts/foucault-history-sexuality.md)
-30. [Michel Foucault, Truth and Power](norton-texts/foucault-truth-and-power.md)
-31. [Jean Baudrillard, The Precession of Simulacra](norton-texts/baudrillard-precession-simulacra.md)
-32. [Jurgen Habermas, The Structural Transformation of the Public Sphere](norton-texts/habermas-public-sphere.md)
-33. [Jurgen Habermas, Modernity - An Incomplete Project](norton-texts/habermas-modernity-incomplete-project.md)
-34. [Adrienne Rich, Compulsory Heterosexuality and Lesbian Existence](norton-texts/rich-compulsory-heterosexuality.md)
+18. [Pierre Bourdieu, Distinction](norton-texts/bourdieu-distinction.md)
+19. [Langston Hughes, The Negro Artist and the Racial Mountain](norton-texts/hughes-negro-artist-racial-mountain.md)
+20. [Jean-Paul Sartre, What Is Literature?](norton-texts/sartre-what-is-literature.md)
+21. [Simone de Beauvoir, The Second Sex](norton-texts/beauvoir-second-sex.md)
+22. [Claude Levi-Strauss, Tristes Tropiques](norton-texts/levi-strauss-tristes-tropiques.md)
+23. [Roland Barthes, Mythologies](norton-texts/barthes-mythologies.md)
+24. [Louis Althusser, A Letter on Art in Reply to Andre Daspre](norton-texts/althusser-letter-on-art.md)
+25. [Louis Althusser, Ideology and Ideological State Apparatuses](norton-texts/althusser-ideology-state-apparatuses.md)
+26. [Irving Howe, History and the Novel](norton-texts/howe-history-novel.md)
+27. [Raymond Williams, Marxism and Literature](norton-texts/williams-marxism-literature.md)
+28. [Frantz Fanon, The Wretched of the Earth](norton-texts/fanon-wretched-earth.md)
+29. [Michel Foucault, Discipline and Punish](norton-texts/foucault-discipline-and-punish.md)
+30. [Michel Foucault, The History of Sexuality](norton-texts/foucault-history-sexuality.md)
+31. [Michel Foucault, Truth and Power](norton-texts/foucault-truth-and-power.md)
+32. [Jean Baudrillard, The Precession of Simulacra](norton-texts/baudrillard-precession-simulacra.md)
+33. [Jurgen Habermas, The Structural Transformation of the Public Sphere](norton-texts/habermas-public-sphere.md)
+34. [Jurgen Habermas, Modernity - An Incomplete Project](norton-texts/habermas-modernity-incomplete-project.md)
+35. [Adrienne Rich, Compulsory Heterosexuality and Lesbian Existence](norton-texts/rich-compulsory-heterosexuality.md)
+36. [Chinua Achebe, An Image of Africa: Racism in Conrad&#x27;s Heart of Darkness](norton-texts/achebe-image-of-africa.md)
+37. [Pierre Bourdieu, Distinction](norton-texts/bourdieu-distinction.md)
 
 ## Review Pressure
 
@@ -125,6 +131,7 @@ This is a scaffold for reading the configured texts together. It should become a
 | [The Work of Art in the Age of Mechanical Reproduction](norton-texts/benjamin-work-of-art-mechanical-reproduction.md) | 1211-1229 | 19 | excerpt: 19 |
 | [The Culture Industry: Enlightenment as Mass Deception](norton-texts/horkheimer-adorno-culture-industry.md) | 1267-1283 | 17 | excerpt: 17 |
 | [Marxism and Literature](norton-texts/wilson-marxism-and-literature.md) | 1287-1297 | 11 | excerpt: 11 |
+| [Distinction](norton-texts/bourdieu-distinction.md) | 1853-1858 | 6 | excerpt: 6 |
 | [The Negro Artist and the Racial Mountain](norton-texts/hughes-negro-artist-racial-mountain.md) | 1357-1360 | 4 | excerpt: 3<br>author_intro: 1 |
 | [What Is Literature?](norton-texts/sartre-what-is-literature.md) | 1380-1393 | 14 | excerpt: 14 |
 | [The Second Sex](norton-texts/beauvoir-second-sex.md) | 1450-1458 | 9 | excerpt: 9 |
@@ -141,7 +148,9 @@ This is a scaffold for reading the configured texts together. It should become a
 | [The Precession of Simulacra](norton-texts/baudrillard-precession-simulacra.md) | 1776-1784 | 9 | excerpt: 9 |
 | [The Structural Transformation of the Public Sphere](norton-texts/habermas-public-sphere.md) | 1788-1792 | 5 | excerpt: 5 |
 | [Modernity - An Incomplete Project](norton-texts/habermas-modernity-incomplete-project.md) | 1793-1802 | 10 | excerpt: 10 |
-| [Compulsory Heterosexuality and Lesbian Existence](norton-texts/rich-compulsory-heterosexuality.md) | 1806-1807 | 2 | excerpt: 2 |
+| [Compulsory Heterosexuality and Lesbian Existence](norton-texts/rich-compulsory-heterosexuality.md) | 1806-1824 | 19 | excerpt: 19 |
+| [An Image of Africa: Racism in Conrad&#x27;s Heart of Darkness](norton-texts/achebe-image-of-africa.md) | 1827-1837 | 11 | excerpt: 11 |
+| [Distinction](norton-texts/bourdieu-distinction.md) | 1853-1858 | 6 | excerpt: 6 |
 
 ## Passage Queue
 
@@ -195,8 +204,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T06:20:09Z` |
-| Git commit | `37412ef` |
+| Generated at | `2026-06-13T06:27:01Z` |
+| Git commit | `e688291` |
 | Script version | `2` |
 | Output path | `docs/workspace/labor-ideology-and-culture.md` |
 

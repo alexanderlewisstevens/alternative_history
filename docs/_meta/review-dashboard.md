@@ -5,7 +5,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Boundary Review</div>
-  <div class="ah-metric-value">343</div>
+  <div class="ah-metric-value">358</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Content Separation</div>
@@ -21,7 +21,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">General Review</div>
-  <div class="ah-metric-value">737</div>
+  <div class="ah-metric-value">802</div>
 </div>
 </div>
 
@@ -29,10 +29,10 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 <div class="ah-review-grid">
 <section class="ah-review-card warn">
-  <div class="ah-review-card-kicker">343 pages</div>
+  <div class="ah-review-card-kicker">358 pages</div>
   <h3>Boundary Review</h3>
   <p>Confirm thinker and work boundaries before assembling public-facing drafts.</p>
-  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +331 more</p>
+  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +346 more</p>
 </section>
 <section class="ah-review-card warn">
   <div class="ah-review-card-kicker">9 pages</div>
@@ -53,10 +53,10 @@ This is the editorial queue for restricted extraction work. It is generated from
   <p><strong>Start:</strong> <code>74</code>, <code>98</code>, <code>99</code>, <code>126</code>, <code>185</code>, <code>190</code>, <code>191</code>, <code>192</code>, <code>194</code>, <code>204</code>, <code>213</code>, <code>218</code> +60 more</p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">737 pages</div>
+  <div class="ah-review-card-kicker">802 pages</div>
   <h3>General Review</h3>
   <p>Resolve remaining template or classification questions.</p>
-  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +725 more</p>
+  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +790 more</p>
 </section>
 </div>
 
@@ -72,11 +72,11 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Field | Value |
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
-| Classified source pages | `71-1807` |
-| Review queue rows | `1505` |
+| Classified source pages | `71-1887` |
+| Review queue rows | `1585` |
 | Review queue file | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
-| Generated at | `2026-06-13T06:21:46Z` |
-| Git commit | `37412ef` |
+| Generated at | `2026-06-13T06:27:02Z` |
+| Git commit | `e688291` |
 | Script version | `1` |
 | Output path | `docs/_meta/review-dashboard.md` |
 
@@ -84,17 +84,17 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 | Reason | Pages |
 | --- | ---: |
-| mixed_work_transition_page | 565 |
+| mixed_work_transition_page | 587 |
+| mixed_bibliography_and_work_title | 383 |
 | multi_column_layout | 357 |
-| mixed_bibliography_and_work_title | 341 |
-| transition_from_previous_author | 321 |
+| transition_from_previous_author | 336 |
 | source_notes_detected | 314 |
-| mixed_author_transition_page | 119 |
+| mixed_author_transition_page | 130 |
 | mixed_transition_page | 68 |
+| selection_boundary_review | 34 |
+| continues_beyond_current_batch | 28 |
 | layout_review_required | 23 |
 | author_boundary_without_life_dates | 20 |
-| continues_beyond_current_batch | 16 |
-| selection_boundary_review | 15 |
 | mixed_excerpt_and_bibliography | 9 |
 | transition_from_previous_work | 2 |
 | ocr_title_cleanup | 2 |
@@ -113,6 +113,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Matthew Arnold | 31 |
 | Plato | 29 |
 | Karl Marx and Friedrich Engels | 29 |
+| Jacques Derrida | 29 |
 | Gyorgy Lukacs | 28 |
 | Friedrich Nietzsche | 27 |
 | E. D. Hirsch Jr. | 27 |
@@ -120,6 +121,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Walter Benjamin | 23 |
 | Paul de Man | 23 |
 | Boris Eichenbaum | 22 |
+| Adrienne Rich | 22 |
 | Samuel Johnson | 21 |
 | Ralph Waldo Emerson | 21 |
 | Ferdinand de Saussure | 21 |
@@ -156,11 +158,13 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Samuel Taylor Coleridge | 13 |
 | Virginia Woolf | 13 |
 | John Crowe Ransom | 13 |
+| Chinua Achebe | 13 |
 | Geoffrey of Vinsauf | 12 |
 | Simone de Beauvoir | 12 |
 | Claude Levi-Strauss | 12 |
 | Wolfgang Iser | 12 |
 | Jean Baudrillard | 12 |
+| Harold Bloom | 12 |
 | Joachim du Bellay | 11 |
 | Pierre Corneille | 11 |
 | Aphra Behn | 11 |
@@ -185,6 +189,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Charles Baudelaire | 9 |
 | Antonio Gramsci | 9 |
 | Kenneth Burke | 9 |
+| Pierre Bourdieu | 9 |
 | Walter Pater | 8 |
 | Henry James | 8 |
 | Plotinus | 7 |
@@ -197,7 +202,6 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Jean-Francois Lyotard | 6 |
 | Dante Alighieri | 5 |
 | Pierre de Ronsard | 5 |
-| Adrienne Rich | 5 |
 | Macrobius | 4 |
 | Gorgias of Leontini | 3 |
 | Christine de Pizan | 3 |
@@ -549,6 +553,21 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 1803 | Adrienne Rich | Modernity - An Incomplete Project | continues_beyond_current_batch;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1803.md |
 | 1804 | Adrienne Rich |  | continues_beyond_current_batch;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1804.md |
 | 1805 | Adrienne Rich |  | continues_beyond_current_batch;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1805.md |
+| 1825 | Chinua Achebe |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1825.md |
+| 1826 | Chinua Achebe |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1826.md |
+| 1838 | Harold Bloom | An Image of Africa: Racism in Conrad's Heart of Darkness | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1838.md |
+| 1839 | Harold Bloom |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1839.md |
+| 1840 | Harold Bloom |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1840.md |
+| 1850 | Pierre Bourdieu |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1850.md |
+| 1851 | Pierre Bourdieu |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1851.md |
+| 1852 | Pierre Bourdieu |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1852.md |
+| 1859 | Jacques Derrida |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_1859.md |
+| 1860 | Jacques Derrida |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_1860.md |
+| 1861 | Jacques Derrida | Jacques Derrida | transition_from_previous_author | work/page-records/norton-theory-criticism/page_1861.md |
+| 1862 | Jacques Derrida |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_1862.md |
+| 1863 | Jacques Derrida |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_1863.md |
+| 1864 | Jacques Derrida |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_1864.md |
+| 1865 | Jacques Derrida |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_1865.md |
 
 ## Content Separation
 
@@ -1729,5 +1748,70 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 1800 | Jurgen Habermas | Modernity - An Incomplete Project | mixed_author_transition_page;selection_boundary_review | work/page-records/norton-theory-criticism/page_1800.md |
 | 1801 | Jurgen Habermas | Modernity - An Incomplete Project | mixed_author_transition_page;selection_boundary_review | work/page-records/norton-theory-criticism/page_1801.md |
 | 1802 | Jurgen Habermas | Modernity - An Incomplete Project | mixed_author_transition_page;selection_boundary_review | work/page-records/norton-theory-criticism/page_1802.md |
-| 1806 | Adrienne Rich | Compulsory Heterosexuality and Lesbian Existence | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1806.md |
-| 1807 | Adrienne Rich | Compulsory Heterosexuality and Lesbian Existence | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1807.md |
+| 1806 | Adrienne Rich | Compulsory Heterosexuality and Lesbian Existence | selection_boundary_review | work/page-records/norton-theory-criticism/page_1806.md |
+| 1807 | Adrienne Rich | Compulsory Heterosexuality and Lesbian Existence | selection_boundary_review | work/page-records/norton-theory-criticism/page_1807.md |
+| 1808 | Adrienne Rich | Compulsory Heterosexuality and Lesbian Existence | selection_boundary_review | work/page-records/norton-theory-criticism/page_1808.md |
+| 1809 | Adrienne Rich | Compulsory Heterosexuality and Lesbian Existence | selection_boundary_review | work/page-records/norton-theory-criticism/page_1809.md |
+| 1810 | Adrienne Rich | Compulsory Heterosexuality and Lesbian Existence | selection_boundary_review | work/page-records/norton-theory-criticism/page_1810.md |
+| 1811 | Adrienne Rich | Compulsory Heterosexuality and Lesbian Existence | selection_boundary_review | work/page-records/norton-theory-criticism/page_1811.md |
+| 1812 | Adrienne Rich | Compulsory Heterosexuality and Lesbian Existence | selection_boundary_review | work/page-records/norton-theory-criticism/page_1812.md |
+| 1813 | Adrienne Rich | Compulsory Heterosexuality and Lesbian Existence | selection_boundary_review | work/page-records/norton-theory-criticism/page_1813.md |
+| 1814 | Adrienne Rich | Compulsory Heterosexuality and Lesbian Existence | selection_boundary_review | work/page-records/norton-theory-criticism/page_1814.md |
+| 1815 | Adrienne Rich | Compulsory Heterosexuality and Lesbian Existence | selection_boundary_review | work/page-records/norton-theory-criticism/page_1815.md |
+| 1816 | Adrienne Rich | Compulsory Heterosexuality and Lesbian Existence | selection_boundary_review | work/page-records/norton-theory-criticism/page_1816.md |
+| 1817 | Adrienne Rich | Compulsory Heterosexuality and Lesbian Existence | selection_boundary_review | work/page-records/norton-theory-criticism/page_1817.md |
+| 1818 | Adrienne Rich | Compulsory Heterosexuality and Lesbian Existence | selection_boundary_review | work/page-records/norton-theory-criticism/page_1818.md |
+| 1819 | Adrienne Rich | Compulsory Heterosexuality and Lesbian Existence | selection_boundary_review | work/page-records/norton-theory-criticism/page_1819.md |
+| 1820 | Adrienne Rich | Compulsory Heterosexuality and Lesbian Existence | selection_boundary_review | work/page-records/norton-theory-criticism/page_1820.md |
+| 1821 | Adrienne Rich | Compulsory Heterosexuality and Lesbian Existence | selection_boundary_review | work/page-records/norton-theory-criticism/page_1821.md |
+| 1822 | Adrienne Rich | Compulsory Heterosexuality and Lesbian Existence | selection_boundary_review | work/page-records/norton-theory-criticism/page_1822.md |
+| 1823 | Adrienne Rich | Compulsory Heterosexuality and Lesbian Existence | selection_boundary_review | work/page-records/norton-theory-criticism/page_1823.md |
+| 1824 | Adrienne Rich | Compulsory Heterosexuality and Lesbian Existence | selection_boundary_review | work/page-records/norton-theory-criticism/page_1824.md |
+| 1827 | Chinua Achebe | An Image of Africa: Racism in Conrad's Heart of Darkness | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1827.md |
+| 1828 | Chinua Achebe | An Image of Africa: Racism in Conrad's Heart of Darkness | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1828.md |
+| 1829 | Chinua Achebe | An Image of Africa: Racism in Conrad's Heart of Darkness | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1829.md |
+| 1830 | Chinua Achebe | An Image of Africa: Racism in Conrad's Heart of Darkness | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1830.md |
+| 1831 | Chinua Achebe | An Image of Africa: Racism in Conrad's Heart of Darkness | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1831.md |
+| 1832 | Chinua Achebe | An Image of Africa: Racism in Conrad's Heart of Darkness | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1832.md |
+| 1833 | Chinua Achebe | An Image of Africa: Racism in Conrad's Heart of Darkness | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1833.md |
+| 1834 | Chinua Achebe | An Image of Africa: Racism in Conrad's Heart of Darkness | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1834.md |
+| 1835 | Chinua Achebe | An Image of Africa: Racism in Conrad's Heart of Darkness | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1835.md |
+| 1836 | Chinua Achebe | An Image of Africa: Racism in Conrad's Heart of Darkness | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1836.md |
+| 1837 | Chinua Achebe | An Image of Africa: Racism in Conrad's Heart of Darkness | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1837.md |
+| 1841 | Harold Bloom | From The Anxiety of Influence | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1841.md |
+| 1842 | Harold Bloom | From The Anxiety of Influence | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1842.md |
+| 1843 | Harold Bloom | From The Anxiety of Influence | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1843.md |
+| 1844 | Harold Bloom | From The Anxiety of Influence | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1844.md |
+| 1845 | Harold Bloom | From The Anxiety of Influence | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1845.md |
+| 1846 | Harold Bloom | From The Anxiety of Influence | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1846.md |
+| 1847 | Harold Bloom | From The Anxiety of Influence | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1847.md |
+| 1848 | Harold Bloom | From The Anxiety of Influence | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1848.md |
+| 1849 | Harold Bloom | From The Anxiety of Influence | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1849.md |
+| 1853 | Pierre Bourdieu | From Distinction | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1853.md |
+| 1854 | Pierre Bourdieu | From Distinction | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1854.md |
+| 1855 | Pierre Bourdieu | From Distinction | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1855.md |
+| 1856 | Pierre Bourdieu | From Distinction | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1856.md |
+| 1857 | Pierre Bourdieu | From Distinction | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1857.md |
+| 1858 | Pierre Bourdieu | From Distinction | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_1858.md |
+| 1866 | Jacques Derrida | From Of Grammatology | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1866.md |
+| 1867 | Jacques Derrida | From Of Grammatology | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1867.md |
+| 1868 | Jacques Derrida | From Of Grammatology | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1868.md |
+| 1869 | Jacques Derrida | From Of Grammatology | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1869.md |
+| 1870 | Jacques Derrida | From Of Grammatology | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1870.md |
+| 1871 | Jacques Derrida | From Of Grammatology | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1871.md |
+| 1872 | Jacques Derrida | From Of Grammatology | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1872.md |
+| 1873 | Jacques Derrida | From Of Grammatology | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1873.md |
+| 1874 | Jacques Derrida | From Dissemination / Plato's Pharmacy | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1874.md |
+| 1875 | Jacques Derrida | From Dissemination / Plato's Pharmacy | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1875.md |
+| 1876 | Jacques Derrida | From Dissemination / Plato's Pharmacy | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1876.md |
+| 1877 | Jacques Derrida | From Dissemination / Plato's Pharmacy | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1877.md |
+| 1878 | Jacques Derrida | From Dissemination / Plato's Pharmacy | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1878.md |
+| 1879 | Jacques Derrida | From Dissemination / Plato's Pharmacy | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1879.md |
+| 1880 | Jacques Derrida | From Dissemination / Plato's Pharmacy | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1880.md |
+| 1881 | Jacques Derrida | From Dissemination / Plato's Pharmacy | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1881.md |
+| 1882 | Jacques Derrida | From Dissemination / Plato's Pharmacy | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1882.md |
+| 1883 | Jacques Derrida | From Dissemination / Plato's Pharmacy | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1883.md |
+| 1884 | Jacques Derrida | From Dissemination / Plato's Pharmacy | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1884.md |
+| 1885 | Jacques Derrida | From Dissemination / Plato's Pharmacy | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1885.md |
+| 1886 | Jacques Derrida | From Dissemination / Plato's Pharmacy | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1886.md |
+| 1887 | Jacques Derrida | From Dissemination / Plato's Pharmacy | continues_beyond_current_batch;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1887.md |

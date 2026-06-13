@@ -92,8 +92,8 @@ This note turns the current Norton chunk for Jean-Francois Lyotard into a naviga
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/jean-francois-lyotard.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T06:21:53Z` |
-| Git commit | `37412ef` |
+| Generated at | `2026-06-13T06:27:10Z` |
+| Git commit | `e688291` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/lyotard-defining-postmodern.md` |
 

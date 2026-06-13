@@ -92,8 +92,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T06:21:48Z` |
-| Git commit | `37412ef` |
+| Generated at | `2026-06-13T06:27:04Z` |
+| Git commit | `e688291` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/frantz-fanon.md` |
 

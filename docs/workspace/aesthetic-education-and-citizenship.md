@@ -54,7 +54,7 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/hirsch-objective-interpretation/"><strong>E. D. Hirsch Jr., Objective Interpretation</strong><span>interpretation, intention, meaning; pages 1728-1752; 25 review rows</span></a>
   <a href="../norton-texts/habermas-public-sphere/"><strong>Jurgen Habermas, The Structural Transformation of the Public Sphere</strong><span>public-sphere, citizenship, reason; pages 1788-1792; 5 review rows</span></a>
   <a href="../norton-texts/habermas-modernity-incomplete-project/"><strong>Jurgen Habermas, Modernity - An Incomplete Project</strong><span>modernity, enlightenment, culture; pages 1793-1802; 10 review rows</span></a>
-  <a href="../norton-texts/rich-compulsory-heterosexuality/"><strong>Adrienne Rich, Compulsory Heterosexuality and Lesbian Existence</strong><span>feminism, sexuality, institution; pages 1806-1807; 2 review rows</span></a>
+  <a href="../norton-texts/rich-compulsory-heterosexuality/"><strong>Adrienne Rich, Compulsory Heterosexuality and Lesbian Existence</strong><span>feminism, sexuality, institution; pages 1806-1824; 19 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -135,7 +135,7 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Objective Interpretation](norton-texts/hirsch-objective-interpretation.md) | 1728-1752 | 25 | excerpt: 25 |
 | [The Structural Transformation of the Public Sphere](norton-texts/habermas-public-sphere.md) | 1788-1792 | 5 | excerpt: 5 |
 | [Modernity - An Incomplete Project](norton-texts/habermas-modernity-incomplete-project.md) | 1793-1802 | 10 | excerpt: 10 |
-| [Compulsory Heterosexuality and Lesbian Existence](norton-texts/rich-compulsory-heterosexuality.md) | 1806-1807 | 2 | excerpt: 2 |
+| [Compulsory Heterosexuality and Lesbian Existence](norton-texts/rich-compulsory-heterosexuality.md) | 1806-1824 | 19 | excerpt: 19 |
 
 ## Passage Queue
 
@@ -189,8 +189,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T06:20:09Z` |
-| Git commit | `37412ef` |
+| Generated at | `2026-06-13T06:27:01Z` |
+| Git commit | `e688291` |
 | Script version | `2` |
 | Output path | `docs/workspace/aesthetic-education-and-citizenship.md` |
 

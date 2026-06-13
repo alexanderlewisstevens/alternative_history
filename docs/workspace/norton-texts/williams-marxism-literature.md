@@ -95,8 +95,8 @@ This note turns the current Norton chunk for Raymond Williams into a navigable w
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/raymond-williams.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T06:21:53Z` |
-| Git commit | `37412ef` |
+| Generated at | `2026-06-13T06:27:10Z` |
+| Git commit | `e688291` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/williams-marxism-literature.md` |
 

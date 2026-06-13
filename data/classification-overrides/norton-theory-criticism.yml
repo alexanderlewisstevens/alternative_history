@@ -3213,7 +3213,7 @@ overrides:
       - continues_beyond_current_batch
 
   - id: adrienne-rich-compulsory-heterosexuality
-    pages: 1806-1807
+    pages: 1806-1824
     author_name: Adrienne Rich
     author_slug: adrienne-rich
     work_title: Compulsory Heterosexuality and Lesbian Existence
@@ -3224,4 +3224,128 @@ overrides:
     confidence: high
     review_required: true
     review_reasons:
+      - selection_boundary_review
+
+  - id: chinua-achebe-headnote
+    pages: 1825-1827
+    author_name: Chinua Achebe
+    author_slug: chinua-achebe
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: chinua-achebe-image-of-africa
+    pages: 1827-1838
+    author_name: Chinua Achebe
+    author_slug: chinua-achebe
+    work_title: "An Image of Africa: Racism in Conrad's Heart of Darkness"
+    work_slug: an-image-of-africa-racism-in-conrads-heart-of-darkness
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: harold-bloom-headnote
+    pages: 1838-1841
+    author_name: Harold Bloom
+    author_slug: harold-bloom
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: harold-bloom-anxiety-of-influence
+    pages: 1841-1849
+    author_name: Harold Bloom
+    author_slug: harold-bloom
+    work_title: From The Anxiety of Influence
+    work_slug: the-anxiety-of-influence
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: pierre-bourdieu-headnote
+    pages: 1850-1853
+    author_name: Pierre Bourdieu
+    author_slug: pierre-bourdieu
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: pierre-bourdieu-distinction
+    pages: 1853-1858
+    author_name: Pierre Bourdieu
+    author_slug: pierre-bourdieu
+    work_title: From Distinction
+    work_slug: distinction
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: jacques-derrida-headnote
+    pages: 1859-1865
+    author_name: Jacques Derrida
+    author_slug: jacques-derrida
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: jacques-derrida-of-grammatology
+    pages: 1866-1874
+    author_name: Jacques Derrida
+    author_slug: jacques-derrida
+    work_title: From Of Grammatology
+    work_slug: of-grammatology
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_work_transition_page
+
+  - id: jacques-derrida-platos-pharmacy
+    pages: 1874-1887
+    author_name: Jacques Derrida
+    author_slug: jacques-derrida
+    work_title: From Dissemination / Plato's Pharmacy
+    work_slug: dissemination-platos-pharmacy
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
       - continues_beyond_current_batch

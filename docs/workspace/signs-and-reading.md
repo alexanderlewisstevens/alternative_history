@@ -65,6 +65,9 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/hirsch-objective-interpretation/"><strong>E. D. Hirsch Jr., Objective Interpretation</strong><span>interpretation, intention, meaning; pages 1728-1752; 25 review rows</span></a>
   <a href="../norton-texts/white-historical-text-literary-artifact/"><strong>Hayden White, The Historical Text as Literary Artifact</strong><span>historiography, narrative, emplotment; pages 1756-1772; 17 review rows</span></a>
   <a href="../norton-texts/baudrillard-precession-simulacra/"><strong>Jean Baudrillard, The Precession of Simulacra</strong><span>simulation, signs, media; pages 1776-1784; 9 review rows</span></a>
+  <a href="../norton-texts/bloom-anxiety-of-influence/"><strong>Harold Bloom, The Anxiety of Influence</strong><span>influence, canon, poetry; pages 1841-1849; 9 review rows</span></a>
+  <a href="../norton-texts/derrida-of-grammatology/"><strong>Jacques Derrida, Of Grammatology</strong><span>writing, logocentrism, deconstruction; pages 1866-1873; 8 review rows</span></a>
+  <a href="../norton-texts/derrida-platos-pharmacy/"><strong>Jacques Derrida, Dissemination / Plato&#x27;s Pharmacy</strong><span>writing, pharmakon, deconstruction; pages 1874-1887; 14 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -119,6 +122,9 @@ This is a scaffold for reading the configured texts together. It should become a
 40. [E. D. Hirsch Jr., Objective Interpretation](norton-texts/hirsch-objective-interpretation.md)
 41. [Hayden White, The Historical Text as Literary Artifact](norton-texts/white-historical-text-literary-artifact.md)
 42. [Jean Baudrillard, The Precession of Simulacra](norton-texts/baudrillard-precession-simulacra.md)
+43. [Harold Bloom, The Anxiety of Influence](norton-texts/bloom-anxiety-of-influence.md)
+44. [Jacques Derrida, Of Grammatology](norton-texts/derrida-of-grammatology.md)
+45. [Jacques Derrida, Dissemination / Plato&#x27;s Pharmacy](norton-texts/derrida-platos-pharmacy.md)
 
 ## Review Pressure
 
@@ -166,6 +172,9 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Objective Interpretation](norton-texts/hirsch-objective-interpretation.md) | 1728-1752 | 25 | excerpt: 25 |
 | [The Historical Text as Literary Artifact](norton-texts/white-historical-text-literary-artifact.md) | 1756-1772 | 17 | excerpt: 17 |
 | [The Precession of Simulacra](norton-texts/baudrillard-precession-simulacra.md) | 1776-1784 | 9 | excerpt: 9 |
+| [The Anxiety of Influence](norton-texts/bloom-anxiety-of-influence.md) | 1841-1849 | 9 | excerpt: 9 |
+| [Of Grammatology](norton-texts/derrida-of-grammatology.md) | 1866-1873 | 8 | excerpt: 8 |
+| [Dissemination / Plato&#x27;s Pharmacy](norton-texts/derrida-platos-pharmacy.md) | 1874-1887 | 14 | excerpt: 14 |
 
 ## Passage Queue
 
@@ -219,8 +228,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T06:20:06Z` |
-| Git commit | `37412ef` |
+| Generated at | `2026-06-13T06:26:58Z` |
+| Git commit | `e688291` |
 | Script version | `2` |
 | Output path | `docs/workspace/signs-and-reading.md` |
 
