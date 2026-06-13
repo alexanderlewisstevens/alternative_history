@@ -138,8 +138,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T07:08:47Z` |
-| Git commit | `811fcce` |
+| Generated at | `2026-06-13T07:13:34Z` |
+| Git commit | `525b073` |
 | Script version | `2` |
 | Output path | `docs/workspace/sublime-and-limits.md` |
 

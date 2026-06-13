@@ -5,7 +5,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Boundary Review</div>
-  <div class="ah-metric-value">438</div>
+  <div class="ah-metric-value">449</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Content Separation</div>
@@ -21,7 +21,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">General Review</div>
-  <div class="ah-metric-value">1282</div>
+  <div class="ah-metric-value">1351</div>
 </div>
 </div>
 
@@ -29,10 +29,10 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 <div class="ah-review-grid">
 <section class="ah-review-card warn">
-  <div class="ah-review-card-kicker">438 pages</div>
+  <div class="ah-review-card-kicker">449 pages</div>
   <h3>Boundary Review</h3>
   <p>Confirm thinker and work boundaries before assembling public-facing drafts.</p>
-  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +426 more</p>
+  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +437 more</p>
 </section>
 <section class="ah-review-card warn">
   <div class="ah-review-card-kicker">9 pages</div>
@@ -53,10 +53,10 @@ This is the editorial queue for restricted extraction work. It is generated from
   <p><strong>Start:</strong> <code>74</code>, <code>98</code>, <code>99</code>, <code>126</code>, <code>185</code>, <code>190</code>, <code>191</code>, <code>192</code>, <code>194</code>, <code>204</code>, <code>213</code>, <code>218</code> +60 more</p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">1282 pages</div>
+  <div class="ah-review-card-kicker">1351 pages</div>
   <h3>General Review</h3>
   <p>Resolve remaining template or classification questions.</p>
-  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +1270 more</p>
+  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +1339 more</p>
 </section>
 </div>
 
@@ -72,11 +72,11 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Field | Value |
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
-| Classified source pages | `71-2447` |
-| Review queue rows | `2145` |
+| Classified source pages | `71-2527` |
+| Review queue rows | `2225` |
 | Review queue file | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
-| Generated at | `2026-06-13T07:08:53Z` |
-| Git commit | `811fcce` |
+| Generated at | `2026-06-13T07:13:37Z` |
+| Git commit | `525b073` |
 | Script version | `1` |
 | Output path | `docs/_meta/review-dashboard.md` |
 
@@ -84,17 +84,17 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 | Reason | Pages |
 | --- | ---: |
-| mixed_bibliography_and_work_title | 869 |
+| mixed_bibliography_and_work_title | 949 |
 | mixed_work_transition_page | 658 |
-| transition_from_previous_author | 416 |
-| mixed_author_transition_page | 412 |
+| mixed_author_transition_page | 446 |
+| transition_from_previous_author | 427 |
 | multi_column_layout | 357 |
 | source_notes_detected | 314 |
 | mixed_transition_page | 68 |
 | selection_boundary_review | 34 |
 | layout_review_required | 23 |
 | author_boundary_without_life_dates | 20 |
-| continues_beyond_current_batch | 18 |
+| continues_beyond_current_batch | 20 |
 | bibliography_on_previous_page | 15 |
 | mixed_excerpt_and_bibliography | 9 |
 | transition_from_previous_work | 2 |
@@ -124,6 +124,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Aristotle | 23 |
 | Walter Benjamin | 23 |
 | Paul de Man | 23 |
+| Lennard J. Davis | 23 |
 | Boris Eichenbaum | 22 |
 | Adrienne Rich | 22 |
 | Barbara Herrnstein Smith | 22 |
@@ -155,6 +156,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Houston A. Baker Jr. | 17 |
 | Barbara Smith | 17 |
 | Susan Bordo | 17 |
+| Steven Knapp and Walter Benn Michaels | 17 |
 | Oscar Wilde | 16 |
 | Georges Poulet | 16 |
 | Gilles Deleuze and Felix Guattari | 16 |
@@ -182,6 +184,8 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Virginia Woolf | 13 |
 | John Crowe Ransom | 13 |
 | Chinua Achebe | 13 |
+| Eve Kosofsky Sedgwick | 13 |
+| Dick Hebdige | 13 |
 | Geoffrey of Vinsauf | 12 |
 | Simone de Beauvoir | 12 |
 | Claude Levi-Strauss | 12 |
@@ -197,6 +201,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Gerald Vizenor | 11 |
 | Gerald Graff | 11 |
 | Barbara Christian | 11 |
+| Henry Louis Gates Jr. | 11 |
 | Quintilian | 10 |
 | Hugh of St. Victor | 10 |
 | Joseph Addison | 10 |
@@ -217,6 +222,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Antonio Gramsci | 9 |
 | Kenneth Burke | 9 |
 | Pierre Bourdieu | 9 |
+| bell hooks | 9 |
 | Walter Pater | 8 |
 | Henry James | 8 |
 | Monique Wittig | 8 |
@@ -230,7 +236,6 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Georg Wilhelm Friedrich Hegel | 6 |
 | Langston Hughes | 6 |
 | Jean-Francois Lyotard | 6 |
-| Lennard J. Davis | 6 |
 | Dante Alighieri | 5 |
 | Pierre de Ronsard | 5 |
 | Stephen Greenblatt | 5 |
@@ -680,6 +685,17 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 2345 | Barbara Smith | Barbara Smith | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2345.md |
 | 2404 | Susan Bordo |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2404.md |
 | 2405 | Susan Bordo |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2405.md |
+| 2465 | Henry Louis Gates Jr. | Enforcing Normalcy: Disability, Deafness, and the Body | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2465.md |
+| 2466 | Henry Louis Gates Jr. |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2466.md |
+| 2467 | Henry Louis Gates Jr. |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2467.md |
+| 2476 | Eve Kosofsky Sedgwick | Talking Black: Critical Signs of the Times | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2476.md |
+| 2477 | Eve Kosofsky Sedgwick | Eve Kosofsky Sedgwick | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2477.md |
+| 2489 | Dick Hebdige | Between Men and Epistemology of the Closet | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2489.md |
+| 2490 | Dick Hebdige |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2490.md |
+| 2491 | Dick Hebdige | Dick Hebdige | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2491.md |
+| 2519 | bell hooks | Against Theory | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2519.md |
+| 2520 | bell hooks |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2520.md |
+| 2521 | bell hooks | Bell Hooks | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_2521.md |
 
 ## Content Separation
 
@@ -2403,7 +2419,76 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 2441 | Homi K. Bhabha | The Commitment to Theory | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2441.md |
 | 2442 | Lennard J. Davis |  | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2442.md |
 | 2443 | Lennard J. Davis | Lennard J. Davls | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2443.md |
-| 2444 | Lennard J. Davis | Enforcing Normalcy: Disability, Deafness, and the Body | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2444.md |
-| 2445 | Lennard J. Davis | Enforcing Normalcy: Disability, Deafness, and the Body | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2445.md |
-| 2446 | Lennard J. Davis | Enforcing Normalcy: Disability, Deafness, and the Body | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2446.md |
-| 2447 | Lennard J. Davis | Enforcing Normalcy: Disability, Deafness, and the Body | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2447.md |
+| 2444 | Lennard J. Davis | Enforcing Normalcy: Disability, Deafness, and the Body | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2444.md |
+| 2445 | Lennard J. Davis | Enforcing Normalcy: Disability, Deafness, and the Body | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2445.md |
+| 2446 | Lennard J. Davis | Enforcing Normalcy: Disability, Deafness, and the Body | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2446.md |
+| 2447 | Lennard J. Davis | Enforcing Normalcy: Disability, Deafness, and the Body | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2447.md |
+| 2448 | Lennard J. Davis | Enforcing Normalcy: Disability, Deafness, and the Body | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2448.md |
+| 2449 | Lennard J. Davis | Enforcing Normalcy: Disability, Deafness, and the Body | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2449.md |
+| 2450 | Lennard J. Davis | Enforcing Normalcy: Disability, Deafness, and the Body | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2450.md |
+| 2451 | Lennard J. Davis | Enforcing Normalcy: Disability, Deafness, and the Body | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2451.md |
+| 2452 | Lennard J. Davis | Enforcing Normalcy: Disability, Deafness, and the Body | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2452.md |
+| 2453 | Lennard J. Davis | Enforcing Normalcy: Disability, Deafness, and the Body | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2453.md |
+| 2454 | Lennard J. Davis | Enforcing Normalcy: Disability, Deafness, and the Body | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2454.md |
+| 2455 | Lennard J. Davis | Enforcing Normalcy: Disability, Deafness, and the Body | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2455.md |
+| 2456 | Lennard J. Davis | Enforcing Normalcy: Disability, Deafness, and the Body | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2456.md |
+| 2457 | Lennard J. Davis | Enforcing Normalcy: Disability, Deafness, and the Body | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2457.md |
+| 2458 | Lennard J. Davis | Enforcing Normalcy: Disability, Deafness, and the Body | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2458.md |
+| 2459 | Lennard J. Davis | Enforcing Normalcy: Disability, Deafness, and the Body | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2459.md |
+| 2460 | Lennard J. Davis | Enforcing Normalcy: Disability, Deafness, and the Body | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2460.md |
+| 2461 | Lennard J. Davis | Enforcing Normalcy: Disability, Deafness, and the Body | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2461.md |
+| 2462 | Lennard J. Davis | Enforcing Normalcy: Disability, Deafness, and the Body | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2462.md |
+| 2463 | Lennard J. Davis | Enforcing Normalcy: Disability, Deafness, and the Body | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2463.md |
+| 2464 | Lennard J. Davis | Enforcing Normalcy: Disability, Deafness, and the Body | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2464.md |
+| 2468 | Henry Louis Gates Jr. | Talking Black: Critical Signs of the Times | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2468.md |
+| 2469 | Henry Louis Gates Jr. | Talking Black: Critical Signs of the Times | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2469.md |
+| 2470 | Henry Louis Gates Jr. | Talking Black: Critical Signs of the Times | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2470.md |
+| 2471 | Henry Louis Gates Jr. | Talking Black: Critical Signs of the Times | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2471.md |
+| 2472 | Henry Louis Gates Jr. | Talking Black: Critical Signs of the Times | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2472.md |
+| 2473 | Henry Louis Gates Jr. | Talking Black: Critical Signs of the Times | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2473.md |
+| 2474 | Henry Louis Gates Jr. | Talking Black: Critical Signs of the Times | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2474.md |
+| 2475 | Henry Louis Gates Jr. | Talking Black: Critical Signs of the Times | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2475.md |
+| 2478 | Eve Kosofsky Sedgwick | Between Men and Epistemology of the Closet | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2478.md |
+| 2479 | Eve Kosofsky Sedgwick | Between Men and Epistemology of the Closet | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2479.md |
+| 2480 | Eve Kosofsky Sedgwick | Between Men and Epistemology of the Closet | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2480.md |
+| 2481 | Eve Kosofsky Sedgwick | Between Men and Epistemology of the Closet | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2481.md |
+| 2482 | Eve Kosofsky Sedgwick | Between Men and Epistemology of the Closet | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2482.md |
+| 2483 | Eve Kosofsky Sedgwick | Between Men and Epistemology of the Closet | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2483.md |
+| 2484 | Eve Kosofsky Sedgwick | Between Men and Epistemology of the Closet | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2484.md |
+| 2485 | Eve Kosofsky Sedgwick | Between Men and Epistemology of the Closet | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2485.md |
+| 2486 | Eve Kosofsky Sedgwick | Between Men and Epistemology of the Closet | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2486.md |
+| 2487 | Eve Kosofsky Sedgwick | Between Men and Epistemology of the Closet | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2487.md |
+| 2488 | Eve Kosofsky Sedgwick | Between Men and Epistemology of the Closet | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2488.md |
+| 2492 | Dick Hebdige | Subculture: The Meaning of Style | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2492.md |
+| 2493 | Dick Hebdige | Subculture: The Meaning of Style | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2493.md |
+| 2494 | Dick Hebdige | Subculture: The Meaning of Style | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2494.md |
+| 2495 | Dick Hebdige | Subculture: The Meaning of Style | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2495.md |
+| 2496 | Dick Hebdige | Subculture: The Meaning of Style | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2496.md |
+| 2497 | Dick Hebdige | Subculture: The Meaning of Style | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2497.md |
+| 2498 | Dick Hebdige | Subculture: The Meaning of Style | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2498.md |
+| 2499 | Dick Hebdige | Subculture: The Meaning of Style | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2499.md |
+| 2500 | Dick Hebdige | Subculture: The Meaning of Style | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2500.md |
+| 2501 | Dick Hebdige | Subculture: The Meaning of Style | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2501.md |
+| 2502 | Steven Knapp and Walter Benn Michaels |  | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2502.md |
+| 2503 | Steven Knapp and Walter Benn Michaels | Steven Knapp and Walteh Benn Michaels | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2503.md |
+| 2504 | Steven Knapp and Walter Benn Michaels | Against Theory | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2504.md |
+| 2505 | Steven Knapp and Walter Benn Michaels | Against Theory | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2505.md |
+| 2506 | Steven Knapp and Walter Benn Michaels | Against Theory | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2506.md |
+| 2507 | Steven Knapp and Walter Benn Michaels | Against Theory | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2507.md |
+| 2508 | Steven Knapp and Walter Benn Michaels | Against Theory | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2508.md |
+| 2509 | Steven Knapp and Walter Benn Michaels | Against Theory | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2509.md |
+| 2510 | Steven Knapp and Walter Benn Michaels | Against Theory | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2510.md |
+| 2511 | Steven Knapp and Walter Benn Michaels | Against Theory | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2511.md |
+| 2512 | Steven Knapp and Walter Benn Michaels | Against Theory | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2512.md |
+| 2513 | Steven Knapp and Walter Benn Michaels | Against Theory | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2513.md |
+| 2514 | Steven Knapp and Walter Benn Michaels | Against Theory | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2514.md |
+| 2515 | Steven Knapp and Walter Benn Michaels | Against Theory | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2515.md |
+| 2516 | Steven Knapp and Walter Benn Michaels | Against Theory | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2516.md |
+| 2517 | Steven Knapp and Walter Benn Michaels | Against Theory | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2517.md |
+| 2518 | Steven Knapp and Walter Benn Michaels | Against Theory | mixed_author_transition_page;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2518.md |
+| 2522 | bell hooks | Postmodern Blackness | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2522.md |
+| 2523 | bell hooks | Postmodern Blackness | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2523.md |
+| 2524 | bell hooks | Postmodern Blackness | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2524.md |
+| 2525 | bell hooks | Postmodern Blackness | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2525.md |
+| 2526 | bell hooks | Postmodern Blackness | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2526.md |
+| 2527 | bell hooks | Postmodern Blackness | continues_beyond_current_batch;mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_2527.md |

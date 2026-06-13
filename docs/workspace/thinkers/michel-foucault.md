@@ -105,8 +105,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T07:08:56Z` |
-| Git commit | `811fcce` |
+| Generated at | `2026-06-13T07:13:40Z` |
+| Git commit | `525b073` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/michel-foucault.md` |
 

@@ -94,8 +94,8 @@ This note turns the current Norton chunk for Adrienne Rich into a navigable work
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/adrienne-rich.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T07:09:03Z` |
-| Git commit | `811fcce` |
+| Generated at | `2026-06-13T07:13:47Z` |
+| Git commit | `525b073` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/rich-compulsory-heterosexuality.md` |
 

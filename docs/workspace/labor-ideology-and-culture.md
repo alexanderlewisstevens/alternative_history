@@ -79,7 +79,12 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/smith-toward-black-feminist-criticism/"><strong>Barbara Smith, Toward a Black Feminist Criticism</strong><span>black-feminism, lesbian-criticism, canon; pages 2346-2359; 14 review rows</span></a>
   <a href="../norton-texts/bordo-unbearable-weight/"><strong>Susan Bordo, Unbearable Weight: Feminism, Western Culture, and the Body</strong><span>body, feminism, culture; pages 2406-2420; 15 review rows</span></a>
   <a href="../norton-texts/bhabha-commitment-to-theory/"><strong>Homi K. Bhabha, The Commitment to Theory</strong><span>postcolonial-theory, hybridity, cultural-difference; pages 2423-2441; 19 review rows</span></a>
-  <a href="../norton-texts/davis-enforcing-normalcy/"><strong>Lennard J. Davis, Enforcing Normalcy: Disability, Deafness, and the Body</strong><span>disability-studies, normalcy, body; pages 2444-2447; 4 review rows</span></a>
+  <a href="../norton-texts/davis-enforcing-normalcy/"><strong>Lennard J. Davis, Enforcing Normalcy: Disability, Deafness, and the Body</strong><span>disability-studies, normalcy, body; pages 2444-2464; 21 review rows</span></a>
+  <a href="../norton-texts/gates-talking-black/"><strong>Henry Louis Gates Jr., Talking Black: Critical Signs of the Times</strong><span>african-american-literature, vernacular, canon; pages 2468-2475; 8 review rows</span></a>
+  <a href="../norton-texts/sedgwick-between-men-epistemology-closet/"><strong>Eve Kosofsky Sedgwick, Between Men and Epistemology of the Closet</strong><span>queer-theory, sexuality, gender; pages 2478-2488; 11 review rows</span></a>
+  <a href="../norton-texts/hebdige-subculture-meaning-style/"><strong>Dick Hebdige, Subculture: The Meaning of Style</strong><span>cultural-studies, subculture, style; pages 2492-2501; 10 review rows</span></a>
+  <a href="../norton-texts/knapp-michaels-against-theory/"><strong>Steven Knapp and Walter Benn Michaels, Against Theory</strong><span>interpretation, pragmatism, intention; pages 2504-2518; 15 review rows</span></a>
+  <a href="../norton-texts/hooks-postmodern-blackness/"><strong>bell hooks, Postmodern Blackness</strong><span>black-feminism, postmodernism, identity; pages 2522-2527; 6 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -149,6 +154,11 @@ This is a scaffold for reading the configured texts together. It should become a
 55. [Susan Bordo, Unbearable Weight: Feminism, Western Culture, and the Body](norton-texts/bordo-unbearable-weight.md)
 56. [Homi K. Bhabha, The Commitment to Theory](norton-texts/bhabha-commitment-to-theory.md)
 57. [Lennard J. Davis, Enforcing Normalcy: Disability, Deafness, and the Body](norton-texts/davis-enforcing-normalcy.md)
+58. [Henry Louis Gates Jr., Talking Black: Critical Signs of the Times](norton-texts/gates-talking-black.md)
+59. [Eve Kosofsky Sedgwick, Between Men and Epistemology of the Closet](norton-texts/sedgwick-between-men-epistemology-closet.md)
+60. [Dick Hebdige, Subculture: The Meaning of Style](norton-texts/hebdige-subculture-meaning-style.md)
+61. [Steven Knapp and Walter Benn Michaels, Against Theory](norton-texts/knapp-michaels-against-theory.md)
+62. [bell hooks, Postmodern Blackness](norton-texts/hooks-postmodern-blackness.md)
 
 ## Review Pressure
 
@@ -210,7 +220,12 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Toward a Black Feminist Criticism](norton-texts/smith-toward-black-feminist-criticism.md) | 2346-2359 | 14 | excerpt: 14 |
 | [Unbearable Weight: Feminism, Western Culture, and the Body](norton-texts/bordo-unbearable-weight.md) | 2406-2420 | 15 | excerpt: 15 |
 | [The Commitment to Theory](norton-texts/bhabha-commitment-to-theory.md) | 2423-2441 | 19 | excerpt: 19 |
-| [Enforcing Normalcy: Disability, Deafness, and the Body](norton-texts/davis-enforcing-normalcy.md) | 2444-2447 | 4 | excerpt: 4 |
+| [Enforcing Normalcy: Disability, Deafness, and the Body](norton-texts/davis-enforcing-normalcy.md) | 2444-2464 | 21 | excerpt: 21 |
+| [Talking Black: Critical Signs of the Times](norton-texts/gates-talking-black.md) | 2468-2475 | 8 | excerpt: 8 |
+| [Between Men and Epistemology of the Closet](norton-texts/sedgwick-between-men-epistemology-closet.md) | 2478-2488 | 11 | excerpt: 11 |
+| [Subculture: The Meaning of Style](norton-texts/hebdige-subculture-meaning-style.md) | 2492-2501 | 10 | excerpt: 10 |
+| [Against Theory](norton-texts/knapp-michaels-against-theory.md) | 2504-2518 | 15 | excerpt: 15 |
+| [Postmodern Blackness](norton-texts/hooks-postmodern-blackness.md) | 2522-2527 | 6 | excerpt: 6 |
 
 ## Passage Queue
 
@@ -264,8 +279,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T07:08:48Z` |
-| Git commit | `811fcce` |
+| Generated at | `2026-06-13T07:13:35Z` |
+| Git commit | `525b073` |
 | Script version | `2` |
 | Output path | `docs/workspace/labor-ideology-and-culture.md` |
 

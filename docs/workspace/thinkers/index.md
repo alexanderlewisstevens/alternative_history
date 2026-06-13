@@ -20,6 +20,7 @@ This private index is generated from curated source metadata and local extractio
 | [Barbara Herrnstein Smith](barbara-herrnstein-smith.md) | 1 | Contingencies of Value |
 | [Barbara Johnson](barbara-johnson.md) | 1 | Melville&#x27;s Fist: The Execution of Billy Budd |
 | [Barbara Smith](barbara-smith.md) | 1 | Toward a Black Feminist Criticism |
+| [bell hooks](bell-hooks.md) | 1 | Postmodern Blackness |
 | [Bonnie Zimmerman](bonnie-zimmerman.md) | 1 | What Has Never Been: An Overview of Lesbian Feminist Literary Criticism |
 | [Boris Eichenbaum](boris-eichenbaum.md) | 1 | The Theory of the Formal Method |
 | [Carl Gustav Jung](carl-gustav-jung.md) | 1 | On the Relation of Analytical Psychology to Poetry |
@@ -30,6 +31,7 @@ This private index is generated from curated source metadata and local extractio
 | [Cleanth Brooks](cleanth-brooks.md) | 1 | The Well Wrought Urn |
 | [Dante Alighieri](dante-alighieri.md) | 1 | Il Convivio and The Letter to Can Grande |
 | [David Hume](david-hume.md) | 1 | Of the Standard of Taste |
+| [Dick Hebdige](dick-hebdige.md) | 1 | Subculture: The Meaning of Style |
 | [Donna Haraway](donna-haraway.md) | 1 | A Manifesto for Cyborgs |
 | [E. D. Hirsch Jr.](e-d-hirsch-jr.md) | 1 | Objective Interpretation |
 | [Edgar Allan Poe](edgar-allan-poe.md) | 1 | The Philosophy of Composition |
@@ -37,6 +39,7 @@ This private index is generated from curated source metadata and local extractio
 | [Edmund Wilson](edmund-wilson.md) | 1 | Marxism and Literature |
 | [Edward W. Said](edward-w-said.md) | 1 | Orientalism |
 | [Edward Young](edward-young.md) | 1 | Conjectures on Original Composition |
+| [Eve Kosofsky Sedgwick](eve-kosofsky-sedgwick.md) | 1 | Between Men and Epistemology of the Closet |
 | [Ferdinand de Saussure](ferdinand-de-saussure.md) | 1 | Course in General Linguistics |
 | [Frantz Fanon](frantz-fanon.md) | 1 | The Wretched of the Earth |
 | [Fredric Jameson](fredric-jameson.md) | 2 | The Political Unconscious: Narrative as a Socially Symbolic Act, Postmodernism and Consumer Society |
@@ -64,6 +67,7 @@ This private index is generated from curated source metadata and local extractio
 | [Hayden White](hayden-white.md) | 1 | The Historical Text as Literary Artifact |
 | [Helene Cixous](helene-cixous.md) | 1 | The Laugh of the Medusa |
 | [Henry James](henry-james.md) | 1 | The Art of Fiction |
+| [Henry Louis Gates Jr.](henry-louis-gates-jr.md) | 1 | Talking Black: Critical Signs of the Times |
 | [Homi K. Bhabha](homi-k-bhabha.md) | 1 | The Commitment to Theory |
 | [Horace](horace.md) | 1 | Ars Poetica |
 | [Houston A. Baker Jr.](houston-a-baker-jr.md) | 1 | Blues, Ideology, and Afro-American Literature |
@@ -126,6 +130,7 @@ This private index is generated from curated source metadata and local extractio
 | [Stanley E. Fish](stanley-e-fish.md) | 1 | Interpreting the Variorum |
 | [Stephane Mallarme](stephane-mallarme.md) | 1 | Crisis in Poetry |
 | [Stephen Greenblatt](stephen-greenblatt.md) | 1 | Introduction to The Power of Forms in the English Renaissance |
+| [Steven Knapp and Walter Benn Michaels](steven-knapp-and-walter-benn-michaels.md) | 1 | Against Theory |
 | [Stuart Hall](stuart-hall.md) | 1 | Cultural Studies and Its Theoretical Legacies |
 | [Susan Bordo](susan-bordo.md) | 1 | Unbearable Weight: Feminism, Western Culture, and the Body |
 | [T. S. Eliot](t-s-eliot.md) | 2 | Tradition and the Individual Talent, The Metaphysical Poets |
@@ -164,7 +169,7 @@ This private index is generated from curated source metadata and local extractio
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
-| Generated at | `2026-06-13T07:08:55Z` |
-| Git commit | `811fcce` |
+| Generated at | `2026-06-13T07:13:38Z` |
+| Git commit | `525b073` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/index.md` |

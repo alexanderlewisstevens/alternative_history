@@ -20,11 +20,11 @@ This note turns the current Norton chunk for Lennard J. Davis into a navigable w
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Chunk Status</span>
-  <h3>Norton Pages 2444-2447</h3>
-  <p><strong>Page count:</strong> 4</p>
+  <h3>Norton Pages 2444-2464</h3>
+  <p><strong>Page count:</strong> 21</p>
   <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/lennard-j-davis.md</code></p>
-  <p><strong>Page kinds:</strong> excerpt: 4</p>
-  <p><strong>Review pressure:</strong> 4 rows. continues_beyond_current_batch: 4<br>mixed_bibliography_and_work_title: 4</p>
+  <p><strong>Page kinds:</strong> excerpt: 21</p>
+  <p><strong>Review pressure:</strong> 21 rows. mixed_bibliography_and_work_title: 21</p>
 </section>
 
 ## Works And Excerpt Blocks
@@ -47,7 +47,7 @@ This note turns the current Norton chunk for Lennard J. Davis into a navigable w
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Anchor Candidates</span>
   <h3>Choose Passages After Review</h3>
-  <p><strong>Source location:</strong> Norton page range 2444-2447.</p>
+  <p><strong>Source location:</strong> Norton page range 2444-2464.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
   <p><strong>Use:</strong> Find the passages that make this text active inside signs-and-reading, commentary-and-afterlife, education-and-civic-life, taste-and-standards, aesthetic-education-and-citizenship, labor-ideology-and-culture.</p>
 </section>
@@ -55,7 +55,7 @@ This note turns the current Norton chunk for Lennard J. Davis into a navigable w
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Review Before Quoting</span>
   <h3>Layout, Notes, And Bibliography</h3>
-  <p><strong>Review signal:</strong> continues_beyond_current_batch: 4<br>mixed_bibliography_and_work_title: 4</p>
+  <p><strong>Review signal:</strong> mixed_bibliography_and_work_title: 21</p>
   <p><strong>Editorial rule:</strong> source notes belong in source-note fields, bibliography belongs in bibliography fields, and excerpt text stays separate.</p>
 </section>
 
@@ -93,8 +93,8 @@ This note turns the current Norton chunk for Lennard J. Davis into a navigable w
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/lennard-j-davis.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T07:09:03Z` |
-| Git commit | `811fcce` |
+| Generated at | `2026-06-13T07:13:48Z` |
+| Git commit | `525b073` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/davis-enforcing-normalcy.md` |
 

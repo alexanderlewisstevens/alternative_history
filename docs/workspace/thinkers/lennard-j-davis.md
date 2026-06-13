@@ -20,7 +20,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [Enforcing Normalcy: Disability, Deafness, and the Body](../norton-texts/davis-enforcing-normalcy.md) | 2444-2447 | 4 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | `edition-review-needed` |
+| [Enforcing Normalcy: Disability, Deafness, and the Body](../norton-texts/davis-enforcing-normalcy.md) | 2444-2464 | 21 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -39,9 +39,9 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Signal | Value |
 | --- | --- |
-| Page kinds | excerpt: 4<br>author_intro: 2 |
-| Review rows | 6 |
-| Review reasons | mixed_bibliography_and_work_title: 6<br>continues_beyond_current_batch: 4 |
+| Page kinds | excerpt: 21<br>author_intro: 2 |
+| Review rows | 23 |
+| Review reasons | mixed_bibliography_and_work_title: 23 |
 
 ## Passage Queue
 
@@ -92,8 +92,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T07:08:56Z` |
-| Git commit | `811fcce` |
+| Generated at | `2026-06-13T07:13:40Z` |
+| Git commit | `525b073` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/lennard-j-davis.md` |
 

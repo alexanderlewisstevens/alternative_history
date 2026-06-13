@@ -86,7 +86,7 @@ This note is useful for alternative history because it treats a famous inherited
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T07:08:54Z` |
-| Git commit | `811fcce` |
+| Generated at | `2026-06-13T07:13:38Z` |
+| Git commit | `525b073` |
 | Script version | `1` |
 | Output path | `docs/workspace/passages/gorgias-helen-and-blame.md` |

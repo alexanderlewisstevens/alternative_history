@@ -1770,6 +1770,66 @@ curated_texts:
       - body
       - labor
     status: edition-review-needed
+  - id: gates-talking-black
+    title: "Talking Black: Critical Signs of the Times"
+    creator: Henry Louis Gates Jr.
+    extraction_work_titles:
+      - "Talking Black: Critical Signs of the Times"
+    role: core-text-candidate
+    themes:
+      - african-american-literature
+      - vernacular
+      - canon
+      - theory
+    status: edition-review-needed
+  - id: sedgwick-between-men-epistemology-closet
+    title: "Between Men and Epistemology of the Closet"
+    creator: Eve Kosofsky Sedgwick
+    extraction_work_titles:
+      - "Between Men and Epistemology of the Closet"
+    role: core-text-candidate
+    themes:
+      - queer-theory
+      - sexuality
+      - gender
+      - epistemology
+    status: edition-review-needed
+  - id: hebdige-subculture-meaning-style
+    title: "Subculture: The Meaning of Style"
+    creator: Dick Hebdige
+    extraction_work_titles:
+      - "Subculture: The Meaning of Style"
+    role: core-text-candidate
+    themes:
+      - cultural-studies
+      - subculture
+      - style
+      - ideology
+    status: edition-review-needed
+  - id: knapp-michaels-against-theory
+    title: Against Theory
+    creator: Steven Knapp and Walter Benn Michaels
+    extraction_work_titles:
+      - Against Theory
+    role: core-text-candidate
+    themes:
+      - interpretation
+      - pragmatism
+      - intention
+      - theory
+    status: edition-review-needed
+  - id: hooks-postmodern-blackness
+    title: Postmodern Blackness
+    creator: bell hooks
+    extraction_work_titles:
+      - Postmodern Blackness
+    role: core-text-candidate
+    themes:
+      - black-feminism
+      - postmodernism
+      - identity
+      - public-intellectuals
+    status: edition-review-needed
 
 constellations:
   - id: rhetoric-and-force
@@ -1909,6 +1969,11 @@ constellations:
       - bordo-unbearable-weight
       - bhabha-commitment-to-theory
       - davis-enforcing-normalcy
+      - gates-talking-black
+      - sedgwick-between-men-epistemology-closet
+      - hebdige-subculture-meaning-style
+      - knapp-michaels-against-theory
+      - hooks-postmodern-blackness
     relations:
       - writing
       - interpretation
@@ -2008,9 +2073,17 @@ constellations:
       - fish-interpreting-the-variorum
       - todorov-structural-analysis-narrative
       - allen-kochinnenako-in-academe
+      - gates-talking-black
+      - sedgwick-between-men-epistemology-closet
+      - knapp-michaels-against-theory
+      - hooks-postmodern-blackness
       - johnson-melvilles-fist-execution-billy-budd
       - bhabha-commitment-to-theory
       - davis-enforcing-normalcy
+      - gates-talking-black
+      - sedgwick-between-men-epistemology-closet
+      - knapp-michaels-against-theory
+      - hooks-postmodern-blackness
       - tompkins-me-and-my-shadow
       - kolodny-dancing-through-the-minefield
       - kristeva-revolution-in-poetic-language
@@ -2092,6 +2165,10 @@ constellations:
       - zimmerman-what-has-never-been
       - bhabha-commitment-to-theory
       - davis-enforcing-normalcy
+      - gates-talking-black
+      - sedgwick-between-men-epistemology-closet
+      - knapp-michaels-against-theory
+      - hooks-postmodern-blackness
     relations:
       - pedagogy
       - civic-formation
@@ -2279,6 +2356,10 @@ constellations:
       - zimmerman-what-has-never-been
       - bordo-unbearable-weight
       - davis-enforcing-normalcy
+      - gates-talking-black
+      - sedgwick-between-men-epistemology-closet
+      - hebdige-subculture-meaning-style
+      - hooks-postmodern-blackness
     relations:
       - taste
       - criticism
@@ -2419,6 +2500,9 @@ constellations:
       - zimmerman-what-has-never-been
       - bhabha-commitment-to-theory
       - davis-enforcing-normalcy
+      - gates-talking-black
+      - knapp-michaels-against-theory
+      - hooks-postmodern-blackness
     relations:
       - education
       - freedom
@@ -2534,6 +2618,11 @@ constellations:
       - bordo-unbearable-weight
       - bhabha-commitment-to-theory
       - davis-enforcing-normalcy
+      - gates-talking-black
+      - sedgwick-between-men-epistemology-closet
+      - hebdige-subculture-meaning-style
+      - knapp-michaels-against-theory
+      - hooks-postmodern-blackness
     relations:
       - labor
       - ideology

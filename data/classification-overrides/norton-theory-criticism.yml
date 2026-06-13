@@ -4202,11 +4202,148 @@ overrides:
       - mixed_bibliography_and_work_title
 
   - id: lennard-j-davis-enforcing-normalcy
-    pages: 2444-2447
+    pages: 2444-2465
     author_name: Lennard J. Davis
     author_slug: lennard-j-davis
     work_title: "Enforcing Normalcy: Disability, Deafness, and the Body"
     work_slug: enforcing-normalcy
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: henry-louis-gates-jr-headnote
+    pages: 2465-2468
+    author_name: Henry Louis Gates Jr.
+    author_slug: henry-louis-gates-jr
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: henry-louis-gates-jr-talking-black
+    pages: 2468-2476
+    author_name: Henry Louis Gates Jr.
+    author_slug: henry-louis-gates-jr
+    work_title: "Talking Black: Critical Signs of the Times"
+    work_slug: talking-black
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: eve-kosofsky-sedgwick-headnote
+    pages: 2476-2478
+    author_name: Eve Kosofsky Sedgwick
+    author_slug: eve-kosofsky-sedgwick
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: eve-kosofsky-sedgwick-between-men-epistemology-closet
+    pages: 2478-2489
+    author_name: Eve Kosofsky Sedgwick
+    author_slug: eve-kosofsky-sedgwick
+    work_title: "Between Men and Epistemology of the Closet"
+    work_slug: between-men-epistemology-closet
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: dick-hebdige-headnote
+    pages: 2489-2492
+    author_name: Dick Hebdige
+    author_slug: dick-hebdige
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: dick-hebdige-subculture-meaning-style
+    pages: 2492-2501
+    author_name: Dick Hebdige
+    author_slug: dick-hebdige
+    work_title: "Subculture: The Meaning of Style"
+    work_slug: subculture-meaning-style
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: steven-knapp-walter-benn-michaels-headnote
+    pages: 2502-2504
+    author_name: Steven Knapp and Walter Benn Michaels
+    author_slug: steven-knapp-and-walter-benn-michaels
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: steven-knapp-walter-benn-michaels-against-theory
+    pages: 2504-2519
+    author_name: Steven Knapp and Walter Benn Michaels
+    author_slug: steven-knapp-and-walter-benn-michaels
+    work_title: Against Theory
+    work_slug: against-theory
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_author_transition_page
+
+  - id: bell-hooks-headnote
+    pages: 2519-2522
+    author_name: bell hooks
+    author_slug: bell-hooks
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: bell-hooks-postmodern-blackness
+    pages: 2522-2527
+    author_name: bell hooks
+    author_slug: bell-hooks
+    work_title: Postmodern Blackness
+    work_slug: postmodern-blackness
     page_kind: excerpt
     starts_new_author: false
     continues_previous_author: true
