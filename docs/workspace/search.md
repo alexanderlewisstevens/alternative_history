@@ -32,10 +32,10 @@ This generated page gives the private workspace a filtered index across texts, t
 
 | Type | Count |
 | --- | ---: |
-| Texts | 48 |
-| Thinkers | 48 |
+| Texts | 52 |
+| Thinkers | 52 |
 | Passages | 3 |
-| Constellations | 16 |
+| Constellations | 17 |
 | Chapters | 6 |
 
 ## Provenance
@@ -61,9 +61,9 @@ This generated page gives the private workspace a filtered index across texts, t
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
-| Entry count | 121 |
+| Entry count | 130 |
 | JSON index | `docs/assets/data/workspace-search.json` |
-| Generated at | `2026-06-13T04:56:04Z` |
-| Git commit | `96d61b9` |
+| Generated at | `2026-06-13T05:01:22Z` |
+| Git commit | `3678a16` |
 | Script version | `1` |
 | Output path | `docs/workspace/search.md` |

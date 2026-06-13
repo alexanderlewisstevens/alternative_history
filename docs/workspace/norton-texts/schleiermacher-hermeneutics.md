@@ -37,6 +37,7 @@ This note turns the current Norton chunk for Friedrich Schleiermacher into a nav
 | --- | --- | --- |
 | [signs-and-reading](../signs-and-reading.md) | How should difficult texts be read? | writing, interpretation, allegory |
 | [commentary-and-afterlife](../commentary-and-afterlife.md) | How do texts survive by being reread? | commentary, transmission, disciplined-reading |
+| [language-truth-and-fiction](../language-truth-and-fiction.md) | How do language and form make worlds rather than merely report them? | language, fiction, truth |
 
 ## Passage Queue
 
@@ -45,7 +46,7 @@ This note turns the current Norton chunk for Friedrich Schleiermacher into a nav
   <h3>Choose Passages After Review</h3>
   <p><strong>Source location:</strong> Norton page range 652-667.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
-  <p><strong>Use:</strong> Find the passages that make this text active inside signs-and-reading, commentary-and-afterlife.</p>
+  <p><strong>Use:</strong> Find the passages that make this text active inside signs-and-reading, commentary-and-afterlife, language-truth-and-fiction.</p>
 </section>
 
 <section class="ah-passage-card">
@@ -89,8 +90,8 @@ This note turns the current Norton chunk for Friedrich Schleiermacher into a nav
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/friedrich-schleiermacher.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T04:56:03Z` |
-| Git commit | `96d61b9` |
+| Generated at | `2026-06-13T05:01:21Z` |
+| Git commit | `3678a16` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/schleiermacher-hermeneutics.md` |
 
@@ -105,6 +106,7 @@ This note turns the current Norton chunk for Friedrich Schleiermacher into a nav
 <li><a href="../../passages/">Passage Notes</a></li>
 <li><a href="../../signs-and-reading/">signs-and-reading</a></li>
 <li><a href="../../commentary-and-afterlife/">commentary-and-afterlife</a></li>
+<li><a href="../../language-truth-and-fiction/">language-truth-and-fiction</a></li>
 </ul>
 
 ## Open Questions

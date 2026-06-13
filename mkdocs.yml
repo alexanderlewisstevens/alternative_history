@@ -78,6 +78,10 @@ nav:
           - Marx and Engels, Cultural and Historical Writings: workspace/norton-texts/marx-engels-selected-cultural-writings.md
           - Baudelaire, Painter of Modern Life: workspace/norton-texts/baudelaire-painter-modern-life.md
           - Arnold, Selected Critical Prose: workspace/norton-texts/arnold-selected-critical-prose.md
+          - Pater, Studies in the History of the Renaissance: workspace/norton-texts/pater-renaissance.md
+          - Mallarme, Crisis in Poetry: workspace/norton-texts/mallarme-crisis-poetry.md
+          - Henry James, The Art of Fiction: workspace/norton-texts/henry-james-art-fiction.md
+          - Nietzsche, On Truth and Lying: workspace/norton-texts/nietzsche-truth-and-lying.md
       - Thinker Notes:
           - Index: workspace/thinkers/index.md
           - Gorgias of Leontini: workspace/thinkers/gorgias-of-leontini.md
@@ -128,6 +132,10 @@ nav:
           - Karl Marx and Friedrich Engels: workspace/thinkers/karl-marx-and-friedrich-engels.md
           - Charles Baudelaire: workspace/thinkers/charles-baudelaire.md
           - Matthew Arnold: workspace/thinkers/matthew-arnold.md
+          - Walter Pater: workspace/thinkers/walter-pater.md
+          - Stephane Mallarme: workspace/thinkers/stephane-mallarme.md
+          - Henry James: workspace/thinkers/henry-james.md
+          - Friedrich Nietzsche: workspace/thinkers/friedrich-nietzsche.md
       - Passage Notes:
           - Index: workspace/passages/index.md
           - Speech As Force: workspace/passages/gorgias-speech-as-force.md
@@ -149,6 +157,7 @@ nav:
       - Romantic Poetry And Modernity: workspace/romantic-poetry-and-modernity.md
       - Art Utility And Modern Life: workspace/art-utility-and-modern-life.md
       - Labor Ideology And Culture: workspace/labor-ideology-and-culture.md
+      - Language Truth And Fiction: workspace/language-truth-and-fiction.md
       - Page Anatomy: workspace/page-anatomy.md
       - Gorgias Text Note: workspace/gorgias-encomium-helen.md
   - Project Notes:

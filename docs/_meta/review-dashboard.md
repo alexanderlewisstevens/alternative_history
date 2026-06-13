@@ -5,7 +5,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Boundary Review</div>
-  <div class="ah-metric-value">158</div>
+  <div class="ah-metric-value">172</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Content Separation</div>
@@ -13,15 +13,15 @@ This is the editorial queue for restricted extraction work. It is generated from
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Layout Review</div>
-  <div class="ah-metric-value">305</div>
+  <div class="ah-metric-value">308</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Source Notes</div>
-  <div class="ah-metric-value">63</div>
+  <div class="ah-metric-value">64</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">General Review</div>
-  <div class="ah-metric-value">53</div>
+  <div class="ah-metric-value">104</div>
 </div>
 </div>
 
@@ -29,10 +29,10 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 <div class="ah-review-grid">
 <section class="ah-review-card warn">
-  <div class="ah-review-card-kicker">158 pages</div>
+  <div class="ah-review-card-kicker">172 pages</div>
   <h3>Boundary Review</h3>
   <p>Confirm thinker and work boundaries before assembling public-facing drafts.</p>
-  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +146 more</p>
+  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +160 more</p>
 </section>
 <section class="ah-review-card warn">
   <div class="ah-review-card-kicker">9 pages</div>
@@ -41,22 +41,22 @@ This is the editorial queue for restricted extraction work. It is generated from
   <p><strong>Start:</strong> <code>72</code>, <code>199</code>, <code>285</code>, <code>297</code>, <code>344</code>, <code>368</code>, <code>443</code>, <code>469</code>, <code>655</code></p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">305 pages</div>
+  <div class="ah-review-card-kicker">308 pages</div>
   <h3>Layout Review</h3>
   <p>Confirm multi-column reading order before any summary or excerpt curation.</p>
-  <p><strong>Start:</strong> <code>73</code>, <code>79</code>, <code>80</code>, <code>82</code>, <code>83</code>, <code>84</code>, <code>86</code>, <code>90</code>, <code>91</code>, <code>92</code>, <code>93</code>, <code>94</code> +293 more</p>
+  <p><strong>Start:</strong> <code>73</code>, <code>79</code>, <code>80</code>, <code>82</code>, <code>83</code>, <code>84</code>, <code>86</code>, <code>90</code>, <code>91</code>, <code>92</code>, <code>93</code>, <code>94</code> +296 more</p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">63 pages</div>
+  <div class="ah-review-card-kicker">64 pages</div>
   <h3>Source Notes</h3>
   <p>Move source footnotes into Source Notes without converting them into Markdown footnotes.</p>
-  <p><strong>Start:</strong> <code>74</code>, <code>98</code>, <code>99</code>, <code>126</code>, <code>185</code>, <code>190</code>, <code>191</code>, <code>192</code>, <code>194</code>, <code>204</code>, <code>213</code>, <code>218</code> +51 more</p>
+  <p><strong>Start:</strong> <code>74</code>, <code>98</code>, <code>99</code>, <code>126</code>, <code>185</code>, <code>190</code>, <code>191</code>, <code>192</code>, <code>194</code>, <code>204</code>, <code>213</code>, <code>218</code> +52 more</p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">53 pages</div>
+  <div class="ah-review-card-kicker">104 pages</div>
   <h3>General Review</h3>
   <p>Resolve remaining template or classification questions.</p>
-  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +41 more</p>
+  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +92 more</p>
 </section>
 </div>
 
@@ -72,11 +72,11 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Field | Value |
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
-| Classified source pages | `71-847` |
-| Review queue rows | `588` |
+| Classified source pages | `71-927` |
+| Review queue rows | `657` |
 | Review queue file | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
-| Generated at | `2026-06-13T04:56:00Z` |
-| Git commit | `96d61b9` |
+| Generated at | `2026-06-13T05:01:18Z` |
+| Git commit | `3678a16` |
 | Script version | `1` |
 | Output path | `docs/_meta/review-dashboard.md` |
 
@@ -84,14 +84,14 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 | Reason | Pages |
 | --- | ---: |
-| multi_column_layout | 317 |
-| source_notes_detected | 284 |
-| transition_from_previous_author | 140 |
-| mixed_work_transition_page | 38 |
-| mixed_transition_page | 27 |
+| multi_column_layout | 320 |
+| source_notes_detected | 286 |
+| transition_from_previous_author | 154 |
+| mixed_work_transition_page | 77 |
+| mixed_bibliography_and_work_title | 50 |
+| mixed_transition_page | 35 |
 | layout_review_required | 23 |
 | author_boundary_without_life_dates | 16 |
-| mixed_bibliography_and_work_title | 15 |
 | mixed_excerpt_and_bibliography | 9 |
 | transition_from_previous_work | 2 |
 | ocr_title_cleanup | 2 |
@@ -101,6 +101,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Thinker | Pages |
 | --- | ---: |
 | Sir Philip Sidney | 39 |
+| Matthew Arnold | 31 |
 | Plato | 29 |
 | Karl Marx and Friedrich Engels | 29 |
 | Aristotle | 23 |
@@ -109,6 +110,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Alexander Pope | 20 |
 | Longinus | 19 |
 | Percy Bysshe Shelley | 19 |
+| Friedrich Nietzsche | 16 |
 | Moses Maimonides | 15 |
 | Giacopo Mazzoni | 15 |
 | Gotthold Ephraim Lessing | 15 |
@@ -129,6 +131,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Joseph Addison | 10 |
 | Friedrich Schiller | 10 |
 | Germaine de Stael | 10 |
+| Stephane Mallarme | 10 |
 | Augustine of Hippo | 9 |
 | Giovanni Boccaccio | 9 |
 | John Dryden | 9 |
@@ -136,6 +139,8 @@ This is the editorial queue for restricted extraction work. It is generated from
 | William Wordsworth | 9 |
 | Theophile Gautier | 9 |
 | Charles Baudelaire | 9 |
+| Walter Pater | 8 |
+| Henry James | 8 |
 | Plotinus | 7 |
 | Giambattista Giraldi | 7 |
 | David Hume | 7 |
@@ -145,7 +150,6 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Dante Alighieri | 5 |
 | Pierre de Ronsard | 5 |
 | Macrobius | 4 |
-| Matthew Arnold | 4 |
 | Gorgias of Leontini | 3 |
 | Christine de Pizan | 3 |
 
@@ -311,6 +315,20 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 845 | Matthew Arnold |  | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0845.md |
 | 846 | Matthew Arnold |  | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0846.md |
 | 847 | Matthew Arnold |  | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0847.md |
+| 875 | Walter Pater |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0875.md |
+| 876 | Walter Pater |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0876.md |
+| 883 | Stephane Mallarme | Studies in the History of the Renaissance | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0883.md |
+| 884 | Stephane Mallarme |  | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0884.md |
+| 885 | Stephane Mallarme | St~pi-iane Mallarme | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0885.md |
+| 886 | Stephane Mallarme |  | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0886.md |
+| 893 | Henry James | Crisis in Poetry | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0893.md |
+| 894 | Henry James |  | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0894.md |
+| 895 | Henry James |  | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0895.md |
+| 896 | Henry James |  | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0896.md |
+| 912 | Friedrich Nietzsche |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0912.md |
+| 913 | Friedrich Nietzsche | Friedrich Nietzsche | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0913.md |
+| 914 | Friedrich Nietzsche |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0914.md |
+| 915 | Friedrich Nietzsche |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0915.md |
 
 ## Content Separation
 
@@ -635,6 +653,9 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 839 | Charles Baudelaire | The Painter of Modern Life | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0839.md |
 | 840 | Charles Baudelaire | The Painter of Modern Life | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0840.md |
 | 841 | Charles Baudelaire | The Painter of Modern Life | multi_column_layout | work/page-records/norton-theory-criticism/page_0841.md |
+| 898 | Henry James | The Art of Fiction | multi_column_layout | work/page-records/norton-theory-criticism/page_0898.md |
+| 908 | Henry James | The Art of Fiction | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0908.md |
+| 909 | Henry James | The Art of Fiction | multi_column_layout | work/page-records/norton-theory-criticism/page_0909.md |
 
 ## Source Notes
 
@@ -703,6 +724,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 728 | Thomas Love Peacock | The Four Ages of Poetry | source_notes_detected | work/page-records/norton-theory-criticism/page_0728.md |
 | 737 | Thomas Love Peacock | The Four Ages of Poetry | source_notes_detected | work/page-records/norton-theory-criticism/page_0737.md |
 | 749 | Percy Bysshe Shelley | A Defence of Poetry | source_notes_detected | work/page-records/norton-theory-criticism/page_0749.md |
+| 911 | Henry James | The Art of Fiction | source_notes_detected | work/page-records/norton-theory-criticism/page_0911.md |
 
 ## General Review
 
@@ -761,3 +783,54 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 827 | Karl Marx and Friedrich Engels | Capital, Volume 1 | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0827.md |
 | 828 | Karl Marx and Friedrich Engels | Capital, Volume 1 | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0828.md |
 | 829 | Karl Marx and Friedrich Engels | Capital, Volume 1 | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0829.md |
+| 848 | Matthew Arnold | The Function of Criticism at the Present Time | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0848.md |
+| 849 | Matthew Arnold | The Function of Criticism at the Present Time | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0849.md |
+| 850 | Matthew Arnold | The Function of Criticism at the Present Time | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0850.md |
+| 851 | Matthew Arnold | The Function of Criticism at the Present Time | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0851.md |
+| 852 | Matthew Arnold | The Function of Criticism at the Present Time | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0852.md |
+| 853 | Matthew Arnold | The Function of Criticism at the Present Time | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0853.md |
+| 854 | Matthew Arnold | The Function of Criticism at the Present Time | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0854.md |
+| 855 | Matthew Arnold | The Function of Criticism at the Present Time | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0855.md |
+| 856 | Matthew Arnold | The Function of Criticism at the Present Time | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0856.md |
+| 857 | Matthew Arnold | The Function of Criticism at the Present Time | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0857.md |
+| 858 | Matthew Arnold | The Function of Criticism at the Present Time | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0858.md |
+| 859 | Matthew Arnold | The Function of Criticism at the Present Time | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0859.md |
+| 860 | Matthew Arnold | The Function of Criticism at the Present Time | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0860.md |
+| 861 | Matthew Arnold | The Function of Criticism at the Present Time | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0861.md |
+| 862 | Matthew Arnold | The Function of Criticism at the Present Time | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0862.md |
+| 863 | Matthew Arnold | The Function of Criticism at the Present Time | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0863.md |
+| 864 | Matthew Arnold | The Function of Criticism at the Present Time | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0864.md |
+| 865 | Matthew Arnold | The Function of Criticism at the Present Time | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0865.md |
+| 866 | Matthew Arnold | The Function of Criticism at the Present Time | mixed_bibliography_and_work_title;mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0866.md |
+| 867 | Matthew Arnold | Culture and Anarchy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0867.md |
+| 868 | Matthew Arnold | Culture and Anarchy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0868.md |
+| 869 | Matthew Arnold | Culture and Anarchy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0869.md |
+| 870 | Matthew Arnold | Culture and Anarchy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0870.md |
+| 871 | Matthew Arnold | Culture and Anarchy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0871.md |
+| 872 | Matthew Arnold | Culture and Anarchy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0872.md |
+| 873 | Matthew Arnold | Culture and Anarchy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0873.md |
+| 874 | Matthew Arnold | Culture and Anarchy | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0874.md |
+| 877 | Walter Pater | Studies in the History of the Renaissance | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0877.md |
+| 878 | Walter Pater | Studies in the History of the Renaissance | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0878.md |
+| 879 | Walter Pater | Studies in the History of the Renaissance | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0879.md |
+| 880 | Walter Pater | Studies in the History of the Renaissance | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0880.md |
+| 881 | Walter Pater | Studies in the History of the Renaissance | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0881.md |
+| 882 | Walter Pater | Studies in the History of the Renaissance | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0882.md |
+| 887 | Stephane Mallarme | Crisis in Poetry | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0887.md |
+| 888 | Stephane Mallarme | Crisis in Poetry | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0888.md |
+| 889 | Stephane Mallarme | Crisis in Poetry | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0889.md |
+| 890 | Stephane Mallarme | Crisis in Poetry | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0890.md |
+| 891 | Stephane Mallarme | Crisis in Poetry | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0891.md |
+| 892 | Stephane Mallarme | Crisis in Poetry | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0892.md |
+| 916 | Friedrich Nietzsche | On Truth and Lying in a Non-Moral Sense | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_0916.md |
+| 917 | Friedrich Nietzsche | On Truth and Lying in a Non-Moral Sense | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_0917.md |
+| 918 | Friedrich Nietzsche | On Truth and Lying in a Non-Moral Sense | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_0918.md |
+| 919 | Friedrich Nietzsche | On Truth and Lying in a Non-Moral Sense | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_0919.md |
+| 920 | Friedrich Nietzsche | On Truth and Lying in a Non-Moral Sense | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_0920.md |
+| 921 | Friedrich Nietzsche | On Truth and Lying in a Non-Moral Sense | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_0921.md |
+| 922 | Friedrich Nietzsche | On Truth and Lying in a Non-Moral Sense | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_0922.md |
+| 923 | Friedrich Nietzsche | On Truth and Lying in a Non-Moral Sense | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_0923.md |
+| 924 | Friedrich Nietzsche | On Truth and Lying in a Non-Moral Sense | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_0924.md |
+| 925 | Friedrich Nietzsche | On Truth and Lying in a Non-Moral Sense | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_0925.md |
+| 926 | Friedrich Nietzsche | On Truth and Lying in a Non-Moral Sense | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_0926.md |
+| 927 | Friedrich Nietzsche | On Truth and Lying in a Non-Moral Sense | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_0927.md |

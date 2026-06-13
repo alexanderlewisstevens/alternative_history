@@ -20,11 +20,13 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [Selected Critical Prose](../norton-texts/arnold-selected-critical-prose.md) | 844-847 | 4 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[art-utility-and-modern-life](../art-utility-and-modern-life.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | `edition-review-needed` |
+| [Selected Critical Prose](../norton-texts/arnold-selected-critical-prose.md) | 844-874 | 31 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[art-utility-and-modern-life](../art-utility-and-modern-life.md)<br>[labor-ideology-and-culture](../labor-ideology-and-culture.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
-- No work titles detected yet.
+- Selected Critical Prose
+- Culture and Anarchy
+- The Function of Criticism at the Present Time
 
 ## Constellation Backlinks
 
@@ -40,9 +42,9 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Signal | Value |
 | --- | --- |
-| Page kinds | author_intro: 4 |
-| Review rows | 4 |
-| Review reasons | mixed_transition_page: 4<br>transition_from_previous_author: 4 |
+| Page kinds | excerpt: 27<br>author_intro: 4 |
+| Review rows | 31 |
+| Review reasons | mixed_work_transition_page: 27<br>mixed_bibliography_and_work_title: 19<br>mixed_transition_page: 4<br>transition_from_previous_author: 4 |
 
 ## Passage Queue
 
@@ -93,8 +95,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T04:56:01Z` |
-| Git commit | `96d61b9` |
+| Generated at | `2026-06-13T05:01:19Z` |
+| Git commit | `3678a16` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/matthew-arnold.md` |
 

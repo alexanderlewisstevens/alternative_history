@@ -20,6 +20,7 @@ This private index is generated from curated source metadata and local extractio
 | [Edgar Allan Poe](edgar-allan-poe.md) | 1 | The Philosophy of Composition |
 | [Edmund Burke](edmund-burke.md) | 1 | A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful |
 | [Edward Young](edward-young.md) | 1 | Conjectures on Original Composition |
+| [Friedrich Nietzsche](friedrich-nietzsche.md) | 1 | On Truth and Lying in a Non-Moral Sense |
 | [Friedrich Schiller](friedrich-schiller.md) | 1 | On the Aesthetic Education of Man |
 | [Friedrich Schleiermacher](friedrich-schleiermacher.md) | 1 | Hermeneutics |
 | [Geoffrey of Vinsauf](geoffrey-of-vinsauf.md) | 1 | Poetria Nova |
@@ -31,6 +32,7 @@ This private index is generated from curated source metadata and local extractio
 | [Giovanni Boccaccio](giovanni-boccaccio.md) | 1 | Genealogy of the Gentile Gods |
 | [Gorgias](gorgias-of-leontini.md) | 1 | Encomium of Helen |
 | [Gotthold Ephraim Lessing](gotthold-ephraim-lessing.md) | 1 | Laocoon |
+| [Henry James](henry-james.md) | 1 | The Art of Fiction |
 | [Horace](horace.md) | 1 | Ars Poetica |
 | [Hugh of St. Victor](hugh-of-st-victor.md) | 1 | The Didascalicon |
 | [Immanuel Kant](immanuel-kant.md) | 1 | Critique of Judgment |
@@ -53,9 +55,11 @@ This private index is generated from curated source metadata and local extractio
 | [Samuel Johnson](samuel-johnson.md) | 1 | Selected Critical Prose |
 | [Samuel Taylor Coleridge](samuel-taylor-coleridge.md) | 1 | The Statesman&#x27;s Manual and Biographia Literaria |
 | [Sir Philip Sidney](sir-philip-sidney.md) | 1 | The Defense of Poesy |
+| [Stephane Mallarme](stephane-mallarme.md) | 1 | Crisis in Poetry |
 | [Theophile Gautier](theophile-gautier.md) | 1 | Preface to Mademoiselle de Maupin |
 | [Thomas Aquinas](thomas-aquinas.md) | 1 | Summa Theologica |
 | [Thomas Love Peacock](thomas-love-peacock.md) | 1 | The Four Ages of Poetry |
+| [Walter Pater](walter-pater.md) | 1 | Studies in the History of the Renaissance |
 | [William Wordsworth](william-wordsworth.md) | 1 | Preface to Lyrical Ballads |
 
 ## Provenance
@@ -79,7 +83,7 @@ This private index is generated from curated source metadata and local extractio
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
-| Generated at | `2026-06-13T04:56:01Z` |
-| Git commit | `96d61b9` |
+| Generated at | `2026-06-13T05:01:19Z` |
+| Git commit | `3678a16` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/index.md` |

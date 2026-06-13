@@ -1584,3 +1584,136 @@ overrides:
     review_reasons:
       - transition_from_previous_author
       - mixed_transition_page
+
+  - id: matthew-arnold-function-criticism
+    pages: 848-867
+    author_name: Matthew Arnold
+    author_slug: matthew-arnold
+    work_title: The Function of Criticism at the Present Time
+    work_slug: the-function-of-criticism-at-the-present-time
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+      - mixed_work_transition_page
+
+  - id: matthew-arnold-culture-and-anarchy
+    pages: 867-874
+    author_name: Matthew Arnold
+    author_slug: matthew-arnold
+    work_title: Culture and Anarchy
+    work_slug: culture-and-anarchy
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: walter-pater-headnote
+    pages: 875-876
+    author_name: Walter Pater
+    author_slug: walter-pater
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: walter-pater-studies-history-renaissance
+    pages: 877-883
+    author_name: Walter Pater
+    author_slug: walter-pater
+    work_title: Studies in the History of the Renaissance
+    work_slug: studies-in-the-history-of-the-renaissance
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: stephane-mallarme-headnote
+    pages: 883-886
+    author_name: Stephane Mallarme
+    author_slug: stephane-mallarme
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_transition_page
+
+  - id: stephane-mallarme-crisis-in-poetry
+    pages: 887-893
+    author_name: Stephane Mallarme
+    author_slug: stephane-mallarme
+    work_title: Crisis in Poetry
+    work_slug: crisis-in-poetry
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: henry-james-headnote
+    pages: 893-896
+    author_name: Henry James
+    author_slug: henry-james
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_transition_page
+
+  - id: henry-james-art-of-fiction
+    pages: 897-911
+    author_name: Henry James
+    author_slug: henry-james
+    work_title: The Art of Fiction
+    work_slug: the-art-of-fiction
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: friedrich-nietzsche-headnote
+    pages: 912-916
+    author_name: Friedrich Nietzsche
+    author_slug: friedrich-nietzsche
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: friedrich-nietzsche-truth-and-lying
+    pages: 916-927
+    author_name: Friedrich Nietzsche
+    author_slug: friedrich-nietzsche
+    work_title: On Truth and Lying in a Non-Moral Sense
+    work_slug: on-truth-and-lying-in-a-non-moral-sense
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title

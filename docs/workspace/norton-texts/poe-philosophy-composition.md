@@ -41,6 +41,7 @@ This note turns the current Norton chunk for Edgar Allan Poe into a navigable wo
 | [sublime-and-limits](../sublime-and-limits.md) | What happens when experience exceeds form? | sublimity, affect, limit |
 | [media-and-form](../media-and-form.md) | How do media shape what thought can represent? | medium, form, representation |
 | [romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md) | What can poetry do under modern social pressure? | poetry, modernity, imagination |
+| [language-truth-and-fiction](../language-truth-and-fiction.md) | How do language and form make worlds rather than merely report them? | language, fiction, truth |
 
 ## Passage Queue
 
@@ -49,7 +50,7 @@ This note turns the current Norton chunk for Edgar Allan Poe into a navigable wo
   <h3>Choose Passages After Review</h3>
   <p><strong>Source location:</strong> Norton page range 781-791.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
-  <p><strong>Use:</strong> Find the passages that make this text active inside poetry-and-judgment, authorship-and-authority, taste-and-standards, sublime-and-limits, media-and-form, romantic-poetry-and-modernity.</p>
+  <p><strong>Use:</strong> Find the passages that make this text active inside poetry-and-judgment, authorship-and-authority, taste-and-standards, sublime-and-limits, media-and-form, romantic-poetry-and-modernity, language-truth-and-fiction.</p>
 </section>
 
 <section class="ah-passage-card">
@@ -93,8 +94,8 @@ This note turns the current Norton chunk for Edgar Allan Poe into a navigable wo
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/edgar-allan-poe.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T04:56:03Z` |
-| Git commit | `96d61b9` |
+| Generated at | `2026-06-13T05:01:21Z` |
+| Git commit | `3678a16` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/poe-philosophy-composition.md` |
 
@@ -113,6 +114,7 @@ This note turns the current Norton chunk for Edgar Allan Poe into a navigable wo
 <li><a href="../../sublime-and-limits/">sublime-and-limits</a></li>
 <li><a href="../../media-and-form/">media-and-form</a></li>
 <li><a href="../../romantic-poetry-and-modernity/">romantic-poetry-and-modernity</a></li>
+<li><a href="../../language-truth-and-fiction/">language-truth-and-fiction</a></li>
 </ul>
 
 ## Open Questions

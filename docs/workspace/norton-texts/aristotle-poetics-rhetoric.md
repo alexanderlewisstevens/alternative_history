@@ -43,6 +43,7 @@ This note turns the current Norton chunk for Aristotle into a navigable workspac
 | [education-and-civic-life](../education-and-civic-life.md) | What should education make possible for citizens? | pedagogy, civic-formation, authority |
 | [theater-and-public-judgment](../theater-and-public-judgment.md) | How does theater train or expose public judgment? | drama, audience, rules |
 | [media-and-form](../media-and-form.md) | How do media shape what thought can represent? | medium, form, representation |
+| [language-truth-and-fiction](../language-truth-and-fiction.md) | How do language and form make worlds rather than merely report them? | language, fiction, truth |
 
 ## Passage Queue
 
@@ -51,7 +52,7 @@ This note turns the current Norton chunk for Aristotle into a navigable workspac
   <h3>Choose Passages After Review</h3>
   <p><strong>Source location:</strong> Norton page range 128-162.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
-  <p><strong>Use:</strong> Find the passages that make this text active inside rhetoric-and-force, poetry-and-judgment, education-and-civic-life, theater-and-public-judgment, media-and-form.</p>
+  <p><strong>Use:</strong> Find the passages that make this text active inside rhetoric-and-force, poetry-and-judgment, education-and-civic-life, theater-and-public-judgment, media-and-form, language-truth-and-fiction.</p>
 </section>
 
 <section class="ah-passage-card">
@@ -95,8 +96,8 @@ This note turns the current Norton chunk for Aristotle into a navigable workspac
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/aristotle.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T04:56:03Z` |
-| Git commit | `96d61b9` |
+| Generated at | `2026-06-13T05:01:21Z` |
+| Git commit | `3678a16` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/aristotle-poetics-rhetoric.md` |
 
@@ -114,6 +115,7 @@ This note turns the current Norton chunk for Aristotle into a navigable workspac
 <li><a href="../../education-and-civic-life/">education-and-civic-life</a></li>
 <li><a href="../../theater-and-public-judgment/">theater-and-public-judgment</a></li>
 <li><a href="../../media-and-form/">media-and-form</a></li>
+<li><a href="../../language-truth-and-fiction/">language-truth-and-fiction</a></li>
 </ul>
 
 ## Open Questions

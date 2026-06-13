@@ -20,7 +20,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [Hermeneutics](../norton-texts/schleiermacher-hermeneutics.md) | 652-667 | 14 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md) | `edition-review-needed` |
+| [Hermeneutics](../norton-texts/schleiermacher-hermeneutics.md) | 652-667 | 14 | 0 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -29,6 +29,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 ## Constellation Backlinks
 
 - [commentary-and-afterlife](../commentary-and-afterlife.md)
+- [language-truth-and-fiction](../language-truth-and-fiction.md)
 - [signs-and-reading](../signs-and-reading.md)
 
 ## Review Pressure
@@ -88,8 +89,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T04:56:01Z` |
-| Git commit | `96d61b9` |
+| Generated at | `2026-06-13T05:01:19Z` |
+| Git commit | `3678a16` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/friedrich-schleiermacher.md` |
 

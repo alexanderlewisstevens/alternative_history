@@ -92,8 +92,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T04:56:01Z` |
-| Git commit | `96d61b9` |
+| Generated at | `2026-06-13T05:01:19Z` |
+| Git commit | `3678a16` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/john-dryden.md` |
 

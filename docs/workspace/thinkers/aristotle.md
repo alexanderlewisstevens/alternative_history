@@ -20,7 +20,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [Poetics and Rhetoric](../norton-texts/aristotle-poetics-rhetoric.md) | 128-162 | 23 | 0 | [rhetoric-and-force](../rhetoric-and-force.md)<br>[poetry-and-judgment](../poetry-and-judgment.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[theater-and-public-judgment](../theater-and-public-judgment.md)<br>[media-and-form](../media-and-form.md) | `edition-review-needed` |
+| [Poetics and Rhetoric](../norton-texts/aristotle-poetics-rhetoric.md) | 128-162 | 23 | 0 | [rhetoric-and-force](../rhetoric-and-force.md)<br>[poetry-and-judgment](../poetry-and-judgment.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[theater-and-public-judgment](../theater-and-public-judgment.md)<br>[media-and-form](../media-and-form.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -32,6 +32,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 ## Constellation Backlinks
 
 - [education-and-civic-life](../education-and-civic-life.md)
+- [language-truth-and-fiction](../language-truth-and-fiction.md)
 - [media-and-form](../media-and-form.md)
 - [poetry-and-judgment](../poetry-and-judgment.md)
 - [rhetoric-and-force](../rhetoric-and-force.md)
@@ -94,8 +95,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T04:56:01Z` |
-| Git commit | `96d61b9` |
+| Generated at | `2026-06-13T05:01:19Z` |
+| Git commit | `3678a16` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/aristotle.md` |
 

@@ -20,16 +20,18 @@ This note turns the current Norton chunk for Matthew Arnold into a navigable wor
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Chunk Status</span>
-  <h3>Norton Pages 844-847</h3>
-  <p><strong>Page count:</strong> 4</p>
+  <h3>Norton Pages 844-874</h3>
+  <p><strong>Page count:</strong> 31</p>
   <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/matthew-arnold.md</code></p>
-  <p><strong>Page kinds:</strong> author_intro: 4</p>
-  <p><strong>Review pressure:</strong> 4 rows. mixed_transition_page: 4<br>transition_from_previous_author: 4</p>
+  <p><strong>Page kinds:</strong> excerpt: 27<br>author_intro: 4</p>
+  <p><strong>Review pressure:</strong> 31 rows. mixed_work_transition_page: 27<br>mixed_bibliography_and_work_title: 19<br>mixed_transition_page: 4<br>transition_from_previous_author: 4</p>
 </section>
 
 ## Works And Excerpt Blocks
 
-- No work titles detected yet.
+- Selected Critical Prose
+- Culture and Anarchy
+- The Function of Criticism at the Present Time
 
 ## Constellations
 
@@ -48,7 +50,7 @@ This note turns the current Norton chunk for Matthew Arnold into a navigable wor
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Anchor Candidates</span>
   <h3>Choose Passages After Review</h3>
-  <p><strong>Source location:</strong> Norton page range 844-847.</p>
+  <p><strong>Source location:</strong> Norton page range 844-874.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
   <p><strong>Use:</strong> Find the passages that make this text active inside poetry-and-judgment, commentary-and-afterlife, education-and-civic-life, taste-and-standards, aesthetic-education-and-citizenship, art-utility-and-modern-life, labor-ideology-and-culture.</p>
 </section>
@@ -56,7 +58,7 @@ This note turns the current Norton chunk for Matthew Arnold into a navigable wor
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Review Before Quoting</span>
   <h3>Layout, Notes, And Bibliography</h3>
-  <p><strong>Review signal:</strong> mixed_transition_page: 4<br>transition_from_previous_author: 4</p>
+  <p><strong>Review signal:</strong> mixed_work_transition_page: 27<br>mixed_bibliography_and_work_title: 19<br>mixed_transition_page: 4<br>transition_from_previous_author: 4</p>
   <p><strong>Editorial rule:</strong> source notes belong in source-note fields, bibliography belongs in bibliography fields, and excerpt text stays separate.</p>
 </section>
 
@@ -94,8 +96,8 @@ This note turns the current Norton chunk for Matthew Arnold into a navigable wor
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/matthew-arnold.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T04:56:03Z` |
-| Git commit | `96d61b9` |
+| Generated at | `2026-06-13T05:01:21Z` |
+| Git commit | `3678a16` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/arnold-selected-critical-prose.md` |
 

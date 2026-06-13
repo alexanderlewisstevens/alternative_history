@@ -495,6 +495,46 @@ curated_texts:
       - education
       - public-life
     status: edition-review-needed
+  - id: pater-renaissance
+    title: Studies in the History of the Renaissance
+    creator: Walter Pater
+    role: core-text-candidate
+    themes:
+      - aestheticism
+      - perception
+      - criticism
+      - experience
+    status: edition-review-needed
+  - id: mallarme-crisis-poetry
+    title: Crisis in Poetry
+    creator: Stephane Mallarme
+    role: core-text-candidate
+    themes:
+      - poetry
+      - language
+      - modernity
+      - form
+    status: edition-review-needed
+  - id: henry-james-art-fiction
+    title: The Art of Fiction
+    creator: Henry James
+    role: core-text-candidate
+    themes:
+      - fiction
+      - realism
+      - craft
+      - representation
+    status: edition-review-needed
+  - id: nietzsche-truth-and-lying
+    title: On Truth and Lying in a Non-Moral Sense
+    creator: Friedrich Nietzsche
+    role: core-text-candidate
+    themes:
+      - truth
+      - metaphor
+      - language
+      - critique
+    status: edition-review-needed
 
 constellations:
   - id: rhetoric-and-force
@@ -541,6 +581,8 @@ constellations:
       - gautier-preface-mademoiselle-de-maupin
       - baudelaire-painter-modern-life
       - arnold-selected-critical-prose
+      - pater-renaissance
+      - henry-james-art-fiction
     relations:
       - tension
       - craft
@@ -559,6 +601,7 @@ constellations:
       - hegel-phenomenology-fine-art
       - coleridge-statesmans-manual-biographia-literaria
       - marx-engels-selected-cultural-writings
+      - nietzsche-truth-and-lying
     relations:
       - writing
       - interpretation
@@ -578,6 +621,8 @@ constellations:
       - emerson-american-scholar-poet
       - gautier-preface-mademoiselle-de-maupin
       - baudelaire-painter-modern-life
+      - pater-renaissance
+      - nietzsche-truth-and-lying
     relations:
       - sublimity
       - ascent
@@ -598,6 +643,8 @@ constellations:
       - coleridge-statesmans-manual-biographia-literaria
       - baudelaire-painter-modern-life
       - arnold-selected-critical-prose
+      - pater-renaissance
+      - nietzsche-truth-and-lying
     relations:
       - commentary
       - transmission
@@ -622,6 +669,8 @@ constellations:
       - emerson-american-scholar-poet
       - marx-engels-selected-cultural-writings
       - arnold-selected-critical-prose
+      - henry-james-art-fiction
+      - nietzsche-truth-and-lying
     relations:
       - pedagogy
       - civic-formation
@@ -639,6 +688,7 @@ constellations:
       - wordsworth-lyrical-ballads-preface
       - emerson-american-scholar-poet
       - baudelaire-painter-modern-life
+      - mallarme-crisis-poetry
     relations:
       - vernacular
       - imitation
@@ -674,6 +724,10 @@ constellations:
       - poe-philosophy-composition
       - gautier-preface-mademoiselle-de-maupin
       - baudelaire-painter-modern-life
+      - pater-renaissance
+      - mallarme-crisis-poetry
+      - henry-james-art-fiction
+      - nietzsche-truth-and-lying
     relations:
       - authorship
       - gender
@@ -699,6 +753,8 @@ constellations:
       - gautier-preface-mademoiselle-de-maupin
       - baudelaire-painter-modern-life
       - arnold-selected-critical-prose
+      - pater-renaissance
+      - henry-james-art-fiction
     relations:
       - taste
       - criticism
@@ -717,6 +773,7 @@ constellations:
       - emerson-american-scholar-poet
       - poe-philosophy-composition
       - baudelaire-painter-modern-life
+      - nietzsche-truth-and-lying
     relations:
       - sublimity
       - affect
@@ -733,6 +790,8 @@ constellations:
       - poe-philosophy-composition
       - gautier-preface-mademoiselle-de-maupin
       - baudelaire-painter-modern-life
+      - mallarme-crisis-poetry
+      - henry-james-art-fiction
     relations:
       - medium
       - form
@@ -751,6 +810,7 @@ constellations:
       - emerson-american-scholar-poet
       - marx-engels-selected-cultural-writings
       - arnold-selected-critical-prose
+      - pater-renaissance
     relations:
       - education
       - freedom
@@ -766,6 +826,9 @@ constellations:
       - poe-philosophy-composition
       - gautier-preface-mademoiselle-de-maupin
       - baudelaire-painter-modern-life
+      - pater-renaissance
+      - mallarme-crisis-poetry
+      - nietzsche-truth-and-lying
     relations:
       - poetry
       - modernity
@@ -778,6 +841,7 @@ constellations:
       - gautier-preface-mademoiselle-de-maupin
       - baudelaire-painter-modern-life
       - arnold-selected-critical-prose
+      - pater-renaissance
     relations:
       - utility
       - aestheticism
@@ -789,10 +853,24 @@ constellations:
       - stael-fictions-literature-social-institutions
       - marx-engels-selected-cultural-writings
       - arnold-selected-critical-prose
+      - nietzsche-truth-and-lying
     relations:
       - labor
       - ideology
       - institutions
+  - id: language-truth-and-fiction
+    question: How do language and form make worlds rather than merely report them?
+    texts:
+      - aristotle-poetics-rhetoric
+      - schleiermacher-hermeneutics
+      - poe-philosophy-composition
+      - mallarme-crisis-poetry
+      - henry-james-art-fiction
+      - nietzsche-truth-and-lying
+    relations:
+      - language
+      - fiction
+      - truth
 
 research_tools:
   - id: worldcat

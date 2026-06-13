@@ -34,6 +34,7 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/emerson-american-scholar-poet/"><strong>Ralph Waldo Emerson, The American Scholar and The Poet</strong><span>scholarship, self-reliance, poetry; pages 759-780; 21 review rows</span></a>
   <a href="../norton-texts/poe-philosophy-composition/"><strong>Edgar Allan Poe, The Philosophy of Composition</strong><span>composition, craft, effect; pages 781-791; 11 review rows</span></a>
   <a href="../norton-texts/baudelaire-painter-modern-life/"><strong>Charles Baudelaire, The Painter of Modern Life</strong><span>modernity, art, fashion; pages 831-843; 9 review rows</span></a>
+  <a href="../norton-texts/nietzsche-truth-and-lying/"><strong>Friedrich Nietzsche, On Truth and Lying in a Non-Moral Sense</strong><span>truth, metaphor, language; pages 912-927; 16 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -57,6 +58,7 @@ This is a scaffold for reading the configured texts together. It should become a
 9. [Ralph Waldo Emerson, The American Scholar and The Poet](norton-texts/emerson-american-scholar-poet.md)
 10. [Edgar Allan Poe, The Philosophy of Composition](norton-texts/poe-philosophy-composition.md)
 11. [Charles Baudelaire, The Painter of Modern Life](norton-texts/baudelaire-painter-modern-life.md)
+12. [Friedrich Nietzsche, On Truth and Lying in a Non-Moral Sense](norton-texts/nietzsche-truth-and-lying.md)
 
 ## Review Pressure
 
@@ -73,6 +75,7 @@ This is a scaffold for reading the configured texts together. It should become a
 | [The American Scholar and The Poet](norton-texts/emerson-american-scholar-poet.md) | 759-780 | 21 | excerpt: 18<br>author_intro: 4 |
 | [The Philosophy of Composition](norton-texts/poe-philosophy-composition.md) | 781-791 | 11 | excerpt: 8<br>author_intro: 3 |
 | [The Painter of Modern Life](norton-texts/baudelaire-painter-modern-life.md) | 831-843 | 9 | excerpt: 9<br>author_intro: 4 |
+| [On Truth and Lying in a Non-Moral Sense](norton-texts/nietzsche-truth-and-lying.md) | 912-927 | 16 | excerpt: 12<br>author_intro: 4 |
 
 ## Passage Queue
 
@@ -126,8 +129,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T04:55:22Z` |
-| Git commit | `96d61b9` |
+| Generated at | `2026-06-13T05:00:49Z` |
+| Git commit | `3678a16` |
 | Script version | `2` |
 | Output path | `docs/workspace/sublime-and-limits.md` |
 

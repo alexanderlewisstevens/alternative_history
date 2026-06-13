@@ -33,7 +33,8 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/coleridge-statesmans-manual-biographia-literaria/"><strong>Samuel Taylor Coleridge, The Statesman&#x27;s Manual and Biographia Literaria</strong><span>imagination, symbol, poetry; pages 710-723; 13 review rows</span></a>
   <a href="../norton-texts/emerson-american-scholar-poet/"><strong>Ralph Waldo Emerson, The American Scholar and The Poet</strong><span>scholarship, self-reliance, poetry; pages 759-780; 21 review rows</span></a>
   <a href="../norton-texts/marx-engels-selected-cultural-writings/"><strong>Karl Marx and Friedrich Engels, Selected Cultural and Historical Writings</strong><span>ideology, labor, capitalism; pages 801-830; 29 review rows</span></a>
-  <a href="../norton-texts/arnold-selected-critical-prose/"><strong>Matthew Arnold, Selected Critical Prose</strong><span>criticism, culture, education; pages 844-847; 4 review rows</span></a>
+  <a href="../norton-texts/arnold-selected-critical-prose/"><strong>Matthew Arnold, Selected Critical Prose</strong><span>criticism, culture, education; pages 844-874; 31 review rows</span></a>
+  <a href="../norton-texts/pater-renaissance/"><strong>Walter Pater, Studies in the History of the Renaissance</strong><span>aestheticism, perception, criticism; pages 875-882; 8 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -57,6 +58,7 @@ This is a scaffold for reading the configured texts together. It should become a
 9. [Ralph Waldo Emerson, The American Scholar and The Poet](norton-texts/emerson-american-scholar-poet.md)
 10. [Karl Marx and Friedrich Engels, Selected Cultural and Historical Writings](norton-texts/marx-engels-selected-cultural-writings.md)
 11. [Matthew Arnold, Selected Critical Prose](norton-texts/arnold-selected-critical-prose.md)
+12. [Walter Pater, Studies in the History of the Renaissance](norton-texts/pater-renaissance.md)
 
 ## Review Pressure
 
@@ -72,7 +74,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | [The Statesman&#x27;s Manual and Biographia Literaria](norton-texts/coleridge-statesmans-manual-biographia-literaria.md) | 710-723 | 13 | excerpt: 9<br>author_intro: 5 |
 | [The American Scholar and The Poet](norton-texts/emerson-american-scholar-poet.md) | 759-780 | 21 | excerpt: 18<br>author_intro: 4 |
 | [Selected Cultural and Historical Writings](norton-texts/marx-engels-selected-cultural-writings.md) | 801-830 | 29 | excerpt: 25<br>author_intro: 5 |
-| [Selected Critical Prose](norton-texts/arnold-selected-critical-prose.md) | 844-847 | 4 | author_intro: 4 |
+| [Selected Critical Prose](norton-texts/arnold-selected-critical-prose.md) | 844-874 | 31 | excerpt: 27<br>author_intro: 4 |
+| [Studies in the History of the Renaissance](norton-texts/pater-renaissance.md) | 875-882 | 8 | excerpt: 6<br>author_intro: 2 |
 
 ## Passage Queue
 
@@ -126,8 +129,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T04:55:22Z` |
-| Git commit | `96d61b9` |
+| Generated at | `2026-06-13T05:00:49Z` |
+| Git commit | `3678a16` |
 | Script version | `2` |
 | Output path | `docs/workspace/aesthetic-education-and-citizenship.md` |
 

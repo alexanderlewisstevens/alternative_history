@@ -40,7 +40,9 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/poe-philosophy-composition/"><strong>Edgar Allan Poe, The Philosophy of Composition</strong><span>composition, craft, effect; pages 781-791; 11 review rows</span></a>
   <a href="../norton-texts/gautier-preface-mademoiselle-de-maupin/"><strong>Theophile Gautier, Preface to Mademoiselle de Maupin</strong><span>aestheticism, art-for-art, utility; pages 792-800; 9 review rows</span></a>
   <a href="../norton-texts/baudelaire-painter-modern-life/"><strong>Charles Baudelaire, The Painter of Modern Life</strong><span>modernity, art, fashion; pages 831-843; 9 review rows</span></a>
-  <a href="../norton-texts/arnold-selected-critical-prose/"><strong>Matthew Arnold, Selected Critical Prose</strong><span>criticism, culture, education; pages 844-847; 4 review rows</span></a>
+  <a href="../norton-texts/arnold-selected-critical-prose/"><strong>Matthew Arnold, Selected Critical Prose</strong><span>criticism, culture, education; pages 844-874; 31 review rows</span></a>
+  <a href="../norton-texts/pater-renaissance/"><strong>Walter Pater, Studies in the History of the Renaissance</strong><span>aestheticism, perception, criticism; pages 875-882; 8 review rows</span></a>
+  <a href="../norton-texts/henry-james-art-fiction/"><strong>Henry James, The Art of Fiction</strong><span>fiction, realism, craft; pages 893-911; 8 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -71,6 +73,8 @@ This is a scaffold for reading the configured texts together. It should become a
 16. [Theophile Gautier, Preface to Mademoiselle de Maupin](norton-texts/gautier-preface-mademoiselle-de-maupin.md)
 17. [Charles Baudelaire, The Painter of Modern Life](norton-texts/baudelaire-painter-modern-life.md)
 18. [Matthew Arnold, Selected Critical Prose](norton-texts/arnold-selected-critical-prose.md)
+19. [Walter Pater, Studies in the History of the Renaissance](norton-texts/pater-renaissance.md)
+20. [Henry James, The Art of Fiction](norton-texts/henry-james-art-fiction.md)
 
 ## Review Pressure
 
@@ -93,7 +97,9 @@ This is a scaffold for reading the configured texts together. It should become a
 | [The Philosophy of Composition](norton-texts/poe-philosophy-composition.md) | 781-791 | 11 | excerpt: 8<br>author_intro: 3 |
 | [Preface to Mademoiselle de Maupin](norton-texts/gautier-preface-mademoiselle-de-maupin.md) | 792-800 | 9 | excerpt: 6<br>author_intro: 3 |
 | [The Painter of Modern Life](norton-texts/baudelaire-painter-modern-life.md) | 831-843 | 9 | excerpt: 9<br>author_intro: 4 |
-| [Selected Critical Prose](norton-texts/arnold-selected-critical-prose.md) | 844-847 | 4 | author_intro: 4 |
+| [Selected Critical Prose](norton-texts/arnold-selected-critical-prose.md) | 844-874 | 31 | excerpt: 27<br>author_intro: 4 |
+| [Studies in the History of the Renaissance](norton-texts/pater-renaissance.md) | 875-882 | 8 | excerpt: 6<br>author_intro: 2 |
+| [The Art of Fiction](norton-texts/henry-james-art-fiction.md) | 893-911 | 8 | excerpt: 15<br>author_intro: 4 |
 
 ## Passage Queue
 
@@ -147,8 +153,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T04:55:22Z` |
-| Git commit | `96d61b9` |
+| Generated at | `2026-06-13T05:00:49Z` |
+| Git commit | `3678a16` |
 | Script version | `2` |
 | Output path | `docs/workspace/taste-and-standards.md` |
 

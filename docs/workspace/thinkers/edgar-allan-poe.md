@@ -20,7 +20,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [The Philosophy of Composition](../norton-texts/poe-philosophy-composition.md) | 781-791 | 11 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[sublime-and-limits](../sublime-and-limits.md)<br>[media-and-form](../media-and-form.md)<br>[romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md) | `edition-review-needed` |
+| [The Philosophy of Composition](../norton-texts/poe-philosophy-composition.md) | 781-791 | 11 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[sublime-and-limits](../sublime-and-limits.md)<br>[media-and-form](../media-and-form.md)<br>[romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md)<br>[language-truth-and-fiction](../language-truth-and-fiction.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
@@ -29,6 +29,7 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 ## Constellation Backlinks
 
 - [authorship-and-authority](../authorship-and-authority.md)
+- [language-truth-and-fiction](../language-truth-and-fiction.md)
 - [media-and-form](../media-and-form.md)
 - [poetry-and-judgment](../poetry-and-judgment.md)
 - [romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md)
@@ -92,8 +93,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T04:56:01Z` |
-| Git commit | `96d61b9` |
+| Generated at | `2026-06-13T05:01:19Z` |
+| Git commit | `3678a16` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/edgar-allan-poe.md` |
 
