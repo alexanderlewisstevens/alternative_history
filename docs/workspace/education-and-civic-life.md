@@ -50,6 +50,8 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/woolf-room-of-ones-own/"><strong>Virginia Woolf, A Room of One&#x27;s Own</strong><span>feminism, authorship, education; pages 1065-1073; 9 review rows</span></a>
   <a href="../norton-texts/lukacs-realism-in-the-balance/"><strong>Gyorgy Lukacs, Realism in the Balance</strong><span>realism, marxism, modernism; pages 1077-1101; 25 review rows</span></a>
   <a href="../norton-texts/ransom-criticism-inc/"><strong>John Crowe Ransom, Criticism, Inc.</strong><span>new-criticism, criticism, close-reading; pages 1152-1161; 10 review rows</span></a>
+  <a href="../norton-texts/gramsci-formation-intellectuals/"><strong>Antonio Gramsci, The Formation of the Intellectuals</strong><span>hegemony, intellectuals, education; pages 1182-1187; 6 review rows</span></a>
+  <a href="../norton-texts/hurston-what-white-publishers-wont-print/"><strong>Zora Neale Hurston, What White Publishers Won&#x27;t Print</strong><span>publishing, race, representation; pages 1203-1206; 2 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -89,6 +91,8 @@ This is a scaffold for reading the configured texts together. It should become a
 25. [Virginia Woolf, A Room of One&#x27;s Own](norton-texts/woolf-room-of-ones-own.md)
 26. [Gyorgy Lukacs, Realism in the Balance](norton-texts/lukacs-realism-in-the-balance.md)
 27. [John Crowe Ransom, Criticism, Inc.](norton-texts/ransom-criticism-inc.md)
+28. [Antonio Gramsci, The Formation of the Intellectuals](norton-texts/gramsci-formation-intellectuals.md)
+29. [Zora Neale Hurston, What White Publishers Won&#x27;t Print](norton-texts/hurston-what-white-publishers-wont-print.md)
 
 ## Review Pressure
 
@@ -121,6 +125,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | [A Room of One&#x27;s Own](norton-texts/woolf-room-of-ones-own.md) | 1065-1073 | 9 | excerpt: 9 |
 | [Realism in the Balance](norton-texts/lukacs-realism-in-the-balance.md) | 1077-1101 | 25 | excerpt: 25 |
 | [Criticism, Inc.](norton-texts/ransom-criticism-inc.md) | 1152-1161 | 10 | excerpt: 10 |
+| [The Formation of the Intellectuals](norton-texts/gramsci-formation-intellectuals.md) | 1182-1187 | 6 | excerpt: 6 |
+| [What White Publishers Won&#x27;t Print](norton-texts/hurston-what-white-publishers-wont-print.md) | 1203-1206 | 2 | excerpt: 4 |
 
 ## Passage Queue
 
@@ -174,8 +180,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:23:16Z` |
-| Git commit | `752b0b4` |
+| Generated at | `2026-06-13T05:28:41Z` |
+| Git commit | `783f2a9` |
 | Script version | `2` |
 | Output path | `docs/workspace/education-and-civic-life.md` |
 

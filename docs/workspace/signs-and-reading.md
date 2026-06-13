@@ -39,7 +39,9 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/saussure-course-general-linguistics/"><strong>Ferdinand de Saussure, Course in General Linguistics</strong><span>language, signs, structure; pages 1004-1020; 17 review rows</span></a>
   <a href="../norton-texts/jung-analytical-psychology-poetry/"><strong>Carl Gustav Jung, On the Relation of Analytical Psychology to Poetry</strong><span>psychology, archetype, myth; pages 1034-1045; 12 review rows</span></a>
   <a href="../norton-texts/eichenbaum-theory-formal-method/"><strong>Boris Eichenbaum, The Theory of the Formal Method</strong><span>formalism, literary-theory, method; pages 1106-1131; 18 review rows</span></a>
-  <a href="../norton-texts/heidegger-language/"><strong>Martin Heidegger, Language</strong><span>language, being, poetry; pages 1165-1167; 3 review rows</span></a>
+  <a href="../norton-texts/heidegger-language/"><strong>Martin Heidegger, Language</strong><span>language, being, poetry; pages 1165-1178; 7 review rows</span></a>
+  <a href="../norton-texts/hurston-characteristics-negro-expression/"><strong>Zora Neale Hurston, Characteristics of Negro Expression</strong><span>vernacular, performance, race; pages 1190-1202; 13 review rows</span></a>
+  <a href="../norton-texts/bakhtin-discourse-in-the-novel/"><strong>Mikhail M. Bakhtin, Discourse in the Novel</strong><span>dialogism, heteroglossia, novel; pages not assembled; 0 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -69,6 +71,8 @@ This is a scaffold for reading the configured texts together. It should become a
 15. [Carl Gustav Jung, On the Relation of Analytical Psychology to Poetry](norton-texts/jung-analytical-psychology-poetry.md)
 16. [Boris Eichenbaum, The Theory of the Formal Method](norton-texts/eichenbaum-theory-formal-method.md)
 17. [Martin Heidegger, Language](norton-texts/heidegger-language.md)
+18. [Zora Neale Hurston, Characteristics of Negro Expression](norton-texts/hurston-characteristics-negro-expression.md)
+19. [Mikhail M. Bakhtin, Discourse in the Novel](norton-texts/bakhtin-discourse-in-the-novel.md)
 
 ## Review Pressure
 
@@ -90,7 +94,9 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Course in General Linguistics](norton-texts/saussure-course-general-linguistics.md) | 1004-1020 | 17 | excerpt: 17 |
 | [On the Relation of Analytical Psychology to Poetry](norton-texts/jung-analytical-psychology-poetry.md) | 1034-1045 | 12 | excerpt: 12 |
 | [The Theory of the Formal Method](norton-texts/eichenbaum-theory-formal-method.md) | 1106-1131 | 18 | excerpt: 26 |
-| [Language](norton-texts/heidegger-language.md) | 1165-1167 | 3 | excerpt: 3 |
+| [Language](norton-texts/heidegger-language.md) | 1165-1178 | 7 | excerpt: 14 |
+| [Characteristics of Negro Expression](norton-texts/hurston-characteristics-negro-expression.md) | 1190-1202 | 13 | excerpt: 13 |
+| [Discourse in the Novel](norton-texts/bakhtin-discourse-in-the-novel.md) |  | 0 |  |
 
 ## Passage Queue
 
@@ -144,8 +150,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:23:16Z` |
-| Git commit | `752b0b4` |
+| Generated at | `2026-06-13T05:28:41Z` |
+| Git commit | `783f2a9` |
 | Script version | `2` |
 | Output path | `docs/workspace/signs-and-reading.md` |
 

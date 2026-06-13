@@ -39,6 +39,7 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/du-bois-criteria-of-negro-art/"><strong>W. E. B. Du Bois, Criteria of Negro Art</strong><span>race, art, propaganda; pages 1024-1030; 7 review rows</span></a>
   <a href="../norton-texts/woolf-room-of-ones-own/"><strong>Virginia Woolf, A Room of One&#x27;s Own</strong><span>feminism, authorship, education; pages 1065-1073; 9 review rows</span></a>
   <a href="../norton-texts/ransom-criticism-inc/"><strong>John Crowe Ransom, Criticism, Inc.</strong><span>new-criticism, criticism, close-reading; pages 1152-1161; 10 review rows</span></a>
+  <a href="../norton-texts/gramsci-formation-intellectuals/"><strong>Antonio Gramsci, The Formation of the Intellectuals</strong><span>hegemony, intellectuals, education; pages 1182-1187; 6 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -67,6 +68,7 @@ This is a scaffold for reading the configured texts together. It should become a
 14. [W. E. B. Du Bois, Criteria of Negro Art](norton-texts/du-bois-criteria-of-negro-art.md)
 15. [Virginia Woolf, A Room of One&#x27;s Own](norton-texts/woolf-room-of-ones-own.md)
 16. [John Crowe Ransom, Criticism, Inc.](norton-texts/ransom-criticism-inc.md)
+17. [Antonio Gramsci, The Formation of the Intellectuals](norton-texts/gramsci-formation-intellectuals.md)
 
 ## Review Pressure
 
@@ -88,6 +90,7 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Criteria of Negro Art](norton-texts/du-bois-criteria-of-negro-art.md) | 1024-1030 | 7 | excerpt: 7 |
 | [A Room of One&#x27;s Own](norton-texts/woolf-room-of-ones-own.md) | 1065-1073 | 9 | excerpt: 9 |
 | [Criticism, Inc.](norton-texts/ransom-criticism-inc.md) | 1152-1161 | 10 | excerpt: 10 |
+| [The Formation of the Intellectuals](norton-texts/gramsci-formation-intellectuals.md) | 1182-1187 | 6 | excerpt: 6 |
 
 ## Passage Queue
 
@@ -141,8 +144,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:23:17Z` |
-| Git commit | `752b0b4` |
+| Generated at | `2026-06-13T05:28:42Z` |
+| Git commit | `783f2a9` |
 | Script version | `2` |
 | Output path | `docs/workspace/aesthetic-education-and-citizenship.md` |
 

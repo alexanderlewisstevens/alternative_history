@@ -97,8 +97,8 @@ This note turns the current Norton chunk for Gyorgy Lukacs into a navigable work
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/gyorgy-lukacs.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T05:23:35Z` |
-| Git commit | `752b0b4` |
+| Generated at | `2026-06-13T05:30:50Z` |
+| Git commit | `783f2a9` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/lukacs-realism-in-the-balance.md` |
 

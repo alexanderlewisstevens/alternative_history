@@ -20,11 +20,11 @@ This note turns the current Norton chunk for Martin Heidegger into a navigable w
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Chunk Status</span>
-  <h3>Norton Pages 1165-1167</h3>
-  <p><strong>Page count:</strong> 3</p>
+  <h3>Norton Pages 1165-1178</h3>
+  <p><strong>Page count:</strong> 14</p>
   <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/martin-heidegger.md</code></p>
-  <p><strong>Page kinds:</strong> excerpt: 3</p>
-  <p><strong>Review pressure:</strong> 3 rows. continues_beyond_current_batch: 3</p>
+  <p><strong>Page kinds:</strong> excerpt: 14</p>
+  <p><strong>Review pressure:</strong> 7 rows. multi_column_layout: 3<br>continues_beyond_current_batch: 2<br>mixed_bibliography_and_work_title: 1<br>mixed_transition_page: 1<br>transition_from_previous_author: 1</p>
 </section>
 
 ## Works And Excerpt Blocks
@@ -47,7 +47,7 @@ This note turns the current Norton chunk for Martin Heidegger into a navigable w
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Anchor Candidates</span>
   <h3>Choose Passages After Review</h3>
-  <p><strong>Source location:</strong> Norton page range 1165-1167.</p>
+  <p><strong>Source location:</strong> Norton page range 1165-1178.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
   <p><strong>Use:</strong> Find the passages that make this text active inside signs-and-reading, beauty-and-ascent, commentary-and-afterlife, vernacular-and-institution, media-and-form, language-truth-and-fiction.</p>
 </section>
@@ -55,7 +55,7 @@ This note turns the current Norton chunk for Martin Heidegger into a navigable w
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Review Before Quoting</span>
   <h3>Layout, Notes, And Bibliography</h3>
-  <p><strong>Review signal:</strong> continues_beyond_current_batch: 3</p>
+  <p><strong>Review signal:</strong> multi_column_layout: 3<br>continues_beyond_current_batch: 2<br>mixed_bibliography_and_work_title: 1<br>mixed_transition_page: 1<br>transition_from_previous_author: 1</p>
   <p><strong>Editorial rule:</strong> source notes belong in source-note fields, bibliography belongs in bibliography fields, and excerpt text stays separate.</p>
 </section>
 
@@ -93,8 +93,8 @@ This note turns the current Norton chunk for Martin Heidegger into a navigable w
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/martin-heidegger.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T05:23:35Z` |
-| Git commit | `752b0b4` |
+| Generated at | `2026-06-13T05:30:50Z` |
+| Git commit | `783f2a9` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/heidegger-language.md` |
 

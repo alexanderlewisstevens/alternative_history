@@ -710,6 +710,68 @@ curated_texts:
       - poetry
       - dwelling
     status: edition-review-needed
+  - id: gramsci-formation-intellectuals
+    title: The Formation of the Intellectuals
+    creator: Antonio Gramsci
+    extraction_work_titles:
+      - The Formation of the Intellectuals
+    role: core-text-candidate
+    themes:
+      - hegemony
+      - intellectuals
+      - education
+      - institutions
+    status: edition-review-needed
+  - id: hurston-characteristics-negro-expression
+    title: Characteristics of Negro Expression
+    creator: Zora Neale Hurston
+    extraction_work_titles:
+      - Characteristics of Negro Expression
+    role: core-text-candidate
+    themes:
+      - vernacular
+      - performance
+      - race
+      - language
+    status: edition-review-needed
+  - id: hurston-what-white-publishers-wont-print
+    title: What White Publishers Won't Print
+    creator: Zora Neale Hurston
+    extraction_work_titles:
+      - What White Publishers Won't Print
+    role: core-text-candidate
+    themes:
+      - publishing
+      - race
+      - representation
+      - artistic-freedom
+    status: edition-review-needed
+  - id: benjamin-work-of-art-mechanical-reproduction
+    title: The Work of Art in the Age of Mechanical Reproduction
+    creator: Walter Benjamin
+    extraction_work_titles:
+      - The Work of Art in the Age of Mechanical Reproduction
+    role: core-text-candidate
+    themes:
+      - media
+      - technology
+      - aura
+      - politics
+    status: edition-review-needed
+  - id: bakhtin-discourse-in-the-novel
+    title: Discourse in the Novel
+    creator: Mikhail M. Bakhtin
+    extraction_author_slugs:
+      - mikhail-bakhtin
+    extraction_work_titles:
+      - Discourse in the Novel
+    role: core-text-candidate
+    themes:
+      - dialogism
+      - heteroglossia
+      - novel
+      - language
+    status: edition-review-needed
 
 constellations:
   - id: rhetoric-and-force
@@ -768,6 +830,9 @@ constellations:
       - eliot-tradition-individual-talent
       - eliot-metaphysical-poets
       - ransom-criticism-inc
+      - hurston-characteristics-negro-expression
+      - hurston-what-white-publishers-wont-print
+      - benjamin-work-of-art-mechanical-reproduction
     relations:
       - tension
       - craft
@@ -792,6 +857,8 @@ constellations:
       - jung-analytical-psychology-poetry
       - eichenbaum-theory-formal-method
       - heidegger-language
+      - hurston-characteristics-negro-expression
+      - bakhtin-discourse-in-the-novel
     relations:
       - writing
       - interpretation
@@ -849,6 +916,11 @@ constellations:
       - eliot-metaphysical-poets
       - ransom-criticism-inc
       - heidegger-language
+      - gramsci-formation-intellectuals
+      - hurston-characteristics-negro-expression
+      - hurston-what-white-publishers-wont-print
+      - benjamin-work-of-art-mechanical-reproduction
+      - bakhtin-discourse-in-the-novel
     relations:
       - commentary
       - transmission
@@ -883,6 +955,8 @@ constellations:
       - woolf-room-of-ones-own
       - lukacs-realism-in-the-balance
       - ransom-criticism-inc
+      - gramsci-formation-intellectuals
+      - hurston-what-white-publishers-wont-print
     relations:
       - pedagogy
       - civic-formation
@@ -907,6 +981,8 @@ constellations:
       - woolf-room-of-ones-own
       - lukacs-realism-in-the-balance
       - heidegger-language
+      - hurston-characteristics-negro-expression
+      - bakhtin-discourse-in-the-novel
     relations:
       - vernacular
       - imitation
@@ -951,6 +1027,8 @@ constellations:
       - du-bois-criteria-of-negro-art
       - woolf-room-of-ones-own
       - eliot-tradition-individual-talent
+      - hurston-what-white-publishers-wont-print
+      - bakhtin-discourse-in-the-novel
     relations:
       - authorship
       - gender
@@ -984,6 +1062,8 @@ constellations:
       - eliot-tradition-individual-talent
       - eliot-metaphysical-poets
       - ransom-criticism-inc
+      - hurston-characteristics-negro-expression
+      - benjamin-work-of-art-mechanical-reproduction
     relations:
       - taste
       - criticism
@@ -1035,6 +1115,9 @@ constellations:
       - eliot-metaphysical-poets
       - ransom-criticism-inc
       - heidegger-language
+      - hurston-characteristics-negro-expression
+      - benjamin-work-of-art-mechanical-reproduction
+      - bakhtin-discourse-in-the-novel
     relations:
       - medium
       - form
@@ -1058,6 +1141,7 @@ constellations:
       - du-bois-criteria-of-negro-art
       - woolf-room-of-ones-own
       - ransom-criticism-inc
+      - gramsci-formation-intellectuals
     relations:
       - education
       - freedom
@@ -1124,6 +1208,8 @@ constellations:
       - lukacs-realism-in-the-balance
       - eichenbaum-theory-formal-method
       - ransom-criticism-inc
+      - gramsci-formation-intellectuals
+      - benjamin-work-of-art-mechanical-reproduction
     relations:
       - labor
       - ideology
@@ -1150,6 +1236,8 @@ constellations:
       - eliot-tradition-individual-talent
       - eliot-metaphysical-poets
       - heidegger-language
+      - hurston-characteristics-negro-expression
+      - bakhtin-discourse-in-the-novel
     relations:
       - language
       - fiction

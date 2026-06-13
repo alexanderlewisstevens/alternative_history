@@ -2101,11 +2101,127 @@ overrides:
       - mixed_bibliography_and_work_title
 
   - id: martin-heidegger-language
-    pages: 1165-1167
+    pages: 1165-1178
     author_name: Martin Heidegger
     author_slug: martin-heidegger
     work_title: Language
     work_slug: language
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: antonio-gramsci-headnote
+    pages: 1179-1182
+    author_name: Antonio Gramsci
+    author_slug: antonio-gramsci
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: antonio-gramsci-formation-intellectuals
+    pages: 1182-1187
+    author_name: Antonio Gramsci
+    author_slug: antonio-gramsci
+    work_title: The Formation of the Intellectuals
+    work_slug: the-formation-of-the-intellectuals
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: zora-neale-hurston-headnote
+    pages: 1188-1190
+    author_name: Zora Neale Hurston
+    author_slug: zora-neale-hurston
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: zora-neale-hurston-characteristics-negro-expression
+    pages: 1190-1202
+    author_name: Zora Neale Hurston
+    author_slug: zora-neale-hurston
+    work_title: Characteristics of Negro Expression
+    work_slug: characteristics-of-negro-expression
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: zora-neale-hurston-what-white-publishers-wont-print
+    pages: 1203-1206
+    author_name: Zora Neale Hurston
+    author_slug: zora-neale-hurston
+    work_title: What White Publishers Won't Print
+    work_slug: what-white-publishers-wont-print
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: walter-benjamin-headnote
+    pages: 1207-1211
+    author_name: Walter Benjamin
+    author_slug: walter-benjamin
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: walter-benjamin-work-of-art-mechanical-reproduction
+    pages: 1211-1229
+    author_name: Walter Benjamin
+    author_slug: walter-benjamin
+    work_title: The Work of Art in the Age of Mechanical Reproduction
+    work_slug: the-work-of-art-in-the-age-of-mechanical-reproduction
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page
+
+  - id: mikhail-bakhtin-headnote
+    pages: 1230-1234
+    author_name: Mikhail M. Bakhtin
+    author_slug: mikhail-bakhtin
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_bibliography_and_work_title
+
+  - id: mikhail-bakhtin-discourse-in-the-novel
+    pages: 1234-1247
+    author_name: Mikhail M. Bakhtin
+    author_slug: mikhail-bakhtin
+    work_title: Discourse in the Novel
+    work_slug: discourse-in-the-novel
     page_kind: excerpt
     starts_new_author: false
     continues_previous_author: true

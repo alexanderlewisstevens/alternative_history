@@ -39,7 +39,9 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/trotsky-literature-and-revolution/"><strong>Leon Trotsky, Literature and Revolution</strong><span>marxism, revolution, form; pages 1049-1060; 12 review rows</span></a>
   <a href="../norton-texts/woolf-room-of-ones-own/"><strong>Virginia Woolf, A Room of One&#x27;s Own</strong><span>feminism, authorship, education; pages 1065-1073; 9 review rows</span></a>
   <a href="../norton-texts/lukacs-realism-in-the-balance/"><strong>Gyorgy Lukacs, Realism in the Balance</strong><span>realism, marxism, modernism; pages 1077-1101; 25 review rows</span></a>
-  <a href="../norton-texts/heidegger-language/"><strong>Martin Heidegger, Language</strong><span>language, being, poetry; pages 1165-1167; 3 review rows</span></a>
+  <a href="../norton-texts/heidegger-language/"><strong>Martin Heidegger, Language</strong><span>language, being, poetry; pages 1165-1178; 7 review rows</span></a>
+  <a href="../norton-texts/hurston-characteristics-negro-expression/"><strong>Zora Neale Hurston, Characteristics of Negro Expression</strong><span>vernacular, performance, race; pages 1190-1202; 13 review rows</span></a>
+  <a href="../norton-texts/bakhtin-discourse-in-the-novel/"><strong>Mikhail M. Bakhtin, Discourse in the Novel</strong><span>dialogism, heteroglossia, novel; pages not assembled; 0 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -69,6 +71,8 @@ This is a scaffold for reading the configured texts together. It should become a
 15. [Virginia Woolf, A Room of One&#x27;s Own](norton-texts/woolf-room-of-ones-own.md)
 16. [Gyorgy Lukacs, Realism in the Balance](norton-texts/lukacs-realism-in-the-balance.md)
 17. [Martin Heidegger, Language](norton-texts/heidegger-language.md)
+18. [Zora Neale Hurston, Characteristics of Negro Expression](norton-texts/hurston-characteristics-negro-expression.md)
+19. [Mikhail M. Bakhtin, Discourse in the Novel](norton-texts/bakhtin-discourse-in-the-novel.md)
 
 ## Review Pressure
 
@@ -90,7 +94,9 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Literature and Revolution](norton-texts/trotsky-literature-and-revolution.md) | 1049-1060 | 12 | excerpt: 12 |
 | [A Room of One&#x27;s Own](norton-texts/woolf-room-of-ones-own.md) | 1065-1073 | 9 | excerpt: 9 |
 | [Realism in the Balance](norton-texts/lukacs-realism-in-the-balance.md) | 1077-1101 | 25 | excerpt: 25 |
-| [Language](norton-texts/heidegger-language.md) | 1165-1167 | 3 | excerpt: 3 |
+| [Language](norton-texts/heidegger-language.md) | 1165-1178 | 7 | excerpt: 14 |
+| [Characteristics of Negro Expression](norton-texts/hurston-characteristics-negro-expression.md) | 1190-1202 | 13 | excerpt: 13 |
+| [Discourse in the Novel](norton-texts/bakhtin-discourse-in-the-novel.md) |  | 0 |  |
 
 ## Passage Queue
 
@@ -144,8 +150,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:23:17Z` |
-| Git commit | `752b0b4` |
+| Generated at | `2026-06-13T05:28:41Z` |
+| Git commit | `783f2a9` |
 | Script version | `2` |
 | Output path | `docs/workspace/vernacular-and-institution.md` |
 

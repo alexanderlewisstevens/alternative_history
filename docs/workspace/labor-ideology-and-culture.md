@@ -36,6 +36,8 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/lukacs-realism-in-the-balance/"><strong>Gyorgy Lukacs, Realism in the Balance</strong><span>realism, marxism, modernism; pages 1077-1101; 25 review rows</span></a>
   <a href="../norton-texts/eichenbaum-theory-formal-method/"><strong>Boris Eichenbaum, The Theory of the Formal Method</strong><span>formalism, literary-theory, method; pages 1106-1131; 18 review rows</span></a>
   <a href="../norton-texts/ransom-criticism-inc/"><strong>John Crowe Ransom, Criticism, Inc.</strong><span>new-criticism, criticism, close-reading; pages 1152-1161; 10 review rows</span></a>
+  <a href="../norton-texts/gramsci-formation-intellectuals/"><strong>Antonio Gramsci, The Formation of the Intellectuals</strong><span>hegemony, intellectuals, education; pages 1182-1187; 6 review rows</span></a>
+  <a href="../norton-texts/benjamin-work-of-art-mechanical-reproduction/"><strong>Walter Benjamin, The Work of Art in the Age of Mechanical Reproduction</strong><span>media, technology, aura; pages 1211-1229; 19 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -61,6 +63,8 @@ This is a scaffold for reading the configured texts together. It should become a
 11. [Gyorgy Lukacs, Realism in the Balance](norton-texts/lukacs-realism-in-the-balance.md)
 12. [Boris Eichenbaum, The Theory of the Formal Method](norton-texts/eichenbaum-theory-formal-method.md)
 13. [John Crowe Ransom, Criticism, Inc.](norton-texts/ransom-criticism-inc.md)
+14. [Antonio Gramsci, The Formation of the Intellectuals](norton-texts/gramsci-formation-intellectuals.md)
+15. [Walter Benjamin, The Work of Art in the Age of Mechanical Reproduction](norton-texts/benjamin-work-of-art-mechanical-reproduction.md)
 
 ## Review Pressure
 
@@ -79,6 +83,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Realism in the Balance](norton-texts/lukacs-realism-in-the-balance.md) | 1077-1101 | 25 | excerpt: 25 |
 | [The Theory of the Formal Method](norton-texts/eichenbaum-theory-formal-method.md) | 1106-1131 | 18 | excerpt: 26 |
 | [Criticism, Inc.](norton-texts/ransom-criticism-inc.md) | 1152-1161 | 10 | excerpt: 10 |
+| [The Formation of the Intellectuals](norton-texts/gramsci-formation-intellectuals.md) | 1182-1187 | 6 | excerpt: 6 |
+| [The Work of Art in the Age of Mechanical Reproduction](norton-texts/benjamin-work-of-art-mechanical-reproduction.md) | 1211-1229 | 19 | excerpt: 19 |
 
 ## Passage Queue
 
@@ -132,8 +138,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:23:18Z` |
-| Git commit | `752b0b4` |
+| Generated at | `2026-06-13T05:28:42Z` |
+| Git commit | `783f2a9` |
 | Script version | `2` |
 | Output path | `docs/workspace/labor-ideology-and-culture.md` |
 

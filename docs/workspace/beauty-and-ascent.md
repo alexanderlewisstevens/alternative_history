@@ -40,7 +40,7 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/nietzsche-birth-of-tragedy/"><strong>Friedrich Nietzsche, The Birth of Tragedy</strong><span>tragedy, aesthetics, myth; pages 928-938; 11 review rows</span></a>
   <a href="../norton-texts/wilde-selected-critical-prose/"><strong>Oscar Wilde, Preface to The Picture of Dorian Gray and The Critic as Artist</strong><span>criticism, aestheticism, art-for-art; pages 943-956; 12 review rows</span></a>
   <a href="../norton-texts/jung-analytical-psychology-poetry/"><strong>Carl Gustav Jung, On the Relation of Analytical Psychology to Poetry</strong><span>psychology, archetype, myth; pages 1034-1045; 12 review rows</span></a>
-  <a href="../norton-texts/heidegger-language/"><strong>Martin Heidegger, Language</strong><span>language, being, poetry; pages 1165-1167; 3 review rows</span></a>
+  <a href="../norton-texts/heidegger-language/"><strong>Martin Heidegger, Language</strong><span>language, being, poetry; pages 1165-1178; 7 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -93,7 +93,7 @@ This is a scaffold for reading the configured texts together. It should become a
 | [The Birth of Tragedy](norton-texts/nietzsche-birth-of-tragedy.md) | 928-938 | 11 | excerpt: 11 |
 | [Preface to The Picture of Dorian Gray and The Critic as Artist](norton-texts/wilde-selected-critical-prose.md) | 943-956 | 12 | excerpt: 14 |
 | [On the Relation of Analytical Psychology to Poetry](norton-texts/jung-analytical-psychology-poetry.md) | 1034-1045 | 12 | excerpt: 12 |
-| [Language](norton-texts/heidegger-language.md) | 1165-1167 | 3 | excerpt: 3 |
+| [Language](norton-texts/heidegger-language.md) | 1165-1178 | 7 | excerpt: 14 |
 
 ## Passage Queue
 
@@ -147,8 +147,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:23:16Z` |
-| Git commit | `752b0b4` |
+| Generated at | `2026-06-13T05:28:41Z` |
+| Git commit | `783f2a9` |
 | Script version | `2` |
 | Output path | `docs/workspace/beauty-and-ascent.md` |
 

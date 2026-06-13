@@ -5,7 +5,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Boundary Review</div>
-  <div class="ah-metric-value">219</div>
+  <div class="ah-metric-value">234</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Content Separation</div>
@@ -13,7 +13,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Layout Review</div>
-  <div class="ah-metric-value">329</div>
+  <div class="ah-metric-value">334</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Source Notes</div>
@@ -21,7 +21,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">General Review</div>
-  <div class="ah-metric-value">261</div>
+  <div class="ah-metric-value">312</div>
 </div>
 </div>
 
@@ -29,10 +29,10 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 <div class="ah-review-grid">
 <section class="ah-review-card warn">
-  <div class="ah-review-card-kicker">219 pages</div>
+  <div class="ah-review-card-kicker">234 pages</div>
   <h3>Boundary Review</h3>
   <p>Confirm thinker and work boundaries before assembling public-facing drafts.</p>
-  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +207 more</p>
+  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +222 more</p>
 </section>
 <section class="ah-review-card warn">
   <div class="ah-review-card-kicker">9 pages</div>
@@ -41,10 +41,10 @@ This is the editorial queue for restricted extraction work. It is generated from
   <p><strong>Start:</strong> <code>72</code>, <code>199</code>, <code>285</code>, <code>297</code>, <code>344</code>, <code>368</code>, <code>443</code>, <code>469</code>, <code>655</code></p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">329 pages</div>
+  <div class="ah-review-card-kicker">334 pages</div>
   <h3>Layout Review</h3>
   <p>Confirm multi-column reading order before any summary or excerpt curation.</p>
-  <p><strong>Start:</strong> <code>73</code>, <code>79</code>, <code>80</code>, <code>82</code>, <code>83</code>, <code>84</code>, <code>86</code>, <code>90</code>, <code>91</code>, <code>92</code>, <code>93</code>, <code>94</code> +317 more</p>
+  <p><strong>Start:</strong> <code>73</code>, <code>79</code>, <code>80</code>, <code>82</code>, <code>83</code>, <code>84</code>, <code>86</code>, <code>90</code>, <code>91</code>, <code>92</code>, <code>93</code>, <code>94</code> +322 more</p>
 </section>
 <section class="ah-review-card neutral">
   <div class="ah-review-card-kicker">69 pages</div>
@@ -53,10 +53,10 @@ This is the editorial queue for restricted extraction work. It is generated from
   <p><strong>Start:</strong> <code>74</code>, <code>98</code>, <code>99</code>, <code>126</code>, <code>185</code>, <code>190</code>, <code>191</code>, <code>192</code>, <code>194</code>, <code>204</code>, <code>213</code>, <code>218</code> +57 more</p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">261 pages</div>
+  <div class="ah-review-card-kicker">312 pages</div>
   <h3>General Review</h3>
   <p>Resolve remaining template or classification questions.</p>
-  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +249 more</p>
+  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code>, <code>768</code>, <code>769</code>, <code>770</code>, <code>771</code>, <code>772</code>, <code>773</code>, <code>774</code>, <code>775</code>, <code>776</code> +300 more</p>
 </section>
 </div>
 
@@ -72,11 +72,11 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Field | Value |
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
-| Classified source pages | `71-1167` |
-| Review queue rows | `887` |
+| Classified source pages | `71-1247` |
+| Review queue rows | `958` |
 | Review queue file | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
-| Generated at | `2026-06-13T05:23:30Z` |
-| Git commit | `752b0b4` |
+| Generated at | `2026-06-13T05:30:45Z` |
+| Git commit | `783f2a9` |
 | Script version | `1` |
 | Output path | `docs/_meta/review-dashboard.md` |
 
@@ -84,16 +84,16 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 | Reason | Pages |
 | --- | ---: |
-| multi_column_layout | 342 |
-| source_notes_detected | 305 |
-| mixed_work_transition_page | 230 |
-| transition_from_previous_author | 199 |
-| mixed_bibliography_and_work_title | 92 |
-| mixed_transition_page | 67 |
+| multi_column_layout | 347 |
+| source_notes_detected | 306 |
+| mixed_work_transition_page | 268 |
+| transition_from_previous_author | 213 |
+| mixed_bibliography_and_work_title | 106 |
+| mixed_transition_page | 68 |
 | layout_review_required | 23 |
-| author_boundary_without_life_dates | 18 |
+| author_boundary_without_life_dates | 19 |
+| continues_beyond_current_batch | 16 |
 | mixed_excerpt_and_bibliography | 9 |
-| continues_beyond_current_batch | 3 |
 | transition_from_previous_work | 2 |
 | ocr_title_cleanup | 2 |
 
@@ -109,6 +109,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Gyorgy Lukacs | 28 |
 | Friedrich Nietzsche | 27 |
 | Aristotle | 23 |
+| Walter Benjamin | 23 |
 | Boris Eichenbaum | 22 |
 | Samuel Johnson | 21 |
 | Ralph Waldo Emerson | 21 |
@@ -116,7 +117,9 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Alexander Pope | 20 |
 | Longinus | 19 |
 | Percy Bysshe Shelley | 19 |
+| Mikhail M. Bakhtin | 18 |
 | T. S. Eliot | 17 |
+| Zora Neale Hurston | 17 |
 | Oscar Wilde | 16 |
 | Moses Maimonides | 15 |
 | Giacopo Mazzoni | 15 |
@@ -144,6 +147,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Germaine de Stael | 10 |
 | Stephane Mallarme | 10 |
 | W. E. B. Du Bois | 10 |
+| Martin Heidegger | 10 |
 | Augustine of Hippo | 9 |
 | Giovanni Boccaccio | 9 |
 | John Dryden | 9 |
@@ -151,6 +155,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 | William Wordsworth | 9 |
 | Theophile Gautier | 9 |
 | Charles Baudelaire | 9 |
+| Antonio Gramsci | 9 |
 | Walter Pater | 8 |
 | Henry James | 8 |
 | Plotinus | 7 |
@@ -159,7 +164,6 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Thomas Aquinas | 6 |
 | Edmund Burke | 6 |
 | Georg Wilhelm Friedrich Hegel | 6 |
-| Martin Heidegger | 6 |
 | Dante Alighieri | 5 |
 | Pierre de Ronsard | 5 |
 | Macrobius | 4 |
@@ -389,6 +393,21 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 1162 | Martin Heidegger | Criticism, Inc. | mixed_bibliography_and_work_title;mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1162.md |
 | 1163 | Martin Heidegger | Martin Heidegger | mixed_bibliography_and_work_title;mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1163.md |
 | 1164 | Martin Heidegger |  | mixed_bibliography_and_work_title;mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1164.md |
+| 1165 | Martin Heidegger | Language | mixed_bibliography_and_work_title;mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1165.md |
+| 1174 | Martin Heidegger | Language | author_boundary_without_life_dates | work/page-records/norton-theory-criticism/page_1174.md |
+| 1179 | Antonio Gramsci |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1179.md |
+| 1180 | Antonio Gramsci |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1180.md |
+| 1181 | Antonio Gramsci | Antonio Gramsci | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1181.md |
+| 1188 | Zora Neale Hurston |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1188.md |
+| 1189 | Zora Neale Hurston | Zora Neale Hurston | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1189.md |
+| 1207 | Walter Benjamin |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1207.md |
+| 1208 | Walter Benjamin |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1208.md |
+| 1209 | Walter Benjamin |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1209.md |
+| 1210 | Walter Benjamin |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1210.md |
+| 1230 | Mikhail M. Bakhtin |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1230.md |
+| 1231 | Mikhail M. Bakhtin | Mikhail M. Bakhtin | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1231.md |
+| 1232 | Mikhail M. Bakhtin |  | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1232.md |
+| 1233 | Mikhail M. Bakhtin | Mikhail M. Bakhtin | mixed_bibliography_and_work_title;transition_from_previous_author | work/page-records/norton-theory-criticism/page_1233.md |
 
 ## Content Separation
 
@@ -737,6 +756,11 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 1120 | Boris Eichenbaum | The Theory of the Formal Method | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_1120.md |
 | 1122 | Boris Eichenbaum | The Theory of the Formal Method | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_1122.md |
 | 1129 | Boris Eichenbaum | The Theory of the Formal Method | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_1129.md |
+| 1169 | Martin Heidegger | Language | multi_column_layout | work/page-records/norton-theory-criticism/page_1169.md |
+| 1173 | Martin Heidegger | Language | multi_column_layout | work/page-records/norton-theory-criticism/page_1173.md |
+| 1176 | Martin Heidegger | Language | multi_column_layout | work/page-records/norton-theory-criticism/page_1176.md |
+| 1203 | Zora Neale Hurston | What White Publishers Won't Print | multi_column_layout | work/page-records/norton-theory-criticism/page_1203.md |
+| 1206 | Zora Neale Hurston | What White Publishers Won't Print | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_1206.md |
 
 ## Source Notes
 
@@ -1074,6 +1098,57 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 1159 | John Crowe Ransom | Criticism, Inc. | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1159.md |
 | 1160 | John Crowe Ransom | Criticism, Inc. | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1160.md |
 | 1161 | John Crowe Ransom | Criticism, Inc. | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1161.md |
-| 1165 | Martin Heidegger | Language | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1165.md |
 | 1166 | Martin Heidegger | Language | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1166.md |
 | 1167 | Martin Heidegger | Language | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1167.md |
+| 1182 | Antonio Gramsci | The Formation of the Intellectuals | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1182.md |
+| 1183 | Antonio Gramsci | The Formation of the Intellectuals | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1183.md |
+| 1184 | Antonio Gramsci | The Formation of the Intellectuals | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1184.md |
+| 1185 | Antonio Gramsci | The Formation of the Intellectuals | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1185.md |
+| 1186 | Antonio Gramsci | The Formation of the Intellectuals | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1186.md |
+| 1187 | Antonio Gramsci | The Formation of the Intellectuals | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1187.md |
+| 1190 | Zora Neale Hurston | Characteristics of Negro Expression | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1190.md |
+| 1191 | Zora Neale Hurston | Characteristics of Negro Expression | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1191.md |
+| 1192 | Zora Neale Hurston | Characteristics of Negro Expression | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1192.md |
+| 1193 | Zora Neale Hurston | Characteristics of Negro Expression | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1193.md |
+| 1194 | Zora Neale Hurston | Characteristics of Negro Expression | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1194.md |
+| 1195 | Zora Neale Hurston | Characteristics of Negro Expression | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1195.md |
+| 1196 | Zora Neale Hurston | Characteristics of Negro Expression | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1196.md |
+| 1197 | Zora Neale Hurston | Characteristics of Negro Expression | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1197.md |
+| 1198 | Zora Neale Hurston | Characteristics of Negro Expression | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1198.md |
+| 1199 | Zora Neale Hurston | Characteristics of Negro Expression | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1199.md |
+| 1200 | Zora Neale Hurston | Characteristics of Negro Expression | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1200.md |
+| 1201 | Zora Neale Hurston | Characteristics of Negro Expression | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1201.md |
+| 1202 | Zora Neale Hurston | Characteristics of Negro Expression | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1202.md |
+| 1211 | Walter Benjamin | The Work of Art in the Age of Mechanical Reproduction | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1211.md |
+| 1212 | Walter Benjamin | The Work of Art in the Age of Mechanical Reproduction | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1212.md |
+| 1213 | Walter Benjamin | The Work of Art in the Age of Mechanical Reproduction | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1213.md |
+| 1214 | Walter Benjamin | The Work of Art in the Age of Mechanical Reproduction | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1214.md |
+| 1215 | Walter Benjamin | The Work of Art in the Age of Mechanical Reproduction | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1215.md |
+| 1216 | Walter Benjamin | The Work of Art in the Age of Mechanical Reproduction | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1216.md |
+| 1217 | Walter Benjamin | The Work of Art in the Age of Mechanical Reproduction | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1217.md |
+| 1218 | Walter Benjamin | The Work of Art in the Age of Mechanical Reproduction | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1218.md |
+| 1219 | Walter Benjamin | The Work of Art in the Age of Mechanical Reproduction | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1219.md |
+| 1220 | Walter Benjamin | The Work of Art in the Age of Mechanical Reproduction | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1220.md |
+| 1221 | Walter Benjamin | The Work of Art in the Age of Mechanical Reproduction | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1221.md |
+| 1222 | Walter Benjamin | The Work of Art in the Age of Mechanical Reproduction | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1222.md |
+| 1223 | Walter Benjamin | The Work of Art in the Age of Mechanical Reproduction | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1223.md |
+| 1224 | Walter Benjamin | The Work of Art in the Age of Mechanical Reproduction | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1224.md |
+| 1225 | Walter Benjamin | The Work of Art in the Age of Mechanical Reproduction | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1225.md |
+| 1226 | Walter Benjamin | The Work of Art in the Age of Mechanical Reproduction | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1226.md |
+| 1227 | Walter Benjamin | The Work of Art in the Age of Mechanical Reproduction | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1227.md |
+| 1228 | Walter Benjamin | The Work of Art in the Age of Mechanical Reproduction | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1228.md |
+| 1229 | Walter Benjamin | The Work of Art in the Age of Mechanical Reproduction | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_1229.md |
+| 1234 | Mikhail M. Bakhtin | Discourse in the Novel | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1234.md |
+| 1235 | Mikhail M. Bakhtin | Discourse in the Novel | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1235.md |
+| 1236 | Mikhail M. Bakhtin | Discourse in the Novel | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1236.md |
+| 1237 | Mikhail M. Bakhtin | Discourse in the Novel | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1237.md |
+| 1238 | Mikhail M. Bakhtin | Discourse in the Novel | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1238.md |
+| 1239 | Mikhail M. Bakhtin | Discourse in the Novel | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1239.md |
+| 1240 | Mikhail M. Bakhtin | Discourse in the Novel | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1240.md |
+| 1241 | Mikhail M. Bakhtin | Discourse in the Novel | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1241.md |
+| 1242 | Mikhail M. Bakhtin | Discourse in the Novel | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1242.md |
+| 1243 | Mikhail M. Bakhtin | Discourse in the Novel | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1243.md |
+| 1244 | Mikhail M. Bakhtin | Discourse in the Novel | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1244.md |
+| 1245 | Mikhail M. Bakhtin | Discourse in the Novel | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1245.md |
+| 1246 | Mikhail M. Bakhtin | Discourse in the Novel | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1246.md |
+| 1247 | Mikhail M. Bakhtin | Discourse in the Novel | continues_beyond_current_batch | work/page-records/norton-theory-criticism/page_1247.md |

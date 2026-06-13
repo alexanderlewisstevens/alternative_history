@@ -49,6 +49,8 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/eliot-tradition-individual-talent/"><strong>T. S. Eliot, Tradition and the Individual Talent</strong><span>tradition, canon, modernism; pages 1136-1140; 5 review rows</span></a>
   <a href="../norton-texts/eliot-metaphysical-poets/"><strong>T. S. Eliot, The Metaphysical Poets</strong><span>modernism, poetry, sensibility; pages 1141-1148; 8 review rows</span></a>
   <a href="../norton-texts/ransom-criticism-inc/"><strong>John Crowe Ransom, Criticism, Inc.</strong><span>new-criticism, criticism, close-reading; pages 1152-1161; 10 review rows</span></a>
+  <a href="../norton-texts/hurston-characteristics-negro-expression/"><strong>Zora Neale Hurston, Characteristics of Negro Expression</strong><span>vernacular, performance, race; pages 1190-1202; 13 review rows</span></a>
+  <a href="../norton-texts/benjamin-work-of-art-mechanical-reproduction/"><strong>Walter Benjamin, The Work of Art in the Age of Mechanical Reproduction</strong><span>media, technology, aura; pages 1211-1229; 19 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -87,6 +89,8 @@ This is a scaffold for reading the configured texts together. It should become a
 24. [T. S. Eliot, Tradition and the Individual Talent](norton-texts/eliot-tradition-individual-talent.md)
 25. [T. S. Eliot, The Metaphysical Poets](norton-texts/eliot-metaphysical-poets.md)
 26. [John Crowe Ransom, Criticism, Inc.](norton-texts/ransom-criticism-inc.md)
+27. [Zora Neale Hurston, Characteristics of Negro Expression](norton-texts/hurston-characteristics-negro-expression.md)
+28. [Walter Benjamin, The Work of Art in the Age of Mechanical Reproduction](norton-texts/benjamin-work-of-art-mechanical-reproduction.md)
 
 ## Review Pressure
 
@@ -118,6 +122,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Tradition and the Individual Talent](norton-texts/eliot-tradition-individual-talent.md) | 1136-1140 | 5 | excerpt: 5 |
 | [The Metaphysical Poets](norton-texts/eliot-metaphysical-poets.md) | 1141-1148 | 8 | excerpt: 8 |
 | [Criticism, Inc.](norton-texts/ransom-criticism-inc.md) | 1152-1161 | 10 | excerpt: 10 |
+| [Characteristics of Negro Expression](norton-texts/hurston-characteristics-negro-expression.md) | 1190-1202 | 13 | excerpt: 13 |
+| [The Work of Art in the Age of Mechanical Reproduction](norton-texts/benjamin-work-of-art-mechanical-reproduction.md) | 1211-1229 | 19 | excerpt: 19 |
 
 ## Passage Queue
 
@@ -171,8 +177,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:23:17Z` |
-| Git commit | `752b0b4` |
+| Generated at | `2026-06-13T05:28:42Z` |
+| Git commit | `783f2a9` |
 | Script version | `2` |
 | Output path | `docs/workspace/taste-and-standards.md` |
 

@@ -10,6 +10,7 @@ This private index is generated from curated source metadata and local extractio
 | Thinker | Text Nodes | Current Texts |
 | --- | ---: | --- |
 | [Alexander Pope](alexander-pope.md) | 1 | An Essay on Criticism |
+| [Antonio Gramsci](antonio-gramsci.md) | 1 | The Formation of the Intellectuals |
 | [Aphra Behn](aphra-behn.md) | 1 | The Dutch Lover and Preface to The Lucky Chance |
 | [Aristotle](aristotle.md) | 1 | Poetics and Rhetoric |
 | [Augustine of Hippo](augustine-of-hippo.md) | 1 | On Christian Doctrine and The Trinity |
@@ -51,6 +52,7 @@ This private index is generated from curated source metadata and local extractio
 | [Martin Heidegger](martin-heidegger.md) | 1 | Language |
 | [Mary Wollstonecraft](mary-wollstonecraft.md) | 1 | A Vindication of the Rights of Woman |
 | [Matthew Arnold](matthew-arnold.md) | 1 | Selected Critical Prose |
+| [Mikhail M. Bakhtin](mikhail-bakhtin.md) | 1 | Discourse in the Novel |
 | [Moses Maimonides](moses-maimonides.md) | 1 | The Guide of the Perplexed |
 | [Oscar Wilde](oscar-wilde.md) | 1 | Preface to The Picture of Dorian Gray and The Critic as Artist |
 | [Percy Bysshe Shelley](percy-bysshe-shelley.md) | 1 | A Defence of Poetry |
@@ -70,9 +72,11 @@ This private index is generated from curated source metadata and local extractio
 | [Thomas Aquinas](thomas-aquinas.md) | 1 | Summa Theologica |
 | [Thomas Love Peacock](thomas-love-peacock.md) | 1 | The Four Ages of Poetry |
 | [Virginia Woolf](virginia-woolf.md) | 1 | A Room of One&#x27;s Own |
+| [Walter Benjamin](walter-benjamin.md) | 1 | The Work of Art in the Age of Mechanical Reproduction |
 | [Walter Pater](walter-pater.md) | 1 | Studies in the History of the Renaissance |
 | [W. E. B. Du Bois](web-du-bois.md) | 1 | Criteria of Negro Art |
 | [William Wordsworth](william-wordsworth.md) | 1 | Preface to Lyrical Ballads |
+| [Zora Neale Hurston](zora-neale-hurston.md) | 2 | Characteristics of Negro Expression, What White Publishers Won&#x27;t Print |
 
 ## Provenance
 
@@ -95,7 +99,7 @@ This private index is generated from curated source metadata and local extractio
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
-| Generated at | `2026-06-13T05:23:31Z` |
-| Git commit | `752b0b4` |
+| Generated at | `2026-06-13T05:30:46Z` |
+| Git commit | `783f2a9` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/index.md` |

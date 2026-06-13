@@ -5,19 +5,19 @@ This page is generated from audit artifacts. It intentionally contains metadata 
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Classified Pages</div>
-  <div class="ah-metric-value">71-1167</div>
+  <div class="ah-metric-value">71-1247</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Page Records</div>
-  <div class="ah-metric-value">1097</div>
+  <div class="ah-metric-value">1177</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Thinker Drafts</div>
-  <div class="ah-metric-value">64</div>
+  <div class="ah-metric-value">68</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Review Rows</div>
-  <div class="ah-metric-value">887</div>
+  <div class="ah-metric-value">958</div>
 </div>
 </div>
 
@@ -45,21 +45,21 @@ This page is generated from audit artifacts. It intentionally contains metadata 
 | Artifact | Count | Location |
 | --- | ---: | --- |
 | Sliced PDFs | 2668 | `Norton_Anthology_Sliced_Author` |
-| Layout records | 1097 | `work/layout/norton-theory-criticism/layout.jsonl` |
-| Classification records | 1097 | `work/classification/norton-theory-criticism/page-classifications.jsonl` |
-| Review queue rows | 887 | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
-| Page records | 1097 | `work/page-records/norton-theory-criticism` |
-| Page-generation audit rows | 1097 | `work/audit/norton-theory-criticism/page-record-generation.csv` |
-| Thinker drafts | 64 | `generated/authors/norton-theory-criticism` |
-| Thinker-assembly audit rows | 64 | `work/audit/norton-theory-criticism/author-assembly.csv` |
+| Layout records | 1177 | `work/layout/norton-theory-criticism/layout.jsonl` |
+| Classification records | 1177 | `work/classification/norton-theory-criticism/page-classifications.jsonl` |
+| Review queue rows | 958 | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
+| Page records | 1177 | `work/page-records/norton-theory-criticism` |
+| Page-generation audit rows | 1177 | `work/audit/norton-theory-criticism/page-record-generation.csv` |
+| Thinker drafts | 68 | `generated/authors/norton-theory-criticism` |
+| Thinker-assembly audit rows | 68 | `work/audit/norton-theory-criticism/author-assembly.csv` |
 
 ## Classified Range
 
 | Field | Value |
 | --- | --- |
-| Classified source pages | `71-1167` |
-| Status page generated at | `2026-06-13T05:23:30Z` |
-| Git commit | `752b0b4` |
+| Classified source pages | `71-1247` |
+| Status page generated at | `2026-06-13T05:30:45Z` |
+| Git commit | `783f2a9` |
 | Script version | `1` |
 | Output path | `docs/_meta/extraction-status.md` |
 
@@ -68,6 +68,7 @@ This page is generated from audit artifacts. It intentionally contains metadata 
 | Thinker slug | Pages | Source page range | Validation | Restricted draft |
 | --- | ---: | --- | --- | --- |
 | alexander-pope | 20 | 480-499 | ok | generated/authors/norton-theory-criticism/alexander-pope.md |
+| antonio-gramsci | 9 | 1179-1187 | ok | generated/authors/norton-theory-criticism/antonio-gramsci.md |
 | aphra-behn | 11 | 430-440 | ok | generated/authors/norton-theory-criticism/aphra-behn.md |
 | aristotle | 35 | 128-162 | ok | generated/authors/norton-theory-criticism/aristotle.md |
 | augustine-of-hippo | 11 | 227-237 | ok | generated/authors/norton-theory-criticism/augustine-of-hippo.md |
@@ -106,9 +107,10 @@ This page is generated from audit artifacts. It intentionally contains metadata 
 | leon-trotsky | 15 | 1046-1060 | ok | generated/authors/norton-theory-criticism/leon-trotsky.md |
 | longinus | 20 | 177-196 | ok | generated/authors/norton-theory-criticism/longinus.md |
 | macrobius | 5 | 238-242 | ok | generated/authors/norton-theory-criticism/macrobius.md |
-| martin-heidegger | 6 | 1162-1167 | ok | generated/authors/norton-theory-criticism/martin-heidegger.md |
+| martin-heidegger | 17 | 1162-1178 | ok | generated/authors/norton-theory-criticism/martin-heidegger.md |
 | mary-wollstonecraft | 12 | 624-635 | ok | generated/authors/norton-theory-criticism/mary-wollstonecraft.md |
 | matthew-arnold | 31 | 844-874 | ok | generated/authors/norton-theory-criticism/matthew-arnold.md |
+| mikhail-bakhtin | 18 | 1230-1247 | ok | generated/authors/norton-theory-criticism/mikhail-bakhtin.md |
 | moses-maimonides | 15 | 253-267 | ok | generated/authors/norton-theory-criticism/moses-maimonides.md |
 | oscar-wilde | 18 | 939-956 | ok | generated/authors/norton-theory-criticism/oscar-wilde.md |
 | percy-bysshe-shelley | 21 | 738-758 | ok | generated/authors/norton-theory-criticism/percy-bysshe-shelley.md |
@@ -128,24 +130,26 @@ This page is generated from audit artifacts. It intentionally contains metadata 
 | thomas-aquinas | 6 | 282-287 | ok | generated/authors/norton-theory-criticism/thomas-aquinas.md |
 | thomas-love-peacock | 14 | 724-737 | ok | generated/authors/norton-theory-criticism/thomas-love-peacock.md |
 | virginia-woolf | 13 | 1061-1073 | ok | generated/authors/norton-theory-criticism/virginia-woolf.md |
+| walter-benjamin | 23 | 1207-1229 | ok | generated/authors/norton-theory-criticism/walter-benjamin.md |
 | walter-pater | 8 | 875-882 | ok | generated/authors/norton-theory-criticism/walter-pater.md |
 | web-du-bois | 10 | 1021-1030 | ok | generated/authors/norton-theory-criticism/web-du-bois.md |
 | william-wordsworth | 23 | 687-709 | ok | generated/authors/norton-theory-criticism/william-wordsworth.md |
+| zora-neale-hurston | 19 | 1188-1206 | ok | generated/authors/norton-theory-criticism/zora-neale-hurston.md |
 
 ## Review Queue Summary
 
 | Review reason | Pages |
 | --- | ---: |
-| multi_column_layout | 342 |
-| source_notes_detected | 305 |
-| mixed_work_transition_page | 230 |
-| transition_from_previous_author | 199 |
-| mixed_bibliography_and_work_title | 92 |
-| mixed_transition_page | 67 |
+| multi_column_layout | 347 |
+| source_notes_detected | 306 |
+| mixed_work_transition_page | 268 |
+| transition_from_previous_author | 213 |
+| mixed_bibliography_and_work_title | 106 |
+| mixed_transition_page | 68 |
 | layout_review_required | 23 |
-| author_boundary_without_life_dates | 18 |
+| author_boundary_without_life_dates | 19 |
+| continues_beyond_current_batch | 16 |
 | mixed_excerpt_and_bibliography | 9 |
-| continues_beyond_current_batch | 3 |
 | ocr_title_cleanup | 2 |
 | transition_from_previous_work | 2 |
 

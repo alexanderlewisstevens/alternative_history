@@ -132,8 +132,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T05:23:18Z` |
-| Git commit | `752b0b4` |
+| Generated at | `2026-06-13T05:28:42Z` |
+| Git commit | `783f2a9` |
 | Script version | `2` |
 | Output path | `docs/workspace/art-utility-and-modern-life.md` |
 
