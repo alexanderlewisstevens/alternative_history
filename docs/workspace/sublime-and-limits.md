@@ -29,6 +29,9 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/burke-sublime-and-beautiful/"><strong>Edmund Burke, A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful</strong><span>sublime, beauty, affect; pages 578-592; 6 review rows</span></a>
   <a href="../norton-texts/lessing-laocoon/"><strong>Gotthold Ephraim Lessing, Laocoon</strong><span>media, poetry, painting; pages 593-612; 15 review rows</span></a>
   <a href="../norton-texts/hegel-phenomenology-fine-art/"><strong>Georg Wilhelm Friedrich Hegel, Phenomenology of Spirit and Lectures on Fine Art</strong><span>spirit, aesthetics, history; pages 668-686; 6 review rows</span></a>
+  <a href="../norton-texts/coleridge-statesmans-manual-biographia-literaria/"><strong>Samuel Taylor Coleridge, The Statesman&#x27;s Manual and Biographia Literaria</strong><span>imagination, symbol, poetry; pages 710-723; 13 review rows</span></a>
+  <a href="../norton-texts/shelley-defence-poetry/"><strong>Percy Bysshe Shelley, A Defence of Poetry</strong><span>poetry, imagination, social-change; pages 738-758; 19 review rows</span></a>
+  <a href="../norton-texts/emerson-american-scholar-poet/"><strong>Ralph Waldo Emerson, The American Scholar and The Poet</strong><span>scholarship, self-reliance, poetry; pages 759-767; 8 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -47,6 +50,9 @@ This is a scaffold for reading the configured texts together. It should become a
 4. [Edmund Burke, A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful](norton-texts/burke-sublime-and-beautiful.md)
 5. [Gotthold Ephraim Lessing, Laocoon](norton-texts/lessing-laocoon.md)
 6. [Georg Wilhelm Friedrich Hegel, Phenomenology of Spirit and Lectures on Fine Art](norton-texts/hegel-phenomenology-fine-art.md)
+7. [Samuel Taylor Coleridge, The Statesman&#x27;s Manual and Biographia Literaria](norton-texts/coleridge-statesmans-manual-biographia-literaria.md)
+8. [Percy Bysshe Shelley, A Defence of Poetry](norton-texts/shelley-defence-poetry.md)
+9. [Ralph Waldo Emerson, The American Scholar and The Poet](norton-texts/emerson-american-scholar-poet.md)
 
 ## Review Pressure
 
@@ -58,6 +64,9 @@ This is a scaffold for reading the configured texts together. It should become a
 | [A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful](norton-texts/burke-sublime-and-beautiful.md) | 578-592 | 6 | excerpt: 12<br>author_intro: 3 |
 | [Laocoon](norton-texts/lessing-laocoon.md) | 593-612 | 15 | excerpt: 17<br>author_intro: 3 |
 | [Phenomenology of Spirit and Lectures on Fine Art](norton-texts/hegel-phenomenology-fine-art.md) | 668-686 | 6 | excerpt: 14<br>author_intro: 5 |
+| [The Statesman&#x27;s Manual and Biographia Literaria](norton-texts/coleridge-statesmans-manual-biographia-literaria.md) | 710-723 | 13 | excerpt: 9<br>author_intro: 5 |
+| [A Defence of Poetry](norton-texts/shelley-defence-poetry.md) | 738-758 | 19 | excerpt: 18<br>author_intro: 3 |
+| [The American Scholar and The Poet](norton-texts/emerson-american-scholar-poet.md) | 759-767 | 8 | excerpt: 5<br>author_intro: 4 |
 
 ## Passage Queue
 
@@ -111,8 +120,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T04:42:18Z` |
-| Git commit | `0e02b79` |
+| Generated at | `2026-06-13T04:47:13Z` |
+| Git commit | `1935a63` |
 | Script version | `2` |
 | Output path | `docs/workspace/sublime-and-limits.md` |
 

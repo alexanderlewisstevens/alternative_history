@@ -1,10 +1,10 @@
-# Mary Wollstonecraft, A Vindication of the Rights of Woman
+# Thomas Love Peacock, The Four Ages of Poetry
 
 <div class="ah-note-meta">
   <span><strong>Type:</strong> Norton text node</span>
   <span><strong>Status:</strong> generated private workspace note</span>
   <span><strong>Source mode:</strong> restricted metadata only</span>
-  <span><strong>Tags:</strong> education, gender, citizenship, reason</span>
+  <span><strong>Tags:</strong> poetry, modernity, satire, utility</span>
 </div>
 
 <div class="ah-private-banner">
@@ -14,47 +14,46 @@
 
 ## Working Use
 
-This note turns the current Norton chunk for Mary Wollstonecraft into a navigable workspace node. Use it to move between the restricted draft, the curated text spine, the first constellations, and the review queue before writing public-facing commentary.
+This note turns the current Norton chunk for Thomas Love Peacock into a navigable workspace node. Use it to move between the restricted draft, the curated text spine, the first constellations, and the review queue before writing public-facing commentary.
 
 ## Current Chunk
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Chunk Status</span>
-  <h3>Norton Pages 624-635</h3>
-  <p><strong>Page count:</strong> 12</p>
-  <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/mary-wollstonecraft.md</code></p>
-  <p><strong>Page kinds:</strong> excerpt: 8<br>author_intro: 4</p>
-  <p><strong>Review pressure:</strong> 9 rows. transition_from_previous_author: 4<br>multi_column_layout: 4<br>source_notes_detected: 3<br>ocr_title_cleanup: 1</p>
+  <h3>Norton Pages 724-737</h3>
+  <p><strong>Page count:</strong> 14</p>
+  <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/thomas-love-peacock.md</code></p>
+  <p><strong>Page kinds:</strong> excerpt: 11<br>author_intro: 3</p>
+  <p><strong>Review pressure:</strong> 14 rows. multi_column_layout: 9<br>source_notes_detected: 8<br>mixed_transition_page: 3<br>transition_from_previous_author: 3</p>
 </section>
 
 ## Works And Excerpt Blocks
 
-- A Vindication of the Rights of Woman
-- Headnote
+- The Four Ages of Poetry
+- their gross matter she abstracts their forms
 
 ## Constellations
 
 | Constellation | Core Question | Relations |
 | --- | --- | --- |
 | [poetry-and-judgment](../poetry-and-judgment.md) | Who gets to judge art? | tension, craft, excess |
-| [education-and-civic-life](../education-and-civic-life.md) | What should education make possible for citizens? | pedagogy, civic-formation, authority |
-| [authorship-and-authority](../authorship-and-authority.md) | Who is allowed to speak as an author? | authorship, gender, authority |
-| [aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md) | What kind of citizen can education form? | education, freedom, citizenship |
+| [taste-and-standards](../taste-and-standards.md) | How do communities make judgments of taste? | taste, criticism, consensus |
+| [romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md) | What can poetry do under modern social pressure? | poetry, modernity, imagination |
 
 ## Passage Queue
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Anchor Candidates</span>
   <h3>Choose Passages After Review</h3>
-  <p><strong>Source location:</strong> Norton page range 624-635.</p>
+  <p><strong>Source location:</strong> Norton page range 724-737.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
-  <p><strong>Use:</strong> Find the passages that make this text active inside poetry-and-judgment, education-and-civic-life, authorship-and-authority, aesthetic-education-and-citizenship.</p>
+  <p><strong>Use:</strong> Find the passages that make this text active inside poetry-and-judgment, taste-and-standards, romantic-poetry-and-modernity.</p>
 </section>
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Review Before Quoting</span>
   <h3>Layout, Notes, And Bibliography</h3>
-  <p><strong>Review signal:</strong> transition_from_previous_author: 4<br>multi_column_layout: 4<br>source_notes_detected: 3<br>ocr_title_cleanup: 1</p>
+  <p><strong>Review signal:</strong> multi_column_layout: 9<br>source_notes_detected: 8<br>mixed_transition_page: 3<br>transition_from_previous_author: 3</p>
   <p><strong>Editorial rule:</strong> source notes belong in source-note fields, bibliography belongs in bibliography fields, and excerpt text stays separate.</p>
 </section>
 
@@ -83,19 +82,19 @@ This note turns the current Norton chunk for Mary Wollstonecraft into a navigabl
 
 | Field | Value |
 | --- | --- |
-| Text ID | `wollstonecraft-rights-woman` |
-| Curated title | A Vindication of the Rights of Woman |
-| Creator | Mary Wollstonecraft |
-| Thinker note | [Mary Wollstonecraft](../thinkers/mary-wollstonecraft.md) |
+| Text ID | `peacock-four-ages-poetry` |
+| Curated title | The Four Ages of Poetry |
+| Creator | Thomas Love Peacock |
+| Thinker note | [Thomas Love Peacock](../thinkers/thomas-love-peacock.md) |
 | Register status | `edition-review-needed` |
 | Source anthology | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Restricted draft | `generated/authors/norton-theory-criticism/mary-wollstonecraft.md` |
+| Restricted draft | `generated/authors/norton-theory-criticism/thomas-love-peacock.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T04:47:51Z` |
+| Generated at | `2026-06-13T04:47:52Z` |
 | Git commit | `1935a63` |
 | Script version | `2` |
-| Output path | `docs/workspace/norton-texts/wollstonecraft-rights-woman.md` |
+| Output path | `docs/workspace/norton-texts/peacock-four-ages-poetry.md` |
 
 ## Backlinks
 
@@ -104,12 +103,11 @@ This note turns the current Norton chunk for Mary Wollstonecraft into a navigabl
 <li><a href="../../norton-map/">Norton Workspace Map</a></li>
 <li><a href="../../">Private Knowledge Base</a></li>
 <li><a href="../../../catalog/sources/">Text Catalog</a></li>
-<li>Thinker: <a href="../../thinkers/mary-wollstonecraft/">Mary Wollstonecraft</a></li>
+<li>Thinker: <a href="../../thinkers/thomas-love-peacock/">Thomas Love Peacock</a></li>
 <li><a href="../../passages/">Passage Notes</a></li>
 <li><a href="../../poetry-and-judgment/">poetry-and-judgment</a></li>
-<li><a href="../../education-and-civic-life/">education-and-civic-life</a></li>
-<li><a href="../../authorship-and-authority/">authorship-and-authority</a></li>
-<li><a href="../../aesthetic-education-and-citizenship/">aesthetic-education-and-citizenship</a></li>
+<li><a href="../../taste-and-standards/">taste-and-standards</a></li>
+<li><a href="../../romantic-poetry-and-modernity/">romantic-poetry-and-modernity</a></li>
 </ul>
 
 ## Open Questions

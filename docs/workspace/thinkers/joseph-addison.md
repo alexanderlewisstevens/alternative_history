@@ -90,8 +90,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T04:42:24Z` |
-| Git commit | `0e02b79` |
+| Generated at | `2026-06-13T04:47:48Z` |
+| Git commit | `1935a63` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/joseph-addison.md` |
 

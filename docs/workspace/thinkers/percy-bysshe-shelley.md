@@ -1,10 +1,10 @@
-# Pierre de Ronsard
+# Percy Bysshe Shelley
 
 <div class="ah-note-meta">
   <span><strong>Type:</strong> thinker node</span>
   <span><strong>Status:</strong> generated private workspace note</span>
   <span><strong>Source mode:</strong> restricted metadata only</span>
-  <span><strong>Tags:</strong> craft, education, poetics, vernacular</span>
+  <span><strong>Tags:</strong> freedom, imagination, poetry, social-change</span>
 </div>
 
 <div class="ah-private-banner">
@@ -20,24 +20,28 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [A Brief on the Art of French Poetry](../norton-texts/pierre-de-ronsard-art-french-poetry.md) | 333-341 | 5 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[vernacular-and-institution](../vernacular-and-institution.md) | `edition-review-needed` |
+| [A Defence of Poetry](../norton-texts/shelley-defence-poetry.md) | 738-758 | 19 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[beauty-and-ascent](../beauty-and-ascent.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[sublime-and-limits](../sublime-and-limits.md)<br>[romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
-- A Brief on the Art of French Poetry
+- A Defence of Poetry
 
 ## Constellation Backlinks
 
+- [authorship-and-authority](../authorship-and-authority.md)
+- [beauty-and-ascent](../beauty-and-ascent.md)
 - [poetry-and-judgment](../poetry-and-judgment.md)
-- [vernacular-and-institution](../vernacular-and-institution.md)
+- [romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md)
+- [sublime-and-limits](../sublime-and-limits.md)
+- [taste-and-standards](../taste-and-standards.md)
 
 ## Review Pressure
 
 | Signal | Value |
 | --- | --- |
-| Page kinds | excerpt: 6<br>author_intro: 3 |
-| Review rows | 5 |
-| Review reasons | transition_from_previous_author: 3<br>multi_column_layout: 2<br>source_notes_detected: 2 |
+| Page kinds | excerpt: 18<br>author_intro: 3 |
+| Review rows | 19 |
+| Review reasons | multi_column_layout: 15<br>source_notes_detected: 11<br>transition_from_previous_author: 3<br>author_boundary_without_life_dates: 1 |
 
 ## Passage Queue
 
@@ -84,14 +88,14 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Field | Value |
 | --- | --- |
-| Thinker slug | `pierre-de-ronsard` |
+| Thinker slug | `percy-bysshe-shelley` |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Generated at | `2026-06-13T04:47:48Z` |
 | Git commit | `1935a63` |
 | Script version | `1` |
-| Output path | `docs/workspace/thinkers/pierre-de-ronsard.md` |
+| Output path | `docs/workspace/thinkers/percy-bysshe-shelley.md` |
 
 ## Open Questions
 

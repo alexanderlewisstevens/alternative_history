@@ -1,10 +1,10 @@
-# Mary Wollstonecraft, A Vindication of the Rights of Woman
+# Ralph Waldo Emerson, The American Scholar and The Poet
 
 <div class="ah-note-meta">
   <span><strong>Type:</strong> Norton text node</span>
   <span><strong>Status:</strong> generated private workspace note</span>
   <span><strong>Source mode:</strong> restricted metadata only</span>
-  <span><strong>Tags:</strong> education, gender, citizenship, reason</span>
+  <span><strong>Tags:</strong> scholarship, self-reliance, poetry, nature</span>
 </div>
 
 <div class="ah-private-banner">
@@ -14,47 +14,53 @@
 
 ## Working Use
 
-This note turns the current Norton chunk for Mary Wollstonecraft into a navigable workspace node. Use it to move between the restricted draft, the curated text spine, the first constellations, and the review queue before writing public-facing commentary.
+This note turns the current Norton chunk for Ralph Waldo Emerson into a navigable workspace node. Use it to move between the restricted draft, the curated text spine, the first constellations, and the review queue before writing public-facing commentary.
 
 ## Current Chunk
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Chunk Status</span>
-  <h3>Norton Pages 624-635</h3>
-  <p><strong>Page count:</strong> 12</p>
-  <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/mary-wollstonecraft.md</code></p>
-  <p><strong>Page kinds:</strong> excerpt: 8<br>author_intro: 4</p>
-  <p><strong>Review pressure:</strong> 9 rows. transition_from_previous_author: 4<br>multi_column_layout: 4<br>source_notes_detected: 3<br>ocr_title_cleanup: 1</p>
+  <h3>Norton Pages 759-767</h3>
+  <p><strong>Page count:</strong> 9</p>
+  <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/ralph-waldo-emerson.md</code></p>
+  <p><strong>Page kinds:</strong> excerpt: 5<br>author_intro: 4</p>
+  <p><strong>Review pressure:</strong> 8 rows. mixed_transition_page: 4<br>transition_from_previous_author: 4<br>multi_column_layout: 2<br>mixed_work_transition_page: 2<br>source_notes_detected: 1</p>
 </section>
 
 ## Works And Excerpt Blocks
 
-- A Vindication of the Rights of Woman
-- Headnote
+- The American Scholar and The Poet
+- The American Scholar
+- The Poet
 
 ## Constellations
 
 | Constellation | Core Question | Relations |
 | --- | --- | --- |
 | [poetry-and-judgment](../poetry-and-judgment.md) | Who gets to judge art? | tension, craft, excess |
+| [beauty-and-ascent](../beauty-and-ascent.md) | When does beauty become a way of knowing? | sublimity, ascent, inward-reading |
 | [education-and-civic-life](../education-and-civic-life.md) | What should education make possible for citizens? | pedagogy, civic-formation, authority |
+| [vernacular-and-institution](../vernacular-and-institution.md) | How do languages become institutions of thought? | vernacular, imitation, nation |
 | [authorship-and-authority](../authorship-and-authority.md) | Who is allowed to speak as an author? | authorship, gender, authority |
+| [taste-and-standards](../taste-and-standards.md) | How do communities make judgments of taste? | taste, criticism, consensus |
+| [sublime-and-limits](../sublime-and-limits.md) | What happens when experience exceeds form? | sublimity, affect, limit |
 | [aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md) | What kind of citizen can education form? | education, freedom, citizenship |
+| [romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md) | What can poetry do under modern social pressure? | poetry, modernity, imagination |
 
 ## Passage Queue
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Anchor Candidates</span>
   <h3>Choose Passages After Review</h3>
-  <p><strong>Source location:</strong> Norton page range 624-635.</p>
+  <p><strong>Source location:</strong> Norton page range 759-767.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
-  <p><strong>Use:</strong> Find the passages that make this text active inside poetry-and-judgment, education-and-civic-life, authorship-and-authority, aesthetic-education-and-citizenship.</p>
+  <p><strong>Use:</strong> Find the passages that make this text active inside poetry-and-judgment, beauty-and-ascent, education-and-civic-life, vernacular-and-institution, authorship-and-authority, taste-and-standards, sublime-and-limits, aesthetic-education-and-citizenship, romantic-poetry-and-modernity.</p>
 </section>
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Review Before Quoting</span>
   <h3>Layout, Notes, And Bibliography</h3>
-  <p><strong>Review signal:</strong> transition_from_previous_author: 4<br>multi_column_layout: 4<br>source_notes_detected: 3<br>ocr_title_cleanup: 1</p>
+  <p><strong>Review signal:</strong> mixed_transition_page: 4<br>transition_from_previous_author: 4<br>multi_column_layout: 2<br>mixed_work_transition_page: 2<br>source_notes_detected: 1</p>
   <p><strong>Editorial rule:</strong> source notes belong in source-note fields, bibliography belongs in bibliography fields, and excerpt text stays separate.</p>
 </section>
 
@@ -83,19 +89,19 @@ This note turns the current Norton chunk for Mary Wollstonecraft into a navigabl
 
 | Field | Value |
 | --- | --- |
-| Text ID | `wollstonecraft-rights-woman` |
-| Curated title | A Vindication of the Rights of Woman |
-| Creator | Mary Wollstonecraft |
-| Thinker note | [Mary Wollstonecraft](../thinkers/mary-wollstonecraft.md) |
+| Text ID | `emerson-american-scholar-poet` |
+| Curated title | The American Scholar and The Poet |
+| Creator | Ralph Waldo Emerson |
+| Thinker note | [Ralph Waldo Emerson](../thinkers/ralph-waldo-emerson.md) |
 | Register status | `edition-review-needed` |
 | Source anthology | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Restricted draft | `generated/authors/norton-theory-criticism/mary-wollstonecraft.md` |
+| Restricted draft | `generated/authors/norton-theory-criticism/ralph-waldo-emerson.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T04:47:51Z` |
+| Generated at | `2026-06-13T04:47:52Z` |
 | Git commit | `1935a63` |
 | Script version | `2` |
-| Output path | `docs/workspace/norton-texts/wollstonecraft-rights-woman.md` |
+| Output path | `docs/workspace/norton-texts/emerson-american-scholar-poet.md` |
 
 ## Backlinks
 
@@ -104,12 +110,17 @@ This note turns the current Norton chunk for Mary Wollstonecraft into a navigabl
 <li><a href="../../norton-map/">Norton Workspace Map</a></li>
 <li><a href="../../">Private Knowledge Base</a></li>
 <li><a href="../../../catalog/sources/">Text Catalog</a></li>
-<li>Thinker: <a href="../../thinkers/mary-wollstonecraft/">Mary Wollstonecraft</a></li>
+<li>Thinker: <a href="../../thinkers/ralph-waldo-emerson/">Ralph Waldo Emerson</a></li>
 <li><a href="../../passages/">Passage Notes</a></li>
 <li><a href="../../poetry-and-judgment/">poetry-and-judgment</a></li>
+<li><a href="../../beauty-and-ascent/">beauty-and-ascent</a></li>
 <li><a href="../../education-and-civic-life/">education-and-civic-life</a></li>
+<li><a href="../../vernacular-and-institution/">vernacular-and-institution</a></li>
 <li><a href="../../authorship-and-authority/">authorship-and-authority</a></li>
+<li><a href="../../taste-and-standards/">taste-and-standards</a></li>
+<li><a href="../../sublime-and-limits/">sublime-and-limits</a></li>
 <li><a href="../../aesthetic-education-and-citizenship/">aesthetic-education-and-citizenship</a></li>
+<li><a href="../../romantic-poetry-and-modernity/">romantic-poetry-and-modernity</a></li>
 </ul>
 
 ## Open Questions

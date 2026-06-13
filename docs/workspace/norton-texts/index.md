@@ -10,15 +10,15 @@ This index is generated from curated source metadata and local extraction audit 
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Curated Text Nodes</div>
-  <div class="ah-metric-value">39</div>
+  <div class="ah-metric-value">43</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Assembled Chunks</div>
-  <div class="ah-metric-value">39</div>
+  <div class="ah-metric-value">43</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Constellations</div>
-  <div class="ah-metric-value">13</div>
+  <div class="ah-metric-value">14</div>
 </div>
 </div>
 
@@ -64,7 +64,11 @@ This index is generated from curated source metadata and local extraction audit 
 | [Essay on Fictions and On Literature Considered in Its Relationship to Social Institutions](stael-fictions-literature-social-institutions.md) | Germaine de Stael | 636-651 | [education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md) | 0 | 10 | `edition-review-needed` |
 | [Hermeneutics](schleiermacher-hermeneutics.md) | Friedrich Schleiermacher | 652-667 | [signs-and-reading](../signs-and-reading.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md) | 0 | 14 | `edition-review-needed` |
 | [Phenomenology of Spirit and Lectures on Fine Art](hegel-phenomenology-fine-art.md) | Georg Wilhelm Friedrich Hegel | 668-686 | [signs-and-reading](../signs-and-reading.md)<br>[beauty-and-ascent](../beauty-and-ascent.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[sublime-and-limits](../sublime-and-limits.md) | 0 | 6 | `edition-review-needed` |
-| [Preface to Lyrical Ballads](wordsworth-lyrical-ballads-preface.md) | William Wordsworth | 687-687 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[media-and-form](../media-and-form.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md) | 0 | 1 | `edition-review-needed` |
+| [Preface to Lyrical Ballads](wordsworth-lyrical-ballads-preface.md) | William Wordsworth | 687-709 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[media-and-form](../media-and-form.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md) | 0 | 9 | `edition-review-needed` |
+| [The Statesman&#x27;s Manual and Biographia Literaria](coleridge-statesmans-manual-biographia-literaria.md) | Samuel Taylor Coleridge | 710-723 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[signs-and-reading](../signs-and-reading.md)<br>[beauty-and-ascent](../beauty-and-ascent.md)<br>[commentary-and-afterlife](../commentary-and-afterlife.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[sublime-and-limits](../sublime-and-limits.md)<br>[media-and-form](../media-and-form.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md) | 0 | 13 | `edition-review-needed` |
+| [The Four Ages of Poetry](peacock-four-ages-poetry.md) | Thomas Love Peacock | 724-737 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md) | 0 | 14 | `edition-review-needed` |
+| [A Defence of Poetry](shelley-defence-poetry.md) | Percy Bysshe Shelley | 738-758 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[beauty-and-ascent](../beauty-and-ascent.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[sublime-and-limits](../sublime-and-limits.md)<br>[romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md) | 0 | 19 | `edition-review-needed` |
+| [The American Scholar and The Poet](emerson-american-scholar-poet.md) | Ralph Waldo Emerson | 759-767 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[beauty-and-ascent](../beauty-and-ascent.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[authorship-and-authority](../authorship-and-authority.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[sublime-and-limits](../sublime-and-limits.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md) | 0 | 8 | `edition-review-needed` |
 
 ## How To Use This Index
 
@@ -91,7 +95,7 @@ This index is generated from curated source metadata and local extraction audit 
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T04:42:28Z` |
-| Git commit | `0e02b79` |
+| Generated at | `2026-06-13T04:47:52Z` |
+| Git commit | `1935a63` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/index.md` |

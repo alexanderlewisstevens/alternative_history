@@ -405,6 +405,46 @@ curated_texts:
       - language
       - imagination
     status: edition-review-needed
+  - id: coleridge-statesmans-manual-biographia-literaria
+    title: The Statesman's Manual and Biographia Literaria
+    creator: Samuel Taylor Coleridge
+    role: core-text-candidate
+    themes:
+      - imagination
+      - symbol
+      - poetry
+      - philosophy
+    status: edition-review-needed
+  - id: peacock-four-ages-poetry
+    title: The Four Ages of Poetry
+    creator: Thomas Love Peacock
+    role: core-text-candidate
+    themes:
+      - poetry
+      - modernity
+      - satire
+      - utility
+    status: edition-review-needed
+  - id: shelley-defence-poetry
+    title: A Defence of Poetry
+    creator: Percy Bysshe Shelley
+    role: core-text-candidate
+    themes:
+      - poetry
+      - imagination
+      - social-change
+      - freedom
+    status: edition-review-needed
+  - id: emerson-american-scholar-poet
+    title: The American Scholar and The Poet
+    creator: Ralph Waldo Emerson
+    role: core-text-candidate
+    themes:
+      - scholarship
+      - self-reliance
+      - poetry
+      - nature
+    status: edition-review-needed
 
 constellations:
   - id: rhetoric-and-force
@@ -443,6 +483,10 @@ constellations:
       - schiller-aesthetic-education
       - wollstonecraft-rights-woman
       - wordsworth-lyrical-ballads-preface
+      - coleridge-statesmans-manual-biographia-literaria
+      - peacock-four-ages-poetry
+      - shelley-defence-poetry
+      - emerson-american-scholar-poet
     relations:
       - tension
       - craft
@@ -459,6 +503,7 @@ constellations:
       - giacopo-mazzoni-defense-comedy-dante
       - schleiermacher-hermeneutics
       - hegel-phenomenology-fine-art
+      - coleridge-statesmans-manual-biographia-literaria
     relations:
       - writing
       - interpretation
@@ -473,6 +518,9 @@ constellations:
       - burke-sublime-and-beautiful
       - schiller-aesthetic-education
       - hegel-phenomenology-fine-art
+      - coleridge-statesmans-manual-biographia-literaria
+      - shelley-defence-poetry
+      - emerson-american-scholar-poet
     relations:
       - sublimity
       - ascent
@@ -490,6 +538,7 @@ constellations:
       - vico-new-science
       - schleiermacher-hermeneutics
       - hegel-phenomenology-fine-art
+      - coleridge-statesmans-manual-biographia-literaria
     relations:
       - commentary
       - transmission
@@ -509,6 +558,9 @@ constellations:
       - schiller-aesthetic-education
       - wollstonecraft-rights-woman
       - stael-fictions-literature-social-institutions
+      - wordsworth-lyrical-ballads-preface
+      - coleridge-statesmans-manual-biographia-literaria
+      - emerson-american-scholar-poet
     relations:
       - pedagogy
       - civic-formation
@@ -524,6 +576,7 @@ constellations:
       - vico-new-science
       - stael-fictions-literature-social-institutions
       - wordsworth-lyrical-ballads-preface
+      - emerson-american-scholar-poet
     relations:
       - vernacular
       - imitation
@@ -554,6 +607,8 @@ constellations:
       - johnson-selected-critical-prose
       - wollstonecraft-rights-woman
       - stael-fictions-literature-social-institutions
+      - shelley-defence-poetry
+      - emerson-american-scholar-poet
     relations:
       - authorship
       - gender
@@ -570,6 +625,11 @@ constellations:
       - kant-critique-of-judgment
       - burke-sublime-and-beautiful
       - schiller-aesthetic-education
+      - wordsworth-lyrical-ballads-preface
+      - coleridge-statesmans-manual-biographia-literaria
+      - peacock-four-ages-poetry
+      - shelley-defence-poetry
+      - emerson-american-scholar-poet
     relations:
       - taste
       - criticism
@@ -583,6 +643,9 @@ constellations:
       - burke-sublime-and-beautiful
       - lessing-laocoon
       - hegel-phenomenology-fine-art
+      - coleridge-statesmans-manual-biographia-literaria
+      - shelley-defence-poetry
+      - emerson-american-scholar-poet
     relations:
       - sublimity
       - affect
@@ -595,6 +658,7 @@ constellations:
       - kant-critique-of-judgment
       - lessing-laocoon
       - wordsworth-lyrical-ballads-preface
+      - coleridge-statesmans-manual-biographia-literaria
     relations:
       - medium
       - form
@@ -609,10 +673,24 @@ constellations:
       - wollstonecraft-rights-woman
       - stael-fictions-literature-social-institutions
       - wordsworth-lyrical-ballads-preface
+      - coleridge-statesmans-manual-biographia-literaria
+      - emerson-american-scholar-poet
     relations:
       - education
       - freedom
       - citizenship
+  - id: romantic-poetry-and-modernity
+    question: What can poetry do under modern social pressure?
+    texts:
+      - wordsworth-lyrical-ballads-preface
+      - coleridge-statesmans-manual-biographia-literaria
+      - peacock-four-ages-poetry
+      - shelley-defence-poetry
+      - emerson-american-scholar-poet
+    relations:
+      - poetry
+      - modernity
+      - imagination
 
 research_tools:
   - id: worldcat

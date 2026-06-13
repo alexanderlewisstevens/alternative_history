@@ -39,14 +39,18 @@ This private index is generated from curated source metadata and local extractio
 | [Macrobius](macrobius.md) | 1 | Commentary on the Dream of Scipio |
 | [Mary Wollstonecraft](mary-wollstonecraft.md) | 1 | A Vindication of the Rights of Woman |
 | [Moses Maimonides](moses-maimonides.md) | 1 | The Guide of the Perplexed |
+| [Percy Bysshe Shelley](percy-bysshe-shelley.md) | 1 | A Defence of Poetry |
 | [Pierre Corneille](pierre-corneille.md) | 1 | Of the Three Unities of Action, Time, and Place |
 | [Pierre de Ronsard](pierre-de-ronsard.md) | 1 | A Brief on the Art of French Poetry |
 | [Plato](plato.md) | 1 | Selected dialogues |
 | [Plotinus](plotinus.md) | 1 | Selected Enneads |
 | [Quintilian](quintilian.md) | 1 | Institutio Oratoria |
+| [Ralph Waldo Emerson](ralph-waldo-emerson.md) | 1 | The American Scholar and The Poet |
 | [Samuel Johnson](samuel-johnson.md) | 1 | Selected Critical Prose |
+| [Samuel Taylor Coleridge](samuel-taylor-coleridge.md) | 1 | The Statesman&#x27;s Manual and Biographia Literaria |
 | [Sir Philip Sidney](sir-philip-sidney.md) | 1 | The Defense of Poesy |
 | [Thomas Aquinas](thomas-aquinas.md) | 1 | Summa Theologica |
+| [Thomas Love Peacock](thomas-love-peacock.md) | 1 | The Four Ages of Poetry |
 | [William Wordsworth](william-wordsworth.md) | 1 | Preface to Lyrical Ballads |
 
 ## Provenance
@@ -70,7 +74,7 @@ This private index is generated from curated source metadata and local extractio
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
-| Generated at | `2026-06-13T04:42:24Z` |
-| Git commit | `0e02b79` |
+| Generated at | `2026-06-13T04:47:47Z` |
+| Git commit | `1935a63` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/index.md` |

@@ -89,8 +89,8 @@ This note turns the current Norton chunk for Moses Maimonides into a navigable w
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/moses-maimonides.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T04:42:27Z` |
-| Git commit | `0e02b79` |
+| Generated at | `2026-06-13T04:47:51Z` |
+| Git commit | `1935a63` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/maimonides-guide-perplexed.md` |
 

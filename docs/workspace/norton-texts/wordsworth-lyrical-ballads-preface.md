@@ -20,40 +20,43 @@ This note turns the current Norton chunk for William Wordsworth into a navigable
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Chunk Status</span>
-  <h3>Norton Pages 687-687</h3>
-  <p><strong>Page count:</strong> 1</p>
+  <h3>Norton Pages 687-709</h3>
+  <p><strong>Page count:</strong> 23</p>
   <p><strong>Restricted draft:</strong> <code>generated/authors/norton-theory-criticism/william-wordsworth.md</code></p>
-  <p><strong>Page kinds:</strong> author_intro: 1</p>
-  <p><strong>Review pressure:</strong> 1 rows. transition_from_previous_author: 1</p>
+  <p><strong>Page kinds:</strong> excerpt: 19<br>author_intro: 3<br>bibliography: 1</p>
+  <p><strong>Review pressure:</strong> 9 rows. multi_column_layout: 6<br>source_notes_detected: 4<br>transition_from_previous_author: 1<br>mixed_bibliography_and_work_title: 1<br>layout_review_required: 1</p>
 </section>
 
 ## Works And Excerpt Blocks
 
-- No work titles detected yet.
+- Preface to Lyrical Ballads
 
 ## Constellations
 
 | Constellation | Core Question | Relations |
 | --- | --- | --- |
 | [poetry-and-judgment](../poetry-and-judgment.md) | Who gets to judge art? | tension, craft, excess |
+| [education-and-civic-life](../education-and-civic-life.md) | What should education make possible for citizens? | pedagogy, civic-formation, authority |
 | [vernacular-and-institution](../vernacular-and-institution.md) | How do languages become institutions of thought? | vernacular, imitation, nation |
+| [taste-and-standards](../taste-and-standards.md) | How do communities make judgments of taste? | taste, criticism, consensus |
 | [media-and-form](../media-and-form.md) | How do media shape what thought can represent? | medium, form, representation |
 | [aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md) | What kind of citizen can education form? | education, freedom, citizenship |
+| [romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md) | What can poetry do under modern social pressure? | poetry, modernity, imagination |
 
 ## Passage Queue
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Anchor Candidates</span>
   <h3>Choose Passages After Review</h3>
-  <p><strong>Source location:</strong> Norton page range 687-687.</p>
+  <p><strong>Source location:</strong> Norton page range 687-709.</p>
   <p><strong>Rights mode:</strong> restricted private notes until a public-domain or otherwise usable reading copy is selected.</p>
-  <p><strong>Use:</strong> Find the passages that make this text active inside poetry-and-judgment, vernacular-and-institution, media-and-form, aesthetic-education-and-citizenship.</p>
+  <p><strong>Use:</strong> Find the passages that make this text active inside poetry-and-judgment, education-and-civic-life, vernacular-and-institution, taste-and-standards, media-and-form, aesthetic-education-and-citizenship, romantic-poetry-and-modernity.</p>
 </section>
 
 <section class="ah-passage-card">
   <span class="ah-action-kicker">Review Before Quoting</span>
   <h3>Layout, Notes, And Bibliography</h3>
-  <p><strong>Review signal:</strong> transition_from_previous_author: 1</p>
+  <p><strong>Review signal:</strong> multi_column_layout: 6<br>source_notes_detected: 4<br>transition_from_previous_author: 1<br>mixed_bibliography_and_work_title: 1<br>layout_review_required: 1</p>
   <p><strong>Editorial rule:</strong> source notes belong in source-note fields, bibliography belongs in bibliography fields, and excerpt text stays separate.</p>
 </section>
 
@@ -91,8 +94,8 @@ This note turns the current Norton chunk for William Wordsworth into a navigable
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/william-wordsworth.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T04:42:28Z` |
-| Git commit | `0e02b79` |
+| Generated at | `2026-06-13T04:47:52Z` |
+| Git commit | `1935a63` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/wordsworth-lyrical-ballads-preface.md` |
 
@@ -106,9 +109,12 @@ This note turns the current Norton chunk for William Wordsworth into a navigable
 <li>Thinker: <a href="../../thinkers/william-wordsworth/">William Wordsworth</a></li>
 <li><a href="../../passages/">Passage Notes</a></li>
 <li><a href="../../poetry-and-judgment/">poetry-and-judgment</a></li>
+<li><a href="../../education-and-civic-life/">education-and-civic-life</a></li>
 <li><a href="../../vernacular-and-institution/">vernacular-and-institution</a></li>
+<li><a href="../../taste-and-standards/">taste-and-standards</a></li>
 <li><a href="../../media-and-form/">media-and-form</a></li>
 <li><a href="../../aesthetic-education-and-citizenship/">aesthetic-education-and-citizenship</a></li>
+<li><a href="../../romantic-poetry-and-modernity/">romantic-poetry-and-modernity</a></li>
 </ul>
 
 ## Open Questions

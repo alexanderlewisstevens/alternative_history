@@ -1234,3 +1234,158 @@ overrides:
     review_reasons:
       - transition_from_previous_author
       - ocr_title_cleanup
+
+  - id: william-wordsworth-headnote-continuation
+    pages: 688-689
+    author_name: William Wordsworth
+    author_slug: william-wordsworth
+    page_kind: author_intro
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: william-wordsworth-preface-bibliography-transition
+    pages: 690
+    author_name: William Wordsworth
+    author_slug: william-wordsworth
+    work_title: Preface to Lyrical Ballads
+    work_slug: preface-to-lyrical-ballads
+    page_kind: bibliography
+    starts_new_author: false
+    continues_previous_author: true
+    contains_bibliography: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_bibliography_and_work_title
+
+  - id: william-wordsworth-preface-lyrical-ballads
+    pages: 691-709
+    author_name: William Wordsworth
+    author_slug: william-wordsworth
+    work_title: Preface to Lyrical Ballads
+    work_slug: preface-to-lyrical-ballads
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: samuel-taylor-coleridge-headnote
+    pages: 710-714
+    author_name: Samuel Taylor Coleridge
+    author_slug: samuel-taylor-coleridge
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_transition_page
+
+  - id: samuel-taylor-coleridge-statesmans-manual
+    pages: 715-718
+    author_name: Samuel Taylor Coleridge
+    author_slug: samuel-taylor-coleridge
+    work_title: The Statesman's Manual
+    work_slug: the-statesmans-manual
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: samuel-taylor-coleridge-biographia-literaria
+    pages: 719-723
+    author_name: Samuel Taylor Coleridge
+    author_slug: samuel-taylor-coleridge
+    work_title: Biographia Literaria
+    work_slug: biographia-literaria
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: thomas-love-peacock-headnote
+    pages: 724-726
+    author_name: Thomas Love Peacock
+    author_slug: thomas-love-peacock
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_transition_page
+
+  - id: thomas-love-peacock-four-ages-poetry
+    pages: 727-737
+    author_name: Thomas Love Peacock
+    author_slug: thomas-love-peacock
+    work_title: The Four Ages of Poetry
+    work_slug: the-four-ages-of-poetry
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: percy-bysshe-shelley-headnote
+    pages: 738-740
+    author_name: Percy Bysshe Shelley
+    author_slug: percy-bysshe-shelley
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+
+  - id: percy-bysshe-shelley-defence-poetry
+    pages: 741-758
+    author_name: Percy Bysshe Shelley
+    author_slug: percy-bysshe-shelley
+    work_title: A Defence of Poetry
+    work_slug: a-defence-of-poetry
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: ralph-waldo-emerson-headnote
+    pages: 759-762
+    author_name: Ralph Waldo Emerson
+    author_slug: ralph-waldo-emerson
+    page_kind: author_intro
+    starts_new_author: true
+    continues_previous_author: false
+    confidence: high
+    review_required: true
+    review_reasons:
+      - transition_from_previous_author
+      - mixed_transition_page
+
+  - id: ralph-waldo-emerson-american-scholar
+    pages: 763-765
+    author_name: Ralph Waldo Emerson
+    author_slug: ralph-waldo-emerson
+    work_title: The American Scholar
+    work_slug: the-american-scholar
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+
+  - id: ralph-waldo-emerson-the-poet
+    pages: 766-767
+    author_name: Ralph Waldo Emerson
+    author_slug: ralph-waldo-emerson
+    work_title: The Poet
+    work_slug: the-poet
+    page_kind: excerpt
+    starts_new_author: false
+    continues_previous_author: true
+    confidence: high
+    review_required: true
+    review_reasons:
+      - mixed_work_transition_page

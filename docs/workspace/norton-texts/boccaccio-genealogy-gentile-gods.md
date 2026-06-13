@@ -88,8 +88,8 @@ This note turns the current Norton chunk for Giovanni Boccaccio into a navigable
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/giovanni-boccaccio.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T04:42:28Z` |
-| Git commit | `0e02b79` |
+| Generated at | `2026-06-13T04:47:51Z` |
+| Git commit | `1935a63` |
 | Script version | `2` |
 | Output path | `docs/workspace/norton-texts/boccaccio-genealogy-gentile-gods.md` |
 

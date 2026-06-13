@@ -33,6 +33,7 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/vico-new-science/"><strong>Giambattista Vico, The New Science</strong><span>history, language, institutions; pages 441-457; 11 review rows</span></a>
   <a href="../norton-texts/schleiermacher-hermeneutics/"><strong>Friedrich Schleiermacher, Hermeneutics</strong><span>hermeneutics, interpretation, language; pages 652-667; 14 review rows</span></a>
   <a href="../norton-texts/hegel-phenomenology-fine-art/"><strong>Georg Wilhelm Friedrich Hegel, Phenomenology of Spirit and Lectures on Fine Art</strong><span>spirit, aesthetics, history; pages 668-686; 6 review rows</span></a>
+  <a href="../norton-texts/coleridge-statesmans-manual-biographia-literaria/"><strong>Samuel Taylor Coleridge, The Statesman&#x27;s Manual and Biographia Literaria</strong><span>imagination, symbol, poetry; pages 710-723; 13 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -55,6 +56,7 @@ This is a scaffold for reading the configured texts together. It should become a
 8. [Giambattista Vico, The New Science](norton-texts/vico-new-science.md)
 9. [Friedrich Schleiermacher, Hermeneutics](norton-texts/schleiermacher-hermeneutics.md)
 10. [Georg Wilhelm Friedrich Hegel, Phenomenology of Spirit and Lectures on Fine Art](norton-texts/hegel-phenomenology-fine-art.md)
+11. [Samuel Taylor Coleridge, The Statesman&#x27;s Manual and Biographia Literaria](norton-texts/coleridge-statesmans-manual-biographia-literaria.md)
 
 ## Review Pressure
 
@@ -70,6 +72,7 @@ This is a scaffold for reading the configured texts together. It should become a
 | [The New Science](norton-texts/vico-new-science.md) | 441-457 | 11 | excerpt: 14<br>author_intro: 2<br>mixed_excerpt_bibliography: 1 |
 | [Hermeneutics](norton-texts/schleiermacher-hermeneutics.md) | 652-667 | 14 | excerpt: 12<br>author_intro: 3<br>mixed_excerpt_bibliography: 1 |
 | [Phenomenology of Spirit and Lectures on Fine Art](norton-texts/hegel-phenomenology-fine-art.md) | 668-686 | 6 | excerpt: 14<br>author_intro: 5 |
+| [The Statesman&#x27;s Manual and Biographia Literaria](norton-texts/coleridge-statesmans-manual-biographia-literaria.md) | 710-723 | 13 | excerpt: 9<br>author_intro: 5 |
 
 ## Passage Queue
 
@@ -123,8 +126,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T04:42:18Z` |
-| Git commit | `0e02b79` |
+| Generated at | `2026-06-13T04:47:13Z` |
+| Git commit | `1935a63` |
 | Script version | `2` |
 | Output path | `docs/workspace/commentary-and-afterlife.md` |
 

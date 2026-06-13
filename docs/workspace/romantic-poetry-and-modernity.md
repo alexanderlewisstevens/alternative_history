@@ -1,10 +1,10 @@
-# Theater And Public Judgment
+# Romantic Poetry And Modernity
 
 <div class="ah-note-meta">
   <span><strong>Type:</strong> constellation note</span>
   <span><strong>Status:</strong> generated private workspace draft</span>
   <span><strong>Source mode:</strong> restricted metadata only</span>
-  <span><strong>Tags:</strong> drama, audience, rules</span>
+  <span><strong>Tags:</strong> poetry, modernity, imagination</span>
 </div>
 
 <div class="ah-private-banner">
@@ -14,7 +14,7 @@
 
 ## Core Question
 
-How does theater train or expose public judgment?
+What can poetry do under modern social pressure?
 
 ## Working Claim
 
@@ -23,41 +23,38 @@ This is a scaffold for reading the configured texts together. It should become a
 ## Texts In Play
 
 <div class="ah-graph-list">
-  <a href="../norton-texts/aristotle-poetics-rhetoric/"><strong>Aristotle, Poetics and Rhetoric</strong><span>poetics, rhetoric, genre; pages 128-162; 23 review rows</span></a>
-  <a href="../norton-texts/giambattista-giraldi-composition-romances/"><strong>Giambattista Giraldi, Discourse on the Composition of Romances</strong><span>genre, romance, poetics; pages 313-320; 7 review rows</span></a>
-  <a href="../norton-texts/corneille-three-unities/"><strong>Pierre Corneille, Of the Three Unities of Action, Time, and Place</strong><span>drama, rules, audience; pages 405-420; 11 review rows</span></a>
-  <a href="../norton-texts/dryden-selected-critical-prose/"><strong>John Dryden, Selected Critical Prose</strong><span>drama, translation, judgment; pages 421-429; 9 review rows</span></a>
-  <a href="../norton-texts/aphra-behn-dutch-lover-lucky-chance/"><strong>Aphra Behn, The Dutch Lover and Preface to The Lucky Chance</strong><span>authorship, gender, theater; pages 430-440; 11 review rows</span></a>
-  <a href="../norton-texts/johnson-selected-critical-prose/"><strong>Samuel Johnson, Selected Critical Prose</strong><span>fiction, shakespeare, criticism; pages 500-524; 21 review rows</span></a>
+  <a href="../norton-texts/wordsworth-lyrical-ballads-preface/"><strong>William Wordsworth, Preface to Lyrical Ballads</strong><span>poetry, common-life, language; pages 687-709; 9 review rows</span></a>
+  <a href="../norton-texts/coleridge-statesmans-manual-biographia-literaria/"><strong>Samuel Taylor Coleridge, The Statesman&#x27;s Manual and Biographia Literaria</strong><span>imagination, symbol, poetry; pages 710-723; 13 review rows</span></a>
+  <a href="../norton-texts/peacock-four-ages-poetry/"><strong>Thomas Love Peacock, The Four Ages of Poetry</strong><span>poetry, modernity, satire; pages 724-737; 14 review rows</span></a>
+  <a href="../norton-texts/shelley-defence-poetry/"><strong>Percy Bysshe Shelley, A Defence of Poetry</strong><span>poetry, imagination, social-change; pages 738-758; 19 review rows</span></a>
+  <a href="../norton-texts/emerson-american-scholar-poet/"><strong>Ralph Waldo Emerson, The American Scholar and The Poet</strong><span>scholarship, self-reliance, poetry; pages 759-767; 8 review rows</span></a>
 </div>
 
 ## Relationship Map
 
 | Relation | From | To | Current Status |
 | --- | --- | --- | --- |
-| Drama | Aristotle | Giambattista Giraldi | Configured relation; needs close-reading evidence before promotion. |
-| Audience | Giambattista Giraldi | Pierre Corneille | Configured relation; needs close-reading evidence before promotion. |
-| Rules | Pierre Corneille | John Dryden | Configured relation; needs close-reading evidence before promotion. |
+| Poetry | William Wordsworth | Samuel Taylor Coleridge | Configured relation; needs close-reading evidence before promotion. |
+| Modernity | Samuel Taylor Coleridge | Thomas Love Peacock | Configured relation; needs close-reading evidence before promotion. |
+| Imagination | Thomas Love Peacock | Percy Bysshe Shelley | Configured relation; needs close-reading evidence before promotion. |
 
 ## Reading Path
 
-1. [Aristotle, Poetics and Rhetoric](norton-texts/aristotle-poetics-rhetoric.md)
-2. [Giambattista Giraldi, Discourse on the Composition of Romances](norton-texts/giambattista-giraldi-composition-romances.md)
-3. [Pierre Corneille, Of the Three Unities of Action, Time, and Place](norton-texts/corneille-three-unities.md)
-4. [John Dryden, Selected Critical Prose](norton-texts/dryden-selected-critical-prose.md)
-5. [Aphra Behn, The Dutch Lover and Preface to The Lucky Chance](norton-texts/aphra-behn-dutch-lover-lucky-chance.md)
-6. [Samuel Johnson, Selected Critical Prose](norton-texts/johnson-selected-critical-prose.md)
+1. [William Wordsworth, Preface to Lyrical Ballads](norton-texts/wordsworth-lyrical-ballads-preface.md)
+2. [Samuel Taylor Coleridge, The Statesman&#x27;s Manual and Biographia Literaria](norton-texts/coleridge-statesmans-manual-biographia-literaria.md)
+3. [Thomas Love Peacock, The Four Ages of Poetry](norton-texts/peacock-four-ages-poetry.md)
+4. [Percy Bysshe Shelley, A Defence of Poetry](norton-texts/shelley-defence-poetry.md)
+5. [Ralph Waldo Emerson, The American Scholar and The Poet](norton-texts/emerson-american-scholar-poet.md)
 
 ## Review Pressure
 
 | Text | Norton Pages | Review Rows | Page Kinds |
 | --- | --- | ---: | --- |
-| [Poetics and Rhetoric](norton-texts/aristotle-poetics-rhetoric.md) | 128-162 | 23 | excerpt: 30<br>author_intro: 5 |
-| [Discourse on the Composition of Romances](norton-texts/giambattista-giraldi-composition-romances.md) | 313-320 | 7 | excerpt: 6<br>author_intro: 2 |
-| [Of the Three Unities of Action, Time, and Place](norton-texts/corneille-three-unities.md) | 405-420 | 11 | excerpt: 12<br>author_intro: 4 |
-| [Selected Critical Prose](norton-texts/dryden-selected-critical-prose.md) | 421-429 | 9 | excerpt: 7<br>author_intro: 2 |
-| [The Dutch Lover and Preface to The Lucky Chance](norton-texts/aphra-behn-dutch-lover-lucky-chance.md) | 430-440 | 11 | excerpt: 8<br>author_intro: 3 |
-| [Selected Critical Prose](norton-texts/johnson-selected-critical-prose.md) | 500-524 | 21 | excerpt: 18<br>author_intro: 7 |
+| [Preface to Lyrical Ballads](norton-texts/wordsworth-lyrical-ballads-preface.md) | 687-709 | 9 | excerpt: 19<br>author_intro: 3<br>bibliography: 1 |
+| [The Statesman&#x27;s Manual and Biographia Literaria](norton-texts/coleridge-statesmans-manual-biographia-literaria.md) | 710-723 | 13 | excerpt: 9<br>author_intro: 5 |
+| [The Four Ages of Poetry](norton-texts/peacock-four-ages-poetry.md) | 724-737 | 14 | excerpt: 11<br>author_intro: 3 |
+| [A Defence of Poetry](norton-texts/shelley-defence-poetry.md) | 738-758 | 19 | excerpt: 18<br>author_intro: 3 |
+| [The American Scholar and The Poet](norton-texts/emerson-american-scholar-poet.md) | 759-767 | 8 | excerpt: 5<br>author_intro: 4 |
 
 ## Passage Queue
 
@@ -106,7 +103,7 @@ This is a scaffold for reading the configured texts together. It should become a
 
 | Field | Value |
 | --- | --- |
-| Constellation ID | `theater-and-public-judgment` |
+| Constellation ID | `romantic-poetry-and-modernity` |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
@@ -114,7 +111,7 @@ This is a scaffold for reading the configured texts together. It should become a
 | Generated at | `2026-06-13T04:47:13Z` |
 | Git commit | `1935a63` |
 | Script version | `2` |
-| Output path | `docs/workspace/theater-and-public-judgment.md` |
+| Output path | `docs/workspace/romantic-poetry-and-modernity.md` |
 
 ## Open Questions
 

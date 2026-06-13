@@ -20,26 +20,29 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [Preface to Lyrical Ballads](../norton-texts/wordsworth-lyrical-ballads-preface.md) | 687-687 | 1 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[media-and-form](../media-and-form.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md) | `edition-review-needed` |
+| [Preface to Lyrical Ballads](../norton-texts/wordsworth-lyrical-ballads-preface.md) | 687-709 | 9 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[education-and-civic-life](../education-and-civic-life.md)<br>[vernacular-and-institution](../vernacular-and-institution.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[media-and-form](../media-and-form.md)<br>[aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)<br>[romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
-- No work titles detected yet.
+- Preface to Lyrical Ballads
 
 ## Constellation Backlinks
 
 - [aesthetic-education-and-citizenship](../aesthetic-education-and-citizenship.md)
+- [education-and-civic-life](../education-and-civic-life.md)
 - [media-and-form](../media-and-form.md)
 - [poetry-and-judgment](../poetry-and-judgment.md)
+- [romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md)
+- [taste-and-standards](../taste-and-standards.md)
 - [vernacular-and-institution](../vernacular-and-institution.md)
 
 ## Review Pressure
 
 | Signal | Value |
 | --- | --- |
-| Page kinds | author_intro: 1 |
-| Review rows | 1 |
-| Review reasons | transition_from_previous_author: 1 |
+| Page kinds | excerpt: 19<br>author_intro: 3<br>bibliography: 1 |
+| Review rows | 9 |
+| Review reasons | multi_column_layout: 6<br>source_notes_detected: 4<br>transition_from_previous_author: 1<br>mixed_bibliography_and_work_title: 1<br>layout_review_required: 1 |
 
 ## Passage Queue
 
@@ -90,8 +93,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T04:42:25Z` |
-| Git commit | `0e02b79` |
+| Generated at | `2026-06-13T04:47:48Z` |
+| Git commit | `1935a63` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/william-wordsworth.md` |
 

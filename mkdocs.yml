@@ -69,6 +69,10 @@ nav:
           - Schleiermacher, Hermeneutics: workspace/norton-texts/schleiermacher-hermeneutics.md
           - Hegel, Phenomenology and Fine Art: workspace/norton-texts/hegel-phenomenology-fine-art.md
           - Wordsworth, Preface to Lyrical Ballads: workspace/norton-texts/wordsworth-lyrical-ballads-preface.md
+          - Coleridge, Statesman's Manual and Biographia: workspace/norton-texts/coleridge-statesmans-manual-biographia-literaria.md
+          - Peacock, Four Ages of Poetry: workspace/norton-texts/peacock-four-ages-poetry.md
+          - Shelley, Defence of Poetry: workspace/norton-texts/shelley-defence-poetry.md
+          - Emerson, American Scholar and The Poet: workspace/norton-texts/emerson-american-scholar-poet.md
       - Thinker Notes:
           - Index: workspace/thinkers/index.md
           - Gorgias of Leontini: workspace/thinkers/gorgias-of-leontini.md
@@ -110,6 +114,10 @@ nav:
           - Friedrich Schleiermacher: workspace/thinkers/friedrich-schleiermacher.md
           - Georg Wilhelm Friedrich Hegel: workspace/thinkers/georg-wilhelm-friedrich-hegel.md
           - William Wordsworth: workspace/thinkers/william-wordsworth.md
+          - Samuel Taylor Coleridge: workspace/thinkers/samuel-taylor-coleridge.md
+          - Thomas Love Peacock: workspace/thinkers/thomas-love-peacock.md
+          - Percy Bysshe Shelley: workspace/thinkers/percy-bysshe-shelley.md
+          - Ralph Waldo Emerson: workspace/thinkers/ralph-waldo-emerson.md
       - Passage Notes:
           - Index: workspace/passages/index.md
           - Speech As Force: workspace/passages/gorgias-speech-as-force.md
@@ -128,6 +136,7 @@ nav:
       - Sublime And Limits: workspace/sublime-and-limits.md
       - Media And Form: workspace/media-and-form.md
       - Aesthetic Education And Citizenship: workspace/aesthetic-education-and-citizenship.md
+      - Romantic Poetry And Modernity: workspace/romantic-poetry-and-modernity.md
       - Page Anatomy: workspace/page-anatomy.md
       - Gorgias Text Note: workspace/gorgias-encomium-helen.md
   - Project Notes:

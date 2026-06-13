@@ -32,6 +32,11 @@ This is a scaffold for reading the configured texts together. It should become a
   <a href="../norton-texts/kant-critique-of-judgment/"><strong>Immanuel Kant, Critique of Judgment</strong><span>aesthetics, judgment, disinterestedness; pages 541-577; 14 review rows</span></a>
   <a href="../norton-texts/burke-sublime-and-beautiful/"><strong>Edmund Burke, A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful</strong><span>sublime, beauty, affect; pages 578-592; 6 review rows</span></a>
   <a href="../norton-texts/schiller-aesthetic-education/"><strong>Friedrich Schiller, On the Aesthetic Education of Man</strong><span>aesthetic-education, freedom, play; pages 613-623; 10 review rows</span></a>
+  <a href="../norton-texts/wordsworth-lyrical-ballads-preface/"><strong>William Wordsworth, Preface to Lyrical Ballads</strong><span>poetry, common-life, language; pages 687-709; 9 review rows</span></a>
+  <a href="../norton-texts/coleridge-statesmans-manual-biographia-literaria/"><strong>Samuel Taylor Coleridge, The Statesman&#x27;s Manual and Biographia Literaria</strong><span>imagination, symbol, poetry; pages 710-723; 13 review rows</span></a>
+  <a href="../norton-texts/peacock-four-ages-poetry/"><strong>Thomas Love Peacock, The Four Ages of Poetry</strong><span>poetry, modernity, satire; pages 724-737; 14 review rows</span></a>
+  <a href="../norton-texts/shelley-defence-poetry/"><strong>Percy Bysshe Shelley, A Defence of Poetry</strong><span>poetry, imagination, social-change; pages 738-758; 19 review rows</span></a>
+  <a href="../norton-texts/emerson-american-scholar-poet/"><strong>Ralph Waldo Emerson, The American Scholar and The Poet</strong><span>scholarship, self-reliance, poetry; pages 759-767; 8 review rows</span></a>
 </div>
 
 ## Relationship Map
@@ -53,6 +58,11 @@ This is a scaffold for reading the configured texts together. It should become a
 7. [Immanuel Kant, Critique of Judgment](norton-texts/kant-critique-of-judgment.md)
 8. [Edmund Burke, A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful](norton-texts/burke-sublime-and-beautiful.md)
 9. [Friedrich Schiller, On the Aesthetic Education of Man](norton-texts/schiller-aesthetic-education.md)
+10. [William Wordsworth, Preface to Lyrical Ballads](norton-texts/wordsworth-lyrical-ballads-preface.md)
+11. [Samuel Taylor Coleridge, The Statesman&#x27;s Manual and Biographia Literaria](norton-texts/coleridge-statesmans-manual-biographia-literaria.md)
+12. [Thomas Love Peacock, The Four Ages of Poetry](norton-texts/peacock-four-ages-poetry.md)
+13. [Percy Bysshe Shelley, A Defence of Poetry](norton-texts/shelley-defence-poetry.md)
+14. [Ralph Waldo Emerson, The American Scholar and The Poet](norton-texts/emerson-american-scholar-poet.md)
 
 ## Review Pressure
 
@@ -67,6 +77,11 @@ This is a scaffold for reading the configured texts together. It should become a
 | [Critique of Judgment](norton-texts/kant-critique-of-judgment.md) | 541-577 | 14 | excerpt: 32<br>author_intro: 5 |
 | [A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful](norton-texts/burke-sublime-and-beautiful.md) | 578-592 | 6 | excerpt: 12<br>author_intro: 3 |
 | [On the Aesthetic Education of Man](norton-texts/schiller-aesthetic-education.md) | 613-623 | 10 | excerpt: 9<br>author_intro: 2 |
+| [Preface to Lyrical Ballads](norton-texts/wordsworth-lyrical-ballads-preface.md) | 687-709 | 9 | excerpt: 19<br>author_intro: 3<br>bibliography: 1 |
+| [The Statesman&#x27;s Manual and Biographia Literaria](norton-texts/coleridge-statesmans-manual-biographia-literaria.md) | 710-723 | 13 | excerpt: 9<br>author_intro: 5 |
+| [The Four Ages of Poetry](norton-texts/peacock-four-ages-poetry.md) | 724-737 | 14 | excerpt: 11<br>author_intro: 3 |
+| [A Defence of Poetry](norton-texts/shelley-defence-poetry.md) | 738-758 | 19 | excerpt: 18<br>author_intro: 3 |
+| [The American Scholar and The Poet](norton-texts/emerson-american-scholar-poet.md) | 759-767 | 8 | excerpt: 5<br>author_intro: 4 |
 
 ## Passage Queue
 
@@ -120,8 +135,8 @@ This is a scaffold for reading the configured texts together. It should become a
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T04:42:18Z` |
-| Git commit | `0e02b79` |
+| Generated at | `2026-06-13T04:47:13Z` |
+| Git commit | `1935a63` |
 | Script version | `2` |
 | Output path | `docs/workspace/taste-and-standards.md` |
 

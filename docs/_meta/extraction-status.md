@@ -5,19 +5,19 @@ This page is generated from audit artifacts. It intentionally contains metadata 
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Classified Pages</div>
-  <div class="ah-metric-value">71-687</div>
+  <div class="ah-metric-value">71-767</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Page Records</div>
-  <div class="ah-metric-value">617</div>
+  <div class="ah-metric-value">697</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Thinker Drafts</div>
-  <div class="ah-metric-value">39</div>
+  <div class="ah-metric-value">43</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Review Rows</div>
-  <div class="ah-metric-value">451</div>
+  <div class="ah-metric-value">513</div>
 </div>
 </div>
 
@@ -45,21 +45,21 @@ This page is generated from audit artifacts. It intentionally contains metadata 
 | Artifact | Count | Location |
 | --- | ---: | --- |
 | Sliced PDFs | 2668 | `Norton_Anthology_Sliced_Author` |
-| Layout records | 617 | `work/layout/norton-theory-criticism/layout.jsonl` |
-| Classification records | 617 | `work/classification/norton-theory-criticism/page-classifications.jsonl` |
-| Review queue rows | 451 | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
-| Page records | 617 | `work/page-records/norton-theory-criticism` |
-| Page-generation audit rows | 617 | `work/audit/norton-theory-criticism/page-record-generation.csv` |
-| Thinker drafts | 39 | `generated/authors/norton-theory-criticism` |
-| Thinker-assembly audit rows | 39 | `work/audit/norton-theory-criticism/author-assembly.csv` |
+| Layout records | 697 | `work/layout/norton-theory-criticism/layout.jsonl` |
+| Classification records | 697 | `work/classification/norton-theory-criticism/page-classifications.jsonl` |
+| Review queue rows | 513 | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
+| Page records | 697 | `work/page-records/norton-theory-criticism` |
+| Page-generation audit rows | 697 | `work/audit/norton-theory-criticism/page-record-generation.csv` |
+| Thinker drafts | 43 | `generated/authors/norton-theory-criticism` |
+| Thinker-assembly audit rows | 43 | `work/audit/norton-theory-criticism/author-assembly.csv` |
 
 ## Classified Range
 
 | Field | Value |
 | --- | --- |
-| Classified source pages | `71-687` |
-| Status page generated at | `2026-06-13T04:42:21Z` |
-| Git commit | `0e02b79` |
+| Classified source pages | `71-767` |
+| Status page generated at | `2026-06-13T04:47:45Z` |
+| Git commit | `1935a63` |
 | Script version | `1` |
 | Output path | `docs/_meta/extraction-status.md` |
 
@@ -97,28 +97,35 @@ This page is generated from audit artifacts. It intentionally contains metadata 
 | macrobius | 5 | 238-242 | ok | generated/authors/norton-theory-criticism/macrobius.md |
 | mary-wollstonecraft | 12 | 624-635 | ok | generated/authors/norton-theory-criticism/mary-wollstonecraft.md |
 | moses-maimonides | 15 | 253-267 | ok | generated/authors/norton-theory-criticism/moses-maimonides.md |
+| percy-bysshe-shelley | 21 | 738-758 | ok | generated/authors/norton-theory-criticism/percy-bysshe-shelley.md |
 | pierre-corneille | 16 | 405-420 | ok | generated/authors/norton-theory-criticism/pierre-corneille.md |
 | pierre-de-ronsard | 9 | 333-341 | ok | generated/authors/norton-theory-criticism/pierre-de-ronsard.md |
 | plato | 53 | 75-127 | ok | generated/authors/norton-theory-criticism/plato.md |
 | plotinus | 14 | 213-226 | ok | generated/authors/norton-theory-criticism/plotinus.md |
 | quintilian | 16 | 197-212 | ok | generated/authors/norton-theory-criticism/quintilian.md |
+| ralph-waldo-emerson | 9 | 759-767 | ok | generated/authors/norton-theory-criticism/ralph-waldo-emerson.md |
 | samuel-johnson | 25 | 500-524 | ok | generated/authors/norton-theory-criticism/samuel-johnson.md |
+| samuel-taylor-coleridge | 14 | 710-723 | ok | generated/authors/norton-theory-criticism/samuel-taylor-coleridge.md |
 | sir-philip-sidney | 40 | 365-404 | ok | generated/authors/norton-theory-criticism/sir-philip-sidney.md |
 | thomas-aquinas | 6 | 282-287 | ok | generated/authors/norton-theory-criticism/thomas-aquinas.md |
-| william-wordsworth | 1 | 687-687 | ok | generated/authors/norton-theory-criticism/william-wordsworth.md |
+| thomas-love-peacock | 14 | 724-737 | ok | generated/authors/norton-theory-criticism/thomas-love-peacock.md |
+| william-wordsworth | 23 | 687-709 | ok | generated/authors/norton-theory-criticism/william-wordsworth.md |
 
 ## Review Queue Summary
 
 | Review reason | Pages |
 | --- | ---: |
-| multi_column_layout | 271 |
-| source_notes_detected | 251 |
-| transition_from_previous_author | 106 |
-| layout_review_required | 22 |
-| author_boundary_without_life_dates | 14 |
+| multi_column_layout | 311 |
+| source_notes_detected | 281 |
+| transition_from_previous_author | 121 |
+| layout_review_required | 23 |
+| author_boundary_without_life_dates | 15 |
+| mixed_transition_page | 12 |
 | mixed_excerpt_and_bibliography | 9 |
+| mixed_work_transition_page | 2 |
 | ocr_title_cleanup | 2 |
 | transition_from_previous_work | 2 |
+| mixed_bibliography_and_work_title | 1 |
 
 ## Publication Boundary
 

@@ -1,10 +1,10 @@
-# Pierre de Ronsard
+# Thomas Love Peacock
 
 <div class="ah-note-meta">
   <span><strong>Type:</strong> thinker node</span>
   <span><strong>Status:</strong> generated private workspace note</span>
   <span><strong>Source mode:</strong> restricted metadata only</span>
-  <span><strong>Tags:</strong> craft, education, poetics, vernacular</span>
+  <span><strong>Tags:</strong> modernity, poetry, satire, utility</span>
 </div>
 
 <div class="ah-private-banner">
@@ -20,24 +20,26 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Text | Norton Pages | Review Rows | Passage Notes | Constellations | Register Status |
 | --- | --- | ---: | ---: | --- | --- |
-| [A Brief on the Art of French Poetry](../norton-texts/pierre-de-ronsard-art-french-poetry.md) | 333-341 | 5 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[vernacular-and-institution](../vernacular-and-institution.md) | `edition-review-needed` |
+| [The Four Ages of Poetry](../norton-texts/peacock-four-ages-poetry.md) | 724-737 | 14 | 0 | [poetry-and-judgment](../poetry-and-judgment.md)<br>[taste-and-standards](../taste-and-standards.md)<br>[romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md) | `edition-review-needed` |
 
 ## Works And Excerpt Blocks
 
-- A Brief on the Art of French Poetry
+- The Four Ages of Poetry
+- their gross matter she abstracts their forms
 
 ## Constellation Backlinks
 
 - [poetry-and-judgment](../poetry-and-judgment.md)
-- [vernacular-and-institution](../vernacular-and-institution.md)
+- [romantic-poetry-and-modernity](../romantic-poetry-and-modernity.md)
+- [taste-and-standards](../taste-and-standards.md)
 
 ## Review Pressure
 
 | Signal | Value |
 | --- | --- |
-| Page kinds | excerpt: 6<br>author_intro: 3 |
-| Review rows | 5 |
-| Review reasons | transition_from_previous_author: 3<br>multi_column_layout: 2<br>source_notes_detected: 2 |
+| Page kinds | excerpt: 11<br>author_intro: 3 |
+| Review rows | 14 |
+| Review reasons | multi_column_layout: 9<br>source_notes_detected: 8<br>mixed_transition_page: 3<br>transition_from_previous_author: 3 |
 
 ## Passage Queue
 
@@ -84,14 +86,14 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 
 | Field | Value |
 | --- | --- |
-| Thinker slug | `pierre-de-ronsard` |
+| Thinker slug | `thomas-love-peacock` |
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
 | Generated at | `2026-06-13T04:47:48Z` |
 | Git commit | `1935a63` |
 | Script version | `1` |
-| Output path | `docs/workspace/thinkers/pierre-de-ronsard.md` |
+| Output path | `docs/workspace/thinkers/thomas-love-peacock.md` |
 
 ## Open Questions
 

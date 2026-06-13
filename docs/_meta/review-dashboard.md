@@ -5,7 +5,7 @@ This is the editorial queue for restricted extraction work. It is generated from
 <div class="ah-metric-grid">
 <div class="ah-metric-card">
   <div class="ah-metric-label">Boundary Review</div>
-  <div class="ah-metric-value">122</div>
+  <div class="ah-metric-value">138</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Content Separation</div>
@@ -13,15 +13,15 @@ This is the editorial queue for restricted extraction work. It is generated from
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Layout Review</div>
-  <div class="ah-metric-value">261</div>
+  <div class="ah-metric-value">300</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">Source Notes</div>
-  <div class="ah-metric-value">59</div>
+  <div class="ah-metric-value">63</div>
 </div>
 <div class="ah-metric-card">
   <div class="ah-metric-label">General Review</div>
-  <div class="ah-metric-value">0</div>
+  <div class="ah-metric-value">3</div>
 </div>
 </div>
 
@@ -29,10 +29,10 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 <div class="ah-review-grid">
 <section class="ah-review-card warn">
-  <div class="ah-review-card-kicker">122 pages</div>
+  <div class="ah-review-card-kicker">138 pages</div>
   <h3>Boundary Review</h3>
   <p>Confirm thinker and work boundaries before assembling public-facing drafts.</p>
-  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +110 more</p>
+  <p><strong>Start:</strong> <code>136</code>, <code>159</code>, <code>160</code>, <code>163</code>, <code>164</code>, <code>165</code>, <code>166</code>, <code>177</code>, <code>178</code>, <code>179</code>, <code>180</code>, <code>189</code> +126 more</p>
 </section>
 <section class="ah-review-card warn">
   <div class="ah-review-card-kicker">9 pages</div>
@@ -41,16 +41,22 @@ This is the editorial queue for restricted extraction work. It is generated from
   <p><strong>Start:</strong> <code>72</code>, <code>199</code>, <code>285</code>, <code>297</code>, <code>344</code>, <code>368</code>, <code>443</code>, <code>469</code>, <code>655</code></p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">261 pages</div>
+  <div class="ah-review-card-kicker">300 pages</div>
   <h3>Layout Review</h3>
   <p>Confirm multi-column reading order before any summary or excerpt curation.</p>
-  <p><strong>Start:</strong> <code>73</code>, <code>79</code>, <code>80</code>, <code>82</code>, <code>83</code>, <code>84</code>, <code>86</code>, <code>90</code>, <code>91</code>, <code>92</code>, <code>93</code>, <code>94</code> +249 more</p>
+  <p><strong>Start:</strong> <code>73</code>, <code>79</code>, <code>80</code>, <code>82</code>, <code>83</code>, <code>84</code>, <code>86</code>, <code>90</code>, <code>91</code>, <code>92</code>, <code>93</code>, <code>94</code> +288 more</p>
 </section>
 <section class="ah-review-card neutral">
-  <div class="ah-review-card-kicker">59 pages</div>
+  <div class="ah-review-card-kicker">63 pages</div>
   <h3>Source Notes</h3>
   <p>Move source footnotes into Source Notes without converting them into Markdown footnotes.</p>
-  <p><strong>Start:</strong> <code>74</code>, <code>98</code>, <code>99</code>, <code>126</code>, <code>185</code>, <code>190</code>, <code>191</code>, <code>192</code>, <code>194</code>, <code>204</code>, <code>213</code>, <code>218</code> +47 more</p>
+  <p><strong>Start:</strong> <code>74</code>, <code>98</code>, <code>99</code>, <code>126</code>, <code>185</code>, <code>190</code>, <code>191</code>, <code>192</code>, <code>194</code>, <code>204</code>, <code>213</code>, <code>218</code> +51 more</p>
+</section>
+<section class="ah-review-card neutral">
+  <div class="ah-review-card-kicker">3 pages</div>
+  <h3>General Review</h3>
+  <p>Resolve remaining template or classification questions.</p>
+  <p><strong>Start:</strong> <code>690</code>, <code>766</code>, <code>767</code></p>
 </section>
 </div>
 
@@ -66,11 +72,11 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Field | Value |
 | --- | --- |
 | Source ID | `norton-theory-criticism` |
-| Classified source pages | `71-687` |
-| Review queue rows | `451` |
+| Classified source pages | `71-767` |
+| Review queue rows | `513` |
 | Review queue file | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
-| Generated at | `2026-06-13T04:42:22Z` |
-| Git commit | `0e02b79` |
+| Generated at | `2026-06-13T04:47:45Z` |
+| Git commit | `1935a63` |
 | Script version | `1` |
 | Output path | `docs/_meta/review-dashboard.md` |
 
@@ -78,14 +84,17 @@ This is the editorial queue for restricted extraction work. It is generated from
 
 | Reason | Pages |
 | --- | ---: |
-| multi_column_layout | 271 |
-| source_notes_detected | 251 |
-| transition_from_previous_author | 106 |
-| layout_review_required | 22 |
-| author_boundary_without_life_dates | 14 |
+| multi_column_layout | 311 |
+| source_notes_detected | 281 |
+| transition_from_previous_author | 121 |
+| layout_review_required | 23 |
+| author_boundary_without_life_dates | 15 |
+| mixed_transition_page | 12 |
 | mixed_excerpt_and_bibliography | 9 |
 | transition_from_previous_work | 2 |
 | ocr_title_cleanup | 2 |
+| mixed_work_transition_page | 2 |
+| mixed_bibliography_and_work_title | 1 |
 
 ## Thinkers Needing Review
 
@@ -97,12 +106,15 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Samuel Johnson | 21 |
 | Alexander Pope | 20 |
 | Longinus | 19 |
+| Percy Bysshe Shelley | 19 |
 | Moses Maimonides | 15 |
 | Giacopo Mazzoni | 15 |
 | Gotthold Ephraim Lessing | 15 |
 | Horace | 14 |
 | Immanuel Kant | 14 |
 | Friedrich Schleiermacher | 14 |
+| Thomas Love Peacock | 14 |
+| Samuel Taylor Coleridge | 13 |
 | Geoffrey of Vinsauf | 12 |
 | Joachim du Bellay | 11 |
 | Pierre Corneille | 11 |
@@ -118,6 +130,8 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Giovanni Boccaccio | 9 |
 | John Dryden | 9 |
 | Mary Wollstonecraft | 9 |
+| William Wordsworth | 9 |
+| Ralph Waldo Emerson | 8 |
 | Plotinus | 7 |
 | Giambattista Giraldi | 7 |
 | David Hume | 7 |
@@ -129,7 +143,6 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Macrobius | 4 |
 | Gorgias of Leontini | 3 |
 | Christine de Pizan | 3 |
-| William Wordsworth | 1 |
 
 ## Boundary Review
 
@@ -257,6 +270,22 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 671 | Georg Wilhelm Friedrich Hegel | Georg Wilhelm Friedrich Hegel | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0671.md |
 | 672 | Georg Wilhelm Friedrich Hegel |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0672.md |
 | 687 | William Wordsworth |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0687.md |
+| 710 | Samuel Taylor Coleridge |  | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0710.md |
+| 711 | Samuel Taylor Coleridge | Samuel Taylor Coleridge | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0711.md |
+| 712 | Samuel Taylor Coleridge |  | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0712.md |
+| 713 | Samuel Taylor Coleridge | Samuel Taylor Coleridge | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0713.md |
+| 714 | Samuel Taylor Coleridge |  | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0714.md |
+| 724 | Thomas Love Peacock | their gross matter she abstracts their forms | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0724.md |
+| 725 | Thomas Love Peacock |  | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0725.md |
+| 726 | Thomas Love Peacock |  | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0726.md |
+| 738 | Percy Bysshe Shelley |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0738.md |
+| 739 | Percy Bysshe Shelley |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0739.md |
+| 740 | Percy Bysshe Shelley |  | transition_from_previous_author | work/page-records/norton-theory-criticism/page_0740.md |
+| 753 | Percy Bysshe Shelley | A Defence of Poetry | author_boundary_without_life_dates;multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0753.md |
+| 759 | Ralph Waldo Emerson | Ralph Waldo Emerson | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0759.md |
+| 760 | Ralph Waldo Emerson |  | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0760.md |
+| 761 | Ralph Waldo Emerson |  | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0761.md |
+| 762 | Ralph Waldo Emerson |  | mixed_transition_page;transition_from_previous_author | work/page-records/norton-theory-criticism/page_0762.md |
 
 ## Content Separation
 
@@ -537,6 +566,45 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 651 | Germaine de Stael | On Literature Considered in Its Relationship to Social Institutions | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0651.md |
 | 656 | Friedrich Schleiermacher | Hermeneutics | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0656.md |
 | 666 | Friedrich Schleiermacher | Hermeneutics | multi_column_layout | work/page-records/norton-theory-criticism/page_0666.md |
+| 691 | William Wordsworth | Preface to Lyrical Ballads | multi_column_layout | work/page-records/norton-theory-criticism/page_0691.md |
+| 694 | William Wordsworth | Preface to Lyrical Ballads | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0694.md |
+| 696 | William Wordsworth | Preface to Lyrical Ballads | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0696.md |
+| 705 | William Wordsworth | Preface to Lyrical Ballads | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0705.md |
+| 706 | William Wordsworth | Preface to Lyrical Ballads | multi_column_layout | work/page-records/norton-theory-criticism/page_0706.md |
+| 709 | William Wordsworth | Preface to Lyrical Ballads | layout_review_required;multi_column_layout | work/page-records/norton-theory-criticism/page_0709.md |
+| 715 | Samuel Taylor Coleridge | The Statesman's Manual | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0715.md |
+| 716 | Samuel Taylor Coleridge | The Statesman's Manual | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0716.md |
+| 717 | Samuel Taylor Coleridge | The Statesman's Manual | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0717.md |
+| 718 | Samuel Taylor Coleridge | The Statesman's Manual | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0718.md |
+| 720 | Samuel Taylor Coleridge | Biographia Literaria | multi_column_layout | work/page-records/norton-theory-criticism/page_0720.md |
+| 721 | Samuel Taylor Coleridge | Biographia Literaria | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0721.md |
+| 722 | Samuel Taylor Coleridge | Biographia Literaria | multi_column_layout | work/page-records/norton-theory-criticism/page_0722.md |
+| 723 | Samuel Taylor Coleridge | Biographia Literaria | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0723.md |
+| 727 | Thomas Love Peacock | The Four Ages of Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0727.md |
+| 729 | Thomas Love Peacock | The Four Ages of Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0729.md |
+| 730 | Thomas Love Peacock | The Four Ages of Poetry | multi_column_layout | work/page-records/norton-theory-criticism/page_0730.md |
+| 731 | Thomas Love Peacock | The Four Ages of Poetry | multi_column_layout | work/page-records/norton-theory-criticism/page_0731.md |
+| 732 | Thomas Love Peacock | The Four Ages of Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0732.md |
+| 733 | Thomas Love Peacock | The Four Ages of Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0733.md |
+| 734 | Thomas Love Peacock | The Four Ages of Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0734.md |
+| 735 | Thomas Love Peacock | The Four Ages of Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0735.md |
+| 736 | Thomas Love Peacock | The Four Ages of Poetry | multi_column_layout | work/page-records/norton-theory-criticism/page_0736.md |
+| 741 | Percy Bysshe Shelley | A Defence of Poetry | multi_column_layout | work/page-records/norton-theory-criticism/page_0741.md |
+| 742 | Percy Bysshe Shelley | A Defence of Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0742.md |
+| 743 | Percy Bysshe Shelley | A Defence of Poetry | multi_column_layout | work/page-records/norton-theory-criticism/page_0743.md |
+| 744 | Percy Bysshe Shelley | A Defence of Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0744.md |
+| 745 | Percy Bysshe Shelley | A Defence of Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0745.md |
+| 746 | Percy Bysshe Shelley | A Defence of Poetry | multi_column_layout | work/page-records/norton-theory-criticism/page_0746.md |
+| 747 | Percy Bysshe Shelley | A Defence of Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0747.md |
+| 748 | Percy Bysshe Shelley | A Defence of Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0748.md |
+| 750 | Percy Bysshe Shelley | A Defence of Poetry | multi_column_layout | work/page-records/norton-theory-criticism/page_0750.md |
+| 751 | Percy Bysshe Shelley | A Defence of Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0751.md |
+| 752 | Percy Bysshe Shelley | A Defence of Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0752.md |
+| 754 | Percy Bysshe Shelley | A Defence of Poetry | multi_column_layout | work/page-records/norton-theory-criticism/page_0754.md |
+| 757 | Percy Bysshe Shelley | A Defence of Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0757.md |
+| 758 | Percy Bysshe Shelley | A Defence of Poetry | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0758.md |
+| 764 | Ralph Waldo Emerson | The American Scholar | multi_column_layout | work/page-records/norton-theory-criticism/page_0764.md |
+| 765 | Ralph Waldo Emerson | The American Scholar | multi_column_layout;source_notes_detected | work/page-records/norton-theory-criticism/page_0765.md |
 
 ## Source Notes
 
@@ -601,3 +669,15 @@ This is the editorial queue for restricted extraction work. It is generated from
 | 663 | Friedrich Schleiermacher | Hermeneutics | source_notes_detected | work/page-records/norton-theory-criticism/page_0663.md |
 | 664 | Friedrich Schleiermacher | Hermeneutics | source_notes_detected | work/page-records/norton-theory-criticism/page_0664.md |
 | 673 | Georg Wilhelm Friedrich Hegel | Phenomenology of Spirit | source_notes_detected | work/page-records/norton-theory-criticism/page_0673.md |
+| 698 | William Wordsworth | Preface to Lyrical Ballads | source_notes_detected | work/page-records/norton-theory-criticism/page_0698.md |
+| 728 | Thomas Love Peacock | The Four Ages of Poetry | source_notes_detected | work/page-records/norton-theory-criticism/page_0728.md |
+| 737 | Thomas Love Peacock | The Four Ages of Poetry | source_notes_detected | work/page-records/norton-theory-criticism/page_0737.md |
+| 749 | Percy Bysshe Shelley | A Defence of Poetry | source_notes_detected | work/page-records/norton-theory-criticism/page_0749.md |
+
+## General Review
+
+| Page | Thinker | Work | Reasons | Restricted page record |
+| ---: | --- | --- | --- | --- |
+| 690 | William Wordsworth | Preface to Lyrical Ballads | mixed_bibliography_and_work_title | work/page-records/norton-theory-criticism/page_0690.md |
+| 766 | Ralph Waldo Emerson | The Poet | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0766.md |
+| 767 | Ralph Waldo Emerson | The Poet | mixed_work_transition_page | work/page-records/norton-theory-criticism/page_0767.md |
