@@ -75,8 +75,8 @@ This is the editorial queue for restricted extraction work. It is generated from
 | Classified source pages | `1-2668` |
 | Review queue rows | `2433` |
 | Review queue file | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
-| Generated at | `2026-06-13T07:27:56Z` |
-| Git commit | `100eb5b` |
+| Generated at | `2026-06-13T16:48:22Z` |
+| Git commit | `493d797` |
 | Script version | `1` |
 | Output path | `docs/_meta/review-dashboard.md` |
 

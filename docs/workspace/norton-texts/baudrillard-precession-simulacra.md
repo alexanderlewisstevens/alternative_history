@@ -93,8 +93,8 @@ This note turns the current Norton chunk for Jean Baudrillard into a navigable w
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/jean-baudrillard.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T07:28:06Z` |
-| Git commit | `100eb5b` |
+| Generated at | `2026-06-13T16:48:40Z` |
+| Git commit | `493d797` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/baudrillard-precession-simulacra.md` |
 

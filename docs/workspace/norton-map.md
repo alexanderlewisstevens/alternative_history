@@ -211,8 +211,8 @@ This page is generated from local extraction metadata. It is a private map for s
 | Review queue | `work/review/norton-theory-criticism/page-records-needing-review.csv` |
 | Author assembly audit | `work/audit/norton-theory-criticism/author-assembly.csv` |
 | Source register | `data/source-register.yml` |
-| Generated at | `2026-06-13T07:28:03Z` |
-| Git commit | `100eb5b` |
+| Generated at | `2026-06-13T16:48:36Z` |
+| Git commit | `493d797` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-map.md` |
 

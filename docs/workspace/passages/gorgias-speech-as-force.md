@@ -86,7 +86,7 @@ This is the first anchor for the project because it makes interpretation histori
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T07:27:57Z` |
-| Git commit | `100eb5b` |
+| Generated at | `2026-06-13T16:48:24Z` |
+| Git commit | `493d797` |
 | Script version | `1` |
 | Output path | `docs/workspace/passages/gorgias-speech-as-force.md` |

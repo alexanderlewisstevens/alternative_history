@@ -27,6 +27,7 @@ nav:
   - Workspace:
       - Private Knowledge Base: workspace/index.md
       - Workspace Search: workspace/search.md
+      - Reading Paths: workspace/reading-paths.md
       - Norton Workspace Map: workspace/norton-map.md
       - Norton Text Notes:
           - Index: workspace/norton-texts/index.md

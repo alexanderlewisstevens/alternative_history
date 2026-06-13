@@ -91,8 +91,8 @@ This note turns the current Norton chunk for William K. Wimsatt Jr. and Monroe C
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/william-k-wimsatt-jr-and-monroe-c-beardsley.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T07:28:06Z` |
-| Git commit | `100eb5b` |
+| Generated at | `2026-06-13T16:48:40Z` |
+| Git commit | `493d797` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/wimsatt-beardsley-affective-fallacy.md` |
 

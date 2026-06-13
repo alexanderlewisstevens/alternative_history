@@ -32,6 +32,11 @@ DEFAULT_CHECKS = [
         "text": "Workspace Search",
     },
     {
+        "path": "/workspace/reading-paths/",
+        "title": "Reading Paths",
+        "text": "Focus Lanes",
+    },
+    {
         "path": "/workspace/norton-texts/",
         "title": "",
         "text": "Norton Text Notes",

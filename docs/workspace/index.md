@@ -45,6 +45,12 @@ The page should not feel like a static encyclopedia entry. It should feel like a
     <p><a href="norton-map/">Open the map</a></p>
   </section>
   <section class="ah-note-panel">
+    <span class="ah-action-kicker">Reading Paths</span>
+    <h3>Choose A Route</h3>
+    <p>Generated focus lanes for civic life, education, work, interpretation, and aesthetic judgment.</p>
+    <p><a href="reading-paths/">Open reading paths</a></p>
+  </section>
+  <section class="ah-note-panel">
     <span class="ah-action-kicker">Text Nodes</span>
     <h3>Norton Text Notes</h3>
     <p>Generated private notes for each curated Norton chunk, with page ranges, review pressure, and backlinks.</p>
