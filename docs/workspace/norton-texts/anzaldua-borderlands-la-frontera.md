@@ -92,8 +92,8 @@ This note turns the current Norton chunk for Gloria Anzaldua into a navigable wo
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/gloria-anzaldua.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T07:25:11Z` |
-| Git commit | `0a93b4d` |
+| Generated at | `2026-06-13T07:28:07Z` |
+| Git commit | `100eb5b` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/anzaldua-borderlands-la-frontera.md` |
 

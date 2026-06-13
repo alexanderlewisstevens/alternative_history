@@ -210,7 +210,7 @@ This index is generated from curated source metadata and local extraction audit 
 | Source rights status | `copyrighted` |
 | Source register | `data/source-register.yml` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T07:25:13Z` |
-| Git commit | `0a93b4d` |
+| Generated at | `2026-06-13T07:28:08Z` |
+| Git commit | `100eb5b` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/index.md` |

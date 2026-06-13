@@ -93,8 +93,8 @@ This note turns the current Norton chunk for Chinua Achebe into a navigable work
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/chinua-achebe.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T07:25:11Z` |
-| Git commit | `0a93b4d` |
+| Generated at | `2026-06-13T07:28:06Z` |
+| Git commit | `100eb5b` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/achebe-image-of-africa.md` |
 

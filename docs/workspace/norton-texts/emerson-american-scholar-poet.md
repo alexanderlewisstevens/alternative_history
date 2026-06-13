@@ -96,8 +96,8 @@ This note turns the current Norton chunk for Ralph Waldo Emerson into a navigabl
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/ralph-waldo-emerson.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T07:25:09Z` |
-| Git commit | `0a93b4d` |
+| Generated at | `2026-06-13T07:28:05Z` |
+| Git commit | `100eb5b` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/emerson-american-scholar-poet.md` |
 

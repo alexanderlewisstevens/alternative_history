@@ -89,8 +89,8 @@ Use this note as the thinker-level hub between Norton text nodes, constellations
 | Source ID | `norton-theory-criticism` |
 | Source title | The Norton Anthology of Theory and Criticism |
 | Source rights status | `copyrighted` |
-| Generated at | `2026-06-13T07:25:03Z` |
-| Git commit | `0a93b4d` |
+| Generated at | `2026-06-13T07:27:58Z` |
+| Git commit | `100eb5b` |
 | Script version | `1` |
 | Output path | `docs/workspace/thinkers/gerald-graff.md` |
 

@@ -94,8 +94,8 @@ This note turns the current Norton chunk for Percy Bysshe Shelley into a navigab
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/percy-bysshe-shelley.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T07:25:09Z` |
-| Git commit | `0a93b4d` |
+| Generated at | `2026-06-13T07:28:05Z` |
+| Git commit | `100eb5b` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/shelley-defence-poetry.md` |
 

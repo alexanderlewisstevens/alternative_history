@@ -89,8 +89,8 @@ This note turns the current Norton chunk for Geoffrey of Vinsauf into a navigabl
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/geoffrey-of-vinsauf.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T07:25:09Z` |
-| Git commit | `0a93b4d` |
+| Generated at | `2026-06-13T07:28:04Z` |
+| Git commit | `100eb5b` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/geoffrey-poetria-nova.md` |
 

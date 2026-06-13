@@ -93,8 +93,8 @@ This note turns the current Norton chunk for Lennard J. Davis into a navigable w
 | Source rights status | `copyrighted` |
 | Restricted draft | `generated/authors/norton-theory-criticism/lennard-j-davis.md` |
 | Workspace map | [Norton Workspace Map](../norton-map.md) |
-| Generated at | `2026-06-13T07:25:12Z` |
-| Git commit | `0a93b4d` |
+| Generated at | `2026-06-13T07:28:07Z` |
+| Git commit | `100eb5b` |
 | Script version | `3` |
 | Output path | `docs/workspace/norton-texts/davis-enforcing-normalcy.md` |
 

@@ -21,6 +21,14 @@ The workspace should make it easy to move through the project in several directi
 
 The page should not feel like a static encyclopedia entry. It should feel like a working surface.
 
+## Straightforward Use Loop
+
+1. Search for a thinker, text, theme, or question.
+2. Open the relevant text note and check its source status, page range, and review pressure.
+3. Follow backlinks into constellations to see which other texts are already in conversation with it.
+4. Write or refine passage notes for the claims, tensions, and examples that matter.
+5. Use the Norton map and review dashboard when a boundary, layout, note, or bibliography signal looks unstable.
+
 ## Core Page Types
 
 <div class="ah-note-grid">

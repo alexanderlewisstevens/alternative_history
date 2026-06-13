@@ -25,7 +25,8 @@ from lib.extraction_common import (
 )
 
 
-SCRIPT_VERSION = "2"
+SCRIPT_VERSION = "3"
+EXCLUDED_AUTHOR_PAGE_KINDS = {"blank", "front_matter", "table_of_contents", "index_appendix"}
 
 
 def read_csv_rows(path: Path) -> list[dict[str, str]]:
@@ -59,6 +60,24 @@ def source_page_range(classification_records: list[dict[str, Any]]) -> str:
     if not pages:
         return "none"
     return f"{pages[0]}-{pages[-1]}"
+
+
+def include_in_author_map_record(record: dict[str, Any]) -> bool:
+    classification = record.get("classification", {})
+    if classification.get("include_in_author_assembly") is False:
+        return False
+    if classification.get("page_kind") in EXCLUDED_AUTHOR_PAGE_KINDS:
+        return False
+    return True
+
+
+def include_in_author_map_review(row: dict[str, str], included_pages: set[str]) -> bool:
+    page_number = row.get("page_number", "")
+    if included_pages and page_number not in included_pages:
+        return False
+    if row.get("page_kind") in EXCLUDED_AUTHOR_PAGE_KINDS:
+        return False
+    return True
 
 
 def split_reasons(value: str) -> list[str]:
@@ -429,12 +448,15 @@ def build_markdown(source: dict[str, Any], source_register: dict[str, Any], outp
     classification_records = read_jsonl(paths["classification_dir"] / "page-classifications.jsonl")
     author_assembly = read_csv_rows(paths["audit_dir"] / "author-assembly.csv")
     review_rows = read_csv_rows(paths["review_dir"] / "page-records-needing-review.csv")
+    author_map_records = [record for record in classification_records if include_in_author_map_record(record)]
+    included_pages = {str(record.get("page_number", "")) for record in author_map_records if record.get("page_number")}
+    author_review_rows = [row for row in review_rows if include_in_author_map_review(row, included_pages)]
     curated_texts = source_register.get("curated_texts", [])
     constellations = source_register.get("constellations", [])
-    names = author_display_names(classification_records, review_rows)
-    works = works_by_author(classification_records, curated_texts, names)
-    page_kinds = page_kinds_by_author(classification_records)
-    review_counts = review_counts_by_author(review_rows)
+    names = author_display_names(author_map_records, author_review_rows)
+    works = works_by_author(author_map_records, curated_texts, names)
+    page_kinds = page_kinds_by_author(author_map_records)
+    review_counts = review_counts_by_author(author_review_rows)
     touched_constellations = {
         constellation_id
         for row in author_assembly
@@ -458,7 +480,7 @@ This page is generated from local extraction metadata. It is a private map for s
 {metric_cards([
     ("Source Pages", source_page_range(classification_records)),
     ("Thinker Drafts", len(author_assembly)),
-    ("Review Rows", len(review_rows)),
+    ("Author Review Rows", len(author_review_rows)),
     ("Constellations Touched", len(touched_constellations)),
 ])}
 </div>

@@ -4527,6 +4527,7 @@ overrides:
     page_kind: index_appendix
     starts_new_author: false
     continues_previous_author: false
+    include_in_author_assembly: false
     confidence: high
     review_required: true
     review_reasons:
@@ -4539,6 +4540,7 @@ overrides:
     page_kind: index_appendix
     starts_new_author: false
     continues_previous_author: false
+    include_in_author_assembly: false
     confidence: high
     review_required: true
     review_reasons:
